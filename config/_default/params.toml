@@ -37,7 +37,7 @@ schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/Protein_Report"
 schemaLinkedIn = ""
 schemaGitHub = "https://github.com/proteinreport/proteinreport.org"
-schemaSection = "blog"
+schemaSection = "articles"
 
 ## Sitelinks Search Box
 siteLinksSearchBox = false
@@ -66,6 +66,7 @@ fillImage = "1270x740 Center" # normalize image size
 
 # Footer
 #footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a #class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" #href=\"https://proteinreport.org/\">Protein Report</a>"
+footer = "Copyright &copy; 2018-2022 Protein Report"
 
 # Feed
 copyRight = "Copyright (c) 2018-2022 Protein Report"
