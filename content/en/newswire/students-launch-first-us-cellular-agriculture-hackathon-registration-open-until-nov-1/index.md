@@ -11,7 +11,7 @@ topics: [Business]
 regions: [US &amp; Canada]
 flags: [Press Release]
 directory: [New Harvest, Good Food Institute, Perfect Day Foods, Wildtype, TurtleTree Labs, Cultured Decadence]
-company: "<a href=\"https://www.cultivate-tmrw.com/\">Cultivate Tomorrow</a>"
+company: "<a href=\"/directory/cultivate-tomorrow\" hreflang=\"en\">Cultivate Tomorrow</a>"
 images: ["ct_0.jpg"]
 additional_images: []
 draft: false

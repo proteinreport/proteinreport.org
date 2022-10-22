@@ -11,7 +11,7 @@ topics: [Business, Sci-Tech]
 regions: [US &amp; Canada]
 flags: [Press Release]
 directory: [New Harvest, Perfect Day Foods, Wildtype, TurtleTree Labs, The Every Company, Higher Steaks, Mission Barns, Biomilq, Ginkgo Bioworks]
-company: "<a href=\"https://www.cultivate-tmrw.com/\">Cultivate Tomorrow</a>"
+company: "<a href=\"/directory/cultivate-tomorrow\" hreflang=\"en\">Cultivate Tomorrow</a>"
 images: ["ct.png"]
 additional_images: [https://www.proteinreport.org/sites/default/files/2022-01/2_0.png]
 draft: false
