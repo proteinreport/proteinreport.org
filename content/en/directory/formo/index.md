@@ -1,0 +1,21 @@
+---
+title: "Formo"
+date: 2020-01-15 16:05:20
+lastmod: 2020-01-15 16:05:20
+slug: /formo
+description: "Formo is aiming to give people dairy milk without the destructive environmental and ethical consequences. Through a fermentation process, Formo transforms microorganisms and sugar into milk protein and then on to dairy products. Dairy milk without cows."
+proteins: [Microbial]
+products: [Dairy]
+business: [Production]
+finance_type: []
+regions: [Europe]
+location: [<p class="address" translate="no"><span class="address-line1">Rosenthaler Straße</span><br>
+<span class="postal-code">10119</span> <span class="locality">Berlin</span><br>
+<span class="country">Germany</span></p>]
+images: ["FORMO-LOGO-SPARK-MILK-1.png"]
+draft: false
+pinned: false
+homepage: false
+weight: 5000
+---
+<p>Formo is aiming to give people dairy milk without the destructive environmental and ethical consequences. Through a fermentation process, Formo transforms microorganisms and sugar into milk protein and then on to dairy products. Dairy milk without cows.</p>

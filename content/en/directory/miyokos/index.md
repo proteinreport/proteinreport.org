@@ -1,0 +1,21 @@
+---
+title: "Miyoko's"
+date: 2020-01-13 20:30:10
+lastmod: 2020-01-13 20:30:10
+slug: /miyokos
+description: "Miyoko’s is revolutionizing the dairy industry by combining proprietary technology with age-old creamery methods to craft cheese and butter from plants."
+proteins: [Plant-Based]
+products: [Dairy]
+business: [Production]
+finance_type: []
+regions: [US &amp; Canada]
+location: [<p class="address" translate="no"><span class="address-line1">Marina Avenue</span><br>
+<span class="locality">Petaluma</span>, <span class="postal-code">94954</span><br>
+<span class="country">United States</span></p>]
+images: ["miyokos_creamery_360x_logo.png"]
+draft: false
+pinned: false
+homepage: false
+weight: 5000
+---
+<p>Miyoko’s is revolutionizing the dairy industry by combining proprietary technology with age-old creamery methods to craft cheese and butter from plants.</p>

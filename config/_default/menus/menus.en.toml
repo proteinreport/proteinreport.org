@@ -50,8 +50,13 @@
   weight = 25
 
 [[main]]
-  name = "Get Started"
+  name = "Directory"
+  url = "/directory/"
   weight = 30
+
+[[main]]
+  name = "Get Started"
+  weight = 35
   identifier = "get-started"
   url = "/docs/prologue/introduction/"
 
