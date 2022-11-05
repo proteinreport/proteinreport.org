@@ -55,21 +55,36 @@
   weight = 30
 
 [[main]]
-  name = "Get Started"
+  name = "Events"
+  url = "/events/"
   weight = 35
+
+[[main]]
+  name = "Jobs"
+  url = "/jobs/"
+  weight = 40
+
+[[main]]
+  name = "Research"
+  url = "/research/"
+  weight = 45
+
+[[main]]
+  name = "Get Started"
+  weight = 60
   identifier = "get-started"
   url = "/docs/prologue/introduction/"
 
 [[main]]
   name = "Quick Start"
-  weight = 40
+  weight = 70
   identifier = "quick-start"
   url = "/docs/prologue/quick-start/"
   parent = "get-started"
 
 [[main]]
   name = "Tutorial"
-  weight = 50
+  weight = 80
   identifier = "tutorial"
   url = "https://getdoks.org/tutorial/introduction/"
   parent = "get-started"
