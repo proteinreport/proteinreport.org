@@ -83,12 +83,3 @@ for (row in 1:nrow(import_data)) {
   write("---", file_path, append = T)
   write(content, file_path, append = T)
 }
-
-
-#%>%
-# make image array by adding [] to image column
-#mutate(image = paste("[", image, "]", sep = ""))
-
-# replace all double spaces with single space
-#import_data$description <- str_replace_all(import_data$description, "  ", " ")
-#import_data$body <- str_replace_all(import_data$body, "  ", " ")
