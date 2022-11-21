@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://proteinreport.netlify.app"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
