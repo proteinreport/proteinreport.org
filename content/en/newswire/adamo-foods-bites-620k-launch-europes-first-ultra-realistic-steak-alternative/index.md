@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Adamo Foods]
 company: "<a href=\"/directory/adamo-foods\" hreflang=\"en\">Adamo Foods</a>"
 images: ["factory-g4edad8858_1920.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

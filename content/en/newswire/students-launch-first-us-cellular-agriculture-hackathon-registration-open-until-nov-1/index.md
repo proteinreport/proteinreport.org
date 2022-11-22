@@ -8,12 +8,12 @@ excerpt: "Students from MIT, UC Davis, Stanford, Harvard, UC Berkeley, Northwest
 proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [New Harvest, Good Food Institute, Perfect Day Foods, Wildtype, TurtleTree Labs, Cultured Decadence]
 company: "<a href=\"/directory/cultivate-tomorrow\" hreflang=\"en\">Cultivate Tomorrow</a>"
 images: ["ct_0.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

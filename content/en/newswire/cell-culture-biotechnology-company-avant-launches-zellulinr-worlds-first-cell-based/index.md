@@ -13,7 +13,7 @@ flags: [Press Release, New Products]
 directory: [Avant Meats]
 company: "<a href=\"/directory/avant-meats\" hreflang=\"en\">Avant Meats</a>"
 images: ["ZELLULIN ANTI-OXIDATION 01_s.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-02/more%20than%20collagen.png, https://www.proteinreport.org/sites/default/files/2021-02/more%20than%20collagen2.png]
+additional_images: ["more than collagen.png", "more than collagen2.png"]
 draft: false
 pinned: false
 homepage: false

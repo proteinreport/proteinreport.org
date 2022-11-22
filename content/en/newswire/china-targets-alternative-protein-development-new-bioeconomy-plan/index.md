@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Lever VC]
 company: "<a href=\"/directory/lever-vc\" hreflang=\"en\">Lever VC</a>"
 images: ["Lever-China-full-logo.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Modern Agriculture Foundation]
 company: "<a href=\"/directory/modern-agriculture-foundation\" hreflang=\"en\">Modern Agriculture Foundation</a>"
 images: ["20220720_2006411.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-07/20220721_0034571.jpg, https://www.proteinreport.org/sites/default/files/2022-07/20220720_2041311.jpg, https://www.proteinreport.org/sites/default/files/2022-07/20220720_1939591.jpg, https://www.proteinreport.org/sites/default/files/2022-07/20220721_002859.jpg, https://www.proteinreport.org/sites/default/files/2022-07/IMG-20220720-WA0025.jpg, https://www.proteinreport.org/sites/default/files/2022-07/IMG-20220720-WA0057.jpg]
+additional_images: ["20220721_0034571.jpg", "20220720_2041311.jpg", "20220720_1939591.jpg", "20220721_002859.jpg", "IMG-20220720-WA0025.jpg", "IMG-20220720-WA0057.jpg"]
 draft: false
 pinned: false
 homepage: false

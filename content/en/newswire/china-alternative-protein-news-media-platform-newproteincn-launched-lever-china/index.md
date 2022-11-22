@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Lever VC, Avant Meats, CellX, Herotein, Haofood]
 company: "<a href=\"/directory/lever-vc\" hreflang=\"en\">Lever VC</a>"
 images: ["Lever-China-full-logo.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -27,4 +27,4 @@ weight: 50
 <p>For more information, please visit：<a href="http://www.NewProtein.cn">www.NewProtein.cn</a></p>
 <p>WeChat Official Account：力矩Lever　</p>
 <p><strong>About Lever China</strong></p>
-<p>Lever China is a Shanghai-based consultancy that focuses on early-stage investment and consultancy services in the new protein industry, covering plant-based, cultivated and fermented animal proteins. Lever China was awarded as a winner of the Top 20 Innovation Fund Award and the 2020 International Future Agri-Food Top 100, and highlighted as one of the top 7 Chinese Food &amp; CPG Investment Institutions to watch by FoodPlusHub, for its work and investments in the alternative protein sector in China. Lever China aims to advance innovation in the alternative protein industry in China by supporting startups, investors and food companies.</p>
+<p>Lever China is a Shanghai-based consultancy that focuses on early-stage investment and consultancy services in the new protein industry, covering plant-based, cultivated and fermented animal proteins. Lever China was awarded as a winner of the Top 20 Innovation Fund Award and the 2020 International Future Agri-Food Top 100, and highlighted as one of the top 7 Chinese Food & CPG Investment Institutions to watch by FoodPlusHub, for its work and investments in the alternative protein sector in China. Lever China aims to advance innovation in the alternative protein industry in China by supporting startups, investors and food companies.</p>

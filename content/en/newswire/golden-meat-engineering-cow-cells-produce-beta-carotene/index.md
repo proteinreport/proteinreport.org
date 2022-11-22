@@ -8,12 +8,12 @@ excerpt: "Scientists prove cell-cultured meat products can offer enhanced nutrit
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Featured, Press Release]
 directory: [New Harvest]
 company: "<a href=\"/directory/new-harvest\" hreflang=\"en\">New Harvest</a>"
 images: ["Andrew_headshot.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2020-10/Andrew%20presenting%20his%20research%20at%20the%202019%20international%20cultured%20meat%20symposium%20in%20Maastrichtt.jpg, https://www.proteinreport.org/sites/default/files/2020-10/Tufts%20Cows.JPG, https://www.proteinreport.org/sites/default/files/2020-10/Figure%205.png, https://www.proteinreport.org/sites/default/files/2020-10/Andrew-stout-nutritional-engineering-cultured-meat.jpg]
+additional_images: ["Andrew presenting his research at the 2019 international cultured meat symposium in Maastrichtt.jpg", "Tufts Cows.JPG", "Figure 5.png", "Andrew-stout-nutritional-engineering-cultured-meat.jpg"]
 draft: false
 pinned: false
 homepage: false

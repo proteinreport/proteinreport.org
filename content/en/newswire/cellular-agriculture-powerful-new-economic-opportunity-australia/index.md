@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Vow, Heuros, Cellular Agriculture Australia, Blackbird Ventures, Change Foods, Nourish Ingredients, Magic Valley]
 company: "<a href=\"/directory/cellular-agriculture-australia\" hreflang=\"en\">Cellular Agriculture Australia</a>"
 images: ["CAA White Paper_0.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

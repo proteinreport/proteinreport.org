@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Blue Horizon Ventures]
 company: "<a href=\"https://www.chromologics.com/\">Chromologics</a>"
 images: ["Fungal coloni_Chromologics.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-06/Team%20in%20lab_2_Chromologics.jpg, https://www.proteinreport.org/sites/default/files/2021-06/Chromologics_ColorProduction__01.png]
+additional_images: ["Team in lab_2_Chromologics.jpg", "Chromologics_ColorProduction__01.png"]
 draft: false
 pinned: false
 homepage: false

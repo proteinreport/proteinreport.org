@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Big Idea Ventures, Cocuus System Iberica, Innomy, Eatable Adventures]
 company: "<a href=\"/directory/cocuus-system-iberica\" hreflang=\"en\">Cocuus System Iberica</a>"
 images: ["Team.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-06/Salmon.jpg, https://www.proteinreport.org/sites/default/files/2022-06/Bacon2.jpg, https://www.proteinreport.org/sites/default/files/2022-06/Meat.jpeg]
+additional_images: ["Salmon.jpg", "Bacon2.jpg", "Meat.jpeg"]
 draft: false
 pinned: false
 homepage: false

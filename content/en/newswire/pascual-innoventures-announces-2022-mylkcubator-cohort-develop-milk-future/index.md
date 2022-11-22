@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [De Novo Dairy, Eatable Adventures, Nutropy]
 company: "<a href=\"/directory/eatable-adventures\" hreflang=\"en\">Eatable Adventures</a>"
 images: ["Mylkcubator 2.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

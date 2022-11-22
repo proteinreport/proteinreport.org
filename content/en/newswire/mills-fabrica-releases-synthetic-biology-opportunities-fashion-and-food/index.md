@@ -10,10 +10,10 @@ products: [Meat, Dairy, Ingredients, Materials]
 topics: [Business]
 regions: [International]
 flags: [Press Release]
-directory: []
+directory: [NA]
 company: "<a href=\"https://www.themillsfabrica.com/\">The Mills Fabrica</a>"
 images: ["cover design.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -27,7 +27,7 @@ weight: 50
 <li><strong>Innovation trends in fashion and food </strong><a>–</a> explores innovation trends within the fashion and food industries, discussing how industry issues are addressed in the following categories:
 <ul>
 <li>Fashion - new materials, textile processing</li>
-<li>Food - agriculture, food additives &amp; ingredients, alternative proteins</li>
+<li>Food - agriculture, food additives & ingredients, alternative proteins</li>
 </ul>
 </li>
 <li><strong>Building impactful collaborations </strong>– illustrates the key steps involved when forming corporate-startup collaborations, highlighting the synergies and values brought about via corporate-startup collaborations</li>

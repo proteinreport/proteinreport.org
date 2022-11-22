@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Beyond Meat, Impossible Foods, This, Lever VC, Tiba Tempeh]
 company: "<a href=\"/directory/tiba-tempeh\" hreflang=\"en\">Tiba Tempeh</a>"
 images: ["Tiba Tempeh Range.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-01/Tiba%20Tempeh%20BBQ%20Burgers.jpg, https://www.proteinreport.org/sites/default/files/2022-01/Tiba%20Tempeh%20Soy-Marinated%20Pieces%20Stir-Fry.jpg, https://www.proteinreport.org/sites/default/files/2022-01/Tiba%20Tempeh%20Sweet%20Chilli%20Pieces.jpg]
+additional_images: ["Tiba Tempeh BBQ Burgers.jpg", "Tiba Tempeh Soy-Marinated Pieces Stir-Fry.jpg", "Tiba Tempeh Sweet Chilli Pieces.jpg"]
 draft: false
 pinned: false
 homepage: false

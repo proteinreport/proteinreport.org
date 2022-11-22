@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Good Food Institute, Cellular Agriculture Australia]
 company: "<a href=\"/directory/cellular-agriculture-australia\" hreflang=\"en\">Cellular Agriculture Australia</a>"
 images: ["Screen Shot 2022-08-01 at 11.47.05 am.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

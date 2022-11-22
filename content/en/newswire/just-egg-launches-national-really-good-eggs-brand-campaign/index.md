@@ -8,12 +8,12 @@ excerpt: "Eat Just, Inc., a company that applies cutting-edge science and techno
 proteins: [Plant-Based]
 products: [Eggs]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Eat Just]
 company: "<a href=\"/directory/eat-just\" hreflang=\"en\">Eat Just</a>"
 images: ["268961.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

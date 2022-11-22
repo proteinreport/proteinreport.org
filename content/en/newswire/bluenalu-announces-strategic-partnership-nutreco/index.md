@@ -3,21 +3,17 @@ title: "BlueNalu Announces Strategic Partnership with Nutreco"
 date: 2020-01-16 16:15:29
 lastmod: 2020-01-16 16:15:29
 slug: /bluenalu-announces-strategic-partnership-nutreco
-description: "Collaboration accelerates plans to commercialize cellular aquaculture globally 
-
-San Diego, Calif. (January 16, 2020) – BlueNalu, a leading innovative food company developing seafood products directly from fish cells, today announced a strategic partnership with Nutreco, a global leader in animal nutrition and aquafeed. Nutreco’s aquafeed company, Skretting, is a world leader in the manufacture and supply of aquaculture feeds and an important link in the feed-to-food chain. "
-excerpt: "Collaboration accelerates plans to commercialize cellular aquaculture globally 
-
-San Diego, Calif. (January 16, 2020) – BlueNalu, a leading innovative food company developing seafood products directly from fish cells, today announced a strategic partnership with Nutreco, a global leader in animal nutrition and aquafeed. Nutreco’s aquafeed company, Skretting, is a world leader in the manufacture and supply of aquaculture feeds and an important link in the feed-to-food chain. "
+description: "Collaboration accelerates plans to commercialize cellular aquaculture globally San Diego, Calif. (January 16, 2020) – BlueNalu, a leading innovative food company developing seafood products directly from fish cells, today announced a strategic partnership with Nutreco, a global leader in animal nutrition and aquafeed. Nutreco’s aquafeed company, Skretting, is a world leader in the manufacture and supply of aquaculture feeds and an important link in the feed-to-food chain. "
+excerpt: "Collaboration accelerates plans to commercialize cellular aquaculture globally San Diego, Calif. (January 16, 2020) – BlueNalu, a leading innovative food company developing seafood products directly from fish cells, today announced a strategic partnership with Nutreco, a global leader in animal nutrition and aquafeed. Nutreco’s aquafeed company, Skretting, is a world leader in the manufacture and supply of aquaculture feeds and an important link in the feed-to-food chain. "
 proteins: [Cell-Based]
 products: [Seafood]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [BlueNalu]
 company: "<a href=\"/directory/bluenalu\" hreflang=\"en\">BlueNalu</a>"
 images: ["iStock-534127796_super.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -29,7 +25,7 @@ weight: 50
 
 <p>The two companies have formalized a partnership agreement, that builds upon BlueNalu’s platform technology for production of cell-based seafood products from a wide variety of species.  This is intended to create a more stable and sustainable supply-chain solution as the global demand for seafood is continually increasing. Nutreco brings a breadth of knowledge and deep expertise to the partnership, including fish nutrition, raw materials expertise and ingredient procurement at competitive costs. Both companies’ technologies are well aligned to advance sustainable solutions to feed the world.  </p>
 
-<p>Lou Cooperhouse, President <span class="amp">&amp;</span> CEO of BlueNalu, said, “The partnership with Nutreco is another significant milestone for BlueNalu, which will enable our team to accelerate our journey toward commercialization, while also securing a global supply chain partner.  We expect this will provide significant value to our company, as it is our objective to introduce our seafood products in a test market during the next two years, and launch our products in several global markets by the end of this decade.” </p>
+<p>Lou Cooperhouse, President <span class="amp">&</span> CEO of BlueNalu, said, “The partnership with Nutreco is another significant milestone for BlueNalu, which will enable our team to accelerate our journey toward commercialization, while also securing a global supply chain partner.  We expect this will provide significant value to our company, as it is our objective to introduce our seafood products in a test market during the next two years, and launch our products in several global markets by the end of this decade.” </p>
 
 <p>The demand for protein, including seafood, will increase as the global population is expected to rise to almost 10 billion by 2050. Innovations and technologies, such as cell-based seafood, may be required to help to meet this demand in a sustainable manner. BlueNalu offers a third option that complements wild-caught and farm-raised seafood that benefits human health, encourages responsible food consumption and promotes food security.</p>
 

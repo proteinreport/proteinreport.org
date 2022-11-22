@@ -8,12 +8,12 @@ excerpt: "Newlab, the center for applied innovation bringing together experts, i
 proteins: [Cell-Based, Microbial, Molecular Farming]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [New Harvest, Future Fields, Ginkgo Bioworks, Cult Food Science, Newlab]
 company: "<a href=\"/directory/newlab\" hreflang=\"en\">Newlab</a>"
 images: ["cellagnh.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -54,7 +54,7 @@ weight: 50
 <p>Over the past month, we’ve explored where B2B businesses will be most impactful in reducing today’s cost of beef per kilo, from <a href="https://cedelft.eu/publications/tea-of-cultivated-meat/">~$22,000/kg</a> down to something cost competitive. We believe there are four key focus areas:</p>
 
 <ol>
-	<li><strong>Optimizing bioprocessing <span class="amp">&amp;</span> production systems.</strong> Creating proteins through cell culturing and precision fermentation is fraught with costly and inefficient processes that will be challenging to scale. We’re exploring how this can be improved by examining closed-loop systems, decentralized production facilities, and improving hardware infrastructure.</li>
+	<li><strong>Optimizing bioprocessing <span class="amp">&</span> production systems.</strong> Creating proteins through cell culturing and precision fermentation is fraught with costly and inefficient processes that will be challenging to scale. We’re exploring how this can be improved by examining closed-loop systems, decentralized production facilities, and improving hardware infrastructure.</li>
 	<li><strong>Software and toolkits that enable simplicity in bioprocesses.</strong> Most companies develop their own software and toolkits out of necessity to effectively operate their bioprocess equipment. Building out standardized and simplified software toolkits will enable production cost reductions, the output of better data, and automation within a given bioprocess flow.</li>
 	<li><strong>Alternative manufacturing for proteins and inputs.</strong> The majority of cell ag production processes involve cell culturing or precision fermentation. This opportunity area explores alternative manufacturing methods, such as molecular farming, yeast, and microalgae, and examines opportunities with cutting-edge technologies around 3D printing and scaffolds to create proteins and inputs more cost-efficiently.</li>
 	<li><strong>Platform technologies for optimized ingredient discovery.</strong> The ‘holy grail’ of synthetic biology is to develop platform technologies that make the production of high-quality materials faster, cheaper, and more sustainable. This opportunity area investigates whether functional edible and non-edible proteins can be developed through platform technologies that can lend to applications within, and outside, cellular agriculture.</li>

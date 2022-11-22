@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Big Idea Ventures, Nutropy]
 company: "<a href=\"/directory/nutropy\" hreflang=\"en\">Nutropy</a>"
 images: ["Fomage_fondant_HQ_logo.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-09/Proto%20A4%20HQ%20-%20logo.jpg, https://www.proteinreport.org/sites/default/files/2022-09/Nathalie%20Rolland.jpg, https://www.proteinreport.org/sites/default/files/2022-09/Maya%20Bendifallah.jpg]
+additional_images: ["Proto A4 HQ - logo.jpg", "Nathalie Rolland.jpg", "Maya Bendifallah.jpg"]
 draft: false
 pinned: false
 homepage: false

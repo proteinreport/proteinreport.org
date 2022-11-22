@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Marvelous Foods]
 company: "<a href=\"/directory/marvelous-foods\" hreflang=\"en\">Marvelous Foods</a>"
 images: ["Yeyo_ALDI_shelf.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-02/three_flavors_of_yeyo.jpg, https://www.proteinreport.org/sites/default/files/2022-02/Yeyo%20ALDI%20mini%20program.jpg, https://www.proteinreport.org/sites/default/files/2022-02/Yeyo_with_granola_topping.jpg, https://www.proteinreport.org/sites/default/files/2022-02/yeyo-maia-active-partnership.jpeg]
+additional_images: ["three_flavors_of_yeyo.jpg", "Yeyo ALDI mini program.jpg", "Yeyo_with_granola_topping.jpg", "yeyo-maia-active-partnership.jpeg"]
 draft: false
 pinned: false
 homepage: false

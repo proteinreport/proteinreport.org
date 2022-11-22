@@ -8,12 +8,12 @@ excerpt: "Global alternative protein venture capital fund Lever VC announced tod
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 flags: [Press Release, Investments]
 directory: [Eat Just, Beyond Meat, Impossible Foods, The Better Meat Co., TurtleTree Labs, Bond Pet Foods, Lever VC, Avant Meats, Aleph Farms, Mosa Meat, Mission Barns, Upside Foods, Good Planet Foods, Bluu Seafood, Blackbird Foods, The New, Mozza Foods]
 company: "<a href=\"/directory/lever-vc\" hreflang=\"en\">Lever VC</a>"
 images: ["levervc.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

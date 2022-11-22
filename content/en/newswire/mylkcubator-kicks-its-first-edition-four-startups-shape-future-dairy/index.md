@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Eatable Adventures]
 company: "<a href=\"/directory/eatable-adventures\" hreflang=\"en\">Eatable Adventures</a>"
 images: ["Mylkcubator Image.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -26,7 +26,7 @@ weight: 50
 <p><strong>The selected startups:</strong></p>
 <ul>
 <li><strong>Real</strong> <strong>Deal Milk</strong> (Spain) develops milk proteins through precision fermentation in order to make dairy products that are produced without animals but are nutritionally and gastronomically equivalent to traditional dairy products.</li>
-<li><strong>Zero Cow</strong> <strong>Factory</strong> (India) producing India's first milk &amp; dairy products (certainly a world's first in A2 milk protein) using microbial bioengineering &amp; precision fermentation.</li>
+<li><strong>Zero Cow</strong> <strong>Factory</strong> (India) producing India's first milk & dairy products (certainly a world's first in A2 milk protein) using microbial bioengineering & precision fermentation.</li>
 <li><strong>De Novo Dairy </strong>(South Africa) uses precision fermentation technology to produce animal-free dairy proteins that provide the same sensory experience and nutrition as their traditional dairy counterparts.</li>
 <li><strong>M2Factors</strong> (USA) 108Labs' subsidiary M2Factors, Inc is accelerating the state of the art in cell-cultured dairy by crashing the cost of production.</li>
 </ul>

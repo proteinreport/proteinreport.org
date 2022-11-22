@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Eat Just, FAIRR Initiative, New Harvest, Aleph Farms, Cellular Agriculture Australia]
 company: "<a href=\"/directory/protein-report\" hreflang=\"en\">Protein Report</a>"
 images: ["banner3.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

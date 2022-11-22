@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Cocuus System Iberica, Innomy, Eatable Adventures]
 company: "<a href=\"/directory/eatable-adventures\" hreflang=\"en\">Eatable Adventures</a>"
 images: ["Cocuus Steak.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-06/Cocuus%20Bacon.jpeg, https://www.proteinreport.org/sites/default/files/2021-06/MOA%20%283%29.jpg, https://www.proteinreport.org/sites/default/files/2021-06/Innomy%20%283%29.jpg, https://www.proteinreport.org/sites/default/files/2021-06/Cocuus%20%284%29.jpg]
+additional_images: ["Cocuus Bacon.jpeg", "MOA (3).jpg", "Innomy (3).jpg", "Cocuus (4).jpg"]
 draft: false
 pinned: false
 homepage: false

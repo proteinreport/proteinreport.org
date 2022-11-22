@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Quorn]
 company: "<a href=\"https://www.futurefoodtechprotein.com/\">Future Food-Tech</a>"
 images: ["FFTP21 - Innovation Challenge 2021 (1).png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-03/WEBINAR%20FFTP%20-%20Innovation%20Challenges.png]
+additional_images: ["WEBINAR FFTP - Innovation Challenges.png"]
 draft: false
 pinned: false
 homepage: false
@@ -29,12 +29,12 @@ weight: 50
 <p>Using mycoprotein or other sustainable, natural ingredients, Quorn Foods is looking for companies leveraging technology to create realistic poultry whole muscle shapes, textures and flavours.</p>
 <p>Companies applying could be delivering a full product or addressing one of the key challenges associated with creating a whole cut, plant-based experience.</p>
 <p>The products could be cooked in a range of ways such as in casseroles, grilled or roasted, or could be eaten as a chilled, deli-style product.</p>
-<p>Tim Ingmire, SVP R&amp;D at Quorn Foods says: <em>"As the original pioneer of alternative protein, and leading global meat-free brand, we recognize the importance of creating delicious, nutritious food that supports the adoption of more sustainable diets. Building on our leading position in chicken analogues we're looking for breakthroughs to allow us to mimic the experience of cooking with whole chicken cuts." </em></p>
+<p>Tim Ingmire, SVP R&D at Quorn Foods says: <em>"As the original pioneer of alternative protein, and leading global meat-free brand, we recognize the importance of creating delicious, nutritious food that supports the adoption of more sustainable diets. Building on our leading position in chicken analogues we're looking for breakthroughs to allow us to mimic the experience of cooking with whole chicken cuts." </em></p>
 <p><strong>ROQUETTE CHALLENGE: Plant-Based Products Offering New Gastronomic Experiences to the Consumer</strong></p>
 <p>As a pioneer in plant proteins, Roquette is looking to collaborate and innovate with product companies developing new foods that will contribute to a new plant-based gastronomy.</p>
 <p>These new cuisines will offer new tastes, textures and whole new gastronomic experiences, using plant-based ingredients that are better for people and for the planet.</p>
 <p>Roquette looks forward to seeing a dazzling array of new cuisines, and to collaborating with food innovators to help them get to market faster. Categories encompass plant-based meat, dairy, drinks, nutrition and bakery.</p>
-<p>Sergio Neves, Head of Open Innovation at Roquette says:<em> “As a key supplier of alternative proteins, we see a tremendous opportunity for a food revolution with plant-based food. To enable this revolution requires a new generation of creative food entrepreneurs in a new food ecosystem. Thanks to this Future Food-Tech challenge, we aim to highlight companies that will create novel and differentiated plant-based food &amp; nutrition products and shape this future food ecosystem.”</em></p>
+<p>Sergio Neves, Head of Open Innovation at Roquette says:<em> “As a key supplier of alternative proteins, we see a tremendous opportunity for a food revolution with plant-based food. To enable this revolution requires a new generation of creative food entrepreneurs in a new food ecosystem. Thanks to this Future Food-Tech challenge, we aim to highlight companies that will create novel and differentiated plant-based food & nutrition products and shape this future food ecosystem.”</em></p>
 <p><strong>WEBINAR INSIGHTS:</strong></p>
 <p>Join Sergio Neves of Roquette and Adam Kemsley and Simone Sheehan of Quorn Foods on Tuesday, April 20 as they co-host a free live webinar, discussing their innovation challenges and answering questions from the live online audience ahead of the submission deadline on May 7.</p>
 <p><strong>The webinar is open to all – sign up now at: </strong><a href="http://www.crowdcast.io/e/future-food-tech-live"><strong>www.crowdcast.io/e/future-food-tech-live</strong></a><strong> </strong></p>

@@ -10,10 +10,10 @@ products: [Ingredients]
 topics: [Business]
 regions: [International]
 flags: [Press Release]
-directory: []
+directory: [NA]
 company: "<a href=\"https://futurefoodtechlondon.com/\">Future Food-Tech</a>"
 images: ["Future Food-Tech - Innovation Challenge - Kraft Heinz -.png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-07/Future%20Food-Tech%20-%20Innovation%20Challenge%20-%20Kraft%20Heinz%20-%20Webinar%20-.png]
+additional_images: ["Future Food-Tech - Innovation Challenge - Kraft Heinz - Webinar -.png"]
 draft: false
 pinned: false
 homepage: false
@@ -25,7 +25,7 @@ weight: 50
 <p><strong>SUCCESSFUL APPLICANTS: </strong>After an in-depth shortlisting process, selected finalists will pitch their solution to Kraft Heinz and a global audience during the live-streamed virtual <a href="https://futurefoodtech.com/"><strong>Future Food-Tech Summit</strong></a> on September 30- October 1, 2021.</p>
 <p><strong>Apply now at: </strong><a href="http://www.futurefoodtechlondon.com/innovation-challenge/"><strong>www.futurefoodtechlondon.com/innovation-challenge/</strong></a><strong> </strong></p>
 <p>Oliver Katz, Conference Producer for the Future Food-Tech series hosted by Rethink Events, said “We’re delighted to be working with Kraft Heinz to launch this Innovation Challenge and look forward to hearing from innovators who have new and exciting solutions to tackle this challenge. Our Innovation Challenge enables opportunities for start-ups to partner with corporate leaders to scale their technologies as we have previously seen with Unilever, Kellogg Company, Quorn Foods and Roquette. This time we are excited to scout for innovations in the beans and legumes category with Kraft Heinz.”</p>
-<p>Erik-Jan Ransdorp, <em>International Director R&amp;D Better Meals &amp; EMEA</em>, Kraft Heinz says: <em>"</em>Kraft Heinz has a strong foundation in agriculture. This foundation acts as fertile soil for innovations that address key consumer needs by offering affordable, tasty and nutritious products, which are convenient and environmentally friendly at the same time. We invite you to unleash all your entrepreneurial creativity and technological affinity to develop these revolutionary innovations!”</p>
+<p>Erik-Jan Ransdorp, <em>International Director R&D Better Meals & EMEA</em>, Kraft Heinz says: <em>"</em>Kraft Heinz has a strong foundation in agriculture. This foundation acts as fertile soil for innovations that address key consumer needs by offering affordable, tasty and nutritious products, which are convenient and environmentally friendly at the same time. We invite you to unleash all your entrepreneurial creativity and technological affinity to develop these revolutionary innovations!”</p>
 <p><strong>KRAFT HEINZ CHALLENGE: Unlocking the Power of Beanz: A Delicious Application or Ingredient that Brings Beans or Pulses to the Menu</strong></p>
 <p><strong>WEBINAR INSIGHTS:</strong></p>
 <p>Join Erik-Jan Ransdorp on Thursday, July 29 at a free live webinar, discussing the innovation challenge and answering questions from the live online audience ahead of the submission deadline on August 20.</p>

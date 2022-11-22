@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Atura Proteins]
 company: "<a href=\"/directory/atura-proteins\" hreflang=\"en\">Atura Proteins</a>"
 images: ["RGB Atura Logo INDIGO_0.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

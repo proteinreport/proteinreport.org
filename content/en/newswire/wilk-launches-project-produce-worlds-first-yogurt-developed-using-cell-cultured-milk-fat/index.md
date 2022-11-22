@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Wilk]
 company: "<a href=\"/directory/wilk\" hreflang=\"en\">Wilk</a>"
 images: ["Logo white.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Change Foods]
 company: "<a href=\"/directory/change-foods\" hreflang=\"en\">Change Foods</a>"
 images: ["Photo1 Change Foods 1 million grant.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-05/Photo%202%20Change%20R%26D%20Team_0.jpg]
+additional_images: ["Photo 2 Change R&D Team_0.jpg"]
 draft: false
 pinned: false
 homepage: false

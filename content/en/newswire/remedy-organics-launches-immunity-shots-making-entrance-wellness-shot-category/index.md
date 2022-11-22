@@ -8,12 +8,12 @@ excerpt: "Remedy Organics, a leading producer of plant-based functional wellness
 proteins: [Plant-Based]
 products: [Dairy]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release, New Products]
-directory: []
+directory: [NA]
 company: "<a href=\"https://www.remedyorganics.com/\">Remedy Organics</a>"
 images: ["Remedy Logo Vertical RGB.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

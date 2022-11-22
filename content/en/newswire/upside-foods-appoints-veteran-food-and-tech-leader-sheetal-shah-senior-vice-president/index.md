@@ -1,5 +1,5 @@
 ---
-title: "UPSIDE Foods Appoints Veteran Food and Tech Leader Sheetal Shah as Senior Vice President of Supply Chain &amp; Manufacturing"
+title: "UPSIDE Foods Appoints Veteran Food and Tech Leader Sheetal Shah as Senior Vice President of Supply Chain & Manufacturing"
 date: 2022-06-08 12:30:00
 lastmod: 2022-06-08 12:30:00
 slug: /upside-foods-appoints-veteran-food-and-tech-leader-sheetal-shah-senior-vice-president
@@ -8,12 +8,12 @@ excerpt: "UPSIDE Foods, the leading company in the cultivated meat, poultry and 
 proteins: [Cell-Based]
 products: [Meat, Seafood]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Impossible Foods, Upside Foods, Cultured Decadence]
 company: "<a href=\"/directory/upside-foods\" hreflang=\"en\">Upside Foods</a>"
 images: ["Sheetal Picture_0.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -21,11 +21,11 @@ weight: 50
 ---
 <ul>
 <li>Shah will be focused on building out the supply chain infrastructure for cell feed components and scaling manufacturing to commercial scale</li>
-<li>Shah brings 25 years of experience including previous roles as Senior Vice President of Product &amp; Operations at Impossible Foods and Chief Operations Officer at Verifone</li>
+<li>Shah brings 25 years of experience including previous roles as Senior Vice President of Product & Operations at Impossible Foods and Chief Operations Officer at Verifone</li>
 </ul>
 <p>Berkeley, California, June 8, 2022 — <a href="https://upsidefoods.com/">UPSIDE Foods</a>, the leading company in the cultivated meat, poultry and seafood industry, has announced the appointment of Sheetal Shah as Senior Vice President of Supply Chain and Manufacturing. This news comes on the heels of UPSIDE announcing its record-breaking <a href="https://www.prnewswire.com/news-releases/upside-foods-raises-a-400m-series-c-round-to-commercialize-cultivated-meat-at-scale-301529998.html">$400 million Series C round</a> that enables the company to unlock the industry’s biggest opportunities around scale, supply chain, and consumer adoption.</p>
 <p>Shah is joining UPSIDE as the company approaches commercialization and scales production. He will lead the development of UPSIDE’s supply chain and strategic sourcing for cell feed and other critical inputs that will reduce costs and enable scale. Shah will also oversee UPSIDE’s production facilities – including its existing Engineering, Production and Innovation Center (EPIC) and future larger-scale commercial facilities – and quality functions.</p>
-<p>Prior to UPSIDE Foods, Shah served as Senior Vice President of Product &amp; Operations at Impossible Foods, where he managed the supply chain through a period of global turbulence during the COVID-19 pandemic, expanded the product portfolio, enabled retail expansion globally and unlocked manufacturing capacity. He was also formerly the Chief Operations Officer at Verifone, where he managed global supply chains through periods of hypergrowth. Before that, Shah was the Chief Procurement Officer at Google’s Motorola division, where he was responsible for end-to-end global supplier management. Shah started his career at Motorola as a DSP software engineer and holds multiple patents in the areas of speech recognition and audio processing. </p>
+<p>Prior to UPSIDE Foods, Shah served as Senior Vice President of Product & Operations at Impossible Foods, where he managed the supply chain through a period of global turbulence during the COVID-19 pandemic, expanded the product portfolio, enabled retail expansion globally and unlocked manufacturing capacity. He was also formerly the Chief Operations Officer at Verifone, where he managed global supply chains through periods of hypergrowth. Before that, Shah was the Chief Procurement Officer at Google’s Motorola division, where he was responsible for end-to-end global supplier management. Shah started his career at Motorola as a DSP software engineer and holds multiple patents in the areas of speech recognition and audio processing. </p>
 <p>“Sheetal has everything it takes to be an UPSIDER: a deep commitment to making our favorite foods a force for good, a proven track record of solving seemingly intractable challenges and a passion for human health, animal welfare and the environment,” said Dr. Uma Valeti, CEO and Founder of UPSIDE Foods. “I am thrilled to welcome Sheetal to the team as we unlock some of the most critical opportunities for the cultivated meat industry.”</p>
 <p>UPSIDE Foods recently announced the close of a <a href="https://www.prnewswire.com/news-releases/upside-foods-raises-a-400m-series-c-round-to-commercialize-cultivated-meat-at-scale-301529998.html">$400 million Series C</a> funding round, the largest in the industry to date, placing its valuation at over $1 billion. The funding enables UPSIDE to build its commercial-scale facility, develop the supply chain for cell feed and other inputs and invest in consumer education. It will also be used to commercialize UPSIDE’s first product – real chicken, grown directly from animal cells – pending regulatory review.</p>
 <p>“I’m absolutely thrilled to be joining UPSIDE Foods at such an exciting inflection point. Cultivated meat will transform our food system for the better, and UPSIDE is the clear industry leader,” said Sheetal Shah. “Developing a reliable supply chain for making cultivated meat at scale is one of the greatest opportunities for the planet.”</p>

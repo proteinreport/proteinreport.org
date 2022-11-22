@@ -8,12 +8,12 @@ excerpt: "Silicon Valley-based cellular agriculture company Mission Barns today 
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [Eat Just, Beyond Meat, Impossible Foods, Perfect Day Foods, Lever VC, Oatly, NotCo, Mission Barns, Upside Foods, Joyance Partners, Green Monday Ventures]
 company: "<a href=\"/directory/mission-barns\" hreflang=\"en\">Mission Barns</a>"
 images: ["fat_fp_img.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-04/Logobig_1.png]
+additional_images: ["Logobig_1.png"]
 draft: false
 pinned: false
 homepage: false
@@ -23,10 +23,10 @@ weight: 50
 <p>Mission Barns is focused on cultivating animal fat—without the animal. Its technology platform enables starting from a handful of pork, poultry, or beef cells and feeding them a plant-based feedstock inside a cultivator. Over a short period of time, the novel process creates real, pure animal fat that delivers the mouthfeel and flavor of meat without raising and slaughtering live animals, and uses a fraction of the carbon emissions, water, and land required by conventional animal agriculture.</p>
 <p>The first commercial application of Mission Fat is in plant-based meat. Consumers repeatedly cite flavor, mouthfeel, and meatiness as the leading hurdles to regularly purchasing plant-based meat products. CEO Eitan Fischer said: “Time and again, we see that the addition of Mission Fat to plant proteins makes alternative meat products in any number of categories far outperform the incumbent plant-based options.”</p>
 <p>The company has developed products incorporating Mission Fat in various categories both on its own and through collaboration with leading meat companies and plant protein partners. Applications include: bacon, breakfast patties, burgers, nuggets, dumplings, hot dogs, poultry sausages, meatballs, and more.</p>
-<p>The Series A funding will be used to scale up and commercialize its Mission Fat technology. Global food and agriculture investors participated in the round, including Lever VC; Gullspang Re:Food (Oatly); Humboldt Fund (NotCo &amp; Geltor); Green Monday Ventures (Beyond Meat &amp; Perfect Day); Enfini Ventures (Impossible Foods &amp; Memphis Meats); and a European meat company. Other investors in the round included Blue Ledge Capital; Prithvi Ventures; and Joyance Partners.</p>
-<p>A number of Seed investors increased their stake in the company including Global Founders Capital (Facebook &amp; LinkedIn); Point Nine Capital (Delivery Hero); Better Ventures; and Cantos Ventures.</p>
+<p>The Series A funding will be used to scale up and commercialize its Mission Fat technology. Global food and agriculture investors participated in the round, including Lever VC; Gullspang Re:Food (Oatly); Humboldt Fund (NotCo & Geltor); Green Monday Ventures (Beyond Meat & Perfect Day); Enfini Ventures (Impossible Foods & Memphis Meats); and a European meat company. Other investors in the round included Blue Ledge Capital; Prithvi Ventures; and Joyance Partners.</p>
+<p>A number of Seed investors increased their stake in the company including Global Founders Capital (Facebook & LinkedIn); Point Nine Capital (Delivery Hero); Better Ventures; and Cantos Ventures.</p>
 <p>Nick Cooney, Managing Partner of Lever VC, said: "I've been sampling plant-based meats for 20 years from a huge variety of brands globally, and have never tasted anything as meat-like as products containing Mission Fat. This is going to be a game-changer for the alternative meat sector, because it's going to help brands around the world have a dramatically better product almost overnight.”</p>
-<p>Mission Barns’ team includes senior biotechnology experts from Genentech &amp; Sigma-Aldrich; culinary leaders from Michelin-starred The French Laundry &amp; Thomas Keller Restaurant Group; and veterans from other cellular agriculture companies including JUST &amp; Memphis Meats.</p>
+<p>Mission Barns’ team includes senior biotechnology experts from Genentech & Sigma-Aldrich; culinary leaders from Michelin-starred The French Laundry & Thomas Keller Restaurant Group; and veterans from other cellular agriculture companies including JUST & Memphis Meats.</p>
 <p>The company has been growing quickly and is actively looking for passionate team members who want to be on the forefront of revolutionizing the global food system. A large number of technical and non-technical roles can be found on its careers page: <a href="https://missionbarns.com/careers/">MissionBarns.com/Careers</a></p>
 <p>Mission Barns is partnering with leading meat and alternative protein companies globally, and is open to further partnership opportunities to utilize its Mission Fat technology:</p>
 <p><a href="mailto:contact@missionbarns.com">partnerships@missionbarns.com</a></p>

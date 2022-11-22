@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [AgFunder, IntegriCulture]
 company: "<a href=\"/directory/integriculture\" hreflang=\"en\">IntegriCulture</a>"
 images: ["培養foie gra1.JPG"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-01/integriculture.jpg, https://www.proteinreport.org/sites/default/files/2022-01/%E5%9F%B9%E9%A4%8Afoie%20gras2.jpg, https://www.proteinreport.org/sites/default/files/2022-01/CulnetSystem_%E5%86%99%E7%9C%9F.jpg]
+additional_images: ["integriculture.jpg", "培養foie gras2.jpg", "CulnetSystem_写真.jpg"]
 draft: false
 pinned: false
 homepage: false
@@ -53,7 +53,7 @@ Kazuya Oyama) and SBI Investment Co., Ltd. (President and CEO Katsuya Kawashima)
 <em>“The company's proprietary CulNet System is a cell culture technology that is directly linked to solving problems such as future protein shortages and the environmental impact of livestock farming, and I was attracted to invest in the company because of its high technological capabilities and coexistence-oriented management policy of providing this technology widely as a platform…”</em></p>
 <p><strong>Michael Dean, Founding Partner, <a href="https://agfunder.com/">Agfunder</a></strong><br />
 <em>"The technical development Integriculture has achieved over the past 18 months has been impressive, and we truly believe that their CulNet System will be an industry defining technology and will drive the future of sustainable, high quality protein production.”</em></p>
-<p><strong>J. Skyler Fernandes, Co-Founder &amp; General Partner, <a href="https://www.vuventurepartners.com/">VU Venture Partners</a></strong><br />
+<p><strong>J. Skyler Fernandes, Co-Founder & General Partner, <a href="https://www.vuventurepartners.com/">VU Venture Partners</a></strong><br />
 <em>“IntegriCulture's technology makes the production of cultured meat affordable at scale, and will rapidly increase the commercialization for the next generation of meat brands.”</em></p>
 <p><strong>Company Profile</strong><br />
 Company name: IntegriCulture Inc.<br />

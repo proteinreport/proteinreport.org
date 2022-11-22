@@ -13,7 +13,7 @@ flags: [Press Release, New Products]
 directory: [IntegriCulture]
 company: "<a href=\"/directory/integriculture\" hreflang=\"en\">IntegriCulture</a>"
 images: ["000000000028-01-l_0.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

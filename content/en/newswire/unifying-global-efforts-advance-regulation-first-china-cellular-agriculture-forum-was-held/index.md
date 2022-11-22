@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [TurtleTree Labs, Lever VC, Avant Meats, Aleph Farms, SuperMeat, IntegriCulture, Mosa Meat, Shiok Meats, Mission Barns, BlueNalu, Upside Foods, GFIC, CellX]
 company: "<a href=\"\">China Cellular Agriculture Forum </a>"
 images: ["CCAF-Image2.png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-04/CCAF-Image1.png]
+additional_images: ["CCAF-Image1.png"]
 draft: false
 pinned: false
 homepage: false

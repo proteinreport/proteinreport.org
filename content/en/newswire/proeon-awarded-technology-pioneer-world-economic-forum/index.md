@@ -13,13 +13,13 @@ flags: [Press Release]
 directory: [Good Food Institute, Proeon]
 company: "<a href=\"/directory/proeon\" hreflang=\"en\">Proeon</a>"
 images: ["proeon.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-05/Proeon%20logo.png]
+additional_images: ["Proeon logo.png"]
 draft: false
 pinned: false
 homepage: false
 weight: 50
 ---
-<p>Pune, India 10 May 2022 - Proeon, an India based start-up that produces next generation plant-based proteins that are superior in functional, nutritional and sensory profiles, was selected among hundreds of candidates as one of the World Economic Forum’s “Technology Pioneers”. Proeon is an R&amp;D driven ingredient innovation company, founded by Ashish Korde and Kevin Parekh in 2018, which develops plant-based ingredients to make food sustainable for people and the planet by making plant-based proteins that are comparable to animal sources in nutritional value and better for the population and planet.</p>
+<p>Pune, India 10 May 2022 - Proeon, an India based start-up that produces next generation plant-based proteins that are superior in functional, nutritional and sensory profiles, was selected among hundreds of candidates as one of the World Economic Forum’s “Technology Pioneers”. Proeon is an R&D driven ingredient innovation company, founded by Ashish Korde and Kevin Parekh in 2018, which develops plant-based ingredients to make food sustainable for people and the planet by making plant-based proteins that are comparable to animal sources in nutritional value and better for the population and planet.</p>
 <p>The World Economic Forum’s Technology Pioneers are early to growth-stage companies from around the world that are involved in the use of new technologies and innovation that are poised to have a significant impact on business and society.</p>
 <p>With their selection as Technology Pioneer, Co-founder Ashish Korde from Proeon will be invited to participate at World Economic Forum activities, events and discussions throughout the year. Proeon will also contribute to Forum initiatives over the next two years, working with global leaders to help address key industry and societal issues.</p>
 <p>“We’re excited to welcome Proeon to our 2022 cohort of Technology Pioneers,” says Saemoon Yoon, Community Lead, Technology Pioneers, World Economic Forum. “Proeon and its fellow pioneers are at the forefront of industries that are critical to solving some of our world’s most complex issues today. We look forward to their contribution to the World Economic Forum in its commitment to improving the state of the world.”</p>
@@ -31,7 +31,7 @@ weight: 50
 <p>Technology Pioneers have been selected based on the community’s selection criteria, which includes innovation, impact and leadership as well as the company’s relevance with the World Economic Forum’s Platforms.</p>
 <p>All info on this year’s Technology Pioneers can be found here: <a href="http://wef.ch/techpioneers22">http://wef.ch/techpioneers22</a></p>
 <p><strong>About Proeon</strong><br />
-Proeon is a food ingredients innovation start-up working on creating healthier, tastier, and more sustainable food solutions. The company creates high quality plant protein ingredients with superior nutritional, functional, and sensory properties, through intensive R&amp;D. It is committed to building a food ecosystem that is sustainable, consumer-driven, and environmentally responsible. In collaboration with their partners and customers, they aim to save more than 170Bn litres of water and eliminate about 150 MT of CO2 emissions by replacing wasteful, animal-based foods with plant-based alternatives.</p>
+Proeon is a food ingredients innovation start-up working on creating healthier, tastier, and more sustainable food solutions. The company creates high quality plant protein ingredients with superior nutritional, functional, and sensory properties, through intensive R&D. It is committed to building a food ecosystem that is sustainable, consumer-driven, and environmentally responsible. In collaboration with their partners and customers, they aim to save more than 170Bn litres of water and eliminate about 150 MT of CO2 emissions by replacing wasteful, animal-based foods with plant-based alternatives.</p>
 <p><strong>About World Economic Forum</strong><br />
 The World Economic Forum, committed to improving the state of the world, is the International Organization for Public-Private Cooperation. The Forum engages the foremost political, business and other leaders of society to shape global, regional and industry agendas. (<a href="http://www.weforum.org">www.weforum.org</a>).</p>
 <p><strong>About the Technology Pioneers</strong><br />

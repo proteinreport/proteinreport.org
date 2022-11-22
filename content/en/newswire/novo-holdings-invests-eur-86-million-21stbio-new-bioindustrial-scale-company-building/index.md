@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Novozymes]
 company: "<a href=\"https://www.novoholdings.dk/\">Novo Holdings</a>"
 images: ["novo.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -30,7 +30,7 @@ weight: 50
 <p><strong>New manufacturing site on the horizon</strong></p>
 <p>Novo Holdings is investing EUR 86 million in 21st.BIO. Søren Møller, Managing Partner of Novo Seeds, Novo Holdings, will join the Board of Directors.</p>
 <p>“I am very pleased to join 21st.BIO on its mission to help more biological solutions reach the market and thereby enable the acceleration of the green transition. The technology that 21st..BIO offers addresses a critical, unmet global need, and I see great potential for synergies and partnerships between 21st.BIO and other Novo Holdings portfolio companies in the industrial biotech sector,” <strong>said Søren Møller.</strong></p>
-<p>21st.BIO currently operates in Denmark and California. The access to selected parts of Novozymes R&amp;D platform and the investment by Novo Holdings will enable the company to expand its capacity further.</p>
+<p>21st.BIO currently operates in Denmark and California. The access to selected parts of Novozymes R&D platform and the investment by Novo Holdings will enable the company to expand its capacity further.</p>
 <p>“With the access to a selected part of Novozymes technology platform and financing from Novo Holdings, 21st.BIO will be able to grow and to establish the first manufacturing site to serve our customers globally. Further, with both Novo Holdings and Novozymes on board, we are getting access to a broader network and knowledge base that is very advantageous,” <strong>Thomas Schmidt said.</strong></p>
 <p><strong>The technology explained </strong></p>
 <p>21st.BIO helps customers optimising and developing the appropriate expression platform for large-scale production of their particular molecule by testing the molecule using various expression platforms, such as fungi, yeast or bacteria. When the right expression platform has been identified, 21st.BIO draws on its comprehensive strain bank and selects and optimises the best-performing strains. This leads to an optimised production platform that enables clients to produce their product at commercially attractive costs and quantities.</p>

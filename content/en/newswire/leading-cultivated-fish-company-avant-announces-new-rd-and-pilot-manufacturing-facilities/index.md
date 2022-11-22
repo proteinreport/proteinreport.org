@@ -1,10 +1,10 @@
 ---
-title: "Leading cultivated fish company Avant announces new R&amp;D and pilot manufacturing facilities plan in Singapore"
+title: "Leading cultivated fish company Avant announces new R&D and pilot manufacturing facilities plan in Singapore"
 date: 2021-04-26 06:26:11
 lastmod: 2021-04-26 06:26:11
 slug: /leading-cultivated-fish-company-avant-announces-new-rd-and-pilot-manufacturing-facilities
-description: "Avant, the first cultivated meat company in China and the first cultivated fish company in Asia, announced today it is establishing new Research &amp; Development and pilot manufacturing facilities plan in Singapore, with the support of the Singapore Economic Development Board."
-excerpt: "Avant, the first cultivated meat company in China and the first cultivated fish company in Asia, announced today it is establishing new Research &amp; Development and pilot manufacturing facilities plan in Singapore, with the support of the Singapore Economic Development Board."
+description: "Avant, the first cultivated meat company in China and the first cultivated fish company in Asia, announced today it is establishing new Research & Development and pilot manufacturing facilities plan in Singapore, with the support of the Singapore Economic Development Board."
+excerpt: "Avant, the first cultivated meat company in China and the first cultivated fish company in Asia, announced today it is establishing new Research & Development and pilot manufacturing facilities plan in Singapore, with the support of the Singapore Economic Development Board."
 proteins: [Cell-Based]
 products: [Meat, Seafood, Ingredients]
 topics: [Business]
@@ -13,13 +13,13 @@ flags: [Press Release]
 directory: [Avant Meats]
 company: "<a href=\"/directory/avant-meats\" hreflang=\"en\">Avant Meats</a>"
 images: ["SG_HK_edit_2.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
 weight: 50
 ---
-<p><strong>SINGAPORE AND HONG KONG -</strong> Avant, the first cultivated meat company in China and the first cultivated fish company in Asia, announced today it is establishing new Research &amp; Development (“R&amp;D”) and pilot manufacturing facilities plan in Singapore, with the support of the Singapore Economic Development Board (“EDB”). The new facilities will be supplemented by existing operations in Greater China. Avant will recruit local talents as part of its expansion.</p>
+<p><strong>SINGAPORE AND HONG KONG -</strong> Avant, the first cultivated meat company in China and the first cultivated fish company in Asia, announced today it is establishing new Research & Development (“R&D”) and pilot manufacturing facilities plan in Singapore, with the support of the Singapore Economic Development Board (“EDB”). The new facilities will be supplemented by existing operations in Greater China. Avant will recruit local talents as part of its expansion.</p>
 <p><strong>C</strong><strong>arrie Chan, Co-founder and CEO, Avant</strong> notes, “Avant has grown its presence in strategic locations in Asia to optimize its market access, technology ecosystem, and funding opportunities. Singapore provides Avant with regulatory clarity, international talents, and sufficient space for the next step of scaling up.”</p>
 <p>"Avant is an example of an alternative protein company which has tapped into the eco-system opportunities in Singapore to bring innovative products to market and capture growth opportunities in Asia.” said <strong>Damian Chan, Executive Vice President, Singapore EDB</strong>.  “We welcome their expansion here and will continue to work with companies to leverage Singapore to enable innovations in sustainable Agri-Food technologies.” </p>
 <p>Asia Pacific dominates the global fish and seafood markets at US$60.5 billion in 2018 and Asia is projected to account for 71% of the additional fish consumed by 2028. The expansion represents an important milestone of Avant’s pan-Asia strategy. </p>

@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [NovaMeat]
 company: "<a href=\"https://agrifoodinnovation.com/\">Asia-Pacific Agri-Food Innovation Summit</a>"
 images: ["apac.png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-10/APAC21%20-%20Meet%20The%20Start-Ups.png]
+additional_images: ["APAC21 - Meet The Start-Ups.png"]
 draft: false
 pinned: false
 homepage: false
@@ -22,10 +22,10 @@ weight: 50
 <p>As Asia’s policymakers and agri-food leaders prepare for major urban population growth and the increasing impact of climate change, there is massive potential for global start-ups launching innovative solutions for sustainable food production in this region.</p>
 <p>The Asia-Pacific Agri-Food Innovation Summit takes place on November 16-18, showcasing 30+ dynamic start-ups who will present breakthrough technologies to an international audience in-person in Singapore and globally on the virtual summit platform.</p>
 <p>Areas covered by these agri-food pioneers range from novel proteins and ingredients for plant-based products, to digital tools for supply chain connectivity and efficiency, circular solutions for food waste and packaging, and smart tech for aquaculture and precision agriculture.</p>
-<p>The summit features multiple touchpoints to meet dynamic innovators, from a live pitching afternoon in Singapore, to virtual showcases with judging panels and investor Q&amp;As.</p>
+<p>The summit features multiple touchpoints to meet dynamic innovators, from a live pitching afternoon in Singapore, to virtual showcases with judging panels and investor Q&As.</p>
 <p><strong>Singapore Live Pitch Afternoon </strong></p>
 <p>Hosted live from Singapore on November 16, and livestreamed to the global delegate audience, the Singapore Pitch Afternoon will celebrate the talent and innovation coming out of the region. Summit partner <strong>Enterprise Singapore</strong> has handpicked eight exciting agri-food start-ups who will take the stage to pitch their technology and business models:</p>
-<p><strong>Hoow Foods</strong> is a deep-tech food tech company specialising in R&amp;D and commercialisation of consumer-packaged food products and functional ingredients using food science and AI technology.</p>
+<p><strong>Hoow Foods</strong> is a deep-tech food tech company specialising in R&D and commercialisation of consumer-packaged food products and functional ingredients using food science and AI technology.</p>
 <p><strong>Insectta</strong> is the first urban insect farm in Singapore, rearing the black soldier fly. The company takes food waste and returns it into the economy as valuable biomaterials such as Chitosan, melanin and probiotics.</p>
 <p><strong>LivFresh</strong> aims to reduce the farm-to-table distance to under 6 hours, to let customers enjoy 100% pesticide and additive-free produce at maximum freshness.</p>
 <p><strong>Mycovation</strong> is a mycelium protein company developing food ingredients that are vegan, nutritious, affordable and sustainable through mycoprotein technology.</p>
@@ -38,8 +38,8 @@ weight: 50
 <p>Over 100 start-ups applied for the chance to work with these agri-food leaders and present in front of the global virtual summit audience. After a rigorous selection process, the finalists have been revealed for each challenge:</p>
 <p><strong>The Cargill Innovation Challenge: Digital Solutions to Connect and Enhance the Sustainable Food Production Chain in APAC</strong></p>
 <p><strong>Centaur Analytics </strong>(USA) offers predictive route planning and risk analysis for perishable goods (eg soya, cocoa) for sustainable shipping and logistics. It is committed to reduce the estimated $1 trillion of annual post-harvest value loss from farm to shelf, by deploying its cognitive connected solutions globally and by empowering growers, ag and food companies with predictive quality analytics and prescriptive, automated interventions.</p>
-<p><strong>Connecting Food </strong>(France) harnesses blockchain technology to improve food security, reduce wastage and reinforce consumer trust in our food systems. Connecting Food leverages industry expertise to map food supply chains, improve end-to-end traceability and showcase value chain data via a QR code &amp; WebApp, bringing trust through transparency to consumers.</p>
-<p><strong>PEEL Lab </strong>(Japan) technology upcycles fruits and vegetables to create low impact bio-based vegan leather. Its manufacturers then create custom-designed products that empower corporates to join the race towards "Net Zero" by 2050.  PEEL Lab is now in R&amp;D on coconut husk and shell with mango peel to follow.</p>
+<p><strong>Connecting Food </strong>(France) harnesses blockchain technology to improve food security, reduce wastage and reinforce consumer trust in our food systems. Connecting Food leverages industry expertise to map food supply chains, improve end-to-end traceability and showcase value chain data via a QR code & WebApp, bringing trust through transparency to consumers.</p>
+<p><strong>PEEL Lab </strong>(Japan) technology upcycles fruits and vegetables to create low impact bio-based vegan leather. Its manufacturers then create custom-designed products that empower corporates to join the race towards "Net Zero" by 2050.  PEEL Lab is now in R&D on coconut husk and shell with mango peel to follow.</p>
 <p>Commenting on the applications, Colin D’Silva, Vice President, Government Relations for Asia-Pacific at Cargill said <em>“We are thoroughly impressed with the calibre of entries received for the Cargill Innovation Challenge. It’s inspiring to see so many innovative start-ups share Cargill’s vision of sustainable food production and supply chains, realized through innovative digital solutions. It was tough to make our selection of finalists. We are looking forward to learning more about their work, and to a successful partnership with the winner to advance our sustainability ambition and commitment.”</em></p>
 <p><strong>The CPF Innovation Challenge: Enhancing Texture, Juiciness and Aroma to Create Healthy Plant-Based Meat Alternatives</strong></p>
 <p><strong>Audra Labs </strong>(Singapore) uses patented fibre technology to capture real meat and fat textures in every bite, and its mild processing conditions preserve the nutritional qualities of ingredients. Committed to working towards a better future, utilising renewable resources, adopting sustainable technologies, and minimising waste to produce upcycled goods, Audra Labs believes that food should never be waste.</p>

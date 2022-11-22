@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Aleph Farms, BlueNalu, Upside Foods, CellRev, CPT Capital]
 company: "<a href=\"/directory/cellrev\" hreflang=\"en\">CellRev</a>"
 images: ["M Miotto in the lab 3.JPG"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

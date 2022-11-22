@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Mushlabs]
 company: "<a href=\"/directory/mushlabs\" hreflang=\"en\">Mushlabs</a>"
 images: ["Mushlabs Founders_Mazen Rizk_Cathy Preißer_Thibault Godard (1).jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-06/Mushlabs%20CEO%20and%20Founder_Dr.%20Mazen%20Rizk.jpg]
+additional_images: ["Mushlabs CEO and Founder_Dr. Mazen Rizk.jpg"]
 draft: false
 pinned: false
 homepage: false

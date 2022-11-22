@@ -8,12 +8,12 @@ excerpt: "Brooklyn, New York-based We Are The New Farmers, Inc. announced today 
 proteins: [Algae]
 products: [Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Investments, Press Release]
-directory: []
+directory: [NA]
 company: "<a href=\"https://www.harvestreturns.com/\">Harvest Returns</a>"
 images: ["logos.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

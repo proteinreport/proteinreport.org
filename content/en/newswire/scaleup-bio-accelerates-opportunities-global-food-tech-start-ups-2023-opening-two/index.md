@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [ScaleUp Bio]
 company: "<a href=\"/directory/scaleup-bio\" hreflang=\"en\">ScaleUp Bio</a>"
 images: ["scaleup.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

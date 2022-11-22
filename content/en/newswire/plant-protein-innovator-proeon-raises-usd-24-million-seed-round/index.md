@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Proeon]
 company: "<a href=\"/directory/proeon\" hreflang=\"en\">Proeon</a>"
 images: ["Kevin and Ashish.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -29,4 +29,4 @@ weight: 50
 <p>Currently, the company is working with brands from Europe, North America, and Southeast Asia to build more sustainable and healthier plant-based alternatives such as highly functional plant-based egg-replacement products, clean-label burgers, patties, and alternative dairy products. In collaboration with their partners and customers, they are also aiming to save more than 170 billion liters of water and eliminate about 150 metric tonnes of CO2 emissions by replacing wasteful, animal-based foods with plant-based alternatives.</p>
 <p><em><strong>About Proeon:</strong></em><br />
 Proeon works with a vision to enable synergy between people, planet, and conscience through innovation in the sustainable production of good food. Their current product portfolio includes Mung Bean Protein, Chickpea Protein, Amaranth Protein, and Hemp Seed Protein.</p>
-<p>They are currently a part of the global accelerator program MassChallenge Switzerland 2021 as the only Indian start-up in the Sustainable Food Systems cohort. In the past, they have been adjudged as winners of the ET Power of Ideas 2018, the SAP Innocity Challenge 2019, and the OHSSAI Excellence &amp; Sustainability Award 2019. They are associated with leading research institutes such as Wageningen University of Research, Netherlands, and the Centre for Food Technology &amp; Research Institute, Mysore, India. They are backed by leading incubators and innovation centres in India like IIM-Ahmedabad's CIIE.CO, CSIR-CFTRI, Mysore, and NCL-Venture Centre, Pune.</p>
+<p>They are currently a part of the global accelerator program MassChallenge Switzerland 2021 as the only Indian start-up in the Sustainable Food Systems cohort. In the past, they have been adjudged as winners of the ET Power of Ideas 2018, the SAP Innocity Challenge 2019, and the OHSSAI Excellence & Sustainability Award 2019. They are associated with leading research institutes such as Wageningen University of Research, Netherlands, and the Centre for Food Technology & Research Institute, Mysore, India. They are backed by leading incubators and innovation centres in India like IIM-Ahmedabad's CIIE.CO, CSIR-CFTRI, Mysore, and NCL-Venture Centre, Pune.</p>

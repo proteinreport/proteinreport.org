@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Mushlabs]
 company: "<a href=\"/directory/mushlabs\" hreflang=\"en\">Mushlabs</a>"
 images: ["Mushlabs_Mushroom_1.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-11/Mushlabs_Lab.jpg, https://www.proteinreport.org/sites/default/files/2022-11/Mushlabs_Fermenter.jpg]
+additional_images: ["Mushlabs_Lab.jpg", "Mushlabs_Fermenter.jpg"]
 draft: false
 pinned: false
 homepage: false

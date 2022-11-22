@@ -8,12 +8,12 @@ excerpt: "Leading food technology event series, Future Food-Tech, today announce
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
-directory: [Beyond Meat, Meati Foods, Zero Egg Food, Eclipse Foods, Air Protein, The Every Company, New Culture, Pleese Foods, Motif Foodworks, NotCo, Triton Algae Innovations, V2food, BlueNalu, Planetary Foods, Nature&#039;s Fynd, Enough, InnovoPro, Remilk, Helaina, Protein Industries Canada, Moolec Science, Wilk, SeaSpire, New School Foods, Brevel]
+directory: [Beyond Meat, Meati Foods, Zero Egg Food, Eclipse Foods, Air Protein, The Every Company, New Culture, Pleese Foods, Motif Foodworks, NotCo, Triton Algae Innovations, V2food, BlueNalu, Planetary Foods, Nature's Fynd, Enough, InnovoPro, Remilk, Helaina, Protein Industries Canada, Moolec Science, Wilk, SeaSpire, New School Foods, Brevel]
 company: "<a href=\"https://www.futurefoodtechprotein.com/\">Future Food-Tech</a>"
 images: ["JzFfLuLE_0.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -45,9 +45,9 @@ weight: 50
 <p><strong>FERMENTATION</strong></p>
 <p>Julian Melchiorri (<a href="http://arborea.io/">Arborea</a>), Laura Katz (<a href="https://www.myhelaina.com/home">Helaina</a>) and David Brandes (<a href="https://www.planetarygroup.ch/">Planetary</a>) will discuss how increased capacity and reduced downstream costs enable fermentation scale-up to meet demand.</p>
 <p>Aviv Wolff (<a href="https://www.remilk.com/">Remilk</a>) and Matt Gibson (<a href="https://www.newculturefood.com/">New Culture</a>) will share how they are using precision fermentation to rethink the way we produce and formulate animal-free dairy, meanwhile Gaston Paladini (<a href="https://www.moolecscience.com/">Moolec Science</a>) reveals its technology’s potential to improve all aspects of meat alternatives.</p>
-<p><em>"Since precision fermentation yields ingredients that enable the production of end-products that are identical in taste and texture, healthy, and cost-effective, it will be a central player in facilitating a consumer shift away from traditional animal-based foods,"</em> says <strong>Aviv</strong> <strong>Wolff</strong>, <em>Co-Founder &amp; CEO,</em> <strong>Remilk</strong>.</p>
+<p><em>"Since precision fermentation yields ingredients that enable the production of end-products that are identical in taste and texture, healthy, and cost-effective, it will be a central player in facilitating a consumer shift away from traditional animal-based foods,"</em> says <strong>Aviv</strong> <strong>Wolff</strong>, <em>Co-Founder & CEO,</em> <strong>Remilk</strong>.</p>
 <p><strong>CELL CULTURED</strong></p>
 <p>Lou Cooperhouse (<a href="https://www.bluenalu.com/">BlueNalu</a>) and Guy Michrowski (<a href="https://profuse-tech.com/">ProFuse Technology</a>) will weigh in on scaling cultured fish and meat through partnerships, as Nurit Argov (<a href="https://wilkismilk.com/">Wilk</a>) presents how cell cultured breast milk has potential benefits for infant nutrition.</p>
-<p><em>“The Future Food-Tech Alternative Proteins Summit showcases companies, products and opportunities, while inspiring collaborations and partnerships, so that new age innovators and legacy corporations alike can create meaningful impact through delicious products for consumers worldwide,”</em> shares <strong>Lou</strong> <strong>Cooperhouse</strong>, Co-Founder, President &amp; CEO, <strong>BlueNalu.</strong></p>
+<p><em>“The Future Food-Tech Alternative Proteins Summit showcases companies, products and opportunities, while inspiring collaborations and partnerships, so that new age innovators and legacy corporations alike can create meaningful impact through delicious products for consumers worldwide,”</em> shares <strong>Lou</strong> <strong>Cooperhouse</strong>, Co-Founder, President & CEO, <strong>BlueNalu.</strong></p>
 <p><strong>Hundreds of food-tech pioneers will meet at Future Food-Tech Alternative Proteins in New York (and online) on June 21-22. The summit brings together investors, food brands, retailers, ingredient manufacturers and technology providers for two days of high impact networking and knowledge exchange to accelerate technologies across the alternative protein supply chain.</strong></p>
 <p><strong>The full program, speaking faculty and delegate registration are available now at </strong><a href="http://www.futurefoodtechprotein.com"><strong>www.futurefoodtechprotein.com</strong></a></p>

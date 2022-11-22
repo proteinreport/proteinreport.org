@@ -8,12 +8,12 @@ excerpt: "Today, 108Labs is building Earth’s first autonomous Cellufacturing®
 proteins: [Cell-Based]
 products: [Dairy]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [108Labs]
 company: "<a href=\"/directory/108labs\" hreflang=\"en\">108Labs</a>"
 images: ["LabShot.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-06/108LabsCellufacturingFacility.jpg]
+additional_images: ["108LabsCellufacturingFacility.jpg"]
 draft: false
 pinned: false
 homepage: false

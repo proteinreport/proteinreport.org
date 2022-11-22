@@ -3,10 +3,8 @@ title: "Powering Global Dishes in Shanghai with Peanut-Based Chicken"
 date: 2021-04-12 07:14:34
 lastmod: 2021-04-12 07:14:34
 slug: /powering-global-dishes-shanghai-peanut-based-chicken
-description: "Starting from this month, partnerships between Haofood, a startup creating peanut protein-based alternative chicken, and five restaurants in Shanghai offering authentic dishes from cultures around the globe unites tradition and modern technology to bring
-customers a unique culinary experience."
-excerpt: "Starting from this month, partnerships between Haofood, a startup creating peanut protein-based alternative chicken, and five restaurants in Shanghai offering authentic dishes from cultures around the globe unites tradition and modern technology to bring
-customers a unique culinary experience."
+description: "Starting from this month, partnerships between Haofood, a startup creating peanut protein-based alternative chicken, and five restaurants in Shanghai offering authentic dishes from cultures around the globe unites tradition and modern technology to bringcustomers a unique culinary experience."
+excerpt: "Starting from this month, partnerships between Haofood, a startup creating peanut protein-based alternative chicken, and five restaurants in Shanghai offering authentic dishes from cultures around the globe unites tradition and modern technology to bringcustomers a unique culinary experience."
 proteins: [Plant-Based]
 products: [Meat]
 topics: [Business]
@@ -15,7 +13,7 @@ flags: [Press Release, New Products]
 directory: [Haofood]
 company: "<a href=\"/directory/haofood\" hreflang=\"en\">Haofood</a>"
 images: ["Wrap & Roll - Wrap 2.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-04/Pawon%20-%20Sate%20Ayam%202.jpg, https://www.proteinreport.org/sites/default/files/2021-04/Green%20Friday%20-%20All%201.jpg, https://www.proteinreport.org/sites/default/files/2021-04/STYX%20-%20All%201.jpg, https://www.proteinreport.org/sites/default/files/2021-04/Topolino%20-%20Pizza%201.jpg]
+additional_images: ["Pawon - Sate Ayam 2.jpg", "Green Friday - All 1.jpg", "STYX - All 1.jpg", "Topolino - Pizza 1.jpg"]
 draft: false
 pinned: false
 homepage: false

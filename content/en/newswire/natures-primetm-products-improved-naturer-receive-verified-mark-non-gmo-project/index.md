@@ -8,12 +8,12 @@ excerpt: "Improved Nature, a plant-based protein company, proudly announces that
 proteins: [Plant-Based]
 products: [Meat]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Improved Nature]
 company: "<a href=\"/directory/improved-nature\" hreflang=\"en\">Improved Nature</a>"
 images: ["Slices_-_Hydrated_and_PRIME_2048x2048.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-03/NGPV_full_color.jpg]
+additional_images: ["NGPV_full_color.jpg"]
 draft: false
 pinned: false
 homepage: false

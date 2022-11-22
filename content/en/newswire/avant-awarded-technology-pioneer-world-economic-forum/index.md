@@ -3,12 +3,8 @@ title: "Avant Awarded as Technology Pioneer by World Economic Forum"
 date: 2021-06-17 08:49:39
 lastmod: 2021-06-17 08:49:39
 slug: /avant-awarded-technology-pioneer-world-economic-forum
-description: "The World Economic Forum announced its selection of the 100 most promising Technology Pioneers of 2021 - companies that are shaping industries from healthcare to retail and many more.
-This year’s cohort includes representation from 26 economies on six continents with reach far beyond traditional tech hubs like Silicon Valley. 
-Avant, a cultivated fish technology company, made it to the selection for its contributions in the field of Global Public Goods. "
-excerpt: "The World Economic Forum announced its selection of the 100 most promising Technology Pioneers of 2021 - companies that are shaping industries from healthcare to retail and many more.
-This year’s cohort includes representation from 26 economies on six continents with reach far beyond traditional tech hubs like Silicon Valley. 
-Avant, a cultivated fish technology company, made it to the selection for its contributions in the field of Global Public Goods. "
+description: "The World Economic Forum announced its selection of the 100 most promising Technology Pioneers of 2021 - companies that are shaping industries from healthcare to retail and many more.This year’s cohort includes representation from 26 economies on six continents with reach far beyond traditional tech hubs like Silicon Valley. Avant, a cultivated fish technology company, made it to the selection for its contributions in the field of Global Public Goods. "
+excerpt: "The World Economic Forum announced its selection of the 100 most promising Technology Pioneers of 2021 - companies that are shaping industries from healthcare to retail and many more.This year’s cohort includes representation from 26 economies on six continents with reach far beyond traditional tech hubs like Silicon Valley. Avant, a cultivated fish technology company, made it to the selection for its contributions in the field of Global Public Goods. "
 proteins: [Cell-Based]
 products: [Seafood, Ingredients]
 topics: [Business]
@@ -17,7 +13,7 @@ flags: [Press Release]
 directory: [Avant Meats]
 company: "<a href=\"/directory/avant-meats\" hreflang=\"en\">Avant Meats</a>"
 images: ["20210615_WEF Tech Pioneers.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-06/Avant%20VHC%20joint%20annoucement%20Jan%202021%20Photo%202.jpg]
+additional_images: ["Avant VHC joint annoucement Jan 2021 Photo 2.jpg"]
 draft: false
 pinned: false
 homepage: false

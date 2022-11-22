@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [eniferBio]
 company: "<a href=\"/directory/eniferbio\" hreflang=\"en\">eniferBio</a>"
 images: ["pekilo_0.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2020-11/konsepti7.jpg]
+additional_images: ["konsepti7.jpg"]
 draft: false
 pinned: false
 homepage: false

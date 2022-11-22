@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Future Meat, Gourmey, Mirai Foods, Aleph Farms, SuperMeat, Meatable, Mosa Meat, Higher Steaks, Peace of Meat, Cubiq Foods, Bluu Seafood, Ivy Farm Technologies, Cellular Agriculture Europe]
 company: "<a href=\"/directory/cellular-agriculture-europe\" hreflang=\"en\">Cellular Agriculture Europe</a>"
 images: ["cae.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

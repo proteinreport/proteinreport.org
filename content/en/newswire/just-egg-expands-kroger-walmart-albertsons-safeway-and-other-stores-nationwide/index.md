@@ -8,12 +8,12 @@ excerpt: "Eat Just, Inc., a company that applies cutting-edge science and techno
 proteins: [Plant-Based]
 products: [Eggs]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Eat Just, Good Food Institute]
 company: "<a href=\"/directory/eat-just\" hreflang=\"en\">Eat Just</a>"
 images: ["Egg_LQ_FLD_Box_Bottle_FrenchToastPrep_vert_bestCrop.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -29,7 +29,7 @@ weight: 50
 <p>Earlier this week, Eat Just <a href="https://www.businesswire.com/news/home/20200901005343/en/Americans-Plant-Based-Breakfast-New-Study-Finds">shared the results of a survey</a> of 2,000 Americans conducted by market research firm OnePoll that found more consumers are going plant-based for breakfast versus other meals and more than half look for high protein and low sugar options when making breakfast choices. Six in 10 said they liked the plant-based version of a food product better than its animal-based counterpart and more than half said they believe eggs made from plants are healthier than eggs made by chickens.</p>
 <p>The egg set is the fastest growing plant-based category by far – outpacing milk, meat, cheese, yogurt and other products. Dollar sales of plant-based eggs grew 192% in the past year and 228% over the past two years, according to the Good Food Institute, and Eat Just owns about 99% of the category.</p>
 <p><strong>About Eat Just, Inc.</strong></p>
-<p><em><a href="https://cts.businesswire.com/ct/CT?id=smartlink&amp;url=http%3A%2F%2Fju.st%2F&amp;esheet=52277930&amp;newsitemid=20200902005368&amp;lan=en-US&amp;anchor=Eat+Just%2C+Inc.&amp;index=2&amp;md5=d0abf24b4d13c387d80b4a331b202076">Eat Just, Inc.</a></em><em> is on a mission to build a food system where everyone eats well. The company’s world-class team of scientists and researchers leverage a one-of-a-kind discovery platform for food ingredient innovation and Michelin starred chefs combine these discoveries with decades of culinary expertise to create delicious, accessible, healthier and more sustainable products. We have been recognized as one of Fast Company’s “Most Innovative Companies,” Entrepreneur’s “100 Brilliant Companies,” CNBC’s “Disruptor 50” and a World Economic Forum Technology Pioneer. The company’s flagship plant-based egg was named among Popular Science’s “100 Greatest Innovations,” Fast Company’s “World Changing Ideas” and, most recently, its new folded plant-based egg won “Best New Frozen Product” at Expo West’s NEXTY Awards and Delicious Living’s “Best Bite Awards.” For more information, visit <a href="https://cts.businesswire.com/ct/CT?id=smartlink&amp;url=http%3A%2F%2Fju.st%2F&amp;esheet=52277930&amp;newsitemid=20200902005368&amp;lan=en-US&amp;anchor=http%3A%2F%2Fju.st&amp;index=3&amp;md5=b07a98438919aa1aa6919ee0e7f345b6">http://ju.st</a>.</em></p>
+<p><em><a href="https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fju.st%2F&esheet=52277930&newsitemid=20200902005368&lan=en-US&anchor=Eat+Just%2C+Inc.&index=2&md5=d0abf24b4d13c387d80b4a331b202076">Eat Just, Inc.</a></em><em> is on a mission to build a food system where everyone eats well. The company’s world-class team of scientists and researchers leverage a one-of-a-kind discovery platform for food ingredient innovation and Michelin starred chefs combine these discoveries with decades of culinary expertise to create delicious, accessible, healthier and more sustainable products. We have been recognized as one of Fast Company’s “Most Innovative Companies,” Entrepreneur’s “100 Brilliant Companies,” CNBC’s “Disruptor 50” and a World Economic Forum Technology Pioneer. The company’s flagship plant-based egg was named among Popular Science’s “100 Greatest Innovations,” Fast Company’s “World Changing Ideas” and, most recently, its new folded plant-based egg won “Best New Frozen Product” at Expo West’s NEXTY Awards and Delicious Living’s “Best Bite Awards.” For more information, visit <a href="https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fju.st%2F&esheet=52277930&newsitemid=20200902005368&lan=en-US&anchor=http%3A%2F%2Fju.st&index=3&md5=b07a98438919aa1aa6919ee0e7f345b6">http://ju.st</a>.</em></p>
 <p><strong>Contacts</strong></p>
 <p>Eat Just, Inc.<br />
 Andrew Noyes<br />

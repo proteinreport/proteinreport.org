@@ -8,12 +8,12 @@ excerpt: "Co-Founder Michael Tai, who led the development and scale-up of key al
 proteins: [Microbial]
 products: [Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Lever VC, Motif Foodworks, Boston Bioworks]
 company: "<a href=\"/directory/boston-bioworks\" hreflang=\"en\">Boston Bioworks</a>"
 images: ["Michael Tai Headshot_0.jpeg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-09/Mert%20Sahin%20Headshot.jpg, https://www.proteinreport.org/sites/default/files/2022-09/Ted%20Netland%20Headshot.jpg, https://www.proteinreport.org/sites/default/files/2022-09/BB_logo_fullcolor.png]
+additional_images: ["Mert Sahin Headshot.jpg", "Ted Netland Headshot.jpg", "BB_logo_fullcolor.png"]
 draft: false
 pinned: false
 homepage: false

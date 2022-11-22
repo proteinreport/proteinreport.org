@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Avant Meats]
 company: "<a href=\"/directory/avant-meats\" hreflang=\"en\">Avant Meats</a>"
 images: ["20210308_Quacell facility_2.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

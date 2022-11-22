@@ -8,12 +8,12 @@ excerpt: "Burcon NutraScience Corporation, a global technology leader in the dev
 proteins: [Plant-Based]
 products: [Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [Protein Industries Canada, Merit Functional Foods]
 company: "<a href=\"https://burcon.ca/\">Burcon NutraScience Corporation</a>"
 images: ["logo-lg.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

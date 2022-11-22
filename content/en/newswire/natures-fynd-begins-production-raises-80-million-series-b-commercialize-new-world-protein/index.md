@@ -8,12 +8,12 @@ excerpt: "Nature’s Fynd, a food tech company producing a protein from a microb
 proteins: [Microbial]
 products: [Meat, Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release, Investments]
-directory: [Nature&#039;s Fynd]
-company: "<a href=\"/directory/natures-fynd\" hreflang=\"en\">Nature&#039;s Fynd</a>"
+directory: [Nature's Fynd]
+company: "<a href=\"/directory/natures-fynd\" hreflang=\"en\">Nature's Fynd</a>"
 images: ["CEO Thomas Jonas 1.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -41,7 +41,7 @@ weight: 50
 
 <p>Added Carmichael Roberts of Breakthrough Energy Ventures: “As global demand for protein increases, we urgently need new solutions that meet our nutritional needs without further damaging the environment.”</p>
 
-<p>The company, which employs 50 people across its Chicago headquarters and its Bozeman, Montana, R&amp;D center, emerged out of NASA supported research into organisms that thrive in the extreme environmental conditions of Yellowstone National Park’s geothermal springs. Those springs are part of one of the world’s largest active volcanoes.</p>
+<p>The company, which employs 50 people across its Chicago headquarters and its Bozeman, Montana, R&D center, emerged out of NASA supported research into organisms that thrive in the extreme environmental conditions of Yellowstone National Park’s geothermal springs. Those springs are part of one of the world’s largest active volcanoes.</p>
 
 <p>Nature’s Fynd plans to employ more than 100 people by the end of the year. The company chose Chicago as its headquarters because of its robust food industry, skilled workforce and transportation infrastructure.</p>
 

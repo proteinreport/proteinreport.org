@@ -8,12 +8,12 @@ excerpt: "DIC Corporation has completed investment in Back of the Yards Algae 
 proteins: [Algae]
 products: [Ingredients]
 topics: [Business]
-regions: [Asia, US &amp; Canada]
+regions: [Asia, US & Canada]
 flags: [Press Release, Investments]
 directory: [Back of the Yards Algae Sciences]
 company: "<a href=\"https://www.dic-global.com/\">DIC Corporation</a>"
 images: ["lab 20.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

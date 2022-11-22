@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Wildtype, Upside Foods, Cultured Decadence, Gelatex, Jellatech]
 company: "<a href=\"/directory/gelatex\" hreflang=\"en\">Gelatex</a>"
 images: ["Fiber inspection_photoby_Siiri Kumari.jpg.jpeg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-04/CEO_cofounder_M%C3%A4rt-Erik%20Martens_photoby_Siiri%20Kumari.jpg, https://www.proteinreport.org/sites/default/files/2022-04/Fiber%20inspection_photoby_Siiri%20Kumari.jpg, https://www.proteinreport.org/sites/default/files/2022-04/Fiber%20production_photoby_Siiri%20Kumari.jpg, https://www.proteinreport.org/sites/default/files/2022-04/Nanofibrous%20material%20production%20on%20the%20line_photoby_Siiri%20Kumari.jpg, https://www.proteinreport.org/sites/default/files/2022-04/Nanofibrous%20material%20quality%20control_photoby_Siiri%20Kumari.jpg]
+additional_images: ["CEO_cofounder_Märt-Erik Martens_photoby_Siiri Kumari.jpg", "Fiber inspection_photoby_Siiri Kumari.jpg", "Fiber production_photoby_Siiri Kumari.jpg", "Nanofibrous material production on the line_photoby_Siiri Kumari.jpg", "Nanofibrous material quality control_photoby_Siiri Kumari.jpg"]
 draft: false
 pinned: false
 homepage: false

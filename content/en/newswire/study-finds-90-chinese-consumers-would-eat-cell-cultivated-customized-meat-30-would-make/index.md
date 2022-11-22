@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Lever VC, GFIC, CellX]
 company: "<a href=\"/directory/lever-vc\" hreflang=\"en\">Lever VC</a>"
 images: ["Lever-China-full-logo.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -29,4 +29,4 @@ weight: 50
 <p>“The name gives consumers the first impression of the product. Whether the naming can accurately convey what cultivated meat is and gain consumer acceptance is very critical,” said Doris Lee, general manager of GFI Consultancy. “We hope that Lever China's report could stimulate a wide-ranging discussion on the naming of cultivated meat and help the industry to find a name that is suitable for the China market.”</p>
 <p>You can view the complete survey report here (Chinese only): <strong>  <a href="https://newprotein.cn/?p=8282">https://newprotein.cn/?p=8282</a></strong></p>
 <p><strong>About Lever China</strong></p>
-<p>Lever China is a Shanghai-based consultancy that focuses on early-stage investment and consultancy services in the alternative protein industry, covering plant-based, cultivated and fermented animal proteins. Lever China was awarded the Top 20 Innovation Fund Award and named as the 2020 International Future Agri-Food Top 100, in addition to being highlighted as one of the top 7 Chinese Food &amp; CPG Investment Institutions to watch by FoodPlusHub for its work and investments in the alternative protein sector in China. Lever China aims to advance innovation in the alternative protein industry in China by supporting startups, investors and food companies.</p>
+<p>Lever China is a Shanghai-based consultancy that focuses on early-stage investment and consultancy services in the alternative protein industry, covering plant-based, cultivated and fermented animal proteins. Lever China was awarded the Top 20 Innovation Fund Award and named as the 2020 International Future Agri-Food Top 100, in addition to being highlighted as one of the top 7 Chinese Food & CPG Investment Institutions to watch by FoodPlusHub for its work and investments in the alternative protein sector in China. Lever China aims to advance innovation in the alternative protein industry in China by supporting startups, investors and food companies.</p>

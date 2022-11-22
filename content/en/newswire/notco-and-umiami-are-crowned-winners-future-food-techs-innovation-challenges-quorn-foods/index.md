@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Quorn, NotCo, Fumi Ingredients, Noblegen, Youkuai Group (Z-Rou), Umiami]
 company: "<a href=\"http://futurefoodtechprotein.com/\">Future Food-Tech</a>"
 images: ["Innovation Challenge Winner -_0.png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-06/Innovation%20Challenge%20Winner.png]
+additional_images: ["Innovation Challenge Winner.png"]
 draft: false
 pinned: false
 homepage: false
@@ -29,5 +29,5 @@ weight: 50
 <p>Commenting on the winning choice for Quorn Foods, Simone Sheehan said: “We saw a fantastic array of entries for the Quorn Innovation Challenge and getting to a short-list certainly wasn’t easy. Umiami’s idea stood out due to their focus on technical solutions that address the key consumer-innovation challenges around whole cuts. We look forward to collaborating with Umiami to truly delight consumers.”</p>
 <p>For Roquette, Jeremy Burks said: “We want to be the best partner for companies around the world who share our conviction and our growth ambition in plant-based gastronomy. NotCo demonstrated its strong understanding of consumers’ expectations, combined with an innovative technology to unlock the potential of nature. By using artificial intelligence, it brings gastronomy into a new era. At Roquette, we boost the current food revolution with brand new plant-based products, and we are thrilled to move forward together with our customers in the quest for exciting new gastronomic experiences.”</p>
 <p><strong>Oliver Katz</strong>, Conference Producer at Future Food-Tech said: “We have been impressed by the talent and diversity of fresh solutions presented by innovators across the globe. Congratulations to the two winners and we look forward to hearing more from these groundbreaking companies over the coming months.”</p>
-<p>The other four finalists selected to pitch were: <strong>FUMI Ingredients, Noblegen, P&amp;M, </strong>and <strong>Zrou by Youkuai Group</strong></p>
+<p>The other four finalists selected to pitch were: <strong>FUMI Ingredients, Noblegen, P&M, </strong>and <strong>Zrou by Youkuai Group</strong></p>
 <p>For more information on all finalists’ profiles and the Future Food-Tech Alternative Proteins Summit visit: <a href="http://www.futurefoodtechprotein.com/innovation-challenges/">www.futurefoodtechprotein.com/innovation-challenges/</a></p>

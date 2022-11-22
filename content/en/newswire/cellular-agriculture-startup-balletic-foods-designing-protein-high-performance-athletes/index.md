@@ -8,12 +8,12 @@ excerpt: "Balletic Foods, an alternative protein startup based in California, an
 proteins: [Microbial]
 products: [Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Balletic Foods]
 company: "<a href=\"/directory/balletic-foods\" hreflang=\"en\">Balletic Foods</a>"
 images: ["balletic.png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-09/anita_broellochs_headshot.jpg]
+additional_images: ["anita_broellochs_headshot.jpg"]
 draft: false
 pinned: false
 homepage: false

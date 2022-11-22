@@ -8,12 +8,12 @@ excerpt: "Shiru, a functional ingredients discovery company, has promoted Jason 
 proteins: [Microbial]
 products: [Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [S2G Ventures, CPT Capital, Shiru]
 company: "<a href=\"/directory/shiru\" hreflang=\"en\">Shiru</a>"
 images: ["Shiru Appoints Jason Voogt as Chief Product Officer.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -34,5 +34,5 @@ weight: 50
 <p><strong>About Shiru</strong></p>
 <p>Shiru is an ingredient discovery company on a mission to improve the sustainability of our food system. Shiru uses machine learning and precision fermentation to find and scale naturally-occurring proteins as functional ingredients to replace animal-based alternatives. Shiru’s ingredient pipeline is initially focused on gelation, egg replacement, and alternative fats. Founded in 2019, Shiru partners with some of the world’s leading ingredient makers to bring delicious, cost-effective, healthy, and sustainable products to market. Shiru is based in Alameda, California, and is backed by leading venture capital firms such as S2G Ventures, Lux Capital, and CPT Capital. Learn about our story at <a href="http://www.shiru.com">www.shiru.com</a>.</p>
 <p>Shiru Media Contact:<br />
-Kevin Costa, Director of Brand &amp; Communications<br />
+Kevin Costa, Director of Brand & Communications<br />
 <em>kevin at shiru dot com</em></p>

@@ -10,10 +10,10 @@ products: [Ingredients]
 topics: [Business]
 regions: [International]
 flags: [Press Release]
-directory: []
+directory: [NA]
 company: "<a href=\"https://futurefoodtechlondon.com/\">Future Food-Tech</a>"
 images: ["Copy of SOCIAL - Innovation Challenge FFT (1).png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-09/FFTLON21%20-%20Innovation%20Challenge%20Winner%20%281%29.png]
+additional_images: ["FFTLON21 - Innovation Challenge Winner (1).png"]
 draft: false
 pinned: false
 homepage: false
@@ -21,7 +21,7 @@ weight: 50
 ---
 <p><strong>The Kraft Heinz Challenge</strong>: Unlock the power of Beanz with solutions that bring beans or pulses as an application or ingredient to the menu of its consumers.</p>
 <p>Over 120 innovators from around the world submitted their solutions to solve the challenge set by Kraft Heinz.</p>
-<p>After an in-depth review and judging process, the team at Kraft Heinz selected three finalists for the Innovation Challenge Finale to present their solution to the judge, <strong>Erik-Jan Ransdorp</strong>, <em>International Director R&amp;D Better Meals &amp; EMEA </em>at <strong>Kraft Heinz</strong> and summit audience at Future Food-Tech on September 30.</p>
+<p>After an in-depth review and judging process, the team at Kraft Heinz selected three finalists for the Innovation Challenge Finale to present their solution to the judge, <strong>Erik-Jan Ransdorp</strong>, <em>International Director R&D Better Meals & EMEA </em>at <strong>Kraft Heinz</strong> and summit audience at Future Food-Tech on September 30.</p>
 <p><strong>Full Wrap </strong>has created an innovative gluten-free tortilla made of sprouted legumes that is also flexible, easy to use and full of whole protein and is developing products including legumes tortillas made of orange lentils, chickpeas, green buckwheat and green peas.</p>
 <p>Commenting on the Innovation Challenge, <strong>Erik-Jan Ransdorp</strong> said: “We were really impressed by all submissions, and really enjoyed the process of reviewing. The pitches of the finalists were hugely energizing. We were humbled by the commitment and excitement the finalists showed. It proved once again that PASSION is an important key to unlock success!”</p>
 <p>Reflecting on the winner, <strong>Erik-Jan Ransdorp</strong> shared: “The winner is Full Wrap. In particular the use of sprouting to reduce negative side effects of beans consumption were highly appreciated by the jury: a natural process to unlock the power of a natural product like legumes is hugely relevant in the market place globally. Super on trend and a wonderful breakthrough idea!”</p>

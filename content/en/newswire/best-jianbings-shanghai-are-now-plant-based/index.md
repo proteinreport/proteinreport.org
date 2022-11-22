@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Eat Just]
 company: "<a href=\"/directory/eat-just\" hreflang=\"en\">Eat Just</a>"
 images: ["Just-Egg-Jiangbing-Day-1-33.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-04/Just-Egg-Tour-5.jpg, https://www.proteinreport.org/sites/default/files/2021-04/Just-Egg-Tour-10.jpg, https://www.proteinreport.org/sites/default/files/2021-04/Just-Egg-Tour-44.jpg, https://www.proteinreport.org/sites/default/files/2021-04/Just-Egg-Tour-45.jpg, https://www.proteinreport.org/sites/default/files/2021-04/Just-Egg-Jiangbing-Day-1-14.jpg, https://www.proteinreport.org/sites/default/files/2021-04/Just-Egg-Jiangbing-Day-1-36.jpg, https://www.proteinreport.org/sites/default/files/2021-04/Just-Egg-Jianbing-Day-2-3.jpg, https://www.proteinreport.org/sites/default/files/2021-04/Just-Egg-Tour-12.jpg, https://www.proteinreport.org/sites/default/files/2021-04/Just-Egg-Tour-19.jpg]
+additional_images: ["Just-Egg-Tour-5.jpg", "Just-Egg-Tour-10.jpg", "Just-Egg-Tour-44.jpg", "Just-Egg-Tour-45.jpg", "Just-Egg-Jiangbing-Day-1-14.jpg", "Just-Egg-Jiangbing-Day-1-36.jpg", "Just-Egg-Jianbing-Day-2-3.jpg", "Just-Egg-Tour-12.jpg", "Just-Egg-Tour-19.jpg"]
 draft: false
 pinned: false
 homepage: false

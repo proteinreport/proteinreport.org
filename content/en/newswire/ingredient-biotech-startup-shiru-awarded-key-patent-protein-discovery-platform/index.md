@@ -8,12 +8,12 @@ excerpt: "Shiru, a functional ingredients discovery company, today announced it 
 proteins: [Plant-Based, Microbial]
 products: [Eggs, Ingredients]
 topics: [Business, Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Impossible Foods, S2G Ventures, CPT Capital, Shiru]
 company: "<a href=\"/directory/shiru\" hreflang=\"en\">Shiru</a>"
 images: ["Shiru patent (1000 × 1000 px) (3).png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-09/shiru%20logo%201200%20x%20628.png]
+additional_images: ["shiru logo 1200 x 628.png"]
 draft: false
 pinned: false
 homepage: false
@@ -26,7 +26,7 @@ weight: 50
 </ul>
 <p>ALAMEDA, CALIFORNIA, UNITED STATES, September 13, 2022. Shiru, a functional ingredients discovery company, today announced it was awarded a key patent on a high-tech approach for discovering proteins for the food industry. U.S. Patent No. 11,439,159 was issued today and is entitled “System for identifying and developing individual naturally-occurring proteins as food ingredients by machine learning and database mining combined with empirical testing for a target food function.”</p>
 <p>The patent describes Shiru’s unique approach for revealing the elusive “sequence-to-food-function” map. Using an iterative "predict-build-test" loop, Shiru first uses state-of-the-art machine learning algorithms to interrogate a database of tens of millions of naturally occurring non-animal protein sequences for candidate proteins that have desired functional characteristics. Select candidates are then screened via high-throughput strain engineering and protein function assays to identify proteins that can be mass-produced via precision fermentation. The experimental data are fed back into the models to continuously improve the accuracy and efficiency of the functional predictions.</p>
-<p>“We’ve created the most powerful toolbox for alternative proteins in the plant-based food industry, offering food makers unique and rapid access to new functional food ingredients,” said Jasmin Hume, Shiru Founder &amp; CEO and lead inventor on the patent. “From improving ingredient functionality and discovering clean-label alternatives to bringing disruptive new products to market, our platform helps our partners solve a wide range of problems.”</p>
+<p>“We’ve created the most powerful toolbox for alternative proteins in the plant-based food industry, offering food makers unique and rapid access to new functional food ingredients,” said Jasmin Hume, Shiru Founder & CEO and lead inventor on the patent. “From improving ingredient functionality and discovering clean-label alternatives to bringing disruptive new products to market, our platform helps our partners solve a wide range of problems.”</p>
 <p>“The U.S. plant-based foods market is expected to grow to $7 billion, driven by consumers and food manufacturers seeking more delicious and sustainable foods,“ said Hume. “Systematically finding functional ingredients is the core of our technology, and the ability to discover diverse, natural proteins as food ingredients as described in this patent gives Shiru a competitive advantage that no other company has.” </p>
 <p>“This patented process is a key component of our Flourish™ discovery platform, which is at the heart of Shiru’s ability to develop individual proteins and mixed protein isolates,” said Lawrence Lee, Shiru CTO and patent co-inventor. “The patent protects the value of our existing technology and also creates new potential value for using naturally occurring proteins in advanced biomaterials and beyond.”</p>
 <p>The patent specifies food functions like gelation, moisture retention, fat structuring, fiber formation, and flavors as targets. The patent claims the technology’s use in developing alternative meat products, baked goods, and confectionery while describing its use in other application areas such as cosmetics and pharmaceuticals.</p>
@@ -34,5 +34,5 @@ weight: 50
 <p>About Shiru</p>
 <p>Shiru is an ingredient discovery company on a mission to improve the sustainability of our food system. Using a combination of machine learning, bioinformatics, and precision fermentation, Shiru’s Flourish platform uncovers new uses for naturally-occurring proteins as functional ingredients that can replace animal-based products used in food today. Founded in 2019, Shiru is developing a growing range of functional ingredients, with an early focus on gelation, egg replacement, and structured fats functions. Powered by a team of technology experts and food industry veterans, Shiru is working to reduce the world’s reliance on animals for food by providing delicious, cost-effective, healthy, and sustainable alternatives. Shiru is based in Alameda, California, and is backed by leading venture capital firms such as S2G Ventures, Lux Capital, and CPT Capital. For more information, visit <a href="http://www.shiru.com"><u>www.shiru.com</u></a>.</p>
 <p>Shiru Media Contact:<br />
-Kevin Costa, Director of Brand &amp; Communications<br />
+Kevin Costa, Director of Brand & Communications<br />
 <a href="mailto:kevin@shiru.com">kevin@shiru.com</a></p>

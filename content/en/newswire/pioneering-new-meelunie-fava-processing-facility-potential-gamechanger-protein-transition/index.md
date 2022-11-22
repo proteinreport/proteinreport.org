@@ -10,10 +10,10 @@ products: [Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release]
-directory: []
+directory: [NA]
 company: "<a href=\"https://meelunie.com/\">Meelunie</a>"
 images: ["fava.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

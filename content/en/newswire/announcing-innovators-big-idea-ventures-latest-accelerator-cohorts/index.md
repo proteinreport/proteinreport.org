@@ -8,12 +8,12 @@ excerpt: "Big Idea Ventures, global leader in early stage investing in the food 
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business]
-regions: [Africa, Asia, Europe, International, US &amp; Canada]
+regions: [Africa, Asia, Europe, International, US & Canada]
 flags: [Press Release, Investments]
 directory: [Luyef Biotechnologies, Big Idea Ventures, Opalia, Mogale Meat Company, Fybraworks Foods, De Novo Dairy, Prosel Biosciences, Maya Milk, Liven Proteins, Bright Biotech]
 company: "<a href=\"/directory/big-idea-ventures\" hreflang=\"en\">Big Idea Ventures</a>"
 images: ["Big Idea Ventures Black Logo.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -37,7 +37,7 @@ weight: 50
 <p><em>Singapore Accelerator</em><strong> </strong>--<strong> </strong><em>Cohort </em><em>4</em></p>
 <p><em>“Singapore is at the forefront for regulatory approvals and commercialisation of cell-based meats and alternative protein. Our cohort is leading with cutting-edge innovations from indulgent foods, cultivated exotic meat and surimi and a multitude of fermentation solutions to produce sustainable protein.” — Dr. Dalal AlGhawas, Program Director, BIV Singapore</em></p>
 <ul>
-<li><strong>Phyx44</strong> — is a cellular agriculture startup creating dairy alternatives using precision fermentation. Phyx44 is producing nature-identical, animal free dairy proteins &amp; fats to recreate milk and its derivatives - same taste, healthier &amp; lower carbon footprint.</li>
+<li><strong>Phyx44</strong> — is a cellular agriculture startup creating dairy alternatives using precision fermentation. Phyx44 is producing nature-identical, animal free dairy proteins & fats to recreate milk and its derivatives - same taste, healthier & lower carbon footprint.</li>
 <li><strong>LILO</strong> — is a New Zealand fruit technology company creating permissibly indulgent snacks from low grade and waste fruit. LILO's hero product is a ready to eat plant based and gluten free cheesecake that is every bit as indulgent as it's dairy counterpart. LILO is working directly with New Zealand orchardists and strategic partners  the potential in unused produce and create a range of nutritionally superior products for on the go lifestyles.</li>
 <li><strong>Fisheroo</strong> — is Southeast Asia’s first cell-based fish company focusing on the $5 billion huge surimi industry, and aims to create surimi at scale and sell it as an ingredient to existing surimi product manufacturers and potentially integrating with innovative plant-based companies. Fisheroo has  their proprietary cell line within their state-of-the-art facility based in Singapore and are on track to deliver a prototype within 2022.</li>
 <li><strong>Mogale Meat</strong> —  is Africa’s first cultivated game meat company, is developing real meat products from southern Africa’s antelope, poultry and free-roaming cattle species, using advanced cellular agriculture technologies. Their proprietary biobank of stem and satellite cell lines is sourced from free-range livestock and wild antelope and poultry species, each valued for their unique flavour and health benefits. By investing in southern Africa’s rich biodiversity with minimal impact, Mogale Meat Co distinguishes itself from existing competitors by expanding culinary diversity of cell cultured meat.</li>

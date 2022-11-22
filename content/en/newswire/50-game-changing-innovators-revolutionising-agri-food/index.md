@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Eat Just, Perfect Day Foods, Triton Algae Innovations, V2food, Aleph Farms, Mosa Meat, Shiok Meats, BlueNalu, Upside Foods, Growthwell Group, ChickP, VisVires New Protein, Bluu Seafood, Next Gen Foods, Magic Valley, Float Foods, SeaSpire, New School Foods]
 company: "<a href=\"https://agrifoodinnovation.com/\">Rethink Events</a>"
 images: ["AP_Agri-Food_2021_webslider_2650x1000px_v2_NEWS-scaled.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -25,14 +25,14 @@ weight: 50
 <p><em>“Given the complex challenges Asia's food system faces, the need for fast-paced, scalable innovation has never been greater. The summit creates opportunities for entrepreneurs to connect directly with investors and corporate partners, to bring their solutions to scale and change the agri-food landscape for the benefit of all. I am excited to witness the collaborations stemming from the conference this October”</em> says Theresa Flach, the summit’s Conference Producer and technology scout.</p>
 <p>Start-ups are celebrated throughout the summit programme, with a pre-summit pitch day, themed innovation showcases across the three-day agenda, and a dedicated start-up exhibition space.</p>
 <p><strong>Innovation Showcases</strong></p>
-<p>12 start-ups from the Asia-Pacific region will pitch their solution to a panel of industry judges across four themed innovation showcases covering Agtech, Foodtech, Aquaculture and CEA &amp; Vertical Farming.</p>
+<p>12 start-ups from the Asia-Pacific region will pitch their solution to a panel of industry judges across four themed innovation showcases covering Agtech, Foodtech, Aquaculture and CEA & Vertical Farming.</p>
 <p><strong><em>AgTech Takes the Stage</em></strong></p>
 <ul>
 <li><strong>Qzense</strong> (India) aims to minimise and eliminate post-harvest food loss with its IoT solution that quickly and accurately grades fresh food. The technology employs a unique combination of near-infrared spectral sensors and olfactory sensors for analysis of internal spoilage, ripeness, sweetness, and shelf life.</li>
-<li><strong>Boomitra</strong> (India &amp; US) uses satellite and AI to measure a variety of soil properties including soil carbon, soil moisture and nitrogen, and provides an end-to-end solution where farmers are able to grow more with less through carbon farming.</li>
+<li><strong>Boomitra</strong> (India & US) uses satellite and AI to measure a variety of soil properties including soil carbon, soil moisture and nitrogen, and provides an end-to-end solution where farmers are able to grow more with less through carbon farming.</li>
 <li><strong>CH4 Global </strong>(Australia) provides seaweed-based Asparagopsis products to farmers worldwide so they can dramatically reduce the methane emissions of their livestock and realize significant value in the process.</li>
 </ul>
-<p><strong><em>CEA &amp; Vertical Farming Spotlight</em></strong></p>
+<p><strong><em>CEA & Vertical Farming Spotlight</em></strong></p>
 <ul>
 <li><strong>Future Farms</strong> (Malaysia) aims to season-proof agriculture by building decentralized, remote-controlled farms. Future Farms promise that their services provide endless customization and are infinitely scalable.</li>
 <li><strong>Grobrix</strong> (Singapore) presents a unique solution to indoor farming by combining the best of furniture with farming. Its soilless vertical farming design offers a cleaner, simpler, more efficient way to grow fresh, healthy food.</li>
@@ -83,7 +83,7 @@ weight: 50
 <li>Chakradhar Gade (<strong>Country Delight</strong>) will connect the dots from farm to fork while presenting his insights on supply chain digitization.</li>
 <li>Mohit Pande (<strong>Cropin</strong>) and Dhruv Sawhney (<strong>Nurture.Farm</strong>) will bring their unique perspectives on driving technology adoption and scaling digital farming platforms in India.</li>
 </ul>
-<p><strong><em>CEA &amp; Vertical Farming</em></strong></p>
+<p><strong><em>CEA & Vertical Farming</em></strong></p>
 <ul>
 <li>Jay Desan (<strong>BoomGrow</strong>), Jack Moy (<strong>Sustenir</strong>), Chris Lee (<strong>N.THING</strong>) and David Farquhar (<strong>IGS</strong>) will join the Vertical Farming Leaders Forum, focused on increasing support for innovation in precision growing.</li>
 <li>Tom Adams (<strong>Pairwise</strong>) and Derek Drost (<strong>Unfold</strong>) will explore the milestones that have been achieved in seed breeding and genetics for CEA and vertical farming.</li>
@@ -95,7 +95,7 @@ weight: 50
 <li>Lou Cooperhouse (<strong>BlueNalu</strong>) will argue the case for strengthening seafood supply chains through the wider adoption of alternative proteins.</li>
 <li>Leo Wein (<strong>Protenga</strong>) and Gaetan Crielaard (<strong>Entobel</strong>) will talk one on one in a fireside chat focused on the acceleration of novel ingredients.    </li>
 </ul>
-<p><strong><em>Food-Tech &amp; Alternative Proteins</em></strong></p>
+<p><strong><em>Food-Tech & Alternative Proteins</em></strong></p>
 <ul>
 <li>XL Lin (<strong>Esco Aster</strong>), Sandhya Sriram (<strong>Shiok Meats</strong>), Didier Toubia (<strong>Aleph Farms</strong>), Amy Chen (<strong>Upside Foods</strong>) and Maarten Bosch (<strong>Mosa Meat</strong>) will deep-dive into cultivated proteins and the complexities of building supply chains to accelerate market growth.</li>
 <li>Helga Angelina Tjahjadi (<strong>Green Rebel</strong>) will explore new trends emerging for plant-based protein production advancement.</li>

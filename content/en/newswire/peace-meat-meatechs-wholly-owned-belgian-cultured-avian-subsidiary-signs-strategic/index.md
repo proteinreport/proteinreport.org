@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Steakholder Foods, Peace of Meat, Enough]
 company: "<a href=\"/directory/steakholder-foods\" hreflang=\"en\">Steakholder Foods</a>"
 images: ["PR-images_With-PoM-logo_All-002-1.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -22,7 +22,7 @@ weight: 50
 <p><em><strong>MeaTech believes the collaboration will produce game-changing hybrid alternative meat products that are both delicious and nutritious and better resemble conventional meat</strong></em></p>
 <p>Rehovot, Israel, May 20, 2022 — MeaTech 3D Ltd. (Nasdaq: MITC), an international deep-tech food company at the forefront of the cultured meat industry, is pleased to announce that its wholly owned Belgian subsidiary, Peace of Meat, has signed a joint development agreement with ENOUGH, a leader in the field of mycoprotein, a fungi-based fermented food ingredient. The collaboration aims to accelerate MeaTech’s go-to-market strategy for hybrid products.</p>
 <p>This innovative initiative will combine Peace of Meat’s unique expertise in cultured avian development with ENOUGH’s cutting-edge mycoprotein ingredient to create game-changing hybrid alternative meat products. Cultured avian fat biomass will provide the signature flavors, aromas and textures of conventional meat. ENOUGH’s mycoprotein will add high nutritional value with rich protein and fiber content and essential amino acids, zinc and iron.</p>
-<p>At a recent MeaTech tasting event, MeaTech’s chef prepared hybrid chicken nuggets that included Peace of Meat’s cultured chicken fat biomass. The feedback from attendees, which included prominent food industry investors, was unanimously positive. Last September, Peace of Meat successfully produced 700 grams of pure cultured chicken fat biomass in a single production run. On the heels of that breakthrough, a pilot plant and R&amp;D facility in Belgium are planned to begin scaled-up production in 2023.</p>
+<p>At a recent MeaTech tasting event, MeaTech’s chef prepared hybrid chicken nuggets that included Peace of Meat’s cultured chicken fat biomass. The feedback from attendees, which included prominent food industry investors, was unanimously positive. Last September, Peace of Meat successfully produced 700 grams of pure cultured chicken fat biomass in a single production run. On the heels of that breakthrough, a pilot plant and R&D facility in Belgium are planned to begin scaled-up production in 2023.</p>
 <p>ENOUGH will also have its flagship pilot plant in the south of the Netherlands not far from Peace of Meat’s facility. The companies’ shared product vision and commercialization goals make this an ideal partnership for bringing innovative and sustainable new products to the hybrid food market.</p>
 <p><strong>Dirk von Heinrichshorst, CEO of Peace of Meat, said</strong>: “This joint venture with ENOUGH is a milestone toward advancing our vision to use cultured fat biomass as an ingredient for developing delicious and innovative hybrid food products that better mimic farm-raised meat.”</p>
 <p><strong>Arik Kaufman, CEO of MeaTech, said</strong>: “We are excited to sign a collaboration agreement with ENOUGH, a global leader in mycoprotein as an ingredient, to accelerate our commercialization of next-generation meat substitutes — hybrid products with cultured fat biomass. These game changing, primarily plant-based products promise to offer a meatier taste and mouthfeel that is closer to conventional meat products.”</p>

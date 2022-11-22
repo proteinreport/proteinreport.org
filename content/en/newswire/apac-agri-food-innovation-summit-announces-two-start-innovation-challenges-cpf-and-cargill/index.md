@@ -10,10 +10,10 @@ products: [Meat]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release]
-directory: []
+directory: [NA]
 company: "<a href=\"https://agrifoodinnovation.com/\">Rethink Events</a>"
 images: ["APAC21 Innovation Challenge Webinar.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -24,7 +24,7 @@ weight: 50
 <p>Start-ups are invited to apply until September 22: <a href="http://www.agrifoodinnovation.com/innovation-challenges-2021">www.agrifoodinnovation.com/innovation-challenges-2021</a></p>
 <p><strong>THE CPF INNOVATION CHALLENGE: Enhancing Texture, Juiciness and Aroma to Create Healthy Plant-Based Meat Alternatives</strong></p>
 <p>Consumer requirements today have become more complex. They don’t just want to consume “plant-based” foods, they require products that resemble meat in all aspects such as texture, taste and nutritional value. CPF is looking for companies with technologies to solve these pain-points, so that consumers can say: “I can’t believe this is not meat!”</p>
-<p>Commenting on the challenge, Lalana Thiranusornkij, SVP - Head of Innovation &amp; NPD at CPF Thailand said:</p>
+<p>Commenting on the challenge, Lalana Thiranusornkij, SVP - Head of Innovation & NPD at CPF Thailand said:</p>
 <p><em>"While CPF is a leading global company in animal proteins, we see the consumer shift to Flexitarian. With CPF’s vision to be the "Kitchen of the World", we want to keep up with changing consumer requirements, and provide meat alternatives such as plant-based proteins and cell based into their diets when they want it! We also look at other protein sources with improved functionality and nutritional benefits in order to match the experience of eating actual meat. We must use technology both in-house and work with the open innovation ecosystem to recreate the taste, texture and nutritional profile of meat."</em></p>
 <p><strong>THE CARGILL INNOVATION CHALLENGE: Digital Solutions to Connect and Enhance the Sustainable Food Production Chain in APAC</strong></p>
 <p>As part of its purpose to nourish the world in a safe, responsible and sustainable way, Cargill invites start-ups to present digital solutions that support sustainable food production and processing throughout the value chain.</p>

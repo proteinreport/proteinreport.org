@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Wilk]
 company: "<a href=\"/directory/wilk\" hreflang=\"en\">Wilk</a>"
 images: ["DSC_9879.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-06/Wilk%202.jpg, https://www.proteinreport.org/sites/default/files/2022-06/Logo%20white.jpg]
+additional_images: ["Wilk 2.jpg", "Logo white.jpg"]
 draft: false
 pinned: false
 homepage: false
@@ -27,7 +27,7 @@ weight: 50
 
 <p>“This breakthrough brings us one step closer to our goal of providing all infants with the full range of nutritional benefits that can only be found in breast milk,” said Tomer Aizen CEO of Wilk. “This is significant news for both the infant formula industry and parents who may soon have access to the optimal product for ensuring their infants’ growth and development.”</p>
 
-<p>In addition to its benefits for infant nutrition, lactoferrin has displayed significant potential in addressing a range of other health issues, with studies showing its preventive and therapeutic benefits for conditions including coronary heart disease and even <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2020.01221/full#:~:text=10.3389%2Ffimmu.2020.01221-,The%20Biology%20of%20Lactoferrin%2C%20an%20Iron%2DBinding%20Protein%20That%20Can,Defend%20Against%20Viruses%20and%20Bacteria&amp;text=Lactoferrin%20is%20a%20nutrient%20classically,%2C%20bile%2C%20and%20cerebrospinal%20fluid.">coronavirus</a>. Recent trials have also reported that lactoferrin can bind to some of the receptors through which the coronavirus attacks cells in the digestive and respiratory system, thus potentially preventing infection.</p>
+<p>In addition to its benefits for infant nutrition, lactoferrin has displayed significant potential in addressing a range of other health issues, with studies showing its preventive and therapeutic benefits for conditions including coronary heart disease and even <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2020.01221/full#:~:text=10.3389%2Ffimmu.2020.01221-,The%20Biology%20of%20Lactoferrin%2C%20an%20Iron%2DBinding%20Protein%20That%20Can,Defend%20Against%20Viruses%20and%20Bacteria&text=Lactoferrin%20is%20a%20nutrient%20classically,%2C%20bile%2C%20and%20cerebrospinal%20fluid.">coronavirus</a>. Recent trials have also reported that lactoferrin can bind to some of the receptors through which the coronavirus attacks cells in the digestive and respiratory system, thus potentially preventing infection.</p>
 
 <p>Wilk estimates that further development will enable the production of human lactoferrin in unlimited amounts, thus facilitating the long-term sustainable production of such proteins independent of animal or human sources.</p>
 

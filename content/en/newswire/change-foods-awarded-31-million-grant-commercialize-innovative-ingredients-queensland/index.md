@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Change Foods]
 company: "<a href=\"/directory/change-foods\" hreflang=\"en\">Change Foods</a>"
 images: ["Photo 2 Change R&D Team_0_0.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

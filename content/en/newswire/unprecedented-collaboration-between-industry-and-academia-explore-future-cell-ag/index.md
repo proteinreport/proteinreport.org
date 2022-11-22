@@ -8,12 +8,12 @@ excerpt: "The Cultivate Tomorrow initiative aims to help bridge the gap between 
 proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [New Harvest, Perfect Day Foods, Wildtype, TurtleTree Labs, The Every Company, Higher Steaks, Mission Barns, Biomilq, Ginkgo Bioworks]
 company: "<a href=\"/directory/cultivate-tomorrow\" hreflang=\"en\">Cultivate Tomorrow</a>"
 images: ["ct.png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-01/2_0.png]
+additional_images: ["2_0.png"]
 draft: false
 pinned: false
 homepage: false

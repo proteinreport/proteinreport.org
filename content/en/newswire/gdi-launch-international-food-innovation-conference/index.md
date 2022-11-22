@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [The Better Meat Co., Blue Horizon Ventures, CPT Capital]
 company: "<a href=\"https://www.gdi.ch/\">Gottlieb Duttweiler Institute</a>"
 images: ["synthetic-meat_cooke_1.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -25,7 +25,7 @@ weight: 50
 <ul>
 <li><strong>Paul Shapiro</strong> (US), author of the bestseller "Clean Meat", a four-time TEDx speaker, and CEO of The Better Meat Co.</li>
 <li><strong>Lord Adair Turner</strong> (GB), chairman of the British Energy Transitions Commission and Senior Fellow of the Institute for New Economic Thinking</li>
-<li><strong>Sjaak Wolfert</strong> (NL), theme ambassador for Digital Innovation in Agri-Food at Wageningen University &amp; Research</li>
+<li><strong>Sjaak Wolfert</strong> (NL), theme ambassador for Digital Innovation in Agri-Food at Wageningen University & Research</li>
 <li><strong>Chris Smaje</strong> (GB), author of the book "A Small Farm Future" and board member of the Ecological Land Co-op</li>
 <li><strong>Emma Slack</strong> (CH), Professor of Food Immunology at ETH Zurich</li>
 <li><strong>Martin Zehnder</strong> (CH), Category Manager Meat, Migros</li>

@@ -8,12 +8,12 @@ excerpt: "Plant-based dairy startup Take Two Foods, which launched the world’
 proteins: [Plant-Based]
 products: [Dairy]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Take Two Foods]
 company: "<a href=\"/directory/take-two-foods\" hreflang=\"en\">Take Two Foods</a>"
 images: ["TakeTwoLineup.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

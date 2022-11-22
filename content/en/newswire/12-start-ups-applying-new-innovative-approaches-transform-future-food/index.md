@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [The Vegetarian Butcher, Orbillion Bio]
 company: "<a href=\"https://futurefoodtechnyc.com/\">Future Food-Tech</a>"
 images: ["fft ecosystem.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2020-10/fft_0.png]
+additional_images: ["fft_0.png"]
 draft: false
 pinned: false
 homepage: false

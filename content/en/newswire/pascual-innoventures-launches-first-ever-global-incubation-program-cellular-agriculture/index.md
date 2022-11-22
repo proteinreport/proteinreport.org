@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Eatable Adventures]
 company: "<a href=\"https://mylkcubator.com/\">Pascual Innoventures </a>"
 images: ["Gabriel Torres Pascual_Mylkcubator.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-05/Mylkcubator.png]
+additional_images: ["Mylkcubator.png"]
 draft: false
 pinned: false
 homepage: false
@@ -30,7 +30,7 @@ weight: 50
 <p>Sej began his career in Switzerland and France, worked in various companies in the United Kingdom, Ireland and Spain, and also gained experience as a strategic innovation consultant as well as co-founding a FoodTech startup.</p>
 <p>Gabriel Torres Pascual has worked for Google in New York and London, holds an MBA from MIT (Massachusetts Institute of Technology) and completed a Master of Science at Imperial College London.</p>
 <p><em>"The entrepreneurial, innovative spirit is in our genes, it comes from the attitude that my grandfather instilled in us of being nonconformist, dreaming big and daring to take risks, not only with our heads but also with our hearts. This is how Pascual Innoventures was born with a long-term vision and the purpose of giving the best for the future of food. We will work hand in hand with startups that allow us to move into the future" </em>says Gabriel Torres.</p>
-<p>In addition to this initiative, Pascual Innoventures is already working on many other strategic projects, which seek to respond and provide solutions to some of the major challenges in the agri-food sector, such as food security, health &amp; wellness, and circular economy.</p>
+<p>In addition to this initiative, Pascual Innoventures is already working on many other strategic projects, which seek to respond and provide solutions to some of the major challenges in the agri-food sector, such as food security, health & wellness, and circular economy.</p>
 <p><strong>About Pascual</strong></p>
 <p>Pascual is a family-owned business established in Spain in 1969 that operates primarily in the food and beverage sector through Pascual and its subsidiary companies.</p>
 <p>Pascual has a range of over 200 products, 6 plants, 27 local offices and over 2,000 employees across 63 countries in which it operates.</p>

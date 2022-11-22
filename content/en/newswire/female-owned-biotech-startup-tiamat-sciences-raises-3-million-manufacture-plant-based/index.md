@@ -8,12 +8,12 @@ excerpt: "Biotechnology startup Tiamat Sciences today announced its $3 million s
 proteins: [Cell-Based, Molecular Farming]
 products: [Ingredients]
 topics: [Business]
-regions: [Europe, US &amp; Canada]
+regions: [Europe, US & Canada]
 flags: [Press Release, Investments]
 directory: [Wild Earth, Tiamat Sciences]
 company: "<a href=\"/directory/tiamat-sciences\" hreflang=\"en\">Tiamat Sciences</a>"
 images: ["tiamatimg.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

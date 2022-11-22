@@ -8,12 +8,12 @@ excerpt: "Bond Pet Foods has developed the world’s first animal-free chicken p
 proteins: [Cell-Based]
 products: [Meat, Pet Food]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [Bond Pet Foods, Lever VC, Agronomics, KBW Ventures]
 company: "<a href=\"/directory/bond-pet-foods\" hreflang=\"en\">Bond Pet Foods</a>"
 images: ["HERO_Bond_Pre-Dried_Chicken Protein_V1.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -110,6 +110,6 @@ weight: 50
 <p><strong>About Bond Pet Foods</strong><br />
 Bond Pet Foods, Inc. is a Boulder, Colorado-based pet food company using biotechnology to create food that’s nutritionally comparable to conventional meat but without all the bad stuff; so people, pets, farm animals and the planet all win. Using some of the same processes that are employed in craft brewing, Bond produces high-quality cultured fungal and animal proteins through fermentation, harvests them to better meet the nutritional requirements of companion animals, and uses the ingredients as the foundation of its complete recipes.</p>
 
-<p>Bond’s investors include some of the most prominent funds in the alternative protein and CPG space including Lever VC, KBW Ventures, Agronomics, and the Stage 1 Fund. The company was also named a 2019 <a href="https://newscenter.purina.com/2019-01-30-Five-Pet-Care-Startups-Chosen-For-Purina-Pet-Care-Innovation-Prize">Purina Petcare Innovation Prize</a> finalist as one of the most innovative pet care start-ups in the world, and a 2020 finalist of <a href="https://www.nutreco.com/en/News/Press-releases/nutreco-announces-its-feed-food-tech-challenge-finalists/1625137">Nutreco’s Food&amp;Feed Tech Challenge</a>. For more information on Bond’s technology and team — visit bondpets.com or follow on <a href="https://www.instagram.com/bondpetfoods/">Instagram</a>, <a href="https://www.facebook.com/bondpetfoods/">Facebook</a>, and <a href="https://twitter.com/bondpetfoods">Twitter</a>.</p>
+<p>Bond’s investors include some of the most prominent funds in the alternative protein and CPG space including Lever VC, KBW Ventures, Agronomics, and the Stage 1 Fund. The company was also named a 2019 <a href="https://newscenter.purina.com/2019-01-30-Five-Pet-Care-Startups-Chosen-For-Purina-Pet-Care-Innovation-Prize">Purina Petcare Innovation Prize</a> finalist as one of the most innovative pet care start-ups in the world, and a 2020 finalist of <a href="https://www.nutreco.com/en/News/Press-releases/nutreco-announces-its-feed-food-tech-challenge-finalists/1625137">Nutreco’s Food&Feed Tech Challenge</a>. For more information on Bond’s technology and team — visit bondpets.com or follow on <a href="https://www.instagram.com/bondpetfoods/">Instagram</a>, <a href="https://www.facebook.com/bondpetfoods/">Facebook</a>, and <a href="https://twitter.com/bondpetfoods">Twitter</a>.</p>
 
 <p><em>Lead image: Bond’s cultured chicken protein chunks </em>(after filtration, before drying)<em>. Bond Pet Foods.</em></p>

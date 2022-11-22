@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [CPT Capital, BioRaptor]
 company: "<a href=\"/directory/bioraptor\" hreflang=\"en\">BioRaptor</a>"
 images: ["bioraptor_cofounders_0.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-10/Ori%20Zakin.jpeg, https://www.proteinreport.org/sites/default/files/2022-10/Yaron%20David.jpeg]
+additional_images: ["Ori Zakin.jpeg", "Yaron David.jpeg"]
 draft: false
 pinned: false
 homepage: false

@@ -3,10 +3,8 @@ title: "Bitburger Brewery Group and Mushlabs announce collaboration"
 date: 2022-07-13 15:00:23
 lastmod: 2022-07-13 15:00:23
 slug: /bitburger-brewery-group-and-mushlabs-announce-collaboration
-description: "Germany’s leading biotech startup Mushlabs will be working together with Bitburger Brewery
-Group, one of the most significant private brewery groups in Germany."
-excerpt: "Germany’s leading biotech startup Mushlabs will be working together with Bitburger Brewery
-Group, one of the most significant private brewery groups in Germany."
+description: "Germany’s leading biotech startup Mushlabs will be working together with Bitburger BreweryGroup, one of the most significant private brewery groups in Germany."
+excerpt: "Germany’s leading biotech startup Mushlabs will be working together with Bitburger BreweryGroup, one of the most significant private brewery groups in Germany."
 proteins: [Fungi]
 products: [Meat, Ingredients]
 topics: [Business]
@@ -15,7 +13,7 @@ flags: [Press Release]
 directory: [Mushlabs]
 company: "<a href=\"/directory/mushlabs\" hreflang=\"en\">Mushlabs</a>"
 images: ["Mushlabs_Fermenter.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

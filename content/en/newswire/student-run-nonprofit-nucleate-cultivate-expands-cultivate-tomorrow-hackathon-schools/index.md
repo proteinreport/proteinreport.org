@@ -8,12 +8,12 @@ excerpt: "Registration is open until November 10th for students to take part in 
 proteins: [Cell-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 flags: [Press Release]
 directory: [New Harvest, Aleph Farms, Cellular Agriculture Australia, Agriculture Cellulaire France, Cultivate Tomorrow]
 company: "<a href=\"/directory/cultivate-tomorrow\" hreflang=\"en\">Cultivate Tomorrow</a>"
 images: ["ct.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -24,7 +24,7 @@ weight: 50
 <p>The Cultivate Tomorrow Hackathon places undergraduate and graduate students in multidisciplinary teams to design creative solutions to some of the most critical hurdles faced by the industry. Each team will work together with an industry mentor to focus on one of the competition's two tracks:</p>
 <ol>
 <li>Advertising. The Advertising Track tasks teams with taking the perspective of a company selling a sustainable future food product. Teams will be expected to prepare a low-fidelity version of an advertising campaign that improves the perception of cultivated or precision fermentation-based products, presents the scientific concepts behind them, and excites the general public about the prospect of these new options.</li>
-<li>Underutilized Resource &amp; Novel Technology. Teams in the Underutilized Resource Track will be tasked with identifying and evaluating a novel technology or resource that can drastically improve the state of R&amp;D for animal cell culture or precision fermentation processes. They will produce a proposal of an underutilized resource that can help with cost reduction, quality improvement, environmental footprint, increase in process efficiency, or diversification of cultivated food products. Teams will choose a resource of interest and develop a research proposal that outlines the different experimental steps they would need to take to evaluate and validate this resource.</li>
+<li>Underutilized Resource & Novel Technology. Teams in the Underutilized Resource Track will be tasked with identifying and evaluating a novel technology or resource that can drastically improve the state of R&D for animal cell culture or precision fermentation processes. They will produce a proposal of an underutilized resource that can help with cost reduction, quality improvement, environmental footprint, increase in process efficiency, or diversification of cultivated food products. Teams will choose a resource of interest and develop a research proposal that outlines the different experimental steps they would need to take to evaluate and validate this resource.</li>
 </ol>
 <p>As part of the competition, exclusive seminars and talks from industry and technical experts will be provided to give participants a rounded view and additional insight into the possibilities and challenges of the cellular agriculture sector. Teams are expected to conduct appropriate research and compose reports detailing their efforts and findings that will be presented to peers and judges.</p>
 <p>"This program fosters creativity, problem-solving, and out-of-the-box thinking that will aid in societal understanding, development, and integration of cell-based products," says Jasmin Kern, founder and director of the Hackathon.</p>

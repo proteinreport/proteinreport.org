@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Change Foods]
 company: "<a href=\"/directory/change-foods\" hreflang=\"en\">Change Foods</a>"
 images: ["Change Foods - KEZAD Signing.jpeg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

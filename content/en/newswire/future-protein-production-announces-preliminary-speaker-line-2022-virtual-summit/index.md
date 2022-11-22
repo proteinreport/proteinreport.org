@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Quorn, The Better Meat Co., Big Idea Ventures, Cellular Agriculture Australia]
 company: "<a href=\"https://www.future-proofgroup.com/\">Future-Proof Group</a>"
 images: ["616ff936a33c36820618fbae_Future of Protein Production Summit Dates - White - PNG-p-800.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Big Idea Ventures, Mewery]
 company: "<a href=\"/directory/mewery\" hreflang=\"en\">Mewery</a>"
 images: ["future_product_line.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-10/Mewery%201.jpg, https://www.proteinreport.org/sites/default/files/2022-10/Mewery%202.jpg, https://www.proteinreport.org/sites/default/files/2022-10/Mewery%203.jpg, https://www.proteinreport.org/sites/default/files/2022-10/Mewery%204.jpg, https://www.proteinreport.org/sites/default/files/2022-10/Mewery%205.jpg, https://www.proteinreport.org/sites/default/files/2022-10/Roman%20Lau%C5%A1%202.jpg]
+additional_images: ["Mewery 1.jpg", "Mewery 2.jpg", "Mewery 3.jpg", "Mewery 4.jpg", "Mewery 5.jpg", "Roman Lauš 2.jpg"]
 draft: false
 pinned: false
 homepage: false

@@ -8,12 +8,12 @@ excerpt: "NuCicer debuts chickpeas with 75% higher protein content developed nat
 proteins: [Plant-Based]
 products: [Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [NuCicer]
 company: "<a href=\"/directory/nucicer\" hreflang=\"en\">NuCicer</a>"
 images: ["Diverse Chickpea Material - NuCicer.JPG"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-12/KathrynCook%20-%20NuCicer%20CEO_0.jpeg, https://www.proteinreport.org/sites/default/files/2021-12/NuCicer%20Chickpea%20Field%20Trial.png, https://www.proteinreport.org/sites/default/files/2021-12/NuCicer%20High%20Protein%20Chickpea%20Variety.jpg, https://www.proteinreport.org/sites/default/files/2021-12/NuCicer%20Novel%20Chickpea%20Varieties.jpg]
+additional_images: ["KathrynCook - NuCicer CEO_0.jpeg", "NuCicer Chickpea Field Trial.png", "NuCicer High Protein Chickpea Variety.jpg", "NuCicer Novel Chickpea Varieties.jpg"]
 draft: false
 pinned: false
 homepage: false

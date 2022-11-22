@@ -3,19 +3,17 @@ title: "55 Start-Ups You Will Want to Meet at Future Food-Tech"
 date: 2022-02-24 08:22:51
 lastmod: 2022-02-24 08:22:51
 slug: /55-start-ups-you-will-want-meet-future-food-tech
-description: "Food-tech start-ups are trailblazing the future of food. As talented innovators leverage new technologies to bring novel foods to consumers on a global scale, there has never been a more exciting time to touch, taste and smell the breakthrough novel foods.
-Future Food-Tech reveals 55 start-ups for your innovation radar, as they take the global summit spotlight in San Francisco on March 24-25."
-excerpt: "Food-tech start-ups are trailblazing the future of food. As talented innovators leverage new technologies to bring novel foods to consumers on a global scale, there has never been a more exciting time to touch, taste and smell the breakthrough novel foods.
-Future Food-Tech reveals 55 start-ups for your innovation radar, as they take the global summit spotlight in San Francisco on March 24-25."
+description: "Food-tech start-ups are trailblazing the future of food. As talented innovators leverage new technologies to bring novel foods to consumers on a global scale, there has never been a more exciting time to touch, taste and smell the breakthrough novel foods.Future Food-Tech reveals 55 start-ups for your innovation radar, as they take the global summit spotlight in San Francisco on March 24-25."
+excerpt: "Food-tech start-ups are trailblazing the future of food. As talented innovators leverage new technologies to bring novel foods to consumers on a global scale, there has never been a more exciting time to touch, taste and smell the breakthrough novel foods.Future Food-Tech reveals 55 start-ups for your innovation radar, as they take the global summit spotlight in San Francisco on March 24-25."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
-directory: [Eat Just, Meati Foods, Perfect Day Foods, Eclipse Foods, Incredible Foods, NotCo, V2food, Nature&#039;s Fynd, Superbrewed Food, Remilk, Evo Foods, Shiru, Change Foods, MeliBio, Inc., Moolec Science, Sophie&#039;s Bionutrients, Opalia, Gelatex, Nobell Foods, Demolish Foods, Maya Milk, Liven Proteins]
+directory: [Eat Just, Meati Foods, Perfect Day Foods, Eclipse Foods, Incredible Foods, NotCo, V2food, Nature's Fynd, Superbrewed Food, Remilk, Evo Foods, Shiru, Change Foods, MeliBio, Inc., Moolec Science, Sophie's Bionutrients, Opalia, Gelatex, Nobell Foods, Demolish Foods, Maya Milk, Liven Proteins]
 company: "<a href=\"https://futurefoodtechsf.com/\">Future Food-Tech</a>"
 images: ["FFTSF22 - NEWs (2).png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-02/FFSF22%20-%20Meet%20the%20start-ups.png, https://www.proteinreport.org/sites/default/files/2022-02/Gone%20in%2060%20Seconds.png, https://www.proteinreport.org/sites/default/files/2022-02/Innovation%20Challenges.png, https://www.proteinreport.org/sites/default/files/2022-02/Step%20Up%20to%20the%20Plate.png, https://www.proteinreport.org/sites/default/files/2022-02/Taste%20Lab.png, https://www.proteinreport.org/sites/default/files/2022-02/Taste%20Labs.png, https://www.proteinreport.org/sites/default/files/2022-02/TechHub_0.png]
+additional_images: ["FFSF22 - Meet the start-ups.png", "Gone in 60 Seconds.png", "Innovation Challenges.png", "Step Up to the Plate.png", "Taste Lab.png", "Taste Labs.png", "TechHub_0.png"]
 draft: false
 pinned: false
 homepage: false
@@ -63,7 +61,7 @@ weight: 50
 <li><strong>Yo! Egg </strong>has developed a proprietary production technology that enables it to produce first-of-a-kind sunny side up and poached eggs from plants</li>
 </ul>
 <p><strong>Step-Up to the Plate</strong></p>
-<p>Innovators at the forefront of chicken alternatives and ingredient innovation share their insights in a ‘kitchen-to-fruition’ Q&amp;A. Chefs will create dishes with novel foods on stage using <strong>Meati</strong> <strong>Foods</strong>’ mycelium whole cuts, <strong>Sundial</strong> <strong>Foods</strong>’ plant-based chicken wings, <strong>Umiami</strong>’s plant-based whole cuts, <strong>MeliBio</strong>’s alternative honey, <strong>QOA</strong>’s alternative chocolate and <strong>Evo Foods</strong>’ plant-based eggs.</p>
+<p>Innovators at the forefront of chicken alternatives and ingredient innovation share their insights in a ‘kitchen-to-fruition’ Q&A. Chefs will create dishes with novel foods on stage using <strong>Meati</strong> <strong>Foods</strong>’ mycelium whole cuts, <strong>Sundial</strong> <strong>Foods</strong>’ plant-based chicken wings, <strong>Umiami</strong>’s plant-based whole cuts, <strong>MeliBio</strong>’s alternative honey, <strong>QOA</strong>’s alternative chocolate and <strong>Evo Foods</strong>’ plant-based eggs.</p>
 <p>Critics will then give their verdict on the culinary delights live on stage.</p>
 <p><strong>Taste Lab</strong></p>
 <p>Making its debut at Future Food-Tech, the Taste Lab is where small groups of delegates will be able to attend product launches and tastings of some of the most talked-about novel foods.</p>
@@ -75,7 +73,7 @@ weight: 50
 <li>Magi Richani (<strong>Nobell Foods</strong>), Gaston Paladini (<strong>Moolec Science</strong>) and Nick Hazell (<strong>v2food</strong>) share how they are recreating the sensory experience of animal products through their novel foods.</li>
 <li>Mart-Erik Martens (<strong>Gelatex</strong> <strong>Technologies</strong>) and Josh Tetrick (<strong>Eat</strong> <strong>Just</strong>) join a fireside chat to reveal how they are making cell cultured meat a reality.</li>
 <li>Marty Kolewe (<strong>Incredible</strong> <strong>Foods</strong>) reveals how it is creating indulgent comfort snacks and the opportunities to create healthy foods without compromising on taste.</li>
-<li>Jasmin Hume (<strong>Shiru</strong>) and Aadit Patel (<strong>NotCo</strong>) uncover how they are leveraging AI and machine learning in their R&amp;D.</li>
+<li>Jasmin Hume (<strong>Shiru</strong>) and Aadit Patel (<strong>NotCo</strong>) uncover how they are leveraging AI and machine learning in their R&D.</li>
 <li>Aviv Wolff (<strong>Remilk</strong>) and Tom Adams (<strong>Pairwise</strong>) reveal how they are building consumer acceptance and understanding with their novel ingredients</li>
 <li>Bryan Tracy (<strong>Superbrewed</strong> <strong>Food</strong>), Matt Ball (<strong>Culture</strong> <strong>Biosciences</strong>), Tal Zeltzer (<strong>Phytolon</strong>), Horacio Acerbo (<strong>Eternal</strong>), Allison Fowler (<strong>Perfect</strong> <strong>Day</strong>) and Karuna Rawal (<strong>Nature’s</strong> <strong>Fynd</strong>) speak at the <a href="https://futurefoodtechsf.com/scaling-microbial-fermentation-workshop/">pre-summit workshop</a> focused on scaling microbial fermentation, hosted at IndieBio.</li>
 </ul>

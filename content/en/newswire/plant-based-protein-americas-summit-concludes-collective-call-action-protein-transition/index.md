@@ -8,12 +8,12 @@ excerpt: "There’s a very clear call for the plant-based sector to come togethe
 proteins: [Plant-Based]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business]
-regions: [Latin America &amp; Caribbean, US &amp; Canada]
+regions: [Latin America & Caribbean, US & Canada]
 flags: [Press Release]
 directory: [FAIRR Initiative, Plant Based Foods Association]
 company: "<a href=\"https://bridge2food.com/\">Bridge2Food</a>"
 images: ["Moonshot panel members .png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -28,7 +28,7 @@ weight: 50
 <p>Ecosystems are exciting right now as working together is what will help solve larger scale problems such as climate change, said Scott May, head of innovation platform MISTA in a <a href="https://bridge2food.com/how-do-you-build-an-ecosystem-3-creators-talk-you-through-it/">panel discussion</a> about how to build ecosystems.</p>
 <p>“This is what is going to get us across the line in solving some of these big challenges,” said May.</p>
 <p>People are demanding more information about how their food choices affect the environment.</p>
-<p>“Consumers want to understand more about what they are buying from the sustainability standpoint, especially food products,” Steve Savell, directory of external affairs &amp; sustainability with Bush Brothers, told a <a href="https://bridge2food.com/good-data-key-to-give-consumers-the-information-they-want-about-sustainable-food-choices/">sustainability panel</a>.</p>
+<p>“Consumers want to understand more about what they are buying from the sustainability standpoint, especially food products,” Steve Savell, directory of external affairs & sustainability with Bush Brothers, told a <a href="https://bridge2food.com/good-data-key-to-give-consumers-the-information-they-want-about-sustainable-food-choices/">sustainability panel</a>.</p>
 <p>The key to providing eco-certified products is first good, reliable data that is useful to the food system and those projects are underway.</p>
 <p>“We need the whole spectrum involved,” said Savell. “The idea is for us to come together and do it collectively.”</p>
 <p>Over three days Sept. 27-29 about 400 delegates, 14 speakers, 27 panelists and 18 startups gathered virtually to look at ways to further advance the plant-based industry.</p>

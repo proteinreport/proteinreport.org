@@ -8,19 +8,19 @@ excerpt: "Eat Beyond Global Holdings is announcing that it has completed an inve
 proteins: [Plant-Based]
 products: [Meat, Dairy]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [Eat Beyond Global Holdings]
 company: "<a href=\"/directory/eat-beyond-global-holdings\" hreflang=\"en\">Eat Beyond Global Holdings</a>"
 images: ["eb.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
 weight: 50
 ---
 <p><em>Above Food’s fast-growing, seed-to-fork plant-based platform serves over 35 countries and over 300 business customers</em></p>
-<p><strong>Vancouver, B.C. &amp; Regina, SK   – January 21, 2021</strong> – <a href="https://eatbeyondglobal.com/">Eat Beyond Global Holdings</a> (<a href="https://thecse.com/en/listings/diversified-industries/eat-beyond-global-holdings-inc">CSE: EATS</a>) (<a href="https://www.otcmarkets.com/stock/EATBF/overview">OTCPK: EATBF</a>) (<a href="https://www.boerse-frankfurt.de/equity/eat-beyond-global-hldgs">FSE: 988</a>)  (“Eat Beyond” or the “Company”), an investment issuer focused on the global plant-based and alternative food sector, is announcing that it has completed an investment in <strong>Above Food Inc. (“Above Food”)</strong>.</p>
+<p><strong>Vancouver, B.C. & Regina, SK   – January 21, 2021</strong> – <a href="https://eatbeyondglobal.com/">Eat Beyond Global Holdings</a> (<a href="https://thecse.com/en/listings/diversified-industries/eat-beyond-global-holdings-inc">CSE: EATS</a>) (<a href="https://www.otcmarkets.com/stock/EATBF/overview">OTCPK: EATBF</a>) (<a href="https://www.boerse-frankfurt.de/equity/eat-beyond-global-hldgs">FSE: 988</a>)  (“Eat Beyond” or the “Company”), an investment issuer focused on the global plant-based and alternative food sector, is announcing that it has completed an investment in <strong>Above Food Inc. (“Above Food”)</strong>.</p>
 <p>Above Food develops and distributes premium, whole plant alternatives to meat and dairy by creating delicious, nutrient-dense consumer products and branded ingredients. It uses a proprietary blend of plant proteins created from heirloom pulses and gluten free grains. Above Food brings its products to market by leveraging strategic relationships with leading co-packers, distributors, and direct-to-consumer e-commerce platforms.</p>
 <p>“We are thrilled to add Above Food to our portfolio, it is an established high-growth, vertically-integrated business that is focused on its proprietary seed-to-fork plant ingredients and plant protein. The company has established global distribution and saw revenue of $127M in the last twelve months alone,” said Patrick Morris, CEO of Eat Beyond. “The company is growing quickly, and we are looking forward to supporting this growth as it continues to accelerate.”</p>
 <p>Above Food serves over 300 customers, in 35 countries currently, including many leading brands with its established B2B plant-ingredient and plant-protein platform. The company will also be launching its own B2C product line that includes plant-based meats, plant-based diary, plant-based baby food, and plant-based bakery, beginning in 2021.</p>

@@ -8,12 +8,12 @@ excerpt: "Provenance Bio, a San Francisco-based alternative proteins company, an
 proteins: [Microbial]
 products: [Ingredients, Materials]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Provenance Bio]
 company: "<a href=\"/directory/provenance-bio\" hreflang=\"en\">Provenance Bio</a>"
 images: ["provenance-logo_1.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

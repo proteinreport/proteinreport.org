@@ -8,12 +8,12 @@ excerpt: "Novel Farms, a food technology startup based in Berkeley, California, 
 proteins: [Cell-Based, Microbial]
 products: [Meat, Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Big Idea Ventures, Novel Farms, Joyance Partners, Sustainable Food Ventures, Cult Food Science]
 company: "<a href=\"/directory/novel-farms\" hreflang=\"en\">Novel Farms</a>"
 images: ["Novel Farms_0.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

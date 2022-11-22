@@ -8,12 +8,12 @@ excerpt: "NuCicer, a crop genetics company pioneering ultra-high protein varieti
 proteins: [Plant-Based]
 products: [Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [Lever VC, NuCicer]
 company: "<a href=\"/directory/nucicer\" hreflang=\"en\">NuCicer</a>"
 images: ["NucicerLogo.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

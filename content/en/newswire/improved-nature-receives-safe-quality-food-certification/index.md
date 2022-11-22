@@ -8,12 +8,12 @@ excerpt: "GARNER, N.C. – May 19, 2020––Improved Nature, a plant-based prot
 proteins: [Plant-Based]
 products: [Meat, Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Improved Nature]
 company: "<a href=\"/directory/improved-nature\" hreflang=\"en\">Improved Nature</a>"
 images: ["Shreds-Hydrated-and-PRIME-landscape-for-website-2000x1083.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

@@ -8,12 +8,12 @@ excerpt: "Alternative protein venture capital fund Lever VC announced today it h
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]
 topics: [Business]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 flags: [Press Release, Investments]
-directory: [Eat Just, Beyond Meat, Impossible Foods, The Better Meat Co., Kite Hill, Miyoko&#039;s, TurtleTree Labs, Bond Pet Foods, This, Lever VC, Heura, Avant Meats, Aleph Farms, Mosa Meat, Mission Barns, Upside Foods, Good Planet Foods, Bluu Seafood, CellX, Blackbird Foods, The New, Mozza Foods, Welldone]
+directory: [Eat Just, Beyond Meat, Impossible Foods, The Better Meat Co., Kite Hill, Miyoko's, TurtleTree Labs, Bond Pet Foods, This, Lever VC, Heura, Avant Meats, Aleph Farms, Mosa Meat, Mission Barns, Upside Foods, Good Planet Foods, Bluu Seafood, CellX, Blackbird Foods, The New, Mozza Foods, Welldone]
 company: "<a href=\"/directory/lever-vc\" hreflang=\"en\">Lever VC</a>"
 images: ["levervc.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

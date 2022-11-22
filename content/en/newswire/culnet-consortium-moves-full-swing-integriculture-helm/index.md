@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [IntegriCulture]
 company: "<a href=\"/directory/integriculture\" hreflang=\"en\">IntegriCulture</a>"
 images: ["logos_0.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-06/CulNet.jpg]
+additional_images: ["CulNet.jpg"]
 draft: false
 pinned: false
 homepage: false
@@ -45,7 +45,7 @@ The global population is set to reach 10 billion by 2050, and conventional metho
 
 <p><strong>About the CulNet Consortium</strong></p>
 
-<p>The vision of the CulNet Consortium is an open cellular agriculture infrastructure that is accessible by everyone. Through open innovation, we aim to develop hardware, consumables, and production and distribution methods for the CulNet System™ by collaborating with companies in Japan and overseas in the five fields listed below. Food applications of cellular agriculture require regulatory compliance in their raw ingredients. Other challenges include large-scale supply of culture medium and scaling of the cell culture process. We will conduct multiple joint R&amp;D projects with each member. The IP generated from the individual R&amp;D project will be shared among the participating members. The members can include such IP in their own businesses. The common precompetitive results obtained in the consortium will be shared among members. We plan to progressively harmonize technical standards to help create a food system capable of delivering safe, reliable products and simultaneously encouraging more businesses to join.</p>
+<p>The vision of the CulNet Consortium is an open cellular agriculture infrastructure that is accessible by everyone. Through open innovation, we aim to develop hardware, consumables, and production and distribution methods for the CulNet System™ by collaborating with companies in Japan and overseas in the five fields listed below. Food applications of cellular agriculture require regulatory compliance in their raw ingredients. Other challenges include large-scale supply of culture medium and scaling of the cell culture process. We will conduct multiple joint R&D projects with each member. The IP generated from the individual R&D project will be shared among the participating members. The members can include such IP in their own businesses. The common precompetitive results obtained in the consortium will be shared among members. We plan to progressively harmonize technical standards to help create a food system capable of delivering safe, reliable products and simultaneously encouraging more businesses to join.</p>
 
 <p>&lt;Fields where the consortium actively pursues open innovation&gt;<br />
 The consortium is steadily pushing ahead with development and standardization in the following areas:</p>

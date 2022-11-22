@@ -10,10 +10,10 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release]
-directory: [Beyond Meat, Good Food Institute, Gardein, Sophie&#039;s Kitchen, Green Vie Foods]
+directory: [Beyond Meat, Good Food Institute, Gardein, Sophie's Kitchen, Green Vie Foods]
 company: "<a href=\"https://zyrcularfoods.com/\">Zyrcular Foods</a>"
 images: ["Santi Aliaga.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-03/Zyrcular%20Foods.jpg]
+additional_images: ["Zyrcular Foods.jpg"]
 draft: false
 pinned: false
 homepage: false

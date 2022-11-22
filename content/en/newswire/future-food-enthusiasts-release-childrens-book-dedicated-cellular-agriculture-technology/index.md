@@ -8,12 +8,12 @@ excerpt: "The children’s book, entitled “Where do Hot Dogs Come From? A Chil
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Culture]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 flags: [Press Release]
-directory: []
+directory: [NA]
 company: "<a href=\"http://www.hotdog.fyi\">Where do Hot Dogs Come From?</a>"
 images: ["just_launched.png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-07/illustration.png, https://www.proteinreport.org/sites/default/files/2021-07/kickstarter-cover.png, https://www.proteinreport.org/sites/default/files/2021-07/anita_broellochs.jpg, https://www.proteinreport.org/sites/default/files/2021-07/alex_shirazi.jpg, https://www.proteinreport.org/sites/default/files/2021-07/gabriel_gonzalez.jpg]
+additional_images: ["illustration.png", "kickstarter-cover.png", "anita_broellochs.jpg", "alex_shirazi.jpg", "gabriel_gonzalez.jpg"]
 draft: false
 pinned: false
 homepage: false

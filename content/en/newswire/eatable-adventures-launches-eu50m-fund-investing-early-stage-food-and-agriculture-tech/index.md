@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Cocuus System Iberica, Innomy, Eatable Adventures]
 company: "<a href=\"/directory/eatable-adventures\" hreflang=\"en\">Eatable Adventures</a>"
 images: ["ea.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

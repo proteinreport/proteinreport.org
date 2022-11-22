@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Impossible Foods, V2food, Food Frontier]
 company: "<a href=\"/directory/food-frontier\" hreflang=\"en\">Food Frontier</a>"
 images: ["PRplaceholder.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

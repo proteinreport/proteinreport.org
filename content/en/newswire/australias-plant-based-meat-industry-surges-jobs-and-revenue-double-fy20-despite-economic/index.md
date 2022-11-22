@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [V2food, Fable Food Company, Food Frontier]
 company: "<a href=\"/directory/food-frontier\" hreflang=\"en\">Food Frontier</a>"
 images: ["Report Cover.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -31,7 +31,7 @@ weight: 50
 
 <p>Deloitte Access Economics’ 2019 modelling for Food Frontier forecast that consumer sales in Australia’s plant-based meat sector could hit $3 billion annually by 2030, from its FY20 level of $185 million – and create over 6,000 new jobs.</p>
 
-<p>But Food Frontier CEO Thomas King says governments at all levels need to support investment in R&amp;D and infrastructure for the burgeoning industry, as well as evidenced-based regulation to ensure a level playing field for new players in the market.</p>
+<p>But Food Frontier CEO Thomas King says governments at all levels need to support investment in R&D and infrastructure for the burgeoning industry, as well as evidenced-based regulation to ensure a level playing field for new players in the market.</p>
 
 <p>“With the right political will, Australia can build a multi-billion-dollar plant-based meat industry, enabling our food businesses and farmers to capitalise on fast-growing global demand for alternative proteins.”</p>
 
@@ -56,7 +56,7 @@ Sector-wide interventions that will enable the plant-based meat sector to contin
 
 <ul>
 	<li>State governments can bring jobs to their region and enable Australian farmers to generate more profit at the farmgate by supporting investments in the infrastructure necessary to process Australian crops into the ingredients used in plant-based meats.</li>
-	<li>Federal government can support R&amp;D that generates plant protein intellectual property, which will help to establish Australia as a global centre for alternative proteins and contribute to the nation’s goal of a $100 billion food and fibre sector by 2030.</li>
+	<li>Federal government can support R&D that generates plant protein intellectual property, which will help to establish Australia as a global centre for alternative proteins and contribute to the nation’s goal of a $100 billion food and fibre sector by 2030.</li>
 	<li>Retailers can further growth in the plant-based meat category by supplying options that satisfy consumer tastes at more competitive prices and providing promotional support.</li>
 </ul>
 
@@ -71,6 +71,6 @@ Food Frontier is the independent think tank and expert advisor on alternative pr
 
 <p>___________________________________________________________<br />
 <sup>i. Kalocsay K, King T, Lichtenstein T, Weber J. Plant-based meat: A healthier choice? [Internet]. Melbourne: Food Frontier; 2020 Aug 12 [cited 2021 Feb 17]. Available from: <a href="https://www.foodfrontier.org/reports">https://www.foodfrontier.org/reports</a><br />
-ii. Firmenich Global Covid 19 Food <span class="amp">&amp;</span> Beverage Tracking Study. [Company presentation] Firmenich: Switzerland; 2020 Jun (cited 2021 Feb 19)<br />
+ii. Firmenich Global Covid 19 Food <span class="amp">&</span> Beverage Tracking Study. [Company presentation] Firmenich: Switzerland; 2020 Jun (cited 2021 Feb 19)<br />
 iii. Carving up the alternative meat market [Internet]. London: Barclays; 2019 Aug 11 [cited 2021 Feb 17] Available from: <a href="https://www.investmentbank.barclays.com/our-insights/carving-up-the-alternative-meat-market.html">https://www.investmentbank.barclays.com/our-insights/carving-up-the-alt…</a><br />
-iv. Plant-based meat alternatives set to thrive in the next five years [Internet]. UK: DuPont Nutrition <span class="amp">&amp;</span> Biosciences; 2020 Dec 16 [cited 2021 Feb 18]. Available from: <a href="https://www.dupontnutritionandbiosciences.com/news/plant-based-meat-alternatives-set-to-thrive-in-the-next-five-years.html">https://www.dupontnutritionandbiosciences.com/news/plant-based-meat-alt…</a></sup></p>
+iv. Plant-based meat alternatives set to thrive in the next five years [Internet]. UK: DuPont Nutrition <span class="amp">&</span> Biosciences; 2020 Dec 16 [cited 2021 Feb 18]. Available from: <a href="https://www.dupontnutritionandbiosciences.com/news/plant-based-meat-alternatives-set-to-thrive-in-the-next-five-years.html">https://www.dupontnutritionandbiosciences.com/news/plant-based-meat-alt…</a></sup></p>

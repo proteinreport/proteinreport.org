@@ -8,12 +8,12 @@ excerpt: "Improved Nature, a plant-based protein company, is excited to introduc
 proteins: [Plant-Based]
 products: [Meat]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Improved Nature]
 company: "<a href=\"/directory/improved-nature\" hreflang=\"en\">Improved Nature</a>"
 images: ["ImprovedNature_Nature's PRIME_0.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

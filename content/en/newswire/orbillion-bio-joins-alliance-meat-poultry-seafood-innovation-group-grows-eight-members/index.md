@@ -1,27 +1,27 @@
 ---
-title: "Orbillion Bio Joins Alliance for Meat, Poultry, &amp; Seafood Innovation, Group Grows to Eight Members"
+title: "Orbillion Bio Joins Alliance for Meat, Poultry, & Seafood Innovation, Group Grows to Eight Members"
 date: 2021-06-15 08:45:30
 lastmod: 2021-06-15 08:45:30
 slug: /orbillion-bio-joins-alliance-meat-poultry-seafood-innovation-group-grows-eight-members
-description: "Orbillion Bio to become the eighth member of the Alliance for Meat, Poultry &amp; Seafood Innovation, a coalition of food companies dedicated to producing meat, poultry and seafood directly from animal cells."
-excerpt: "Orbillion Bio to become the eighth member of the Alliance for Meat, Poultry &amp; Seafood Innovation, a coalition of food companies dedicated to producing meat, poultry and seafood directly from animal cells."
+description: "Orbillion Bio to become the eighth member of the Alliance for Meat, Poultry & Seafood Innovation, a coalition of food companies dedicated to producing meat, poultry and seafood directly from animal cells."
+excerpt: "Orbillion Bio to become the eighth member of the Alliance for Meat, Poultry & Seafood Innovation, a coalition of food companies dedicated to producing meat, poultry and seafood directly from animal cells."
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
-directory: [Eat Just, Finless Foods, SCiFi Foods, Fork &amp; Goode, New Age Meats, BlueNalu, Upside Foods, AMPS Innovation, Orbillion Bio]
+directory: [Eat Just, Finless Foods, SCiFi Foods, Fork & Goode, New Age Meats, BlueNalu, Upside Foods, AMPS Innovation, Orbillion Bio]
 company: "<a href=\"/directory/amps-innovation\" hreflang=\"en\">AMPS Innovation</a>"
 images: ["AMPS-Orbillion_0.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
 weight: 50
 ---
-<p class="text-align-center"><em>Orbillion Bio to become the eighth member of the Alliance for Meat, Poultry <span class="amp">&amp;</span> Seafood Innovation, a coalition of food companies dedicated to producing meat, poultry and seafood directly from animal cells.</em></p>
+<p class="text-align-center"><em>Orbillion Bio to become the eighth member of the Alliance for Meat, Poultry <span class="amp">&</span> Seafood Innovation, a coalition of food companies dedicated to producing meat, poultry and seafood directly from animal cells.</em></p>
 
-<p>WASHINGTON, D.C. (June 15, 2021) – <strong>The Alliance for Meat, Poultry <span class="amp">&amp;</span> Seafood Innovation (AMPS Innovation)</strong> announced the addition of a new member company, <a href="https://www.orbillion.com/"><strong>Orbillion Bio</strong></a>. Founded in August 2019 by <a href="https://www.bluenalu.com/"><strong>BlueNalu</strong></a>, <a href="https://finlessfoods.com/"><strong>Finless Foods</strong></a>, <a href="https://www.forkandgoode.com/"><strong>Fork <span class="amp">&amp;</span> Goode</strong></a>, <a href="https://www.ju.st/en-us"><strong>JUST</strong></a>, and <a href="https://www.upsidefoods.com/"><strong>UPSIDE Foods</strong></a>, Orbillion Bio becomes the eighth member of AMPS Innovation in addition to <strong><a href="https://artemysfoods.com/">Artemys Foods</a> </strong>and <strong><a href="https://www.newagemeats.com/">New Age Meats</a> </strong>who joined the Alliance in July 2020. AMPS Innovation is a coalition of cell-cultured meat, poultry, and seafood companies focused on educating consumers and stakeholders about their new industry and advocating for a clear path to market for their products.</p>
+<p>WASHINGTON, D.C. (June 15, 2021) – <strong>The Alliance for Meat, Poultry <span class="amp">&</span> Seafood Innovation (AMPS Innovation)</strong> announced the addition of a new member company, <a href="https://www.orbillion.com/"><strong>Orbillion Bio</strong></a>. Founded in August 2019 by <a href="https://www.bluenalu.com/"><strong>BlueNalu</strong></a>, <a href="https://finlessfoods.com/"><strong>Finless Foods</strong></a>, <a href="https://www.forkandgoode.com/"><strong>Fork <span class="amp">&</span> Goode</strong></a>, <a href="https://www.ju.st/en-us"><strong>JUST</strong></a>, and <a href="https://www.upsidefoods.com/"><strong>UPSIDE Foods</strong></a>, Orbillion Bio becomes the eighth member of AMPS Innovation in addition to <strong><a href="https://artemysfoods.com/">Artemys Foods</a> </strong>and <strong><a href="https://www.newagemeats.com/">New Age Meats</a> </strong>who joined the Alliance in July 2020. AMPS Innovation is a coalition of cell-cultured meat, poultry, and seafood companies focused on educating consumers and stakeholders about their new industry and advocating for a clear path to market for their products.</p>
 
 <p>Orbillion Bio was founded in 2019 by Patricia Bubner, PhD, Samet Yildirim, MSc, MBS, and Gabriel Levesque-Tremblay, PhD and will focus on bringing premium cell-cultured meat such as wagyu beef, elk, sheep, and American bison to market. With the addition of Orbillion Bio, AMPS Innovation will continue coordinated efforts to engage key policymakers and stakeholders to educate them on their products and work with Congress, the U.S. Department of Agriculture (USDA) and the Food and Drug Administration (FDA) as they continue to build out a regulatory framework for cell-cultured meat, poultry and seafood.</p>
 
@@ -33,6 +33,6 @@ weight: 50
 
 <p class="text-align-center">###</p>
 
-<p><strong>About the Alliance for Meat, Poultry <span class="amp">&amp;</span> Seafood Innovation</strong></p>
+<p><strong>About the Alliance for Meat, Poultry <span class="amp">&</span> Seafood Innovation</strong></p>
 
-<p>The Alliance for Meat, Poultry <span class="amp">&amp;</span> Seafood Innovation is working to advance new methods of producing real, high-quality, safe meat, poultry and seafood products directly from cells, which, in partnership with the broader agricultural community, will help meet the demands of feeding a growing global population. AMPS Innovation advocates for our industry through sharing our collective expertise, providing insight into our innovation, and committing to safety and transparency with all stakeholders, including industry partners, policymakers, advocates and consumers. To learn more about the Alliance for Meat, Poultry <span class="amp">&amp;</span> Seafood Innovation, visit <a href="http://www.ampsinnovation.org">www.ampsinnovation.org</a>.</p>
+<p>The Alliance for Meat, Poultry <span class="amp">&</span> Seafood Innovation is working to advance new methods of producing real, high-quality, safe meat, poultry and seafood products directly from cells, which, in partnership with the broader agricultural community, will help meet the demands of feeding a growing global population. AMPS Innovation advocates for our industry through sharing our collective expertise, providing insight into our innovation, and committing to safety and transparency with all stakeholders, including industry partners, policymakers, advocates and consumers. To learn more about the Alliance for Meat, Poultry <span class="amp">&</span> Seafood Innovation, visit <a href="http://www.ampsinnovation.org">www.ampsinnovation.org</a>.</p>

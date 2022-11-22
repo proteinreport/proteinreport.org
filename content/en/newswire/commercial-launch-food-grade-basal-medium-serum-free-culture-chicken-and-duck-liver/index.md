@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [IntegriCulture]
 company: "<a href=\"/directory/integriculture\" hreflang=\"en\">IntegriCulture</a>"
 images: ["integriculture.png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-04/liver_cell_growth_curve.JPG, https://www.proteinreport.org/sites/default/files/2022-04/culnet_schematic.JPG, https://www.proteinreport.org/sites/default/files/2022-04/duck_liver_cell_growth_curve.JPG, https://www.proteinreport.org/sites/default/files/2022-04/chicken_liver_cell_growth_curve.JPG, https://www.proteinreport.org/sites/default/files/2022-04/duck_liver_cells_3_days.JPG]
+additional_images: ["liver_cell_growth_curve.JPG", "culnet_schematic.JPG", "duck_liver_cell_growth_curve.JPG", "chicken_liver_cell_growth_curve.JPG", "duck_liver_cells_3_days.JPG"]
 draft: false
 pinned: false
 homepage: false

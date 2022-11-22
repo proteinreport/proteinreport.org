@@ -10,10 +10,10 @@ products: [Meat, Dairy, Ingredients]
 topics: [Business]
 regions: [International]
 flags: [Press Release]
-directory: []
+directory: [NA]
 company: "<a href=\"\"></a>"
 images: ["radicle-syngenta.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

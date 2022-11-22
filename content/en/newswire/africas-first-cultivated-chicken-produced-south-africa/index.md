@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Mogale Meat Company]
 company: "<a href=\"/directory/mogale-meat-company\" hreflang=\"en\">Mogale Meat Company</a>"
 images: ["Mogale Meat Co_ first cultivated chicken in Africa _3.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-04/Mogale%20Meat%20Co_%20first%20cultivated%20chicken%20in%20Africa%20_2.jpg, https://www.proteinreport.org/sites/default/files/2022-04/Mogale%20Meat%20Co_%20first%20cultivated%20chicken%20in%20Africa%20_1.jpg, https://www.proteinreport.org/sites/default/files/2022-04/Mogale%20Meat%20Co_Team%201%20March%202022.jpg]
+additional_images: ["Mogale Meat Co_ first cultivated chicken in Africa _2.jpg", "Mogale Meat Co_ first cultivated chicken in Africa _1.jpg", "Mogale Meat Co_Team 1 March 2022.jpg"]
 draft: false
 pinned: false
 homepage: false

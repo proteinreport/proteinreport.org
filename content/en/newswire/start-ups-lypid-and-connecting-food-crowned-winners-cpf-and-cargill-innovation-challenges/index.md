@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [NovaMeat]
 company: "<a href=\"https://agrifoodinnovation.com/\">Rethink Events</a>"
 images: ["FEYRiIoWYAQI0CK.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-11/FEYMfYFWUAEA6K_.jpg]
+additional_images: ["FEYMfYFWUAEA6K_.jpg"]
 draft: false
 pinned: false
 homepage: false
@@ -33,7 +33,7 @@ weight: 50
 <li>Lalana Thiranusornkij, SVP – Head of Innovation and New Product Development, CPF, THAILAND</li>
 <li>Peemdej Utsahajit, Assistant Vice President, Development and Coordination of Research Activities, CPF, THAILAND</li>
 </ul>
-<p>Commenting on the reasons for the winning choice, Lalana Thiranusornkij, SVP – Head of Innovation &amp; NPD at CPF said: <em>“All three of our finalists are truly amazing, full of passion and energy in addressing the taste and texture of alternative-protein products and this is the most important issue for companies to be able to deliver to their consumers. What was even more difficult was to select the winner! I’m proud to announce the winner being “Lypid”. A start-up that addresses “Fat” which is key to making plant based meats taste like meat! We feel that working with Lypid will speed up our development and improve our existing products to be even healthier and tastier.”</em></p>
+<p>Commenting on the reasons for the winning choice, Lalana Thiranusornkij, SVP – Head of Innovation & NPD at CPF said: <em>“All three of our finalists are truly amazing, full of passion and energy in addressing the taste and texture of alternative-protein products and this is the most important issue for companies to be able to deliver to their consumers. What was even more difficult was to select the winner! I’m proud to announce the winner being “Lypid”. A start-up that addresses “Fat” which is key to making plant based meats taste like meat! We feel that working with Lypid will speed up our development and improve our existing products to be even healthier and tastier.”</em></p>
 <p>Dr. Colin D’Silva, Vice President, Government Relations, Asia-Pacific at Cargill said <em>“We are impressed by the strong response from highly innovative start-ups to the Cargill Innovation Challenge. We congratulate Connecting Food who have won the Innovation Challenge and look forward to collaborating with them. Cargill’s purpose is to nourish the world in a safe, responsible and sustainable way. The blockchain technology developed by Connecting Food will help improve food security, reduce wastage and reinforce consumer trust in our food systems through greater supply chain transparency and end-to-end traceability.”</em></p>
 <p>Ellen McLeay, Senior Conference Producer at The Asia-Pacific Agri-Food Innovation Summit said: <em>“We’ve been blown away by the applications and finalist presentations, showcasing incredible innovation and talent that will help to strengthen the food system in APAC and beyond. Thanks to the CPF and Cargill judging teams for their invaluable time, insights and commitment to supporting start-ups in their growth. Congratulations to the winners - we can’t wait to watch them grow, and hear plenty more from all the finalists in the future.”</em></p>
 <p>Lypid will now benefit from senior leadership coaching with CPF on agreed areas, and the chance to do Proof of Concept and work with CPF’s experienced chefs to co-create menus through its kitchen.</p>

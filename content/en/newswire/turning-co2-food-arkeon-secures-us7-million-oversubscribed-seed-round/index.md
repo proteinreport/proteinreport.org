@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Arkeon Biotechnologies]
 company: "<a href=\"/directory/arkeon-biotechnologies\" hreflang=\"en\">Arkeon Biotechnologies</a>"
 images: ["Arkeon_core team_web.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-03/Arkeon_founders_web.jpg, https://www.proteinreport.org/sites/default/files/2022-03/Arkeon_Tegl_web.jpg]
+additional_images: ["Arkeon_founders_web.jpg", "Arkeon_Tegl_web.jpg"]
 draft: false
 pinned: false
 homepage: false

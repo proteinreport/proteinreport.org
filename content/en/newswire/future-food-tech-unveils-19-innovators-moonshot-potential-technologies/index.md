@@ -10,10 +10,10 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [International]
 flags: [Press Release]
-directory: [The Protein Brewery, Mushlabs, Biomilq, Shiru, Tiamat Sciences, Sophie&#039;s Bionutrients, Hoxton Farms]
+directory: [The Protein Brewery, Mushlabs, Biomilq, Shiru, Tiamat Sciences, Sophie's Bionutrients, Hoxton Farms]
 company: "<a href=\"https://www.futurefoodtechsf.com\">Future Food-Tech</a>"
 images: ["Meet the Start-Ups.png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-02/Innovation%20Challenge%20FFT%20%281%29.png, https://www.proteinreport.org/sites/default/files/2021-02/Innovation%20Challenge%20FFT%20%282%29.png]
+additional_images: ["Innovation Challenge FFT (1).png", "Innovation Challenge FFT (2).png"]
 draft: false
 pinned: false
 homepage: false

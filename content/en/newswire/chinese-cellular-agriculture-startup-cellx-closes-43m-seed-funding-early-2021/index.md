@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [Lever VC, CellX]
 company: "<a href=\"/directory/cellx\" hreflang=\"en\">CellX</a>"
 images: ["Picture1.png"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-09/Picture2.png, https://www.proteinreport.org/sites/default/files/2021-09/Picture3.jpg, https://www.proteinreport.org/sites/default/files/2021-09/Picture4.jpg]
+additional_images: ["Picture2.png", "Picture3.jpg", "Picture4.jpg"]
 draft: false
 pinned: false
 homepage: false

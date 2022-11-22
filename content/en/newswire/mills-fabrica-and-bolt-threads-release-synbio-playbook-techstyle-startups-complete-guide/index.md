@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Impossible Foods, Perfect Day Foods]
 company: "<a href=\"http://www.themillsfabrica.com/\">The Mills Fabrica</a>"
 images: ["report cover.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

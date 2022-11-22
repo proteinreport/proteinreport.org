@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [TurtleTree Labs, KBW Ventures, Eat Beyond Global Holdings, Green Monday Ventures]
 company: "<a href=\"/directory/turtletree-labs\" hreflang=\"en\">TurtleTree Labs</a>"
 images: ["ftLogo.png"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

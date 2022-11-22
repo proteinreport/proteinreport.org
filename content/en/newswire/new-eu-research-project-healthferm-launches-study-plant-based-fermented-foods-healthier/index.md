@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Planted]
 company: "<a href=\"https://www.healthferm.eu/\">HealthFerm</a>"
 images: ["DSC_0320.JPG"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-09/HealthFerm%20Kick%20off%20Graphic%20recording.jpg, https://www.proteinreport.org/sites/default/files/2022-09/HealthFerm_logo.jpg]
+additional_images: ["HealthFerm Kick off Graphic recording.jpg", "HealthFerm_logo.jpg"]
 draft: false
 pinned: false
 homepage: false

@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Biocatalysts Ltd]
 company: "<a href=\"/directory/biocatalysts-ltd\" hreflang=\"en\">Biocatalysts Ltd</a>"
 images: ["Biocatalysts-Ltd_Apr-21_EMP-Full-Facility.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

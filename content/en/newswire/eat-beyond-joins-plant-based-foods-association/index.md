@@ -8,12 +8,12 @@ excerpt: "Eat Beyond Global Holdings, an investment issuer focused on the global
 proteins: [Plant-Based]
 products: [Meat, Dairy, Seafood]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Plant Based Foods Association, Eat Beyond Global Holdings]
 company: "<a href=\"/directory/eat-beyond-global-holdings\" hreflang=\"en\">Eat Beyond Global Holdings</a>"
 images: ["eb banner.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

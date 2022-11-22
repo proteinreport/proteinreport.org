@@ -13,7 +13,7 @@ flags: [Press Release, New Products]
 directory: [IntegriCulture]
 company: "<a href=\"/directory/integriculture\" hreflang=\"en\">IntegriCulture</a>"
 images: ["KV.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2021-06/culnet.png]
+additional_images: ["culnet.png"]
 draft: false
 pinned: false
 homepage: false

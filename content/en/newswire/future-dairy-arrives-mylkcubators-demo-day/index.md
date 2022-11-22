@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [De Novo Dairy, Real Deal Milk, Eatable Adventures]
 company: "<a href=\"/directory/eatable-adventures\" hreflang=\"en\">Eatable Adventures</a>"
 images: ["52020731810_c961bbd9d0_o.jpeg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -25,7 +25,7 @@ weight: 50
 <ul>
 <li><strong><a href="https://denovodairy.com/">De Novo Dairy,</a> a startup</strong> based in South Africa with a mission to create the future of nutrition, the company uses precise fermentation technology to produce animal-free dairy proteins that provide the same sensory experience and nutrition as traditional dairy counterparts. De Novo Dairy is currently developing high-value proteins for the dairy industry.</li>
 <li>Spanish startup <a href="https://www.realdealmilk.com/"><strong>Real Deal Milk</strong></a> develops casein and whey proteins through precision fermentation technologies with the same functional properties as traditional dairy components, with the aim to produce dairy substitutes equivalent to traditional dairy.</li>
-<li>Using bioengineering &amp; microbial fermentation, <a href="https://zerocowfactory.com/"><strong>Zero Cow Factory</strong></a> is reinventing dairy ingredients with India’s first milk and milk products (certainly the world’s first A2 milk protein) using bioengineering the microbes &amp; microbial fermentation. The Zero Cow team is developing a proprietary technique to recreate milk proteins to develop real dairy products that are ethical, safe, delicious, and identical to cow milk.</li>
+<li>Using bioengineering & microbial fermentation, <a href="https://zerocowfactory.com/"><strong>Zero Cow Factory</strong></a> is reinventing dairy ingredients with India’s first milk and milk products (certainly the world’s first A2 milk protein) using bioengineering the microbes & microbial fermentation. The Zero Cow team is developing a proprietary technique to recreate milk proteins to develop real dairy products that are ethical, safe, delicious, and identical to cow milk.</li>
 <li><strong>Pure™ Mammary Factors</strong> based in the USA are accelerating the state of the art in cell-cultured dairy by crashing the cost of production by the development of growth factors used in culture media. The startup aims to make cell-cultured human milk affordable and accessible by selling food-grade off-the-shelf growth factors around the world.</li>
 </ul>
 <p><strong>Pascual Innoventures</strong> is committed to driving innovation to create a more sustainable future for all, anticipating the current trends that will shape the foods of the future. Due to the success of the first edition of Mylkcubator, Pascual Innoventures has already announced the call for the second edition of the program.</p>

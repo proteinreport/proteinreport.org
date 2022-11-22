@@ -13,7 +13,7 @@ flags: [Press Release]
 directory: [Wilk]
 company: "<a href=\"/directory/wilk\" hreflang=\"en\">Wilk</a>"
 images: ["DSC00266.jpg"]
-additional_images: [https://www.proteinreport.org/sites/default/files/2022-11/DSC00104.jpg, https://www.proteinreport.org/sites/default/files/2022-11/DSC00097.jpg]
+additional_images: ["DSC00104.jpg", "DSC00097.jpg"]
 draft: false
 pinned: false
 homepage: false

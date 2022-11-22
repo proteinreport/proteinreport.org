@@ -8,12 +8,12 @@ excerpt: "Lever VC announced today it recently completed the first close of Leve
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [Eat Just, Beyond Meat, Impossible Foods, Good Food Institute, The Better Meat Co., Kite Hill, TurtleTree Labs, Bond Pet Foods, Lever VC, Aleph Farms, Mission Barns, Upside Foods, Good Planet Foods]
 company: "<a href=\"/directory/lever-vc\" hreflang=\"en\">Lever VC</a>"
 images: ["leverportfolio_1.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false

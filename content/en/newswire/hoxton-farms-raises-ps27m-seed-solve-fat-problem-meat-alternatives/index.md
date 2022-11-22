@@ -13,7 +13,7 @@ flags: [Press Release, Investments]
 directory: [This, Formo, CPT Capital, Sustainable Food Ventures, Hoxton Farms]
 company: "<a href=\"/directory/hoxton-farms\" hreflang=\"en\">Hoxton Farms</a>"
 images: ["IMG_4682_0.jpg"]
-additional_images: []
+additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
@@ -36,7 +36,7 @@ weight: 50
 <p>Hoxton Farms has received investment from leading Silicon Valley VC Founders Fund, founded by Peter Thiel, alongside Backed, Presight Capital, CPT Capital, Sustainable Food Ventures, and angel investors.</p>
 <p>Hoxton Farms will use this seed investment to develop a proof of concept of its production platform and build customer partnerships, helping the startup to achieve its goal of supplying cultivated fat to the global meat alternatives industry.</p>
 <p><strong>Eric Scott, Principal at Founders Fund, added,</strong> “The market for plant-based meat has exploded in recent years, especially during the pandemic. But plant-based meat has a long way to go – and that’s because it’s missing out on real cell-based animal fat. The team’s ability to tailor the precise sensory and functional properties of fat allows them to produce exactly what their customers need. Hoxton Farms has the potential to change an industry.”</p>
-<p>In the coming months, the startup will begin work at its new R&amp;D lab in Hoxton, London, and continue to grow its talented team of biologists and mathematicians.</p>
+<p>In the coming months, the startup will begin work at its new R&D lab in Hoxton, London, and continue to grow its talented team of biologists and mathematicians.</p>
 <p><strong>Alex Brunicki, Partner at Backed, added, </strong><em>“</em>We’re excited to invest in Hoxton Farms and its talented team. Ed and Max are taking a pioneering approach to drive down the cost of cellular agriculture by combining their unique expertise in mathematical optimisation, machine learning and gene regulatory networks. Hoxton Farms is building a unique platform that will not only deliver cost reducing solutions that have been out of reach for many other players in the space, but also provide the flexibility to deliver unique cellular and sensory characteristics at speed.”</p>
 <p>For more information go to <a href="https://hoxtonfarms.com/"><u>https://hoxtonfarms.com/</u></a></p>
 <p>ENDS</p>
