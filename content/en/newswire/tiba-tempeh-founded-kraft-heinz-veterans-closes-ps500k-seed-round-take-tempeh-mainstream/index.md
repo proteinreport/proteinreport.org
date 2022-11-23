@@ -3,6 +3,7 @@ title: "Tiba Tempeh, Founded by Kraft Heinz Veterans, Closes £500k Seed Round t
 date: 2022-01-11 12:33:04
 lastmod: 2022-01-11 12:33:04
 slug: /tiba-tempeh-founded-kraft-heinz-veterans-closes-ps500k-seed-round-take-tempeh-mainstream
+company: "Tiba Tempeh"
 description: "UK plant-based start-up Tiba Tempeh announced today it has closed a £500k seed round to accelerate its growth as it prepares for listings with major UK supermarkets and international expansion. The funding will be used to launch new product innovation, grow the team, and support marketing efforts to drive consumer awareness and trial of tempeh. The investment round was taken by Lever VC, a leading global investor in the alternative protein category whose partners are investors in Beyond Meat, Impossible Foods, THIS, and many other category leaders.  "
 excerpt: "UK plant-based start-up Tiba Tempeh announced today it has closed a £500k seed round to accelerate its growth as it prepares for listings with major UK supermarkets and international expansion. The funding will be used to launch new product innovation, grow the team, and support marketing efforts to drive consumer awareness and trial of tempeh. The investment round was taken by Lever VC, a leading global investor in the alternative protein category whose partners are investors in Beyond Meat, Impossible Foods, THIS, and many other category leaders.  "
 proteins: [Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [Beyond Meat, Impossible Foods, This, Lever VC, Tiba Tempeh]
-company: "<a href=\"/directory/tiba-tempeh\" hreflang=\"en\">Tiba Tempeh</a>"
 images: ["Tiba Tempeh Range.jpg"]
 additional_images: ["Tiba Tempeh BBQ Burgers.jpg", "Tiba Tempeh Soy-Marinated Pieces Stir-Fry.jpg", "Tiba Tempeh Sweet Chilli Pieces.jpg"]
 draft: false

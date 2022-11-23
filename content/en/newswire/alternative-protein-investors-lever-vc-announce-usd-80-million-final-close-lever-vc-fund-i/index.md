@@ -3,6 +3,7 @@ title: "Alternative Protein Investors Lever VC Announce USD $80 Million Final Cl
 date: 2021-09-15 12:20:34
 lastmod: 2021-09-15 12:20:34
 slug: /alternative-protein-investors-lever-vc-announce-usd-80-million-final-close-lever-vc-fund-i
+company: "Lever VC"
 description: "Alternative protein venture capital fund Lever VC announced today it has completed final close of Lever VC Fund I with USD $80 million raised to back early stage plant-based and cultivated meat and dairy companies around the world."
 excerpt: "Alternative protein venture capital fund Lever VC announced today it has completed final close of Lever VC Fund I with USD $80 million raised to back early stage plant-based and cultivated meat and dairy companies around the world."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [International, US & Canada]
 flags: [Press Release, Investments]
 directory: [Eat Just, Beyond Meat, Impossible Foods, The Better Meat Co., Kite Hill, Miyoko's, TurtleTree Labs, Bond Pet Foods, This, Lever VC, Heura, Avant Meats, Aleph Farms, Mosa Meat, Mission Barns, Upside Foods, Good Planet Foods, Bluu Seafood, CellX, Blackbird Foods, The New, Mozza Foods, Welldone]
-company: "<a href=\"/directory/lever-vc\" hreflang=\"en\">Lever VC</a>"
 images: ["levervc.jpg"]
 additional_images: [NA]
 draft: false

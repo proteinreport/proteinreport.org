@@ -3,6 +3,7 @@ title: "German biotech startup Mushlabs receives millions in EIC funding"
 date: 2022-06-13 16:43:30
 lastmod: 2022-06-13 16:43:30
 slug: /german-biotech-startup-mushlabs-receives-millions-eic-funding
+company: "Mushlabs"
 description: "Hamburg-based biotech startup Mushlabs has been selected from more than 1,000 startups for the EU's prestigious EIC Accelerator program to receive up to €17.5 million of the program's €382 million in total capital."
 excerpt: "Hamburg-based biotech startup Mushlabs has been selected from more than 1,000 startups for the EU's prestigious EIC Accelerator program to receive up to €17.5 million of the program's €382 million in total capital."
 proteins: [Fungi]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [Mushlabs]
-company: "<a href=\"/directory/mushlabs\" hreflang=\"en\">Mushlabs</a>"
 images: ["Mushlabs Founders_Mazen Rizk_Cathy Preißer_Thibault Godard (1).jpg"]
 additional_images: ["Mushlabs CEO and Founder_Dr. Mazen Rizk.jpg"]
 draft: false

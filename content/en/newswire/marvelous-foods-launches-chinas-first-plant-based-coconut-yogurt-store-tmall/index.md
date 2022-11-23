@@ -3,6 +3,8 @@ title: "Marvelous Foods launches China’s first plant-based coconut yogurt stor
 date: 2021-05-20 14:24:24
 lastmod: 2021-05-20 14:24:24
 slug: /marvelous-foods-launches-chinas-first-plant-based-coconut-yogurt-store-tmall
+company_name: "Marvelous Foods"
+company_link: "https://marvelousfoods.com/"
 description: "China plant-based snacking company Marvelous Foods has launched a Tmall flagship store for its signature product Yeyo Coconut Yogurt."
 excerpt: "China plant-based snacking company Marvelous Foods has launched a Tmall flagship store for its signature product Yeyo Coconut Yogurt."
 proteins: [Plant-Based]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [NA]
-company: "<a href=\"https://marvelousfoods.com/\">Marvelous Foods</a>"
 images: ["marvelous.jpg"]
 additional_images: ["marvelous2.jpg", "marvelous3jpg.jpg", "marvelous4.jpg", "marvelous5.jpg"]
 draft: false

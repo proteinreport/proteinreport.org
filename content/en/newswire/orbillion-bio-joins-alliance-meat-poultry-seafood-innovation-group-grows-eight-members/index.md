@@ -3,6 +3,7 @@ title: "Orbillion Bio Joins Alliance for Meat, Poultry, & Seafood Innovation, Gr
 date: 2021-06-15 08:45:30
 lastmod: 2021-06-15 08:45:30
 slug: /orbillion-bio-joins-alliance-meat-poultry-seafood-innovation-group-grows-eight-members
+company: "AMPS Innovation"
 description: "Orbillion Bio to become the eighth member of the Alliance for Meat, Poultry & Seafood Innovation, a coalition of food companies dedicated to producing meat, poultry and seafood directly from animal cells."
 excerpt: "Orbillion Bio to become the eighth member of the Alliance for Meat, Poultry & Seafood Innovation, a coalition of food companies dedicated to producing meat, poultry and seafood directly from animal cells."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [Eat Just, Finless Foods, SCiFi Foods, Fork & Goode, New Age Meats, BlueNalu, Upside Foods, AMPS Innovation, Orbillion Bio]
-company: "<a href=\"/directory/amps-innovation\" hreflang=\"en\">AMPS Innovation</a>"
 images: ["AMPS-Orbillion_0.jpg"]
 additional_images: [NA]
 draft: false

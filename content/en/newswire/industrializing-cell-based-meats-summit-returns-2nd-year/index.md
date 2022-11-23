@@ -11,7 +11,6 @@ topics: [Business, Sci-Tech]
 regions: [NA]
 flags: [Press Release]
 directory: [Wild Earth, The Better Meat Co., BioTech Foods, New Age Meats, BlueNalu, Peace of Meat]
-company: "<a href=\"\"></a>"
 images: ["brochure.png"]
 additional_images: [NA]
 draft: false

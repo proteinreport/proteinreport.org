@@ -3,6 +3,7 @@ title: "Cellular Agriculture Europe formally launched to create shared voice for
 date: 2021-12-03 11:15:57
 lastmod: 2021-12-03 11:15:57
 slug: /cellular-agriculture-europe-formally-launched-create-shared-voice-new-cultivated-meat
+company: "Cellular Agriculture Europe"
 description: "Cellular Agriculture Europe, the newly established association representing the cellular agriculture industry in Europe, held this week its first General Assembly meeting."
 excerpt: "Cellular Agriculture Europe, the newly established association representing the cellular agriculture industry in Europe, held this week its first General Assembly meeting."
 proteins: [Cell-Based]
@@ -10,8 +11,7 @@ products: [Meat, Seafood, Ingredients]
 topics: [Business, Policy]
 regions: [Europe]
 flags: [Press Release]
-directory: [Future Meat, Gourmey, Mirai Foods, Aleph Farms, SuperMeat, Meatable, Mosa Meat, Higher Steaks, Peace of Meat, Cubiq Foods, Bluu Seafood, Ivy Farm Technologies, Cellular Agriculture Europe]
-company: "<a href=\"/directory/cellular-agriculture-europe\" hreflang=\"en\">Cellular Agriculture Europe</a>"
+directory: [Believer Meats, Gourmey, Mirai Foods, Aleph Farms, SuperMeat, Meatable, Mosa Meat, Higher Steaks, Peace of Meat, Cubiq Foods, Bluu Seafood, Ivy Farm Technologies, Cellular Agriculture Europe]
 images: ["cae.jpg"]
 additional_images: [NA]
 draft: false

@@ -3,6 +3,7 @@ title: "TurtleTree Labs raises US$6.2 million in Pre-A funding round"
 date: 2020-12-17 15:27:07
 lastmod: 2020-12-17 15:27:07
 slug: /turtletree-labs-raises-us62-million-pre-funding-round
+company: "TurtleTree Labs"
 description: "TurtleTree Labs, the biotech company pioneering the method to produce milk using cell-based technology, has just announced the close of an oversubscribed $6.2 million Pre-A funding round from new and existing global investors including Green Monday Ventures, Eat Beyond Global, KBW Ventures, and Verso Capital."
 excerpt: "TurtleTree Labs, the biotech company pioneering the method to produce milk using cell-based technology, has just announced the close of an oversubscribed $6.2 million Pre-A funding round from new and existing global investors including Green Monday Ventures, Eat Beyond Global, KBW Ventures, and Verso Capital."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [TurtleTree Labs, KBW Ventures, Eat Beyond Global Holdings, Green Monday Ventures]
-company: "<a href=\"/directory/turtletree-labs\" hreflang=\"en\">TurtleTree Labs</a>"
 images: ["ftLogo.png"]
 additional_images: [NA]
 draft: false

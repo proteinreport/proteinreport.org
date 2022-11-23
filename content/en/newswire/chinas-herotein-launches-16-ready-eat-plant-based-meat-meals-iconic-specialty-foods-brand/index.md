@@ -3,6 +3,7 @@ title: "China’s HEROTEIN Launches 16 Ready-To-Eat Plant-Based Meat Meals with 
 date: 2021-09-30 07:29:00
 lastmod: 2021-09-30 07:29:00
 slug: /chinas-herotein-launches-16-ready-eat-plant-based-meat-meals-iconic-specialty-foods-brand
+company: "Herotein"
 description: "Shanghai-based HEROTEIN and prominent food producer Butler & White’s launch co-branded ready-to-eat range; HEROTEIN also enters joint development agreement to launch hybrid plant-based/cultivated meat products in China"
 excerpt: "Shanghai-based HEROTEIN and prominent food producer Butler & White’s launch co-branded ready-to-eat range; HEROTEIN also enters joint development agreement to launch hybrid plant-based/cultivated meat products in China"
 proteins: [Cell-Based, Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, New Products]
 directory: [Mission Barns, Herotein]
-company: "<a href=\"/directory/herotein\" hreflang=\"en\">Herotein</a>"
 images: ["HEROTEIN_Logo_Square_White-bg.jpg"]
 additional_images: [NA]
 draft: false

@@ -3,6 +3,7 @@ title: "China Alternative Protein News Media Platform, NewProtein.cn, Launched b
 date: 2021-08-18 09:38:24
 lastmod: 2021-08-18 09:38:24
 slug: /china-alternative-protein-news-media-platform-newproteincn-launched-lever-china
+company: "Lever VC"
 description: "Comprehensive news portal covers product launches, investments, and other developments for the plant-based and cultivated meat sectors in China"
 excerpt: "Comprehensive news portal covers product launches, investments, and other developments for the plant-based and cultivated meat sectors in China"
 proteins: [Cell-Based, Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [Lever VC, Avant Meats, CellX, Herotein, Haofood]
-company: "<a href=\"/directory/lever-vc\" hreflang=\"en\">Lever VC</a>"
 images: ["Lever-China-full-logo.png"]
 additional_images: [NA]
 draft: false

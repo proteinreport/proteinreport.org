@@ -3,6 +3,7 @@ title: "Pioneering Brazilian plant-based meat brand The New™ announces fresh b
 date: 2021-03-16 13:30:30
 lastmod: 2021-03-16 13:30:30
 slug: /pioneering-brazilian-plant-based-meat-brand-newtm-announces-fresh-backing-lever-vc-and
+company: "The New"
 description: "The New, one of Latin America’s fastest-growing plant-based meat brands, announced today it has secured funding from Lever VC, a leading global investor in the alternative protein space, and Paulo Veras, Founder and CEO of 99, Brazil’s first tech unicorn. Funding will be used to complete expansion of a 1,000 square meter production facility amid heavy demand for the company’s products at national and regional retailers."
 excerpt: "The New, one of Latin America’s fastest-growing plant-based meat brands, announced today it has secured funding from Lever VC, a leading global investor in the alternative protein space, and Paulo Veras, Founder and CEO of 99, Brazil’s first tech unicorn. Funding will be used to complete expansion of a 1,000 square meter production facility amid heavy demand for the company’s products at national and regional retailers."
 proteins: [Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Latin America & Caribbean]
 flags: [Press Release, Investments]
 directory: [Beyond Meat, Lever VC, The New]
-company: "<a href=\"/directory/new\" hreflang=\"en\">The New</a>"
 images: ["Bruno Fonseca - Cofounder The New Butchers.jpg"]
 additional_images: ["THE NEW BUTCHERS - BACALHOADA (5).jpg"]
 draft: false

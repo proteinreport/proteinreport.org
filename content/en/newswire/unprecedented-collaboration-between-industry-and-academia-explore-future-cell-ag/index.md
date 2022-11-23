@@ -3,6 +3,7 @@ title: "Unprecedented Collaboration between Industry and Academia to Explore the
 date: 2022-01-25 17:28:07
 lastmod: 2022-01-25 17:28:07
 slug: /unprecedented-collaboration-between-industry-and-academia-explore-future-cell-ag
+company: "Cultivate Tomorrow"
 description: "The Cultivate Tomorrow initiative aims to help bridge the gap between industry and academia, organizing students from all disciplines to tackle key challenges through a cellular agriculture-focused hackathon. To conclude the hackathon, the organization will host a virtual pitch day on February 12, 2022 open to everyone interested in the cultivated food industry, biotechnology applications, and sustainable food and agriculture sectors."
 excerpt: "The Cultivate Tomorrow initiative aims to help bridge the gap between industry and academia, organizing students from all disciplines to tackle key challenges through a cellular agriculture-focused hackathon. To conclude the hackathon, the organization will host a virtual pitch day on February 12, 2022 open to everyone interested in the cultivated food industry, biotechnology applications, and sustainable food and agriculture sectors."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [New Harvest, Perfect Day Foods, Wildtype, TurtleTree Labs, The Every Company, Higher Steaks, Mission Barns, Biomilq, Ginkgo Bioworks]
-company: "<a href=\"/directory/cultivate-tomorrow\" hreflang=\"en\">Cultivate Tomorrow</a>"
 images: ["ct.png"]
 additional_images: ["2_0.png"]
 draft: false

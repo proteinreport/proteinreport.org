@@ -3,6 +3,8 @@ title: "Pioneering new Meelunie fava processing facility potential gamechanger i
 date: 2021-05-28 10:16:27
 lastmod: 2021-05-28 10:16:27
 slug: /pioneering-new-meelunie-fava-processing-facility-potential-gamechanger-protein-transition
+company_name: "Meelunie"
+company_link: "https://meelunie.com/"
 description: "Meelunie, a leading global supplier of plant-based ingredients, has announced it will be opening a fava protein isolate manufacturing facility in Hedensted, Denmark in October 2022."
 excerpt: "Meelunie, a leading global supplier of plant-based ingredients, has announced it will be opening a fava protein isolate manufacturing facility in Hedensted, Denmark in October 2022."
 proteins: [Plant-Based]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [NA]
-company: "<a href=\"https://meelunie.com/\">Meelunie</a>"
 images: ["fava.jpg"]
 additional_images: [NA]
 draft: false

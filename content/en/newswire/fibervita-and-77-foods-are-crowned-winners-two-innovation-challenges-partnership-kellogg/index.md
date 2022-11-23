@@ -3,6 +3,8 @@ title: "Fibervita and 77 Foods are crowned the winners of two Innovation Challen
 date: 2021-03-12 04:00:18
 lastmod: 2021-03-12 04:00:18
 slug: /fibervita-and-77-foods-are-crowned-winners-two-innovation-challenges-partnership-kellogg
+company_name: "Future Food-Tech"
+company_link: "https://futurefoodtechsf.com/"
 description: "​​​​​​​Ambitious food-tech start-ups FIBERVITA and 77 FOODS have been announced as the two winners, after over 100 international entries were received across the two challenges."
 excerpt: "​​​​​​​Ambitious food-tech start-ups FIBERVITA and 77 FOODS have been announced as the two winners, after over 100 international entries were received across the two challenges."
 proteins: [Plant-Based]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [NA]
-company: "<a href=\"https://futurefoodtechsf.com/\">Future Food-Tech</a>"
 images: ["Innovation Challenge Winner - 77 FOODS.png"]
 additional_images: ["Kellogg Company Innovation Challenge - Finalist.png", "Innovation Challenge Winners.gif"]
 draft: false

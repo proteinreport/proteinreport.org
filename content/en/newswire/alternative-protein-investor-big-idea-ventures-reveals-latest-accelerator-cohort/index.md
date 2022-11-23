@@ -3,6 +3,7 @@ title: "Alternative protein investor Big Idea Ventures reveals latest accelerato
 date: 2022-05-02 08:40:01
 lastmod: 2022-05-02 08:40:01
 slug: /alternative-protein-investor-big-idea-ventures-reveals-latest-accelerator-cohort
+company: "Big Idea Ventures"
 description: "Big Idea Ventures, global leader in early-stage investments in the alternative protein sector, revealed its latest accelerator cohort today."
 excerpt: "Big Idea Ventures, global leader in early-stage investments in the alternative protein sector, revealed its latest accelerator cohort today."
 proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release, Investments]
 directory: [Big Idea Ventures, Cultivated Biosciences, Mewery]
-company: "<a href=\"/directory/big-idea-ventures\" hreflang=\"en\">Big Idea Ventures</a>"
 images: ["Big Idea Ventures (Black Logo).png"]
 additional_images: [NA]
 draft: false

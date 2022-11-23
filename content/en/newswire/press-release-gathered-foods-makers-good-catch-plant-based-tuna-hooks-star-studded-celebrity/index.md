@@ -3,6 +3,7 @@ title: "Gathered Foods, Makers Of Good Catch Plant-Based Tuna, Hooks Star-Studde
 date: 2020-05-21 18:24:58
 lastmod: 2020-05-21 18:24:58
 slug: /press-release-gathered-foods-makers-good-catch-plant-based-tuna-hooks-star-studded-celebrity
+company: "Good Catch Foods"
 description: "Woody Harrelson, Shailene Woodley, Paris Hilton and Lance Bass invest in the rapidly growing plant-based seafood brand"
 excerpt: "Woody Harrelson, Shailene Woodley, Paris Hilton and Lance Bass invest in the rapidly growing plant-based seafood brand"
 proteins: [Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [Good Catch Foods]
-company: "<a href=\"/directory/good-catch-foods\" hreflang=\"en\">Good Catch Foods</a>"
 images: ["Full-Product-Line_041020-1-2048x695 (1).jpg"]
 additional_images: [NA]
 draft: false

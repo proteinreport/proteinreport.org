@@ -3,6 +3,7 @@ title: "European Commission Approves JUST Egg's Key Ingredient as Plant-Based Br
 date: 2022-04-05 20:23:59
 lastmod: 2022-04-05 20:23:59
 slug: /european-commission-approves-just-eggs-key-ingredient-plant-based-brand-plans-fourth
+company: "Eat Just"
 description: "Eat Just announced today that the key ingredient in its popular plant-based JUST Egg products has received approval from the European Commission. The landmark approval for mung bean protein paves the way for the launch of JUST Egg in Europe in the fourth quarter of this year."
 excerpt: "Eat Just announced today that the key ingredient in its popular plant-based JUST Egg products has received approval from the European Commission. The landmark approval for mung bean protein paves the way for the launch of JUST Egg in Europe in the fourth quarter of this year."
 proteins: [Plant-Based]
@@ -11,7 +12,6 @@ topics: [Policy]
 regions: [Europe]
 flags: [Press Release]
 directory: [Eat Just, Good Food Institute, Plant Based Foods Association]
-company: "<a href=\"/directory/eat-just\" hreflang=\"en\">Eat Just</a>"
 images: ["bean-to-plate_highres.jpg"]
 additional_images: [NA]
 draft: false

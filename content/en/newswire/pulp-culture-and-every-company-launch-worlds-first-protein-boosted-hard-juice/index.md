@@ -3,6 +3,7 @@ title: "Pulp Culture and the Every Company Launch World’s First Protein-Booste
 date: 2022-10-12 10:00:00
 lastmod: 2022-10-12 10:00:00
 slug: /pulp-culture-and-every-company-launch-worlds-first-protein-boosted-hard-juice
+company: "The Every Company"
 description: "BUILD by Pulp Culture+ disrupts the explosive hard alternatives category, growing 2,000%+,  while delivering unprecedented Full Spectrum functionality from adaptogens, probiotics and–in a first for alcoholic beverages– animal-free EVERY Protein●Partners who share a foundation in fermentation are joining together to create a first-of-its-kind, delicious and highly functional beverage fit for the modern consumer●Pulp Culture+ makes global debut today, now available for purchase nationwide on the Pulp Culture website and downtown LA taproom, with brick and mortar retail rollout to follow"
 excerpt: "BUILD by Pulp Culture+ disrupts the explosive hard alternatives category, growing 2,000%+,  while delivering unprecedented Full Spectrum functionality from adaptogens, probiotics and–in a first for alcoholic beverages– animal-free EVERY Protein●Partners who share a foundation in fermentation are joining together to create a first-of-its-kind, delicious and highly functional beverage fit for the modern consumer●Pulp Culture+ makes global debut today, now available for purchase nationwide on the Pulp Culture website and downtown LA taproom, with brick and mortar retail rollout to follow"
 proteins: [Microbial]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [The Every Company]
-company: "<a href=\"/directory/every-company\" hreflang=\"en\">The Every Company</a>"
 images: ["TDAVIS_Every072 copy.jpg"]
 additional_images: [NA]
 draft: false

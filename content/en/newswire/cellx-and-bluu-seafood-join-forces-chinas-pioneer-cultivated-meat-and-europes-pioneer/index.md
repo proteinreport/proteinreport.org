@@ -3,6 +3,7 @@ title: "CellX and Bluu Seafood join forces: China's pioneer in cultivated meat a
 date: 2022-04-07 08:17:53
 lastmod: 2022-04-07 08:17:53
 slug: /cellx-and-bluu-seafood-join-forces-chinas-pioneer-cultivated-meat-and-europes-pioneer
+company: "Bluu Seafood"
 description: "Bluu Seafood and CellX are joining forces as part of a strategic partnership to support each other along the whole value chain when expanding into the respective markets – this ranges from the procurement of raw materials to the construction of production facilities and possible sales partnerships."
 excerpt: "Bluu Seafood and CellX are joining forces as part of a strategic partnership to support each other along the whole value chain when expanding into the respective markets – this ranges from the procurement of raw materials to the construction of production facilities and possible sales partnerships."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Asia, Europe]
 flags: [Press Release]
 directory: [Bluu Seafood, CellX, Cellular Agriculture Europe]
-company: "<a href=\"/directory/bluu-seafood\" hreflang=\"en\">Bluu Seafood</a>"
 images: ["bluu_cellx.jpg"]
 additional_images: [NA]
 draft: false

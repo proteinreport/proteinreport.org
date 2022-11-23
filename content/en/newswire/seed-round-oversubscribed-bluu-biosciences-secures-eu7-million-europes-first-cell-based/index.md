@@ -3,6 +3,7 @@ title: "Seed round oversubscribed: Bluu Biosciences secures €7 million – Eur
 date: 2021-03-26 10:29:42
 lastmod: 2021-03-26 10:29:42
 slug: /seed-round-oversubscribed-bluu-biosciences-secures-eu7-million-europes-first-cell-based
+company: "Bluu Seafood"
 description: "Berlin-based biotech startup Bluu Biosciences has closed its seed funding round at 7 million euros less than ten months after its foundation. Bluu Biosciences is the first company in Europe to specialize in the development and production of cell-based fish."
 excerpt: "Berlin-based biotech startup Bluu Biosciences has closed its seed funding round at 7 million euros less than ten months after its foundation. Bluu Biosciences is the first company in Europe to specialize in the development and production of cell-based fish."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [Lever VC, CPT Capital, Manta Ray, Bluu Seafood]
-company: "<a href=\"/directory/bluu-seafood\" hreflang=\"en\">Bluu Seafood</a>"
 images: ["Dr Sebastian Rakers and Simon Fabich_Founders und Managing Directors of Bluu Biosciences_ltr_copyright Bluu Biosciences_300 dpi.jpg"]
 additional_images: ["R&D for cell-based fish_copyright Bluu Biosciences.jpg"]
 draft: false

@@ -3,6 +3,7 @@ title: "JUST Egg Launches National ‘Really Good Eggs’ Brand Campaign"
 date: 2021-09-22 16:09:34
 lastmod: 2021-09-22 16:09:34
 slug: /just-egg-launches-national-really-good-eggs-brand-campaign
+company: "Eat Just"
 description: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the launch of a bold new multi-million-dollar brand campaign for its popular plant-based JUST Egg products."
 excerpt: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the launch of a bold new multi-million-dollar brand campaign for its popular plant-based JUST Egg products."
 proteins: [Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [Eat Just]
-company: "<a href=\"/directory/eat-just\" hreflang=\"en\">Eat Just</a>"
 images: ["268961.png"]
 additional_images: [NA]
 draft: false

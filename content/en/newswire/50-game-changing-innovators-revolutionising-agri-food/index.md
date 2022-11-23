@@ -3,6 +3,8 @@ title: "50 Game-Changing Innovators Revolutionising Agri-Food"
 date: 2022-08-24 10:29:49
 lastmod: 2022-08-24 10:29:49
 slug: /50-game-changing-innovators-revolutionising-agri-food
+company_name: "Rethink Events"
+company_link: "https://agrifoodinnovation.com/"
 description: "The fifth annual Asia-Pacific Agri-Food Innovation Summit presents 50 regional and international innovators who are pioneering breakthrough technologies in agri-food, to ensure food security and build capacity in Asia and beyond."
 excerpt: "The fifth annual Asia-Pacific Agri-Food Innovation Summit presents 50 regional and international innovators who are pioneering breakthrough technologies in agri-food, to ensure food security and build capacity in Asia and beyond."
 proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [Eat Just, Perfect Day Foods, Triton Algae Innovations, V2food, Aleph Farms, Mosa Meat, Shiok Meats, BlueNalu, Upside Foods, Growthwell Group, ChickP, VisVires New Protein, Bluu Seafood, Next Gen Foods, Magic Valley, Float Foods, SeaSpire, New School Foods]
-company: "<a href=\"https://agrifoodinnovation.com/\">Rethink Events</a>"
 images: ["AP_Agri-Food_2021_webslider_2650x1000px_v2_NEWS-scaled.jpg"]
 additional_images: [NA]
 draft: false

@@ -3,6 +3,7 @@ title: "Cultivated marine protein company Avant announces 90% cost reduction, ne
 date: 2021-03-08 11:40:12
 lastmod: 2021-03-08 11:40:12
 slug: /cultivated-marine-protein-company-avant-announces-90-cost-reduction-new-strategic
+company: "Avant Meats"
 description: "Avant, the first cultivated meat company in China and the first cultivated fish company in Asia, announces today a strategic partnership with QuaCell, an emerging leader in the biopharmaceutical industry in China."
 excerpt: "Avant, the first cultivated meat company in China and the first cultivated fish company in Asia, announces today a strategic partnership with QuaCell, an emerging leader in the biopharmaceutical industry in China."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [Avant Meats]
-company: "<a href=\"/directory/avant-meats\" hreflang=\"en\">Avant Meats</a>"
 images: ["20210308_Quacell facility_2.jpg"]
 additional_images: [NA]
 draft: false

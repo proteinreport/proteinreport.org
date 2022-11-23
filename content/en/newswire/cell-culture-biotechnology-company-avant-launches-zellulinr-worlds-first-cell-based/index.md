@@ -3,6 +3,7 @@ title: "Cell culture biotechnology company Avant launches Zellulin®, the world�
 date: 2021-02-15 08:25:40
 lastmod: 2021-02-15 08:25:40
 slug: /cell-culture-biotechnology-company-avant-launches-zellulinr-worlds-first-cell-based
+company: "Avant Meats"
 description: "Avant announces today the launch of Zellulin®, an ethically and sustainably sourced bioactive ingredient produced in a fully traceable and controlled environment, using Avant's cell culture biotechnology."
 excerpt: "Avant announces today the launch of Zellulin®, an ethically and sustainably sourced bioactive ingredient produced in a fully traceable and controlled environment, using Avant's cell culture biotechnology."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, New Products]
 directory: [Avant Meats]
-company: "<a href=\"/directory/avant-meats\" hreflang=\"en\">Avant Meats</a>"
 images: ["ZELLULIN ANTI-OXIDATION 01_s.jpg"]
 additional_images: ["more than collagen.png", "more than collagen2.png"]
 draft: false

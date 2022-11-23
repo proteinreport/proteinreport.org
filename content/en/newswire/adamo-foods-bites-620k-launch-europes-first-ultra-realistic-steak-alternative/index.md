@@ -3,6 +3,7 @@ title: "Adamo Foods bites into $620k to launch Europe’s first ultra-realistic 
 date: 2022-09-22 17:00:40
 lastmod: 2022-09-22 17:00:40
 slug: /adamo-foods-bites-620k-launch-europes-first-ultra-realistic-steak-alternative
+company: "Adamo Foods"
 description: "London-based food-tech startup Adamo Foods has won triple backing in a boost to its mission to develop delicious, healthy and sustainable alternatives to meat whole-cuts from fungi."
 excerpt: "London-based food-tech startup Adamo Foods has won triple backing in a boost to its mission to develop delicious, healthy and sustainable alternatives to meat whole-cuts from fungi."
 proteins: [Fungi]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [Adamo Foods]
-company: "<a href=\"/directory/adamo-foods\" hreflang=\"en\">Adamo Foods</a>"
 images: ["factory-g4edad8858_1920.jpg"]
 additional_images: [NA]
 draft: false

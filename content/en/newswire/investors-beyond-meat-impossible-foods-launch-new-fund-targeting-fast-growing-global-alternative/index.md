@@ -3,6 +3,7 @@ title: "Investors in Beyond Meat, Impossible Foods Launch New Fund Targeting the
 date: 2020-08-18 06:51:01
 lastmod: 2020-08-18 06:51:01
 slug: /investors-beyond-meat-impossible-foods-launch-new-fund-targeting-fast-growing-global-alternative
+company: "Lever VC"
 description: "Lever VC announced today it recently completed the first close of Lever VC Fund I. The Fund, which is investing globally in early stage plant-based and cell-cultivated meat and dairy companies, has already amassed a portfolio of ten trailblazing alternative protein startups around the world. The Fund currently has $23 million USD in capital commitments."
 excerpt: "Lever VC announced today it recently completed the first close of Lever VC Fund I. The Fund, which is investing globally in early stage plant-based and cell-cultivated meat and dairy companies, has already amassed a portfolio of ten trailblazing alternative protein startups around the world. The Fund currently has $23 million USD in capital commitments."
 proteins: [Cell-Based, Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [Eat Just, Beyond Meat, Impossible Foods, Good Food Institute, The Better Meat Co., Kite Hill, TurtleTree Labs, Bond Pet Foods, Lever VC, Aleph Farms, Mission Barns, Upside Foods, Good Planet Foods]
-company: "<a href=\"/directory/lever-vc\" hreflang=\"en\">Lever VC</a>"
 images: ["leverportfolio_1.jpg"]
 additional_images: [NA]
 draft: false

@@ -3,6 +3,7 @@ title: "Four Spaces to Launch B2B Businesses in Cellular Agriculture"
 date: 2022-06-10 14:00:00
 lastmod: 2022-06-10 14:00:00
 slug: /four-spaces-launch-b2b-businesses-cellular-agriculture
+company: "Newlab"
 description: "Newlab, the center for applied innovation bringing together experts, industry, and civic leaders to solve systemic challenges with transformative technologies, today announced the launch of their new cellular agriculture venture studio"
 excerpt: "Newlab, the center for applied innovation bringing together experts, industry, and civic leaders to solve systemic challenges with transformative technologies, today announced the launch of their new cellular agriculture venture studio"
 proteins: [Cell-Based, Microbial, Molecular Farming]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [New Harvest, Future Fields, Ginkgo Bioworks, Cult Food Science, Newlab]
-company: "<a href=\"/directory/newlab\" hreflang=\"en\">Newlab</a>"
 images: ["cellagnh.png"]
 additional_images: [NA]
 draft: false

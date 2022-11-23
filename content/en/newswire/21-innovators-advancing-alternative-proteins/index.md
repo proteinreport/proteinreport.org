@@ -3,6 +3,8 @@ title: "21 Innovators Advancing Alternative Proteins"
 date: 2021-05-28 11:57:30
 lastmod: 2021-05-28 11:57:30
 slug: /21-innovators-advancing-alternative-proteins
+company_name: "Future Food-Tech"
+company_link: "https://www.futurefoodtechprotein.com"
 description: "At Future Food-Tech Alternative Proteins on June 22-23, the summit will spotlight twenty one game-changing solutions in the summit’s Start-Up Arena, Innovation Challenge Finale with Quorn Foods and Roquette, Start-Up TechHub, Fireside Chats and Step-Up to the Plate cooking demonstrations."
 excerpt: "At Future Food-Tech Alternative Proteins on June 22-23, the summit will spotlight twenty one game-changing solutions in the summit’s Start-Up Arena, Innovation Challenge Finale with Quorn Foods and Roquette, Start-Up TechHub, Fireside Chats and Step-Up to the Plate cooking demonstrations."
 proteins: [Cell-Based, Plant-Based, Microbial]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [Kuleana, NotCo, Planted, Because Animals, Fumi Ingredients, Noblegen, Youkuai Group (Z-Rou), Better Dairy, Mzansi Meat Co., Next Meats]
-company: "<a href=\"https://www.futurefoodtechprotein.com\">Future Food-Tech</a>"
 images: ["FFTP21 -  Meet The Start-Ups Headshots_0.jpg"]
 additional_images: ["FFTP21 - Meet the Start-Ups_0.png"]
 draft: false

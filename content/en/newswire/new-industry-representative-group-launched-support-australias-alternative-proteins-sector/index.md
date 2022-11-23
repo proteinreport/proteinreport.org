@@ -3,6 +3,7 @@ title: "New Industry Representative Group Launched to Support Australia’s Alte
 date: 2021-03-31 08:53:19
 lastmod: 2021-03-31 08:53:19
 slug: /new-industry-representative-group-launched-support-australias-alternative-proteins-sector
+company: "Food Frontier"
 description: "Leading plant-based meat companies in Australia including Sanitarium, Proform Foods, v2food, Rogue Foods and Nestlé Australia, along with the U.S.’s Impossible Foods, have launched the Alternative Proteins Council (APC), a new representative group for Australia’s alternative proteins sector."
 excerpt: "Leading plant-based meat companies in Australia including Sanitarium, Proform Foods, v2food, Rogue Foods and Nestlé Australia, along with the U.S.’s Impossible Foods, have launched the Alternative Proteins Council (APC), a new representative group for Australia’s alternative proteins sector."
 proteins: [Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Oceania]
 flags: [Press Release]
 directory: [Impossible Foods, V2food, Food Frontier]
-company: "<a href=\"/directory/food-frontier\" hreflang=\"en\">Food Frontier</a>"
 images: ["PRplaceholder.png"]
 additional_images: [NA]
 draft: false

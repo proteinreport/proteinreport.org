@@ -3,6 +3,7 @@ title: "Marvelous Foods’ Yeyo Coconut Yogurt Is Now Available In All Aldi Stor
 date: 2022-02-23 13:16:32
 lastmod: 2022-02-23 13:16:32
 slug: /marvelous-foods-yeyo-coconut-yogurt-now-available-all-aldi-stores-china
+company: "Marvelous Foods"
 description: "eyo coconut yogurt, produced by Chinese plant-based diary pioneer Marvelous Foods Ltd., has hit the shelves across ALDI China stores."
 excerpt: "eyo coconut yogurt, produced by Chinese plant-based diary pioneer Marvelous Foods Ltd., has hit the shelves across ALDI China stores."
 proteins: [Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [Marvelous Foods]
-company: "<a href=\"/directory/marvelous-foods\" hreflang=\"en\">Marvelous Foods</a>"
 images: ["Yeyo_ALDI_shelf.jpg"]
 additional_images: ["three_flavors_of_yeyo.jpg", "Yeyo ALDI mini program.jpg", "Yeyo_with_granola_topping.jpg", "yeyo-maia-active-partnership.jpeg"]
 draft: false

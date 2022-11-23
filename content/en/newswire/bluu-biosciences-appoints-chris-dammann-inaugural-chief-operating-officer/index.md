@@ -3,6 +3,7 @@ title: "Bluu Biosciences appoints Chris Dammann as inaugural Chief Operating Off
 date: 2021-08-19 07:39:00
 lastmod: 2021-08-19 07:39:00
 slug: /bluu-biosciences-appoints-chris-dammann-inaugural-chief-operating-officer
+company: "Bluu Seafood"
 description: "Europe's first company for cultivated fish onboards renowned expert to speed up large-scale production of cultivated fish products."
 excerpt: "Europe's first company for cultivated fish onboards renowned expert to speed up large-scale production of cultivated fish products."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [BlueNalu, Bluu Seafood]
-company: "<a href=\"/directory/bluu-seafood\" hreflang=\"en\">Bluu Seafood</a>"
 images: ["Executive Team Bluu Biosciences.jpg"]
 additional_images: ["Chris Dammann_COO Bluu Biosciences_copyright Bluu GmbH.jpg", "R&D for cell-based fish_copyright Bluu Biosciences (1).jpg", "Logo_highres.jpg"]
 draft: false

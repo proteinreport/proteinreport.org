@@ -3,6 +3,7 @@ title: "Rapidly growing plant-based dairy startup Take Two Foods announces expan
 date: 2021-02-08 18:58:59
 lastmod: 2021-02-08 18:58:59
 slug: /rapidly-growing-plant-based-dairy-startup-take-two-foods-announces-expanded-distribution
+company: "Take Two Foods"
 description: "Plant-based dairy startup Take Two Foods, which launched the world’s first barleymilk in March of 2020, is excited to announce expansion into several new grocery markets this year, including Sprouts Farmers Market, Imperfect Foods, New Seasons Market, and New Leaf Community Markets. The company has also brought on seven new key members to its rapidly growing team in the last six months."
 excerpt: "Plant-based dairy startup Take Two Foods, which launched the world’s first barleymilk in March of 2020, is excited to announce expansion into several new grocery markets this year, including Sprouts Farmers Market, Imperfect Foods, New Seasons Market, and New Leaf Community Markets. The company has also brought on seven new key members to its rapidly growing team in the last six months."
 proteins: [Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [Take Two Foods]
-company: "<a href=\"/directory/take-two-foods\" hreflang=\"en\">Take Two Foods</a>"
 images: ["TakeTwoLineup.png"]
 additional_images: [NA]
 draft: false

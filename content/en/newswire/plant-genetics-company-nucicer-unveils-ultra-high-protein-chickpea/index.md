@@ -3,6 +3,7 @@ title: "Plant Genetics Company NuCicer Unveils Ultra-High Protein Chickpea"
 date: 2021-12-20 18:47:56
 lastmod: 2021-12-20 18:47:56
 slug: /plant-genetics-company-nucicer-unveils-ultra-high-protein-chickpea
+company: "NuCicer"
 description: "NuCicer debuts chickpeas with 75% higher protein content developed naturally using wild genetic diversity"
 excerpt: "NuCicer debuts chickpeas with 75% higher protein content developed naturally using wild genetic diversity"
 proteins: [Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [NuCicer]
-company: "<a href=\"/directory/nucicer\" hreflang=\"en\">NuCicer</a>"
 images: ["Diverse Chickpea Material - NuCicer.JPG"]
 additional_images: ["KathrynCook - NuCicer CEO_0.jpeg", "NuCicer Chickpea Field Trial.png", "NuCicer High Protein Chickpea Variety.jpg", "NuCicer Novel Chickpea Varieties.jpg"]
 draft: false

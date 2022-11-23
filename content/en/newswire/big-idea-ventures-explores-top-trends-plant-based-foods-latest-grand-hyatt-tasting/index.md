@@ -3,6 +3,7 @@ title: "Big Idea Ventures Explores Top Trends in Plant-Based Foods at Latest Gra
 date: 2021-05-25 14:34:17
 lastmod: 2021-05-25 14:34:17
 slug: /big-idea-ventures-explores-top-trends-plant-based-foods-latest-grand-hyatt-tasting
+company: "Big Idea Ventures"
 description: "The event presented a hybrid tasting showcase around the next generation of alternative proteins and shares six of the hottest trends in plant- and cell-based products"
 excerpt: "The event presented a hybrid tasting showcase around the next generation of alternative proteins and shares six of the hottest trends in plant- and cell-based products"
 proteins: [Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [Eat Just, Innocent Meat, Big Idea Ventures, Haofood]
-company: "<a href=\"/directory/big-idea-ventures\" hreflang=\"en\">Big Idea Ventures</a>"
 images: ["DSC00441.jpg"]
 additional_images: ["DSC00508.jpg", "DSC00573.jpg", "DSC00485.jpg", "DSC00596.jpg"]
 draft: false

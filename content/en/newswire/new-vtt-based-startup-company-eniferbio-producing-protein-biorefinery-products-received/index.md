@@ -3,6 +3,7 @@ title: "New VTT-based startup company eniferBio producing protein from biorefine
 date: 2020-10-30 16:33:40
 lastmod: 2020-10-30 16:33:40
 slug: /new-vtt-based-startup-company-eniferbio-producing-protein-biorefinery-products-received
+company: "eniferBio"
 description: "The growing demand for food and sustainable food production are global challenges. A significant part of the problem is the lack of sustainably produced protein feed. eniferBio has developed a new and sustainable production process for a high-quality fish feed ingredient and recently received funding for its solution from two funds, Nordic FoodTech VC and Voima Ventures."
 excerpt: "The growing demand for food and sustainable food production are global challenges. A significant part of the problem is the lack of sustainably produced protein feed. eniferBio has developed a new and sustainable production process for a high-quality fish feed ingredient and recently received funding for its solution from two funds, Nordic FoodTech VC and Voima Ventures."
 proteins: [Fungi]
@@ -11,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [eniferBio]
-company: "<a href=\"/directory/eniferbio\" hreflang=\"en\">eniferBio</a>"
 images: ["pekilo_0.jpg"]
 additional_images: ["konsepti7.jpg"]
 draft: false

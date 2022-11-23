@@ -3,6 +3,8 @@ title: "Zyrcular Foods starts production at its alternative protein plant in Sev
 date: 2021-03-02 00:54:24
 lastmod: 2021-03-02 00:54:24
 slug: /zyrcular-foods-starts-production-its-alternative-protein-plant-seva-barcelona
+company_name: "Zyrcular Foods"
+company_link: "https://zyrcularfoods.com/"
 description: "Zyrcular Foods, a company devoted to the sustainable production and distribution of foods based on plant protein, has started production at an alternative protein plant in the town of Seva, in the Osona region of Barcelona province."
 excerpt: "Zyrcular Foods, a company devoted to the sustainable production and distribution of foods based on plant protein, has started production at an alternative protein plant in the town of Seva, in the Osona region of Barcelona province."
 proteins: [Plant-Based]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [Beyond Meat, Good Food Institute, Gardein, Sophie's Kitchen, Green Vie Foods]
-company: "<a href=\"https://zyrcularfoods.com/\">Zyrcular Foods</a>"
 images: ["Santi Aliaga.jpg"]
 additional_images: ["Zyrcular Foods.jpg"]
 draft: false

@@ -3,6 +3,7 @@ title: "Aliga Microalgae Purchases Duplaco’s Algae Production Facility In The 
 date: 2022-08-23 08:48:28
 lastmod: 2022-08-23 08:48:28
 slug: /aliga-microalgae-purchases-duplacos-algae-production-facility-netherlands
+company: "Aliga Microalgae"
 description: "Hjørring, Denmark, 23 August 2022 -- On the 12th of August, Danish food-tech company Aliga Microalgae purchased Duplaco’s microalgae production facility in the Netherlands in order to increase its production capacity of Chlorella algae products for the food ingredients and dietary supplement markets.The Facility"
 excerpt: "Hjørring, Denmark, 23 August 2022 -- On the 12th of August, Danish food-tech company Aliga Microalgae purchased Duplaco’s microalgae production facility in the Netherlands in order to increase its production capacity of Chlorella algae products for the food ingredients and dietary supplement markets.The Facility"
 proteins: [Algae]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [Aliga Microalgae]
-company: "<a href=\"/directory/aliga-microalgae\" hreflang=\"en\">Aliga Microalgae</a>"
 images: ["Aliga_Netherlands_facility2.jpg"]
 additional_images: ["aliga_white_green_Chlorella_1128.jpg"]
 draft: false

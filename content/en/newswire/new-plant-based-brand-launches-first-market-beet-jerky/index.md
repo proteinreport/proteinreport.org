@@ -3,6 +3,7 @@ title: "New Plant-Based Brand Launches with a First-To-Market Beet Jerky"
 date: 2022-11-07 15:49:03
 lastmod: 2022-11-07 15:49:03
 slug: /new-plant-based-brand-launches-first-market-beet-jerky
+company: "Theo's Plant-Based"
 description: "The brand soft-launched on August 17, 2022 with its premier product, a first-of-its-kind BEET Jerky, and has plans to roll out additional lines of vegetable-forward fare in 2023 and beyond."
 excerpt: "The brand soft-launched on August 17, 2022 with its premier product, a first-of-its-kind BEET Jerky, and has plans to roll out additional lines of vegetable-forward fare in 2023 and beyond."
 proteins: [Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [Big Idea Ventures, Theo's Plant-Based]
-company: "<a href=\"/directory/theos-plant-based\" hreflang=\"en\">Theo's Plant-Based</a>"
 images: ["BeetJerkyVariety.jpg"]
 additional_images: [NA]
 draft: false

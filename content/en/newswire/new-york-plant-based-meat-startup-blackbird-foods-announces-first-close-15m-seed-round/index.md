@@ -3,6 +3,7 @@ title: "New York Plant-Based Meat Startup Blackbird Foods Announces First Close 
 date: 2021-02-10 18:26:55
 lastmod: 2021-02-10 18:26:55
 slug: /new-york-plant-based-meat-startup-blackbird-foods-announces-first-close-15m-seed-round
+company: "Blackbird Foods"
 description: "Investment led by Lever VC to allow Blackbird Foods to expand into retail chains and scale operations.Blackbird Foods builds on early successes of supplying popular NYC restaurants with its plant-based protein to launch on grocery shelves nationwide.Demand has already quadrupled within Blackbird’s home region of the northeast since the start of 2020."
 excerpt: "Investment led by Lever VC to allow Blackbird Foods to expand into retail chains and scale operations.Blackbird Foods builds on early successes of supplying popular NYC restaurants with its plant-based protein to launch on grocery shelves nationwide.Demand has already quadrupled within Blackbird’s home region of the northeast since the start of 2020."
 proteins: [Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [Wild Earth, Lever VC, Sustainable Food Ventures, Blackbird Foods]
-company: "<a href=\"/directory/blackbird-foods\" hreflang=\"en\">Blackbird Foods</a>"
 images: ["All-Packaging-Seitan.jpg"]
 additional_images: ["UltimateFlatlay.jpg", "All-Pizza.jpg", "Tacos-ChiliLime.jpg"]
 draft: false

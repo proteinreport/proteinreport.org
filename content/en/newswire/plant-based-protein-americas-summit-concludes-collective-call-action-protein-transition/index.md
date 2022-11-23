@@ -3,6 +3,8 @@ title: "Plant-Based Protein Americas Summit Concludes With Collective Call for A
 date: 2021-10-01 16:22:26
 lastmod: 2021-10-01 16:22:26
 slug: /plant-based-protein-americas-summit-concludes-collective-call-action-protein-transition
+company_name: "Bridge2Food"
+company_link: "https://bridge2food.com/"
 description: "There’s a very clear call for the plant-based sector to come together in order to accelerate change for a healthy and sustainable future, delegates heard at the most recent Bridge2Food summit."
 excerpt: "There’s a very clear call for the plant-based sector to come together in order to accelerate change for a healthy and sustainable future, delegates heard at the most recent Bridge2Food summit."
 proteins: [Plant-Based]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [Latin America & Caribbean, US & Canada]
 flags: [Press Release]
 directory: [FAIRR Initiative, Plant Based Foods Association]
-company: "<a href=\"https://bridge2food.com/\">Bridge2Food</a>"
 images: ["Moonshot panel members .png"]
 additional_images: [NA]
 draft: false

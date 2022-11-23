@@ -3,6 +3,7 @@ title: "BlueNalu Announces Strategic Partnership with Nutreco"
 date: 2020-01-16 16:15:29
 lastmod: 2020-01-16 16:15:29
 slug: /bluenalu-announces-strategic-partnership-nutreco
+company: "BlueNalu"
 description: "Collaboration accelerates plans to commercialize cellular aquaculture globally San Diego, Calif. (January 16, 2020) – BlueNalu, a leading innovative food company developing seafood products directly from fish cells, today announced a strategic partnership with Nutreco, a global leader in animal nutrition and aquafeed. Nutreco’s aquafeed company, Skretting, is a world leader in the manufacture and supply of aquaculture feeds and an important link in the feed-to-food chain. "
 excerpt: "Collaboration accelerates plans to commercialize cellular aquaculture globally San Diego, Calif. (January 16, 2020) – BlueNalu, a leading innovative food company developing seafood products directly from fish cells, today announced a strategic partnership with Nutreco, a global leader in animal nutrition and aquafeed. Nutreco’s aquafeed company, Skretting, is a world leader in the manufacture and supply of aquaculture feeds and an important link in the feed-to-food chain. "
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [BlueNalu]
-company: "<a href=\"/directory/bluenalu\" hreflang=\"en\">BlueNalu</a>"
 images: ["iStock-534127796_super.jpg"]
 additional_images: [NA]
 draft: false

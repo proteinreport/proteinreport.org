@@ -3,6 +3,7 @@ title: "Cellular Agriculture - A Powerful New Economic Opportunity for Australia
 date: 2022-08-25 00:56:08
 lastmod: 2022-08-25 00:56:08
 slug: /cellular-agriculture-powerful-new-economic-opportunity-australia
+company: "Cellular Agriculture Australia"
 description: "Australia has an opportunity to tap into a global protein market worth US$930 billion by 2035 by investing and scaling up its cellular agriculture capability, a new report has found."
 excerpt: "Australia has an opportunity to tap into a global protein market worth US$930 billion by 2035 by investing and scaling up its cellular agriculture capability, a new report has found."
 proteins: [Cell-Based, Microbial]
@@ -11,7 +12,6 @@ topics: [Business, Policy]
 regions: [Oceania]
 flags: [Press Release]
 directory: [Vow, Heuros, Cellular Agriculture Australia, Blackbird Ventures, Change Foods, Nourish Ingredients, Magic Valley]
-company: "<a href=\"/directory/cellular-agriculture-australia\" hreflang=\"en\">Cellular Agriculture Australia</a>"
 images: ["CAA White Paper_0.png"]
 additional_images: [NA]
 draft: false

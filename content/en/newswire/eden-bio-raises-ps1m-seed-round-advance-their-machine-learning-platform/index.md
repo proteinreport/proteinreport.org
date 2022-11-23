@@ -3,6 +3,7 @@ title: "Eden Bio raises £1m seed round to advance their machine-learning platfo
 date: 2022-11-15 10:00:00
 lastmod: 2022-11-15 10:00:00
 slug: /eden-bio-raises-ps1m-seed-round-advance-their-machine-learning-platform
+company: "Eden Bio"
 description: "Eden Bio, a UK-based biotech using machine learning to increase protein yield, is delighted to announce their seed investment round of £1M."
 excerpt: "Eden Bio, a UK-based biotech using machine learning to increase protein yield, is delighted to announce their seed investment round of £1M."
 proteins: [Microbial]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [Better Dairy, Eden Bio]
-company: "<a href=\"/directory/eden-bio\" hreflang=\"en\">Eden Bio</a>"
 images: ["Eden Bio Team_0.jpg"]
 additional_images: [NA]
 draft: false

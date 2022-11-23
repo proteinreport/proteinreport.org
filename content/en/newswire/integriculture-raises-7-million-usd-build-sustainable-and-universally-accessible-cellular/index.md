@@ -3,6 +3,7 @@ title: "IntegriCulture Raises 7 Million USD to Build a Sustainable and Universal
 date: 2022-01-20 10:22:52
 lastmod: 2022-01-20 10:22:52
 slug: /integriculture-raises-7-million-usd-build-sustainable-and-universally-accessible-cellular
+company: "IntegriCulture"
 description: "IntegriCulture, with a species-agnostic, large-scale cell culture technology CulNet System, is one step closer to building a universally accessible cellular agriculture platform after raising a total of 7 million USD from 12 investors in a Series A round. The company also aims for the world’s first commercial launch of cell-cultured foie gras in 2022."
 excerpt: "IntegriCulture, with a species-agnostic, large-scale cell culture technology CulNet System, is one step closer to building a universally accessible cellular agriculture platform after raising a total of 7 million USD from 12 investors in a Series A round. The company also aims for the world’s first commercial launch of cell-cultured foie gras in 2022."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [AgFunder, IntegriCulture]
-company: "<a href=\"/directory/integriculture\" hreflang=\"en\">IntegriCulture</a>"
 images: ["培養foie gra1.JPG"]
 additional_images: ["integriculture.jpg", "培養foie gras2.jpg", "CulnetSystem_写真.jpg"]
 draft: false

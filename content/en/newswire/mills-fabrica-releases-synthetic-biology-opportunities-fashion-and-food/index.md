@@ -3,6 +3,8 @@ title: "The Mills Fabrica releases “Synthetic Biology Opportunities in Fashion
 date: 2021-07-16 03:04:55
 lastmod: 2021-07-16 03:04:55
 slug: /mills-fabrica-releases-synthetic-biology-opportunities-fashion-and-food
+company_name: "The Mills Fabrica"
+company_link: "https://www.themillsfabrica.com/"
 description: "The report explores the synthetic biology sector, discussing how the technology is incorporated into the fashion and food sectors to solve global sustainability issues"
 excerpt: "The report explores the synthetic biology sector, discussing how the technology is incorporated into the fashion and food sectors to solve global sustainability issues"
 proteins: [Cell-Based, Microbial]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [NA]
-company: "<a href=\"https://www.themillsfabrica.com/\">The Mills Fabrica</a>"
 images: ["cover design.jpg"]
 additional_images: [NA]
 draft: false

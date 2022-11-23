@@ -3,6 +3,8 @@ title: "40 Alt-Protein Start-Ups Featured at New York’s Future Food-Tech Summi
 date: 2022-05-31 11:01:31
 lastmod: 2022-05-31 11:01:31
 slug: /40-alt-protein-start-ups-featured-new-yorks-future-food-tech-summit
+company_name: "Future Food-Tech"
+company_link: "https://www.futurefoodtechprotein.com/"
 description: "Leading food technology event series, Future Food-Tech, today announced the 40 startups that will be participating in their Future Food-Tech Alternative Proteins summit taking place in New York on June 21-22."
 excerpt: "Leading food technology event series, Future Food-Tech, today announced the 40 startups that will be participating in their Future Food-Tech Alternative Proteins summit taking place in New York on June 21-22."
 proteins: [Cell-Based, Plant-Based, Microbial]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [Beyond Meat, Meati Foods, Zero Egg Food, Eclipse Foods, Air Protein, The Every Company, New Culture, Pleese Foods, Motif Foodworks, NotCo, Triton Algae Innovations, V2food, BlueNalu, Planetary Foods, Nature's Fynd, Enough, InnovoPro, Remilk, Helaina, Protein Industries Canada, Moolec Science, Wilk, SeaSpire, New School Foods, Brevel]
-company: "<a href=\"https://www.futurefoodtechprotein.com/\">Future Food-Tech</a>"
 images: ["JzFfLuLE_0.png"]
 additional_images: [NA]
 draft: false

@@ -3,6 +3,7 @@ title: "Mewery Demonstrates Serum-Free, Microalgae-Based Growth Medium, Receives
 date: 2022-10-19 08:27:26
 lastmod: 2022-10-19 08:27:26
 slug: /mewery-demonstrates-serum-free-microalgae-based-growth-medium-receives-pre-seed-investment
+company: "Mewery"
 description: "Mewery, the Czech startup focused on novel approaches to producing cell-cultured meat, has reached a new milestone as their scientists have successfully developed a serum-free growth medium that dramatically reduces the cost of cultivation. Along with this success, Mewery reports investment from Credo Ventures and Purple Ventures, closing their raise of almost a million dollars in their pre-seed round."
 excerpt: "Mewery, the Czech startup focused on novel approaches to producing cell-cultured meat, has reached a new milestone as their scientists have successfully developed a serum-free growth medium that dramatically reduces the cost of cultivation. Along with this success, Mewery reports investment from Credo Ventures and Purple Ventures, closing their raise of almost a million dollars in their pre-seed round."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [Big Idea Ventures, Mewery]
-company: "<a href=\"/directory/mewery\" hreflang=\"en\">Mewery</a>"
 images: ["future_product_line.jpg"]
 additional_images: ["Mewery 1.jpg", "Mewery 2.jpg", "Mewery 3.jpg", "Mewery 4.jpg", "Mewery 5.jpg", "Roman Lauš 2.jpg"]
 draft: false

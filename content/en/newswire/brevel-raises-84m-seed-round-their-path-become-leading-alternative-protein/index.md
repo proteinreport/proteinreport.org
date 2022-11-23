@@ -3,6 +3,7 @@ title: "Brevel Raises $8.4M Seed Round on Their Path to Become the Leading Alter
 date: 2022-06-02 13:00:00
 lastmod: 2022-06-02 13:00:00
 slug: /brevel-raises-84m-seed-round-their-path-become-leading-alternative-protein
+company: "Brevel"
 description: "Brevel, the leading microalgae-based alternative protein company, today announced it has raised $8.4M in a Seed funding round. The funding will be utilized to build a commercial pilot factory which will serve as the basis for scaling Brevel’s proprietary technology and enhancing R&D capabilities."
 excerpt: "Brevel, the leading microalgae-based alternative protein company, today announced it has raised $8.4M in a Seed funding round. The funding will be utilized to build a commercial pilot factory which will serve as the basis for scaling Brevel’s proprietary technology and enhancing R&D capabilities."
 proteins: [Algae]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release, Investments]
 directory: [Brevel]
-company: "<a href=\"/directory/brevel\" hreflang=\"en\">Brevel</a>"
 images: ["Brevel.jpg"]
 additional_images: ["BREVEL CO-FOUNDERS, BROTHERS. R-L MATAN GOLAN (COO), YONATAN GOLAN (CEO), MOTHER, IDO GOLAN (CTO).jpg", "R-L IDO GOLAN (CTO), YONATAN GOLAN (CEO), MATAN GOLAN (COO).jpg", "DSC_4592.jpg"]
 draft: false

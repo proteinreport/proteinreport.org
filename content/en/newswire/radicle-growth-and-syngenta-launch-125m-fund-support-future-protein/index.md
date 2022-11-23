@@ -11,7 +11,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [NA]
-company: "<a href=\"\"></a>"
 images: ["radicle-syngenta.png"]
 additional_images: [NA]
 draft: false

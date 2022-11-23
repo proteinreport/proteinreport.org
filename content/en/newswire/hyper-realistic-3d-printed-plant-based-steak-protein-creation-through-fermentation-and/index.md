@@ -3,6 +3,7 @@ title: "Hyper realistic 3D printed plant based steak, protein creation through f
 date: 2021-06-22 07:16:10
 lastmod: 2021-06-22 07:16:10
 slug: /hyper-realistic-3d-printed-plant-based-steak-protein-creation-through-fermentation-and
+company: "Eatable Adventures"
 description: "Eatable Adventures presents the 5 startups accelerated, whose value multiplied by a factor of 6.3 after the program"
 excerpt: "Eatable Adventures presents the 5 startups accelerated, whose value multiplied by a factor of 6.3 after the program"
 proteins: [Plant-Based, Fungi]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [Cocuus System Iberica, Innomy, Eatable Adventures]
-company: "<a href=\"/directory/eatable-adventures\" hreflang=\"en\">Eatable Adventures</a>"
 images: ["Cocuus Steak.jpg"]
 additional_images: ["Cocuus Bacon.jpeg", "MOA (3).jpg", "Innomy (3).jpg", "Cocuus (4).jpg"]
 draft: false

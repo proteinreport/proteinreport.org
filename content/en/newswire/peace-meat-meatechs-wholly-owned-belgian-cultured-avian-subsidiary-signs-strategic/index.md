@@ -3,6 +3,7 @@ title: "Peace of Meat, MeaTech’s Wholly Owned Belgian Cultured Avian Subsidiar
 date: 2022-05-20 16:01:45
 lastmod: 2022-05-20 16:01:45
 slug: /peace-meat-meatechs-wholly-owned-belgian-cultured-avian-subsidiary-signs-strategic
+company: "Steakholder Foods"
 description: "MeaTech 3D Ltd. (Nasdaq: MITC), an international deep-tech food company at the forefront of the cultured meat industry, is pleased to announce that its wholly owned Belgian subsidiary, Peace of Meat, has signed a joint development agreement with ENOUGH, a leader in the field of mycoprotein, a fungi-based fermented food ingredient."
 excerpt: "MeaTech 3D Ltd. (Nasdaq: MITC), an international deep-tech food company at the forefront of the cultured meat industry, is pleased to announce that its wholly owned Belgian subsidiary, Peace of Meat, has signed a joint development agreement with ENOUGH, a leader in the field of mycoprotein, a fungi-based fermented food ingredient."
 proteins: [Cell-Based, Microbial, Fungi]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [Steakholder Foods, Peace of Meat, Enough]
-company: "<a href=\"/directory/steakholder-foods\" hreflang=\"en\">Steakholder Foods</a>"
 images: ["PR-images_With-PoM-logo_All-002-1.jpg"]
 additional_images: [NA]
 draft: false

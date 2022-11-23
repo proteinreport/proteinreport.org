@@ -3,6 +3,8 @@ title: "Future Food-Tech Announces Innovation Challenge in Partnership with Kraf
 date: 2021-07-19 14:59:01
 lastmod: 2021-07-19 14:59:01
 slug: /future-food-tech-announces-innovation-challenge-partnership-kraft-heinz
+company_name: "Future Food-Tech"
+company_link: "https://futurefoodtechlondon.com/"
 description: "Future Food-Tech has announced an Innovation Challenge in partnership with Kraft Heinz to spotlight emerging talent within the industry and accelerate innovation and collaboration, whilst solving an industry challenge."
 excerpt: "Future Food-Tech has announced an Innovation Challenge in partnership with Kraft Heinz to spotlight emerging talent within the industry and accelerate innovation and collaboration, whilst solving an industry challenge."
 proteins: [Plant-Based]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [NA]
-company: "<a href=\"https://futurefoodtechlondon.com/\">Future Food-Tech</a>"
 images: ["Future Food-Tech - Innovation Challenge - Kraft Heinz -.png"]
 additional_images: ["Future Food-Tech - Innovation Challenge - Kraft Heinz - Webinar -.png"]
 draft: false

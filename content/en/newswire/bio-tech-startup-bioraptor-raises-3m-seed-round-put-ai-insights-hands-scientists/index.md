@@ -3,6 +3,7 @@ title: "Bio-Tech Startup BioRaptor Raises $3M Seed Round To Put AI-Insights In T
 date: 2022-10-31 08:00:00
 lastmod: 2022-10-31 08:00:00
 slug: /bio-tech-startup-bioraptor-raises-3m-seed-round-put-ai-insights-hands-scientists
+company: "BioRaptor"
 description: "Today BioRaptor announces a $3M funding round to innovate the biotech industry by putting the power of AI-generated insights into the hands of every scientist"
 excerpt: "Today BioRaptor announces a $3M funding round to innovate the biotech industry by putting the power of AI-generated insights into the hands of every scientist"
 proteins: [Microbial]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release, Investments]
 directory: [CPT Capital, BioRaptor]
-company: "<a href=\"/directory/bioraptor\" hreflang=\"en\">BioRaptor</a>"
 images: ["bioraptor_cofounders_0.jpg"]
 additional_images: ["Ori Zakin.jpeg", "Yaron David.jpeg"]
 draft: false

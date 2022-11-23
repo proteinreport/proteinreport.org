@@ -3,6 +3,8 @@ title: "55 Start-Ups You Will Want to Meet at Future Food-Tech"
 date: 2022-02-24 08:22:51
 lastmod: 2022-02-24 08:22:51
 slug: /55-start-ups-you-will-want-meet-future-food-tech
+company_name: "Future Food-Tech"
+company_link: "https://futurefoodtechsf.com/"
 description: "Food-tech start-ups are trailblazing the future of food. As talented innovators leverage new technologies to bring novel foods to consumers on a global scale, there has never been a more exciting time to touch, taste and smell the breakthrough novel foods.Future Food-Tech reveals 55 start-ups for your innovation radar, as they take the global summit spotlight in San Francisco on March 24-25."
 excerpt: "Food-tech start-ups are trailblazing the future of food. As talented innovators leverage new technologies to bring novel foods to consumers on a global scale, there has never been a more exciting time to touch, taste and smell the breakthrough novel foods.Future Food-Tech reveals 55 start-ups for your innovation radar, as they take the global summit spotlight in San Francisco on March 24-25."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [Eat Just, Meati Foods, Perfect Day Foods, Eclipse Foods, Incredible Foods, NotCo, V2food, Nature's Fynd, Superbrewed Food, Remilk, Evo Foods, Shiru, Change Foods, MeliBio, Inc., Moolec Science, Sophie's Bionutrients, Opalia, Gelatex, Nobell Foods, Demolish Foods, Maya Milk, Liven Proteins]
-company: "<a href=\"https://futurefoodtechsf.com/\">Future Food-Tech</a>"
 images: ["FFTSF22 - NEWs (2).png"]
 additional_images: ["FFSF22 - Meet the start-ups.png", "Gone in 60 Seconds.png", "Innovation Challenges.png", "Step Up to the Plate.png", "Taste Lab.png", "Taste Labs.png", "TechHub_0.png"]
 draft: false

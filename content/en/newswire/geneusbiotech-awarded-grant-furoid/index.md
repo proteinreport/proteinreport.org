@@ -3,6 +3,7 @@ title: "GeneusBiotech Awarded with Grant for Furoid"
 date: 2022-04-15 08:41:30
 lastmod: 2022-04-15 08:41:30
 slug: /geneusbiotech-awarded-grant-furoid
+company: "GeneusBiotech"
 description: "GENEUSBIOTECH has been awarded a grant from the European Commission in the Pathfinder Challenge for its Furoid technology. The Commission sees great potential in the innovative process and has allocated more than EUR 4 million to further develop the promising technology."
 excerpt: "GENEUSBIOTECH has been awarded a grant from the European Commission in the Pathfinder Challenge for its Furoid technology. The Commission sees great potential in the innovative process and has allocated more than EUR 4 million to further develop the promising technology."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [GeneusBiotech]
-company: "<a href=\"/directory/geneusbiotech\" hreflang=\"en\">GeneusBiotech</a>"
 images: ["geneus_0.png"]
 additional_images: ["IMG_3287.jpg", "image_6483441.JPG", "Geneusbiotech Raw Data-Images of Hair-Confocal imaging of hair follicle-IVH hair D33 K75 DAPI_Render_Series3.jpg", "IMG_9093.jpg", "BTH55_20171121_WT-iPSC-007-4dEB-3dafterTrans_3chir_0.5nMBMP4_1.JPEG", "IMG_5508.JPG", "IMG_4285.JPG", "IMG_4296.JPG", "_MVA6168 13.27_0.JPG"]
 draft: false

@@ -3,6 +3,7 @@ title: "Bluu Biosciences is rebranding as Bluu Seafood: focus on product develop
 date: 2022-03-01 10:09:43
 lastmod: 2022-03-01 10:09:43
 slug: /bluu-biosciences-rebranding-bluu-seafood-focus-product-development
+company: "Bluu Seafood"
 description: "Bluu Biosciences, pioneer in the development and production of cultivated fish in Europe, is rebranding into Bluu Seafood with the new name reflecting the change from a predominantly research-oriented biotech to a more product-focused food-tech."
 excerpt: "Bluu Biosciences, pioneer in the development and production of cultivated fish in Europe, is rebranding into Bluu Seafood with the new name reflecting the change from a predominantly research-oriented biotech to a more product-focused food-tech."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [Bluu Seafood]
-company: "<a href=\"/directory/bluu-seafood\" hreflang=\"en\">Bluu Seafood</a>"
 images: ["Logo Bluu Seafood_bluu.darkblue_0.jpg"]
 additional_images: ["Executive Team Bluu Seafood.jpg"]
 draft: false

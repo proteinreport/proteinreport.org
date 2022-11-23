@@ -3,6 +3,7 @@ title: "Precision Fermentation: Nutropy Raises €2M from Top Biotech and Alt Pr
 date: 2022-09-12 07:00:00
 lastmod: 2022-09-12 07:00:00
 slug: /precision-fermentation-nutropy-raises-eu2m-top-biotech-and-alt-protein-investors-develop
+company: "Nutropy"
 description: "Nutropy, created by Nathalie Rolland and Dr. Maya Bendifallah, two founders willing to propose a new sustainable way to produce dairy products, raises €2M for the pilot production of their animal-free cheese and milk ingredients. Supported by renowned international food tech expert investors, the startup plans to launch its first industrial production of animal-free premium cheese within the next 24 months."
 excerpt: "Nutropy, created by Nathalie Rolland and Dr. Maya Bendifallah, two founders willing to propose a new sustainable way to produce dairy products, raises €2M for the pilot production of their animal-free cheese and milk ingredients. Supported by renowned international food tech expert investors, the startup plans to launch its first industrial production of animal-free premium cheese within the next 24 months."
 proteins: [Microbial]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [Big Idea Ventures, Nutropy]
-company: "<a href=\"/directory/nutropy\" hreflang=\"en\">Nutropy</a>"
 images: ["Fomage_fondant_HQ_logo.jpg"]
 additional_images: ["Proto A4 HQ - logo.jpg", "Nathalie Rolland.jpg", "Maya Bendifallah.jpg"]
 draft: false

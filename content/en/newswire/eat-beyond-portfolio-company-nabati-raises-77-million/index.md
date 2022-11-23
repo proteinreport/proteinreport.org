@@ -3,6 +3,7 @@ title: "Eat Beyond Portfolio Company Nabati Raises $7.7 Million"
 date: 2021-03-15 15:54:11
 lastmod: 2021-03-15 15:54:11
 slug: /eat-beyond-portfolio-company-nabati-raises-77-million
+company: "Eat Beyond Global Holdings"
 description: "Eat Beyond Global Holdings, an investment issuer focused on the global plant-based and alternative food sector, is announcing that its portfolio company Nabati Foods has closed an oversubscribed $7.7 million private placement, and has restructured with plans to go public."
 excerpt: "Eat Beyond Global Holdings, an investment issuer focused on the global plant-based and alternative food sector, is announcing that its portfolio company Nabati Foods has closed an oversubscribed $7.7 million private placement, and has restructured with plans to go public."
 proteins: [Plant-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [Eat Beyond Global Holdings]
-company: "<a href=\"/directory/eat-beyond-global-holdings\" hreflang=\"en\">Eat Beyond Global Holdings</a>"
 images: ["nabati-foods-678x381-copy.jpg"]
 additional_images: [NA]
 draft: false

@@ -11,7 +11,6 @@ topics: [Business, Environment]
 regions: [Europe]
 flags: [Press Release]
 directory: [Vivera, Mosa Meat, Enough]
-company: "<a href=\"\"></a>"
 images: ["logos.png"]
 additional_images: [NA]
 draft: false

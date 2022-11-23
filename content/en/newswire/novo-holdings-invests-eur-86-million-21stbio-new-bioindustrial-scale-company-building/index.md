@@ -3,6 +3,8 @@ title: "Novo Holdings invests EUR 86 million in 21st.BIO, a new bioindustrial sc
 date: 2021-12-21 08:58:00
 lastmod: 2021-12-21 08:58:00
 slug: /novo-holdings-invests-eur-86-million-21stbio-new-bioindustrial-scale-company-building
+company_name: "Novo Holdings"
+company_link: "https://www.novoholdings.dk/"
 description: "Novo Holdings, a leading international life sciences investor, today announced a significant investment in 21st.BIO A/S – a new Danish bioindustrial scale-up company."
 excerpt: "Novo Holdings, a leading international life sciences investor, today announced a significant investment in 21st.BIO A/S – a new Danish bioindustrial scale-up company."
 proteins: [Microbial]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [Novozymes]
-company: "<a href=\"https://www.novoholdings.dk/\">Novo Holdings</a>"
 images: ["novo.jpg"]
 additional_images: [NA]
 draft: false

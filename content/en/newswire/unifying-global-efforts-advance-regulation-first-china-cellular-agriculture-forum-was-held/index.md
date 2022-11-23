@@ -3,6 +3,8 @@ title: "Unifying global efforts to advance regulation, the first China Cellular 
 date: 2022-04-25 03:32:58
 lastmod: 2022-04-25 03:32:58
 slug: /unifying-global-efforts-advance-regulation-first-china-cellular-agriculture-forum-was-held
+company_name: "China Cellular Agriculture Forum"
+company_link: "NA"
 description: "The first China Cellular Agriculture Forum discussion panel was held on April 19, Beijing time. The panel was a collaborative success, with attendees from around 30 organizations1, representing leading cultivated meat companies, ecosystem builders, research institutions, and upstream and downstream partners from both within and outside of China."
 excerpt: "The first China Cellular Agriculture Forum discussion panel was held on April 19, Beijing time. The panel was a collaborative success, with attendees from around 30 organizations1, representing leading cultivated meat companies, ecosystem builders, research institutions, and upstream and downstream partners from both within and outside of China."
 proteins: [Cell-Based]
@@ -11,7 +13,6 @@ topics: [Business, Policy]
 regions: [Asia]
 flags: [Press Release]
 directory: [TurtleTree Labs, Lever VC, Avant Meats, Aleph Farms, SuperMeat, IntegriCulture, Mosa Meat, Shiok Meats, Mission Barns, BlueNalu, Upside Foods, GFIC, CellX]
-company: "<a href=\"\">China Cellular Agriculture Forum </a>"
 images: ["CCAF-Image2.png"]
 additional_images: ["CCAF-Image1.png"]
 draft: false

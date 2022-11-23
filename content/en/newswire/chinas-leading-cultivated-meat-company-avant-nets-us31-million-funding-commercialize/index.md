@@ -3,6 +3,7 @@ title: "China’s leading cultivated meat company Avant nets US$3.1 million in f
 date: 2020-12-03 10:26:21
 lastmod: 2020-12-03 10:26:21
 slug: /chinas-leading-cultivated-meat-company-avant-nets-us31-million-funding-commercialize
+company: "Avant Meats"
 description: "Cultivated meat biotechnology start-up Avant today announced it has closed a US$3.1 million seed funding round to fuel R&D and commercialization of its cultivated fish products. The funding round saw participation from prominent Greater China investors including China Venture Capital, AngelHub, and ParticleX, as well as western alternative protein investors Lever VC, CPT Capital, Loyal VC, Artesian, and 208 Seed Ventures. Strategic food investors PTG Food, a consortium of fast-growing and progressive food businesses across Asia Pacific with a global reach, and Markus Haefeli, Chairman of Regal Springs, the world’s largest responsible tilapia producer, also participated in the round."
 excerpt: "Cultivated meat biotechnology start-up Avant today announced it has closed a US$3.1 million seed funding round to fuel R&D and commercialization of its cultivated fish products. The funding round saw participation from prominent Greater China investors including China Venture Capital, AngelHub, and ParticleX, as well as western alternative protein investors Lever VC, CPT Capital, Loyal VC, Artesian, and 208 Seed Ventures. Strategic food investors PTG Food, a consortium of fast-growing and progressive food businesses across Asia Pacific with a global reach, and Markus Haefeli, Chairman of Regal Springs, the world’s largest responsible tilapia producer, also participated in the round."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [Lever VC, Avant Meats, CPT Capital]
-company: "<a href=\"/directory/avant-meats\" hreflang=\"en\">Avant Meats</a>"
 images: ["AVANT DEMO 2010-10-11 B (CULTIVATED FISH MAW BITES IN POTATO CROQUETTE) a.jpg"]
 additional_images: ["AVANT DEMO 2020-03-06 A (FRUIT TARTARE TOPPED WITH CULTIVATED FISH MAW BITES) a.jpg", "CarrieChan_001 a[1]_0.jpg"]
 draft: false

@@ -3,6 +3,7 @@ title: "A better AI approach for protein function prediction"
 date: 2022-11-16 18:10:44
 lastmod: 2022-11-16 18:10:44
 slug: /better-ai-approach-protein-function-prediction
+company: "Shiru"
 description: "Shiru presents how an ensemble of machine learning methods results in a new state-of-the-art in predicting protein localization and function."
 excerpt: "Shiru presents how an ensemble of machine learning methods results in a new state-of-the-art in predicting protein localization and function."
 proteins: [Microbial]
@@ -11,7 +12,6 @@ topics: [Sci-Tech]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [S2G Ventures, CPT Capital, Shiru]
-company: "<a href=\"/directory/shiru\" hreflang=\"en\">Shiru</a>"
 images: ["Shiru presents a new AI approach for better protein function prediction.jpg"]
 additional_images: [NA]
 draft: false

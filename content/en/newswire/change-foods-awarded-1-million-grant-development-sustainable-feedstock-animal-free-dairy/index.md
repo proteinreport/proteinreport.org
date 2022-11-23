@@ -3,6 +3,7 @@ title: "Change Foods Awarded $1 Million Grant for Development of Sustainable Fee
 date: 2022-05-05 19:54:55
 lastmod: 2022-05-05 19:54:55
 slug: /change-foods-awarded-1-million-grant-development-sustainable-feedstock-animal-free-dairy
+company: "Change Foods"
 description: "The Australian Commonwealth Government has announced a $1 million (AUD) grant to Change Foods to upcycle Queensland sugarcane fiber (bagasse). The project is intended to transform the low-cost waste fiber into highly valuable feedstock needed to produce sustainable animal-free dairy products made via precision fermentation."
 excerpt: "The Australian Commonwealth Government has announced a $1 million (AUD) grant to Change Foods to upcycle Queensland sugarcane fiber (bagasse). The project is intended to transform the low-cost waste fiber into highly valuable feedstock needed to produce sustainable animal-free dairy products made via precision fermentation."
 proteins: [Microbial]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Oceania]
 flags: [Press Release, Investments]
 directory: [Change Foods]
-company: "<a href=\"/directory/change-foods\" hreflang=\"en\">Change Foods</a>"
 images: ["Photo1 Change Foods 1 million grant.jpg"]
 additional_images: ["Photo 2 Change R&D Team_0.jpg"]
 draft: false

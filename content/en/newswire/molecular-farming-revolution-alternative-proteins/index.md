@@ -3,6 +3,7 @@ title: "The Molecular Farming Revolution in Alternative Proteins"
 date: 2020-11-05 20:03:55
 lastmod: 2020-11-05 20:03:55
 slug: /molecular-farming-revolution-alternative-proteins
+company: "Moolec Science"
 description: "Moolec Science is a newly formed company using molecular farming to introduce a hybrid concept between plant-based and cell-based technologies in the alternative proteins space. With a proof of concept for the cheese market, the team is known for being the first to produce bovine chymosin in safflower, a functional protein commercialized under the SPC brand. A family of international patents currently covers this platform, with SPC events fully de-regulated for cost-effective large-scale production."
 excerpt: "Moolec Science is a newly formed company using molecular farming to introduce a hybrid concept between plant-based and cell-based technologies in the alternative proteins space. With a proof of concept for the cheese market, the team is known for being the first to produce bovine chymosin in safflower, a functional protein commercialized under the SPC brand. A family of international patents currently covers this platform, with SPC events fully de-regulated for cost-effective large-scale production."
 proteins: [Cell-Based, Molecular Farming]
@@ -11,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [Europe]
 flags: [Press Release]
 directory: [Moolec Science]
-company: "<a href=\"/directory/moolec-science\" hreflang=\"en\">Moolec Science</a>"
 images: ["Moolec Science 1.jpg"]
 additional_images: ["Moolec Science 2.jpg", "Moolec Science 3.jpg", "Moolec Science 4.jpg", "Moolec Science 5.jpg"]
 draft: false

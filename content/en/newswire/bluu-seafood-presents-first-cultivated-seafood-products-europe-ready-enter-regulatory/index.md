@@ -3,6 +3,7 @@ title: "Bluu Seafood presents first cultivated seafood products in Europe – re
 date: 2022-08-09 08:08:53
 lastmod: 2022-08-09 08:08:53
 slug: /bluu-seafood-presents-first-cultivated-seafood-products-europe-ready-enter-regulatory
+company: "Bluu Seafood"
 description: "Bluu Seafood has presented the first market‐ready products made from cultivated fish cells. Their fish fingers and fish balls contain cultivated fish cells as the main ingredient and have been enriched with plant proteins to optimize cooking behavior and mouthfeel."
 excerpt: "Bluu Seafood has presented the first market‐ready products made from cultivated fish cells. Their fish fingers and fish balls contain cultivated fish cells as the main ingredient and have been enriched with plant proteins to optimize cooking behavior and mouthfeel."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [Bluu Seafood]
-company: "<a href=\"/directory/bluu-seafood\" hreflang=\"en\">Bluu Seafood</a>"
 images: ["Bluu Seafood_Cultivated Fish Balls_copyright Bluu GmbH_Wim Jansen.jpg"]
 additional_images: ["Bluu Seafood_Cultivated Fish Fingers_copyright_Bluu GmbH_Wim Jansen.jpg", "Bluu Seafood_Cultivated Sashimi_copyright Bluu GmbH_Wim Jansen.jpg"]
 draft: false

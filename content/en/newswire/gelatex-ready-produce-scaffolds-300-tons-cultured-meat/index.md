@@ -3,6 +3,7 @@ title: "Gelatex ready to produce scaffolds for 300 tons of cultured meat"
 date: 2022-04-28 13:52:24
 lastmod: 2022-04-28 13:52:24
 slug: /gelatex-ready-produce-scaffolds-300-tons-cultured-meat
+company: "Gelatex"
 description: "Techstars-backed materials technology company Gelatex is on the mission to make cultured meat available in supermarkets. As a pioneer in making scaffolds for cultured meat, Gelatex has opened a new research, engineering and manufacturing facility to take the development and production of their nanofibrous materials to the next level. Thus, removing one of the barriers in scaling cultured meat."
 excerpt: "Techstars-backed materials technology company Gelatex is on the mission to make cultured meat available in supermarkets. As a pioneer in making scaffolds for cultured meat, Gelatex has opened a new research, engineering and manufacturing facility to take the development and production of their nanofibrous materials to the next level. Thus, removing one of the barriers in scaling cultured meat."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [Wildtype, Upside Foods, Cultured Decadence, Gelatex, Jellatech]
-company: "<a href=\"/directory/gelatex\" hreflang=\"en\">Gelatex</a>"
 images: ["Fiber inspection_photoby_Siiri Kumari.jpg.jpeg"]
 additional_images: ["CEO_cofounder_Märt-Erik Martens_photoby_Siiri Kumari.jpg", "Fiber inspection_photoby_Siiri Kumari.jpg", "Fiber production_photoby_Siiri Kumari.jpg", "Nanofibrous material production on the line_photoby_Siiri Kumari.jpg", "Nanofibrous material quality control_photoby_Siiri Kumari.jpg"]
 draft: false

@@ -3,6 +3,7 @@ title: "Melt&Marble advances in the production of fermentation-derived animal fa
 date: 2022-05-05 08:35:03
 lastmod: 2022-05-05 08:35:03
 slug: /meltmarble-advances-production-fermentation-derived-animal-fats-and-secures-eu5m-round
+company: "Melt&Marble"
 description: "Swedish company Melt&Marble, which uses precision fermentation to produce customized fats for the plant-based sector, has created a non-animal fat with the properties of beef fat."
 excerpt: "Swedish company Melt&Marble, which uses precision fermentation to produce customized fats for the plant-based sector, has created a non-animal fat with the properties of beef fat."
 proteins: [Microbial]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [Lever VC, Melt&Marble]
-company: "<a href=\"/directory/meltmarble\" hreflang=\"en\">Melt&Marble</a>"
 images: ["Florian David-Anastasia Krivoruchko_0.jpg"]
 additional_images: ["Melt&Marble beef fat (4)_0.jpg", "Melt&Marble beef fat (2).jpg", "Melt&Marble beef fat.jpg", "Plant-based meatball with Melt&Marble fat.jpg", "Melt&Marble team.jpg", "Anastasia Krivoruchko.jpg", "Florian David.jpg", "Jens Nielsen.jpg"]
 draft: false

@@ -3,6 +3,7 @@ title: "In World First, Israeli FoodTech Company Wilk Presents First Cell-based 
 date: 2022-11-16 13:49:45
 lastmod: 2022-11-16 13:49:45
 slug: /world-first-israeli-foodtech-company-wilk-presents-first-cell-based-yogurt-produced
+company: "Wilk"
 description: "Wilk, a developer of authentic, cell-cultured human and animal milk and milk components, has announced the successful development of the world’s first yogurt developed with cell-cultured milk fat."
 excerpt: "Wilk, a developer of authentic, cell-cultured human and animal milk and milk components, has announced the successful development of the world’s first yogurt developed with cell-cultured milk fat."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release]
 directory: [Wilk]
-company: "<a href=\"/directory/wilk\" hreflang=\"en\">Wilk</a>"
 images: ["DSC00266.jpg"]
 additional_images: ["DSC00104.jpg", "DSC00097.jpg"]
 draft: false

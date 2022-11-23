@@ -3,6 +3,7 @@ title: "Shiru Appoints Jason Voogt as Chief Product Officer"
 date: 2022-11-08 18:03:59
 lastmod: 2022-11-08 18:03:59
 slug: /shiru-appoints-jason-voogt-chief-product-officer
+company: "Shiru"
 description: "Shiru, a functional ingredients discovery company, has promoted Jason Voogt to the role of Chief Product Officer."
 excerpt: "Shiru, a functional ingredients discovery company, has promoted Jason Voogt to the role of Chief Product Officer."
 proteins: [Microbial]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [S2G Ventures, CPT Capital, Shiru]
-company: "<a href=\"/directory/shiru\" hreflang=\"en\">Shiru</a>"
 images: ["Shiru Appoints Jason Voogt as Chief Product Officer.jpg"]
 additional_images: [NA]
 draft: false

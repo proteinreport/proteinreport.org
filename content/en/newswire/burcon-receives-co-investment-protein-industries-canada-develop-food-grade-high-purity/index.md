@@ -3,6 +3,8 @@ title: "Burcon Receives Co-Investment from Protein Industries Canada to Develop 
 date: 2022-04-07 08:16:32
 lastmod: 2022-04-07 08:16:32
 slug: /burcon-receives-co-investment-protein-industries-canada-develop-food-grade-high-purity
+company_name: "Burcon NutraScience Corporation"
+company_link: "https://burcon.ca/"
 description: "Burcon NutraScience Corporation, a global technology leader in the development of plant-based proteins for foods and beverages, is pleased to announce that it has received a co-investment from Protein Industries Canada for the development of high-quality protein ingredients from sunflower seeds."
 excerpt: "Burcon NutraScience Corporation, a global technology leader in the development of plant-based proteins for foods and beverages, is pleased to announce that it has received a co-investment from Protein Industries Canada for the development of high-quality protein ingredients from sunflower seeds."
 proteins: [Plant-Based]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [Protein Industries Canada, Merit Functional Foods]
-company: "<a href=\"https://burcon.ca/\">Burcon NutraScience Corporation</a>"
 images: ["logo-lg.png"]
 additional_images: [NA]
 draft: false

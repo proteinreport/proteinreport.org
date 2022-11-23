@@ -3,6 +3,8 @@ title: "Pascual Innoventures launches first-ever global incubation program for c
 date: 2021-05-25 11:36:20
 lastmod: 2021-05-25 11:36:20
 slug: /pascual-innoventures-launches-first-ever-global-incubation-program-cellular-agriculture
+company_name: "Pascual Innoventures"
+company_link: "https://mylkcubator.com/"
 description: "Pascual, a leading Spanish manufacturer of dairy products and beverages, has launched Mylkcubator, the first global incubation program for cellular agriculture technologies in the dairy industry."
 excerpt: "Pascual, a leading Spanish manufacturer of dairy products and beverages, has launched Mylkcubator, the first global incubation program for cellular agriculture technologies in the dairy industry."
 proteins: [Cell-Based]
@@ -11,7 +13,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [Eatable Adventures]
-company: "<a href=\"https://mylkcubator.com/\">Pascual Innoventures </a>"
 images: ["Gabriel Torres Pascual_Mylkcubator.jpg"]
 additional_images: ["Mylkcubator.png"]
 draft: false

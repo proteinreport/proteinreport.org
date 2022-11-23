@@ -3,6 +3,7 @@ title: "Student-run Nonprofit Nucleate Cultivate Expands Cultivate Tomorrow Hack
 date: 2022-10-18 16:40:51
 lastmod: 2022-10-18 16:40:51
 slug: /student-run-nonprofit-nucleate-cultivate-expands-cultivate-tomorrow-hackathon-schools
+company: "Cultivate Tomorrow"
 description: "Registration is open until November 10th for students to take part in the hackathon, get mentored by industry leaders, and apply their knowledge and skills to reimagine the future of food."
 excerpt: "Registration is open until November 10th for students to take part in the hackathon, get mentored by industry leaders, and apply their knowledge and skills to reimagine the future of food."
 proteins: [Cell-Based, Microbial]
@@ -11,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [International, US & Canada]
 flags: [Press Release]
 directory: [New Harvest, Aleph Farms, Cellular Agriculture Australia, Agriculture Cellulaire France, Cultivate Tomorrow]
-company: "<a href=\"/directory/cultivate-tomorrow\" hreflang=\"en\">Cultivate Tomorrow</a>"
 images: ["ct.png"]
 additional_images: [NA]
 draft: false

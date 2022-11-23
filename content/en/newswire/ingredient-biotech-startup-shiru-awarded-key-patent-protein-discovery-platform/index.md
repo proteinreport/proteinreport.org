@@ -3,6 +3,7 @@ title: "Ingredient biotech startup Shiru awarded key patent for protein discover
 date: 2022-09-13 13:39:36
 lastmod: 2022-09-13 13:39:36
 slug: /ingredient-biotech-startup-shiru-awarded-key-patent-protein-discovery-platform
+company: "Shiru"
 description: "Shiru, a functional ingredients discovery company, today announced it was awarded a key patent on a high-tech approach for discovering proteins for the food industry."
 excerpt: "Shiru, a functional ingredients discovery company, today announced it was awarded a key patent on a high-tech approach for discovering proteins for the food industry."
 proteins: [Plant-Based, Microbial]
@@ -11,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [Impossible Foods, S2G Ventures, CPT Capital, Shiru]
-company: "<a href=\"/directory/shiru\" hreflang=\"en\">Shiru</a>"
 images: ["Shiru patent (1000 × 1000 px) (3).png"]
 additional_images: ["shiru logo 1200 x 628.png"]
 draft: false

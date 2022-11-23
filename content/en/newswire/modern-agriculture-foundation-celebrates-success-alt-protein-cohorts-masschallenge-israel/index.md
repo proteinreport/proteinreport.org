@@ -3,6 +3,7 @@ title: "Modern Agriculture Foundation Celebrates Success of Alt-Protein Cohorts 
 date: 2022-07-23 17:22:24
 lastmod: 2022-07-23 17:22:24
 slug: /modern-agriculture-foundation-celebrates-success-alt-protein-cohorts-masschallenge-israel
+company: "Modern Agriculture Foundation"
 description: "The Modern Agriculture Foundation, an Israeli non-profit which promotes entrepreneurship and innovation in the alternative protein industry in Israel and globally, celebrates the sweeping success of its Better Plate alternative protein track within MassChallenge Israel’s 2022 Accelerator program."
 excerpt: "The Modern Agriculture Foundation, an Israeli non-profit which promotes entrepreneurship and innovation in the alternative protein industry in Israel and globally, celebrates the sweeping success of its Better Plate alternative protein track within MassChallenge Israel’s 2022 Accelerator program."
 proteins: [Molecular Farming, Algae]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release]
 directory: [Modern Agriculture Foundation]
-company: "<a href=\"/directory/modern-agriculture-foundation\" hreflang=\"en\">Modern Agriculture Foundation</a>"
 images: ["20220720_2006411.jpg"]
 additional_images: ["20220721_0034571.jpg", "20220720_2041311.jpg", "20220720_1939591.jpg", "20220721_002859.jpg", "IMG-20220720-WA0025.jpg", "IMG-20220720-WA0057.jpg"]
 draft: false

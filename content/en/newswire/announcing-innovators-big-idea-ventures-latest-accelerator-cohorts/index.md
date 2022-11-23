@@ -3,6 +3,7 @@ title: "Announcing the Innovators in Big Idea Ventures’ Latest Accelerator Coh
 date: 2021-11-22 13:26:48
 lastmod: 2021-11-22 13:26:48
 slug: /announcing-innovators-big-idea-ventures-latest-accelerator-cohorts
+company: "Big Idea Ventures"
 description: "Big Idea Ventures, global leader in early stage investing in the food technology sector, revealed its latest accelerator cohorts today. Seventeen early-stage startups were selected for pre-seed investment as part of Big Idea Ventures’ bi-annual accelerator program."
 excerpt: "Big Idea Ventures, global leader in early stage investing in the food technology sector, revealed its latest accelerator cohorts today. Seventeen early-stage startups were selected for pre-seed investment as part of Big Idea Ventures’ bi-annual accelerator program."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [Africa, Asia, Europe, International, US & Canada]
 flags: [Press Release, Investments]
 directory: [Luyef Biotechnologies, Big Idea Ventures, Opalia, Mogale Meat Company, Fybraworks Foods, De Novo Dairy, Prosel Biosciences, Maya Milk, Liven Proteins, Bright Biotech]
-company: "<a href=\"/directory/big-idea-ventures\" hreflang=\"en\">Big Idea Ventures</a>"
 images: ["Big Idea Ventures Black Logo.png"]
 additional_images: [NA]
 draft: false

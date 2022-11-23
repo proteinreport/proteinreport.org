@@ -3,6 +3,7 @@ title: "UPSIDE Foods Appoints Veteran Food and Tech Leader Sheetal Shah as Senio
 date: 2022-06-08 12:30:00
 lastmod: 2022-06-08 12:30:00
 slug: /upside-foods-appoints-veteran-food-and-tech-leader-sheetal-shah-senior-vice-president
+company: "Upside Foods"
 description: "UPSIDE Foods, the leading company in the cultivated meat, poultry and seafood industry, has announced the appointment of Sheetal Shah as Senior Vice President of Supply Chain and Manufacturing. This news comes on the heels of UPSIDE announcing its record-breaking $400 million Series C round that enables the company to unlock the industry’s biggest opportunities around scale, supply chain, and consumer adoption."
 excerpt: "UPSIDE Foods, the leading company in the cultivated meat, poultry and seafood industry, has announced the appointment of Sheetal Shah as Senior Vice President of Supply Chain and Manufacturing. This news comes on the heels of UPSIDE announcing its record-breaking $400 million Series C round that enables the company to unlock the industry’s biggest opportunities around scale, supply chain, and consumer adoption."
 proteins: [Cell-Based]
@@ -11,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [Impossible Foods, Upside Foods, Cultured Decadence]
-company: "<a href=\"/directory/upside-foods\" hreflang=\"en\">Upside Foods</a>"
 images: ["Sheetal Picture_0.jpg"]
 additional_images: [NA]
 draft: false
