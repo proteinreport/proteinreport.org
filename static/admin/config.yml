@@ -103,7 +103,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Image", name: "images", widget: "image"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Excerpt", name: "excerpt", widget: "text"}
       - label: "Proteins"
         name: "proteins"
         widget: "select"
@@ -114,19 +113,16 @@ collections:
         widget: "select"
         multiple: true
         options: ["Meat", "Dairy", "Eggs", "Seafood", "Ingredients", "Pet Food", "Feed"]
-      - label: "Topics"
-        name: "topics"
-        widget: "select"
-        multiple: true
-        options: ["Business", "Environment", "Policy", "Sci-Tech", "Health", "Culture"]
-      - label: "Regions"
-        name: "regions"
-        widget: "select"
-        multiple: true
-        options: ["Africa", "Asia", "Europe", "International", "Latin America & Caribbean", "Middle East", "Oceania", "US & Canada"]
       - label: "Tech Segment"
         name: "tech_segment"
         widget: "select"
         multiple: true
+        required: false
         options: ["Agriculture & Plant Protein", "Fungiculture & Mycoprotein", "Algaculture & Algal Protein", "Cell Culture & Animal Protein", "Microbial & Precision Fermentation", "Molecular Farming", "Livestock & Animals"]
+      - label: ID
+        name: id
+        widget: ncw-id
+        prefix: directory        # will generate post-124hfkjas
+        timestamp: true     # will generate 1245119112-post-124hfkjas
+        hint: This widget generate an unique read-only id
       - {label: "Content", name: "body", widget: "markdown"}
