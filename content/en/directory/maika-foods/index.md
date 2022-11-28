@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5777
 ---
 <p>Young innovative Company dedicated to produce Artisan Crafted premium , veggie based products. It is our Mission to provide you with fresh, local, sustainable and nutritious foods like you’ve never seen before.</p>

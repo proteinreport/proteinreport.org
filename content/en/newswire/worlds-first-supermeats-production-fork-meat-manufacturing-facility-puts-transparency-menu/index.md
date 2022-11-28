@@ -3,7 +3,7 @@ title: "World's First: SuperMeat’s Production-To-Fork Meat Manufacturing Facil
 date: 2021-03-18 10:05:09
 lastmod: 2021-03-18 10:05:09
 slug: /worlds-first-supermeats-production-fork-meat-manufacturing-facility-puts-transparency-menu
-company: "SuperMeat"
+company: 5817
 description: "Food tech company SuperMeat has launched the world’s first production-to-fork cultured meat manufacturing facility. The facility was introduced at a live event at the Future Food-Tech conference, where the cultured meat manufacturing process was demonstrated from chicken cell to chicken burger for the first time. During the event, the company announced that they have cut down their production cost by 50%, bringing a 100% cultured meat burger down to $30."
 excerpt: "Food tech company SuperMeat has launched the world’s first production-to-fork cultured meat manufacturing facility. The facility was introduced at a live event at the Future Food-Tech conference, where the cultured meat manufacturing process was demonstrated from chicken cell to chicken burger for the first time. During the event, the company announced that they have cut down their production cost by 50%, bringing a 100% cultured meat burger down to $30."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Middle East]
 flags: [Video, Press Release]
-directory: [SuperMeat]
+directory: [5817]
 images: ["Production-To-Fork Cultured Meat Manufacturing Facility.jpg.jpg"]
 additional_images: ["Vietnamese Cultured Chicken Spring Rolls_0.jpg", "Crispy Cultured Chicken Burger.jpg", "Diners Observe Cooking of Cultured Meat.jpg", "Diners Observe Cultured Meat Manufacturing As They_re Eating it.jpg", "Diners Observing Meat Manufacturing As They Await Their Food 2.jpg", "Production-To-Fork Cultured Meat Manufacturing As Seen Through the Window 2.jpg", "Production-To-Fork Cultured Meat Manufacturing As Seen Through the Window, Meat Analysis.jpg", "Production-To-Fork Cultured Meat Manufacturing As Seen Through the Window, Weighting Meat.jpg", "Production-To-Fork Cultured Meat Manufacturing As Seen Through the Window.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8615
 ---
 <h2><strong><em>SuperMeat showcases production-to-fork meat manufacturing model for the first time, enabling transparency for meat consumers</em></strong></h2>
 

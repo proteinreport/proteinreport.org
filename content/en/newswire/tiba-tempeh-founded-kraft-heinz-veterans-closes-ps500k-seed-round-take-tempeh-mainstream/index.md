@@ -3,7 +3,7 @@ title: "Tiba Tempeh, Founded by Kraft Heinz Veterans, Closes £500k Seed Round t
 date: 2022-01-11 12:33:04
 lastmod: 2022-01-11 12:33:04
 slug: /tiba-tempeh-founded-kraft-heinz-veterans-closes-ps500k-seed-round-take-tempeh-mainstream
-company: "Tiba Tempeh"
+company: 10251
 description: "UK plant-based start-up Tiba Tempeh announced today it has closed a £500k seed round to accelerate its growth as it prepares for listings with major UK supermarkets and international expansion. The funding will be used to launch new product innovation, grow the team, and support marketing efforts to drive consumer awareness and trial of tempeh. The investment round was taken by Lever VC, a leading global investor in the alternative protein category whose partners are investors in Beyond Meat, Impossible Foods, THIS, and many other category leaders.  "
 excerpt: "UK plant-based start-up Tiba Tempeh announced today it has closed a £500k seed round to accelerate its growth as it prepares for listings with major UK supermarkets and international expansion. The funding will be used to launch new product innovation, grow the team, and support marketing efforts to drive consumer awareness and trial of tempeh. The investment round was taken by Lever VC, a leading global investor in the alternative protein category whose partners are investors in Beyond Meat, Impossible Foods, THIS, and many other category leaders.  "
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Beyond Meat, Impossible Foods, This, Lever VC, Tiba Tempeh]
+directory: [694, 695, 1294, 1332, 10251]
 images: ["Tiba Tempeh Range.jpg"]
 additional_images: ["Tiba Tempeh BBQ Burgers.jpg", "Tiba Tempeh Soy-Marinated Pieces Stir-Fry.jpg", "Tiba Tempeh Sweet Chilli Pieces.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10252
 ---
 <p>UK<strong> </strong>plant-based start-up Tiba Tempeh announced today it has closed a £500k seed round to accelerate its growth as it prepares for listings with major UK supermarkets and international expansion. The funding will be used to launch new product innovation, grow the team, and support marketing efforts to drive consumer awareness and trial of tempeh. The investment round was taken by Lever VC, a leading global investor in the alternative protein category whose partners are investors in Beyond Meat, Impossible Foods, THIS, and many other category leaders.  </p>
 <p>Tiba Tempeh was founded in 2019 by Alex and Ross Longton, food industry veterans with 30 years of experience in senior sales and marketing positions at Kraft Heinz and other food industry leaders. After discovering the benefits of eating a plant-based diet the team wanted to use their food industry experience to help people eat more naturally healthy plant-based foods as they found a lack of such products in the market. On a trip to Indonesia they discovered tempeh, a deliciously natural plant-based protein made from soybeans using a special fermentation process, and Tiba Tempeh was born.</p>

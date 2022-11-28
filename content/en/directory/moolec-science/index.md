@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7933
 ---
 <p>Moolec Science is the first company to introduce a unique hybrid concept between plant-based and cell-based in the alternative proteins landscape using Molecular Farming technology.</p>

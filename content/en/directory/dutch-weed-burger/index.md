@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5532
 ---
 <p>Dutch Weed Burger is made from Dutch-grown seaweed, nutrient-dense, protein-rich food in the sea. The entrepreneurs behind it are hoping that it will help kickstart a new type of sustainable agriculture–seagriculture–in the Netherlands.</p>

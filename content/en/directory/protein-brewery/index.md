@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1356
 ---
 <p>The protein Brewery is working on launching the Fermotein from 2021 onwards as an ingredient for meat substitutes, processed meats, bread, protein bars, bakery products and more.</p>

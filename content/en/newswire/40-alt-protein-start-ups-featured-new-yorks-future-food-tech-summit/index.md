@@ -12,13 +12,13 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [Beyond Meat, Meati Foods, Zero Egg Food, Eclipse Foods, Air Protein, The Every Company, New Culture, Pleese Foods, Motif Foodworks, NotCo, Triton Algae Innovations, V2food, BlueNalu, Planetary Foods, Nature's Fynd, Enough, InnovoPro, Remilk, Helaina, Protein Industries Canada, Moolec Science, Wilk, SeaSpire, New School Foods, Brevel]
+directory: [694, 696, 1174, 1176, 1262, 1299, 1353, 5606, 5678, 5703, 5797, 5800, 5829, 5837, 5861, 5865, 6782, 6832, 7022, 7110, 7933, 8844, 9427, 10387, 10918]
 images: ["JzFfLuLE_0.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10938
 ---
 <p><strong>New York, May 31, 2022</strong> — Leading food technology event series, Future Food-Tech, today announced the 40 startups that will be participating in their <a href="https://www.futurefoodtechprotein.com/">Future Food-Tech Alternative Proteins</a> summit taking place in New York on June 21-22. From emerging start-ups to moonshot companies, the summit aims to bring attendees closer to the CEOs and Founders of tomorrow’s solutions through novel food tastings, small group roundtable discussions, start-up pitching, a summit menu of new foods, the start-up exhibition, and inspiring panel discussions.</p>
 <p>Celebrating the abundance of innovators at the event, Callum Alexander-Lindsay, the summit's Start-Up Partnerships Manager, said: <em>“We are excited to showcase talent from around the world and spotlight breakthrough technologies that can tackle the global challenges of food insecurity, climate change and sustainable nutrition.”</em></p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7124
 ---
 <p>POV is an entrepreneur-led impact seed fund based in Berlin.  We back mission-driven founders leveraging science &amp; technology to solve some of the world&#039;s most pressing challenges.  We seek early-stage teams across the globe devoted to removing animals from the global food system and sustainably feeding the world.</p>

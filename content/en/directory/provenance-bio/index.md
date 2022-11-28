@@ -18,6 +18,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5863
 ---
 <p>Provenance Bio is an alternative proteins company developing cutting edge synthetic biology tools to compete head-to-head with animal proteins, today leveraging its patent-pending platform to make full-length collagen for B-to-B applications in pharma, materials, and food.</p>
 <p>Provenance Bio was formed in 2020. Founders: Michalyn Andrews, Dr. Zev Gartner, Dr. John Dueber, Christian Ewton.</p>

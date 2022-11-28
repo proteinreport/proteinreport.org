@@ -15,5 +15,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8755
 ---
 <p>Hey Maet is a startup based in Shanghai, China which uses pea, soy and rice protein to make plant-based beef and pork. They leverage high-moisture extrusion technology to overcome the difficulties of replicating juice, structure, colour, and taste in the field of plant-based meat, and are the first plantbased company with an independent R&amp;D laboratory in China.</p>

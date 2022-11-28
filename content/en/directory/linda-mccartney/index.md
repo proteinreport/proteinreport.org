@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5785
 ---
 Linda McCartney was an original food pioneer – she believed in great tasting, honest, meat free food and the shared pleasure that eating well could bring. Linda’s ambition was to provide honest, good food for everyone and her caring and intelligent attitude is at the heart of the Linda McCartney brand. Those involved in the brand today, including the McCartney family, are dedicated to sharing Linda’s passion for wholesome cooking with everyone.

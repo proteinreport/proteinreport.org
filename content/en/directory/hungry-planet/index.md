@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5634
 ---
 <p>At Hungry Planet, we’re on a mission to bend the curve on human and planetary health with the only full range of delicious, nourishing, plant-based meats. Crafted by chefs with the vision of enabling culinary freedom that’s good for our health and our planet, we make it easy to swap our meats for conventional meats in any cuisine, with any flavor, across all proteins – without compromise.</p>

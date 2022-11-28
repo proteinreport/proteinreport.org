@@ -55,7 +55,7 @@ for (row in 1:nrow(import_data)) {
   write(paste("lastmod: ", import_data[row,]$date, sep = ""), file_path, append = T)
   write(paste("slug: ", import_data[row,]$slug, sep = ""), file_path, append = T)
   if (!(is.na(import_data[row,]$company))) {
-    write(paste("company: ", shQuote(import_data[row,]$company), sep = ""), file_path, append = T)
+    write(paste("company: ", import_data[row,]$company, sep = ""), file_path, append = T)
   }
   else if (!(is.na(import_data[row,]$company_name))) {
     write(paste("company_name: ", shQuote(import_data[row,]$company_name), sep = ""), file_path, append = T)
@@ -75,7 +75,8 @@ for (row in 1:nrow(import_data)) {
   write("draft: false", file_path, append = T)
   write("pinned: false", file_path, append = T)
   write("homepage: false", file_path, append = T)
-  write("weight: 50", file_path, append = T)
+  write(paste("uuid: ",import_data[row,]$ID, sep = ""), file_path, append = T)
+  #write("weight: 50", file_path, append = T)
   #write(images, file_path, append = T)
   #write("images:", file_path, append = T)
   #write(import_data[row,]$images, file_path, append = T)

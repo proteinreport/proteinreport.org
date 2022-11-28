@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5787
 ---
 <p>Wheaty is a range of organic, plant-based meat analogs based on wheat gluten, taking further the Asian tradition of seitan. Produced in Germany, Wheaty products are available in many organic shops throughout Europe.</p>

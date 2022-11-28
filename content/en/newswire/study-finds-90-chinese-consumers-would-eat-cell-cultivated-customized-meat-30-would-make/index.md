@@ -3,7 +3,7 @@ title: "Study finds 90% of Chinese consumers would eat cell-cultivated “custom
 date: 2022-01-12 16:45:18
 lastmod: 2022-01-12 16:45:18
 slug: /study-finds-90-chinese-consumers-would-eat-cell-cultivated-customized-meat-30-would-make
-company: "Lever VC"
+company: 1332
 description: "A new study of over 2,000 consumers across China finds 90% say they would eat cultivated meat, and 30% would make it their main source of protein if it can achieve the same taste and texture as conventional meat."
 excerpt: "A new study of over 2,000 consumers across China finds 90% say they would eat cultivated meat, and 30% would make it their main source of protein if it can achieve the same taste and texture as conventional meat."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release]
-directory: [Lever VC, GFIC, CellX]
+directory: [1332, 7315, 8329]
 images: ["Lever-China-full-logo.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10265
 ---
 <p><u>Market report from Lever China and Chinese media outlet FoodPlus also finds the term "customized meat" resonates best with Chinese consumers</u></p>
 <p><strong>Shanghai –</strong> A new study of over 2,000 consumers across China finds 90% say they would eat cultivated meat, and 30% would make it their main source of protein if it can achieve the same taste and texture as conventional meat. The study also found that, among a variety of different Chinese language names tested, the Chinese term for “customized meat” (订制肉) generated the greatest consumer interest in the category. The study, which analyzed Chinese consumers' perceptions of the new sector, willingness to try, long-term purchase intentions, and demographic differences,<strong> </strong>was conducted by Lever China, a Shanghai-based consultancy specializing in the alternative protein sector, and Food Plus, a Shanghai-based media and research institution focusing on entrepreneurships in the food industry.</p>

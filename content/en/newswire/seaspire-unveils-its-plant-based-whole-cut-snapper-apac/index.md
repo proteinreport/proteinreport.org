@@ -3,7 +3,7 @@ title: "SeaSpire unveils its plant-based whole-cut snapper for APAC"
 date: 2022-06-17 09:12:38
 lastmod: 2022-06-17 09:12:38
 slug: /seaspire-unveils-its-plant-based-whole-cut-snapper-apac
-company: "SeaSpire"
+company: 9427
 description: "SeaSpire, an Indian alternative seafood startup, today revealed its plant-based, whole-cut snapper made using only seven clean label ingredients via their proprietary bioprinting platform."
 excerpt: "SeaSpire, an Indian alternative seafood startup, today revealed its plant-based, whole-cut snapper made using only seven clean label ingredients via their proprietary bioprinting platform."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Seafood]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release, New Products]
-directory: [SeaSpire]
+directory: [9427]
 images: ["IMG_6355_0.jpg"]
 additional_images: ["IMG_6376_0.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11011
 ---
 <p>June 17, 2022 — SeaSpire, an Indian alternative seafood startup, today revealed its clean label whole-cut snapper alternative made using only seven clean label plant-based ingredients using its proprietary bioprinting platform. The company claims to be first of its kind to produce bioprinted whole-cut whitefish products in the APAC region, a region lagging in both product and processing innovations in the alternative seafood segment.</p>
 <p>SeaSpire is a foodtech company that produces whole cuts of seafood alternatives, starting with whole cut snapper analogs. The company was founded to help address the current challenges in whole-cut production and scalability of 3D printing with its technology platform that is capable of structuring both plant and synthetic biomass such as cultivated meat into whole-muscle through AI-controlled precision and  improving production scale by increasing throughput from current scale of 3D printing. </p>

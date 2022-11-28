@@ -18,7 +18,7 @@ additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 7963
 ---
 <p><strong><em>“Choosing the Right Protein for Your Snack Bar” provides protein bar and snack manufacturers with the latest, most advanced research information to guide their development of protein bars to address this rapidly expanding market</em></strong></p>
 <p><strong>Naas, Ireland, November 13, 2020</strong> — Kerry, the Taste & Nutrition company, is pleased to release a research white paper on the exciting emerging topic of protein snack bar development and manufacture. Entitled “<strong>Choosing the Right Protein for Your Snack Bar</strong><em>,” </em>the paper examines the rapidly expanding market for snack bars that provide a quality hit of protein and a wide variety of new tastes. In addition, the paper reviews the latest trends in consumer preference in the area of ingredients and bar tastes, important trends and regional regulations in formulation, and the application of plant, dairy and mixed protein in new bar concepts.</p>

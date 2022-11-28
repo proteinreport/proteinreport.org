@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5760
 ---
 <p>Heura is the Spanish Start-Up founded in 2017 seeking to change the food system by offering 100% sustainable, nutritious, but above all, delicious vegetable options. Their way of promoting better foods is to make them irresistible. Heura also offer other products like Mediterannean Chunks, Spiced Chunks, Spiced Tacos, Heura Pizza, and a Heura Burger.</p>

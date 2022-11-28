@@ -3,7 +3,7 @@ title: "Eat Beyond Portfolio Company SingCell to License Technology from Nationa
 date: 2021-04-06 13:15:40
 lastmod: 2021-04-06 13:15:40
 slug: /eat-beyond-portfolio-company-singcell-license-technology-national-university-singapore
-company: "Eat Beyond Global Holdings"
+company: 7964
 description: "Eat Beyond Global Holdings is announcing that its portfolio company SingCell has entered into a technology development agreement with the National University of Singapore to evaluate and license its plant-based edible microcarriers technology."
 excerpt: "Eat Beyond Global Holdings is announcing that its portfolio company SingCell has entered into a technology development agreement with the National University of Singapore to evaluate and license its plant-based edible microcarriers technology."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [Asia, US & Canada]
 flags: [Press Release]
-directory: [SingCell, Eat Beyond Global Holdings]
+directory: [7556, 7964]
 images: ["PRplaceholder.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8725
 ---
 <p>VANCOUVER, BC and SINGAPORE - April 6, 2021 –<strong>  <a href="https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=1018765622&u=https%3A%2F%2Featbeyondglobal.com%2F&a=Eat+Beyond+Global+Holdings+Inc."><strong>Eat Beyond Global Holdings Inc.</strong></a> </strong>(CSE: EATS) (OTCPK: EATBF) (FSE: 988) ("<strong>Eat Beyond</strong>" or the "<strong>Company</strong>"), an investment issuer focused on the global plant-based and alternative food sector, is announcing that its portfolio company SingCell Tx Pte Ltd. ("SingCell") has entered into a technology development agreement with the National University of Singapore to evaluate and license its plant-based edible microcarriers technology.</p>
 <p>"The initial performance of these microcarriers in terms of cell attachment and proliferation is very promising and could solve the cost and scalability issues in the cultured meat industry," said Karolis Rosickas, CEO of SingCell. "This technology is very complementary to SingCell's existing 3D cell culture technology, and soon we will be able to offer a more comprehensive bioprocessing scale-up solution to our clients."</p>

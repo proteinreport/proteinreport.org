@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8801
 ---
 <p>Vesta Food Lab, based in Beijing, creates plant-based meat products by recombining carefully selected local vegetable proteins which simulate the aroma and color of animal meat, and optimize nutritional composition.</p>

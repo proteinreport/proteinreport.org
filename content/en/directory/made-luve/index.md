@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5535
 ---
 <p>LUVE it is a brand of Prolupin GmbH, it contains the unique protein of the domestic sweet lupine. It is therefore not only purely vegetable and without genetic engineering, but is naturally lactose-free, gluten-free (except ice-cream with biscuit) and soy-free.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6264
 ---
 <p>A tasty story, with animal as characters, not dishes. Fable is created using ingredients that are as minimally processed as possible. Fable is based on shiitake mushrooms which make up 2/3 of the ingredient list.</p>

@@ -3,7 +3,7 @@ title: "Minerva Foods Exec André Carvalho Appointed CEO of Pioneering Brazilian
 date: 2022-06-30 12:42:39
 lastmod: 2022-06-30 12:42:39
 slug: /minerva-foods-exec-andre-carvalho-appointed-ceo-pioneering-brazilian-plant-based-meat
-company: "The New"
+company: 8602
 description: "The New, known for its top-quality and better-for-you plant based meat and ready-meal lines, taps meat industry veteran for next stage of growth"
 excerpt: "The New, known for its top-quality and better-for-you plant based meat and ready-meal lines, taps meat industry veteran for next stage of growth"
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Latin America & Caribbean]
 flags: [Press Release]
-directory: [Beyond Meat, Impossible Foods, Lever VC, The New]
+directory: [694, 695, 1332, 8602]
 images: ["André.jpeg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11052
 ---
 <p><em>The New, known for its top-quality and better-for-you plant based meat and ready-meal lines, taps meat industry veteran for next stage of growth</em></p>
 <p><strong>Sao Paulo</strong> —Brazilian plant-based meat brand The New announced today it has appointed as CEO André Carvalho, Country Sales and Marketing Director for top 20 global meat company Minerva Foods. At Minerva, Carvalho managed U$1bn of revenue and a team of 400 that covered more than 48,000 customers monthly, and created one of the largest protein B2B e-commerce platforms in Brazil. Prior to Minerva, Carvalho held senior positions at Bunge, PepsiCo, and Associated British Foods subsidiary AB Brasil. The appointment comes following strong 20% quarter-over-quarter sales growth for The New in Q1, and the launch of a popular new plant-based pork line in Q2 of this year.</p>

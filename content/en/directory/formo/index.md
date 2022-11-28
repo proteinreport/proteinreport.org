@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1303
 ---
 <p>Formo is aiming to give people dairy milk without the destructive environmental and ethical consequences. Through a fermentation process, Formo transforms microorganisms and sugar into milk protein and then on to dairy products. Dairy milk without cows.</p>

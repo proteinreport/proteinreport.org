@@ -3,7 +3,7 @@ title: "Pulp Culture and the Every Company Launch World’s First Protein-Booste
 date: 2022-10-12 10:00:00
 lastmod: 2022-10-12 10:00:00
 slug: /pulp-culture-and-every-company-launch-worlds-first-protein-boosted-hard-juice
-company: "The Every Company"
+company: 1299
 description: "BUILD by Pulp Culture+ disrupts the explosive hard alternatives category, growing 2,000%+,  while delivering unprecedented Full Spectrum functionality from adaptogens, probiotics and–in a first for alcoholic beverages– animal-free EVERY Protein●Partners who share a foundation in fermentation are joining together to create a first-of-its-kind, delicious and highly functional beverage fit for the modern consumer●Pulp Culture+ makes global debut today, now available for purchase nationwide on the Pulp Culture website and downtown LA taproom, with brick and mortar retail rollout to follow"
 excerpt: "BUILD by Pulp Culture+ disrupts the explosive hard alternatives category, growing 2,000%+,  while delivering unprecedented Full Spectrum functionality from adaptogens, probiotics and–in a first for alcoholic beverages– animal-free EVERY Protein●Partners who share a foundation in fermentation are joining together to create a first-of-its-kind, delicious and highly functional beverage fit for the modern consumer●Pulp Culture+ makes global debut today, now available for purchase nationwide on the Pulp Culture website and downtown LA taproom, with brick and mortar retail rollout to follow"
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Ingredients]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, New Products]
-directory: [The Every Company]
+directory: [1299]
 images: ["TDAVIS_Every072 copy.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11164
 ---
 <p>Pulp Culture, the acclaimed better-for-you bev-alc innovator, today announces an expansion of its category-defining lineup with the release of “BUILD,” the world’s first protein-boosted hard juice. A super beverage developed with leading alternative protein player The EVERY Co. (“EVERY”), BUILD (SRP $16.99/4 pack) is the first release in the new hyper-functional Pulp Culture+ line, now nationally available online while supplies last, with brick and mortar retail roll-out to follow.</p>
 <p>BUILD by Pulp Culture+ represents a breakthrough in functional beverages: a protein-boosted, Full Spectrum alcoholic beverage that actually tastes good. The unprecedented partnership behind this world’s-first beverage celebrates the union of the time-honored art of fermentation with a next-gen spin: while Pulp Culture uses spontaneous fermentation to brew better alcoholic beverages, EVERY is fermenting real animal proteins without animals, leveraging flavor science and technology to make protein consumption more fun, accessible and delicious–with lower impact.</p>

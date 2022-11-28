@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9420
 ---
 <p>MyoWorks Private Limited aims to create scaffolds and an eco-system of ancillary products that will facilitate any cultivated-meat entrepreneur’s vision of in-vitro meat production.</p>

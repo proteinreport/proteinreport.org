@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7498
 ---
 <p>WTH Foods is a plant-based meat company from the Philippines. We aim to lead Asia’s transition to sustainable meat alternatives by innovating with carefully-sourced local produce and taking inspiration from local flavors.</p>

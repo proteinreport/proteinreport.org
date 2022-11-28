@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5705
 ---
 <p>VegMe is a new innovative vegetarian alternative developed by a Swedish chef family with taste and consistency in the center.</p>

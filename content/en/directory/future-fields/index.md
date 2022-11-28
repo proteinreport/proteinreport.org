@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5808
 ---
 <p>Startup  creating custom growth media solutions for the cellular agriculture industry - cost effective, scalable, and optimized for the future of&nbsp;food.</p>

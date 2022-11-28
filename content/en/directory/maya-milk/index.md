@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10453
 ---
 <p>We are a precision fermentation company producing animal-origin-free dairy proteins and fats. Our mission is to transform the industrial animal agriculture by creating animal-free dairy, without compromising the sensory experience that dairy lovers are accustomed to.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5786
 ---
 <p>Tofutown makes its own products with its own know how. The company started with simple raw agricultural products and run through the entire processing chain to finished products: from the soybean and wheat grain to a wide variety of tofu-seitan plant based protein entrees and snacks.</p>

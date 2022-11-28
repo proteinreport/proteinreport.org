@@ -3,7 +3,7 @@ title: "New VTT-based startup company eniferBio producing protein from biorefine
 date: 2020-10-30 16:33:40
 lastmod: 2020-10-30 16:33:40
 slug: /new-vtt-based-startup-company-eniferbio-producing-protein-biorefinery-products-received
-company: "eniferBio"
+company: 8922
 description: "The growing demand for food and sustainable food production are global challenges. A significant part of the problem is the lack of sustainably produced protein feed. eniferBio has developed a new and sustainable production process for a high-quality fish feed ingredient and recently received funding for its solution from two funds, Nordic FoodTech VC and Voima Ventures."
 excerpt: "The growing demand for food and sustainable food production are global challenges. A significant part of the problem is the lack of sustainably produced protein feed. eniferBio has developed a new and sustainable production process for a high-quality fish feed ingredient and recently received funding for its solution from two funds, Nordic FoodTech VC and Voima Ventures."
 proteins: [Fungi]
@@ -11,13 +11,13 @@ products: [Ingredients, Feed]
 topics: [Business, Sci-Tech]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [eniferBio]
+directory: [8922]
 images: ["pekilo_0.jpg"]
 additional_images: ["konsepti7.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 7898
 ---
 <p><em>The growing demand for food and sustainable food production are global challenges. A significant part of the problem is the lack of sustainably produced protein feed. eniferBio has developed a new and sustainable production process for a high-quality fish feed ingredient and recently received funding for its solution from two funds, Nordic FoodTech VC and Voima Ventures.</em></p>
 <p>Fish is healthier and more ecological source of protein than meat and its consumption is constantly increasing. The decline in fish stocks has led to the increased fish farming which, in turn, is limited to the availability of sustainably produced feed. eniferBio has developed a method for producing Pekilo mycoprotein - a form of single cell protein derived from fungi. Pekilo mycoprotein is nutritious and protein rich cell biomass and can be used as raw material for fish feed. It is produced from biorefineries’ underutilised and renewable organic raw material streams. Pekilo mycoprotein can replace soy, which is commonly used in fish feed. Soy cultivation poses ecological challenges such as the deforestation in South America.</p>

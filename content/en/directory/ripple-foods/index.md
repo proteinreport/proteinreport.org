@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1175
 ---
 <p>Berkeley-based Ripple Foods is a leader in developing innovative and delicious non-dairy products. Ripple products are powered by Ripptein, the purest plant protein on Earth.</p>

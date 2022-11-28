@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10447
 ---
 <p>Quelp is a hub for the development of healthy foods based on Chilean seaweed. We want to shake up the food industry, by using a natural resource that requires zero inputs for its growth, through the development of healthy foods, that’s also tasty.</p>

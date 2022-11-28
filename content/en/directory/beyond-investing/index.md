@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 706
 ---
 <p>Beyond Investing was formed in 2017, by a group of seasoned investment professionals, for the purpose of creating the first ever publicly available animal-friendly and environmentally conscious investment products.</p>

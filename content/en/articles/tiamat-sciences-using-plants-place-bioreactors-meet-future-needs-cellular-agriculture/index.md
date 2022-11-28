@@ -10,13 +10,14 @@ products: [Meat, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [Europe]
 flags: [Featured]
-directory: [Mosa Meat, BlueNalu, Upside Foods, Tiamat Sciences]
+directory: [5820, 5829, 5831, 7241]
 contributors: [Clément Carlier]
 images: [Tiamat-3.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 7244
 ---
 <p>In 2040, <a href="https://www.kearney.com/documents/20152/2795757/How+Will+Cultured+Meat+and+Meat+Alternatives+Disrupt+the+Agricultural+and+Food+Industry.pdf/06ec385b-63a1-71d2-c081-51c07ab88ad1" target="_blank">one third</a> of the meat on our plates could be grown outside of animals, drastically reducing the leading sources of CO2 emissions and water pollution, while answering the question of how to feed a global population of nine billion.</p>
 
@@ -48,7 +49,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Tiamat-2.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1111,&quot;height&quot;:833,&quot;rel&quot;:&quot;blazy-filter-de5iiksckp4-46-export-data-export-1&quot;}">      <div style="padding-bottom: 75%;" data-ratio="75" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Tiamat-2.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1111,&quot;height&quot;:833,&quot;rel&quot;:&quot;blazy-filter-fpoanir9tvu-44-export-data-export-1&quot;}">      <div style="padding-bottom: 75%;" data-ratio="75" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Tiamat Sciences" title="Tiamat-2.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="582ef9e4-633e-4d31-9b51-64ffe0cbf0b7" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/Tiamat-2.jpg?itok=Rkwl7DZz" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20900'%2F%3E" width="1200" height="900" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

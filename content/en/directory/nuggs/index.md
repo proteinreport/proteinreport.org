@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5667
 ---
 NUGGS are made with innovative protein technologies enabling us to create a tender and meatier nugget that is more advanced than an animal-based nugget.

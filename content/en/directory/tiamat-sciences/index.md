@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7241
 ---
 <p>Tiamat makes culture media, growth-factors &amp; high value proteins for cell culture using a unique plant-based technology.</p>

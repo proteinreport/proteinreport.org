@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7856
 ---
 <p>Bluu Seafood (formerly Bluu Biosciences) is the first cultivated seafood company in Europe. With a dedicated focus on creating the most nutritious and delicious fish products, we are creating the future of healthy seafood, made from fish cells.</p>

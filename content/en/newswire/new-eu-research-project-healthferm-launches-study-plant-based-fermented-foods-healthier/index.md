@@ -12,13 +12,13 @@ products: [Ingredients]
 topics: [Health, Policy]
 regions: [Europe]
 flags: [Press Release]
-directory: [Planted]
+directory: [5791]
 images: ["DSC_0320.JPG"]
 additional_images: ["HealthFerm Kick off Graphic recording.jpg", "HealthFerm_logo.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11151
 ---
 <p><em>New research is underway: an interdisciplinary consortium of 22 international partners, with the help of community science, targets the societal and industrial transition toward sustainable plant-based fermented foods by design for a healthy everyday diet.</em></p>
 <p>Leuven, 1st September 2022 – Fermented foods are consumed in Europe and across the globe. Especially in the past decades, fermented foods have been hailed for their nutritional and perceived health benefits. Yet little is known about the impact of fermentation on human health or how fermentation can be leveraged to enhance the use of sustainable plant-based raw materials. The new EU research project HealthFerm, a collaboration of 22 partners from across Europe, will shed light on this forward-looking topic. Funded through the European Union’s Horizon Europe Framework Programme for Research and Innovation and the Swiss State Secretariat for Education, Research and Innovation (SERI), the project has a budget of EUR 13.1 million (11.3 and 1.8 from EU and SERI, respectively) over the next four years. HealthFerm is coordinated by KU Leuven, Belgium, and the consortium kicks off its activities today.</p>

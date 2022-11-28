@@ -18,6 +18,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5546
 ---
 <p>LikeMeat is a German company based in Dusseldorf. With the support of his family business from a meat processing background, Timo Recker founded LikeMeat in December 2013.</p>
 <p>During his studies in England in 2010 he came up with the brilliant idea to produce the most popular meat products, but completely without animal meat. Together with his team he has developed a production technology that finally matches the quality of meat and results in a firm, delicious and succulent texture. Just like meat!</p>

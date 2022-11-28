@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5798
 ---
 <p>Evolution Meats was established in early 2018 by three founders from the food industry to make 100% vegetable meat substitutes.</p>

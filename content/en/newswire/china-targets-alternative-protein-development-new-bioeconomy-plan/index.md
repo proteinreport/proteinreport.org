@@ -3,7 +3,7 @@ title: "China Targets Alternative Protein Development In New Bioeconomy Plan"
 date: 2022-05-12 05:58:20
 lastmod: 2022-05-12 05:58:20
 slug: /china-targets-alternative-protein-development-new-bioeconomy-plan
-company: "Lever VC"
+company: 1332
 description: "On Tuesday, China's main economic regulator unveiled a five-year plan to boost the bioeconomy, highlighting alternative protein sources as a critical sector to grow in order to achieve food security and decarbonisation goals."
 excerpt: "On Tuesday, China's main economic regulator unveiled a five-year plan to boost the bioeconomy, highlighting alternative protein sources as a critical sector to grow in order to achieve food security and decarbonisation goals."
 proteins: [Cell-Based, Plant-Based, Microbial]
@@ -11,13 +11,13 @@ products: [Meat, Dairy, Eggs, Seafood]
 topics: [Policy]
 regions: [Asia]
 flags: [Press Release]
-directory: [Lever VC]
+directory: [1332]
 images: ["Lever-China-full-logo.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10838
 ---
 <p><strong>Beijing </strong>– On Tuesday, China's main economic regulator unveiled a five-year plan to boost the bioeconomy, highlighting alternative protein sources as a critical sector to grow in order to achieve food security and decarbonisation goals.</p>
 <p>The 14th Five-Year Plan released by the National Development and Reform Commission (NDRC) included a call to develop “synthetic biology technology to explore the research and development of ‘artificial protein’ and other new food products and to realize the industrialization of food iteration upgrade and reduce the pressure on environmental resources brought by the traditional farming industry”.</p>

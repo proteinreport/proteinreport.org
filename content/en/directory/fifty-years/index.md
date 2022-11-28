@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6212
 ---
 <p>Fifty Years is an entrepreneur-run early stage venture capital firm based in San Francisco. They partner with companies that inspire. Specifically, they back companies that, if successful, will be both massively profitable and make a serious dent in achieving one of the Sustainable Development Goals.</p>

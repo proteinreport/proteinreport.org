@@ -3,7 +3,7 @@ title: "Shiru partners with Puratos to explore and scale sustainable plant-based
 date: 2022-08-31 07:01:00
 lastmod: 2022-08-31 07:01:00
 slug: /shiru-partners-puratos-explore-and-scale-sustainable-plant-based-protein-ingredients-baked
-company: "Shiru"
+company: 7174
 description: "Shiru, a functional ingredients discovery company, announced today a new partnership with Puratos, the industry leader in innovative food ingredients for bakery, to evaluate naturally-occurring proteins identified by Shiru’s proprietary Flourish™ platform as a promising next-generation egg replacement."
 excerpt: "Shiru, a functional ingredients discovery company, announced today a new partnership with Puratos, the industry leader in innovative food ingredients for bakery, to evaluate naturally-occurring proteins identified by Shiru’s proprietary Flourish™ platform as a promising next-generation egg replacement."
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Eggs, Ingredients]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [Shiru]
+directory: [7174]
 images: ["Shiru partners with Puratos.png"]
 additional_images: ["shiru logo 1200 x 628.png", "Puratos logo 1200 x 628.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11137
 ---
 <p><strong><em>Leveraging proteins identified by Shiru’s Flourish™ platform, the partners will scale up prototype production of select ingredients for further evaluation.</em></strong></p>
 <p>ALAMEDA, Calif., August 31, 2022 – <a href="https://www.shiru.com/">Shiru</a>, a functional ingredients discovery company, announced today a new partnership with <a href="https://www.puratos.com/">Puratos</a>, the industry leader in innovative food ingredients for bakery, to evaluate naturally-occurring proteins identified by Shiru’s proprietary <a href="https://shiru.com/approach">Flourish™</a> platform as a promising next-generation egg replacement.</p>

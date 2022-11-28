@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1168
 ---
 <p>Founded in 1980, Tofurky is the leading independent plant-based protein producer in the nation, making lip-smacking plant-based foods that are kind to people, animals and the environment.</p>

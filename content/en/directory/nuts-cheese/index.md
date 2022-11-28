@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6004
 ---
 Artisan plant based cashew cheeses made in London, Ontario. Available for purchase at select retailers and grocers across Canada.

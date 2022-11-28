@@ -15,5 +15,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7553
 ---
 <p>Happiness Capital is a continually expanding, global venture capital enterprise based in Hong Kong. We invest in startups that aim to improve the world’s happiness. We have current investments in startups across the US, China and Hong Kong.</p>

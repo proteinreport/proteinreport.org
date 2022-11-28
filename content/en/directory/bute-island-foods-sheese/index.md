@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5609
 ---
 <p>Bute Island Foods Ltd is headquartered in the UK and operates the business under various segments such as Sheese Blocks, Creamy Sheese, Sheese Wedges, Grated Sheese, and Sheese Slices. The company offers a wide range of dairy-free cheeses under the brand Sheese.</p>

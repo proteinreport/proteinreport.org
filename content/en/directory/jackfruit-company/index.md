@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5671
 ---
 <p>The Jackfruit Company’s mission is to make a positive impact on farmers’ livelihoods, humanity’s eco-footprint, health and wellbeing by mainstreaming the planet’s meatiest plant -- jackfruit.  The company was founded by Annie Ryu, and today works with more than 1,000 farming families in southern India to source organically-grown jackfruit to bring delicious meal starters and Frozen Entrees to the US market.</p>

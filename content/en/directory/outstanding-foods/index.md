@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5592
 ---
 Outstanding Foods was founded on a simple idea: To create addictively delicious plant-based foods that anyone can love. Outstanding Foods is full of flavor and free of guilt. The team keeps it real with pure, wholesome ingredients – and nothing from animals or artificial ingredients. Every product in the lineup is carefully prepared by Chef Dave with his proprietary chef-crafted methods.

@@ -3,7 +3,7 @@ title: "Provenance Bio, an Alternative Protein Company, Creates Biomimetic, Anim
 date: 2021-06-23 20:22:30
 lastmod: 2021-06-23 20:22:30
 slug: /provenance-bio-alternative-protein-company-creates-biomimetic-animal-free-gelatin-using
-company: "Provenance Bio"
+company: 5863
 description: "Provenance Bio, a San Francisco-based alternative proteins company, announced today that it has made animal-free gelatin using their proprietary protein expression platform."
 excerpt: "Provenance Bio, a San Francisco-based alternative proteins company, announced today that it has made animal-free gelatin using their proprietary protein expression platform."
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Ingredients, Materials]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [Provenance Bio]
+directory: [5863]
 images: ["provenance-logo_1.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9203
 ---
 <ul>
 <li>

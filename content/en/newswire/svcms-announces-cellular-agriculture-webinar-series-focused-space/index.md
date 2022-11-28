@@ -12,13 +12,13 @@ products: [Meat, Dairy, Seafood]
 topics: [Business, Sci-Tech]
 regions: [International, US & Canada]
 flags: [Press Release]
-directory: [Aleph Farms, ORF Genetics, 108Labs]
+directory: [5816, 5897, 8550]
 images: ["astro_teaser.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8795
 ---
 <p><strong>SAN FRANCISCO, CA</strong>, 04/16/2021: SVCMS, LLC, a California based company focused on media and networking surrounding cell-cultured meat and future food technology, announces a webinar series, CMS Astro, planned for Thursday, April 29, 2021 to be held online and in a digital format. In previous years, events hosted by the Cultured Meat Symposium included scientists, researchers, key industry experts, investors, and members of the traditional meat, poultry, and seafood industries. Past sponsors of the Cultured Meat Symposium include Sartorius Stedim Biotech, Merck, KGaA, Darmstadt, Germany, Texture Technologies Corp, Benchling, ORF Genetics, Black & Veatch, Chemometec, and Aleph Farms.</p>
 <p>CMS Astro is a virtual symposium dedicated to the role of cell-cultured meat technology in space. A single day of talks related to cell-based meat technology in applications of outer space research, space travel, and deep space exploration. Speakers include Hilde Stenui of Space Applications, Scot Bryson of Orbital Farm, Gene Boland of Techshot, Inc., Moritz Kompenhans, CellAg Germany, Shahreen Reza of Mission: Space Food, Shayne Guiliano of 108 Labs, and more. Cell-cultured meat technology, also referred to as cultivated meat, has been increasingly popular since additional investment in cellular agriculture has topped over $1.5 Billion. SVCMS, LLC aims to continue the research and growth of this new food technology sector through media, investments, and events.</p>

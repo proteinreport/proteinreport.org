@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5611
 ---
 <p><em>Coconut Bliss</em> is a dairy-free <em>ice cream</em> producer creating 100 percent plant-based flavors of <em>ice cream</em> pints, bars and sandwiches.<wbr></wbr> USDA Certified Organic and Non-GMO Project verified, <em>Coconut Bliss</em> is made with cholesterol-free <em>coconut</em> milk and sweetened with agave syrup.</p>

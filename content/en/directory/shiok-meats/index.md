@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5821
 ---
 <p>Shiok Meats is a cell-based clean meat company, the first of its kind in Singapore and South-East Asia. Their mission is to bring delicious, clean and healthy seafood and meats by harvesting from cells instead of animals. Shiok Meats will bring cell-based crustacean meats (shrimp, crab, lobster) to consumers table. The meats produced by Shiok Meats are animal-, health- and environment-friendly with the same taste, texture, more nutrients and no cruelty.</p>

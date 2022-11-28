@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5818
 ---
 <p>IntegriCulture is a startup creating full-stack cellular agriculture and leading an open-source movement.</p>

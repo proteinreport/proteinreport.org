@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5753
 ---
 The Craft Meat Company is creating ‘crafted’ protein-based meal solutions for today’s busy lifestyles. The company focus is on using innovative thinking to develop unique flavours from around the world for meat or plant based proteins.

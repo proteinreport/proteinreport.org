@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5741
 ---
 Kojo was created so people could still savor the meaty jerky taste they love, without sacrificing the values. That’s the future of jerky.

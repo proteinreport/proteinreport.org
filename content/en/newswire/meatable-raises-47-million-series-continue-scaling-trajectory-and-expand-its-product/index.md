@@ -3,7 +3,7 @@ title: "Meatable Raises $47 Million Series A to Continue Scaling Trajectory and 
 date: 2021-03-23 18:29:22
 lastmod: 2021-03-23 18:29:22
 slug: /meatable-raises-47-million-series-continue-scaling-trajectory-and-expand-its-product
-company: "Meatable"
+company: 5819
 description: "Meatable, the cultivated meat startup, has closed $47 million USD in its Series A funding round, bringing the company’s total funding to $60 million. Meatable finalized its first showcase product in 2020 and aims to use the new funds to advance small-scale production at the Biotech Campus Delft and to diversify its product portfolio."
 excerpt: "Meatable, the cultivated meat startup, has closed $47 million USD in its Series A funding round, bringing the company’s total funding to $60 million. Meatable finalized its first showcase product in 2020 and aims to use the new funds to advance small-scale production at the Biotech Campus Delft and to diversify its product portfolio."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Meatable, Agronomics]
+directory: [5819, 6149]
 images: ["Founders_Meatable_4.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8650
 ---
 <p><em>Consortium of life sciences and food investors including Section 32, DSM Venturing, Dr. Rick Klausner, Dr. Jeffrey Leiden and existing investors support Meatable for its next phase of growth</em></p>
 <p><strong>AMSTERDAM, March 23, 2021</strong> – <a href="https://www.meatable.com/">Meatable</a>, the cultivated meat startup, has closed $47 million USD in its Series A funding round, bringing the company’s total funding to $60 million. Meatable finalized its first showcase product in 2020 and aims to use the new funds to advance small-scale production at the Biotech Campus Delft and to diversify its product portfolio.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6790
 ---
 <p>Our goal is to provide better nutrition for formula-fed babies. We develop yeast-based technologies to produce the missing component in infant formula: rare, functional sugars found only naturally in human breast milk. Our sugars are called human milk oligosaccharides (HMOs). Unlike table sugar, HMOs are not sweet but carry immense health benefits. Evolution has tailored them to be the most effective prebiotic for babies; HMOs help balance babies’ gut microbiome, which in turn is associated with supporting immune system and neurological development.</p>

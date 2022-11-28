@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5800
 ---
 <p>V2food works with Australia’s national science agency CSIRO to develop a range of plant-based meat products meant to accurately mimic the real thing. The company’s first product, a meatless patty, is currently sold in the Rebel Whopper at Hungry Jack’s, Australia’s version of Burger King.</p>

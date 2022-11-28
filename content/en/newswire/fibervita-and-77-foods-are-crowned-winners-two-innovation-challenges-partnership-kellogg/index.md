@@ -18,7 +18,7 @@ additional_images: ["Kellogg Company Innovation Challenge - Finalist.png", "Inno
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8583
 ---
 <p><strong>Ambitious food-tech start-ups FIBERVITA and 77 FOODS have been announced as the two winners, after over 100 international entries were received across the two challenges.</strong></p>
 <p><strong>The Kellogg Company Innovation Challenge:</strong> New microbiome-based innovation for gut wellness</p>

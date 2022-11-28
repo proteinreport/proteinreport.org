@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5784
 ---
 Founded in 1993 by Heather Mills, the popular plant-based food brand VBites which has an extensive range of meat and dairy-free products.

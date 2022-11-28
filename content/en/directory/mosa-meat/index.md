@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5820
 ---
 <p>Startup working on cultivated beef in collaboration with Mark Post at Maastricht University. Since Post produced the first clean burger in 2013, the company&#039;s focus is on affordability and scalability.</p>

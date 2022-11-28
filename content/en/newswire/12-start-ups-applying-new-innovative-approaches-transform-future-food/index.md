@@ -12,13 +12,13 @@ products: [Meat, Dairy]
 topics: [Business, Sci-Tech]
 regions: [International]
 flags: [Press Release]
-directory: [The Vegetarian Butcher, Orbillion Bio]
+directory: [1172, 7349]
 images: ["fft ecosystem.jpg"]
 additional_images: ["fft_0.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 7870
 ---
 <p><strong>Future Food-Tech presents revolutionary solutions set to shake-up the food industry</strong></p>
 <p>The food industry is quickly adapting to today’s consumer demands, developing new technologies and bringing products to market faster than ever before. New start-ups are emerging on the food-tech scene with bold new concepts and fresh approaches to transform the future of food.</p>

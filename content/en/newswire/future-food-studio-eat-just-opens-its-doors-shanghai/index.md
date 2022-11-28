@@ -3,7 +3,7 @@ title: "Future Food Studio by Eat Just opens its doors in Shanghai"
 date: 2020-09-23 06:03:25
 lastmod: 2020-09-23 06:03:25
 slug: /future-food-studio-eat-just-opens-its-doors-shanghai
-company: "Eat Just"
+company: 234
 description: "Eat Just is excited to announce the opening of its first-ever Future Food Studio in China— the country’s first 100% plant-based culinary studio, featuring dishes made with JUST Egg, an entirely plant-based egg alternative that cooks and looks like conventional chicken eggs. At the Future Food Studio, you will learn how to cook delicious plant-based dishes without sacrificing flavor, nutrition and quality; getting us closer to the goal of halving our individual meat consumption by 2030."
 excerpt: "Eat Just is excited to announce the opening of its first-ever Future Food Studio in China— the country’s first 100% plant-based culinary studio, featuring dishes made with JUST Egg, an entirely plant-based egg alternative that cooks and looks like conventional chicken eggs. At the Future Food Studio, you will learn how to cook delicious plant-based dishes without sacrificing flavor, nutrition and quality; getting us closer to the goal of halving our individual meat consumption by 2030."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Eggs]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release]
-directory: [Eat Just]
+directory: [234]
 images: ["Future Food Studio 植物料理创意厨房 by JUST-Logo-Horizontal-01.png"]
 additional_images: ["JUST Egg 植物蛋 Omelet 蛋饼 by Chris Zhu 朱诲.jpeg", "JUST Scrambled Egg with Asparagus 植物蛋炒芦笋.jpg", "JUST Teriyaki Bowl 照烧饭.jpg", "JUST Egg Folded Sushi 寿司.jpg", "JUST Egg 植物蛋 Okonomiyaki 大阪烧 by Jonathan He 何童宇.jpeg", "Yi-Wen 薏雯 JUST Egg 植物蛋紫菜三明治材料 Savory Nori Sandwich.jpeg", "Future Food Studio WeChat Mini Program Classes.jpg", "Future Food Studio WeChat Mini Program Chefs.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 7706
 ---
 <p><em>The Future Food Studio by Eat Just opens its doors at Jing An Kerry Center South Piazza in Shanghai for a limited time this October 10-30th</em></p>
 

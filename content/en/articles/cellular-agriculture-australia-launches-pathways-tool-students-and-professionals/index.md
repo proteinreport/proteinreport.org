@@ -10,13 +10,14 @@ products: [Meat, Seafood]
 topics: [Business, Sci-Tech]
 regions: [Oceania]
 flags: [Featured]
-directory: [New Harvest, Good Food Institute, Wildtype, Cellular Agriculture Canada, Cellular Agriculture Australia]
+directory: [697, 698, 836, 7109, 7131]
 contributors: [Avery Parkinson]
 images: [caa_pathways_image_720.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 8600
 ---
 <p>“The number one question I get from students interested in cell ag is ‘What do I need to study to get into the field?’” Director of Cellular Agriculture Australia Dr. Bianca Le is also frequently queried by professionals wondering how they can apply their expertise to cellular agriculture.</p>
 
@@ -50,7 +51,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/pathways%20tool.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1080,&quot;height&quot;:574,&quot;rel&quot;:&quot;blazy-filter-bh74mkpksi8-24-export-data-export-1&quot;}">      <div style="padding-bottom: 53.17%;" data-ratio="53.17" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/pathways%20tool.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1080,&quot;height&quot;:574,&quot;rel&quot;:&quot;blazy-filter-amgdzc8-nzw-24-export-data-export-1&quot;}">      <div style="padding-bottom: 53.17%;" data-ratio="53.17" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="The pathways tool was published on March 15, 2021." title="pathways tool.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="b3b09c29-0da8-49c3-987d-280cb6135c80" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/pathways%20tool.jpg?itok=pu_QABrm" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20638'%2F%3E" width="1200" height="638" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

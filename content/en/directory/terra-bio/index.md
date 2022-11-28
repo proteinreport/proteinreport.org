@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9421
 ---
 <p>Terra Bio is a Canadian company improving the world’s food security by producing a plant-based protein created from spent grain – a widely accessible resource. Our vision is to supply markets with the most sustainable protein on earth by repurposing agro-food residues, and contribute to Canada&#039;s circular economy. Terra Bio’s unique technology (patent pending) converts the spent grain from breweries into a functional plant based protein that can simply be added into food, like meat replacement products.</p>

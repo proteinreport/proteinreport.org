@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5746
 ---
 Hinoman Ltd.’s food tech platform enables exceptional scalability for cultivation, with a minimal ecological footprint. Hinoman developed an optimal, precision-agriculture solution to produce a safe, nutritious vegetable protein source.

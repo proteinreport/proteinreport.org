@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8550
 ---
 <p>108Labs is pioneering mammary cell agriculture and secretory antibodies for development of Colostrupedics™ whole-human infant formula with secretory IgA.</p>

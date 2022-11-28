@@ -3,7 +3,7 @@ title: "Bond Pet Foods Develops World’s First Animal-Free Chicken Protein for 
 date: 2020-08-25 08:05:40
 lastmod: 2020-08-25 08:05:40
 slug: /bond-pet-foods-develops-worlds-first-animal-free-chicken-protein-dog-and-cat-nutrition
-company: "Bond Pet Foods"
+company: 1269
 description: "Bond Pet Foods has developed the world’s first animal-free chicken protein for dog and cat nutrition using precision fermentation. “The successful chicken prototype is a demonstration of our technology’s potential to create a complete portfolio of animal proteins for pet consumption, and beyond,” said Bond Co-Founder and CTO Pernilla Turner Audibert. The Colorado-based company has also closed a bridge round of funding with follow-on from seed investors Lever VC and KBW Ventures, and new funds Stage 1 Fund and Trellis Road participating. Its first chicken-based products will debut in 2023."
 excerpt: "Bond Pet Foods has developed the world’s first animal-free chicken protein for dog and cat nutrition using precision fermentation. “The successful chicken prototype is a demonstration of our technology’s potential to create a complete portfolio of animal proteins for pet consumption, and beyond,” said Bond Co-Founder and CTO Pernilla Turner Audibert. The Colorado-based company has also closed a bridge round of funding with follow-on from seed investors Lever VC and KBW Ventures, and new funds Stage 1 Fund and Trellis Road participating. Its first chicken-based products will debut in 2023."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat, Pet Food]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, New Products]
-directory: [Bond Pet Foods, Lever VC, Agronomics, KBW Ventures]
+directory: [1269, 1332, 6149, 6281]
 images: ["HERO_Bond_Pre-Dried_Chicken Protein_V1.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 7568
 ---
 <p class="text-align-center"><em>Proprietary approach brews chicken protein through biotechnology and fermentation, instead of harvesting conventionally on farm and field</em></p>
 
@@ -33,7 +33,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Bond_Inga.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1200,&quot;height&quot;:586,&quot;rel&quot;:&quot;blazy-filter-bnyylw0dxrq-34-export-data-export-2&quot;}">      <div style="padding-bottom: 48.83%;" data-ratio="48.83" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Bond_Inga.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1200,&quot;height&quot;:586,&quot;rel&quot;:&quot;blazy-filter-me7ip-ryf7a-34-export-data-export-2&quot;}">      <div style="padding-bottom: 48.83%;" data-ratio="48.83" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Inga the chicken" title="Bond_Inga.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="03ca80d5-b86e-40db-a5c4-5ac2a825841e" data-src="/sites/default/files/inline-images/Bond_Inga.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20586'%2F%3E" width="1200" height="586" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
@@ -59,7 +59,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Bond_Ground%20Protein%20Sample.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1200,&quot;height&quot;:800,&quot;rel&quot;:&quot;blazy-filter-bnyylw0dxrq-34-export-data-export-2&quot;}">      <div style="padding-bottom: 66.67%;" data-ratio="66.67" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Bond_Ground%20Protein%20Sample.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1200,&quot;height&quot;:800,&quot;rel&quot;:&quot;blazy-filter-me7ip-ryf7a-34-export-data-export-2&quot;}">      <div style="padding-bottom: 66.67%;" data-ratio="66.67" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Bond chicken protein sample." title="Bond_Ground Protein Sample.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="0cf9d9e8-952b-4c49-a1a1-09eeba09ac56" data-src="/sites/default/files/inline-images/Bond_Ground%20Protein%20Sample.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20800'%2F%3E" width="1200" height="800" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
@@ -85,7 +85,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/CTO_Food%20Scientist.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1200,&quot;height&quot;:800,&quot;rel&quot;:&quot;blazy-filter-bnyylw0dxrq-34-export-data-export-2&quot;}">      <div style="padding-bottom: 66.67%;" data-ratio="66.67" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/CTO_Food%20Scientist.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1200,&quot;height&quot;:800,&quot;rel&quot;:&quot;blazy-filter-me7ip-ryf7a-34-export-data-export-2&quot;}">      <div style="padding-bottom: 66.67%;" data-ratio="66.67" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Bond CTO and food scientist" title="CTO_Food Scientist.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="916065a4-f250-46b9-8995-de53dd4768c3" data-src="/sites/default/files/inline-images/CTO_Food%20Scientist.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20800'%2F%3E" width="1200" height="800" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

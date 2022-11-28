@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7874
 ---
 <p>Startup CPG is here to help young CPG brands succeed.  If you are a startup consumer brand with five employees or fewer, we will give you opportunities to shine, elevate your brand to decision-makers who matter, and connect you to those who have done it before. We will do everything in our power to help any brand working for a better food system.  We’re here to lift you up, provide constructive feedback, advise on critical resources, and grow your network so you can make real impact.</p>

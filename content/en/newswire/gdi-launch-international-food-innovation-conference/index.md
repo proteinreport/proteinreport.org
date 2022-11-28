@@ -12,13 +12,13 @@ products: [Meat, Dairy]
 topics: [Business]
 regions: [Europe, International]
 flags: [Press Release]
-directory: [The Better Meat Co., Blue Horizon Ventures, CPT Capital]
+directory: [1170, 1212, 6280]
 images: ["synthetic-meat_cooke_1.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9195
 ---
 <p>Ruschlikon, 06/22/2021: Swiss Thinktank Gottlieb Duttweiler Institute announces the launch of their new yearly <strong>International Food Innovation Conference</strong>.</p>
 <p>This conference is an annual gathering on the future of nutrition. It covers technical innovation as well as societal changes in the ecosystem of food. It aims to put current trends into a high-level context and to develop long-term perspectives for all stakeholders involved. The full day conference focuses on broad trends and features thought leaders, experts and startups. It is followed by a deep-dive event for the business community on the second day.</p>

@@ -3,7 +3,7 @@ title: "Golden meat: Engineering cow cells to produce beta carotene"
 date: 2020-10-15 13:21:07
 lastmod: 2020-10-15 13:21:07
 slug: /golden-meat-engineering-cow-cells-produce-beta-carotene
-company: "New Harvest"
+company: 697
 description: "Scientists prove cell-cultured meat products can offer enhanced nutrition compared to conventionally produced meat."
 excerpt: "Scientists prove cell-cultured meat products can offer enhanced nutrition compared to conventionally produced meat."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Sci-Tech]
 regions: [US & Canada]
 flags: [Featured, Press Release]
-directory: [New Harvest]
+directory: [697]
 images: ["Andrew_headshot.jpg"]
 additional_images: ["Andrew presenting his research at the 2019 international cultured meat symposium in Maastrichtt.jpg", "Tufts Cows.JPG", "Figure 5.png", "Andrew-stout-nutritional-engineering-cultured-meat.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 7807
 ---
 <p><em>Scientists prove cell-cultured meat products can offer enhanced nutrition compared to conventionally produced meat</em></p>
 

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7644
 ---
 <p>Agriculture Cellulaire France is a French association whose goal is to inform and stimulate reflection on cellular agriculture. Cellular agriculture allows the production of animal products from cells rather than animals, helping to solve problems associated with factory farming. To accomplish our mission, and with the help of our advisers, we make information available and create synergies between the various players in this emerging sector.</p>

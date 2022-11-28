@@ -3,7 +3,7 @@ title: "China Plant-Based Meat Brand HERO Protein, Crafted by Ex-Beyond Meat and
 date: 2021-02-09 09:05:38
 lastmod: 2021-02-09 09:05:38
 slug: /china-plant-based-meat-brand-hero-protein-crafted-ex-beyond-meat-and-impossible-foods
-company: "Herotein"
+company: 8412
 description: "Shanghai-based HERO Protein, the first Chinese company to use high-moisture extrusion technology, drawsbacking from senior food industry execs and leading corporates"
 excerpt: "Shanghai-based HERO Protein, the first Chinese company to use high-moisture extrusion technology, drawsbacking from senior food industry execs and leading corporates"
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
-directory: [Beyond Meat, Impossible Foods, MorningStar Farms, Gardein, Lightlife Foods, Lever VC, Herotein]
+directory: [694, 695, 1110, 1161, 1165, 1332, 8412]
 images: ["HERO_Products.jpg"]
 additional_images: ["HERO_Beef-Burger.jpg", "HERO_Chicken.JPG"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8413
 ---
 <p><em>Shanghai-based HERO Protein, the first Chinese company to use high-moisture extrusion technology, draws backing from senior food industry execs and leading corporates</em></p>
 <p><strong>Shanghai</strong> — HERO Protein, the first domestic plant-based meat company in China to use cutting-edge high-moisture extrusion technology, announced today that it has completed a US$850K pre-seed funding round to launch its products into the market. The funding round saw participation from Cremer, a leading global commodities and co-manufacturing company; Lever China Fund, the most active alternative protein investor in China; and senior executives from leading restaurant brands.</p>

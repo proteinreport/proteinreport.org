@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6783
 ---
 <p>Plantible Foods is a B2B food technology company with the goal to develop the most functional and applicable plant-based protein in the world using scalable and sustainable aqua-farming and extraction technologies.</p>

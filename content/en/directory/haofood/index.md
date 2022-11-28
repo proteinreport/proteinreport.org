@@ -15,5 +15,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8756
 ---
 <p>Haofood is startup based in Shanghai, China focusing on the development of plant-based chicken. They make use of peanut protein in order to replicate the textural qualities commonly associated with meat.</p>

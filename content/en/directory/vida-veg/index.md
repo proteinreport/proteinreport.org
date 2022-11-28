@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5706
 ---
 <p>Vida Veg is a company that came to change the eating habits of Brazilians with healthy, delicious, and 100% plant-based products.</p>

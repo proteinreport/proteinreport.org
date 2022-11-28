@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6113
 ---
 <p>Tomorrow Foods is researching, developing and producing plant based ingredients and additives for the Global Food Industry, thus enabling healthier and more sustainable diets and lifestyles.</p>

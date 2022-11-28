@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10457
 ---
 <p>It turns out, cows aren&#039;t great at making milk. They are an outdated and inefficient production system and we can do much better. At Real Deal Milk, we are developing technologies that produce dairy products that are equivalent to traditional dairy in terms of their nutritional value as well as the consumer experience. Our product will allow customers to enjoy milk products from cheese to ice cream as they were meant to be without having to worry about your impact on the environment and animal welfare.</p>

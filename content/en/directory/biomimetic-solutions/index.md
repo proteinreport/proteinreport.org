@@ -15,5 +15,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5844
 ---
 <p>The biotechnology B2B startup working on 3D scaffolds for cultivated meat layering, they are developing high quality nanomaterials for Tissue Engineering applications.</p>

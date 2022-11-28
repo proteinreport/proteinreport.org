@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8333
 ---
 <p>Opalia (Previously BetterMilk) is the first Canadian company to make cow milk with mammary cells</p>

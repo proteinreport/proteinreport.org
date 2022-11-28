@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8859
 ---
 <p>Magic Valley is an Australia based food company developing healthy and delicious cell-based meat products.</p>

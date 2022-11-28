@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5564
 ---
 <p>Neat offers 100% all-natural, innovative gluten and soy-free plant-based foods to consumers who are looking to reduce or eliminate animal based protein in their diets without sacrificing their favorite recipes.</p>

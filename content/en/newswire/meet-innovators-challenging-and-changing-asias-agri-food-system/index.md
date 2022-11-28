@@ -12,13 +12,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release]
-directory: [NovaMeat]
+directory: [1328]
 images: ["apac.png"]
 additional_images: ["APAC21 - Meet The Start-Ups.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9880
 ---
 <p>As Asia’s policymakers and agri-food leaders prepare for major urban population growth and the increasing impact of climate change, there is massive potential for global start-ups launching innovative solutions for sustainable food production in this region.</p>
 <p>The Asia-Pacific Agri-Food Innovation Summit takes place on November 16-18, showcasing 30+ dynamic start-ups who will present breakthrough technologies to an international audience in-person in Singapore and globally on the virtual summit platform.</p>

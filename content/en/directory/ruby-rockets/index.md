@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5715
 ---
 Ruby Rockets launched in 2013 and today the frozen Veggie and Fruit Pops are available in over 3,000 stores nationwide. The company introduced a creamy, dairy free yogurt alternative in November 2015, which is the first dairy free yogurt alternative tube snack in the dairy aisle.

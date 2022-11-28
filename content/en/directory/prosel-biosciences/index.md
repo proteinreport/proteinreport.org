@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10452
 ---
 <p>Prosel Biosciences leverages high-performance computing to unlock the potential of microalgae by developing algal technologies that produce  industrial enzymes and plant-based food proteins. Algaexpress™ produces alternative meat, dairy and plant-based proteins up to 10x higher yields compared to wild type yields.</p>

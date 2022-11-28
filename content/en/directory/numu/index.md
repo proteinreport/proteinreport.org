@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5666
 ---
 <p>Numu is a plant-based mozzarella designed to make the best tasting and textured cheese for pizza, lasagnas and more.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7174
 ---
 <p>Shiru rapidly and efficiently identifies high value functional food proteins via an innovative computational platform that integrates machine learning and molecular modeling and creates them through precision biology.</p>

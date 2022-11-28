@@ -3,7 +3,7 @@ title: "Pioneering Brazilian plant-based meat brand The New™ announces fresh b
 date: 2021-03-16 13:30:30
 lastmod: 2021-03-16 13:30:30
 slug: /pioneering-brazilian-plant-based-meat-brand-newtm-announces-fresh-backing-lever-vc-and
-company: "The New"
+company: 8602
 description: "The New, one of Latin America’s fastest-growing plant-based meat brands, announced today it has secured funding from Lever VC, a leading global investor in the alternative protein space, and Paulo Veras, Founder and CEO of 99, Brazil’s first tech unicorn. Funding will be used to complete expansion of a 1,000 square meter production facility amid heavy demand for the company’s products at national and regional retailers."
 excerpt: "The New, one of Latin America’s fastest-growing plant-based meat brands, announced today it has secured funding from Lever VC, a leading global investor in the alternative protein space, and Paulo Veras, Founder and CEO of 99, Brazil’s first tech unicorn. Funding will be used to complete expansion of a 1,000 square meter production facility amid heavy demand for the company’s products at national and regional retailers."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat, Seafood]
 topics: [Business]
 regions: [Latin America & Caribbean]
 flags: [Press Release, Investments]
-directory: [Beyond Meat, Lever VC, The New]
+directory: [694, 1332, 8602]
 images: ["Bruno Fonseca - Cofounder The New Butchers.jpg"]
 additional_images: ["THE NEW BUTCHERS - BACALHOADA (5).jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8603
 ---
 <p><em>Investment will expand production </em><em>and sales </em><em>for The New</em><em>; company was </em><em>recently profiled in </em><a href="https://www.nytimes.com/2020/12/26/world/americas/brazil-vegetarian.html"><em>The New York Times</em></a><em> as a leader in </em><em>the explosion of interest in plant-based meat in </em><em>Brazil</em></p>
 <p>The New, one of Latin America’s fastest-growing plant-based meat brands, announced today it has secured funding from Lever VC, a leading global investor in the alternative protein space, and Paulo Veras, Founder and CEO of 99, Brazil’s first tech unicorn. Funding will be used to complete expansion of a 1,000 square meter production facility amid heavy demand for the company’s products at national and regional retailers.</p>

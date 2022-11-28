@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 234
 ---
 <p>JUST is on a mission to build a food system where everyone eats well. The company’s world-class team of scientists and researchers leverage a one-of-a-kind discovery platform for meat and plant-based food and Michelin starred chefs combine these ingredient discoveries with decades of culinary expertise to create delicious, accessible, healthier and more sustainable products for the JUST brand and Made JUST licensing program.</p>

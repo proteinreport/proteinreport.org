@@ -10,13 +10,13 @@ products: [Ingredients]
 topics: [Business, Environment]
 regions: [Europe]
 flags: [Press Release]
-directory: [Vivera, Mosa Meat, Enough]
+directory: [1077, 5820, 5865]
 images: ["logos.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 6771
 ---
 <p>Ten partners from industry and research launch a project (known as ‘PLENITUDE’) to build a first-of-its-kind, large-scale, integrated biorefinery facility to produce proteins for food from low-cost sustainable feedstocks.</p>
 

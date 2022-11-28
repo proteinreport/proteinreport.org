@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5562
 ---
 Nate’s is a brand of ADF Foods Ltd. Nate’s is the best-selling brand of meatless meatballs — with 3 delicious varieties: Zesty Italian, Savory Mushroom and Classic. A versatile and a healthy twist to favorites meatball dishes!

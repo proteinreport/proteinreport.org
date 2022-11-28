@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1245
 ---
 <p>Violife is a range of award-winning plant-based alternatives to cheese products. They are free from dairy, preservatives, casein, lactose, gluten, nuts and soya. All are based on coconut oil and fortified with Vitamin B12.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7705
 ---
 <p>The future of honey. Better for humans. Better for bees.</p>

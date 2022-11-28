@@ -18,6 +18,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5833
 ---
 <p>The mission at Lab Farm Foods is to produce genuine meat in a sustainable way, without harming any animals in the&nbsp;process.</p>
 <p>The company is a proud member of <span class="caps">NYU</span> Langone’s Biolabs Incubator. Opened in 2019, Biolabs provides state-of-the-art lab space and equipment for biotech and life science&nbsp;startups.</p>

@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8215
 ---
 <p>CellAg @MIT works to spread awareness of the alternative protein field at MIT, encourage cellular agriculture research, and prepare MIT students for cellular agriculture careers. Our vision is to shape MIT as an innovation hub for cellular agriculture and an origin of world-class cellular agriculture scientists.</p>

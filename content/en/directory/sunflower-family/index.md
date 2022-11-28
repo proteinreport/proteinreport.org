@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5770
 ---
 SunflowerFamily, founded in 2016, offers four different varieties of mince: “Pure Sunflower Mince”, “Bolognese”, “Chili sin Carne”, and “Mushroom Pan”. All of them come with a spice mix. Being perfectly easy to handle, the shred product is as versatile as minced meat.

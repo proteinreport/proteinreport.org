@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1308
 ---
 <p>Spark Capital invests in companies at all stages of their life cycle. In total the company has $3 billion under their management. Spark partners with visionary entrepreneurs who are driven to move people with the products and experiences they create.</p>

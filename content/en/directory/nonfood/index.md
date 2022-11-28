@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5742
 ---
 <p>The Nonbar and Nongredient are micro-algae based foods that provide animal-free protein, omega-3’s and other essential nutrients. The Nonbar is our convenient ready-to-eat nutrition bar and Nongredient is our golden chlorella powder for home cooking. Nongredient has a uniquely mild and savory umami flavor to add to a variety of meals.</p>

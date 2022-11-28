@@ -18,6 +18,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9233
 ---
 <p>Innomy is a Spanish start-up that grows fungal mycelium on grains to replicate the experience of eating meat, but with a substantially lower environmental impact. It uses the &#039;highly versatile&#039; filamentous structure of mycelial matrices of different strains of mushrooms and modifies them to produce similar textures to meat.</p>
 <p>Innomy plans to launch its first products in Spain in 2022,  under the brand name Funka. Products will include fungi-based hamburger, sausage, meatball and nuggets.</p>

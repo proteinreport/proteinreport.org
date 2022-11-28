@@ -18,7 +18,7 @@ additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9556
 ---
 <p><strong>ENTER NOW: Technologies to Improve Meatlike Taste, Texture or Nutrition of Plant-Based Products; OR Digital Solutions to Connect and Enhance Sustainability in APAC’s Food Production Chain</strong></p>
 <p>The Asia-Pacific Agri-Food Innovation Summit (November 16-18) has partnered with global food companies CPF and Cargill, creating a start-up Innovation Challenge with each partner to uncover fresh talent and technologies to benefit the APAC agri-food value chain.</p>

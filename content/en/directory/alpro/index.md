@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5529
 ---
 <p>Alpro is a company based in Ghent, Belgium that markets organic and non-organic, non-genetically modified, plant-based products, such as foods and drinks made from soy, almonds, hazelnuts, cashew, rice, oats or coconut.</p>

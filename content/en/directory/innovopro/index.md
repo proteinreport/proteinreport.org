@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6782
 ---
 <p>InnovoPro is committed to bringing unique plant-based protein ingredients to the global food market to create nutritious, affordable, tasty, safe, and sustainable food products. With an excellent nutrition profile, good taste, wide usability properties, InnovoPro’s chickpea protein is the best choice for the growing plant-based protein market.</p>

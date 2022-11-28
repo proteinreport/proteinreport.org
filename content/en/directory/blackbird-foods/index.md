@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8464
 ---
 <p>Blackbird Foods is a plant-based food company producing wholesale and retail seitan, frozen pizza, and plant-based meat.</p>

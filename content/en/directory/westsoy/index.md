@@ -19,6 +19,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5560
 ---
 WESTSOY plant-based beverages and meatless products prove that heart healthy, good-for-you can be tasty and fun, too.
 

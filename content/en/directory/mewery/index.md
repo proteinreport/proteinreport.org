@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10908
 ---
 <p>Mewery is the first European foodtech startup developing cultivated pork on microalgae base. Thanks to Mewery, people all over Europe, Asia and further will be able to enjoy real pork meat, juicy and healthy, but with one huge difference: without having to kill a single pig or harming the planet. Mewery is using their own hybrid culture medium with microalgae extracts and developing 3D structures on microalgae scaffolds.</p>

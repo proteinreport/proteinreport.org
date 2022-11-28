@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9366
 ---
 <p>We make delicious cheese from plant-derived dairy proteins, supporting a larger mission of creating a radically more humane and sustainable food system. Our cheese stretches, melts, and tastes as great as the ones from cows and goats - minus the animals.</p>

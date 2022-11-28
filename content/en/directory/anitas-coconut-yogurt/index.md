@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5629
 ---
 <p>Anita’s is a creamy, full-fat yogurt made from coconut milk, cultured with own proprietary blend of probiotics which give the consistency of whole milk Greek-yogurt.</p>

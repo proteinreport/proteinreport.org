@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5696
 ---
 <p>The Vegg produces and distributes the world’s healthiest 100% plant based-egg substitutes. The Vegg&#039;s products are all 100% plant-based, cholesterol free, gluten free and Kosher.</p>

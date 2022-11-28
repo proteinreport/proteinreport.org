@@ -3,7 +3,7 @@ title: "China Alternative Protein News Media Platform, NewProtein.cn, Launched b
 date: 2021-08-18 09:38:24
 lastmod: 2021-08-18 09:38:24
 slug: /china-alternative-protein-news-media-platform-newproteincn-launched-lever-china
-company: "Lever VC"
+company: 1332
 description: "Comprehensive news portal covers product launches, investments, and other developments for the plant-based and cultivated meat sectors in China"
 excerpt: "Comprehensive news portal covers product launches, investments, and other developments for the plant-based and cultivated meat sectors in China"
 proteins: [Cell-Based, Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release]
-directory: [Lever VC, Avant Meats, CellX, Herotein, Haofood]
+directory: [1332, 5810, 8329, 8412, 8756]
 images: ["Lever-China-full-logo.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9514
 ---
 <p><strong>Shanghai –</strong> Lever China, a Shanghai-based consultancy specializing in the alternative protein sector, announced today the launch of a new media platform covering China’s growing alternative protein industry, <a href="http://www.newprotein.cn">http://www.newprotein.cn</a> . The news portal provides comprehensive coverage for industry players, investors and consumers to facilitate the flow of information and accelerate the growth of the alternative protein industry in China.</p>
 <p>Lever China’s NewProtein.cn news platform launched with more than 450 news articles on the alternative protein industry, including plant-based, cultivated, and fermented protein products and companies. The majority of the news coverage (over 80%) is China-focused, with additional content on the latest industry developments around the globe. The platform covers new protein brands and products; product launches into foodservice and retail outlets; investment and financing events; recent research into the health of plant-based proteins; and industry research reports and analysis.</p>

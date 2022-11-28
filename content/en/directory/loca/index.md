@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5645
 ---
 Loca plant-based cheese sauce is made with non-GMO ingredients and is free from added flavors and sugars. It works great as a dip, sauce or topping; on tacos, burgers, french fries, chips, bake potatoes, pretzels… the possibilities are endless!

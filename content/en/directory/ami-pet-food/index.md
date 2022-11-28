@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1226
 ---
 <p>Amì is an Italian company producing a plant-based pet food and distributing it to the international market.</p>

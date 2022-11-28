@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1330
 ---
 <p>High Peaks plant-based sausage manufactures delicious sausage made from white beans, fresh vegetables and premium seasonings. High Peaks was designed by a third-generation sausage maker to fuel active lifestyles with real, whole foods. Always meat-free, high in protein, and non-GMO.</p>

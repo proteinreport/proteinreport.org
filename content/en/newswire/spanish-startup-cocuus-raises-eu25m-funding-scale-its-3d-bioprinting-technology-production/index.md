@@ -3,7 +3,7 @@ title: "Spanish startup Cocuus raises €2,5M in Funding to scale its 3D bioprin
 date: 2022-06-08 08:44:38
 lastmod: 2022-06-08 08:44:38
 slug: /spanish-startup-cocuus-raises-eu25m-funding-scale-its-3d-bioprinting-technology-production
-company: "Cocuus System Iberica"
+company: 8457
 description: "Spanish startup Cocuus has raised 2,5 million euros in its Pre Series A funding round for its innovative process for producing plant or cell-based animal protein food analogs."
 excerpt: "Spanish startup Cocuus has raised 2,5 million euros in its Pre Series A funding round for its innovative process for producing plant or cell-based animal protein food analogs."
 proteins: [Cell-Based, Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Big Idea Ventures, Cocuus System Iberica, Innomy, Eatable Adventures]
+directory: [6600, 8457, 9233, 10963]
 images: ["Team.jpg"]
 additional_images: ["Salmon.jpg", "Bacon2.jpg", "Meat.jpeg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10962
 ---
 <p>The Spanish startup Cocuus has raised 2,5 million euros in its Pre Series A funding round for its innovative process for producing plant or cell-based animal protein food analogs. The company achieved this round after completing Eatable Adventures' acceleration program, one of the top three global accelerators for food tech startups.</p>
 <p>The round was led by Big Idea Ventures, the global alternative protein fund, the U.S. multinational Cargill Ventures, the Spanish accelerator Eatable Adventures and Tech Transfer UPV. With a capital injection of this size, the startup can scale its business model and expand into other international markets, enabling them to utilize their disruptive 3D bioprinting and robotics technologies to create more sustainable and nutritious food products.</p>

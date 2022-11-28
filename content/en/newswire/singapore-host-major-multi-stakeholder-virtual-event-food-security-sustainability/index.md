@@ -18,7 +18,7 @@ additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9490
 ---
 <p>Singapore – To address the potential impact to the global food system from the twin effects of the Covid-19 pandemic and climate change, government officials and top-level executives from the Asia Pacific region will be attending the Global Food Security & Sustainability Virtual Summit 2021 on 17 September 2021.</p>
 <p>Singapore’s Minister for Sustainability and the Environment, Ms Grace Fu, will be delivering the opening address for the event. Providing the keynote address will be A/Prof Matthew Tan, the co-chair for Sustainable Development in Agriculture & Fishery Sectors for APEC Policy Partnership on Food Security on the topic: Global Food Security – The Next Frontier In The Agriculture And Aquaculture Industry.</p>

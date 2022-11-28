@@ -12,13 +12,13 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [International]
 flags: [Press Release]
-directory: [The Protein Brewery, Mushlabs, Biomilq, Shiru, Tiamat Sciences, Sophie's Bionutrients, Hoxton Farms]
+directory: [1356, 5660, 6178, 7174, 7241, 8332, 8360]
 images: ["Meet the Start-Ups.png"]
 additional_images: ["Innovation Challenge FFT (1).png", "Innovation Challenge FFT (2).png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8454
 ---
 <p><strong>The unshakable determination of food-tech start-ups in the face of the unprecedented challenges the world has experienced this year shows the pivotal role they will play in the future of food-tech.</strong></p>
 <p>At Future Food-Tech’s flagship summit on March 11-12, nineteen start-ups will showcase their breakthrough technologies, their transformative solutions and, above all, their passion to drive forward change across the most pressing topics in the industry: <strong>Gut Health and the Microbiome, Plant-Based Alternatives, Cell-Based Proteins, Ingredient Innovation, Food Waste </strong>and<strong> the Supply Chain.</strong></p>

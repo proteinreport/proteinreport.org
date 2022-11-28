@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5542
 ---
 Sunfed meats are made from premium yellow pea protein, they cook, feel and taste just like animal meat but are healthier, both for you and the planet.

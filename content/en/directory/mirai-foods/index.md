@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5803
 ---
 <p>Founded in 2019, Mirai Foods <span class="caps">AG</span> is a young, Switzerland-based biotech start-up that aims to bring Cultured Meat to the masses. Mirai does not want to convert the 95% meat-eating population to vegetarians. Instead, they want to create an improved meat that gives all the taste and nutrients of “legacy meat” but is produced in a clean-room environment by growing animal stem cells into muscle tissue. This process allows for elimination of 80%-90% of waste in meat production in terms of water, land, greenhouse gases and calorie-conversion factor, and also does not need antibiotics. Once the technology scales up, it will also be cheaper than legacy&nbsp;meat.</p>

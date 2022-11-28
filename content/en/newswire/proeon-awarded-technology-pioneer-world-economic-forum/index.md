@@ -3,7 +3,7 @@ title: "Proeon Awarded as Technology Pioneer by World Economic Forum"
 date: 2022-05-10 07:42:56
 lastmod: 2022-05-10 07:42:56
 slug: /proeon-awarded-technology-pioneer-world-economic-forum
-company: "Proeon"
+company: 8176
 description: "Proeon, an India based start-up that produces next generation plant-based proteins that are superior in functional, nutritional and sensory profiles, was selected among hundreds of candidates as one of the World Economic Forum’s “Technology Pioneers”."
 excerpt: "Proeon, an India based start-up that produces next generation plant-based proteins that are superior in functional, nutritional and sensory profiles, was selected among hundreds of candidates as one of the World Economic Forum’s “Technology Pioneers”."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Ingredients]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release]
-directory: [Good Food Institute, Proeon]
+directory: [698, 8176]
 images: ["proeon.jpg"]
 additional_images: ["Proeon logo.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10828
 ---
 <p>Pune, India 10 May 2022 - Proeon, an India based start-up that produces next generation plant-based proteins that are superior in functional, nutritional and sensory profiles, was selected among hundreds of candidates as one of the World Economic Forum’s “Technology Pioneers”. Proeon is an R&D driven ingredient innovation company, founded by Ashish Korde and Kevin Parekh in 2018, which develops plant-based ingredients to make food sustainable for people and the planet by making plant-based proteins that are comparable to animal sources in nutritional value and better for the population and planet.</p>
 <p>The World Economic Forum’s Technology Pioneers are early to growth-stage companies from around the world that are involved in the use of new technologies and innovation that are poised to have a significant impact on business and society.</p>

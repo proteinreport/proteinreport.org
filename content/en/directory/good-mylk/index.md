@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6122
 ---
 Good Mylk makes plant-based food affordable and accessible in India via delicious, affordable, plant-based alternatives to dairy.

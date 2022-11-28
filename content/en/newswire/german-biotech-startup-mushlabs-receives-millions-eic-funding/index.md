@@ -3,7 +3,7 @@ title: "German biotech startup Mushlabs receives millions in EIC funding"
 date: 2022-06-13 16:43:30
 lastmod: 2022-06-13 16:43:30
 slug: /german-biotech-startup-mushlabs-receives-millions-eic-funding
-company: "Mushlabs"
+company: 5660
 description: "Hamburg-based biotech startup Mushlabs has been selected from more than 1,000 startups for the EU's prestigious EIC Accelerator program to receive up to €17.5 million of the program's €382 million in total capital."
 excerpt: "Hamburg-based biotech startup Mushlabs has been selected from more than 1,000 startups for the EU's prestigious EIC Accelerator program to receive up to €17.5 million of the program's €382 million in total capital."
 proteins: [Fungi]
@@ -11,13 +11,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Mushlabs]
+directory: [5660]
 images: ["Mushlabs Founders_Mazen Rizk_Cathy Preißer_Thibault Godard (1).jpg"]
 additional_images: ["Mushlabs CEO and Founder_Dr. Mazen Rizk.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10994
 ---
 <p><strong>EU invests in a safe and sustainable food system</strong></p>
 <p><strong>Hamburg-based biotech startup Mushlabs has been selected for the EU's prestigious EIC Accelerator program. More than 1,000 startups and small businesses from Europe applied to receive a share of the €382 million in total capital. 74 outstanding companies will now each receive funding of up to 17.5 million Euros - with Mushlabs receiving an eight-digit figure. Through the EIC Accelerator program, the EU aims to support technology startups that address societal challenges and drive breakthrough European innovations. This year, five companies from the food sector are represented. For CEO and founder, Dr. Mazen Rizk, Mushlabs’ selection is a clear sign that Europe is focusing on ensuring a safe and sustainable food supply.</strong></p>

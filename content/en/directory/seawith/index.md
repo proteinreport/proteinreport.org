@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9143
 ---
 <p>Seawith is a Korean company that is using algae as a raw material in cell media and scaffolding in order to produce cultivated beef.</p>

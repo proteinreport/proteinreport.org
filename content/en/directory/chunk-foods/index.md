@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8891
 ---
 <p>Chunk Foods is combining plant-based ingredients and food-grade microorganisms to deliver the textures, flavours, and nutritional benefits of whole muscle cut meat without its moral and environmental costs.</p>

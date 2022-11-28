@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 237
 ---
 <p>Finless Foods provides a cruelty-free source of healthy fish protein. The company has developed an effective technique to grow cells taken from living marine animals into food items such as fish filets for consumption. This technique is an efficient and humane solution to the problem of fish scarcity and ocean pollution. Finless Foods plans to make healthy fish protein available and affordable for everyone.</p>

@@ -3,7 +3,7 @@ title: "Nature’s Fynd Begins Production, Raises $80 Million Series B to Commer
 date: 2020-03-24 12:08:01
 lastmod: 2020-03-24 12:08:01
 slug: /natures-fynd-begins-production-raises-80-million-series-b-commercialize-new-world-protein
-company: "Nature's Fynd"
+company: 5861
 description: "Nature’s Fynd, a food tech company producing a protein from a microbe originally discovered in the geothermal springs of Yellowstone’s ancient volcano, has raised $80 million in new funding."
 excerpt: "Nature’s Fynd, a food tech company producing a protein from a microbe originally discovered in the geothermal springs of Yellowstone’s ancient volcano, has raised $80 million in new funding."
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
-directory: [Nature's Fynd]
+directory: [5861]
 images: ["CEO Thomas Jonas 1.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 6527
 ---
 <p><em>Generation Investment Management and Breakthrough Energy Ventures co-lead investment in alternative meat and dairy company</em></p>
 

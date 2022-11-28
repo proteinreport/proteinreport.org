@@ -18,7 +18,7 @@ additional_images: ["FFTLON21 - Innovation Challenge Winner (1).png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9766
 ---
 <p><strong>The Kraft Heinz Challenge</strong>: Unlock the power of Beanz with solutions that bring beans or pulses as an application or ingredient to the menu of its consumers.</p>
 <p>Over 120 innovators from around the world submitted their solutions to solve the challenge set by Kraft Heinz.</p>

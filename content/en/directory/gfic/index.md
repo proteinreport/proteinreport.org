@@ -15,5 +15,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7315
 ---
 <p>GFIC is a Shanghai-based consultancy focused on plant-based and cellular agriculture food industries for China. We work with scientists, startups, corporations and investors developing or diversifying into sustainable proteins.</p>

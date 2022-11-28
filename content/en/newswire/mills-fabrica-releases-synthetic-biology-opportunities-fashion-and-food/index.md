@@ -18,7 +18,7 @@ additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9330
 ---
 <p><strong>15 Jul. 2021</strong> - The Mills Fabrica is thrilled to launch a new report - “<strong>Synthetic Biology Opportunities in Fashion and Food</strong>”. Synthetic biology, short for synbio, a new discipline within modern biotechnology that aims to precisely design and redesign new and existing biological systems. This enables the creation of new products with specific, customized functions, offering promising solutions to various industry challenges, including developing bio-based dyes to minimize the use of toxic chemical dyes, creating alternative proteins to reduce the reliance on livestock farming, and more.</p>
 <p>The synbio sector is expected to have high growth potential, projecting to grow at 24% CAGR to 2025.</p>

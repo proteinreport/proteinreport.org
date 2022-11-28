@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5687
 ---
 <p>Vixen Kitchen is Northern California’s locally made, plant-based gelato created out of the amazing combination of organic raw cashews and organic maple syrup.</p>

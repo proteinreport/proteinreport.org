@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10643
 ---
 <p>CULT Food Science is an investment company focused on supporting and advancing the technology behind the future of food. It identifies and makes equity investments in global cultivated meat and dairy companies that are developing and commercializing innovative food technologies that enable a kinder, more secure, and more sustainable food supplychain.</p>

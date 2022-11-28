@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1353
 ---
 <p>New Culture is focusing on producing casein, a protein that coagulates to give mozzarella cheese its stretchy texture.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8329
 ---
 <p>Cellular agriculture startup creating cell-cultivated meat products. Our goal is to provide sustainable animal protein, enhance human health, and improve animal welfare.</p>

@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10918
 ---
 <p>Providing sustainable protein for a better future on this planet. Brevel&#039;s unique microalgae based protein is flavor and color neutral, has a full amino-acid profile, is highly functional and is affordable for the food industry. Thanks to our breakthrough technology, we introduce a paradigm shift to the microalgae and the plant based protein industries.</p>

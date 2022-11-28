@@ -19,6 +19,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5805
 ---
 <p>Heuros is working on producing healthy, tasty and sustainable meat.<br />
 The company is growing muscle cells without using foetal bovine serum (<span class="caps">FBS</span>), blood products, genetic engineering/modification (<span class="caps">GE</span>/<span class="caps">GM</span>), recombinant growth factors, pluripotent stem cells, steroids, or antibiotics.<br />

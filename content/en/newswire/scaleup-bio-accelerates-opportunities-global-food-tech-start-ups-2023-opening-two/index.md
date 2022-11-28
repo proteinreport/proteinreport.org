@@ -3,7 +3,7 @@ title: "Scaleup Bio Accelerates Opportunities for Global Food Tech Start-Ups wit
 date: 2022-10-26 06:42:57
 lastmod: 2022-10-26 06:42:57
 slug: /scaleup-bio-accelerates-opportunities-global-food-tech-start-ups-2023-opening-two
-company: "ScaleUp Bio"
+company: 11174
 description: "ScaleUp Bio, a new, Singapore-homegrown precision fermentation solutions provider – a joint venture company of ADM and Temasek’s Nurasa – is positioning itself to emerge as a key enabler towards unlocking innovation for global food tech start-ups needing dedicated food-grade precision fermentation laboratory facilities and more."
 excerpt: "ScaleUp Bio, a new, Singapore-homegrown precision fermentation solutions provider – a joint venture company of ADM and Temasek’s Nurasa – is positioning itself to emerge as a key enabler towards unlocking innovation for global food tech start-ups needing dedicated food-grade precision fermentation laboratory facilities and more."
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Ingredients]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release]
-directory: [ScaleUp Bio]
+directory: [11174]
 images: ["scaleup.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11175
 ---
 <ul>
 <li>First dedicated food-grade precision fermentation laboratories in Singapore and amongst few in the world truly catered towards start-ups and emerging food tech companies</li>

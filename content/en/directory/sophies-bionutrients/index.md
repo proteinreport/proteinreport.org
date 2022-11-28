@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8332
 ---
 <p>Sophie’s Bionutrients is on a mission to unleash the limitless possibilities of nature, restore our planet and eliminate food allergies by creating plant-based, protein-rich alternatives to meat and seafood using microalgae, the mother of all food and plant life.</p>

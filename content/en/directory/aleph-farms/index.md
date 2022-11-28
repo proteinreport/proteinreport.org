@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5816
 ---
 <p>Aleph Farms, an Israel based food company that grows cultivated beef steaks. Aleph Farms’ production method of cultivated beef steaks relies on mimicking a natural process of muscle-tissue regeneration occurring inside the cow&#8217;s body, but under controlled&nbsp;conditions.</p>

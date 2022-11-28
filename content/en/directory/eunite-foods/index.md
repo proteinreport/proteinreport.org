@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5950
 ---
 <p>Eunite (pronounced “you-nite”), established in 2019, is the food and ingredient brand for Noblegen. All of Noblegen’s ingredients and food products will fall under the Eunite brand. Eunite is an idea. It is a movement. It is a chance to change the way we think about food. Eunite gives the consumer an opportunity to push back against the traditional food industry as we know it today. We’re euniting people that want to take a stand and make a difference.</p>

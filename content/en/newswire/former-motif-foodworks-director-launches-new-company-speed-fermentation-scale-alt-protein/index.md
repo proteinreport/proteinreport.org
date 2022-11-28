@@ -3,7 +3,7 @@ title: "Former Motif FoodWorks Director Launches New Company to Speed Fermentati
 date: 2022-09-21 13:53:02
 lastmod: 2022-09-21 13:53:02
 slug: /former-motif-foodworks-director-launches-new-company-speed-fermentation-scale-alt-protein
-company: "Boston Bioworks"
+company: 11153
 description: "Co-Founder Michael Tai, who led the development and scale-up of key alternative protein ingredient heme as Head of Bioprocess at Motif, launches Boston Bioworks to help startups more quickly commercialize fermentation-based ingredients amid severe sector bottlenecks"
 excerpt: "Co-Founder Michael Tai, who led the development and scale-up of key alternative protein ingredient heme as Head of Bioprocess at Motif, launches Boston Bioworks to help startups more quickly commercialize fermentation-based ingredients amid severe sector bottlenecks"
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Ingredients]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [Lever VC, Motif Foodworks, Boston Bioworks]
+directory: [1332, 5678, 11153]
 images: ["Michael Tai Headshot_0.jpeg"]
 additional_images: ["Mert Sahin Headshot.jpg", "Ted Netland Headshot.jpg", "BB_logo_fullcolor.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11154
 ---
 <p><em>Co-Founder Michael Tai, who led the development and scale-up of key alternative protein ingredient heme as Head of Bioprocess at Motif, launches Boston Bioworks to help startups more quickly commercialize fermentation-based ingredients amid severe sector bottlenecks</em></p>
 <p><strong>Boston, MA </strong>— Boston Bioworks, a provider of advanced fermentation process development and scale-up services to bio-ingredient companies, formally announced its launch today. The company brings extensive experience in commercial-scale fermentation to an industry that’s facing significant bottlenecks. Fermentation-based companies in the alternative protein sector raised <a href="https://techcrunch.com/2022/06/15/investors-salivate-over-food-tech-companies-perfecting-precision-fermentation/">$1.7 billion in 2021</a>, a threefold increase from 2020, with <a href="https://www.bcg.com/press/23march2021-alternative-protein-market-reach-290-billion-by-2035">Boston Consulting Group</a> and others projecting the sector will continue to expand rapidly. As a result of the steep increase in investment and company formation, the sector is now facing severe supply shortages in fermentation scale-up expertise and assets.</p>

@@ -3,7 +3,7 @@ title: "Bluu Biosciences appoints Chris Dammann as inaugural Chief Operating Off
 date: 2021-08-19 07:39:00
 lastmod: 2021-08-19 07:39:00
 slug: /bluu-biosciences-appoints-chris-dammann-inaugural-chief-operating-officer
-company: "Bluu Seafood"
+company: 7856
 description: "Europe's first company for cultivated fish onboards renowned expert to speed up large-scale production of cultivated fish products."
 excerpt: "Europe's first company for cultivated fish onboards renowned expert to speed up large-scale production of cultivated fish products."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Seafood]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release]
-directory: [BlueNalu, Bluu Seafood]
+directory: [5829, 7856]
 images: ["Executive Team Bluu Biosciences.jpg"]
 additional_images: ["Chris Dammann_COO Bluu Biosciences_copyright Bluu GmbH.jpg", "R&D for cell-based fish_copyright Bluu Biosciences (1).jpg", "Logo_highres.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9517
 ---
 <p><strong>Europe's first company for cultivated fish onboards renowned expert to speed up large-scale production of cultivated fish products. </strong></p>
 <p><strong>Berlin, August 19th, 2021.</strong> Bluu Biosciences, pioneer in the development and production of cultivated fish in Europe, has appointed Chris Dammann as the company’s first COO. He is considered one of the world's leading experts in cellular agriculture and cultivated fish development. A native German, Chris traded Europe for the U.S. early in his career and looks back on many years of experience in research, management, R&D operations, product development and intellectual property.</p>

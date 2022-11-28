@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 11143
 ---
 <p>Aliga Microalgae is a Danish food-tech company specialising in developing, producing and commercialising protein-rich and functional Chlorella algae ingredients for food and supplement applications. Currently, it is the only industrial producer of Chlorella microalgae in Scandinavia. The company has developed a proprietary white Chlorella ingredients with improved organoleptic properties. This innovative ingredient is a non-GMO superfood that only consists of fermented and dried Chlorella algae which makes it highly applicable in a broad variety of formulations, from meat &amp; seafood analogues to savory, bakery, and animal-free dairy products.</p>

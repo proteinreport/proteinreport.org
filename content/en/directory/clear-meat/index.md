@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5813
 ---
 <p>Based in India, ClearMeat is on its way to produce the world’s first chicken mince and move on to products such as tandoori chicken and chicken tikka masala from there. Chicken is the main source of animal protein in India and as the country’s population steadily grows and the people’s economic power with it, chicken consumption also seems to be growing rapidly. ClearMeat’s goal is to provide sustainable, healthy, and affordable meat alternatives to a growing&nbsp;population.</p>

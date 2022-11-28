@@ -3,7 +3,7 @@ title: "108labs Building World’s First Cell-Cultured Human Milk Factory in Hil
 date: 2021-06-21 09:19:15
 lastmod: 2021-06-21 09:19:15
 slug: /108labs-building-worlds-first-cell-cultured-human-milk-factory-hillsborough-nc
-company: "108Labs"
+company: 8550
 description: "Today, 108Labs is building Earth’s first autonomous Cellufacturing® facility to enable continuously scalable, cost-effective, automated food scale production of cell cultured human milk."
 excerpt: "Today, 108Labs is building Earth’s first autonomous Cellufacturing® facility to enable continuously scalable, cost-effective, automated food scale production of cell cultured human milk."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Dairy]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [108Labs]
+directory: [8550]
 images: ["LabShot.jpg"]
 additional_images: ["108LabsCellufacturingFacility.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9187
 ---
 <p class="text-align-center"><em>108Labs is building Earth’s first autonomous Cellufacturing® facility to enable continuously scalable, cost-effective, automated food-scale production of cell-cultured human milk</em></p>
 

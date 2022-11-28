@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5689
 ---
 <p>Silk was founded on a promise to make the world a healthier place. Silk believes that plant-based foods are the best way to nourish people and the planet. Today Silk offers a broad portfolio of nutritious, great-tasting plant-based options, including soymilk, almondmilk, cashewmilk, coconutmilk, oatmilk, dairy-free coffee creamers, and dairy-free yogurt alternatives. Silk’s entire plant-based portfolio is verified by the Non-GMO Project, and the company also offers Silk almondmilk and Silk soymilk in organic options.</p>

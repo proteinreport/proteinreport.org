@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 11053
 ---
 <p>Biobritte agro is fungi protein-based company. Biobritte is working on a fungi-based protein that can replace meat-based proteins. Biobritte grows different medicinal mushrooms. Biobritte was established in 2018 and became India&#039;s top mushroom company in a little span of time.</p>

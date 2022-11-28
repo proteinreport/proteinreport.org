@@ -3,7 +3,7 @@ title: "The Future of Dairy Arrives to Mylkcubator’s Demo Day"
 date: 2022-04-22 09:19:23
 lastmod: 2022-04-22 09:19:23
 slug: /future-dairy-arrives-mylkcubators-demo-day
-company: "Eatable Adventures"
+company: 10963
 description: "The first edition of Mylkcubator, the incubation program launched by Pascual Innoventures in collaboration with Eatable Adventures, has held its eagerly anticipated Demo Day event showcasing the advances of the first cohort of startups, at its headquarters in Manoteras, Madrid."
 excerpt: "The first edition of Mylkcubator, the incubation program launched by Pascual Innoventures in collaboration with Eatable Adventures, has held its eagerly anticipated Demo Day event showcasing the advances of the first cohort of startups, at its headquarters in Manoteras, Madrid."
 proteins: [Cell-Based, Microbial]
@@ -11,13 +11,13 @@ products: [Dairy]
 topics: [Business]
 regions: [International]
 flags: [Press Release]
-directory: [De Novo Dairy, Real Deal Milk, Eatable Adventures]
+directory: [10451, 10457, 10963]
 images: ["52020731810_c961bbd9d0_o.jpeg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10752
 ---
 <p>The first edition of <a href="https://mylkcubator.com/">Mylkcubator</a>, the incubation program launched by <a href="https://pascualinnoventures.com/"><strong>Pascual Innoventures</strong></a> in collaboration with<a href="https://www.eatableadventures.com/"><strong> Eatable Adventures</strong></a>, has held its eagerly anticipated Demo Day event showcasing the advances of the first cohort of startups, at its headquarters in Manoteras, Madrid.</p>
 <p>The program not only showcased pioneering dairy projects around the world but also <strong>laid the foundation for a new path of development and innovation for the industry</strong> to face some of its greatest challenges.</p>

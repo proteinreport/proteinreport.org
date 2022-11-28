@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5608
 ---
 <p>NexVeg, a revolutionary whole-food plant-based protein brand, has launched a Kickstarter campaign to introduce its delicious, non-allergen, non-GMO products to high-performance, health-conscious and environmentally aware people across the nation.</p>

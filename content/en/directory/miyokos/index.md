@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1248
 ---
 <p>Miyoko’s is revolutionizing the dairy industry by combining proprietary technology with age-old creamery methods to craft cheese and butter from plants.</p>

@@ -16,6 +16,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5802
 ---
 <p>Cell Farm is developing <span class="amp">&amp;</span> standardizing a biotechnological process to produce meat from animal stem cells avoiding raising cattle and its&nbsp;counterparts.</p>
 <p>By performing a non-invasive micro biopsy to the animal they obtain the stem cells, then proliferate and differentiate those cells into muscle and fat tissue mimicking the process as it would happen naturally in the&nbsp;animal.</p>

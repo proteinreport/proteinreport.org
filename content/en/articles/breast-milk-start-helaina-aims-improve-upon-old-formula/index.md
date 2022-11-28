@@ -10,13 +10,14 @@ products: [Dairy]
 topics: [Business, Health]
 regions: [US &amp; Canada]
 flags: [Editors&#039; Picks, Featured]
-directory: [TurtleTree Labs, Biomilq, Helaina]
+directory: [1249, 6178, 7022]
 contributors: [Samantha Sanders]
 images: [Helaina Team.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 7032
 ---
 <p>While most grocery stores now stock a seemingly endless variety of dairy alternatives derived from nuts, seeds, or grains, what most consumers don’t yet know is that a new kind of real milk—created not by cows but scientists—will likely be joining them on the shelves very soon.</p>
 

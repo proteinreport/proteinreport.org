@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 704
 ---
 <p>We provide Angel, Seed and Series A funding to early-stage companies with the potential to transform the trillion-dollar global market of industrial animal agriculture--a system at its economic, environmental, and ethical breaking point.</p>

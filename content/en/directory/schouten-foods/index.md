@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1296
 ---
 <p>Schouten is specialist in the development, production, and packaging of meat substitutes. The family business started as a bakery back in 1893. In 1990, Schouten became the first Dutch company to develop meat substitutes based on vegetable proteins. Schouten's products are sold under their own GoodBite brand and under private labels in supermarkets both in the Netherlands and abroad.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5550
 ---
 <p>Franklin Farms began over 20 years ago on an actual mushroom farm in Franklin, Connecticut. Since then, the company have been bringing meatless meals from field to table. The company has crafted a range of health-conscious vegetarian products that span day parts, meal types, and taste profiles. From quick bite to sit-down dinner, Franklin Farms makes cooking with and eating plant-based proteins easy and delicious.</p>

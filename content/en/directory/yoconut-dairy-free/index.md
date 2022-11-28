@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7500
 ---
 <p>Yoconut Dairy Free is a plant-based food innovation company. We are people obsessed about creating delicious food that is healthy and allergy friendly (safe). That means, aside from coconuts, you will never find any of the big 8 most common food allergens in our foods.</p>

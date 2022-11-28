@@ -3,7 +3,7 @@ title: "Orbillion's big Davos announcement: their cultured meat products will ac
 date: 2022-05-25 13:00:51
 lastmod: 2022-05-25 13:00:51
 slug: /orbillions-big-davos-announcement-their-cultured-meat-products-will-achieve-price-parity
-company: "Orbillion Bio"
+company: 7349
 description: "Orbillion’s cell-cultured meats will reach price parity in 2026, and commodity pricing for beef in 2030. The recent announcement comes just days before CEO and Co-Founder, Patricia Bubner, PhD, will present in Davos, Switzerland, where the World Economic Forum (WEF) is holding its annual meeting. Bubner will share how they plan to democratize access to delicious and healthful cell-cultured meat to help address food insecurity."
 excerpt: "Orbillion’s cell-cultured meats will reach price parity in 2026, and commodity pricing for beef in 2030. The recent announcement comes just days before CEO and Co-Founder, Patricia Bubner, PhD, will present in Davos, Switzerland, where the World Economic Forum (WEF) is holding its annual meeting. Bubner will share how they plan to democratize access to delicious and healthful cell-cultured meat to help address food insecurity."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [Orbillion Bio]
+directory: [7349]
 images: ["Orbillion_FoundingTeam_Nov2021.jpg"]
 additional_images: ["Orbillion_CellCulturedWagyuBao_May2022.jpg", "Orbillion_CellCulturedWagyuLarb_May2022.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10870
 ---
 <p>(San Francisco, California) - Orbillion’s cell-cultured meats will reach price parity in 2026, and commodity pricing for beef in 2030. The recent announcement comes just days before CEO and Co-Founder, Patricia Bubner, PhD, will present in Davos, Switzerland, where the World Economic Forum (WEF) is holding its annual meeting. Bubner will share how they plan to democratize access to delicious and healthful cell-cultured meat to help address food insecurity.</p>
 <p>Orbillion splashed on the scene with their first public tasting in which they showcased 3 different delicious meats (pre-regulatory approval). The real kicker? It was after only four months of development, proving that the team at Orbillion has the requisite technical expertise and can move fast, in fact 18x faster and 10x cheaper than other cell-cultured meat companies.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5589
 ---
 <p>Lavva is a luscious plant-based yogurt cleanly crafted with nourishing whole food ingredients, and no added sugar. The company thoughtfully sources the ingredients and transforms them into magic, using a blend of pili nuts, coconuts, plantains, organic real fruit, and live probiotic cultures.</p>

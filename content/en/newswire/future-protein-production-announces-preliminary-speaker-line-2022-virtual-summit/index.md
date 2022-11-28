@@ -12,13 +12,13 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [International]
 flags: [Press Release]
-directory: [Quorn, The Better Meat Co., Big Idea Ventures, Cellular Agriculture Australia]
+directory: [1143, 1170, 6600, 7131]
 images: ["616ff936a33c36820618fbae_Future of Protein Production Summit Dates - White - PNG-p-800.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10166
 ---
 <p>LONDON (December 9, 2021) – The Organisers of the Future of Protein Production Summit have announced the preliminary speaker line-up for their upcoming conference, scheduled for March 8-10, 2022. </p>
 <p>Touted as ‘The World's Largest Alternative Protein Production Technology Conference’, The Future of Protein Production Summit is a calendar event targeting companies involved in making the global food system more sustainable. Over 1000 attendees are expected to converge online for the three-day virtual conference, which will showcase the latest research and trends to help develop sustainable production technologies and exploration of highly sustainable processes and solutions to help make the global food system more sustainable, kind, and fair for the planet, people, and animals.   </p>

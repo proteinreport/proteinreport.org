@@ -10,13 +10,14 @@ products: [Meat]
 topics: [Business]
 regions: [International]
 flags: [Interview, Video, Featured]
-directory: [Eat Just, Beyond Meat, Impossible Foods, New Crop Capital, Quorn, Meatless Farm, Blue Horizon Ventures, Formo, Meatable, Mosa Meat, Shiok Meats, BlueNalu, Agronomics, VitroLabs Inc]
+directory: [234, 694, 695, 704, 1143, 1171, 1212, 1303, 5819, 5820, 5821, 5829, 6149, 8345]
 contributors: [Doug Grant]
 images: []
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 8358
 ---
 <p>Investor and author Jim Mellon talks one-on-one with Doug Grant, host of the <em><a href="https://bravenewmeat.buzzsprout.com/" target="_blank">Brave New Meat</a></em> podcast, to discuss his new book, <em><a href="https://mooslawbook.com/" target="_blank">Moo’s Law</a></em>, and the investment opportunity in cultivated meat.</p>
 

@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6178
 ---
 <p>We leverage our patent-pending technology to produce nutritionally equivalent breastmilk from cultured human mammary cells. With Biomilq, families can achieve the recommended six months of exclusive breastfeeding while alleviating the climate impacts of bovine-based infant formula.</p>

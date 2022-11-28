@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5845
 ---
 <p>The Atlast Food Platform uses a patented growth environment to align fibers of mycelium to create textures, structures, and even flavors similar to meat. Our edible mycelium tissue offers a range of nutritional benefits from protein to amino&nbsp;acids.</p>

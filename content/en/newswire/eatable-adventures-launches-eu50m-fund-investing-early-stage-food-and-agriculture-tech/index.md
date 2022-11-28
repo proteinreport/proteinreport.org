@@ -3,7 +3,7 @@ title: "Eatable Adventures launches €50M fund for investing in early-stage foo
 date: 2021-10-04 13:29:38
 lastmod: 2021-10-04 13:29:38
 slug: /eatable-adventures-launches-eu50m-fund-investing-early-stage-food-and-agriculture-tech
-company: "Eatable Adventures"
+company: 10963
 description: "Eatable Adventures has just announced the launch of its first €50 million fund: Eatable Evolution Fund FCR I. The vehicle will make early and growth-stage investments targeting the most disruptive startups in food and agriculture tech across Europe and Latin America. This will be the biggest fund of its kind in Spain and one of the top 3 in Europe."
 excerpt: "Eatable Adventures has just announced the launch of its first €50 million fund: Eatable Evolution Fund FCR I. The vehicle will make early and growth-stage investments targeting the most disruptive startups in food and agriculture tech across Europe and Latin America. This will be the biggest fund of its kind in Spain and one of the top 3 in Europe."
 proteins: [Cell-Based, Plant-Based, Fungi]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Cocuus System Iberica, Innomy, Eatable Adventures]
+directory: [8457, 9233, 10963]
 images: ["ea.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9783
 ---
 <p>Eatable Adventures has just announced the launch of its first €50 million fund: <strong>Eatable Evolution Fund FCR I. </strong>The vehicle will make early and growth-stage investments targeting the most disruptive startups in food and agriculture tech across Europe and Latin America. This will be the biggest fund of its kind in Spain and one of the top 3 in Europe.</p>
 <p>This milestone marks a new stage of growth for the company, that has already launched more than 10 accelerator and incubation programs, while collaborating as the go-to<strong> </strong>advisor on open innovation for the leading global food corporations.</p>

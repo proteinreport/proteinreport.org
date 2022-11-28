@@ -18,6 +18,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6280
 ---
 <p>CPT Capital is the venture arm of a leading private family office. As a long-standing dedicated investor in the alternative protein space, CPT Capital has unmatched experience and expertise investing in companies disrupting the food system.</p>
 <p>We partner with the best and the boldest companies driving the food and materials technology revolution. From plant-based protein to recombinant proteins to cell-based meat, we back the most promising solutions from seed all the way through to sale or IPO and longer term.</p>

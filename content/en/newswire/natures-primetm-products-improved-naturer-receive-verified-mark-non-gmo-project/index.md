@@ -3,7 +3,7 @@ title: "Nature’s PRIME™ Products from Improved Nature® Receive Verified Mar
 date: 2021-03-30 14:12:06
 lastmod: 2021-03-30 14:12:06
 slug: /natures-primetm-products-improved-naturer-receive-verified-mark-non-gmo-project
-company: "Improved Nature"
+company: 1153
 description: "Improved Nature, a plant-based protein company, proudly announces that its Nature’s PRIME™ products have earned the Non-GMO Project Verified mark. The Non-GMO Project Product Verification Program is North America’s most rigorous third-party verification for non-GMO food and products."
 excerpt: "Improved Nature, a plant-based protein company, proudly announces that its Nature’s PRIME™ products have earned the Non-GMO Project Verified mark. The Non-GMO Project Product Verification Program is North America’s most rigorous third-party verification for non-GMO food and products."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [Improved Nature]
+directory: [1153]
 images: ["Slices_-_Hydrated_and_PRIME_2048x2048.jpg"]
 additional_images: ["NGPV_full_color.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8682
 ---
 <p><strong>GARNER, N.C. – </strong><strong>March 30, 2021 </strong>–– <a href="http://www.improvednature.com/">Improved Nature</a>, a plant-based protein company, proudly announces that its Nature’s PRIME™ products have earned the Non-GMO Project Verified mark. The Non-GMO Project Product Verification Program is North America’s most rigorous third-party verification for non-GMO food and products.</p>
 <p>“Earning the Verified mark from the Non-GMO Project comes right after receiving <a href="https://improvednature.com/improved-nature-receives-2020-biotechnology-award/">GHP Magazine’s Biotechnology award</a> for the Best Plant-Based Food Product Development Company in the USA,” said President and CEO of Improved Nature, Dr. Rody Hawkins. “These distinctions show our customers that we are providing them with the highest quality sustainable protein available on the market today.”</p>

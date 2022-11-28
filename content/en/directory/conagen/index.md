@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6785
 ---
 <p>Conagen is an accomplished biotechnology company located in the greater Boston biotech corridor. We innovate and develop synthetic biology solutions for supporting global partners across a spectrum of current and developing markets. From our proprietary strain development to fermentation and process scale-up, Conagen impacts partners’ abilities to sell and market products in the food, nutrition, flavor and fragrance, pharmaceutical, and renewable materials industries.</p>

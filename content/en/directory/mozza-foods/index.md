@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8754
 ---
 <p>Mozza Foods is a Los Angeles based startup working on producing cheese made from the proteins found in cows milk using plants rather than the cow. The intention is to create products with all the same functionality associated with cheese while promoting a greener planet.</p>

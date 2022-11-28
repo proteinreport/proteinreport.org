@@ -3,7 +3,7 @@ title: "JUST Egg Launches National ‘Really Good Eggs’ Brand Campaign"
 date: 2021-09-22 16:09:34
 lastmod: 2021-09-22 16:09:34
 slug: /just-egg-launches-national-really-good-eggs-brand-campaign
-company: "Eat Just"
+company: 234
 description: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the launch of a bold new multi-million-dollar brand campaign for its popular plant-based JUST Egg products."
 excerpt: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the launch of a bold new multi-million-dollar brand campaign for its popular plant-based JUST Egg products."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Eggs]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [Eat Just]
+directory: [234]
 images: ["268961.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9729
 ---
 <p><strong>Comedian J.B. Smoove ushers viewers through relatable morning scrambles</strong> </p>
 <p>SAN FRANCISCO -- Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the launch of a bold new multi-million-dollar brand campaign for its popular plant-based JUST Egg products. The “Really Good Eggs” campaign kicks off this week with a series of ads distinctively narrated by comedian and JUST Egg mega-fan J.B. Smoove, known for his role on HBO’s “Curb Your Enthusiasm,” which returns for an 11th season this fall.</p>

@@ -3,7 +3,7 @@ title: "Hyper realistic 3D printed plant based steak, protein creation through f
 date: 2021-06-22 07:16:10
 lastmod: 2021-06-22 07:16:10
 slug: /hyper-realistic-3d-printed-plant-based-steak-protein-creation-through-fermentation-and
-company: "Eatable Adventures"
+company: 10963
 description: "Eatable Adventures presents the 5 startups accelerated, whose value multiplied by a factor of 6.3 after the program"
 excerpt: "Eatable Adventures presents the 5 startups accelerated, whose value multiplied by a factor of 6.3 after the program"
 proteins: [Plant-Based, Fungi]
@@ -11,13 +11,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release]
-directory: [Cocuus System Iberica, Innomy, Eatable Adventures]
+directory: [8457, 9233, 10963]
 images: ["Cocuus Steak.jpg"]
 additional_images: ["Cocuus Bacon.jpeg", "MOA (3).jpg", "Innomy (3).jpg", "Cocuus (4).jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9193
 ---
 <p>Eatable Adventures, one of the three main global foodtech accelerators celebrated last week an investors’ demo day for the first cohort of <em>Spain FoodTech</em>, its main program. Five startups showcased their progress after a 6 months high-performance acceleration program, focused on building strong technology-based startups in the agri-food value chain.</p>
 <p>More than 200 startups applied for the first edition of Spain Foodtech which includes foreign entrepreneurs willing to settle their headquarters in Spain from other countries. </p>

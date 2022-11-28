@@ -10,13 +10,14 @@ products: [Meat, Dairy, Ingredients]
 topics: [Business, Policy]
 regions: [US &amp; Canada]
 flags: [Featured]
-directory: [New Harvest, Good Food Institute, Future Fields, Cellular Agriculture Canada, Opalia]
+directory: [697, 698, 5808, 7109, 8333]
 contributors: [Avery Parkinson]
 images: [CAC Landscape Cover.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 9140
 ---
 <p>Working in the field of cellular agriculture can sometimes feel like being privy to a big secret. Still a nascent industry, with all the accompanying growing pains — the scramble for funding, siloed research as companies race to market, and looming questions of scalability — cell ag professionals are nevertheless largely undaunted by the challenges. Being in on a secret can be emboldening, no doubt, but it’s not an unearned optimism when the field’s potential is this expansive.</p>
 <p>This boldness is a trait cellular agriculture shares with startup culture so it’s no surprise the two can often be found happily co-existing. Across the globe though, the locations of these startups have historically been “spiky,” as urban theorist Richard Florida first noted in 2009 — clustered in a handful of global cities. For cellular agriculture, that’s meant early footholds in Silicon Valley, Israel, Singapore, and Tokyo, among others. But that may be changing.</p>

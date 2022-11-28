@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5638
 ---
 <p>SmithFoods Inc. is producing Ajoyo Almond milk made from almonds, which are toasted, pulped and then blended with pure filtered water. The company does not add artificial ingredients. Ajoyo contains protein, calcium, and vitamins D, E, and B12. </p>

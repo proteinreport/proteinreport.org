@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5778
 ---
 <p>Plant-based egg alternatives for baking and cooking.</p>

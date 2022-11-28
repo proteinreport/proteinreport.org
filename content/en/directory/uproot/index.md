@@ -17,6 +17,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5730
 ---
 Uproot is a plant milk company who cares. The company was founded in 2018 by young people who are passionate about plant milk and sustainability.
 The company started in shared kitchen space in Providence, Rhode Island. Currently they serve the northeastern United States.

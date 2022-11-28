@@ -3,7 +3,7 @@ title: "CellX and Bluu Seafood join forces: China's pioneer in cultivated meat a
 date: 2022-04-07 08:17:53
 lastmod: 2022-04-07 08:17:53
 slug: /cellx-and-bluu-seafood-join-forces-chinas-pioneer-cultivated-meat-and-europes-pioneer
-company: "Bluu Seafood"
+company: 7856
 description: "Bluu Seafood and CellX are joining forces as part of a strategic partnership to support each other along the whole value chain when expanding into the respective markets – this ranges from the procurement of raw materials to the construction of production facilities and possible sales partnerships."
 excerpt: "Bluu Seafood and CellX are joining forces as part of a strategic partnership to support each other along the whole value chain when expanding into the respective markets – this ranges from the procurement of raw materials to the construction of production facilities and possible sales partnerships."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat, Seafood]
 topics: [Business]
 regions: [Asia, Europe]
 flags: [Press Release]
-directory: [Bluu Seafood, CellX, Cellular Agriculture Europe]
+directory: [7856, 8329, 10129]
 images: ["bluu_cellx.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10703
 ---
 <p><strong>Berlin/Shanghai, April 07, 2022. </strong>To ensure the future supply of animal protein to the constantly growing world population we need new methods of food production. Globally, only a few companies are driving cutting-edge R&D efforts to offer alternatives to the conventional production of meat, fish, and poultry. They use animal cells to produce tasty, sustainable products that eliminate animal suffering and promise an ecological footprint far superior to that of factory farming.</p>
 <p>Bluu Seafood (formerly Bluu Biosciences) and CellX, two pioneers in the field of cellular agriculture, have now decided to work together. Bluu Seafood is the first company in Europe specializing in the production of cultivated fish and will present a first product this year. CellX is the leading cultivated meat company in China and has showcased multiple forms of products in 2021. The company is located in Shanghai, the hub for biotech and innovation in China. It started with a focus on domestic Chinese pig breed and has quickly expanded to beef and poultry. Both companies are at the forefront of advancing regulatory approval in their respective region: Chris Dammann, COO of Bluu Seafood, is a VP and board member of Cellular Agriculture Europe, and Ziliang Yang, founder and CEO of CellX, is Secretary of the APAC Society for Cellular Agriculture. Bluu Seafood and CellX are now joining forces as part of a strategic partnership. Going forward, the partners will support each other along the whole value chain when expanding into the respective markets – this ranges from the procurement of raw materials to the construction of production facilities and possible sales partnerships. They plan to jointly establish supply partnerships and also promote consumer acceptance of cultivated protein products. The two companies have a different product focus but are committed to the same goal using similar technologies to make cellular agriculture a reality.</p>

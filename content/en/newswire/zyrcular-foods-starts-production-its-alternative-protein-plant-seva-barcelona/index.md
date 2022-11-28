@@ -12,13 +12,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release]
-directory: [Beyond Meat, Good Food Institute, Gardein, Sophie's Kitchen, Green Vie Foods]
+directory: [694, 698, 1161, 5668, 5794]
 images: ["Santi Aliaga.jpg"]
 additional_images: ["Zyrcular Foods.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8501
 ---
 <ul>
 <li>After an investment of €3.5 million, the factory will start to produce plant-based foods this Spring.</li>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8335
 ---
 <p>Core Biogenesis is building the world&#039;s most scalable bioproduction platform.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7166
 ---
 <p>Musea Ventures portfolio is mainly consists of companies in the Biotech, Bioenergy, Synthetic Biology and healthcare fields. However, given our experience in other markets and fields, we have made opportunistic investments in unique entrepreneurs and companies.</p>

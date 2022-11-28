@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5533
 ---
 Eggless is a Chilian producer of plant-based mayo.

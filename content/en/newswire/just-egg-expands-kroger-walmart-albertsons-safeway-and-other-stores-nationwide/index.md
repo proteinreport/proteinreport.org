@@ -3,7 +3,7 @@ title: "JUST Egg Expands at Kroger, Walmart, Albertsons, Safeway and other store
 date: 2020-09-02 17:07:31
 lastmod: 2020-09-02 17:07:31
 slug: /just-egg-expands-kroger-walmart-albertsons-safeway-and-other-stores-nationwide
-company: "Eat Just"
+company: 234
 description: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the largest expansion yet for its award-winning plant-based egg. By the end of the month, JUST Egg will be available at more than 17,000 points of retail distribution in the United States, a 40% increase and a testament to the breakout success of the pioneering product that launched nationwide last year."
 excerpt: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the largest expansion yet for its award-winning plant-based egg. By the end of the month, JUST Egg will be available at more than 17,000 points of retail distribution in the United States, a 40% increase and a testament to the breakout success of the pioneering product that launched nationwide last year."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Eggs]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [Eat Just, Good Food Institute]
+directory: [234, 698]
 images: ["Egg_LQ_FLD_Box_Bottle_FrenchToastPrep_vert_bestCrop.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 7609
 ---
 <p>SAN FRANCISCO (September 2, 2020) – Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the largest expansion yet for its award-winning plant-based egg. By the end of the month, JUST Egg will be available at more than 17,000 points of retail distribution in the United States, a 40% increase and a testament to the breakout success of the pioneering product that launched nationwide last year.</p>
 <p>Walmart will add the original 12-ounce pourable JUST Egg – perfect for scrambles, omelets, quiches, stir-fries and a variety of baking applications – to more than 1,900 stores coast-to-coast after it became a strong seller at hundreds of regional locations. About 900 Food Lion stores in the Mid-Atlantic and Southeastern U.S. and 170 Giant stores in Delaware, Maryland, Pennsylvania, Virginia and Washington, D.C. are also adding the product to their shelves.</p>

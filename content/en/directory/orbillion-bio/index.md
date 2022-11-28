@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7349
 ---
 <p>Orbillion Bio’s mission is to bring healthy, ethical and flavorful meats with a complete farm-to-table story to the modern consumer.</p>

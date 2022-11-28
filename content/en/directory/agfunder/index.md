@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 705
 ---
 <p>AgFunder is an online Venture Capital Platform based in Silicon Valley. AgFunder invests in exceptional and bold entrepreneurs who are aiming to build the next generation of great agriculture and food technology companies. As a Platform-VC, we&#039;ve leveraged technology, media and research to build a global ecosystem of over 50,000 members and subscribers, including over 5,000 investors. We build technology to help source, evaluate, and support our portfolio companies and invest at scale. Through special co-investment funds and Special Purpose Vehicles, AgFunder gives investors the opportunity to coinvest with them and other leading VCs.</p>

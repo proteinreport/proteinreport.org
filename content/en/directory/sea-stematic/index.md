@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9052
 ---
 <p>Sea-Stematic is a frontier food company focused on manufacturing cell-based seafood. They are committed to satisfying the global consumer demand for fish, while addressing broader climatic and health issues. Their integrity to deliver great tasting, quality and nutritionally superior seafood products is further defined by partnering with leading scientists and stakeholders to achieve this sustainably.</p>

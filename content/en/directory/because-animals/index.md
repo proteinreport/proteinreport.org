@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5842
 ---
 <p>We believe that feeding our pets a nutritious diet should not come at the expense of supporting an industry that poses a direct threat to public health, the well being of other animals and our environment. That’s why Because Animals products are made without slaughtering any animals. We use cultured ingredients including probiotics, nutritional yeast, and cultured meat to create nutritious, sustainable pet food.</p>

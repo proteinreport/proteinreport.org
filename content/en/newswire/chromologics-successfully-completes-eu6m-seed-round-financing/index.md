@@ -12,13 +12,13 @@ products: [Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Blue Horizon Ventures]
+directory: [1212]
 images: ["Fungal coloni_Chromologics.jpg"]
 additional_images: ["Team in lab_2_Chromologics.jpg", "Chromologics_ColorProduction__01.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9059
 ---
 <p>Chromologics is developing a bio-based portfolio of natural colorants via a fungal biotech platform for the food market, tapping into a € 4.6B market opportunity.</p>
 <p>The company received an additional € 4M from Blue Horizon Ventures, Novo Seeds, Nordic Food Tech, and angel investor Giampaolo Cagnin. The total seed round, which also included Vækstfonden, was € 6M.</p>

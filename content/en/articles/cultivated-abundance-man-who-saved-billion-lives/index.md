@@ -16,7 +16,8 @@ images: [wheat_polina-rytova-1dGMs4hhcVA-unsplash.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 6618
 ---
 <p><strong>This post comes from my upcoming book, Cultivated Abundance, which will be published by New Degree Press in July 2020. You can pre-order a copy of the book and join an exclusive group of beta readers at <u><a href="https://www.indiegogo.com/projects/cultivated-abundance-by-mihir-pershad" target="_blank">this link</a></u>.</strong></p>
 

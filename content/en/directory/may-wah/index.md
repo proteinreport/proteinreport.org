@@ -17,6 +17,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5637
 ---
 May Wah Vegetarian Market was founded in 1995 as a small family business store located at the heart of Chinatown, New York City. After a decade of dedication to providing the highest of quality in both vegetarian consumer products and customer services, May Wah is now one of the largest distributors of vegetarian foods in New York State. 
 As the company approaches the 23rd anniversary, May Wah continues to be the most popular source for delicious meat alternatives such as our Veggie Prawns, Sweet and Sour Citrus Spare Ribs, Crispy Chicken Nuggets, Spicy Gong Bao Chicken, and the ever-popular Delicious Chicken Legs.

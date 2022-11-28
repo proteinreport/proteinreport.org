@@ -3,7 +3,7 @@ title: "Hoxton Farms Raises £2.7M Seed to Solve a Fat Problem for Meat Alternat
 date: 2021-02-09 10:47:02
 lastmod: 2021-02-09 10:47:02
 slug: /hoxton-farms-raises-ps27m-seed-solve-fat-problem-meat-alternatives
-company: "Hoxton Farms"
+company: 8360
 description: "UK-based Hoxton Farms has announced a £2.7 million seed round to cultivate animal fat and solve an urgent issue for the rapidly growing meat alternatives market."
 excerpt: "UK-based Hoxton Farms has announced a £2.7 million seed round to cultivate animal fat and solve an urgent issue for the rapidly growing meat alternatives market."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [This, Formo, CPT Capital, Sustainable Food Ventures, Hoxton Farms]
+directory: [1294, 1303, 6280, 8229, 8360]
 images: ["IMG_4682_0.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8414
 ---
 <ul>
 <li>The startup grows real animal fat – without the animals. Cultivated fat is a delicious, sustainable and versatile ingredient that has none of the drawbacks of plant oils currently used in meat alternatives</li>

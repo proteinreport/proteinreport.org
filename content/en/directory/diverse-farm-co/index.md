@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7857
 ---
 <p>Japan&#039;s second cultivated meat startup.</p>

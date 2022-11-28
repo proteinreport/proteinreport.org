@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5835
 ---
 <p>Dedicated to developing and commercializing cellular agriculture&nbsp;technologies.</p>

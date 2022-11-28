@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7258
 ---
 <p>Karana is re-imagining Asian Food - we&#039;re on a crusade against compromise. Our range of whole -plant based Asian foods combine taste, health, and sustainability in every bite. No trade-offs. We take natural, whole-plant ingrdeients and we transforme them into irresistibly meaty dumplings and baos without any heavy processing or artificial nasties.</p>

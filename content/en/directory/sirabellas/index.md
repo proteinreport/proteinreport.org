@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5665
 ---
 <p>Sirabella’s New York style Cheesecake uses dairy-free and eggless ingredients to create a plant-based cheesecake that looks and tastes just like a traditional cheesecake.</p>

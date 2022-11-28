@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5794
 ---
 <p>Green Vie is a range of dairy free delights. Green Vie offers a whole range of plant-based cheeses, spreads and stuffed antipasti.</p>

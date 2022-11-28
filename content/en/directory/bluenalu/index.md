@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5829
 ---
 <p>BlueNalu&#039;s mission is to be the global leader in cellular aquaculture, providing consumers with great tasting, healthy, safe, and trusted seafood products that support the sustainability and diversity of our oceans.</p>

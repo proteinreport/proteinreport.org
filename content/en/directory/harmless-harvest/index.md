@@ -17,6 +17,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5956
 ---
 <p>Harmless Harvest makes delicious organic coconut-based products including coconut water, coconut snack drinks and dairy-free coconut yogurt alternatives. The brand was the first to launch a non thermally pasteurized coconut water in the US, as well as the first coconut water to be Fair for Life certified.</p>
 

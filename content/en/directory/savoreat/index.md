@@ -18,6 +18,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5740
 ---
 <p>SavorEat is developing a processing method to create plant-based products for use as meat substitutes.<br />
 The company’s solution combines 3D printing technology and nutritious plant-based ingredients, enabling the creation of a variety of appetizing products that can be cooked, grilled, or baked.</p>

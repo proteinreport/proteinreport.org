@@ -24,6 +24,42 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Image", name: "images", widget: "image"}
       - {label: "Description", name: "description", widget: "text"}
+      - {label: "Excerpt", name: "excerpt", widget: "text"}
+      - label: "Proteins"
+        name: "proteins"
+        widget: "select"
+        multiple: true
+        options: ["Plant-Based", "Cell-Based", "Microbial", "Fungi", "Algae", "Animal", "Insect", "Molecular Farming"]
+      - label: "Products"
+        name: "products"
+        widget: "select"
+        multiple: true
+        options: ["Meat", "Dairy", "Eggs", "Seafood", "Ingredients", "Pet Food", "Feed"]
+      - label: "Topics"
+        name: "topics"
+        widget: "select"
+        multiple: true
+        options: ["Business", "Environment", "Policy", "Sci-Tech", "Health", "Culture"]
+      - label: "Regions"
+        name: "regions"
+        widget: "select"
+        multiple: true
+        options: ["Africa", "Asia", "Europe", "International", "Latin America & Caribbean", "Middle East", "Oceania", "US & Canada"]
+      - label: "Tech Segment"
+        name: "tech_segment"
+        widget: "select"
+        multiple: true
+        options: ["Agriculture & Plant Protein", "Fungiculture & Mycoprotein", "Algaculture & Algal Protein", "Cell Culture & Animal Protein", "Microbial & Precision Fermentation", "Molecular Farming", "Livestock & Animals"]
+      - label: "Related Companies"
+        name: "directory"
+        widget: "relation"
+        collection: "directory"
+        multiple: true
+        search_fields: ["title", "uuid"]
+        value_field: "uuid"
+        display_fields: ["title"]
+      - {label: "UUID", name: "uuid", widget: "uuid" }
+      - {label: "Content", name: "body", widget: "markdown"}
   ########## Newswire ##########
   - name: "newswire" # Used in routes, e.g., /admin/collections/blog
     label: "Newswire" # Used in the UI
@@ -41,11 +77,11 @@ collections:
         name: "company"
         widget: "relation"
         collection: "directory"
-        search_fields: ["title"]
-        value_field: "title"
+        search_fields: ["uuid", "title"]
+        value_field: "uuid"
         display_fields: ["title"]
-      - {label: "Company Name", name: "company_name", widget: "string"}
-      - {label: "Company Link", name: "company_link", widget: "string"}
+      - {label: "Company Name", name: "company_name", widget: "string", required: false}
+      - {label: "Company Link", name: "company_link", widget: "string", required: false}
       - {label: "Image", name: "images", widget: "image"}
       - label: "Additional images"
         name: "additional_images"
@@ -84,9 +120,10 @@ collections:
         widget: "relation"
         collection: "directory"
         multiple: true
-        search_fields: ["title"]
-        value_field: "title"
+        search_fields: ["title", "uuid"]
+        value_field: "uuid"
         display_fields: ["title"]
+      - {label: "UUID", name: "uuid", widget: "uuid" }
       - {label: "Content", name: "body", widget: "markdown"}
   ########## Directory ##########
   - name: "directory" # Used in routes, e.g., /admin/collections/blog
@@ -119,10 +156,5 @@ collections:
         multiple: true
         required: false
         options: ["Agriculture & Plant Protein", "Fungiculture & Mycoprotein", "Algaculture & Algal Protein", "Cell Culture & Animal Protein", "Microbial & Precision Fermentation", "Molecular Farming", "Livestock & Animals"]
-      - label: ID
-        name: id
-        widget: ncw-id
-        prefix: directory        # will generate post-124hfkjas
-        timestamp: true     # will generate 1245119112-post-124hfkjas
-        hint: This widget generate an unique read-only id
+      - {label: "UUID", name: "uuid", widget: "uuid" }
       - {label: "Content", name: "body", widget: "markdown"}

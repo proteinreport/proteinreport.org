@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5839
 ---
 <p>Back of the Yards Algae Sciences (<span class="caps">BYAS</span>) is a specialty algal ingredients company supplying unique and sustainable products for food, beverage, general agriculture and cellular agriculture&nbsp;applications.</p>

@@ -16,7 +16,8 @@ images: [chitin-image_0.png]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 10937
 ---
 <p><strong><em>Chitin- and chitosan-based scaffolds show promise for improving both the scalability and nutritional value of cell-cultured meats</em></strong></p>
 

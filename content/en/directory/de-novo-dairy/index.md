@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10451
 ---
 <p>De Novo Dairy is on a mission to create nature-identical, sustainable and most importantly, healthy dairy proteins for human nutrition.</p>

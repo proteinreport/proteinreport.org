@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10448
 ---
 <p>Our aim is to build a brand of sustainability develop our products using seaweed and micro algae, the most sustainable plant in the world. Plant based seafood provides a host of benefits, including alleviating pressures and providing relief to fragile ocean ecosystems, taking out an entire layer of the supply chain. (Formerly Plantruption)</p>

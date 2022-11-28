@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5703
 ---
 <p>NotCo is a food tech company that uses artificial intelligence to create delicious, sustainable and accessible foods, all from plants.</p>

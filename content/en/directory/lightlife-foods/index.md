@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1165
 ---
 <p>Lightlife makes delicious plant-based food that everyone can enjoy. For over forty years, we’ve been committed to sharing our love for plant-based food and leading a balanced life and we believe food should be a source of confidence, not compromises.</p>

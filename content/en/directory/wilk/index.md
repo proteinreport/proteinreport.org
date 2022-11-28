@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8844
 ---
 <p>Wilk is at the forefront of cell-grown milk production, developing solutions that answer the long-term needs of the milk markets. Previously BioMilk.</p>

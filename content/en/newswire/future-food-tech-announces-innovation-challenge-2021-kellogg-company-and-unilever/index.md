@@ -18,7 +18,7 @@ additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8159
 ---
 <p><strong>Food-Tech Start-Ups Invited to Submit Solutions for Plant-Based & Dairy Alternatives and Digestive Wellness</strong></p>
 <p>Future Food-Tech has announced an Innovation Challenge in partnership with Kellogg Company and Unilever to unlock new talent within the industry and enable opportunities for collaboration.</p>

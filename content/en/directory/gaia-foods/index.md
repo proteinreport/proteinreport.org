@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7501
 ---
 <p>Conscious consumers who are connoisseurs of Asian cuisine have limited to no options for ethically produced meat in culturally-appropriate forms. That&#039;s why Gaia Foods is developing the stem cell technology to produce real meat - without killing animals, without damaging our environment, and without producing exorbitant amounts of waste.</p>

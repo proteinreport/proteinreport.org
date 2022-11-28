@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5799
 ---
 Rival Foods connects culinary and plant-based cooking with unique, whole-cut ingredients that provide amazing texture, bite and juiciness in the production of the alternative meats.

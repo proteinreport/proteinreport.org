@@ -10,13 +10,14 @@ products: [Meat, Dairy]
 topics: [Environment, Health, Policy]
 regions: [International]
 flags: [Editors&#039; Picks, Featured]
-directory: [Blue Horizon Ventures]
+directory: [1212]
 contributors: [Roger Lienhard]
 images: [1_WRjMmFWrzYn0pYamsZC_GQ.jpeg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 6890
 ---
 <p><em>This article first appeared on <a href="https://medium.com/@rogerlienhard_20248/the-12-trillion-opportunity-within-our-food-system-e4d417f7c1f0">medium.com</a> and was republished here with the author’s permission.</em></p>
 
@@ -31,7 +32,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/1_FuSIGUT_Rx1dMW3jUBi0bA.png" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:450,&quot;height&quot;:411,&quot;rel&quot;:&quot;blazy-filter-85-khdetg3o-52-export-data-export-1&quot;}">      <div style="padding-bottom: 91.37%;" data-ratio="91.37" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/1_FuSIGUT_Rx1dMW3jUBi0bA.png" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:450,&quot;height&quot;:411,&quot;rel&quot;:&quot;blazy-filter-bnjvq8zc6dw-50-export-data-export-1&quot;}">      <div style="padding-bottom: 91.37%;" data-ratio="91.37" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="subsidies pie chart" title="1_FuSIGUT_Rx1dMW3jUBi0bA.png" class="media__image media__element b-lazy img-fluid" data-entity-uuid="845c4a5c-85a8-4153-b2ef-ca878c95fb03" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/1_FuSIGUT_Rx1dMW3jUBi0bA.png?itok=H5l3Tk-e" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20985%20900'%2F%3E" width="985" height="900" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

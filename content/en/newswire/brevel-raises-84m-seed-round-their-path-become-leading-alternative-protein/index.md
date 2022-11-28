@@ -3,7 +3,7 @@ title: "Brevel Raises $8.4M Seed Round on Their Path to Become the Leading Alter
 date: 2022-06-02 13:00:00
 lastmod: 2022-06-02 13:00:00
 slug: /brevel-raises-84m-seed-round-their-path-become-leading-alternative-protein
-company: "Brevel"
+company: 10918
 description: "Brevel, the leading microalgae-based alternative protein company, today announced it has raised $8.4M in a Seed funding round. The funding will be utilized to build a commercial pilot factory which will serve as the basis for scaling Brevel’s proprietary technology and enhancing R&D capabilities."
 excerpt: "Brevel, the leading microalgae-based alternative protein company, today announced it has raised $8.4M in a Seed funding round. The funding will be utilized to build a commercial pilot factory which will serve as the basis for scaling Brevel’s proprietary technology and enhancing R&D capabilities."
 proteins: [Algae]
@@ -11,13 +11,13 @@ products: [Ingredients]
 topics: [Business]
 regions: [Middle East]
 flags: [Press Release, Investments]
-directory: [Brevel]
+directory: [10918]
 images: ["Brevel.jpg"]
 additional_images: ["BREVEL CO-FOUNDERS, BROTHERS. R-L MATAN GOLAN (COO), YONATAN GOLAN (CEO), MOTHER, IDO GOLAN (CTO).jpg", "R-L IDO GOLAN (CTO), YONATAN GOLAN (CEO), MATAN GOLAN (COO).jpg", "DSC_4592.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10919
 ---
 <p><strong>Tel Aviv, June 2, 2022 – </strong>Brevel, the leading microalgae-based alternative protein company, today announced it has raised $8.4M in a Seed funding round. The funding will be utilized to build a commercial pilot factory which will serve as the basis for scaling Brevel’s proprietary technology and enhancing R&D capabilities. The alternative-protein’s dedicated investors include FoodHack, Good Startup VC, Tet Ventures and Nevateam Ventures among other prominent investors from the food tech industry. The round also includes significant funding from the EU’s prestigious program Horizon2020 and Israel’s Innovation Authority in the form of non-dilutive grants. </p>
 <p>Founded in 2017, Brevel is actively working to solve the biggest nutrition challenges that exist today. The company is achieving this by providing truly sustainable plant-based protein which is both color and flavor neutral, and available the first time at an <strong>affordable</strong> cost for the food industry. Brevel uses non-GMO microalgae grown in a unique breakthrough technology which enables the highest quality of sustainable protein production at cost levels comparable to pea and soy, the leading sources of plant based protein today. </p>

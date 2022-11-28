@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6859
 ---
 <p>High protein flour from upcycled ingredients. PLANETARIANS’ patent-pending technology adds value to overlooked ingredients like defatted seeds, converts them into a high-protein, high-fiber ingredient, and helps food manufacturers fortify a variety of food products with natural protein and fiber from seeds. Repurposing defatted sunflower seeds from animal to human consumption we demonstrate the potential of feeding growing population simultaneously reducing the impact on the planet.</p>

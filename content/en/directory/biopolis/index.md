@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5874
 ---
 <p>Biopolis, S.L. is a leading microbial biotechnology company based in Valencia (Spain) offering Contract Research and Manufacturing. Our core competences are the isolation, selection, design, characterization, validation and production of microorganisms and cellular metabolites with applications in agrifood, feed, pharmaceutical, chemical and environment industries.</p>

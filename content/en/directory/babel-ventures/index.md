@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7097
 ---
 <p>BABEL Ventures is a VC firm based in Silicon Valley that focuses on investing in early stage startups founded by antifragile entrepreneurs. We believe in the power of purpose and we are here to empower those that believe in it, too.</p>

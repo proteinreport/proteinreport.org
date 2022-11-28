@@ -3,7 +3,7 @@ title: "Cellular agriculture startup Balletic Foods is designing protein for hig
 date: 2021-09-21 02:43:08
 lastmod: 2021-09-21 02:43:08
 slug: /cellular-agriculture-startup-balletic-foods-designing-protein-high-performance-athletes
-company: "Balletic Foods"
+company: 5825
 description: "Balletic Foods, an alternative protein startup based in California, announces plans to produce animal-free protein optimized for the sports nutrition market."
 excerpt: "Balletic Foods, an alternative protein startup based in California, announces plans to produce animal-free protein optimized for the sports nutrition market."
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Ingredients]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [Balletic Foods]
+directory: [5825]
 images: ["balletic.png"]
 additional_images: ["anita_broellochs_headshot.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9715
 ---
 <p>SAN FRANCISCO, CALIFORNIA, USA: Balletic Foods, an alternative protein startup based in California, announces plans to produce animal-free protein optimized for the sports nutrition market.</p>
 <p>Balletic Foods uses a proprietary fermentation technology to produce its first product, Balletic Protein™. The output of the scalable process are pure proteins that are designed and engineered for high performance, ready to become the core building blocks for a variety of food and supplement applications.</p>

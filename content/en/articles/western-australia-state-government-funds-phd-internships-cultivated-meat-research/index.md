@@ -10,13 +10,14 @@ products: [Meat]
 topics: [Sci-Tech]
 regions: [Oceania]
 flags: [Featured]
-directory: [Cellular Agriculture Australia, Cass Materials]
+directory: [7131, 7168]
 contributors: [Bianca Le]
 images: [cass interns.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 7766
 ---
 <p>Three late-stage PhD candidates from Western Australian universities have been accepted into an industry internship program to undertake cultivated meat research. The internships are funded by the Government of Western Australia, a first for the Australian cellular agriculture sector.</p>
 <p>The seven-week iPREP WA (Industry and PhD Research Engagement Program) will take place at <a href="https://www.proteinreport.org/directory/cass-materials">Cass Materials</a>, a cellular agriculture startup based in Perth creating an affordable and edible cellulose-based scaffold for cultivated meat production. The emerging research field of cellular agriculture is dedicated to producing meat and other animal products (such as eggs and dairy) without the need for conventional animal agriculture. This technology could have significant potential implications for environmental sustainability, animal welfare, biodiversity, and human health.</p>

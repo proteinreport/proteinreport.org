@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5846
 ---
 <p>Simulated Platelet Lysate (porcine); a replacement for FBS</p>

@@ -18,7 +18,7 @@ additional_images: ["fabrica.png", "MII_0.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9973
 ---
 <p><em>White space analysis shows next-gen materials set to follow alternative proteins in growth and profitability</em></p>
 <p><strong>November 4, 2021</strong> – Materials industry nonprofit think-tank <a href="https://www.materialinnovation.org/">The Material Innovation Initiative</a> (MII) and <a href="https://www.themillsfabrica.com/">The Mills Fabrica</a>, an investor and ecosystem builder in sustainable agrifood, textiles, and fashion industry innovations, have published an analysis of the materials industry detailing “white space” opportunities for animal-free, sustainable leather, down, wool, silk, fur, and exotic skins.

@@ -18,7 +18,7 @@ additional_images: ["Givaudan 1.png", "FFTSF22 - Webinar Challenge (1200 x 630 p
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10162
 ---
 <p><strong>Food-Tech Start-Ups are Invited to Submit Solutions that Improve the Texture and Functionality of Plant-Based Cheese OR Natural Ingredients for Use in Foods that Support Immunity, Energy and Sleep.</strong></p>
 <p>APPLICATIONS ARE NOW OPEN until January 31. Apply now at: <a href="http://www.futurefoodtechsf.com/innovation-challenges/#APPLYNOW">www.futurefoodtechsf.com/innovation-challenges/#APPLYNOW</a></p>

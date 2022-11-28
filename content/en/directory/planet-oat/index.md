@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6361
 ---
 <p>Planet Oat is where all the awesome of oat is available in a rich, creamy, naturally-sweet oatmilk that’s dairy free, peanut free, soy free <span class="amp">&amp;</span> gluten free.</p>

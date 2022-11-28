@@ -3,7 +3,7 @@ title: "Mylkcubator kicks off its first edition with four startups to shape the 
 date: 2021-10-27 12:23:50
 lastmod: 2021-10-27 12:23:50
 slug: /mylkcubator-kicks-its-first-edition-four-startups-shape-future-dairy
-company: "Eatable Adventures"
+company: 10963
 description: "Mylkcubator, the first global incubator specialized in the advancement of innovation projects for the dairy sector, launches its first edition with four amazing startups selected from across the world."
 excerpt: "Mylkcubator, the first global incubator specialized in the advancement of innovation projects for the dairy sector, launches its first edition with four amazing startups selected from across the world."
 proteins: [Cell-Based, Microbial]
@@ -11,13 +11,13 @@ products: [Dairy]
 topics: [Business]
 regions: [International]
 flags: [Press Release]
-directory: [Eatable Adventures]
+directory: [10963]
 images: ["Mylkcubator Image.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9930
 ---
 <p>Mylkcubator, the first global incubator specialized in the advancement of innovation projects for the dairy sector, launches its first edition with four amazing startups selected from across the world. Thanks to this incubation program, launched by Pascual Innoventures in collaboration with Eatable Adventures, these promising startups are set to lay the foundations for a new path of development and innovation for the dairy industry and respond to the big challenges it faces.</p>
 <p>Mylkcubator is not only the world’s first incubator specialized in the dairy sector, but also establishes itself as an international reference with its four chosen startups coming from different continents. These startups were carefully selected for their projects and technological developments to obtain the dairy products of the future.</p>

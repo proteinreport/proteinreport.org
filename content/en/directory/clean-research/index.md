@@ -18,6 +18,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1300
 ---
 <p>Our team is committed to solving the current research gaps associated with the production of “cell-based” meat. Furthermore, we believe that a single species focus will enable greater advancement of the science and move us closer to solving the problems associated with commercial-scale meat production.</p>
 <p>We have selected Zebrafish as our initial species focus due to the wealth of knowledge already available for this species and the relative simplicity of lean fish muscle compared with that of mammalian counterparts and even fatty fish alternatives</p>

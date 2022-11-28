@@ -3,7 +3,7 @@ title: "New Plant-Based Brand Launches with a First-To-Market Beet Jerky"
 date: 2022-11-07 15:49:03
 lastmod: 2022-11-07 15:49:03
 slug: /new-plant-based-brand-launches-first-market-beet-jerky
-company: "Theo's Plant-Based"
+company: 11179
 description: "The brand soft-launched on August 17, 2022 with its premier product, a first-of-its-kind BEET Jerky, and has plans to roll out additional lines of vegetable-forward fare in 2023 and beyond."
 excerpt: "The brand soft-launched on August 17, 2022 with its premier product, a first-of-its-kind BEET Jerky, and has plans to roll out additional lines of vegetable-forward fare in 2023 and beyond."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, New Products]
-directory: [Big Idea Ventures, Theo's Plant-Based]
+directory: [6600, 11179]
 images: ["BeetJerkyVariety.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11181
 ---
 <p><em>THEO’s Plant-Based is Bringing Vegetables and Nutrition Back to The Forefront of Plant-Based Foods </em></p>
 <p><strong>Chicago, IL </strong>(November 7, 2022) -<a href="https://theosplantbased.com/"> THEO’s Plant-Based</a> has entered the $7 billion plant-based food space with a focus on honoring vegetables for what they already are – tasty, nutritious, and planet-friendly. By creating Certified Organic, better-for-you plant-based meats that deliver on both flavor and nutrition, THEO’s is on a mission to lead the world into a cleaner, more nutritious and sustainable food system where vegetables are once again the leading ingredients in plant-based cooking. The brand soft-launched on August 17, 2022 with its premier product, a first-of-its-kind BEET Jerky, and has plans to roll out additional lines of vegetable-forward fare in 2023 and beyond. </p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5579
 ---
 <p>Vegetarian Plus is the premier product line of VegeUSA, an American corporation headquartered in Monrovia, California.</p>

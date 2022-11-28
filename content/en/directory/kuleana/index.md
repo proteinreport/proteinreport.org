@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1298
 ---
 <p>Kuleana is a food technology company which creates next generation seafood through the power of plants and biotechnology.</p>

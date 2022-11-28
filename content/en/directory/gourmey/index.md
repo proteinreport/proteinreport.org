@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1345
 ---
 <p>Gourmey is developing a delicious and 100% ethical foie gras without force-feeding or slaughter from duck cells. The development starts from a freshly laid duck egg from which a few cells are extracted and placed in a cultivator. The cells multiply naturally to create a real duck foie gras.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8816
 ---
 <p>Revo Foods used 3D printing technology to make plant-based salmon out of pea protein, algae extracts, plant oils and citrus fibre.</p>

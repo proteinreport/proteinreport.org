@@ -16,7 +16,7 @@ additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 6892
 ---
 <p><em>Application Period Open Through May 29; Calls on Companies of All Stages Solving Protein Challenges from Plant-Based to Regenerative Ag to Apply for Funding</em></p>
 <p><a href="http://radicle.vc/the-radicle-challenge/">Radicle Growth</a>, an acceleration fund, and <a href="https://www.syngenta.com/">Syngenta</a>, a leading agriculture company helping to improve global food security, today announced the launch of The Radicle Protein Challenge by Syngenta. Together, Radicle and Syngenta will identify two companies with novel solutions to support the future of protein (which could include new or experimental protein sources, or protein conversion technologies) that are solving challenges spanning from plant-based ag to the regenerative side of agriculture, to invest $1.25m in.</p>

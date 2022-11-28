@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1306
 ---
 <p>Deep Branch is a carbon recycling biotechnology company. We use microbes to convert carbon dioxide from industrial emissions into high-value products. We’re a fast-growing and agile startup with commercial activities both in the UK and the Netherlands.</p>

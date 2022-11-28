@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5628
 ---
 <p>LS Natural Foods is a producer of plant-based jerky, meat and milk alternatives including the Stonewall’s Jerquee brand.</p>

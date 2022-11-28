@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9128
 ---
 <p>Imagindairy, a Foodtech company, is addressing the industry bottleneck by integrating deep tech with system biology to develop a commercial and viable animal free protein-based dairy product.</p>

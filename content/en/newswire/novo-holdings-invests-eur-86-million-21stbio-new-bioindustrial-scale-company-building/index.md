@@ -12,13 +12,13 @@ products: [Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Novozymes]
+directory: [5870]
 images: ["novo.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10195
 ---
 <p>COPENHAGEN, DENMARK — December 21, 2021. Novo Holdings, a leading international life sciences investor, today announced a significant investment in 21st.BIO A/S – a new Danish bioindustrial scale-up company.</p>
 <p>Established in 2020, 21st.BIO has been founded with a mission to support bioindustrial companies globally in upscaling from molecule innovation to large-scale production to be able to meet market demands and thereby advance the green transition globally. The focus areas of 21st.BIO include producing proteins and peptides that can be utilised for the food, materials and agricultural industries. It is estimated that as much as 60% of the physical inputs to the global economy could be produced biologically.</p>

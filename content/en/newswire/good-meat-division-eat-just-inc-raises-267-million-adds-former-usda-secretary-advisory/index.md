@@ -3,7 +3,7 @@ title: "GOOD Meat, a Division of Eat Just, Inc., Raises $267 Million, Adds Forme
 date: 2021-09-20 14:28:03
 lastmod: 2021-09-20 14:28:03
 slug: /good-meat-division-eat-just-inc-raises-267-million-adds-former-usda-secretary-advisory
-company: "Eat Just"
+company: 234
 description: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, announced today that its GOOD Meat division has secured $97 million in new funding, adding to the initial $170 million publicized in May."
 excerpt: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, announced today that its GOOD Meat division has secured $97 million in new funding, adding to the initial $170 million publicized in May."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
-directory: [Eat Just]
+directory: [234]
 images: ["Cultured_Chicken_Lifestyle2330_Dark plate and Bckg salad and whole chicken CROP_1.jpg"]
 additional_images: ["0L2A9495.jpg", "Cultured_Chicken_Lifestyle2322_Cut chickens prep messy_CROP_0.jpg", "0L2A9539.jpg", "Cultured_Chicken_2485_pasta_whole_chicken_mess CROP.jpg", "Cultured_Chicken_Lifestyle2409_chicken cut salad messy hand CROP.jpg", "GoodMeat2ndBatch.jpg", "Cultured_Chicken_2575_cut_chicken_Chimichurri_messy_CROP.jpg", "GoodMeatFARV_0.jpg", "Dan Glickman.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9713
 ---
 <p>SAN FRANCISCO -- (September 20, 2021) -- Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, announced today that its <a href="https://outlook.office.com/mail/inbox/id/gooodmeat.co">GOOD Meat</a> division has secured $97 million in new funding, adding to the initial $170 million <a href="https://www.businesswire.com/news/home/20210518005385/en/GOOD-Meat-a-Division-of-Eat-Just-Inc.-Secures-170-Million-to-Scale-Meat-Without-Slaughter-as-Demand-Grows">publicized in May</a>. The overall $267 million fundraise is the largest to date in the burgeoning cultivated meat sector, which analysts predict could become a $25 billion global industry by 2030<a href="https://outlook.office.com/mail/inbox/id/AQMkADI0OTIwZmJhLTg3YWYtNDgyZi1hYjk0LTNkYTg5ODdjM2VkZgBGAAAD4N%2BDpGTxy02kIcAFOmffBgcAD%2F6D9GbGt0%2BVN76PBzBzqwAAAgEMAAAAD%2F6D9GbGt0%2BVN76PBzBzqwABwkA22gAAAA%3D%3D#_ftn1">[1]</a>.</p>
 <p>New and previously announced investors include UBS O’Connor, a hedge fund manager within UBS Asset Management; Graphene Ventures; K3 Ventures; Resilience Reserve, a venture capital fund founded by entrepreneur Rob Reid and TED curator Chris Anderson; businessman Fernando Chico Pardo and others. GOOD Meat will use the funds to increase capacity and accelerate research and development for high-quality, real meat made directly from animal cells. ABG, LLC; BofA Securities, Inc.; Guggenheim Securities and VERSO Capital advised on the transaction.</p>

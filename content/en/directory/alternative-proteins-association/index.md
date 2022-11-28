@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10571
 ---
 <p>APA is a trade association and non-profit organisation that exists to fuel collaboration across the value chain. APA works to protect and enhance the reputation of the alternative proteins industry and give a voice to people across the food &amp; agriculture industry.</p>

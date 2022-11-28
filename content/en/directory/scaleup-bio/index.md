@@ -17,6 +17,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 11174
 ---
 <p>ScaleUp Bio is a Singapore-based, pioneering company providing dedicated food-grade precision fermentation facilities and comprehensive contract development and manufacturing organisation services for innovative start-up food tech companies from around the world.</p>
 <p>ScaleUp Bio is a joint-venture company of ADM, global leader in nutrition and agricultural origination and processing and Nurasa, a new company focused on accelerating the commercialisation and adoption of sustainable food across Asia and wholly owned by Temasek, a global investment management company in Singapore.</p>

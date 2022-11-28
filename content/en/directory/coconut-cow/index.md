@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5973
 ---
 <p>The Coconut Cow is the original coconut oil yogurt. Made only with natural ingredients and mct oil, it’s known for its memory boosting properties.</p>

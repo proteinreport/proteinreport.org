@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5627
 ---
 <p>Cado Avocado Ice Cream is the first of its kind — a line of organic, dairy-free, avocado based ice creams. Our avocado base provides a rich, creamy canvas for classic ice cream favorites like mint chocolate chip, dark chocolate <span class="amp">&amp;</span> lemon sorbet. Enjoy a whole avocado in every pint!</p>

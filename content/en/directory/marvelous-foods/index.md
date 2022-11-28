@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10474
 ---
 <p>Marvelous Foods is a plant-based snack foods start-up for the Chinese market.</p>

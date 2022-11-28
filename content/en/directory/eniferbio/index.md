@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8922
 ---
 <p>eniferBio is a pre-startup venture with a mission to bring the Pekilo process to the 21st century. Our product is Pekilo mycoprotein, a form of single-cell protein derived from fungi. It is sustainably produced for use as a fish feed ingredient.</p>

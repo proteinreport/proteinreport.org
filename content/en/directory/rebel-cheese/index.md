@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6005
 ---
 <p>Rebel Cheese offers the largest selection of fresh, homemade, and unique artisan plant-based cheeses that taste the same, if not better, than their dairy counterparts.</p>

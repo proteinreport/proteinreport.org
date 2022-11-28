@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5605
 ---
 <p>Akua is a sustainable, seaweed-based jerky snack brand on a mission to create food in the right way: healthy, delicious and with a positive impact on the planet. Ajua creates seaweed-based snacks made from ocean farmed kelp. The company sources its kelp from its network of New England-based ocean farms that require no fresh water, dry land, fertilizer or feed to grow.</p>

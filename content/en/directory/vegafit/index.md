@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5765
 ---
 Vegafit is producing plant based meat alternative which, so far, are available in Netherlands, Germany, Ireland and Spain.

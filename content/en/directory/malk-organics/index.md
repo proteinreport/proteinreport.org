@@ -18,6 +18,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5584
 ---
 MALK is more than a product—it’s a passion.
 Born with a severe dairy allergy, founder August Vega spent most of her lifetime struggling to find foods that wouldn’t make her sick. Years later, when her son was born with the same allergy, that condition motivated her mission: create a better dairy alternative.

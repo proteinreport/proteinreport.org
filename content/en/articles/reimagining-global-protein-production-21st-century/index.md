@@ -10,13 +10,14 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Environment, Sci-Tech]
 regions: [International]
 flags: [Featured, Opinion]
-directory: [Perfect Day Foods, Quorn, Air Protein, Solar Foods, Onego Bio]
+directory: [699, 1143, 1262, 1358, 10548]
 contributors: [Tomas Linder]
 images: [Reimagining global protein production_0.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 10533
 ---
 <p><em><strong>What options are on the food-tech menu for achieving long-term protein security? Cell culture, plants, microorganisms, algae, and fungi may all have roles to play. But from a sustainability and resilience perspective, is there a clear winner?</strong></em></p>
 

@@ -18,6 +18,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5779
 ---
 HARi&amp;CO is a start-up specialising in 100% plant-based food whose mission is to give beans their rightful place within wholesome meals. It is dedicated to all those who want to be more mindful about their nutrition and still enjoy good eating.
 HARi&amp;CO wants to inspire a revolution in the diet and lifestyle habits while encouraging to prioritize pleasure and indulgence. HARi&amp;CO ambition is to bring healthy and delicious meals and caringly assist people with dietary changes. The organic green lentil burger and organic chickpea no-meat balls are just some examples of the foods produced by HARi&amp;CO.

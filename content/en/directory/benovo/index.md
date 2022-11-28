@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1228
 ---
 <p>Benevo is an independent pet food company based in Hampshire in the UK. Established in 2005, Benevo provides the most ethical alternative to commercial meat pet foods.</p>

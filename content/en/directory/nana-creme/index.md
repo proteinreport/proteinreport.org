@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5700
 ---
 <p>Nana Creme is a banana based, non-dairy ice cream that is free of the eight most common allergens.</p>

@@ -3,7 +3,7 @@ title: "Powering Global Dishes in Shanghai with Peanut-Based Chicken"
 date: 2021-04-12 07:14:34
 lastmod: 2021-04-12 07:14:34
 slug: /powering-global-dishes-shanghai-peanut-based-chicken
-company: "Haofood"
+company: 8756
 description: "Starting from this month, partnerships between Haofood, a startup creating peanut protein-based alternative chicken, and five restaurants in Shanghai offering authentic dishes from cultures around the globe unites tradition and modern technology to bringcustomers a unique culinary experience."
 excerpt: "Starting from this month, partnerships between Haofood, a startup creating peanut protein-based alternative chicken, and five restaurants in Shanghai offering authentic dishes from cultures around the globe unites tradition and modern technology to bringcustomers a unique culinary experience."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release, New Products]
-directory: [Haofood]
+directory: [8756]
 images: ["Wrap & Roll - Wrap 2.jpg"]
 additional_images: ["Pawon - Sate Ayam 2.jpg", "Green Friday - All 1.jpg", "STYX - All 1.jpg", "Topolino - Pizza 1.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8767
 ---
 <p><strong>Shanghai, 12 April 2021:</strong> Starting from this month, partnerships between Haofood, a startup creating peanut protein-based alternative chicken, and five restaurants in Shanghai offering authentic dishes from cultures around the globe unites tradition and modern technology to bring customers a unique culinary experience.</p>
 <p>“We want to unite the past, present, and future,” says Haofood’s CEO, Astrid Prajogo. “The past being traditional menus by dedicated chefs, the future being plant-based meat, and the present being customers’ experiences today.” The five restaurants using Haofood’s products to revitalise their cultures’ dishes are Green Friday (Xujiahui Station), Topolino (Changping Rd Station), STYX (Hengshan Rd Station), Wrap and Roll (Jiangsu Rd Station), and The Pawon (Yili Rd Station).</p>

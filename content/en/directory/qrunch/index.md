@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5670
 ---
 Qrunch Foods, Denver, has introduced gluten-free Qrunch Burgers, made exclusively from whole, certified gluten-free, organic and non-GMO ingredients, including spinach, broccoli, carrots, garlic, onion, millet and “superfood” quinoa. An alternative to soy-based vegetarian patties, Qrunch burgers contain no wheat, eggs, corn, dairy, nuts, soy or sweeteners and are low in sodium. Qrunch burgers are available in four flavors: Original, Spicy Italian, Sweet Curry and Green Chile.

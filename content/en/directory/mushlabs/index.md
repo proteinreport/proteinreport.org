@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5660
 ---
 <p>Mushlabs is a biotech company that produces food from edible mushroom mycelia. The fermentation platform allows the company to unlock the potential of an overlooked kingdom of life - fungi - as a food source. Mushlabs is dedicated to building solutions that change the way we consume food, by producing food that is good to our senses, our bodies and our planet.</p>

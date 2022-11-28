@@ -3,7 +3,7 @@ title: "China’s HEROTEIN Launches 16 Ready-To-Eat Plant-Based Meat Meals with 
 date: 2021-09-30 07:29:00
 lastmod: 2021-09-30 07:29:00
 slug: /chinas-herotein-launches-16-ready-eat-plant-based-meat-meals-iconic-specialty-foods-brand
-company: "Herotein"
+company: 8412
 description: "Shanghai-based HEROTEIN and prominent food producer Butler & White’s launch co-branded ready-to-eat range; HEROTEIN also enters joint development agreement to launch hybrid plant-based/cultivated meat products in China"
 excerpt: "Shanghai-based HEROTEIN and prominent food producer Butler & White’s launch co-branded ready-to-eat range; HEROTEIN also enters joint development agreement to launch hybrid plant-based/cultivated meat products in China"
 proteins: [Cell-Based, Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release, New Products]
-directory: [Mission Barns, Herotein]
+directory: [5827, 8412]
 images: ["HEROTEIN_Logo_Square_White-bg.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9762
 ---
 <p><strong>Shanghai — </strong>Plant-based meat company HEROTEIN announced it has launched a line of 16 co-branded ready-to-eat plant-based meat meals co-created with iconic specialty foods brand Butler & White's. The entire range is fully plant-based and now distributed across China, generating fantastic reviews and high repurchase rates since its launch. The new range draws inspiration from a variety of international cuisines, including sausage roll and pies from British cuisine, samosas and spring rolls from Southeast Asian cuisine, chilli con carne from Mexican cuisine, and penne Bolognese and lasagna from Italian cuisine.</p>
 <p>“<em>Product innovation is key to capturing consumer demand in the growing plant-based meat sector, and we are delighted to partner with Butler & White’s for this new ready-to-eat range,</em>” said Vicky Lee, CEO of HEROTEIN. “<em>We will continue to leverage HEROTEIN’s unique product innovation capabilities to be a technology and culinary leader in bringing new plant-based meat and meal experiences to Chinese consumers</em>," added Lee, who is former CMO of McDonald’s Taiwan and former Group Vice President at leading Chinese restaurant brand Xiabu Xiabu.</p>

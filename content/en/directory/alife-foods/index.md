@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5834
 ---
 <p>Alife is a consumer-first, product-oriented, cell-based meat brand. The company mission is to offer a slaughter-free option for the consumer’s favorite meat products. From meatballs to burger patties. The company covers the second part of the supply chain serving as a middleman between producers of cultured meat, industry organisations, food retail and consumers.</p>

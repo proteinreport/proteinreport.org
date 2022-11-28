@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5878
 ---
 Manus Bio recreates plant processes in microorganisms to produce natural ingredients through fermentation. The microbial platform has been optimized to convert inexpensive carbon and plant-derived substrates into rare and expensive ingredients with applications as flavors, fragrances, food ingredients, cosmetics, vitamins, pharmaceuticals and agricultural chemicals. Ultimately, the technology provides a low-cost, sustainable, and environmentally-friendly source for many ingredients used in daily lives.

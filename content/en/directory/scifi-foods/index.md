@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5801
 ---
 <p>We are making meat with the same taste, texture, and nutrition as conventional meat, but without any of the cruelty or cost to the planet. Our cultivated meat is something everyone can feel good about. Real beef, re-imagined. (Previously Artemys Foods)</p>

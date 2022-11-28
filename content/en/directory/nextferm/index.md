@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5871
 ---
 <p>NextFerm is a science oriented industrial company, representing a new era in fermentation and fermentation-derived nutrients for supplements, food, infant nutrition and animal feed.</p>

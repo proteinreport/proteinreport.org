@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 11116
 ---
 <p>ProteiQ is a Potsdam based Life Science company with the focus on next generation LC-MS proteomics, providing research service for discovery and validation of novel biomarkers.</p>

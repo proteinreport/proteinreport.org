@@ -57,6 +57,7 @@ for (row in 1:nrow(import_data)) {
   write("pinned: false", file_path, append = T)
   write("homepage: false", file_path, append = T)
   write("weight: 5000", file_path, append = T)
+  write(paste("uuid: ",import_data[row,]$ID, sep = ""), file_path, append = T)
   #write(images, file_path, append = T)
   #write("images:", file_path, append = T)
   #write(import_data[row,]$images, file_path, append = T)

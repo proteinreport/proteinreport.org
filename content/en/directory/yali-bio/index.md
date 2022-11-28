@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10553
 ---
 <p>At Yali Bio, we&#039;re building a synthetic biology platform to tailor-make climate-smart foods from renewable resources. Synthetic biology and NGS food genomics can revolutionize food production and mitigate the exploitation of our fragile ecosystem.</p>

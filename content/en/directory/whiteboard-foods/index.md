@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9428
 ---
 <p>Whiteboard Foods develops scaffolding technology to bring cell-based and plant-based protein to kitchen tables and restaurant menus around the world.</p>

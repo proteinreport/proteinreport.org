@@ -3,7 +3,7 @@ title: "GOOD Meat Breaks Ground on Largest Cultivated Meat Facility in Asia"
 date: 2022-06-10 12:43:20
 lastmod: 2022-06-10 12:43:20
 slug: /good-meat-breaks-ground-largest-cultivated-meat-facility-asia
-company: "Eat Just"
+company: 234
 description: "GOOD Meat, the cultivated meat division of Eat Just, Inc., a company that applies cutting-edge science and technology on a mission to create healthier, more sustainable foods, broke ground today on the largest cultivated meat production center in Asia. The complex, scheduled to open in Q1 2023 at JTC Bedok Food City, will have the capacity to produce tens of thousands of pounds of meat from cells, without the need to slaughter a single animal."
 excerpt: "GOOD Meat, the cultivated meat division of Eat Just, Inc., a company that applies cutting-edge science and technology on a mission to create healthier, more sustainable foods, broke ground today on the largest cultivated meat production center in Asia. The complex, scheduled to open in Q1 2023 at JTC Bedok Food City, will have the capacity to produce tens of thousands of pounds of meat from cells, without the need to slaughter a single animal."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release]
-directory: [Eat Just]
+directory: [234]
 images: ["GOOD Meat groundbreaking for press release 1_0.jpg"]
 additional_images: ["GOOD Meat groundbreaking for press release 2.jpg", "GOOD Meat groundbreaking for press release 4.jpg", "GOOD Meat groundbreaking for press release 3.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10991
 ---
 <p><em>CEO heralds Singapore as vital for the future of animal protein </em> </p>
 <p>SINGAPORE (June 10, 2022) -- <a href="http://goodmeat.co/">GOOD Meat</a>, the cultivated meat division of Eat Just, Inc., a company that applies cutting-edge science and technology on a mission to create healthier, more sustainable foods, broke ground today on the largest cultivated meat production center in Asia. The complex, scheduled to open in Q1 2023 at JTC Bedok Food City, will have the capacity to produce tens of thousands of pounds of meat from cells, without the need to slaughter a single animal. </p>

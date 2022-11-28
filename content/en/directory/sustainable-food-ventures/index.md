@@ -22,6 +22,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8229
 ---
 <p>Our mission is to support founders developing sustainable food products and scaling profitable companies in the global $12 Trillion food and grocery retail market.</p>
 <p>We back early stage founders building leading food companies that are: </p>

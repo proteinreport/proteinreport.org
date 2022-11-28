@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1246
 ---
 <p><em>Treeline cheeses</em> produced by Gardener Cheese Company are made from cashews, acidophilus cultures, water, sea salt, and herbs and spices. They are all gluten-free, non-GMO, raw, and of course, dairy-free. They are all artisan-made in New York's Hudson Valley. <em>Treeline Cheese</em> is available in two styles – Soft French-Style and Aged.</p>

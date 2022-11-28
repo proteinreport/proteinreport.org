@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5704
 ---
 Seamore is a fast-growing startup that is turning seaweed into an everyday food with its disruptive pasta and bacon alternatives.

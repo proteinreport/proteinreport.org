@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7517
 ---
 <p>Brinc has developed a three month program covering Greater Bay Area, spanning Hong Kong, Shenzhen and Guangzhou, designed to support entrepreneurs who are solving the inefficiencies in the food supply chain by developing new protein alternatives to replace animal-based and animal-derived products. Startups accepted in the program will receive investment as well as hands-on support from Brinc’s in-house mentors and network of experts. If accepted, you will receive support in commercialization, and help to drive commercial conversations with potential partners with a view to launching in new markets across Asia. Brinc mentors will also provide product development support throughout the entire food supply chain.</p>

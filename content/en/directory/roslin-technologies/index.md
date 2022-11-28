@@ -17,6 +17,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9900
 ---
 <p>At Roslin Tech, we are on a mission to advance disruptive biotechnologies to improve protein production. We apply new biotechnologies to accelerate the transition to a more sustainable food system and specialise in animal iPS cells for the cultivated meat market.</p>
 <p>We have developed unique animal cells that work; our cells can self-renew forever and differentiate into any tissue, including muscle and fat. Our cells are favourable for cultivated meat production since they address consumer concerns, make meat more affordable, and simplify regulatory approvals.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7105
 ---
 <p>Plant-Based Foods of Canada (PBFC) acts as a collective voice for the producers of plant-based products. We use our voice to advocate for a modernized regulatory environment that will allow members to market their products effectively and to make them accessible to all consumers.</p>

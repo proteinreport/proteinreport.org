@@ -12,13 +12,13 @@ products: [Dairy, Eggs, Ingredients]
 topics: [Business]
 regions: [International]
 flags: [Press Release]
-directory: [Impossible Foods, Perfect Day Foods]
+directory: [695, 699]
 images: ["report cover.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 7945
 ---
 <p><strong>The report includes crucial tips for those looking to start synbio businesses, an industry that has received billions in funding throughout this year alone.</strong></p>
 <p><strong>11 Nov. 2020</strong> – As the platform for nurturing global techstyle innovations, <a href="http://www.themillsfabrica.com/">The Mills Fabrica</a> is partnering with global leading biomaterials innovator, <a href="https://boltthreads.com/">Bolt Threads</a> to launch a new report titled “<strong>Synbio Playbook for Techstyle Startups</strong> <strong>– A Complete Guide for Founders”</strong>. Synthetic Biology (“Synbio”), which first entered the market a few years ago and continues to receive substantial interest from brands and corporations, is an area of science that involves the design and construction of biological components/systems that do not already exist in the natural world. This interdisciplinary field combines many disciplines, from engineering to biology, to create biomanufacturing methods that are better, cheaper, more efficient and more sustainable.</p>

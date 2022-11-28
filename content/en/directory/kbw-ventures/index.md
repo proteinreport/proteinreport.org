@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6281
 ---
 <p>Focusing exclusively on venture capital, value creation and growth equity, KBW Ventures is an asset management company that targets direct investments in some of the world’s most highly sought-after private companies.</p>

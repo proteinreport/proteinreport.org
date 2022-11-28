@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10456
 ---
 <p>At Bosque Foods, we envision a world in which our future generations can prosper and thrive, without compromising the health of our planet. Our mission is to create better-than-meat products that deliver on the entire taste experience, nutrition, and price of traditional meat without compromise. Our solution is to create the best clean-image, minimally processed whole-cut meat and fish alternatives grown naturally from fungal mycelium.</p>

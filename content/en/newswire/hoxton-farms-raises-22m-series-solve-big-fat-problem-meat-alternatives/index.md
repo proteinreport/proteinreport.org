@@ -3,7 +3,7 @@ title: "Hoxton Farms Raises a $22m Series A to Solve the Big Fat Problem for Mea
 date: 2022-10-20 12:26:02
 lastmod: 2022-10-20 12:26:02
 slug: /hoxton-farms-raises-22m-series-solve-big-fat-problem-meat-alternatives
-company: "Hoxton Farms"
+company: 8360
 description: "Hoxton Farms has announced a $22 million Series A round to build a pilot facility for producing cultivated fat: the missing ingredient necessary to make meat alternatives delicious, realistic and versatile. After receiving regulatory approval, Hoxton Farms will sell cultivated fat as a B2B ingredient for meat alternatives."
 excerpt: "Hoxton Farms has announced a $22 million Series A round to build a pilot facility for producing cultivated fat: the missing ingredient necessary to make meat alternatives delicious, realistic and versatile. After receiving regulatory approval, Hoxton Farms will sell cultivated fat as a B2B ingredient for meat alternatives."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Beyond Meat, Impossible Foods, AgFunder, CPT Capital, Sustainable Food Ventures, Hoxton Farms]
+directory: [694, 695, 705, 6280, 8229, 8360]
 images: ["Hoxton Farms 1.jpg"]
 additional_images: ["Hoxton Farms 2.jpg", "Hoxton Farms Co-Founders.jpg", "Hoxton Farms Co-Founders 2.jpg", "hoxton-farms-logo.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11173
 ---
 <ul>
 <li>London-based Hoxton Farms is growing real animal fat, without the animals. Cultivated fat is the missing ingredient that will revolutionise the way meat alternatives look, cook and taste.</li>

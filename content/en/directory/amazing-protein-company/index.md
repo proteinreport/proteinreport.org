@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5669
 ---
 <p>Love Lika has been created by The Amazing Protein Company who has worked to create delicious products that let consumers enjoy the foods they already love while perfectly preserving or improving flavor, texture, and nutrition.</p>

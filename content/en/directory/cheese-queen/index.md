@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5657
 ---
 <p>Producer of plant-based nut cheeses. There is a sustainable know-how developed in the factory. The company is using authentic production methods and hand-makes everything, however, the laboratory tests provide all-important security and reassurance in knowing that everything is fully tested, <em>naturally</em> matured, and loaded with millions of Lactobacillus Acidophilus <span class="amp">&amp;</span> Lactobacillus Bulgaricus  – delivering flavor explosions and encouraging superior health. The product is aging naturally and it becomes stronger, healthier and tastier with time.</p>

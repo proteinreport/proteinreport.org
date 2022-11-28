@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10023
 ---
 <p>Ginkgo is building a platform to enable customers to program cells as easily as we can program computers. The company&#039;s platform is enabling biotechnology applications across diverse markets, from food and agriculture to industrial chemicals to pharmaceuticals.</p>

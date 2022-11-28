@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5877
 ---
 <p>Osprey Biotechnics&#039; sole business is industrial microbiology. Osprey Biotechnics is an expert in isolating, characterizing, growing, and stabilizing beneficial bacteria. The company is producing high quality custom culture concentrates through toll manufacturing of client&#039;s proprietary strains. Osprey also markets its own innovative microbial products by forming strategic alliances with market leaders in their respective fields. The company&#039;s mission is to produce high quality cultures and bio-products and sell them at a fair price, thereby developing long-lasting business relationships with the customers.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8841
 ---
 <p>At Smallfood, our quest for a sustainable solution to the world’s massive protein – and food production – challenge resulted in the discovery of something ‘small’ with very ‘BIG’ potential. Through our unique strain of microalgae and proprietary biomass fermentation process, we are delivering to the world a more perfect protein.</p>

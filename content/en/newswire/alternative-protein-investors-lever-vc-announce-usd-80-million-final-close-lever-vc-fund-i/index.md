@@ -3,7 +3,7 @@ title: "Alternative Protein Investors Lever VC Announce USD $80 Million Final Cl
 date: 2021-09-15 12:20:34
 lastmod: 2021-09-15 12:20:34
 slug: /alternative-protein-investors-lever-vc-announce-usd-80-million-final-close-lever-vc-fund-i
-company: "Lever VC"
+company: 1332
 description: "Alternative protein venture capital fund Lever VC announced today it has completed final close of Lever VC Fund I with USD $80 million raised to back early stage plant-based and cultivated meat and dairy companies around the world."
 excerpt: "Alternative protein venture capital fund Lever VC announced today it has completed final close of Lever VC Fund I with USD $80 million raised to back early stage plant-based and cultivated meat and dairy companies around the world."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming]
@@ -11,13 +11,13 @@ products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]
 topics: [Business]
 regions: [International, US & Canada]
 flags: [Press Release, Investments]
-directory: [Eat Just, Beyond Meat, Impossible Foods, The Better Meat Co., Kite Hill, Miyoko's, TurtleTree Labs, Bond Pet Foods, This, Lever VC, Heura, Avant Meats, Aleph Farms, Mosa Meat, Mission Barns, Upside Foods, Good Planet Foods, Bluu Seafood, CellX, Blackbird Foods, The New, Mozza Foods, Welldone]
+directory: [234, 694, 695, 1170, 1243, 1248, 1249, 1269, 1294, 1332, 5760, 5810, 5816, 5820, 5827, 5831, 6196, 7856, 8329, 8464, 8602, 8754, 9334]
 images: ["levervc.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9695
 ---
 <p><em>Lever VC has built a portfolio of 19 fast-growing plant-based, cultivated and fermented animal protein companies; will begin raise of Lever VC Fund II early next year</em></p>
 <p><strong>New York</strong> — Alternative protein venture capital fund Lever VC announced today it has completed final close of Lever VC Fund I with USD $80 million raised to back early stage plant-based and cultivated meat and dairy companies around the world. The Fund has already built a portfolio of 19 fast-growing plant-based, cultivated and fermented animal protein companies from across the U.S., Europe, Asia and Latin America.</p>

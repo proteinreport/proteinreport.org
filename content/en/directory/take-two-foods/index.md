@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7113
 ---
 <p>Take Two Foods is a plant-based food and beverage company committed to creating second chances for our health and the planet. Take Two makes it easier and exciting for consumers to eat a more plant-rich diet by providing the best plant-based products found anywhere.</p>

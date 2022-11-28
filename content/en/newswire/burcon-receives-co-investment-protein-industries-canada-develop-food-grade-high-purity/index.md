@@ -12,13 +12,13 @@ products: [Ingredients]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
-directory: [Protein Industries Canada, Merit Functional Foods]
+directory: [7110, 7167]
 images: ["logo-lg.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10706
 ---
 <p><strong>Vancouver, British Columbia, April 7, 2022 </strong>-- Burcon NutraScience Corporation (“Burcon or the “Company”) (TSX: BU) (NASDAQ: BRCN), a global technology leader in the development of plant-based proteins for foods and beverages, is pleased to announce that it has received a co-investment from Protein Industries Canada for the development of high-quality protein ingredients from sunflower seeds.</p>
 <p>The $1 million project will see Burcon partnering with Pristine Gourmet, a processor of 100% pure Canadian non-GMO cold pressed virgin oils, to further develop Burcon’s novel process for the production of sunflower protein ingredients.  Premium sunflower protein isolate, that contains greater than 90% protein purity and have exceptional taste and functionality, has the potential of setting a new benchmark in the growing plant-based ingredients market. Leveraging Burcon’s core protein extraction and purification platform, the project intends to fine-tune and scale up an economical extraction and isolation process arising from the by-product (pressed cake) of sunflower oil production.</p>

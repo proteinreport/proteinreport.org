@@ -3,7 +3,7 @@ title: "Melt&Marble advances in the production of fermentation-derived animal fa
 date: 2022-05-05 08:35:03
 lastmod: 2022-05-05 08:35:03
 slug: /meltmarble-advances-production-fermentation-derived-animal-fats-and-secures-eu5m-round
-company: "Melt&Marble"
+company: 10458
 description: "Swedish company Melt&Marble, which uses precision fermentation to produce customized fats for the plant-based sector, has created a non-animal fat with the properties of beef fat."
 excerpt: "Swedish company Melt&Marble, which uses precision fermentation to produce customized fats for the plant-based sector, has created a non-animal fat with the properties of beef fat."
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Lever VC, Melt&Marble]
+directory: [1332, 10458]
 images: ["Florian David-Anastasia Krivoruchko_0.jpg"]
 additional_images: ["Melt&Marble beef fat (4)_0.jpg", "Melt&Marble beef fat (2).jpg", "Melt&Marble beef fat.jpg", "Plant-based meatball with Melt&Marble fat.jpg", "Melt&Marble team.jpg", "Anastasia Krivoruchko.jpg", "Florian David.jpg", "Jens Nielsen.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10812
 ---
 <p>Gothenburg — Swedish company Melt&Marble, which uses precision fermentation to produce customized fats for the plant-based sector, has created a non-animal fat with the properties of beef fat. Since the technology can also be used to produce other animal fats, this could be a real game changer in sustainable food production. In connection with this the company secured a €5 million Series Seed financing round to scale-up production and expand the team.</p>
 <p>Melt&Marble’s precision fermentation platform enables it to create customized fats with molecular properties mirroring those of animal fats, allowing for ingredients that deliver the flavor, melt and mouthfeel of real animal fat. Its ingredients will enable a major step forward in erasing the taste gap between conventional animal-based foods and plant-based alternatives.</p>

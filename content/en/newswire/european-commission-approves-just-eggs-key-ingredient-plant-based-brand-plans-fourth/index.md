@@ -3,7 +3,7 @@ title: "European Commission Approves JUST Egg's Key Ingredient as Plant-Based Br
 date: 2022-04-05 20:23:59
 lastmod: 2022-04-05 20:23:59
 slug: /european-commission-approves-just-eggs-key-ingredient-plant-based-brand-plans-fourth
-company: "Eat Just"
+company: 234
 description: "Eat Just announced today that the key ingredient in its popular plant-based JUST Egg products has received approval from the European Commission. The landmark approval for mung bean protein paves the way for the launch of JUST Egg in Europe in the fourth quarter of this year."
 excerpt: "Eat Just announced today that the key ingredient in its popular plant-based JUST Egg products has received approval from the European Commission. The landmark approval for mung bean protein paves the way for the launch of JUST Egg in Europe in the fourth quarter of this year."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Eggs]
 topics: [Policy]
 regions: [Europe]
 flags: [Press Release]
-directory: [Eat Just, Good Food Institute, Plant Based Foods Association]
+directory: [234, 698, 6139]
 images: ["bean-to-plate_highres.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10694
 ---
 <p>SAN FRANCISCO -- Eat Just, Inc., a company that applies cutting-edge science and technology on a mission to create healthier, more sustainable foods, announced today that the key ingredient in its popular plant-based JUST Egg products has <a href="https://ec.europa.eu/transparency/comitology-register/screen/documents/079416/1/consult?lang=en">received approval from the European Commission</a>. The landmark approval for mung bean protein paves the way for the launch of JUST Egg in Europe in the fourth quarter of this year.</p>
 <p>This decision means America’s fastest-growing egg brand can enter the market in countries belonging to the European Union and the European Free Trade Association. The allowance also ensures that Eat Just’s pioneering use of mung bean protein for plant-based egg products cannot be leveraged by other food companies seeking to introduce similar products for five years unless those companies obtain authorization through the same novel food application process.</p>

@@ -3,7 +3,7 @@ title: "Cellular Agriculture Europe formally launched to create shared voice for
 date: 2021-12-03 11:15:57
 lastmod: 2021-12-03 11:15:57
 slug: /cellular-agriculture-europe-formally-launched-create-shared-voice-new-cultivated-meat
-company: "Cellular Agriculture Europe"
+company: 10129
 description: "Cellular Agriculture Europe, the newly established association representing the cellular agriculture industry in Europe, held this week its first General Assembly meeting."
 excerpt: "Cellular Agriculture Europe, the newly established association representing the cellular agriculture industry in Europe, held this week its first General Assembly meeting."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat, Seafood, Ingredients]
 topics: [Business, Policy]
 regions: [Europe]
 flags: [Press Release]
-directory: [Believer Meats, Gourmey, Mirai Foods, Aleph Farms, SuperMeat, Meatable, Mosa Meat, Higher Steaks, Peace of Meat, Cubiq Foods, Bluu Seafood, Ivy Farm Technologies, Cellular Agriculture Europe]
+directory: [1310, 1345, 5803, 5816, 5817, 5819, 5820, 5824, 5853, 6179, 7856, 9042, 10129]
 images: ["cae.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10130
 ---
 <p><strong>Brussels, 3rd December 2021</strong>: Cellular Agriculture Europe, the newly established association representing the cellular agriculture industry in Europe, held this week its first General Assembly meeting. These companies are making the same foods Europeans love in a new way. Cellular agriculture requires only a small sample of animal cells to grow meat, fish, and oils without growing the whole animal.</p>
 <p>The meeting was the occasion to elect the Board of Directors of the association and to agree on the mission of Cellular Agriculture Europe: to bring together producers of cultivated meat, seafood, ingredients, and products with stakeholders to find common ground and speak with a shared voice for the good of the industry, consumers, and regulators.</p>

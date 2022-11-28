@@ -3,7 +3,7 @@ title: "CulNet Consortium Moves into Full Swing with IntegriCulture at the Helm"
 date: 2021-06-18 12:18:29
 lastmod: 2021-06-18 12:18:29
 slug: /culnet-consortium-moves-full-swing-integriculture-helm
-company: "IntegriCulture"
+company: 5818
 description: "Cellular agriculture pioneer IntegriCulture announces the CulNet Consortium, an open innovation platform for cellular agriculture."
 excerpt: "Cellular agriculture pioneer IntegriCulture announces the CulNet Consortium, an open innovation platform for cellular agriculture."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release]
-directory: [IntegriCulture]
+directory: [5818]
 images: ["logos_0.jpg"]
 additional_images: ["CulNet.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9181
 ---
 <p class="text-align-center"><em>A future where cellular agriculture enters the mainstream for meat,<br />
 cosmetics, nutraceuticals, and materials</em></p>

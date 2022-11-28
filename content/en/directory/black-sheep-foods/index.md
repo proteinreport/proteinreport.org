@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1229
 ---
 <p>Black Sheep Foods was founded in June 2019 by former employees of cell-based seafood startup Finless Foods. The lamb burger the company is developing is made from soy protein, coconut oil, and natural flavors.</p>

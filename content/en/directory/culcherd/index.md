@@ -19,6 +19,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5603
 ---
 A dairy alternative company making delicious, kind, plant-based foods that are rich in probiotics.
 

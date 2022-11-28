@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1230
 ---
 <p>Cauldron is the UK based producer of plant-based foods including tofu, falafel, sausages, and a range of ready to eat products.</p>

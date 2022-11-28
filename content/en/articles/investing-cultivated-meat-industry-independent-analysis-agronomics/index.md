@@ -10,13 +10,14 @@ products: [Meat, Seafood]
 topics: [Business]
 regions: [International]
 flags: [Featured, Analysis]
-directory: [Eat Just, Beyond Meat, Impossible Foods, Good Food Institute, SuperMeat, Meatable, Mosa Meat, Shiok Meats, BlueNalu, Upside Foods, Steakholder Foods, Agronomics, Eat Beyond Global Holdings, CellX]
+directory: [234, 694, 695, 698, 5817, 5819, 5820, 5821, 5829, 5831, 5836, 6149, 7964, 8329]
 contributors: [Doug Grant]
 images: [lead image_0.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 9188
 ---
 <p><strong><em>Disclosure: I am invested in Agronomics. This analysis is for informational purposes only and is not investment advice. I am not an investment advisor, nor am I compensated by Agronomics, Protein Report, or any other entity for this content.</em></strong></p>
 
@@ -71,7 +72,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Cultivated%20Meat%20Companies%20by%20Funding_0.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:868,&quot;height&quot;:809,&quot;rel&quot;:&quot;blazy-filter-ppojaanlhv4-16-export-data-export-1&quot;}">      <div style="padding-bottom: 93.17%;" data-ratio="93.17" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Cultivated%20Meat%20Companies%20by%20Funding_0.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:868,&quot;height&quot;:809,&quot;rel&quot;:&quot;blazy-filter-5bthak8nubq-16-export-data-export-1&quot;}">      <div style="padding-bottom: 93.17%;" data-ratio="93.17" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Table 1: Cultivated meat companies by funding. Source: Crunchbase." title="Cultivated Meat Companies by Funding_0.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="c8d7004a-fa6e-4071-a5db-e23037346135" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/Cultivated%20Meat%20Companies%20by%20Funding_0.jpg?itok=U6pc1ELE" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20966%20900'%2F%3E" width="966" height="900" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
@@ -105,7 +106,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Agronomics%20Portfolio.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:875,&quot;height&quot;:831,&quot;rel&quot;:&quot;blazy-filter-ppojaanlhv4-16-export-data-export-1&quot;}">      <div style="padding-bottom: 94.94%;" data-ratio="94.94" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Agronomics%20Portfolio.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:875,&quot;height&quot;:831,&quot;rel&quot;:&quot;blazy-filter-5bthak8nubq-16-export-data-export-1&quot;}">      <div style="padding-bottom: 94.94%;" data-ratio="94.94" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Table 2: Agronomics portfolio details. Market caps calculated based on Agronomics Investor Resources and press releases." title="Agronomics Portfolio.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="16b71be8-a546-4345-b22d-e3c3f21c739a" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/Agronomics%20Portfolio.jpg?itok=U3bvmlVG" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20948%20900'%2F%3E" width="948" height="900" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 700
 ---
 <p>Wild Earth is a sustainable, biotech-driven pet food company on a mission — to make dog food better. Similar to food innovators creating cultured protein for human consumption, Wild Earth is developing clean, plant and fungi-based proteins for our pets that are healthier, better for the environment, and more humane than conventional products. Looking to transform the pet food industry by way of meat-free alternatives, Wild Earth is led by cellular agriculture pioneers and an experienced business team comprised of chief executive officer Ryan Bethencourt and chief veterinary officer Dr. Ernie Ward, also known as “America’s Pet Advocate.”</p>

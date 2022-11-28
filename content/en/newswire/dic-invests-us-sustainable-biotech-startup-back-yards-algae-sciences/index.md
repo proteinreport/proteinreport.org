@@ -12,13 +12,13 @@ products: [Ingredients]
 topics: [Business]
 regions: [Asia, US & Canada]
 flags: [Press Release, Investments]
-directory: [Back of the Yards Algae Sciences]
+directory: [5839]
 images: ["lab 20.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11057
 ---
 <p>Tokyo, Japan - <strong><a href="https://www.dic-global.com/en/">DIC Corporation</a></strong> has completed investment in <strong><a href="https://www.algaesciences.com/">Back of the Yards Algae Sciences Inc. (BYAS)</a></strong>, a sustainable food technology startup focused on developing innovative extracts and alternative proteins, headquartered in Chicago, Illinois. The move strategically advances DIC’s growing business position in more sustainable and circular algae-derived products, including natural food colorants, natural food additives, and biostimulants—vital for improving vertical farming yields.</p>
 <p>BYAS owns proprietary technology for efficiently extracting active ingredients from biobased materials, notably algae and mycelia. BYAS currently produces unique products such as food colorants, food additives, biostimulants. The company’s spirulina (cyanobacteria) algae-based Heme Analog (BYAS-AHA) is receiving intense interest for its ability to enhance the alternative meat taste and aroma, without the use of genetically modified organisms (GMO).</p>

@@ -12,13 +12,13 @@ products: [Dairy]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Eatable Adventures]
+directory: [10963]
 images: ["Gabriel Torres Pascual_Mylkcubator.jpg"]
 additional_images: ["Mylkcubator.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9001
 ---
 <p>Pascual, a leading Spanish manufacturer of dairy products and beverages, has launched Mylkcubator, the first global incubation program for cellular agriculture technologies in the dairy industry. The program is run by the group’s new Corporate Venture unit, Pascual Innoventures, on a mission to support innovative startups disrupting the dairy value chain.</p>
 <p>Pascual Innoventures aims to become an early stage investor, accelerating and forging alliances with startups that share the same purpose while also thriving as a corporation by launching its own startups, with the objective of incorporating them into Pascual's future business operations.</p>

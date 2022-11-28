@@ -3,7 +3,7 @@ title: "Precision Fermentation: Nutropy Raises €2M from Top Biotech and Alt Pr
 date: 2022-09-12 07:00:00
 lastmod: 2022-09-12 07:00:00
 slug: /precision-fermentation-nutropy-raises-eu2m-top-biotech-and-alt-protein-investors-develop
-company: "Nutropy"
+company: 11147
 description: "Nutropy, created by Nathalie Rolland and Dr. Maya Bendifallah, two founders willing to propose a new sustainable way to produce dairy products, raises €2M for the pilot production of their animal-free cheese and milk ingredients. Supported by renowned international food tech expert investors, the startup plans to launch its first industrial production of animal-free premium cheese within the next 24 months."
 excerpt: "Nutropy, created by Nathalie Rolland and Dr. Maya Bendifallah, two founders willing to propose a new sustainable way to produce dairy products, raises €2M for the pilot production of their animal-free cheese and milk ingredients. Supported by renowned international food tech expert investors, the startup plans to launch its first industrial production of animal-free premium cheese within the next 24 months."
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Dairy]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Big Idea Ventures, Nutropy]
+directory: [6600, 11147]
 images: ["Fomage_fondant_HQ_logo.jpg"]
 additional_images: ["Proto A4 HQ - logo.jpg", "Nathalie Rolland.jpg", "Maya Bendifallah.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11148
 ---
 <p><strong>Paris - FRANCE, 12.09.2022. Nutropy, created by Nathalie Rolland and Dr. Maya Bendifallah, two founders willing to propose a new sustainable way to produce dairy products, raises €2M for the pilot production of their animal-free cheese and milk ingredients. Supported by renowned international food tech expert investors, the startup plans to launch its first industrial production of animal-free premium cheese within the next 24 months.</strong></p>
 <p>The €2M pre-seed round was led by Beast, Big Idea Ventures (itself supported by Bel Group, AAK, and others) and Trellis Road. “Beast is super excited to partner with Nutropy on bringing premium animal-free cheese to the world. We are particularly impressed with Nathalie and Maya’s innovative vision for scaling fermentation processes and their dedication to producing innovative, impactful products. We are proud to welcome them to the growing Beast family of climate deeptech companies”, says Patrick Schneider-Sikorsky, founder and managing partner at Beast. The round was supported by VegCapital, FoodHack, Techmind (through Jericho, its investors club dedicated to sustainable food), a few international business angels with experience in technology, food technology and agriculture and the French government.</p>

@@ -18,7 +18,7 @@ additional_images: ["marvelous2.jpg", "marvelous3jpg.jpg", "marvelous4.jpg", "ma
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8986
 ---
 <p>BEIJING, China, May 20, 2021 -- China plant-based snacking company Marvelous Foods has launched a Tmall flagship store for its signature product Yeyo Coconut Yogurt. Yeyo is China’s first plant-based coconut yogurt with zero added sugar, artificial flavors and sweeteners. Its Tmall store is the first-ever plant-based coconut yogurt flagship store on China’s leading e-commerce platform.</p>
 <p>Yeyo’s product and brand design is positioned to tap into the premiumization of two rapidly growing categories, China’s USD $17 billion dollar yogurt market and USD $433 billion dollar snacking market. “We created this product to ride the trend of snacking premiumization that’s taking off in tier 1 cities in the health-conscious age of COVID-19,” says founder Christiana Zhu. “With very high new product development rates compared to other categories, snacking offers a great entry point for innovative new plant-based 2.0 products.”</p>

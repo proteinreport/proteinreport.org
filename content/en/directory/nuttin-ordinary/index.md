@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5710
 ---
 Nuttin Ordinary is founded on the idea of creating clean, simple ingredient-based foods. Nuttin Ordinary is the first 100% plant-based cheese manufacturer in New England. They use proprietary probiotic blend and production process achieving the taste and consistency which customers expect.nutt

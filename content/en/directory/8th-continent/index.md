@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5554
 ---
 <p>Stremicks Heritage Foods is a family run business. The company produces and sells the high quality plant-based dairy products at affordable prices . </p>

@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6860
 ---
 <p>Starfield researches, produces, and supplies plant-based meat and protein products. With its own in-house R&amp;D team, Starfield has five production lines with a total output capacity of 1,700 tons per month.</p>

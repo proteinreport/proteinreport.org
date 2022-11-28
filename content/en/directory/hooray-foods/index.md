@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5679
 ---
 Hooray Foods have been founded by Sri Artham who experimented with crafting bacon by mixing plant ingredients in his San Francisco kitchen. He has created the first plant-based pork.

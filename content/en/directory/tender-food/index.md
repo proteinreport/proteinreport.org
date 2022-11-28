@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7240
 ---
 <p>Tender Food is solving the texture problem in the production of alternative meat products. For this new industry to grow, several breakthroughs will be key, including recreating the real texture and taste of meat and scaling it for food production. Tender Food’s team brings cumulative decades of experience to the problem, and has developed highly scalable technologies for recreating the texture in plant-based and cell-cultured meats. (Previously Boston Meats)</p>

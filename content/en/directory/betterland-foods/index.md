@@ -15,5 +15,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10551
 ---
 <p>betterland foods is committed to creating a portfolio of cow-free products that tread lightly on the land, are healthier for humans and promise to delight.</p>

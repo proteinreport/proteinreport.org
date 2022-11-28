@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 698
 ---
 <p>We work with scientists, investors, and entrepreneurs to make groundbreaking good food a reality. We focus on clean meat and plant-based alternatives to animal products—foods that are more delicious, safer to eat, and better for the planet than their outdated counterparts. We provide marketing, design, legal, business, media, and other support to a select number of early-stage companies producing clean and plant-based products. For established companies, we help their products succeed in the marketplace by mobilizing millions of supportive consumers to encourage their sale in stores, restaurants, and foodservice outlets.</p>

@@ -3,7 +3,7 @@ title: "Brevel and Yotvata Partner to Build Commercial-Scale Microalgae Manufact
 date: 2022-09-07 12:14:23
 lastmod: 2022-09-07 12:14:23
 slug: /brevel-and-yotvata-partner-build-commercial-scale-microalgae-manufacturing-facility
-company: "Brevel"
+company: 10918
 description: "Kibbutz Yotvata and Brevel sign a Memorandum Of Understanding agreeing to build a commercial-scale manufacturing facility for the cultivation and production of microalgae-based protein and related products for the food and beverage industry. The facility will be home to the largest fermentation reactors of their kind, sized at 30,000L, which will have the capacity to produce 900,000L per year when fully operational in order to support the rising demand in the EU and Middle Eastern markets."
 excerpt: "Kibbutz Yotvata and Brevel sign a Memorandum Of Understanding agreeing to build a commercial-scale manufacturing facility for the cultivation and production of microalgae-based protein and related products for the food and beverage industry. The facility will be home to the largest fermentation reactors of their kind, sized at 30,000L, which will have the capacity to produce 900,000L per year when fully operational in order to support the rising demand in the EU and Middle Eastern markets."
 proteins: [Algae]
@@ -11,13 +11,13 @@ products: [Ingredients]
 topics: [Business]
 regions: [Middle East]
 flags: [Press Release]
-directory: [Brevel]
+directory: [10918]
 images: ["Brevel protein powder.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11146
 ---
 <p><em>Israel, September 7, 2022 – </em>Kibbutz Yotvata and <a href="https://mailtrack.io/trace/link/a2de6f3cb591d2b7889b8a054786d706c3024c3d?url=https%3A%2F%2Fbrevel.co.il%2F&userId=8504106&signature=7ab89b883e5515d8">Brevel</a> sign a Memorandum Of Understanding agreeing to build a commercial-scale manufacturing facility for the cultivation and production of microalgae-based protein and related products for the food and beverage industry. The facility will be home to the largest fermentation reactors of their kind, sized at 30,000L, which will have the capacity to produce 900,000L per year when fully operational in order to support the rising demand in the EU and Middle Eastern markets. Today, Brevel uses fermenters that have the capacity of 5000L.</p>
 <p>Kibbutz Yotvata runs Yotvata Dairy Plant in joint ownership with Strauss, while investing in the field of food, renewable energy and sustainability.</p>

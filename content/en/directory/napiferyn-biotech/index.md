@@ -17,6 +17,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7405
 ---
 <p>A novel, environmentally friendly technology for production of natural, fully functional rapeseed protein isolates is offered by NapiFeryn BioTech (NFB in short), a Polish biotechnology company.</p>
 <p>NapiFeryn BioTech solutions are dedicated to oilseed processing companies and will be subject to license.</p>

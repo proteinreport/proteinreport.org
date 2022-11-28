@@ -12,13 +12,13 @@ products: [Meat, Dairy, Seafood, Pet Food, Ingredients]
 topics: [Business]
 regions: [International]
 flags: [Press Release]
-directory: [Kuleana, NotCo, Planted, Because Animals, Fumi Ingredients, Noblegen, Youkuai Group (Z-Rou), Better Dairy, Mzansi Meat Co., Next Meats]
+directory: [1298, 5703, 5791, 5842, 5893, 5948, 6861, 6916, 7119, 8802]
 images: ["FFTP21 -  Meet The Start-Ups Headshots_0.jpg"]
 additional_images: ["FFTP21 - Meet the Start-Ups_0.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9030
 ---
 <p><strong>The growing appetite for sustainable proteins is fueling demand for new product choices, driving innovators to unlock new scalable solutions. Disruptive technologies from emerging start-ups are critical to building the future of protein. </strong></p>
 <p>At Future Food-Tech Alternative Proteins on June 22-23, the summit will spotlight twenty one game-changing solutions in the summit’s Start-Up Arena, Innovation Challenge Finale with Quorn Foods and Roquette, Start-Up TechHub, Fireside Chats and Step-Up to the Plate cooking demonstrations.</p>

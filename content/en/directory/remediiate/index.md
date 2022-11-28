@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6543
 ---
 <p>'Remediiate'​ enables emitters of CO2 to transform their waste output into valuable Fish and animal Feed. By deploying CO2-eating algae, we produce a tonne of Feed for every 2 tonnes of CO2. (We also produce 1 tonne of life-giving Oxygen).</p>

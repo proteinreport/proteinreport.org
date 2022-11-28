@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5566
 ---
 <p>Yofix Probiotics LTD. develops and manufactures dairy &amp; soy free fermented plant-based pre &amp; pro-biotic foods. The products have an excellent taste and texture, are clean label and have no artificial or preservative added. The ingredients are simply cereals, lentils, grains and seeds. The products contain high nutritional values and are have a sustainable production process. The first product ready to market is plant-based fermented yogurt style which will be followed by plant-based yogurt style drinks, desserts, frozen yogurts, ice cream base and many more plant-based products.</p>

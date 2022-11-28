@@ -18,7 +18,7 @@ additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8420
 ---
 <p>CPI, an independent technology innovation centre and founding member of the High Value Manufacturing Catapult, today announced its plans to establish a Novel Food, Feed and Nutraceuticals Innovation Centre of Excellence, catalysed by £4 million in funding from the Tees Valley Mayor and Combined Authority Cabinet.</p>
 <p>By becoming the go-to place for process development and scale-up of novel foods, feeds and nutraceuticals, this will help to drive both CPI and the Tees Valley as leaders in biomanufacturing and food innovation. The investment from the Tees Valley Combined Authority builds on recent investments from CPI to create food grade precision fermentation and pilot plant capabilities at the Wilton Centre in Redcar.</p>

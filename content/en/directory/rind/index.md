@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5998
 ---
 <p>RIND is a plant-based cheese of the future that goes through a primordial process; microbes break down the proteins &amp; fats into many molecules that pack tons of flavors. Edible spores form a rind that locks in and magnifies this magical, biological process. Rind uses a proprietary blend of ancient microbes, fats, proteins &amp; sugars to make flavors that other plant-based cheeses can only dream about.</p>

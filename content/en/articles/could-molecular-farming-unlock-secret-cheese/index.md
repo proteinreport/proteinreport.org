@@ -10,13 +10,14 @@ products: [Meat, Dairy, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [Europe, US &amp; Canada]
 flags: [Featured]
-directory: [ORF Genetics, Tiamat Sciences, Mozza Foods, Nobell Foods]
+directory: [5897, 7241, 8754, 9366]
 contributors: [Avery Parkinson]
 images: [Greenhouse 2.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 10467
 ---
 <p><em><strong>Gene-recombinant biotechnologies aim to produce key animal proteins at a fraction of the cost of conventional animal husbandry. The implications for research, medicine, food systems, and the climate could be huge. But can these emergent technologies scale quickly enough to spur system-wide change?</strong></em></p>
 

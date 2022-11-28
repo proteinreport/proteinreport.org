@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8360
 ---
 <p>Based in London, Hoxton Farms is cultivating a revolution. We combine cell biology and mathematical modelling to make a better kind of fat. Starting from just a few cells, we grow purified animal fat in bioreactors to produce a delicious, cruelty-free and sustainable ingredient.</p>

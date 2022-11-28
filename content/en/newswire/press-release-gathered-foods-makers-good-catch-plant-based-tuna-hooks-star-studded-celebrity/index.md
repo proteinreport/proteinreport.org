@@ -3,7 +3,7 @@ title: "Gathered Foods, Makers Of Good Catch Plant-Based Tuna, Hooks Star-Studde
 date: 2020-05-21 18:24:58
 lastmod: 2020-05-21 18:24:58
 slug: /press-release-gathered-foods-makers-good-catch-plant-based-tuna-hooks-star-studded-celebrity
-company: "Good Catch Foods"
+company: 837
 description: "Woody Harrelson, Shailene Woodley, Paris Hilton and Lance Bass invest in the rapidly growing plant-based seafood brand"
 excerpt: "Woody Harrelson, Shailene Woodley, Paris Hilton and Lance Bass invest in the rapidly growing plant-based seafood brand"
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Seafood]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
-directory: [Good Catch Foods]
+directory: [837]
 images: ["Full-Product-Line_041020-1-2048x695 (1).jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 6949
 ---
 <p>NEW YORK, May 21, 2020 /PRNewswire/ — <a href="https://c212.net/c/link/?t=0&l=en&o=2809829-1&h=2473377282&u=http%3A%2F%2Fgatheredfoods.com%2F&a=Gathered+Foods">Gathered Foods</a>, makers of <a href="https://c212.net/c/link/?t=0&l=en&o=2809829-1&h=1464719621&u=https%3A%2F%2Fgoodcatchfoods.com%2F&a=Good+Catch%C2%AE">Good Catch®</a> plant-based seafood products, today announced a new group of celebrity investors bolstering the growth of the rising company. The dynamic roster includes Woody Harrelson, Shailene Woodley, Paris Hilton and Lance Bass, all of whom come from diverse backgrounds to share their passion and support for the future of the plant-based industry.</p>
 

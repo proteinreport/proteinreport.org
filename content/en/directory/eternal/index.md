@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9419
 ---
 <p>Eternal is solving the absence of a properly sustainable and cost-effective protein ingredient that is flavor neutral. The company uses AI and computer vision to improve the fungi fermentation techniques of existing and approved strains. The result is a market-ready product that suits better the needs of a range of food manufacturers, reducing the amount of post processing needed for an end product. (Previously Kernel Mycofoods)</p>

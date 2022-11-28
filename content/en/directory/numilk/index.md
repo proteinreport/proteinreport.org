@@ -17,6 +17,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5714
 ---
 Founded in 2017 by CEO Ari Tolwin and CPO Joseph Savino, Numilk has developed a proprietary vending machine capable of producing nearly any type of plant-based milk. 
 The Numilk Company is seeking to introduce that model to plant-based dairy alternatives through a line of internet-connected machines that can make fresh almond and oat milk on the spot.

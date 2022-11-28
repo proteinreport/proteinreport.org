@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8981
 ---
 <p>Gelatex is a materials technology startup that is specialized in innovating bio-based nanofibrous materials and nanofiber production technologies. Compared to electrospinning, their technology enables over 90% cheaper nanofiber production for applications such as tissue engineering, cultured meat, drug discovery, wound care, energy storage, filtration, and more.</p>

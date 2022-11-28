@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 694
 ---
 <p>At Beyond Meat, we believe there is a better way to feed the planet. Our mission is to create The Future of Protein® – delicious plant-based burgers, beef, sausage, crumbles, and more. By shifting from animal to plant-based meat, we can address four growing global issues: human health, climate change, constraints on natural resources, and animal welfare.</p>

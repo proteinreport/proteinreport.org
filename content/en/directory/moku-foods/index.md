@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5783
 ---
 <p>We partnered with a renowned plant-based chef to create the most delicious jerky that is 100% plant-based, clean label, and free of the top 8 allergens.</p>

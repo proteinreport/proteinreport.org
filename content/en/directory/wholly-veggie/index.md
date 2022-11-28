@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5752
 ---
 <p>Wholly Veggie products offer a simple way to incorporate vegetables into the diet since they are all made from plant-based ingredients. Perfect for afternoon cravings, they are a great way for children to get a delicious, healthy snack at the end of the day. They’re also an amazing alternative to traditional sweet or salty snacks, making them the perfect way to start up your new year, new you resolutions.</p>

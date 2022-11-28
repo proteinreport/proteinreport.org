@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7111
 ---
 <p>We are working to make the concept of cellular agriculture known to everyone in Japan. We are engaged in activities with the mission of promoting cellular agriculture in society with the understanding and trust of people. As a voluntary organization “Shojinmeat Project”, we have been widely disseminating information to society through experimental classrooms, study sessions, sales of publications, and creative activities as an extension activity of cellular agriculture.</p>

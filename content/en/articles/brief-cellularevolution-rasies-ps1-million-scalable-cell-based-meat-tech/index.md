@@ -10,13 +10,14 @@ products: [Meat]
 topics: [Business]
 regions: [Europe]
 flags: [Featured, Investments]
-directory: [CellRev, CPT Capital]
+directory: [5855, 6280]
 contributors: [Avery Parkinson]
 images: [Peptide-Technology_Slides-01-2048x1448_2.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 8409
 ---
 <p>CellulaREvolution is a UK-based startup working to solve two problems facing the cultivation of adherent cells for cultured meat: culture sera and available surface area.</p>
 

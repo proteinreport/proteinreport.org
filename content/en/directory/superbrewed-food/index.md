@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6617
 ---
 <p>Superbrewed Food, based in New Castle Delaware, uses anaerobic fermentation to generate microbial protein that balances nutrition, affordability and performance.</p>

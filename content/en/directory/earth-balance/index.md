@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5957
 ---
 <p>Earth Balance produces a line of deliciously plant-made snacks, mac &amp; cheese, buttery spreads, nut butters, mayonnaise and coconut spread. All Earth Balance products are plant-based, without artificial ingredients and hydrogenated oils, free of lactose and eggs.</p>

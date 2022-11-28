@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7307
 ---
 <p>3D Bioprinting Solutions is a Laboratory for Biotechnological Research founded by INVITRO, the largest private medical company in Russia. The laboratory develops and produces bioprinters and materials for 3D bioprinting, and also develops innovative technologies in the field of biofabrication.</p>

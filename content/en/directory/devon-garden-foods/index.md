@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6870
 ---
 <p>We’ve crafted a delicious, smooth and creamy milk alternative from yellow split peas that has more proteins, more fibre, and significantly less sugars than other alternatives. So, join the cause and help us build a resilient food system that benefits our planet and all its inhabitants.</p>

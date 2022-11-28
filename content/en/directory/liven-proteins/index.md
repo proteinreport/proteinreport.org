@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10454
 ---
 <p>Liven makes sustainable protein ingredients to help plant-based food to have the same texture and nutritional value as conventional animal products. We are a precision fermentation company that transforms agriculture and food co-products to premium protein ingredients, enabling a circular economy.</p>

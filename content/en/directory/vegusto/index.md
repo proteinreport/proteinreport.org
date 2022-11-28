@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5774
 ---
 <p>The Vegi-Service AG was founded in 1997 with the vision to create tasty meat and cheese alternatives. The complete Vegusto range includes more than 60 products, allowing you to convert almost any conventional recipe into a plant-based and cholesterol-free alternative.</p>

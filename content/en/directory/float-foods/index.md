@@ -15,5 +15,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9129
 ---
 <p>Float Foods is bringing about change in our environment by transforming how we eat and what we eat. They aim to build up their local capabilities by offering tasty nutrient-dense plant-based foods, by leveraging food tech and innovation. They plan to invest in local production to impact food security.</p>

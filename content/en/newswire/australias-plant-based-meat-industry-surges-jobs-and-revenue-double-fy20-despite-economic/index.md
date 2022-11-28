@@ -3,7 +3,7 @@ title: "Australia’s plant-based meat industry surges: Jobs and revenue double 
 date: 2021-03-15 08:38:10
 lastmod: 2021-03-15 08:38:10
 slug: /australias-plant-based-meat-industry-surges-jobs-and-revenue-double-fy20-despite-economic
-company: "Food Frontier"
+company: 8588
 description: "Despite COVID restrictions and lockdowns, consumer demand for plant-based meat products in Australia – such as meat-free burgers, sausages and ready meals – grew exponentially last year, according to a new report out today with modelling by Deloitte Access Economics."
 excerpt: "Despite COVID restrictions and lockdowns, consumer demand for plant-based meat products in Australia – such as meat-free burgers, sausages and ready meals – grew exponentially last year, according to a new report out today with modelling by Deloitte Access Economics."
 proteins: [Cell-Based, Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Oceania]
 flags: [Press Release]
-directory: [V2food, Fable Food Company, Food Frontier]
+directory: [5800, 6264, 8588]
 images: ["Report Cover.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8589
 ---
 <p>Despite COVID restrictions and lockdowns, consumer demand for plant-based meat products in Australia – such as meat-free burgers, sausages and ready meals – grew exponentially last year, according to a new report out today with modelling by Deloitte Access Economics.</p>
 

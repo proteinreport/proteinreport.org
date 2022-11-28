@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5897
 ---
 <p>ORF Genetics is committed to developing innovative, economically viable and enabling solutions for the production of recombinant proteins in a more efficient, safer manner than other protein expression systems. ORF has developed the unique expression system Orfeus, which uses barley grain as a vehicle for recombinant protein production. Orfeus has been found to be particularly effective in expression of growth factors and cytokines. Efforts in expressing growth factors and cytokines in Orfeus have resulted in an extensive portfolio of these type of proteins, enabling ORF to launch two distinctive growth factor/cytokine based products in the market.</p>

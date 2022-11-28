@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7131
 ---
 <p>We are a non-profit organisation with the mission of promoting and accelerating research, collaboration, and innovation across the cellular agriculture sector in Australia. As the chief advocacy group for cellular agriculture in Australia, our aim is to support all stakeholders: researchers, industry leaders, government, and consumers. We do so by fostering regular meetings, developing partnerships with international laboratories and companies, championing training opportunities for students, and securing funds from public and private sources.</p>

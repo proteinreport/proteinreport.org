@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6974
 ---
 <p>Umaro makes the meatiest plant-based protein from the ocean, concentrating on red seaweeds to produce a high quality protein with mild flavor and red color. (Previously Trophic)</p>

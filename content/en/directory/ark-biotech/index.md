@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10549
 ---
 <p>Building fit-for-purpose, affordable bioreactors and operating systems for the industrial production of cultivated meat.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10552
 ---
 <p>Audra Labs develops products and technologies for plant-based and cultured-meat.</p>

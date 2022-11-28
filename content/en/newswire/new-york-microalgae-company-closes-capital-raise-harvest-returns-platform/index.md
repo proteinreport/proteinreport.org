@@ -18,7 +18,7 @@ additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 7987
 ---
 <p>FOR IMMEDIATE RELEASE</p>
 <p><strong>New York microalgae company closes capital raise via Harvest Returns platform</strong></p>

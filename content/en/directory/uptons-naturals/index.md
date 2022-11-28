@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5672
 ---
 <p>Dedicated to simplicity and the use of real, recognizable ingredients, Upton’s Naturals takes recipes that have been around for thousands of years and updates them for today.</p>

@@ -10,13 +10,14 @@ products: [Meat, Dairy]
 topics: [Business, Culture]
 regions: [US &amp; Canada]
 flags: [Interview, Featured]
-directory: [New Harvest, Good Food Institute, Perfect Day Foods, Big Idea Ventures, Cellular Agriculture Canada, Cellular Agriculture Australia]
+directory: [697, 698, 699, 6600, 7109, 7131]
 contributors: [Editor, Avery Parkinson]
 images: [avery1.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 9687
 ---
 <p>Every now and again a young person comes along whose intellect and wisdom seem to defy their age. Over the past year, we’ve had the privilege of working closely with one such individual. If you haven’t yet heard of her, you probably soon will.</p>
 

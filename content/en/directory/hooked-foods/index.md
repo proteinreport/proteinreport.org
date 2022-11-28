@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8330
 ---
 <p>Leading the transition to a healthier seafood ecosystem by serving delicious plant-based seafood for everyone to enjoy.</p>

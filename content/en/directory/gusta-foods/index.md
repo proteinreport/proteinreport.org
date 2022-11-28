@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5793
 ---
 <p>GUSTA creates and manufactures artisanal products that treat the taste buds, inspiring an easy and tasty cuisine, in order to develop accessible plant-based food, thus contribute to a better world.</p>

@@ -3,7 +3,7 @@ title: "Big Idea Ventures Explores Top Trends in Plant-Based Foods at Latest Gra
 date: 2021-05-25 14:34:17
 lastmod: 2021-05-25 14:34:17
 slug: /big-idea-ventures-explores-top-trends-plant-based-foods-latest-grand-hyatt-tasting
-company: "Big Idea Ventures"
+company: 6600
 description: "The event presented a hybrid tasting showcase around the next generation of alternative proteins and shares six of the hottest trends in plant- and cell-based products"
 excerpt: "The event presented a hybrid tasting showcase around the next generation of alternative proteins and shares six of the hottest trends in plant- and cell-based products"
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat, Dairy, Seafood]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release]
-directory: [Eat Just, Innocent Meat, Big Idea Ventures, Haofood]
+directory: [234, 5812, 6600, 8756]
 images: ["DSC00441.jpg"]
 additional_images: ["DSC00508.jpg", "DSC00573.jpg", "DSC00485.jpg", "DSC00596.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9009
 ---
 <p>SINGAPORE - <a href="https://bigideaventures.com/">Big Idea Ventures</a> and <a href="https://www.hyatt.com/en-US/hotel/singapore/grand-hyatt-singapore/sinrs?src=adm_sem_agn_pfx_corp_apac_other_PFX_Search_Google_ASPAC_ASPAC_SINRS_BR_Hyatt_SG_EN_SINRS_BR_Exact_Rooms_SG_EN_Grand+Hyatt+Singapore&gclid=CjwKCAjwnPOEBhA0EiwA609ReUZF5_8asno-EUcZIep6HGfYjc41qmlFy_MuepnNYZFD7-DfV0ULmBoCQT0QAvD_BwE&gclsrc=aw.ds">Grand Hyatt Singapore</a> held its first in-person and virtual tasting from the latest plant-based companies at the end of last month – <a href="https://tastingbigideas.com/"><em>Tasting Big Ideas 2021</em></a>. This was the third Big Idea Ventures tasting event showcasing alternative protein innovations, but the first time offering both in-person and virtual tasting experiences. The event showcased the World’s next generation of alternative protein companies.</p>
 <p><em>“Changes in global consumer demand, sustainability and food security is driving significant growth in alternative protein food innovation. Startups are fast developing alternatives to meat, dairy and seafood. We are now able to deliver a high culinary experience while delivering on these global and personal health benefits," </em>said <strong>Andrew D. Ive, Founder and Managing General Partner of </strong>Big Idea Ventures. Big Idea ventures is a venture capital fund with startup accelerators in key locations, investing in and accelerating top performers in the new food space. Its first fund, the New Protein Fund, has raised over USD$50 million to invest in the best companies in the alternative protein ecosystem.</p>

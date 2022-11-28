@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9257
 ---
 <p>Jellatech is a B2B biotech business based in Raleigh, NC and with R&amp;D in Wageningen, Netherlands. Jellatech is producing high quality, pure, animal-free collagen and gelatin. Founded by a group of innovators, dreamers, entrepreneurs and scientists, Jellatech is eliminating the dependency on animals, to make better ingredient products - starting with collagen and gelatin.</p>

@@ -3,7 +3,7 @@ title: "Food-Tech Start-Up Unveil the World’s First Unbreaded Jackfruit Fish F
 date: 2022-06-07 13:00:00
 lastmod: 2022-06-07 13:00:00
 slug: /food-tech-start-unveil-worlds-first-unbreaded-jackfruit-fish-fillet
-company: "Jack & Bry"
+company: 5758
 description: "Jack & Bry, an award-winning UK plant-based meat start-up, today unveiled the world’s first unbreaded jackfruit fish fillet, in collaboration with The Cornish Seaweed Company."
 excerpt: "Jack & Bry, an award-winning UK plant-based meat start-up, today unveiled the world’s first unbreaded jackfruit fish fillet, in collaboration with The Cornish Seaweed Company."
 proteins: [Plant-Based, Algae]
@@ -11,13 +11,13 @@ products: [Seafood]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, New Products]
-directory: [Jack & Bry]
+directory: [5758]
 images: ["Jackfruit Unbreaded Fish Fillet.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10925
 ---
 <p><strong>“It's as close to the real thing as you can get without an actual fish.”⁠ —<em> </em></strong><a href="https://www.cornwalllive.com/news/cornwall-news/tried-jackfruit-seaweed-burger-harbour-5808127"><strong><em>CornwallLive</em></strong></a></p>
 <p>LONDON, UK, June 7, 2022 — <a href="https://www.jackandbry.com/">Jack & Bry</a>, an award-winning UK plant-based meat start-up, today unveiled the world’s first unbreaded jackfruit fish fillet, in collaboration with The Cornish Seaweed Company.</p>

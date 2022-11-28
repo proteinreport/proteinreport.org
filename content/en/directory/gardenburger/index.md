@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1250
 ---
 <p>Gardenburger is the brand name of a veggie burger that originated in 1985 and is owned by the Kellogg Company.</p>

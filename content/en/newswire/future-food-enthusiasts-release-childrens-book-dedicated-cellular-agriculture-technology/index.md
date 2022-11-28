@@ -18,7 +18,7 @@ additional_images: ["illustration.png", "kickstarter-cover.png", "anita_broelloc
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9374
 ---
 <p><strong>SAN FRANCISCO, CA</strong>: Future Food Enthusiast Alex Shirazi, host of the Cultured Meat and Future Food Podcast, together with Anita Broellochs, Founder and CEO of Balletic Foods, and Gabriel Gonzalez, California based artist, are launching a children’s book about cellular agriculture technology. The children’s book, entitled “Where do Hot Dogs Come From? A Children’s Book About Cellular Agriculture” aims to educate children in the age 3 to 7 about cell-cultured meat technology and inspire young readers to develop a love for STEM.</p>
 <p>The story was inspired by a childhood experience of one of the team members, Anita, who grew up on a farm in Southern Germany. As a child, she became friends with the cows that were living in her backyard until one day she realized where all the sausages and meats were coming from. The book is taking the typical question of children where different foods, in this case hot dogs, come from into a different direction than what you would expect as an answer if the hot dogs were produced in a conventional way. Instead of a story that no one would like to hear, it takes a different direction and turns a family BBQ into a scientific journey where the “mom” explains how hot dogs are made with cellular agriculture technologies. A happy ending for everyone involved, including the neighborhood cow.</p>

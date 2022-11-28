@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10527
 ---
 <p>Arkeon Biotechnologies is an ingredients company based in Vienna, Austria leveraging the power of ancient microbes to create the most sustainable, nutritious and ethical food system possible. The company’s process converts CO2 directly into amino acids and functional peptides for the food industry, enabling an entirely new world of food products.</p>

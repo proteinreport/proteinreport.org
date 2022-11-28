@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5639
 ---
 Founded in 1978 as a family business, Banyan Foods is an innovative company based in Houston, Texas. The company sells mainly in Texas (they deliver to Houston, San Antonio, Austin, and Dallas), although the products can be found in smaller towns throughout the state.

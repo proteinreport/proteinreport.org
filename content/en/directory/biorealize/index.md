@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5867
 ---
 <p>Biorealize is a design, research and manufacturing company that builds next generation tools and technologies that makes it easier to design with biology. The company works with bakers, chefs, and food and beverage designers who explore new ways to standardize seed cultures, innovate new flavors, and perform quality control over fermentation methods. B | reactor has been used in many applications involving bread, coffee, cheese, and fermented cocktail design.</p>

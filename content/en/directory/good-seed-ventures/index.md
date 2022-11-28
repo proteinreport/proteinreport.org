@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6531
 ---
 <p>Good Seed Ventures is a purpose driven family owned and run innovation fund dedicated towards creating a more sustainable food industry. With our partners we seek more sustainable solutions of producing food for a growing population. Collectively we disrupt the food industry, leveraging our ecosystem of like-minded and complementary businesses.</p>

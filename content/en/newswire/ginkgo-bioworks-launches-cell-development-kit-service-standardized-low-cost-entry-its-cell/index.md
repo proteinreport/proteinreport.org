@@ -3,7 +3,7 @@ title: "Ginkgo Bioworks Launches Cell Development Kit Service for Standardized, 
 date: 2021-11-11 09:25:47
 lastmod: 2021-11-11 09:25:47
 slug: /ginkgo-bioworks-launches-cell-development-kit-service-standardized-low-cost-entry-its-cell
-company: "Ginkgo Bioworks"
+company: 10023
 description: "Streamlined toolkit for cell programming aims to provide developers with the platform, tools and expertise needed to launch protein production projects"
 excerpt: "Streamlined toolkit for cell programming aims to provide developers with the platform, tools and expertise needed to launch protein production projects"
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Ingredients]
 topics: [Business, Sci-Tech]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [Ginkgo Bioworks]
+directory: [10023]
 images: ["gb.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10024
 ---
 <p>BOSTON, Nov. 11, 2021 -- <a href="https://c212.net/c/link/?t=0&l=en&o=3355864-1&h=3149470297&u=https%3A%2F%2Fwww.ginkgobioworks.com%2F&a=Ginkgo+Bioworks">Ginkgo Bioworks</a> (NYSE: <a href="https://www.prnewswire.com/news-releases/ginkgo-bioworks-launches-cell-development-kit-service-for-standardized-low-cost-entry-to-its-cell-programming-platform-301421988.html#financial-modal">DNA</a>), the leading horizontal platform for cell programming, today announced the launch of its Cell Development Kits (CDKs) service. CDKs provide streamlined access to the company's platform for aspiring cell developers to program cells to tackle the biggest challenges facing society. The first CDKs to launch are focused on protein expression programs. The service provides developers access to the toolkit needed to get started developing commercial proteins, including pre-engineered host cells optimized for protein production, specialized equipment, automation capabilities, genetic engineering expertise, insights garnered from Ginkgo's codebase and the applicable infrastructure to design, build and test a custom microbe.</p>
 <p>Ginkgo's CDKs are designed to cut the cost of launching a cell program and speed up development timelines to build engineered microbes, for example, to determine whether a protein may be successfully and commercially produced. The service is also designed to enable customers to prototype their idea in phases, with each phase providing data that can inform the customer's project and business strategy. By simplifying the pathway for companies to get started on the Ginkgo platform with standard terms, a phased approach, low costs—starting at $100,000 for protein expression projects—and clear deliverables, the CDK can help derisk projects prior to full scale technical development.</p>

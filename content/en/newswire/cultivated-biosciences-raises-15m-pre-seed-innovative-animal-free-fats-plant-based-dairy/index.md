@@ -3,7 +3,7 @@ title: "Cultivated Biosciences Raises $1.5M Pre-seed for Innovative Animal-Free 
 date: 2022-09-06 06:33:55
 lastmod: 2022-09-06 06:33:55
 slug: /cultivated-biosciences-raises-15m-pre-seed-innovative-animal-free-fats-plant-based-dairy
-company: "Cultivated Biosciences"
+company: 10547
 description: "Cultivated Biosciences, an innovative ingredient company founded by Swiss entrepreneurs Tomas Turner and Dimitri Zogg, has just raised a $1.5M pre-seed round. The funding will enable the growing team to further optimise its production processes, research food applications and start product development with their first clients."
 excerpt: "Cultivated Biosciences, an innovative ingredient company founded by Swiss entrepreneurs Tomas Turner and Dimitri Zogg, has just raised a $1.5M pre-seed round. The funding will enable the growing team to further optimise its production processes, research food applications and start product development with their first clients."
 proteins: [Plant-Based, Microbial]
@@ -11,13 +11,13 @@ products: [Dairy, Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Blue Horizon Ventures, The Every Company, Planted, Big Idea Ventures, Cultivated Biosciences]
+directory: [1212, 1299, 5791, 6600, 10547]
 images: ["Cultivated Co-founders.jpg"]
 additional_images: ["Cultivated cream 1.jpg", "Cultivated cream 2.jpg", "Cultivated_logo.png", "Cultivated_logo-icon.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11141
 ---
 <p>ZURICH, 06.09.2022. <strong>Cultivated Biosciences, an innovative ingredient company founded by Swiss entrepreneurs Tomas Turner and Dimitri Zogg, has just raised a $1.5M pre-seed round. The funding will enable the growing team to further optimise its production processes, research food applications and start product development with their first clients.</strong></p>
 <p>The company’s financing round was led by leading Swiss venture fund Wingman Ventures and involved other leading foodtech venture capital investors such as Big Idea Ventures, Blue Horizon, Proveg International and the FoodHack syndicate. The round is also supported by other founders in the alternative protein space such as the CEO & Co-Founder of US-based foodtech forerunner EVERY Company, Arturo Elizondo and Lukas Böni, Co-Founder of Planted who are both acting as advisors to the company.</p>

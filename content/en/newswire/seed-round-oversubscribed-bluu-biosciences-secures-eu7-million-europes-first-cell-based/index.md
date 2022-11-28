@@ -3,7 +3,7 @@ title: "Seed round oversubscribed: Bluu Biosciences secures €7 million – Eur
 date: 2021-03-26 10:29:42
 lastmod: 2021-03-26 10:29:42
 slug: /seed-round-oversubscribed-bluu-biosciences-secures-eu7-million-europes-first-cell-based
-company: "Bluu Seafood"
+company: 7856
 description: "Berlin-based biotech startup Bluu Biosciences has closed its seed funding round at 7 million euros less than ten months after its foundation. Bluu Biosciences is the first company in Europe to specialize in the development and production of cell-based fish."
 excerpt: "Berlin-based biotech startup Bluu Biosciences has closed its seed funding round at 7 million euros less than ten months after its foundation. Bluu Biosciences is the first company in Europe to specialize in the development and production of cell-based fish."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Seafood]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Lever VC, CPT Capital, Manta Ray, Bluu Seafood]
+directory: [1332, 6280, 7679, 7856]
 images: ["Dr Sebastian Rakers and Simon Fabich_Founders und Managing Directors of Bluu Biosciences_ltr_copyright Bluu Biosciences_300 dpi.jpg"]
 additional_images: ["R&D for cell-based fish_copyright Bluu Biosciences.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8665
 ---
 <p><strong>Berlin, March 26th, 2021.</strong> Berlin-based biotech startup Bluu Biosciences has closed its seed funding round at 7 million euros less than ten months after its foundation. Bluu Biosciences is the first company in Europe to specialize in the development and production of cell-based fish. There is currently only a hand full of other companies active in this field worldwide. Leading global food and impact investors such as Manta Ray Ventures (UK), CPT Capital (UK), Lever VC (USA), Norrsken (SE) and Be8 (GER) participated in the investment round. The fresh capital will flow into the company's intensive biotechnology research and development work as well as into product development. The founding of Bluu Biosciences was supported by the Berlin-based company builder EVIG, which specializes in working with scientists to build biotechnology start-ups in the food sector.</p>
 <p>“We are proud that we could partner with investors such as Manta Ray, CPT, Lever, and more, that believe in the importance of deep innovation for the aim of a more sustainable food system,” explained Dr Sebastian Rakers, co-founder and managing director of Bluu Biosciences. “The round was closed in a matter of weeks, which indicates how compelling the science team and the science foundation of Bluu is. It also showcases the incredible interest of great investors to support this kind of initiative,” Simon Fabich, Co-Founder and managing director, added. The Cultivated Meat sector, where there are already initial approvals for cultivated meat products in Singapore, is fuelling the prospects for a similarly positive development in cell-based fish products.</p>

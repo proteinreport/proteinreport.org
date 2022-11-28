@@ -20,6 +20,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5804
 ---
 <p>Vow is, at its core, a food company, powered by a team of technologists, designers and scientists, underpinned by biotechnology breakthroughs.<br />
 Vow is built around three simple philosophies:<br />

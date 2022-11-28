@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1297
 ---
 <p>UK based supplier of extruded cereals and meat free products to industry and retail.</p>

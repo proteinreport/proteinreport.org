@@ -10,13 +10,14 @@ products: [Meat]
 topics: [Business, Culture, Policy]
 regions: [Asia]
 flags: [Featured]
-directory: [New Harvest, Good Food Institute, Aleph Farms, IntegriCulture, Mosa Meat, BlueNalu, Cellular Agriculture Institute of the Commons, Shojinmeat Project]
+directory: [697, 698, 5816, 5818, 5820, 5829, 7111, 7112]
 contributors: [Yuki Hanyu]
 images: [SP.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 9606
 ---
 <p><strong>Editor’s note:</strong> <em>Most English-language news and reporting about cellular agriculture relays a common narrative of the industry’s development, from Mark Post’s pioneering the first cell-based burger in 2013 to the first regulatory approval and cell-based meat product launch in Singapore at the end of 2020. But this is just part of the technology’s history. There’s a largely unheard story unfolding in Japan that shows a whole other realm of possibility for how an industry can be born — one in which citizen scientists grow meat at home, come together as a community, and ultimately play a key role in policy-making processes that unlock public funding, generate consumer awareness, and open the door for product launches. This movement is called the Shojinmeat Project and its founder is Yuki Hanyu.</em></p>
 
@@ -65,7 +66,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/DUCo_30UQAADOL4.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:960,&quot;height&quot;:720,&quot;rel&quot;:&quot;blazy-filter-v57eqw2chxa-14-export-data-export-1&quot;}">      <div style="padding-bottom: 75%;" data-ratio="75" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/DUCo_30UQAADOL4.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:960,&quot;height&quot;:720,&quot;rel&quot;:&quot;blazy-filter-r4ob-drunuc-14-export-data-export-1&quot;}">      <div style="padding-bottom: 75%;" data-ratio="75" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="January 2018, Shojinmeat Project members at FabCafe in Tokyo making a DIY centrifuge that can be attached to a fan using FabCafe's 3D printer." title="DUCo_30UQAADOL4.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="f8af03ab-7f35-4ecd-9300-4ba5f70aa2fb" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/DUCo_30UQAADOL4.jpg?itok=nyk2Q0aY" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20900'%2F%3E" width="1200" height="900" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
@@ -101,7 +102,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/961bfbaf829efe4905e3ee485bcd4ef7_1.jpeg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:600,&quot;height&quot;:400,&quot;rel&quot;:&quot;blazy-filter-v57eqw2chxa-14-export-data-export-1&quot;}">      <div style="padding-bottom: 66.67%;" data-ratio="66.67" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/961bfbaf829efe4905e3ee485bcd4ef7_1.jpeg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:600,&quot;height&quot;:400,&quot;rel&quot;:&quot;blazy-filter-r4ob-drunuc-14-export-data-export-1&quot;}">      <div style="padding-bottom: 66.67%;" data-ratio="66.67" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Meeting with Team 414 showing a Shojinmeat Project member holding the Pure Meat Book. Source." title="961bfbaf829efe4905e3ee485bcd4ef7_1.jpeg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="079df95f-6993-4aa9-8e2d-119ee5acf375" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/961bfbaf829efe4905e3ee485bcd4ef7_1.jpeg?itok=jHEEnaUZ" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20800'%2F%3E" width="1200" height="800" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
@@ -145,7 +146,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/rulemaking.JPG" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1622,&quot;height&quot;:916,&quot;rel&quot;:&quot;blazy-filter-v57eqw2chxa-14-export-data-export-1&quot;}">      <div style="padding-bottom: 56.5%;" data-ratio="56.5" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/rulemaking.JPG" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1622,&quot;height&quot;:916,&quot;rel&quot;:&quot;blazy-filter-r4ob-drunuc-14-export-data-export-1&quot;}">      <div style="padding-bottom: 56.5%;" data-ratio="56.5" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Rulemaking" title="rulemaking.JPG" class="media__image media__element b-lazy img-fluid" data-entity-uuid="94b7c730-a2ef-4c37-aa9c-dbdd374cf681" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/rulemaking.JPG?itok=56zyM4hT" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20678'%2F%3E" width="1200" height="678" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

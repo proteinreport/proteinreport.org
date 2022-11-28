@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5735
 ---
 <p>Plant-based drinks company milkadamia supplies the soil beneficial organic matter in the form of its own compost. From these soils comes more nutrient dense food, loaded with phytonutrients, nature’s own protective compounds, eliminating the need for chemical sprays. Milkadamia also keeps the soil protected with cover growth between their macadamia trees, and encourages the growth of native shrubs and trees around the property to ensure biodiversity. Milkadamia’s products are available in the shelf stable section of over 5000 retailers throughout the US and freshly chilled in the refrigerated section of Walmart stores nationwide.</p>

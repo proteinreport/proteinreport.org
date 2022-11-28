@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5812
 ---
 <p>Innocent Meat is the first German start-up, which aims to produce Cultured Meat in Germany, make it commercially viable and available to&nbsp;anybody.</p>

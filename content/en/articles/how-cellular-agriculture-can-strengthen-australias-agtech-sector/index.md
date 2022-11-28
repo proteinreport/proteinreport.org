@@ -10,13 +10,14 @@ products: [Meat]
 topics: [Business]
 regions: [Oceania]
 flags: [Featured]
-directory: [Good Food Institute, Vow, Heuros, Cellular Agriculture Australia, Cass Materials]
+directory: [698, 5804, 5805, 7131, 7168]
 contributors: [Bianca Le]
 images: [cows.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 7364
 ---
 <p>As global demand for protein grows steadily, our sources of animal protein must diversify to keep up. And Australia is well placed to become an international powerhouse for an emerging research field that could transform the way we produce and eat meat: cellular agriculture.</p>
 <p>The cellular agriculture industry develops animal products – such as meat, eggs, and leather – without the need for conventional animal agriculture. The technology could have major implications for the environment, animal welfare, biodiversity, and human health.</p>

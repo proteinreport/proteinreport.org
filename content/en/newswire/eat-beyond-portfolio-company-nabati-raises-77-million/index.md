@@ -3,7 +3,7 @@ title: "Eat Beyond Portfolio Company Nabati Raises $7.7 Million"
 date: 2021-03-15 15:54:11
 lastmod: 2021-03-15 15:54:11
 slug: /eat-beyond-portfolio-company-nabati-raises-77-million
-company: "Eat Beyond Global Holdings"
+company: 7964
 description: "Eat Beyond Global Holdings, an investment issuer focused on the global plant-based and alternative food sector, is announcing that its portfolio company Nabati Foods has closed an oversubscribed $7.7 million private placement, and has restructured with plans to go public."
 excerpt: "Eat Beyond Global Holdings, an investment issuer focused on the global plant-based and alternative food sector, is announcing that its portfolio company Nabati Foods has closed an oversubscribed $7.7 million private placement, and has restructured with plans to go public."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
-directory: [Eat Beyond Global Holdings]
+directory: [7964]
 images: ["nabati-foods-678x381-copy.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8599
 ---
 <p><strong>Vancouver, B.C.  – March 15, 2021</strong> – <a href="https://eatbeyondglobal.com/">Eat Beyond Global Holdings</a> (<a href="https://thecse.com/en/listings/diversified-industries/eat-beyond-global-holdings-inc">CSE: EATS</a>) (<a href="https://www.otcmarkets.com/stock/EATBF/overview">OTCPK: EATBF</a>) (<a href="https://www.boerse-frankfurt.de/equity/eat-beyond-global-hldgs">FSE: 988</a>)  (“Eat Beyond” or the “Company”), an investment issuer focused on the global plant-based and alternative food sector, is announcing that its portfolio company Nabati Foods Global Inc., formerly Nabati Foods Inc. (“<strong>Nabati</strong>”), has closed an oversubscribed $7.7 million private placement, and has restructured with plans to go public.</p>
 <p>Nabati previously announced its intentions to raise $4 million, but due to tremendous demand, has increased this to $7.7 million. The net proceeds will be used to fund the Nabati’s proposed go-public transaction as well as for business development, working capital, plant expansion, and to purchase equipment to expand production capacity and develop new product lines.</p>

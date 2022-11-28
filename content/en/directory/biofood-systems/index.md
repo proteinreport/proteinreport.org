@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5814
 ---
 <p>Startup working on culturing meat using bovine embryonic stem cells in a disruptive, cost-effective process, following the meat industry to supply healthy ,”green”, <span class="amp">&amp;</span> slaughter free beef products, for the ever growing&nbsp;population</p>

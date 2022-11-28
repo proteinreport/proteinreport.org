@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5557
 ---
 <p>Since 1890, Loma Linda has been a leader in sustainable foods. Loma Linda believes that plant-based proteins are key to a healthy lifestyle and they contribute to a healthy world. The Loma Linda’s unique line of products aims to serve every taste and dietary need.</p>

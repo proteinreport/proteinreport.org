@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1237
 ---
 <p>We’re Naturli’ Foods from Denmark, and we’ve been making 100% plant based foods since 1988. We believe that every step in the right direction counts. Every small step, is better than no steps at all. Every time you buy a product from Naturli’, you’re contributing to a move in the right direction. For you. For us. For the animals. And for the planet.</p>

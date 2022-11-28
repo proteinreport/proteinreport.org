@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5612
 ---
 <p>Lisanatti Foods is a second-generation, family owned business located in Oregon, making high quality cheese alternatives since 1976.</p>

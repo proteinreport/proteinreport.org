@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7238
 ---
 <p>We are creating the next generation of plant-based seafood, produced with 3D Food Printing. Full structure, rich taste, and no harm to the oceans.</p>

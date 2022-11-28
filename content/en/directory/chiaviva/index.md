@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5587
 ---
 <p>Chia pudding made with rich, creamy coconut milk, crunchy-soft chia seed bubbles, and all-natural ingredients. Chia Viva is an indulgent, nutrient-rich super snack that is healthy and tasty. The chia pudding is a delicious dairy-free, gluten-free snack. It is high in fiber, omega-3s, heart healthy fats, and plant-based protein. </p>

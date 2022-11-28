@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6111
 ---
 <p>Gudness is an innovative plant-based alternative to conventional deli meats exclusively developed &amp; produced in South Africa. The base ingredients are soy and pea protein.</p>

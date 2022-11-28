@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6916
 ---
 <p>Dairy production is currently hugely unsustainable and also highly inefficient. At Better Dairy we are using yeast fermentation to produce the same cheeses, yoghurts, ice creams that customers currently enjoy without having to use animals.</p>

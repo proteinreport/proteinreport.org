@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6063
 ---
 <p>At Grounded Foods we’ve found a way to create cheese that contains no dairy, no nuts, no soy, no gluten and absolutely no synthetic additives. Instead, we make it with one of nature’s most simple, cheap and widely available ingredients: the humble head of cauliflower.</p>

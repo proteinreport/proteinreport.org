@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 370
 ---
 <p>Matrix Meats is a manufacturer of 3D nanofibrous matrices that produce significantly more volume of meat cell culture per batch. Our custom designed electrospun fiber products are covered by over 50 issued and pending patents that help facilitate cultured meat that looks, feels, and tastes like real meat.</p>

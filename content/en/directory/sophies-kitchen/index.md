@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5668
 ---
 <p>Sophie&#039;s Kitchen is the California-based company creating plant-based seafood alternatives including canned tuna, crab cakes, smoked salmon, and new entrées such as lobster macaroni and cheese and seafood jambalaya. Sophie’s soy-free and non-GMO products use pea protein and Konjac root—a high-fiber Asian superfood integral to balancing out protein—and, through a specialized technology that employs high pressure and temperature to transform protein flours into convincingly textured products, provide a viable option to consumers concerned with the heavy metals, antibiotics, and environmental destruction associated with overfishing.</p>

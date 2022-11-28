@@ -3,7 +3,7 @@ title: "Change Foods Making Big Moves in UAE"
 date: 2022-10-20 07:00:00
 lastmod: 2022-10-20 07:00:00
 slug: /change-foods-making-big-moves-uae
-company: "Change Foods"
+company: 7627
 description: "Change Foods has signed an agreement with KEZAD Group to design a dedicated commercial manufacturing plant for production of its animal-free dairy in Abu Dhabi, with the support of the Ministry of Economy of the UAE under the NextGen FDI initiative. The company also shared it is in the final stages of closing a bridge funding round."
 excerpt: "Change Foods has signed an agreement with KEZAD Group to design a dedicated commercial manufacturing plant for production of its animal-free dairy in Abu Dhabi, with the support of the Ministry of Economy of the UAE under the NextGen FDI initiative. The company also shared it is in the final stages of closing a bridge funding round."
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Dairy]
 topics: [Business]
 regions: [Middle East]
 flags: [Press Release]
-directory: [Change Foods]
+directory: [7627]
 images: ["Change Foods - KEZAD Signing.jpeg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11172
 ---
 <p><em>Signs agreement to design the first-of-its-kind commercial manufacturing plant solution in the region, with government support under NextGen FDI initiative.</em></p>
 <p>(PALO ALTO, CA – 10.20.22) -- Change Foods has signed an agreement with KEZAD Group to design a dedicated commercial manufacturing plant for production of its animal-free dairy in Abu Dhabi, with the support of the Ministry of Economy of the UAE under the NextGen FDI initiative. The company also shared it is in the final stages of closing a bridge funding round.</p>

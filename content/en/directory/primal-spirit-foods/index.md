@@ -19,6 +19,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5677
 ---
 Primal Spirit Foods is dedicated to offering the consumer healthy, high-quality, meat alternative foods and other products that all are natural and good tasting.
 It is Primal Spirit Foods pledge to always present value to our customers, fair exchange with our manufacturers, and fair reward to our owners, investors and employees.

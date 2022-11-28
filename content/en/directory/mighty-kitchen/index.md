@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5659
 ---
 <p>The Mighty Kitchen is a food technology company using data modelling and materials chemistry to make delicious, fibrous, plant-based poultry products and ingredients.</p>

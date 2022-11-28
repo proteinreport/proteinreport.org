@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9941
 ---
 <p>E²JDJ invests globally in high growth, scalable and sustainable AgriFood technology and science ventures across the value chain from production to consumption.</p>

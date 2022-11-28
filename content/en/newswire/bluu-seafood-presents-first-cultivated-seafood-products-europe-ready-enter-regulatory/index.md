@@ -3,7 +3,7 @@ title: "Bluu Seafood presents first cultivated seafood products in Europe – re
 date: 2022-08-09 08:08:53
 lastmod: 2022-08-09 08:08:53
 slug: /bluu-seafood-presents-first-cultivated-seafood-products-europe-ready-enter-regulatory
-company: "Bluu Seafood"
+company: 7856
 description: "Bluu Seafood has presented the first market‐ready products made from cultivated fish cells. Their fish fingers and fish balls contain cultivated fish cells as the main ingredient and have been enriched with plant proteins to optimize cooking behavior and mouthfeel."
 excerpt: "Bluu Seafood has presented the first market‐ready products made from cultivated fish cells. Their fish fingers and fish balls contain cultivated fish cells as the main ingredient and have been enriched with plant proteins to optimize cooking behavior and mouthfeel."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Seafood]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release]
-directory: [Bluu Seafood]
+directory: [7856]
 images: ["Bluu Seafood_Cultivated Fish Balls_copyright Bluu GmbH_Wim Jansen.jpg"]
 additional_images: ["Bluu Seafood_Cultivated Fish Fingers_copyright_Bluu GmbH_Wim Jansen.jpg", "Bluu Seafood_Cultivated Sashimi_copyright Bluu GmbH_Wim Jansen.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11122
 ---
 <p><strong>Berlin, August 09th, 2022</strong>. Bluu Seafood, leading European Foodtech to produce cultivated fish and seafood, has presented the first market‐ready products made from cultivated fish cells. Their fish fingers and fish balls contain cultivated fish cells as the main ingredient and have been enriched with plant proteins to optimize cooking behavior and mouthfeel.</p>
 <p>The products have reached market readiness and will soon enter the regulatory approval process. Bluu Seafood targets initial approval and market launch in Singapore by the end of 2023, as the regulatory process there is already well‐defined. The company will also apply for approval in the US, the UK, and the EU.</p>

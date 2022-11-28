@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5615
 ---
 <p>Parmela Creamery is an artisanal, plant-based cheese company. Parmela uses traditional cheese making techniques for its cashew-based cheese products, resulting in authentic taste and meltability. The company sells shreds, slices, sauces, dips, spreads, blocks and a new line of raviolis.</p>

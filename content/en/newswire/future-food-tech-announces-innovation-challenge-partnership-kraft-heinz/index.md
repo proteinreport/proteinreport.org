@@ -18,7 +18,7 @@ additional_images: ["Future Food-Tech - Innovation Challenge - Kraft Heinz - Web
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9347
 ---
 <p><strong>Food-Tech Start-Ups Invited to Submit Solutions in Unlock the Power of Beanz.</strong></p>
 <p>Future Food-Tech has announced an Innovation Challenge in partnership with Kraft Heinz to spotlight emerging talent within the industry and accelerate innovation and collaboration, whilst solving an industry challenge.</p>

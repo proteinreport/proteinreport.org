@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1110
 ---
 <p>MorningStar Farms has been a category leader for more than 40 years, producing some of America&#039;s most-loved and most-eaten plant-based foods from burgers and chicken to breakfast sausage and corn dogs. Its mission is to make plant-based eating more accessible and enjoyable. MorningStar Farms delivers roughly 90 million pounds of plant-based protein to people all over the country.</p>

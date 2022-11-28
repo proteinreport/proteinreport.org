@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1271
 ---
 <p>Cell Ag Ltd was founded in early 2016 as the first UK startup in the cell-based meat space.&amp;nbsp;An extensive research and development program looks to deliver scaled technology for multi species cell-based meat technology.</p>

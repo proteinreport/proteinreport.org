@@ -3,7 +3,7 @@ title: "Student Essay Contest Calls for Future Food System Thought Leaders, Subm
 date: 2021-09-08 07:13:55
 lastmod: 2021-09-08 07:13:55
 slug: /student-essay-contest-calls-future-food-system-thought-leaders-submissions-due-sept-24
-company: "Protein Report"
+company: 6187
 description: "Open to undergraduate and graduate students from around the world, the Student Essay Contest supports emerging thought leadership and excellence in communication around the world's most complex food system challenges. Submissions due September 24."
 excerpt: "Open to undergraduate and graduate students from around the world, the Student Essay Contest supports emerging thought leadership and excellence in communication around the world's most complex food system challenges. Submissions due September 24."
 proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Algae]
@@ -11,13 +11,13 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Culture, Environment, Health, Policy, Sci-Tech]
 regions: [International]
 flags: [Press Release]
-directory: [Eat Just, FAIRR Initiative, New Harvest, Aleph Farms, Cellular Agriculture Australia]
+directory: [234, 685, 697, 5816, 7131]
 images: ["banner3.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9643
 ---
 <p><strong>International</strong> — <em>Protein Report</em>, the online publication and industry platform advancing protein literacy for safer, more sustainable food systems, has announced the launch of an essay contest for undergraduate and graduate students from around the world.</p>
 <p>Made possible by a $5000 Flash Grant from the Shuttleworth Foundation, nominated by cellular agriculture research organization, New Harvest, the <a href="https://www.proteinreport.org/student-essay-contest-2021">Student Essay Contest</a> is offering cash prizes worth $3000 — $1500 for first-place winners in each the undergraduate and graduate student divisions. Second-place winners will receive exciting non-cash prizes, while winners, runners up, and honorable mention submissions will all be announced and published on <em>Protein Report</em>.</p>

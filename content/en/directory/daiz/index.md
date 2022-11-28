@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7043
 ---
 <p>Daiz develops, produces, and sells of plant-based meats and foods that use soybean-derived functional substances.</p>

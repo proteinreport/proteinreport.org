@@ -15,5 +15,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8817
 ---
 <p>Next Gen Foods creates plant-based chicken with the intention of making consumers forget why animals were ever needed.</p>

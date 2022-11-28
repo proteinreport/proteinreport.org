@@ -19,6 +19,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5865
 ---
 <p>Enough&#039;s novel integrated technology offers the potential for a step-change transformation in the economics, scalability and sustainability profile of mycoprotein production.</p>
 <p>Enough&#039;s technology transforms cereal crops such as wheat or maize into high-quality protein (ABUNDA) with 3-15 times better conversion efficiency than traditional protein sources such as meat from farm animals. (Formerly 3F Bio)</p>

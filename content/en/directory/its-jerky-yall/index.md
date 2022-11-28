@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5763
 ---
 All Y’alls Foods is a Texas Plant-Based snack company and their first product is It’s Jerky Y’all which is a tasty Texas plant-based jerky where the flavors of Texas meet whole soybeans to create the future of jerky.

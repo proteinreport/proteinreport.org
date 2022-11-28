@@ -10,13 +10,14 @@ products: [Meat, Dairy, Seafood]
 topics: [Business]
 regions: [International]
 flags: [Book Excerpt, Featured]
-directory: [Eat Just, Beyond Meat, Impossible Foods, Meatless Farm, NotCo, Meatable, Mosa Meat, BlueNalu, Upside Foods, Agronomics, VitroLabs Inc]
+directory: [234, 694, 695, 1171, 5703, 5819, 5820, 5829, 5831, 6149, 8345]
 contributors: [Jim Mellon]
 images: [Moo's Law cover photo .png]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 8281
 ---
 <p><strong>This is an excerpt from <em>Moo’s Law: An Investor’s Guide to the New Agrarian Revolution</em>, the latest book by investor and entrepreneur Jim Mellon. The book is available via Harriman House and Amazon. For further information, visit <a href="https://mooslawbook.com/">mooslawbook.com</a>.</strong></p>
 
@@ -92,7 +93,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Moo%27s%20Law%20cover.png" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1122,&quot;height&quot;:1588,&quot;rel&quot;:&quot;blazy-filter-gyx-pb-eds-32-export-data-export-1&quot;}">      <div style="padding-bottom: 141.51%;" data-ratio="141.51" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Moo%27s%20Law%20cover.png" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1122,&quot;height&quot;:1588,&quot;rel&quot;:&quot;blazy-filter-ee9z25o-smq-32-export-data-export-1&quot;}">      <div style="padding-bottom: 141.51%;" data-ratio="141.51" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Moo's Law cover" title="Moo's Law cover.png" class="media__image media__element b-lazy img-fluid" data-entity-uuid="17908434-a5d0-4734-9d2f-ffeed40a9025" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/Moo%27s%20Law%20cover.png?itok=oaEoSGwv" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20636%20900'%2F%3E" width="636" height="900" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

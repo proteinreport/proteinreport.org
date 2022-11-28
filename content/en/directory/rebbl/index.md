@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5688
 ---
 REBBL is a beverage brand on a mission to fight modern-day slavery. The Coconut-Milk Elixirs soulfully crafted with the best ingredients of the Plant Queendom. The beverages are made of an organic ingredient, the mighty Brazil nuts, one of over 70 that REBBL sources from around the world to help uplift communities.

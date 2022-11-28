@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1242
 ---
 <p>Zhenmeat, the Beijing-based, new Chinese food-tech startup, brings plant-based and fungus based meat alternative tailored to Chinese cuisines, from dimsum to stuffed peppers to mooncakes. </p>

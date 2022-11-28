@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9042
 ---
 <p>Ivy Farm is an inquisitive bunch of bioengineers, scientists and animal lovers who are pro bacon sandwiches and against the effects of industrialized farming. They use novel cell technology created by the University of Oxford to grow real meat that’s free from slaughter and antibiotics, low in saturated fat, and tastes fantastic.</p>

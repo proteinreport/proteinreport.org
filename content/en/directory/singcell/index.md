@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7556
 ---
 <p>SingCell offers process development and contract manufacturing services for stem cell therapy and clean meat companies. SingCell leverages its proprietary technology to improve manufacturing processes and offer high consistent quality stem cells.</p>

@@ -20,6 +20,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10550
 ---
 <p>Unicorn Biotechnologies is developing a next generation biomanufacturing platform to affordably and rapidly scale cellular agriculture manufacturing.</p>
 <p>Our full stack platform combines hardware, software and analytics to completely automate biomanufacturing, reducing costs and increasing product quality.</p>

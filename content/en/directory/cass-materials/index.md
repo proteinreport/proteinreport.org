@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7168
 ---
 <p>The BNC scaffold’s properties of biocompatibility, high porosity and extremely large surface area are important to culture mammalian cells. Being an open cell scaffold with interconnecting pores, it permits fluid and air flow through the structure, while allowing the cells to grow within and on the matrix.</p>

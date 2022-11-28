@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1304
 ---
 <p>Russian startup Greenwise, produces plant-based meat alternatives — meat and jerky — that are structurally almost identical to meat. Their products look, feel, and chew like real meat. Their plant-based meat comes in dry form and it absorbs the taste. The products of Greenwise are made to replace meat in dishes without having to compromise on taste or texture. They appeal to a fast growing consumer base of environmentally or ethically conscious people who want to reduce their impact but not ready to give up meat.</p>

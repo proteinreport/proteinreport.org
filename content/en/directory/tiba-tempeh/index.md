@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10251
 ---
 <p>Tiba Tempeh was founded in 2019 by Alex and Ross Longton, food industry veterans with 30 years of experience in senior sales and marketing positions at Kraft Heinz and other food industry leaders. Tiba Tempeh specialises in innovative tempeh products and launched the first ever tempeh burger in UK supermarkets.</p>

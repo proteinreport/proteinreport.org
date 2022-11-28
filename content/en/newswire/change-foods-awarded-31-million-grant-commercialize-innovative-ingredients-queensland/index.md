@@ -3,7 +3,7 @@ title: "Change Foods Awarded a $3.1 Million Grant to Commercialize Innovative In
 date: 2022-05-18 03:10:55
 lastmod: 2022-05-18 03:10:55
 slug: /change-foods-awarded-31-million-grant-commercialize-innovative-ingredients-queensland
-company: "Change Foods"
+company: 7627
 description: "The Australian Commonwealth Government today announced Change Foods will be a key industry partner in the University of Queensland and Queensland University of Technology’s (QUT) $164 million (AUD) Trailblazer Universities Food and Beverage Accelerator (FaBA). The multi-million dollar grant will be used to commercialize sustainable animal-free dairy ingredients and products made with precision fermentation technology."
 excerpt: "The Australian Commonwealth Government today announced Change Foods will be a key industry partner in the University of Queensland and Queensland University of Technology’s (QUT) $164 million (AUD) Trailblazer Universities Food and Beverage Accelerator (FaBA). The multi-million dollar grant will be used to commercialize sustainable animal-free dairy ingredients and products made with precision fermentation technology."
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Dairy]
 topics: [Business]
 regions: [Oceania]
 flags: [Press Release, Investments]
-directory: [Change Foods]
+directory: [7627]
 images: ["Photo 2 Change R&D Team_0_0.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10869
 ---
 <p>(PALO ALTO, CA - May 17, 2022) – The Australian Commonwealth Government today announced Change Foods will be a key industry partner in the University of Queensland and Queensland University of Technology’s (QUT) $164 million (AUD) Trailblazer Universities Food and Beverage Accelerator (FaBA). The multi-million dollar grant will be used to commercialize sustainable animal-free dairy ingredients and products made with precision fermentation technology.</p>
 <p>Headquartered in Palo Alto, California, <a href="http://changefoods.com/">Change Foods</a> is an US-Australian food tech company originally founded in Australia by David Bucca and Professor Junior Te’o.  The company has research laboratories and teams on both continents.</p>

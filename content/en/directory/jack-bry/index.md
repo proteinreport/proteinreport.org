@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5758
 ---
 <p>Jack <span class="amp">&amp;</span> Bry is creating tantalisingly tasty <span class="amp">&amp;</span> tender plant-based meats made from Jackfruit – a nutritious wonder-fruit, that is natural, full of flavour, high in fibre and palm oil free. ​</p>

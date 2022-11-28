@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10963
 ---
 <p>Eatable Adventures connects the most disruptive food startups with corporations and investors, developing the right collaborations with a mission: building tomorrow&#039;s food companies.</p>

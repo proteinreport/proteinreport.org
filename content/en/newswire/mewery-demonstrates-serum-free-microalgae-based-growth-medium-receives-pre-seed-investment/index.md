@@ -3,7 +3,7 @@ title: "Mewery Demonstrates Serum-Free, Microalgae-Based Growth Medium, Receives
 date: 2022-10-19 08:27:26
 lastmod: 2022-10-19 08:27:26
 slug: /mewery-demonstrates-serum-free-microalgae-based-growth-medium-receives-pre-seed-investment
-company: "Mewery"
+company: 10908
 description: "Mewery, the Czech startup focused on novel approaches to producing cell-cultured meat, has reached a new milestone as their scientists have successfully developed a serum-free growth medium that dramatically reduces the cost of cultivation. Along with this success, Mewery reports investment from Credo Ventures and Purple Ventures, closing their raise of almost a million dollars in their pre-seed round."
 excerpt: "Mewery, the Czech startup focused on novel approaches to producing cell-cultured meat, has reached a new milestone as their scientists have successfully developed a serum-free growth medium that dramatically reduces the cost of cultivation. Along with this success, Mewery reports investment from Credo Ventures and Purple Ventures, closing their raise of almost a million dollars in their pre-seed round."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Big Idea Ventures, Mewery]
+directory: [6600, 10908]
 images: ["future_product_line.jpg"]
 additional_images: ["Mewery 1.jpg", "Mewery 2.jpg", "Mewery 3.jpg", "Mewery 4.jpg", "Mewery 5.jpg", "Roman Lauš 2.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11170
 ---
 <p>BRNO, October 19 — Mewery, the Czech startup focused on novel approaches to producing cell-cultured meat, has reached a new milestone as their scientists have successfully developed a serum-free growth medium that dramatically reduces the cost of cultivation. Along with this success, Mewery reports investment from Credo Ventures and Purple Ventures, closing their raise of almost a million dollars in their pre-seed round. </p>
 <p><em>"The money will help us retrofit our new labs, expand our team with additional scientists, and accelerate the introduction of our prototype. Of course, we will also invest in further intellectual property protection,</em>" says Mewery founder Roman Lauš, who was one of the main organizers of the Future Port festival, a future-positive tech festival where the idea of setting up a company with significant social impact was initially conceived.</p>

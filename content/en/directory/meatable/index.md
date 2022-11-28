@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5819
 ---
 <p>Meatable makes 100% real, delicious, guilt-free meat. With one cell, they are revolutionizing the meat industry&#039;s impact on climate change and animal welfare. At the same time the company increases food security, without compromising the culinary experience of eating tasty, real meat.</p>

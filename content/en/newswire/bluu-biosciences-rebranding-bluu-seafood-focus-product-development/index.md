@@ -3,7 +3,7 @@ title: "Bluu Biosciences is rebranding as Bluu Seafood: focus on product develop
 date: 2022-03-01 10:09:43
 lastmod: 2022-03-01 10:09:43
 slug: /bluu-biosciences-rebranding-bluu-seafood-focus-product-development
-company: "Bluu Seafood"
+company: 7856
 description: "Bluu Biosciences, pioneer in the development and production of cultivated fish in Europe, is rebranding into Bluu Seafood with the new name reflecting the change from a predominantly research-oriented biotech to a more product-focused food-tech."
 excerpt: "Bluu Biosciences, pioneer in the development and production of cultivated fish in Europe, is rebranding into Bluu Seafood with the new name reflecting the change from a predominantly research-oriented biotech to a more product-focused food-tech."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Seafood]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release]
-directory: [Bluu Seafood]
+directory: [7856]
 images: ["Logo Bluu Seafood_bluu.darkblue_0.jpg"]
 additional_images: ["Executive Team Bluu Seafood.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10503
 ---
 <p><strong>Berlin, March 1st, 2022. </strong>Bluu Biosciences, pioneer in the development and production of cultivated fish in Europe, is rebranding into Bluu Seafood with the new name reflecting the change from a predominantly research-oriented biotech to a more product-focused foodtech. Bluu Seafood will be introducing its first product based on cultivated fish and plant components in the second half of this year. Full market launch will depend on the regulatory requirements in the respective target markets and is most likely going to take place initially in Asia, the UK, or the US, before EU-approval will be granted.</p>
 <p>Research and development remain important to produce cultivated fish products on a relevant scale. However, with process optimization already achieved, Bluu Seafood is now focusing on the development of market-ready cultured fish products that no longer differ in taste, texture and cooking behaviour from comparable products based on wild-caught or aqua cultured fish.</p>

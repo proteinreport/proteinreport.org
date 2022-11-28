@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5540
 ---
 <p>Paradis Vegetarien is a supplier of more than 200 varieties of vegetarian products and mock meats made from the highest quality non-GMO soybeans and shitake mushrooms.</p>

@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6282
 ---
 <p>South Korea-based maker of plant-based meats.</p>

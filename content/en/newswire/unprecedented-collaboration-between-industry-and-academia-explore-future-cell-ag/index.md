@@ -3,7 +3,7 @@ title: "Unprecedented Collaboration between Industry and Academia to Explore the
 date: 2022-01-25 17:28:07
 lastmod: 2022-01-25 17:28:07
 slug: /unprecedented-collaboration-between-industry-and-academia-explore-future-cell-ag
-company: "Cultivate Tomorrow"
+company: 10728
 description: "The Cultivate Tomorrow initiative aims to help bridge the gap between industry and academia, organizing students from all disciplines to tackle key challenges through a cellular agriculture-focused hackathon. To conclude the hackathon, the organization will host a virtual pitch day on February 12, 2022 open to everyone interested in the cultivated food industry, biotechnology applications, and sustainable food and agriculture sectors."
 excerpt: "The Cultivate Tomorrow initiative aims to help bridge the gap between industry and academia, organizing students from all disciplines to tackle key challenges through a cellular agriculture-focused hackathon. To conclude the hackathon, the organization will host a virtual pitch day on February 12, 2022 open to everyone interested in the cultivated food industry, biotechnology applications, and sustainable food and agriculture sectors."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [New Harvest, Perfect Day Foods, Wildtype, TurtleTree Labs, The Every Company, Higher Steaks, Mission Barns, Biomilq, Ginkgo Bioworks]
+directory: [697, 699, 836, 1249, 1299, 5824, 5827, 6178, 10023]
 images: ["ct.png"]
 additional_images: ["2_0.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10340
 ---
 <p>January 25, 2022 — The cultivated food industry has seen record levels of investment and breakthroughs in the past two years. However, academic curricula still do not cover topics that would prepare students for work in this field. The Cultivate Tomorrow initiative aims to help bridge that gap, organizing students from all disciplines to tackle key challenges in the industry through a cellular agriculture-focused hackathon, the first of its kind in the US. Cultivate Tomorrow was initiated and directed by Jasmin Kern, a cultivated food enthusiast and senior studying Chemistry at MIT. In July 2021, she gathered a group of passionate and forward-thinking students across US academic institutions to build this event.</p>
 <p>The inaugural Cultivate Tomorrow hackathon is organized into three tracks: scientific communication, advertising strategy, and innovative resource use. Each team of 3-5 students is paired with an industry mentor. The Cultivate Tomorrow team recruited 170 student applicants from around the country last fall, and currently have nearly 130 students participating.</p>

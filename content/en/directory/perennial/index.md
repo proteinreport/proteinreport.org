@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5736
 ---
 <p>Perennial was crafterd to help living healthier and thriving at any age. As a progressive health science company, Perennial aims to take a new approach to global adult nutrition by harnessing the power of plants. Through relentless innovation, they strive for a cleaner, more personalized and thoughtful approach to aging well, with delicious products that improve human life, and redefine what it means to be 50+.</p>

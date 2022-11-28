@@ -10,13 +10,14 @@ products: [Meat]
 topics: [Business]
 regions: [US &amp; Canada]
 flags: [Featured, Analysis]
-directory: [Eat Just, Beyond Meat, Impossible Foods, Wildtype]
+directory: [234, 694, 695, 836]
 contributors: [Doug Grant]
 images: [shutterstock_221241115.eps_2539_1930_0.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 8173
 ---
 <h2><strong>Cultivated ground meat has the potential to unravel the business model of the beef industry</strong></h2>
 
@@ -30,7 +31,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/meat%20costs.png" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1280,&quot;height&quot;:720,&quot;rel&quot;:&quot;blazy-filter-d0q6rxzlbtk-36-export-data-export-1&quot;}">      <div style="padding-bottom: 56.25%;" data-ratio="56.25" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/meat%20costs.png" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1280,&quot;height&quot;:720,&quot;rel&quot;:&quot;blazy-filter-mvigxpaqpoy-36-export-data-export-1&quot;}">      <div style="padding-bottom: 56.25%;" data-ratio="56.25" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Courtesy of Ron Shigeta" title="meat costs.png" class="media__image media__element b-lazy img-fluid" data-entity-uuid="e059d0b6-64a6-412b-8374-aa71da1567ed" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/meat%20costs.png?itok=Ry5UopeO" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20675'%2F%3E" width="1200" height="675" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
@@ -60,7 +61,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/table1.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1503,&quot;height&quot;:615,&quot;rel&quot;:&quot;blazy-filter-d0q6rxzlbtk-36-export-data-export-1&quot;}">      <div style="padding-bottom: 40.92%;" data-ratio="40.92" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/table1.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1503,&quot;height&quot;:615,&quot;rel&quot;:&quot;blazy-filter-mvigxpaqpoy-36-export-data-export-1&quot;}">      <div style="padding-bottom: 40.92%;" data-ratio="40.92" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Unit economics of a cow" title="table1.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="39669bba-113e-44fb-98dd-81fcb45121c2" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/table1.jpg?itok=uazOlMAu" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20491'%2F%3E" width="1200" height="491" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
@@ -91,7 +92,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/figure3_0.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1609,&quot;height&quot;:832,&quot;rel&quot;:&quot;blazy-filter-d0q6rxzlbtk-36-export-data-export-1&quot;}">      <div style="padding-bottom: 51.75%;" data-ratio="51.75" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/figure3_0.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1609,&quot;height&quot;:832,&quot;rel&quot;:&quot;blazy-filter-mvigxpaqpoy-36-export-data-export-1&quot;}">      <div style="padding-bottom: 51.75%;" data-ratio="51.75" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Impact of cultivated ground beef on retail steak prices" title="figure3_0.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="0717bd9a-2fd0-45d2-b102-0eda8ce97f92" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/figure3_0.jpg?itok=J8xGT_QH" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20621'%2F%3E" width="1200" height="621" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

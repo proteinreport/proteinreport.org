@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8602
 ---
 <p>The New, one of Latin America’s fastest-growing plant-based meat brands. Launched in September 2019 by plant-based triathlete and successful entrepreneur Bruno Fonseca, The New produces plant-based salmon, cod, chicken, and beef products. All products are non-GMO and free of all common allergens including soy and gluten.</p>

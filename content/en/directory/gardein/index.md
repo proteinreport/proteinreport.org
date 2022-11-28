@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1161
 ---
 <p>Gardein is a sustainable protein brand that delivers the great taste, texture and nutrition of meat with no cholesterol, less fat and calories. Gardein makes the widest variety of award-winning meatless meals and snacks that are good for you and good for the planet.</p>

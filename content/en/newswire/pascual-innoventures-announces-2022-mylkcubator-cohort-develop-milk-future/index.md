@@ -3,7 +3,7 @@ title: "Pascual Innoventures announces 2022 Mylkcubator cohort to develop milk o
 date: 2022-11-17 12:38:02
 lastmod: 2022-11-17 12:38:02
 slug: /pascual-innoventures-announces-2022-mylkcubator-cohort-develop-milk-future
-company: "Eatable Adventures"
+company: 10963
 description: "Pascual Innoventures announces investments in two startups of the first cohort of Mylkcubator, De Novo Dairy and Zero Cow Factory, while welcoming five new startups for the new cohort, Maolac, Miruku, ERGO Bioscience, Nutropy and PFx Biotech."
 excerpt: "Pascual Innoventures announces investments in two startups of the first cohort of Mylkcubator, De Novo Dairy and Zero Cow Factory, while welcoming five new startups for the new cohort, Maolac, Miruku, ERGO Bioscience, Nutropy and PFx Biotech."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming]
@@ -11,13 +11,13 @@ products: [Dairy]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [De Novo Dairy, Eatable Adventures, Nutropy]
+directory: [10451, 10963, 11147]
 images: ["Mylkcubator 2.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11195
 ---
 <p><strong>Madrid, November 17, 2022</strong>. Pascual Innoventures announces investments in two startups of the first cohort of Mylkcubator, De Novo Dairy and Zero Cow Factory, while welcoming five new startups for the new cohort, Maolac, Miruku, ERGO Bioscience, Nutropy and PFx Biotech.</p>
 <p>With just one year of operations, Pascual Innoventures, founded in 2021 to promote the food of the future, has already made its first significant capital investment demonstrating its clear commitment to innovation and fulfilling its goal to help to develop the milk of the future. Specifically, it has invested in<a href="https://www.denovodairy.com/"> De Novo Dairy</a> and<a href="https://zerocowfactory.com/"> Zero Cow Factory</a>, two of the four startups that were part of the first cohort of Mylkcubator, the first incubator in the world specialized in the development of innovation projects for the dairy sector, launched by<a href="https://pascualinnoventures.com/"> Pascual Innoventures</a> in partnership with<a href="https://eatableadventures.com/"> Eatable Adventures</a>.</p>

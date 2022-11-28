@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7798
 ---
 <p>The UC Davis Cultivated Meat Consortium (CMC) is a cross-disciplinary consortium of campus scientists, engineers, entrepreneurs and educators with expertise in platform technologies and translational research approaches that will enable the development of cultivated meat and high value proteins for use in sustainable food systems.</p>

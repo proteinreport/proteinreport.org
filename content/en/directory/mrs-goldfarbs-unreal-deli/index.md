@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5747
 ---
 <p>Mrs. Goldfarb&#039;s Unreal Deli makes authentic NY deli meat&amp;nbsp;from plants.</p>

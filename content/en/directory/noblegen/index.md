@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5948
 ---
 <p>Noblegen is an advanced ingredients company that produces protein, oil and beta-glucan ingredients for the healthy living industry. Harvested from an ancient, non-GMO microorganism, our ingredients are naturally nutritious and offer a range of functional benefits in baked goods, beverages, bars, dietary supplements, and more. Using a proprietary fermentation method we call Facilitated Expression, we naturally grow our ancient microorganism culture without unnecessary chemicals, pesticides or processing. The result is real, allergen free, and fully customized ingredients you can trust. With a purpose to create a healthier and cleaner world, Noblegen’s advanced ingredient solutions are redefining the future of nutrition.</p>

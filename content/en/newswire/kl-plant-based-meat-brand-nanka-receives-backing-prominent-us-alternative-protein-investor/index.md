@@ -3,7 +3,7 @@ title: "KL Plant-Based Meat Brand Nanka Receives Backing From Prominent U.S. Alt
 date: 2022-11-03 15:40:03
 lastmod: 2022-11-03 15:40:03
 slug: /kl-plant-based-meat-brand-nanka-receives-backing-prominent-us-alternative-protein-investor
-company: "Lever VC"
+company: 1332
 description: "LF Growth Fund announced today the completion of investment into Kuala Lumpur plant-based meat brand Nanka, which produces a range of delicious and healthy meat alternatives based on jackfruit and plant protein."
 excerpt: "LF Growth Fund announced today the completion of investment into Kuala Lumpur plant-based meat brand Nanka, which produces a range of delicious and healthy meat alternatives based on jackfruit and plant protein."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
-directory: [Lever VC]
+directory: [1332]
 images: ["LeverVC.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11178
 ---
 <p><strong><em>Kuala Lumpur, Malaysia</em></strong> - LF Growth Fund announced today the completion of investment into Kuala Lumpur plant-based meat brand Nanka, which produces a range of delicious and healthy meat alternatives based on jackfruit and plant protein. LF Growth Fund, the investment arm of United States-based Lever Foundation, is one of the most active investors in the alternative protein category in Asia, having backed 17 startups in the category over the past two years across Mainland China, Hong Kong, Indonesia, Singapore and now also Malaysia.</p>
 <p>Founded by F&B veteran Ahmad Syafik Jaafar and food technologist Amirah Mohd Noh, Nanka entered the plant-based meat market in Malaysia with its signature jackfruit-based burger patties. The company has since developed a variety of additional meat alternatives including nuggets, balls, hotdogs, and minced meat. Jackfruit, which is native to Malaysia and grows all year round, is resistant to diseases and high temperatures and adds a fibrous meat-like texture to plant-based meat. </p>

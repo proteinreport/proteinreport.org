@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7676
 ---
 <p>Brightseed enables a healthier future by illuminating and activating the connections between people and plants. Despite centuries of wisdom proving the critical roles plants play in supporting our health, the majority of active compounds in the plant kingdom remain unexplored. Our artificial intelligence, Forager, reveals powerful compounds hidden in nature and our team scientifically validates their impact.</p>

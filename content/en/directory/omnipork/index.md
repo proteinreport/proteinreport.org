@@ -15,5 +15,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5912
 ---
 <p>OmniPork is launched by OmniFoods, a venture under the Green Monday Holdings. With our game-changing OmnipPork, it is designed to be an all-purpose plant-based pork analogue that is nutritionally superior and environmentally friendly.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10450
 ---
 <p>Fybraworks develops animal-free fermentation-based meat alternatives to help food ingredient companies and pet food companies formulate affordable and tasty meat alternatives by combining natural texture of fungi as well as nutrition from tailored muscle proteins.</p>

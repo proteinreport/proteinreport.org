@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5684
 ---
 <p>Seva has developed Space Ice Kream, a non-dairy, freeze dried ice cream and Coconut Jerky, a plant-based jerky.</p>

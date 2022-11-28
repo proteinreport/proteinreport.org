@@ -12,13 +12,13 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients, Feed]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release]
-directory: [Eat Just, Perfect Day Foods, Triton Algae Innovations, V2food, Aleph Farms, Mosa Meat, Shiok Meats, BlueNalu, Upside Foods, Growthwell Group, ChickP, VisVires New Protein, Bluu Seafood, Next Gen Foods, Magic Valley, Float Foods, SeaSpire, New School Foods]
+directory: [234, 699, 5797, 5800, 5816, 5820, 5821, 5829, 5831, 6736, 6737, 7551, 7856, 8817, 8859, 9129, 9427, 10387]
 images: ["AP_Agri-Food_2021_webslider_2650x1000px_v2_NEWS-scaled.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11134
 ---
 <p><strong><em>Asia-Pacific Agri-Food Innovation Summit, Singapore, October 26-28</em></strong></p>
 <p>SINGAPORE — The fifth annual <strong>Asia-Pacific Agri-Food Innovation Summit</strong> presents 50 regional and international innovators who are pioneering breakthrough technologies in agri-food, to ensure food security and build capacity in Asia and beyond.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1294
 ---
 <p>Meat lovers, Andy Shovel and Pete Sharman, channelling their in-depth knowledge of meat created the most realistic bacon meat-alternative in the world. Following two years of research and development, partnering with world-leading texture scientists and flavourists, This mimics meat in taste, texture, appearance and smell, but without the ethical or environmental impact, instead using peas and soya beans as the base.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7108
 ---
 <p>CAS is the international 501(c)(3) non-profit advancing cellular agriculture, a field of biotechnology producing animal products without animals.</p>

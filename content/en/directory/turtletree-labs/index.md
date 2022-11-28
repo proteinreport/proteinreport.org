@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1249
 ---
 <p>TurtleTree Labs is recreating real milk inside a lab using the latest cutting edge innovation in biotech. The focus on execution will disrupt this multi-billion dollar industry while reducing the carbon footprint on this planet. The innovation will provide millions access to safer, reliable and higher quality dairy products.</p>

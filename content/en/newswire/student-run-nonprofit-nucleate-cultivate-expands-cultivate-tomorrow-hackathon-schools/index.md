@@ -3,7 +3,7 @@ title: "Student-run Nonprofit Nucleate Cultivate Expands Cultivate Tomorrow Hack
 date: 2022-10-18 16:40:51
 lastmod: 2022-10-18 16:40:51
 slug: /student-run-nonprofit-nucleate-cultivate-expands-cultivate-tomorrow-hackathon-schools
-company: "Cultivate Tomorrow"
+company: 10728
 description: "Registration is open until November 10th for students to take part in the hackathon, get mentored by industry leaders, and apply their knowledge and skills to reimagine the future of food."
 excerpt: "Registration is open until November 10th for students to take part in the hackathon, get mentored by industry leaders, and apply their knowledge and skills to reimagine the future of food."
 proteins: [Cell-Based, Microbial]
@@ -11,13 +11,13 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International, US & Canada]
 flags: [Press Release]
-directory: [New Harvest, Aleph Farms, Cellular Agriculture Australia, Agriculture Cellulaire France, Cultivate Tomorrow]
+directory: [697, 5816, 7131, 7644, 10728]
 images: ["ct.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11169
 ---
 <p><em>Registration is open until November 10th for students to take part in the hackathon, get mentored by industry leaders, and apply their knowledge and skills to reimagine the future of food.</em></p>
 <p>Boston, MA, October 18 — After last year’s inaugural Cultivate Tomorrow Hackathon event, which invited students from academic institutions across the US to design creative solutions for the cellular agriculture industry, the competition is now open to students from around the globe. With partners at Cell Ag Australia, Cell Ag Netherlands, Cell Ag France, Wageningen Alt Protein, and many other supporting organizations, the Cultivate team hopes to open the door to cellular agriculture for more students.</p>

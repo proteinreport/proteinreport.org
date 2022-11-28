@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 696
 ---
 <p>Sustainable plant-based meats made from natural ingredients that have the nutrition profile of real meat, plus all the nutrition and fiber of vegetables. Meati has been produced by Emergy Foods.</p>

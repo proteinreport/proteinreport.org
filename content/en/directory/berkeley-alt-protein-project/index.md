@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7114
 ---
 <p>The Berkeley Alt. Protein Project strives to build a healthy, sustainable, and just food system by creating a vibrant and robust community for alternative protein research and innovation at UC Berkeley. The organisation aims to provide members with a community where they can explore the field of alternative protein and other opportunities associated with plant-based, cultivated, and fermentation-derived meat, eggs, and dairy to plan future careers that will allow them to transform the future of food. At its best, the Berkeley Alt. Protein Project group acts as a miniature think tank for a burgeoning field, catapulting its members to the forefront of the alternative protein movement.</p>

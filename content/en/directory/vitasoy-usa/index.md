@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5707
 ---
 Vitasoy is the producer of soya based milk alternatives and tofu.

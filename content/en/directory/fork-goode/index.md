@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5826
 ---
 <p>The company is developing a new approach to growing food: creating pure animal proteins and fats that are clean, traceable, and delicious.</p>

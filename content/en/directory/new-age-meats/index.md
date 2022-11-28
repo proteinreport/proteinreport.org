@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5828
 ---
 <p>New Age Meats is an early-stage startup making healthy cell-cultured meat without animal&nbsp;slaughter.</p>

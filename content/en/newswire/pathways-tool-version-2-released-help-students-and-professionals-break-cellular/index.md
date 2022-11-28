@@ -3,7 +3,7 @@ title: "'Pathways' tool Version 2 released to help students and professionals br
 date: 2022-05-18 03:07:16
 lastmod: 2022-05-18 03:07:16
 slug: /pathways-tool-version-2-released-help-students-and-professionals-break-cellular
-company: "Cellular Agriculture Australia"
+company: 7131
 description: "- Cellular Agriculture Australia’s Pathways tool will drive and guide more talent into cellular agriculture research- The tool lists key research ‘Problems to Solve’ in the field and matches these to related tertiary qualifications  - ‘Majors’ - available in Australia, with direct links to Australian universities that can be filtered by State- The new version includes non-STEM ‘Problems to Solve’, encompassing public perception, policy and regulation, funding and investment, transition research, and commerce - Cellular Agriculture Australia is a nonprofit organisation dedicated to accelerating the cellular agriculture sector in Australia. Their goals are to develop talent pipelines into cellular agriculture, create a connected and collaborative community within the sector, and promote positive awareness of cellular agriculture"
 excerpt: "- Cellular Agriculture Australia’s Pathways tool will drive and guide more talent into cellular agriculture research- The tool lists key research ‘Problems to Solve’ in the field and matches these to related tertiary qualifications  - ‘Majors’ - available in Australia, with direct links to Australian universities that can be filtered by State- The new version includes non-STEM ‘Problems to Solve’, encompassing public perception, policy and regulation, funding and investment, transition research, and commerce - Cellular Agriculture Australia is a nonprofit organisation dedicated to accelerating the cellular agriculture sector in Australia. Their goals are to develop talent pipelines into cellular agriculture, create a connected and collaborative community within the sector, and promote positive awareness of cellular agriculture"
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [Oceania]
 flags: [Press Release]
-directory: [Cellular Agriculture Australia]
+directory: [7131]
 images: ["caa_pathways_0.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10854
 ---
 <p>Cellular Agriculture Australia (CAA) has updated their interactive tool ‘Pathways into Cellular Agriculture’ with the addition of non-STEM ‘Problems to Solve’. ‘Pathways’ is an initiative from CAA designed to drive more talent into cellular agriculture, an emerging industry and research field dedicated to producing animal products (such as meat, seafood, eggs, dairy, and leather) using cells rather than animals.</p>
 <p>CAA initially developed ‘Pathways’ to assist students and job seekers in mapping technical STEM career pathways within areas of cellular agriculture research. But with the field rapidly growing, the focus has expanded to include the social, economic, cultural, and political dimensions of cellular agriculture that must be addressed if the industry is going to realise its potential once regulatory approval has been granted. </p>

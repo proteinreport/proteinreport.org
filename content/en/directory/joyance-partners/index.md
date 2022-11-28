@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7552
 ---
 <p>Joyance Partners is a $20M venture capital partnership that invests in companies with the capacity to deliver, or contribute to the delivery of, Delightful Moments.</p>

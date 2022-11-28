@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6792
 ---
 <p>Harnessing the benefits of earth’s oldest life sources to create sustainable, nourishing and delicious products to power generations of tomorrow. FUL offers food and beverage products centered around a trademarked carbon negative ingredient featuring key protein and nutrients from microalgae.</p>

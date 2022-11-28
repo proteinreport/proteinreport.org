@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5676
 ---
 <p>Vtopian Artisan Cheeses are 100% plant-based. All cheeses are made in small batches by hand from organic cashews and ethically sourced ingredients. Just like in traditional cheese, the company is using live cultures to give cheeses the creaminess and tanginess that the consumers love!</p>

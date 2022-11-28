@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5582
 ---
 <p>Hodo is an organic plant-based foods company based in Oakland, CA. Founded in 2004, Hodo is the largest artisan tofu maker and only producer of fresh, organic yuba in the United States.</p>

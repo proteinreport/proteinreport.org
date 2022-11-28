@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 11159
 ---
 <p>Adamo Foods is a food-technology company, developing the most innovative alternatives to meat whole-cuts. We’re launching the world’s first sustainable, yet delicious steak, entirely made from fungi.</p>

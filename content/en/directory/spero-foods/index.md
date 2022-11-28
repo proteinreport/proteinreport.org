@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1177
 ---
 <p>Founded in 2016, Spero Foods is on a mission to make everyday dairy products into delicious, sustainable and nutrient-dense, healthy foods. Spero Foods has earned the title, Standout Startup of the Winter Fancy Food Show by Food Business News and 50 Women Led Startups Who Are Crushing Tech by Forbes. Backed by the prestigious YCombinator, the same accelerator that incubated Dropbox and AirBnB, Spero Foods is leading a new, nondairy superfood revolution.</p>

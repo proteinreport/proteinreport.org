@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5622
 ---
 <p>Zengarry’s fauxmages have become some of the most in-demand non-dairy cheeses in Canada, with distribution rapidly expanding since their founding in 2013 from a few local outlets, to nationwide. From Double Crème brie style cheese, to aged cumin-scented Leyden style, Zengarry now boasts seven unique flavors of fauxmage available in over 300 stores across Canada.</p>

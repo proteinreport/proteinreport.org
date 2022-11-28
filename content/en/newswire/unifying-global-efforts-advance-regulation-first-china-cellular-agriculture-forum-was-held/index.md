@@ -12,13 +12,13 @@ products: [Meat, Seafood]
 topics: [Business, Policy]
 regions: [Asia]
 flags: [Press Release]
-directory: [TurtleTree Labs, Lever VC, Avant Meats, Aleph Farms, SuperMeat, IntegriCulture, Mosa Meat, Shiok Meats, Mission Barns, BlueNalu, Upside Foods, GFIC, CellX]
+directory: [1249, 1332, 5810, 5816, 5817, 5818, 5820, 5821, 5827, 5829, 5831, 7315, 8329]
 images: ["CCAF-Image2.png"]
 additional_images: ["CCAF-Image1.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10764
 ---
 <p>The first China Cellular Agriculture Forum discussion panel was held on April 19, Beijing time. The panel was a collaborative success, with attendees from around 30 organizations*, representing leading cultivated meat companies, ecosystem builders, research institutions, and upstream and downstream partners from both within and outside of China.</p>
 <p>This Forum was organized with the vision of advocating science-based regulatory policies, facilitating public acceptance of technologies and products related to cellular agriculture, and reaching a consensus on industry-best-practice specifically in the China space. The Forum hopes to unite stakeholders (academia, regulatory authorities, industry groups, etc.) across the field of cellular agriculture to establish a China-focused industry platform, laying the groundwork for future joint efforts in promoting public acceptance in the Chinese market space.</p>

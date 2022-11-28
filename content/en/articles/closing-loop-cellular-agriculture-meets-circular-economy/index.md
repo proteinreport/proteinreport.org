@@ -10,13 +10,14 @@ products: [Meat, Seafood, Ingredients]
 topics: [Business, Environment]
 regions: [International, US &amp; Canada]
 flags: [Featured]
-directory: [New Harvest]
+directory: [697]
 contributors: [Avery Parkinson]
 images: [ds_2.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 9467
 ---
 <p>“The thing about the cellular agriculture supply chain is that there isn’t one,” says Dalhousie University Ph.D. candidate, Dawne Skinner. But that’s not necessarily a bad thing. Skinner is a New Harvest Research Fellow whose <a href="https://new-harvest.org/people/?direct-link=60c372803e839">research focuses on</a> identifying opportunities for the cellular agriculture industry to apply circular economy interventions to its processes.</p>
 <p>This economic sustainability paradigm, also sometimes referred to as a closed-loop system, is focused on designing waste out of the economy, keeping materials in use, and regenerating natural systems. According to the <a href="https://www.ellenmacarthurfoundation.org/circular-economy/concept">Ellen MacArthur Foundation</a>, decoupling economic activity from the consumption of finite resources can improve the triple bottom line — the social, environmental, and financial outcomes of our economic system.</p>

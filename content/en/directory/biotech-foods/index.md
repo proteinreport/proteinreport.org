@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1268
 ---
 <p>Biotech Foods develops technology to produce cultured meat, in which animal tissue is grown in a controlled environment using cell culture technology. Ethicameat is the cultured meat brand of BioTech Foods.</p>

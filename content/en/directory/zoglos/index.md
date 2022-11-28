@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5565
 ---
 <p>Zoglo’s is a dedicated manufacturer of fine meatless alternatives with protein and vegetable entrées, and finger foods which are easy to prepare in just a few minutes. Zoglo’s products combine taste, technology and the highest levels of research and development.</p>

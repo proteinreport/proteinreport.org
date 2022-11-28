@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1162
 ---
 Daring looks, cooks and tastes like chicken, but most definitely not chicken. daring is 100% plant-based, 1000% not chicken, and absolutely delicious.

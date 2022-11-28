@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1262
 ---
 <p>Air Protein is establishing a new industry of sustainable food that solves growing global food demands without the need for arable land. Air Protein leverages carbon transformation technology developed by Kiverdi, which was inspired by NASA&#039;s closed loop carbon cycle concepts for long-journey space missions. The protein found in air-based meat is produced using natural processes, and made completely free of any use of pesticides, herbicides, hormones or antibiotics.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5621
 ---
 <p>Five Star Foodies is a family-owned, plant-based food company – local to Cincinnati, Ohio. Company&#039;s goal is to provide consumers with foods that are completely meat and dairy free, while still satisfying the need for bold, bright and culinarily diverse flavors. Five Star Foodies use only the highest quality ingredients and all of the products are made in small batches, ensuring each burger or frittata is top quality.</p>

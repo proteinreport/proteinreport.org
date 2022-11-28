@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1240
 ---
 <p>Novish focuses entirely on plant-based fish substitutes that are 100% soy-free, have a good flavour and texture, combat overfishing and by-catch and create a balance in the daily diet.</p>

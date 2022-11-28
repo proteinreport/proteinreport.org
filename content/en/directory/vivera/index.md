@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1077
 ---
 <p>Vivera is a European brand for conventional and organic meat alternatives (components, ingredients and snacks). The Vivera assortment consists of raw and precooked products divided into four categories: Basic, Organic, 100% Vegetable and Meat product replacements. Most Vivera products are based on soy beans. However, there are also products based on chickpeas, corn, rice and potatoes.</p>

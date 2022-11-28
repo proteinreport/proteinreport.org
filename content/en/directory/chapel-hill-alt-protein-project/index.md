@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7115
 ---
 <p>The UNC Chapel Hill Alt. Protein Project strives to build a healthy, sustainable, and just food system by creating a vibrant and robust community for alternative protein research and innovation at University of North Carolina at Chapel Hill.</p>

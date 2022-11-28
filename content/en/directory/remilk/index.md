@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6832
 ---
 <p>We love milk, but using animals to make our food is as primitive as starting a fire with stones. So we teamed up with technology to reshape dairy products without compromising on deliciousness.</p>

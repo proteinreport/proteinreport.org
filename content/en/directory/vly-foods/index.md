@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5662
 ---
 <p>Vly is a plant-based milk alternative.</p>

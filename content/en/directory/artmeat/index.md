@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5854
 ---
 <p>ArtMeat is a startup working on cultivated horse and sturgeon&nbsp;cells.</p>

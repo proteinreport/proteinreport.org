@@ -3,7 +3,7 @@ title: "CellulaREvolution raises £1m to further accelerate the development of l
 date: 2021-02-05 16:28:46
 lastmod: 2021-02-05 16:28:46
 slug: /cellularevolution-raises-ps1m-further-accelerate-development-lab-grown-cells
-company: "CellRev"
+company: 5855
 description: "Technology disrupter CellulaREvolution, which aims to revolutionise the way cells are grown in labs, has raised £1million from a set of strategic investors including CPT Capital, Stephan Schmidt, Orange Light Ventures, and funds managed by Northstar Ventures, the North East Innovation Fund supported by the European Regional Development Fund and the newly launched Northern Accelerator Seed Investment Fund (NASIF)."
 excerpt: "Technology disrupter CellulaREvolution, which aims to revolutionise the way cells are grown in labs, has raised £1million from a set of strategic investors including CPT Capital, Stephan Schmidt, Orange Light Ventures, and funds managed by Northstar Ventures, the North East Innovation Fund supported by the European Regional Development Fund and the newly launched Northern Accelerator Seed Investment Fund (NASIF)."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Aleph Farms, BlueNalu, Upside Foods, CellRev, CPT Capital]
+directory: [5816, 5829, 5831, 5855, 6280]
 images: ["M Miotto in the lab 3.JPG"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8406
 ---
 <p>Technology disrupter CellulaREvolution, which aims to revolutionise the way cells are grown in labs, has raised £1million from a set of strategic investors including CPT Capital, Stephan Schmidt, Orange Light Ventures, and funds managed by Northstar Ventures, the North East Innovation Fund supported by the European Regional Development Fund and the newly launched Northern Accelerator Seed Investment Fund (NASIF).</p>
 <p>CellulaREvolution, a spin out from Newcastle University, was founded in 2019 by Martina Miotto, Che Connon and Leo Groenewegen. It is developing ground-breaking technologies to make the culturing of cells more efficient and affordable. The process is based on the novel concept of a continuous cell culturing system which has a higher yield, smaller footprint and lower input requirements than traditional batch technologies. Alex Buchan, Investment Director at Northstar Ventures, said:</p>

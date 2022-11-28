@@ -18,7 +18,7 @@ additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9050
 ---
 <p><strong>Amsterdam, 28 May 2021 </strong>– In keeping with its pioneering commitment to the protein transition, Meelunie has announced it will be opening a fava protein isolate manufacturing facility in Hedensted, Denmark in October 2022.</p>
 <p>Meelunie, a leading global supplier of plant-based ingredients, believes fava will play a pivotal role in the protein transition. Helping meet the growing demand for plant-based proteins in ways that also address deforestation, inefficiencies in global agriculture and other climate-related challenges.</p>

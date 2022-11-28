@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10458
 ---
 <p>Melt&amp;Marble’s mission is to become an enabler for the alternative protein industry by providing it with the best and tastiest fats. We do this by using precision fermentation to produce animal fats without the animal. By engineering microbial metabolism, we can dictate the structure and properties of the fats that our microbes are producing, allowing us to mimic any fat structure, as well as create completely new and better fats. The result: tastier plant-based foods, for consumers and the planet!</p>

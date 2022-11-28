@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5764
 ---
 <p>Chef Chew is the founder of Something Better Foods. He painstakingly invented Better Than Meat products in his momma’s kitchen. He is a radical chef who is changing how we eat.</p>

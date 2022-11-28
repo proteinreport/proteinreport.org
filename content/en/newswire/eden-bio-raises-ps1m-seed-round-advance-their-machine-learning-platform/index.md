@@ -3,7 +3,7 @@ title: "Eden Bio raises £1m seed round to advance their machine-learning platfo
 date: 2022-11-15 10:00:00
 lastmod: 2022-11-15 10:00:00
 slug: /eden-bio-raises-ps1m-seed-round-advance-their-machine-learning-platform
-company: "Eden Bio"
+company: 11189
 description: "Eden Bio, a UK-based biotech using machine learning to increase protein yield, is delighted to announce their seed investment round of £1M."
 excerpt: "Eden Bio, a UK-based biotech using machine learning to increase protein yield, is delighted to announce their seed investment round of £1M."
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Better Dairy, Eden Bio]
+directory: [6916, 11189]
 images: ["Eden Bio Team_0.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11190
 ---
 <p><strong>London, UK, 15 November 2022 – </strong>Eden Bio, a UK-based biotech startup using machine learning to increase protein yield, is delighted to announce their seed investment round of £1M. This raise strengthens Eden Bio’s R&D capacity and ability to expand their underlying machine-learning platform over the coming years. By using artificial intelligence to genetically optimise microorganism strains, Eden Bio improves the yield of protein products. Cutting the cost of protein production is essential, and many companies across markets currently struggle with low yield, whether they’re producing industrial enzymes, therapeutics, animal-free foods, custom proteins or media components.</p>
 <p>The investment was led by <strong>SynBioVen</strong>, whose board includes Professors Richard Kitney and Paul Freemont (two of the leading founders of synthetic biology in the UK), Lord David Willetts (Chair of the UK Space Agency, former Minister for Universities and Science, and creator of the Synthetic Biology Leadership Council), and Sir David Harding (Founder and CEO of research-based quantitative investment firm, the Winton Group). Together, they are an elite team of synthetic biology investors, and their links to the SynbiCITE incubator and Imperial College London position Eden Bio at the centre of both world-leading technology and talent.</p>

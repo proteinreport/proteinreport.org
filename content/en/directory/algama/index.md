@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7072
 ---
 <p>As a food-tech company, Algama harvests the potential of algae to create food that&#039;s good for both people and the planet. Algama’s goal is to feed 10 billion people by 2050, while preserving the planet and offering consumers additional and better choices in foods.</p>

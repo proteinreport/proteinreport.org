@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5894
 ---
 <p>Prime Roots is an alternative seafood and meat company creating delicious products made from Koji, a Japanese superfood. Headquartered in Berkeley, California, Prime Roots is committed to positively influencing America’s food culture and reducing the hefty environmental impact of meat. The company makes delicious meat and seafood alternatives, while avoiding hyper-processing techniques that are utilized by other meat alternative companies. Their products are developed using proprietary methods that combine cutting-edge technology with ancient techniques — resulting in better tasting and naturally textured market alternatives. Prime Roots is backed by Collaborative Fund (investors in Beyond Meat and Impossible Foods), and True Ventures (investors in Blue Bottle Coffee and Sweetgreen).</p>

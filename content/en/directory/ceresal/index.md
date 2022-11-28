@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6549
 ---
 <p>Ceresal GmbH is an international b2b-supplier and producer of high-quality, natural, plant-based raw materials for the food and the feed industry. We offer plant proteins, gluten-free flours, fruit and vegetable flours, cold-pressed oils, starches, seeds and pulses. We can supply nearly all products in conventional and organic quality. We also offer different container sizes.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1152
 ---
 A producer of plant-based, protein-packed, convenient foods that make delicious meals for every lifestyle.

@@ -10,13 +10,14 @@ products: [Ingredients]
 topics: [Business]
 regions: [International]
 flags: [Featured]
-directory: [The Dutch Weed Burger, Akua, Umaro, Seawith]
+directory: [5532, 5605, 6974, 9143]
 contributors: [Steven Hermans]
 images: [seaweedfarm.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 9805
 ---
 <p>Seaweed aquaculture is the world’s <a href="https://www.frontiersin.org/articles/10.3389/fmars.2017.00100/full">fastest-growing food sector</a>, with its yearly production volume growing at a rate of 8-10%. More people are discovering that farming seaweed is a viable livelihood, and the number of its applications is growing as the body of research on its uses expands into food, feed, fertilizer, cosmetics, pharmaceuticals and nutraceuticals, textiles, pigments, plastics, construction materials, and more. As the world frantically seeks to decarbonize, seaweeds have increasingly been touted by scientists and entrepreneurs alike as a critical piece of the puzzle.</p>
 
@@ -47,7 +48,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/seaweed.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1030,&quot;height&quot;:635,&quot;rel&quot;:&quot;blazy-filter-9de2gunm-oc-8-export-data-export-1&quot;}">      <div style="padding-bottom: 61.67%;" data-ratio="61.67" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/seaweed.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1030,&quot;height&quot;:635,&quot;rel&quot;:&quot;blazy-filter-fhyncz-buno-8-export-data-export-1&quot;}">      <div style="padding-bottom: 61.67%;" data-ratio="61.67" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Seaweed Chart" title="seaweed.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="103c430c-a01a-4c2f-986c-8b2165507150" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/seaweed.jpg?itok=Ck4ZdI93" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20740'%2F%3E" width="1200" height="740" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

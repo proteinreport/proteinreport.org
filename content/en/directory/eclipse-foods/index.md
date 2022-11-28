@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1176
 ---
 <p>Eclipse Foods makes plant-based milk that is indistinguishable from conventional dairy, in taste, texture and functionality. Our products are made without soy, nuts, coconut, gluten, GMO’s, gums or stabilizers, making them free from all common allergens and much cleaner than other products.</p>

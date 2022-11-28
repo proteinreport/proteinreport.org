@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5695
 ---
 <p>Risofu (rhee-ZOE- foo) is a new food which clearly separates Morini Brands from every company offering soy-based and other vegetarian meat analogues. Risofu is the name for the creation of the world’s first rice curd/rice tofu - based meat alternative.</p>

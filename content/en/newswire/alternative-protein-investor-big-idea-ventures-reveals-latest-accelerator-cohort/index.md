@@ -3,7 +3,7 @@ title: "Alternative protein investor Big Idea Ventures reveals latest accelerato
 date: 2022-05-02 08:40:01
 lastmod: 2022-05-02 08:40:01
 slug: /alternative-protein-investor-big-idea-ventures-reveals-latest-accelerator-cohort
-company: "Big Idea Ventures"
+company: 6600
 description: "Big Idea Ventures, global leader in early-stage investments in the alternative protein sector, revealed its latest accelerator cohort today."
 excerpt: "Big Idea Ventures, global leader in early-stage investments in the alternative protein sector, revealed its latest accelerator cohort today."
 proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
@@ -11,13 +11,13 @@ products: [Meat, Dairy, Eggs, Ingredients]
 topics: [Business]
 regions: [International]
 flags: [Press Release, Investments]
-directory: [Big Idea Ventures, Cultivated Biosciences, Mewery]
+directory: [6600, 10547, 10908]
 images: ["Big Idea Ventures (Black Logo).png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10789
 ---
 <p><em><strong>Big Idea Ventures, global leader in early-stage investments in the alternative protein sector, revealed its latest accelerator cohort today.</strong></em></p>
 <p>Fifteen early-stage startups were selected for pre-seed investment as part of Big Idea Ventures’ bi-annual new protein accelerator program. Investments were made through the firm’s three offices in New York, Paris and Singapore. Big Idea Ventures’ accelerator is part of its New Protein Fund ($50M+ AUM), dedicated to early-stage investments in alternative protein products, ingredients and technologies.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5663
 ---
 Oatly, the original Swedish oat drink company. The company turns liquid oats into food and drinks with maximum nutritional value and minimal environmental impact.

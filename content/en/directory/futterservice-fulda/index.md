@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1233
 ---
 <p>Futterservice Fulda offers healthy, animal-friendly food for dogs and cats.</p>

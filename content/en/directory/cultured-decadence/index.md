@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8327
 ---
 <p>Cultured Decadence is a cellular aquaculture startup creating novel methods to make crustacean products using cell culture and tissue engineering techniques.</p>

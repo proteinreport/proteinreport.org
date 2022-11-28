@@ -3,7 +3,7 @@ title: "Novel Farms Reveals World's First Marbled Cultivated Pork Loin"
 date: 2022-08-10 19:26:13
 lastmod: 2022-08-10 19:26:13
 slug: /novel-farms-reveals-worlds-first-marbled-cultivated-pork-loin
-company: "Novel Farms"
+company: 7502
 description: "Novel Farms, a food technology startup based in Berkeley, California, unveils today the first-ever marbled cultivated pork loin."
 excerpt: "Novel Farms, a food technology startup based in Berkeley, California, unveils today the first-ever marbled cultivated pork loin."
 proteins: [Cell-Based, Microbial]
@@ -11,13 +11,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [Big Idea Ventures, Novel Farms, Joyance Partners, Sustainable Food Ventures, Cult Food Science]
+directory: [6600, 7502, 7552, 8229, 10643]
 images: ["Novel Farms_0.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11124
 ---
 <p><a href="https://novelfarms.co/">Novel Farms, Inc. </a>(the Company), a food technology startup based in Berkeley, California, unveils today the first-ever marbled cultivated pork loin.</p>
 <p>Cultivated meat is poised to help relieve the strain on our food system by providing a supply of animal protein while offering human health, environmental, and animal welfare benefits. While the vast majority of cultivated meat companies focus on making sausages or burgers, producing meat that mimics conventional meat cuts is currently extremely difficult — only a handful of companies in the world have been able to showcase pork or beef structured prototypes. Novel Farms now joins this select group by creating a cultivated pork loin that displays the marbling and texture of a real muscle cut.</p>

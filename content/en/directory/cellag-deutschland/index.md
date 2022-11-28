@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8863
 ---
 <p>We accelerate cellular agriculture in the German-speaking region.</p>

@@ -12,13 +12,13 @@ products: [Meat, Dairy, Ingredients]
 topics: [Business]
 regions: [International]
 flags: [Press Release]
-directory: [Quorn]
+directory: [1143]
 images: ["FFTP21 - Innovation Challenge 2021 (1).png"]
 additional_images: ["WEBINAR FFTP - Innovation Challenges.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8666
 ---
 <p><strong>Food-Tech Start-Ups Invited to Submit Solutions in Mimicking Whole Cuts and Delivering Unique Gastronomic Experiences.</strong></p>
 <p>Future Food-Tech has announced two Innovation Challenges in partnership with Quorn Foods and Roquette to unlock new talent within the industry and enable opportunities for collaboration.</p>

@@ -3,7 +3,7 @@ title: "Eat Just Announces $25 Million Investment from C2 Capital"
 date: 2022-08-17 06:49:26
 lastmod: 2022-08-17 06:49:26
 slug: /eat-just-announces-25-million-investment-c2-capital
-company: "Eat Just"
+company: 234
 description: "Eat Just, Inc., a company that applies cutting-edge science and technology on a mission to create healthier, more sustainable foods, today announced a $25 million investment and strategic partnership with private equity firm C2 Capital Partners."
 excerpt: "Eat Just, Inc., a company that applies cutting-edge science and technology on a mission to create healthier, more sustainable foods, today announced a $25 million investment and strategic partnership with private equity firm C2 Capital Partners."
 proteins: [Cell-Based, Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat, Eggs]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
-directory: [Eat Just]
+directory: [234]
 images: ["Eat_Just_JUST_Egg_GOOD_Meat.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11125
 ---
 <p><em>Food innovator and China-focused private equity firm forge path for growth</em></p>
 <p>ALAMEDA, Calif. -- Eat Just, Inc., a company that applies cutting-edge science and technology on a mission to create healthier, more sustainable foods, today announced a $25 million investment and strategic partnership with private equity firm C2 Capital Partners (C2). C2 was established in 2018 to provide growth capital and operational support for companies to scale in China. The firm’s anchor investor is Alibaba Group.</p>

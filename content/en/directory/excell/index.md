@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6690
 ---
 <p>Our mycelium structure supports cell from adhesion through to differentiation. Excell provides the ideal scaffold for cultured meat, tissue engineering, and biomedical applications.</p>

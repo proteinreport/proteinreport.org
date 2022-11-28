@@ -3,7 +3,7 @@ title: "Lever China Announces Investments in Six New Alternative Protein Compani
 date: 2022-06-20 08:16:16
 lastmod: 2022-06-20 08:16:16
 slug: /lever-china-announces-investments-six-new-alternative-protein-companies
-company: "Lever VC"
+company: 1332
 description: "Lever China unveiled today early stage investments it has completed in recent months into six new alternative protein companies, expanding its portfolio to a total of 12 startups across plant-based meat and dairy, plant protein, precision and biomass fermentation, and cultivated meat."
 excerpt: "Lever China unveiled today early stage investments it has completed in recent months into six new alternative protein companies, expanding its portfolio to a total of 12 startups across plant-based meat and dairy, plant protein, precision and biomass fermentation, and cultivated meat."
 proteins: [Cell-Based, Plant-Based, Microbial]
@@ -11,13 +11,13 @@ products: [Meat, Dairy, Pet Food, Ingredients]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
-directory: [Lever VC, Avant Meats, CellX, Herotein, Haofood, Marvelous Foods]
+directory: [1332, 5810, 8329, 8412, 8756, 10474]
 images: ["Lever-China-full-logo.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11013
 ---
 <p><strong><em>Shanghai, China</em></strong> - Lever China unveiled today early stage investments it has completed in recent months into six new alternative protein companies, expanding its portfolio to a total of 12 startups across plant-based meat and dairy, plant protein, precision and biomass fermentation, and cultivated meat.</p>
 <p>The six latest  companies that have received early backing from Lever China are</p>

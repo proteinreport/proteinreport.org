@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7116
 ---
 <p>The Davis Alt. Protein Project provides members with a welcoming, inclusive space in which to discover how their interests and skills intersect with the needs of the alternative protein food industry and to plan future careers that will allow them to transform the future of food. The Davis Alt. Protein Project strives to build a healthy, sustainable, and just food system by creating a vibrant and robust community for alternative protein research and innovation at UC Davis. The group organizes industry visits, seminars, product tastings, technical/research discussions, community outreach, and many other activities focused on promoting interest in alternative protein.</p>

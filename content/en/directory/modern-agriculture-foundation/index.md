@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7654
 ---
 <p>The Modern Agriculture Foundation (MAF) is an Israeli non-profit organization set out to transform global food culture by replacing traditional animal-based foods with Clean Meat, Cellular Agriculture and plant-based alternatives. We pursue our mission by fostering high-impact innovation, by educating the public, and by rallying a community of scientists, entrepreneurs, investors, industry leaders and government decision-makers.</p>

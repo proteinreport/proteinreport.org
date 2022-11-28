@@ -3,7 +3,7 @@ title: "Turning CO2 into food: Arkeon secures US$7+ million in an oversubscribed
 date: 2022-03-07 08:55:13
 lastmod: 2022-03-07 08:55:13
 slug: /turning-co2-food-arkeon-secures-us7-million-oversubscribed-seed-round
-company: "Arkeon Biotechnologies"
+company: 10527
 description: "Arkeon Biotechnologies, a Vienna-based ingredients startup setting out to create the most sustainable, nutritious, and ethical food system through gas fermentation and ancient microbes, secures more than US$7 million in an oversubscribed seed round."
 excerpt: "Arkeon Biotechnologies, a Vienna-based ingredients startup setting out to create the most sustainable, nutritious, and ethical food system through gas fermentation and ancient microbes, secures more than US$7 million in an oversubscribed seed round."
 proteins: [Microbial]
@@ -11,13 +11,13 @@ products: [Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Arkeon Biotechnologies]
+directory: [10527]
 images: ["Arkeon_core team_web.jpg"]
 additional_images: ["Arkeon_founders_web.jpg", "Arkeon_Tegl_web.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10528
 ---
 <p><em>Arkeon Biotechnologies, a Vienna-based ingredients startup setting out to create the most sustainable, nutritious, and ethical food system through gas fermentation and ancient microbes, secures more than US$7 million in an oversubscribed seed round.</em></p>
 <p><strong>Vienna, Austria, March 7, 2022</strong> -- Vienna-based ingredients startup Arkeon Biotechnologies has closed its seed financing at more than 7 million US Dollars in an oversubscribed funding round. Arkeon is the first company in the world to leverage the technology of gas fermentation with the power of archaea, an ancient microorganism with unique properties, for food applications. The company’s proprietary technology produces all 20 amino acids for the human diet in one production step.</p>

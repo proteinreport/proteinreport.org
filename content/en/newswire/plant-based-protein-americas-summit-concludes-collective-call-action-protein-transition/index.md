@@ -12,13 +12,13 @@ products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business]
 regions: [Latin America & Caribbean, US & Canada]
 flags: [Press Release]
-directory: [FAIRR Initiative, Plant Based Foods Association]
+directory: [685, 6139]
 images: ["Moonshot panel members .png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9776
 ---
 <p>There’s a very clear call for the plant-based sector to come together in order to accelerate change for a healthy and sustainable future, delegates heard at the most recent Bridge2Food <a href="https://bridge2food.com/webinars/summit-plant-based-foods-proteins-americas-2021/info/programme/">summit</a>.</p>
 <p>“Leaders from across the value chain are urgently calling for action towards the protein transition to plant-based foods if we are to make a difference for planetary health: it is about transformation, cross value-chain impact, and getting more decision-makers at the table,” says CEO Gerard Klein Essink.</p>

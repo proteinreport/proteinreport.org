@@ -20,6 +20,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5855
 ---
 <p>We are revolutionising cell cultivation with our scalable bioprocessing technology to ensure todays producers can meet tomorrow’s demand. </p>
 <p>The company has developed an industry-first continuous process that enables more efficient and affordable cell proliferation. The company&#039;s adherent cell culture technology delivers a significantly higher yield than incumbent batch processes.</p>

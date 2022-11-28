@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10449
 ---
 <p>Mogale Meat Co. uses cutting edge scientific research and innovation to produce cell cultivated meat from free-roaming livestock and wildlife; with the goal of improving the health, socio-economic and environmental impact of consumer meat products, one meal at a time.</p>

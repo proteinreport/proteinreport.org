@@ -21,6 +21,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5601
 ---
 Jewels of the Forest was formed by two brothers, Wyatt and Hunter Bryson. Combining a deep passion for mycology and the culinary arts.
 

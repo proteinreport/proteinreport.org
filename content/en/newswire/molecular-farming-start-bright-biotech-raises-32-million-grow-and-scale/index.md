@@ -3,7 +3,7 @@ title: "Molecular farming start-up Bright Biotech raises $3.2 million to grow an
 date: 2022-11-21 10:21:02
 lastmod: 2022-11-21 10:21:02
 slug: /molecular-farming-start-bright-biotech-raises-32-million-grow-and-scale
-company: "Bright Biotech"
+company: 10455
 description: "Molecular farming start-up Bright Biotech has closed a $3.2 million funding round. The oversubscribed Seed funding round was led by FoodLabs and includes world-class impact investors Big Idea Ventures, CPT Capital, the FoodHack syndicate and business angels."
 excerpt: "Molecular farming start-up Bright Biotech has closed a $3.2 million funding round. The oversubscribed Seed funding round was led by FoodLabs and includes world-class impact investors Big Idea Ventures, CPT Capital, the FoodHack syndicate and business angels."
 proteins: [Cell-Based, Molecular Farming]
@@ -11,13 +11,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
-directory: [Formo, Mushlabs, Meatable, CPT Capital, Big Idea Ventures, Bright Biotech]
+directory: [1303, 5660, 5819, 6280, 6600, 10455]
 images: ["IMG_9989.jpg"]
 additional_images: ["bright-biotech_option-02.jpg", "IMG_9933.jpg", "IMG_9988.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11199
 ---
 <ul>
 <li>Bright Biotech raises $3.2M to solve the major cost driver in the production of cultivated meat</li>

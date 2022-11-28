@@ -3,7 +3,7 @@ title: "China’s President Xi: Alternative Protein Crucial To China’s Food Se
 date: 2022-03-21 10:14:08
 lastmod: 2022-03-21 10:14:08
 slug: /chinas-president-xi-alternative-protein-crucial-chinas-food-security
-company: "Lever VC"
+company: 1332
 description: "Chinese President Xi Jinping highlights alternative protein as important for food security and sustainability in a new speech to government officials"
 excerpt: "Chinese President Xi Jinping highlights alternative protein as important for food security and sustainability in a new speech to government officials"
 proteins: [Cell-Based, Plant-Based, Microbial]
@@ -11,13 +11,13 @@ products: [Meat, Dairy, Eggs, Seafood]
 topics: [Policy]
 regions: [Asia]
 flags: [Press Release]
-directory: [Lever VC]
+directory: [1332]
 images: ["Lever-China-full-logo.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10593
 ---
 <p class="text-align-center">Chinese President Xi Jinping highlights alternative protein as important for food security and sustainability in a new speech to government officials</p>
 

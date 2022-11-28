@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5771
 ---
 Wholesale seitan suppliers LoveSeitan are the UK’s leading manufacturer of seitan products. Supplying wholesalers, distributors, restaurants, cafes <span class="amp">&amp;</span> retail.

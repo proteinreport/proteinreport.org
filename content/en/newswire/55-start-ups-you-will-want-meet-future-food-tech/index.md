@@ -12,13 +12,13 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [Eat Just, Meati Foods, Perfect Day Foods, Eclipse Foods, Incredible Foods, NotCo, V2food, Nature's Fynd, Superbrewed Food, Remilk, Evo Foods, Shiru, Change Foods, MeliBio, Inc., Moolec Science, Sophie's Bionutrients, Opalia, Gelatex, Nobell Foods, Demolish Foods, Maya Milk, Liven Proteins]
+directory: [234, 696, 699, 1176, 5577, 5703, 5800, 5861, 6617, 6832, 6885, 7174, 7627, 7705, 7933, 8332, 8333, 8981, 9366, 9408, 10453, 10454]
 images: ["FFTSF22 - NEWs (2).png"]
 additional_images: ["FFSF22 - Meet the start-ups.png", "Gone in 60 Seconds.png", "Innovation Challenges.png", "Step Up to the Plate.png", "Taste Lab.png", "Taste Labs.png", "TechHub_0.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10476
 ---
 <p>Food-tech start-ups are trailblazing the future of food. As talented innovators leverage new technologies to bring novel foods to consumers on a global scale, there has never been a more exciting time to touch, taste and smell the breakthrough novel foods.</p>
 <p><a href="https://futurefoodtechsf.com/">Future Food-Tech</a> reveals 55 start-ups for your innovation radar, as they take the global summit spotlight in San Francisco on March 24-25.</p>

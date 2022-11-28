@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6213
 ---
 <p>AlgaEnergy is a biotech company consolidating over 4 decades cutting edge know-how in the field of microalgae.</p>

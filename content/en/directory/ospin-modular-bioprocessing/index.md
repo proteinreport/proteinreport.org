@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5849
 ---
 <p>Startup providing bioreactor systems for cultivated meat and tissue engineering uses</p>

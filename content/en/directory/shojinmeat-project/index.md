@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7112
 ---
 <p>Shojinmeat Project is a citizen science project for developing open source clean meat. ​In coordination with other NPO&#039;s, we communicate with the public to establish cellular agriculture as a discipline.</p>

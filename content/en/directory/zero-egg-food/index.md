@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1174
 ---
 Zero Egg is a nutritious plant-based egg that tastes, looks and functions like a real egg. With Zero Egg you can make omelets as well as baked goods, pasta and sauces without using eggs.

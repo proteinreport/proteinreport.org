@@ -10,13 +10,13 @@ products: [Meat]
 topics: [Business, Sci-Tech]
 regions: [NA]
 flags: [Press Release]
-directory: [Wild Earth, The Better Meat Co., BioTech Foods, New Age Meats, BlueNalu, Peace of Meat]
+directory: [700, 1170, 1268, 5828, 5829, 5853]
 images: ["brochure.png"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 6054
 ---
 <p>The <a href="https://industrializingcellbasedmeats.com/?utm_source=external-protein-report&utm_medium=press-release&utm_campaign=14821-icbm-protein-report-press-release">Industrializing Cell-Based Meats Summit</a> returns for the 2nd year to unite the world’s leading minds from industry, academia and regulation to share the latest scientific progress in the field.</p>
 

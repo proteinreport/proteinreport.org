@@ -18,6 +18,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6211
 ---
 <p>PowerPlant Ventures is a growth equity fund investing in emerging consumer food, beverage, and foodservice companies. The company provides capital, strategic guidance and operating expertise to visionary teams leading disruptive plant-centric brands.</p>
 <p>The main mission is to re-architect the global food system by advancing world-changing companies that deliver better nutrition in more sustainable and ethical ways.</p>

@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5853
 ---
 <p>Peace of Meat is a B2B cultured meat production company focusing on a multitude of cultured meat products. The company is forging scientific and commercial partnerships to cover the entire value chain, to speed up research and production processes and to incentivize the industry at large.</p>

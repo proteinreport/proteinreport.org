@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8802
 ---
 <p>Next Meats, based in Tokyo, is developing plant-based meat products as a preventative measure against the food crisis caused by the deterioration of the environment.</p>

@@ -3,7 +3,7 @@ title: "Chinese cellular agriculture startup CellX closes $4.3M seed funding in 
 date: 2021-09-05 12:12:12
 lastmod: 2021-09-05 12:12:12
 slug: /chinese-cellular-agriculture-startup-cellx-closes-43m-seed-funding-early-2021
-company: "CellX"
+company: 8329
 description: "Led by ZhenFund, a close partner of Sequoia Capital China, Chinese cellular agriculture startup CellX just closed its second funding round of $4.3 million. The fundraising came half a year after the Shanghai-based cultivated meat startup’s initial pre-seed round in late 2020. Other investors participating include Sky9 capital, K2VC, Lever VC, Better Bite Ventures, and others."
 excerpt: "Led by ZhenFund, a close partner of Sequoia Capital China, Chinese cellular agriculture startup CellX just closed its second funding round of $4.3 million. The fundraising came half a year after the Shanghai-based cultivated meat startup’s initial pre-seed round in late 2020. Other investors participating include Sky9 capital, K2VC, Lever VC, Better Bite Ventures, and others."
 proteins: [Cell-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
-directory: [Lever VC, CellX]
+directory: [1332, 8329]
 images: ["Picture1.png"]
 additional_images: ["Picture2.png", "Picture3.jpg", "Picture4.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9621
 ---
 <p>Led by ZhenFund, a close partner of <a href="https://en.wikipedia.org/wiki/Sequoia_Capital">Sequoia Capital</a> China, Chinese cellular agriculture startup CellX just closed its second funding round of $4.3 million. The fundraising came half a year after the Shanghai-based cultivated meat startup’s initial pre-seed round in late 2020. Other investors participating include Sky9 capital, K2VC, Lever VC, Better Bite Ventures, and others.</p>
 <p>CellX aspires to bring cultivated meat products to consumers in China and around the world. With over half of global pork supply consumed in China, and as Chinese government commit to cut carbon agressively in the next few decades, cultivated meat is considered a solution for China’s pork crisis and food security issue. It can significantly contribute to low carbon transition of the country in the long term as well as the nascent industry get to scale.</p>

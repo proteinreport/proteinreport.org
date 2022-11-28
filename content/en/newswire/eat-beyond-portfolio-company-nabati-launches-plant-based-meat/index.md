@@ -3,7 +3,7 @@ title: "Eat Beyond Portfolio Company Nabati Launches Plant-Based Meat"
 date: 2020-11-24 15:18:38
 lastmod: 2020-11-24 15:18:38
 slug: /eat-beyond-portfolio-company-nabati-launches-plant-based-meat
-company: "Eat Beyond Global Holdings"
+company: 7964
 description: "Eat Beyond Global Holdings, an investment issuer focused on the global plant-based and alternative food sector, is announcing that its portfolio company, Nabati Foods, launched its plant-based meat line this month on November 3, and the products are expected to be in stores by January of 2021. This plant-based meat line is also planned to launch in the U.S. in Q1 of 2021, in time for category resets in retail stores that take place in March and April."
 excerpt: "Eat Beyond Global Holdings, an investment issuer focused on the global plant-based and alternative food sector, is announcing that its portfolio company, Nabati Foods, launched its plant-based meat line this month on November 3, and the products are expected to be in stores by January of 2021. This plant-based meat line is also planned to launch in the U.S. in Q1 of 2021, in time for category resets in retail stores that take place in March and April."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [US & Canada]
 flags: [New Products, Press Release]
-directory: [Eat Beyond Global Holdings]
+directory: [7964]
 images: ["Chick-n-Burger.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8019
 ---
 <p><em>Demand for Nabati products is growing rapidly, with sales seeing over 33% organic growth in the past year </em></p>
 <p><strong>Vancouver, B.C. and Edmonton, AB – November 24, 2020</strong> – <a href="https://eatbeyondglobal.us4.list-manage.com/track/click?u=aff0d7f6057fb795ab920e85f&id=a8f5b12c5b&e=10d12d1b83">Eat Beyond Global Holdings</a> (<a href="https://eatbeyondglobal.us4.list-manage.com/track/click?u=aff0d7f6057fb795ab920e85f&id=5b7bfb8eb3&e=10d12d1b83">CSE: EATS</a>) (“Eat Beyond” or the “Company”), an investment issuer focused on the global plant-based and alternative food sector, is announcing that its portfolio company, Nabati Foods Inc. (“Nabati”), launched its plant-based meat line this month on November 3, and the products are expected to be in stores by January of 2021.</p>

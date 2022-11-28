@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 697
 ---
 <p>Established in 2004, New Harvest is the non-profit research institute building the field of cellular agriculture. We strategically fund and conduct open, public, collaborative research that reinvents the way we make animal products - without animals. Our mission is to build and establish the field of cellular agriculture. Our vision is a strong foundation of accessible, public, fundamental cellular agriculture research, upon which a post-animal bioeconomy may be built, where animal products are harvested from cell cultures, not animals, to feed a growing global population sustainably and affordably.</p>

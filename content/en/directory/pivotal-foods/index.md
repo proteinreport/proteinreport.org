@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5635
 ---
 <p>Pivotal Foods produces plant-based mayo, butter, and jackfruit-based meat alternatives.</p>

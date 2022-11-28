@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5597
 ---
 Good Seed re-invents the veggie burger with it’s bold flavor blends and premium ingredients, liberating veggie eaters from the highly processed burgers of the past.

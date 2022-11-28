@@ -18,7 +18,7 @@ additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8250
 ---
 <h2>Formulated with functional, organic ingredients, Remedy Organics Immunity+ Shots debut with four immune-boosting SKUs</h2>
 <p>(January 12, 2021) – Today, <a href="https://www.remedyorganics.com/">Remedy Organics</a>, a leading producer of plant-based functional wellness shakes, announced the expansion into the wellness shot category with the launch of their new line of Immunity+ Shots. Made with certified organic plant-based ingredients, the Immunity+ Shots have debuted in four immune-boosting SKUs available on <a href="http://remedyorganics.com/">remedyorganics.com</a> and on <a href="http://amazon.com/">Amazon.com</a>.</p>

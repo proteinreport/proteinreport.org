@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5711
 ---
 Tofutti Brands, Inc. is a dairy-free, soy-based food brand with a range of products, including premium dairy-free cheeses, frozen desserts and entrees.

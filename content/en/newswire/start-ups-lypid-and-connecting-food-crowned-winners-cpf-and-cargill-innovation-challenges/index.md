@@ -12,13 +12,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [Asia, International]
 flags: [Press Release]
-directory: [NovaMeat]
+directory: [1328]
 images: ["FEYRiIoWYAQI0CK.jpg"]
 additional_images: ["FEYMfYFWUAEA6K_.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 10038
 ---
 <p><strong>The CPF Innovation Challenge: Enhancing Texture, Juiciness and Aroma to Create Healthy Plant-Based Meat Alternatives</strong></p>
 <p><strong>Winner: Lypid (USA);</strong> Finalists: Novameat (Spain) and Audra Labs (Singapore)</p>

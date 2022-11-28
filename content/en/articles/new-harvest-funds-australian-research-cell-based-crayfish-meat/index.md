@@ -10,13 +10,14 @@ products: [Seafood]
 topics: [Sci-Tech]
 regions: [Oceania]
 flags: [Featured, Investments]
-directory: [New Harvest, Cellular Agriculture Australia]
+directory: [697, 7131]
 contributors: [Bianca Le]
 images: [Lisa NH Grant  Pic 2.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 7891
 ---
 <p>An aquaculture researcher from the University of the Sunshine Coast (USC) has secured a seed grant from US-based research institute New Harvest to develop cell-based crayfish meat.</p>
 <p>The grant recipient, Lisa Musgrove, will be using the funds to investigate crayfish growth factors and cell culture during her Honours degree in 2021, under the supervision of USC GeneCology Research Centre scientist, Dr. Tomer Ventura. Musgrove will be the first Australian to receive a grant from New Harvest, one of the only sources for funding academic research in cellular agriculture.</p>

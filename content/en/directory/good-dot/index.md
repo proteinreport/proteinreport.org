@@ -20,6 +20,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5580
 ---
 Good Dot was born when a group of friends decided to come together for a common cause.
 They wanted to make the world a more humane place for animals.

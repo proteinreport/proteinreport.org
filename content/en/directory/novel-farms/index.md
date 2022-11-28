@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7502
 ---
 <p>Novel Farms is dedicated to craft whole cuts of cultivated meat delicacies and bring culinary excellence and sustainability into the future of food. By cultivating meat from conventional as well as highly prized animal breeds, they seek to captivate the palates of all meat lovers while satisfying environmentally-conscious eaters.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8457
 ---
 <p>We are a technology company whose mission is to revolutionize food through disruptive and differentiating solutions for the industry, attractive and healthy for the consumer and sustainable for the environment. We develop industrial solutions for the production of mimetic food analogues (mimetic food) of plant or cellular based animal protein through 2d/3d laser printing, bioprinting and robotics.</p>

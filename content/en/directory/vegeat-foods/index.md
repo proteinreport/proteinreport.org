@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5781
 ---
 Vegeat Foods is a leader in great tasting plant-based meals packed with protein.

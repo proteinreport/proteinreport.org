@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5569
 ---
 <p>Bellevue-based Green Grass Foods is the producer of Nutpods Nondairy Creamer. Nutpods remains the nunber 1 Dairy-Free creamer on Amazon, with over 5,000 reviews, and has expanded into more than 13,000 retail stores across the US.</p>

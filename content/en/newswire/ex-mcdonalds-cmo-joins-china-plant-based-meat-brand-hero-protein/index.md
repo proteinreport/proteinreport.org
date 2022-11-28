@@ -3,7 +3,7 @@ title: "Ex-McDonald’s CMO Joins China Plant-Based Meat Brand HERO Protein"
 date: 2021-05-18 07:19:50
 lastmod: 2021-05-18 07:19:50
 slug: /ex-mcdonalds-cmo-joins-china-plant-based-meat-brand-hero-protein
-company: "Herotein"
+company: 8412
 description: "Plant-based meat company HERO Protein announced today that Vicky Lee, former CMO of McDonald’s Taiwan and former Group Vice President at major restaurant brand Xiabu Xiabu, has joined as CEO to help accelerate the company’s growth."
 excerpt: "Plant-based meat company HERO Protein announced today that Vicky Lee, former CMO of McDonald’s Taiwan and former Group Vice President at major restaurant brand Xiabu Xiabu, has joined as CEO to help accelerate the company’s growth."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat]
 topics: [Business]
 regions: [Asia]
 flags: [Press Release]
-directory: [Beyond Meat, Impossible Foods, Herotein]
+directory: [694, 695, 8412]
 images: ["HEROPROTEIN_04_Burger_with-logo.jpg"]
 additional_images: ["HEROPROTEIN_02_Vicky-Lee_cropped.jpg", "HEROPROTEIN_03_Sichuan-chicken_with-logo.jpg", "HEROPROTEIN_01_Spaghetti-Bolognese_with-logo.jpg"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8980
 ---
 <p><em>Shanghai-based HERO Protein adds new CEO Vicky Lee, former senior executive at McDonald’s and other leading restaurant brands</em></p>
 <p><strong>Shanghai</strong> — Plant-based meat company HERO Protein announced today that Vicky Lee, former CMO of McDonald’s Taiwan and former Group Vice President at major restaurant brand Xiabu Xiabu, has joined as CEO to help accelerate the company’s growth. HERO Protein’s plant-based chicken and beef products, which are created with cutting edge high moisture extrusion technology to mimic real meat texture, launched on the market in January and have already landed at a range of top restaurants and corporate and school dining facilities in Shanghai.</p>

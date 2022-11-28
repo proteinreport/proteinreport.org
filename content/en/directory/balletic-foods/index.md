@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5825
 ---
 <p>California based company working towards a sustainable food system by combining science and technology to create new sources of animal-free protein.</p>

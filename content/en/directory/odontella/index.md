@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5538
 ---
 <p>The company has filed patents relating to the use of marine microalgae authorized for human consumption. These patents concern the formulation, based on marine microalgae, of a wide range of new healthy food products.</p>

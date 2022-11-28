@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10572
 ---
 <p>The Swiss Protein Association (SPA) was founded at the end of 2021 by leading food manufacturers and start-ups in Switzerland. We want to raise awareness of consumers, industry leaders and politicians for the benefits of alternative protein products and advocate for the best framework conditions for our members.</p>

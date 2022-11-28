@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 8175
 ---
 <p>Cellular Agriculture Cambridge University exists with the express aim of developing talent and fostering interest for this field within Cambridge University. As one of the world&#039;s first Cellular Agriculture University Societies we wish to pioneer and promote the field in higher education globally.</p>

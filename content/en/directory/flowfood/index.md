@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5541
 ---
 <p>Flowfood’s healthy green meat alternatives are made using norwegian seaweed and vegetables, locally sourced and produced with passion and the highest quality. The products are rich in minerals, fibre, protein and antioxidants. Flowfood products are sustainable, tasty and come in natural and exotic flavours.</p>

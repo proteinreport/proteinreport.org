@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9429
 ---
 <p>Animal Alternative Technologies is engineering a scalable, end-to-end ecosystem for cell-based meat production, including specialist processes, enabling technologies, software, hardware and raw materials to democratize access to sustainable food and tackle some of the world&#039;s biggest sustainability and food security challenges.</p>

@@ -10,13 +10,14 @@ products: [Meat]
 topics: [Business]
 regions: [International]
 flags: [Featured]
-directory: [Eat Just, Finless Foods, New Harvest, Good Food Institute, Stray Dog Capital, TurtleTree Labs, Future Fields, Aleph Farms, SuperMeat, Mosa Meat, Shiok Meats, New Age Meats, Upside Foods, Sustainable Food Ventures]
+directory: [234, 237, 697, 698, 703, 1249, 5808, 5816, 5817, 5820, 5821, 5828, 5831, 8229]
 contributors: [Doug Grant]
 images: [shutterstock_1224302971_0.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 8217
 ---
 <h2>What I’ve learned through my first eleven <em>Brave New Meat</em> podcast interviews with founders and investors in the cultivated meat industry</h2>
 
@@ -60,7 +61,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Ben.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1668,&quot;height&quot;:1113,&quot;rel&quot;:&quot;blazy-filter-fvyjz2qprh8-34-export-data-export-1&quot;}">      <div style="padding-bottom: 66.75%;" data-ratio="66.75" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/Ben.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1668,&quot;height&quot;:1113,&quot;rel&quot;:&quot;blazy-filter-luxl2vmubey-34-export-data-export-1&quot;}">      <div style="padding-bottom: 66.75%;" data-ratio="66.75" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Israeli PM Benjamin Netanyahu tasting cultivated meat" title="Ben.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="7dd871ee-90db-4d2e-a258-867a6a4864df" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/Ben.jpg?itok=yJwfg9_N" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20801'%2F%3E" width="1200" height="801" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5607
 ---
 <p>Plant-based jerky made of only the finest sourced, sustainable, organic, and non-gmo ingredients.</p>

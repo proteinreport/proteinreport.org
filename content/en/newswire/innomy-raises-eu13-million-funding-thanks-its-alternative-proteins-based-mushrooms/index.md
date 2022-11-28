@@ -3,7 +3,7 @@ title: "Innomy raises €1.3 million in funding, thanks to its alternative prote
 date: 2022-09-22 09:41:03
 lastmod: 2022-09-22 09:41:03
 slug: /innomy-raises-eu13-million-funding-thanks-its-alternative-proteins-based-mushrooms
-company: "Innomy"
+company: 9233
 description: "Spanish startup Innomy has raised 1,3 million euros in its Pre Series A funding round led by international investors as Corporación Cervino, Rockstart, Zubi Capital, Eatable Adventures and the National Center for Technology and Food Safety."
 excerpt: "Spanish startup Innomy has raised 1,3 million euros in its Pre Series A funding round led by international investors as Corporación Cervino, Rockstart, Zubi Capital, Eatable Adventures and the National Center for Technology and Food Safety."
 proteins: [Fungi]
@@ -11,13 +11,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [Europe, Latin America & Caribbean]
 flags: [Press Release, Investments]
-directory: [Cocuus System Iberica, Innomy, Eatable Adventures]
+directory: [8457, 9233, 10963]
 images: ["Founders_ Pablo Ignacio Sánchez Rey, COO_ Juan Pablo De Giacomi, CEO_ Francisco Kuhar, CSO.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 11155
 ---
 <p>The Spanish startup <a href="http://innomylabs.com/">Innomy</a> has raised 1,3 million euros in its Pre Series A funding round. The round was led by international investors including Corporación Cervino, Rockstart, Zubi Capital, Eatable Adventures and the National Center for Technology and Food Safety (CNTA), who have taken equity stakes in the company to scale the startup’s disruptive technology and promote a much more sustainable and healthier protein consumption alternative in other markets.</p>
 <p>The leading Argentinian team, composed by CEO and co-founder Juan Pablo de Giacomi, biotechnologist COO and co-founder Pablo Sánchez Rey, and mycologist CSO and Technology Partner Francisco Kuhar, has dedicated years of research to the properties of mushroom-based proteins and their benefits for the health of people and the planet.</p>

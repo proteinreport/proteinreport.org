@@ -17,6 +17,7 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5840
 ---
 <p>Incuvers is a hardware + software company developing live cell imaging incubators for cellular&nbsp;researchers.</p>
 <p>Company&#8217;s flagship product, <span class="caps">IRIS</span> (Incuvers Real-time Imaging System) is the most advanced and affordable system for cell culture incubation. Combining hypoxic incubation, live cell imaging, and cloud computing, <span class="caps">IRIS</span> lets researchers capture time lapse videos of their entire experiments and monitor them live from anywhere, without ever taking them out of the&nbsp;incubator.</p>

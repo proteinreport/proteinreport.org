@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1295
 ---
 <p>Sol Cuisine has been the expert in gourmet, plant-based nutrition since 1996. Its artisanal food truly nourishes the mind, body and “sol,” with products made from high-quality, non-GMO ingredients. Sol Cuisine offers burgers and entrée solutions for those seeking delicious and nutritious plant-forward options. Sol Cuisine products can be found in major grocery stores, mass retailers and health food stores across Canada.</p>

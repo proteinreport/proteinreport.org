@@ -3,7 +3,7 @@ title: "Eat Beyond Adds Above Food to its Portfolio"
 date: 2021-01-21 14:26:09
 lastmod: 2021-01-21 14:26:09
 slug: /eat-beyond-adds-above-food-its-portfolio
-company: "Eat Beyond Global Holdings"
+company: 7964
 description: "Eat Beyond Global Holdings is announcing that it has completed an investment in Above Food. Above Food develops and distributes premium, whole plant alternatives to meat and dairy by creating delicious, nutrient-dense consumer products and branded ingredients. It uses a proprietary blend of plant proteins created from heirloom pulses and gluten free grains."
 excerpt: "Eat Beyond Global Holdings is announcing that it has completed an investment in Above Food. Above Food develops and distributes premium, whole plant alternatives to meat and dairy by creating delicious, nutrient-dense consumer products and branded ingredients. It uses a proprietary blend of plant proteins created from heirloom pulses and gluten free grains."
 proteins: [Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat, Dairy]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
-directory: [Eat Beyond Global Holdings]
+directory: [7964]
 images: ["eb.jpg"]
 additional_images: [NA]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8326
 ---
 <p><em>Above Food’s fast-growing, seed-to-fork plant-based platform serves over 35 countries and over 300 business customers</em></p>
 <p><strong>Vancouver, B.C. & Regina, SK   – January 21, 2021</strong> – <a href="https://eatbeyondglobal.com/">Eat Beyond Global Holdings</a> (<a href="https://thecse.com/en/listings/diversified-industries/eat-beyond-global-holdings-inc">CSE: EATS</a>) (<a href="https://www.otcmarkets.com/stock/EATBF/overview">OTCPK: EATBF</a>) (<a href="https://www.boerse-frankfurt.de/equity/eat-beyond-global-hldgs">FSE: 988</a>)  (“Eat Beyond” or the “Company”), an investment issuer focused on the global plant-based and alternative food sector, is announcing that it has completed an investment in <strong>Above Food Inc. (“Above Food”)</strong>.</p>

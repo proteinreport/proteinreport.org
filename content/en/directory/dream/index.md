@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5549
 ---
 DREAM has redefined what is possible for the dairy-free with a large variety of plant based offerings, including plant based beverages, frozen desserts, yogurts <span class="amp">&amp;</span> chocolate, all enrolled in the Non-GMO Project. They’re nutritious and loaded with flavor.

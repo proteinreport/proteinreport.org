@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7119
 ---
 <p>We&#039;re building Africa&#039;s first cultivated meat company.</p>

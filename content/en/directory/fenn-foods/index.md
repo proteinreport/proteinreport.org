@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7499
 ---
 <p>Fenn Foods is a producer of premium plant-based foods based on the Sunshine Coast, Queensland.</p>

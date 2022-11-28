@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 10548
 ---
 <p>Onego Bio biotech company producing animal-free egg white with precision fermentation.</p>

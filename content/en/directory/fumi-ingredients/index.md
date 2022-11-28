@@ -16,5 +16,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5893
 ---
 <p>Fumi Ingredients is bringing groundbreaking, scalable and ready to use technology to the market to remove the egg from the food-system. The company has been developing egg-replacers based on natural micro-organisms since 2015 and have started scaling up technology since mid 2019 to provide ingredients for clients.</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 1166
 ---
 <p>Our Mission is to create affordable, sustainable, healthy, shelf-stable sources of protein for all people <span class="amp">&amp;</span> available everywhere. We provide plant-based proteins with bold, inspiring flavors and beloved traditional recipes to help people live healthier longer lives.</p>

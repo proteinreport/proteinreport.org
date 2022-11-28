@@ -3,7 +3,7 @@ title: "Mission Barns Raises $24M Series A to Scale Up its Cultivated Fat Techno
 date: 2021-04-07 17:16:56
 lastmod: 2021-04-07 17:16:56
 slug: /mission-barns-raises-24m-series-scale-its-cultivated-fat-technology-and-build-pilot
-company: "Mission Barns"
+company: 5827
 description: "Silicon Valley-based cellular agriculture company Mission Barns today announced a $24M Series A to scale up its cultivated fat technology and build a pilot manufacturing plant in the Bay Area."
 excerpt: "Silicon Valley-based cellular agriculture company Mission Barns today announced a $24M Series A to scale up its cultivated fat technology and build a pilot manufacturing plant in the Bay Area."
 proteins: [Cell-Based, Plant-Based]
@@ -11,13 +11,13 @@ products: [Meat, Ingredients]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
-directory: [Eat Just, Beyond Meat, Impossible Foods, Perfect Day Foods, Lever VC, Oatly, NotCo, Mission Barns, Upside Foods, Joyance Partners, Green Monday Ventures]
+directory: [234, 694, 695, 699, 1332, 5663, 5703, 5827, 5831, 7552, 8328]
 images: ["fat_fp_img.jpg"]
 additional_images: ["Logobig_1.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 8741
 ---
 <p><strong>SAN FRANCISCO, C.A., April 7, 2021</strong> - Silicon Valley-based cellular agriculture company Mission Barns today announced a $24M Series A to scale up its cultivated fat technology and build a pilot manufacturing plant in the Bay Area.</p>
 <p>Mission Barns is focused on cultivating animal fat—without the animal. Its technology platform enables starting from a handful of pork, poultry, or beef cells and feeding them a plant-based feedstock inside a cultivator. Over a short period of time, the novel process creates real, pure animal fat that delivers the mouthfeel and flavor of meat without raising and slaughtering live animals, and uses a fraction of the carbon emissions, water, and land required by conventional animal agriculture.</p>

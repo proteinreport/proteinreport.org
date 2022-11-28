@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5817
 ---
 <p>SuperMeat is a scientific and ideological driven effort to supply the world animal-friendly and sustainable means to produce meat. SuperMeat joined forces with leading players from the biotech and conventional meat industries, working together to form the next agricultural revolution of meat&nbsp;production.</p>

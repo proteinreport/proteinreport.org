@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6187
 ---
 <p>From alt. to default. Changing how the world thinks about food. Protein economy news and industry platform.</p>

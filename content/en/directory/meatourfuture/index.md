@@ -18,5 +18,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9409
 ---
 <p>MeatOurFuture&#039;s mission is to establish the framework for a regional network of public-private innovation centers advancing the inter-disciplinary field of cell cultured meat engineering and biomanufacture at scale. This network of local and international facilities is committed to feeding the next billion people with healthy and nutritious cell-culture meat products, to the benefit of animals, people, and the environment.</p>

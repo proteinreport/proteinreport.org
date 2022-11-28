@@ -12,13 +12,13 @@ products: [Meat, Dairy, Ingredients]
 topics: [Business]
 regions: [International]
 flags: [Press Release]
-directory: [Quorn, NotCo, Fumi Ingredients, Noblegen, Youkuai Group (Z-Rou), Umiami]
+directory: [1143, 5703, 5893, 5948, 6861, 9258]
 images: ["Innovation Challenge Winner -_0.png"]
 additional_images: ["Innovation Challenge Winner.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9196
 ---
 <p><strong>Quorn Foods Challenge</strong>: Technologies Helping to Achieve a Whole Muscle Food Experience</p>
 <p><strong>Roquette Challenge: </strong>Plant-Based Products Offering New Gastronomic Experiences to the Consumer</p>

@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 7964
 ---
 <p>Eat Beyond Global Holdings is an investment issuer that identifies and makes equity investments in global companies that are developing and commercializing innovative food tech as well as plant-based and alternative food products. Led by a team of food industry experts, Eat Beyond plans to list on the Canadian Securities Exchange in 2020 and is the first issuer of its kind in Canada, that will provide retail investors with the unique opportunity to participate in the growth of a broad cross-section in the alternative food sector, and access the companies that are leading the charge toward a smarter, more secure food supply.</p>

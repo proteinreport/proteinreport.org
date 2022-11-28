@@ -16,7 +16,8 @@ images: [cow genes.jpg]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 8779
 ---
 <p><strong>This article is about my recent project for the Ottawa Regional Science Fair. A more detailed look at the research methodology and findings can be found <a href="https://projectboard.world/ysc/project/lab-to-table-a-differential-gene-expression-analysis-of-rna-sequenced-bovine-stem-cells-myocytes-rzznm" target="_blank">here</a>.</strong></p>
 
@@ -32,7 +33,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/how.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:2048,&quot;height&quot;:1448,&quot;rel&quot;:&quot;blazy-filter-3xgj4r0j0hm-20-export-data-export-1&quot;}">      <div style="padding-bottom: 70.67%;" data-ratio="70.67" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/how.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:2048,&quot;height&quot;:1448,&quot;rel&quot;:&quot;blazy-filter-20t0n-odmkw-20-export-data-export-1&quot;}">      <div style="padding-bottom: 70.67%;" data-ratio="70.67" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="The principal steps in producing cultivated meat" title="how.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="82967c6f-2163-4e3b-89cd-084f58c13edc" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/how.jpg?itok=B1KmWE3N" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20848'%2F%3E" width="1200" height="848" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
@@ -58,7 +59,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/gene%20expression_0.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:2048,&quot;height&quot;:1345,&quot;rel&quot;:&quot;blazy-filter-3xgj4r0j0hm-20-export-data-export-1&quot;}">      <div style="padding-bottom: 65.67%;" data-ratio="65.67" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/gene%20expression_0.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:2048,&quot;height&quot;:1345,&quot;rel&quot;:&quot;blazy-filter-20t0n-odmkw-20-export-data-export-1&quot;}">      <div style="padding-bottom: 65.67%;" data-ratio="65.67" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="The central dogma of molecular biology governs gene expression" title="gene expression_0.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="2ca3a7df-0bdd-4545-a274-4eb58e89ca2a" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/gene%20expression_0.jpg?itok=15y2-lbO" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20788'%2F%3E" width="1200" height="788" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
@@ -86,7 +87,7 @@ weight: 50
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/pipeline.png" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:2019,&quot;height&quot;:718,&quot;rel&quot;:&quot;blazy-filter-3xgj4r0j0hm-20-export-data-export-1&quot;}">      <div style="padding-bottom: 35.58%;" data-ratio="35.58" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/pipeline.png" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:2019,&quot;height&quot;:718,&quot;rel&quot;:&quot;blazy-filter-20t0n-odmkw-20-export-data-export-1&quot;}">      <div style="padding-bottom: 35.58%;" data-ratio="35.58" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="The pipeline used to conduct differential gene expression analysis" title="pipeline.png" class="media__image media__element b-lazy img-fluid" data-entity-uuid="5b48e769-7882-4b9a-9e06-50e0b996deb2" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/pipeline.png?itok=FylxDSO_" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20427'%2F%3E" width="1200" height="427" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

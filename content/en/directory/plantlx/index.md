@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5661
 ---
 <p>PlantLX is a biotech startup using high-throughput methods to leverage crop biodiversity for functional protein sourcing. Towards this end, PlantLX catalogs the most abundant proteins in relevant crops, develops predictive algorithms to identify functional proteins, and makes these proteins accessible to the food industry.</p>

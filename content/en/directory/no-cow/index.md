@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5690
 ---
 <p>No Cow, is a foodtech company revolutionizing the nutrition industry using alternative, plant-based proteins. No Cow delivers better taste, AND better nutrition, using plants (not cows) as our foundation, and science and technology as our guides. We are developing the first plant-based, sustainable protein alternatives that are truly superior in every “whey.”</p>

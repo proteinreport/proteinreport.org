@@ -10,13 +10,14 @@ products: [Meat, Dairy, Eggs]
 topics: [Business]
 regions: [US &amp; Canada]
 flags: [Interview, Video, Featured]
-directory: [Eat Just, Beyond Meat, Impossible Foods, Aleph Farms, Eat Beyond Global Holdings]
+directory: [234, 694, 695, 5816, 7964]
 contributors: [Doug Grant]
 images: []
 draft: false
 pinned: false
 homepage: false
-weight: 50
+weight: 5000
+uuid: 9593
 ---
 <p>In this interview, <em><a href="https://bravenewmeat.buzzsprout.com/">Brave New Meat</a></em> podcast host Doug Grant talks with Michael Aucoin, CEO of alternative protein investment firm Eat Beyond Global Holdings. As a publicly traded stock on the Canadian Securities Exchange, Eat Beyond (CSE: EATS) is currently one of the only options available offering retail investors early exposure to emerging alt protein startups and technologies.</p>
 <p>For more on this topic, check out Doug's other <a href="https://www.proteinreport.org/author/doug-grant">interviews and investment analyses</a>.</p>

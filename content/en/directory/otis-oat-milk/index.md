@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 6209
 ---
 <p>Otis Oat Milk is New Zealand’s first homegrown oat milk, made with nutritious southern grown oats and made right here in the South Island of New Zealand. Otis was born to disrupt a dairy-first generation of Kiwis, to see a tasty alternative in plants that is both homegrown and sustainable.</p>

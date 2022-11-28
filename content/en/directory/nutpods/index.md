@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 5664
 ---
 <p>Nutpods is an independent, natural foods manufacturer based in Seattle, Washington, dedicated to introducing dairy-free creamers from plant-based ingredients.</p>

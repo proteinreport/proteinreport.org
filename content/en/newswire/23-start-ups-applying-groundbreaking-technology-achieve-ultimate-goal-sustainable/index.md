@@ -18,7 +18,7 @@ additional_images: ["FFTLON21 - Meet The Start-Ups.png"]
 draft: false
 pinned: false
 homepage: false
-weight: 50
+uuid: 9659
 ---
 <p>Growing consumer awareness of the source of their diet, its nutritional content and environmental impact, is driving food-tech innovators to create new solutions that optimise nutrition and can be produced sustainably at scale.</p>
 <p>The Future Food-Tech summit on September 30 – October 1 will present 23 pioneering innovators from across the globe, showcasing fresh solutions across health and nutrition. These include: <strong>precision and microbial fermentation, food as medicine, functional ingredients, plant-based alternatives, personalised nutrition, AI and data science, supply chain transparency, biotechnology, sugar reduction </strong>and <strong>the microbiome</strong></p>

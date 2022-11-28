@@ -17,5 +17,6 @@ draft: false
 pinned: false
 homepage: false
 weight: 5000
+uuid: 9407
 ---
 <p>Another Fish aims to democratize access to delicious, nutritious, and radically more sustainable whitefish fillet without any animal compromise. Their product will substitute conventional fish in traditional seafood recipes, bringing the same sensory and cultural experience that fish lovers expect. They also expect to take a step forward towards alleviating some of the devastating ecological and environmental impacts of current fish production practices, as well as human health impacts by making it possible for consumers located far from the sea to incorporate more nutritious foods into their diet.</p>
