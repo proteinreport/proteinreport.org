@@ -18,6 +18,7 @@ city: London
 website: "http://www.plantbasedworldeurope.com/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 441
 ---
 <p>Plant Based World Conference &amp; Expo is the only professional 100% plant-based focused event for foodservice, retail, and healthcare professionals, distributors, investors, manufacturers, and the savvy consumer community.</p>

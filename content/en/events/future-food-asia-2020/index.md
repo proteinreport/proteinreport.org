@@ -16,6 +16,7 @@ end_date: 2020-09-25
 website: "https://futurefoodasia.com/ffa2020/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 1399
 ---
 <p>The Future Food Asia 2020 (FFA 2020) conference will help discover out just how ‘cool’ food is, separating the fad from the future. FFA2020 will continue the endeavor of advancing entrepreneurship and innovation in the AgriFoodTech sector in Asia Pacific. A unique feature this year will be the Plant Protein Innovation Award provided by Bühler Group and Givaudan. The two champions of the FoodTech revolution will also co-host a Plant Protein Masterclass to provide critical insight to entrepreneurs in the domain on the secrets of scaling plant-based food formulations and manufacturing.</p>

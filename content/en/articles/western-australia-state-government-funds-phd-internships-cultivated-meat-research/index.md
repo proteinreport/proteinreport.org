@@ -11,7 +11,7 @@ topics: [Sci-Tech]
 regions: [Oceania]
 flags: [Featured]
 directory: [7131, 7168]
-contributors: [Bianca Le]
+contributors: [8105]
 images: [cass interns.jpg]
 draft: false
 pinned: false

@@ -11,7 +11,7 @@ topics: [Business]
 regions: [Europe]
 flags: [Featured, Investments]
 directory: [5855, 6280]
-contributors: [Avery Parkinson]
+contributors: [8107]
 images: [Peptide-Technology_Slides-01-2048x1448_2.jpg]
 draft: false
 pinned: false

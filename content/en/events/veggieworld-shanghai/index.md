@@ -18,6 +18,7 @@ city: Shanghai
 website: "http://e.veggieworld.cn/"
 contributors: [kenzheng]
 draft: false
-weight: 
+weight: 5000
+uuid: 8800
 ---
 <p>VeggieWorld Shanghai is regarded as the only dedicated trade fair for plant-based and sustainable business in China. The goal is to build up a professional exchange and trade platform for global plant-based and sustainable industries, and present the world's latest products, technologies and life concepts to everyone.</p>

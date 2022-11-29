@@ -17,7 +17,8 @@ end_date: 2021-08-12
 website: "https://ter.li/6y2r19"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8794
 ---
 <p>With cultivated meats quickly moving from the realm of science fiction to a commercially viable reality, it is now more important than ever to come together as a community.</p>
 <p>The<strong> 3rd Industrializing Cell-Based Meats &amp; Seafood Digital Summit</strong> will bring together key decision-makers from biotech and food tech, leading food &amp; meat companies, and investors to explore key challenges and opportunities in the successful commercialization of cell-based meat and seafood for human consumption.</p>

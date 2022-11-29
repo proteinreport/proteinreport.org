@@ -16,7 +16,8 @@ end_date: 2020-06-26
 website: "https://bridge2food.com/webinars/virtual-plant-based-foods-proteins-summit-exhibition/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 6815
 ---
 <p>Join the only <strong>Virtual 15th Plant-Based Foods &amp; Proteins Summit &amp; Exhibition</strong> dedicated to connecting plant-based brands with the value chain including retailers, foodservice professionals, food manufacturers, ingredient suppliers, and other service providers such as packaging, market, and brand agencies! The buzz around plant-based foods and products is undeniable and there are a growing number of innovative new brands in the marketplace. Give your company a competitive edge and sign up to exhibit at the <strong>Virtual 15th Plant-Based Foods &amp; Proteins Summit &amp; Exhibition</strong> today.</p>
 <p>The Uniqueness of this <strong>Virtual 15th Plant-Based Foods &amp; Proteins Summit &amp; Exhibition</strong> is the easy, convenient, value for money solution to secure virtual networking meetings with a live chat with your (potential) supplier and customers. Book private meetings, video chat, do business and enjoy for the first time in a relaxed digital experience an online format.</p>

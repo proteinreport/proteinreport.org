@@ -19,7 +19,8 @@ city: New York
 website: "https://2022.new-harvest.org/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10429
 ---
 <p>New Harvest 2022 is a live, in-person event about the emerging field of cellular agriculture—the growing of animal products like meat, milk, and eggs from cells instead of animals.</p>
 <p>For two days, researchers, companies, students, policymakers, investors, artists, activists, journalists, skeptics, early adopters, and more will convene in Brooklyn, New York to discuss the future of cultured meat and other cell-cultured foods.</p>

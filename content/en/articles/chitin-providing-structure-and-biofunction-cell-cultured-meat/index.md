@@ -11,7 +11,7 @@ topics: [Sci-Tech]
 regions: [International]
 flags: [Featured]
 directory: []
-contributors: [Catherine Lammert]
+contributors: [10872]
 images: [chitin-image_0.png]
 draft: false
 pinned: false

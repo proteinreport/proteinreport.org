@@ -19,7 +19,8 @@ city: San Francisco
 website: "https://fermentation-enabled-proteins.com/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 9868
 ---
 <p>The 2nd Fermentation-Enabled Alternative Protein Innovation Summit will be taking place January 18-20 in San Francisco. It will host decision-makers from biotech, food tech, multinationals, independent food brands and more for those looking to up-scale and commercialize fermentation-enabled alternative proteins.</p>
 <p>This is the only industry-led forum dedicated to scaling-up production platforms to commercialize clean-label, animal-free and regulatory approved alternative meat, diary, eggs and functional protein ingredients.</p>

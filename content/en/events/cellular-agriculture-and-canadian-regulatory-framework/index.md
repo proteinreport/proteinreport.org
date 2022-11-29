@@ -16,7 +16,8 @@ end_date: 2021-03-04
 website: "https://www.crowdcast.io/e/cellular-agriculture-and-canadian-regulatory-framework/register"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8455
 ---
 <p dir="ltr"><a href="http://www.cellag.ca/">Cellular Agriculture Canada</a> is excited to announce our next event: Cellular Agriculture and the Canadian Regulatory Framework. Join us on March 4th and explore how a regulatory framework could look like for cultured meat in Canada with regulators from the Canadian government.</p>
 <p dir="ltr">As cellular agriculture companies continue to move forward and closer to market, it is crucial that a regulatory pathway is developed together with regulators. After CAC published <a href="https://www.cellag.ca/regulatory-white-paper">our white paper</a> exploring a regulatory framework for cultured meat in Canada with regular feedback from Canadian regulators, join us for the <em>first</em> event bringing together Canadian regulators to discuss the regulatory framework around how cultured meat may be regulated in the country.</p>

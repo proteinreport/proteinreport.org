@@ -17,7 +17,8 @@ end_date: 2020-05-12
 website: "https://register.gotowebinar.com/register/7306936870080661515"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 6747
 ---
 <p>IntraFish Media will host its second Digital Event on May 12, exploring the fast-emerging trend of "alternative seafood," and what it means for the seafood industry, investors, buyers and suppliers.</p>
 <p>Alternative seafood -- items made of plants or fish tissue grown in labs -- is gaining traction among consumers, and the trend is reflective of significant changes in consumer eating patterns.</p>

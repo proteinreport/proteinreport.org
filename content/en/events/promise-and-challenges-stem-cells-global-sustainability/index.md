@@ -17,7 +17,8 @@ end_date: 2021-02-23
 website: "https://www.isscr.org/meetings-events/isscr-digital/stem-cells-and-global-sustainability"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8268
 ---
 <p>The fourth and final program of the series will highlight the potential and the challenges of cell-based approaches to meat and fish alternatives from experts in the field and industry.</p>
 <p><strong>Speakers:</strong></p>

@@ -17,7 +17,8 @@ end_date: 2020-06-18
 website: "https://go.gfi.org/foodservice-webinar-june-2020"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7083
 ---
 <p><strong>Thursday, June 18th at 12pm ET / 9am PT</strong></p>
 <p>NPD SupplyTrack data released by The Good Food Institute shows U.S. wholesale foodservice sales of plant-based meat grew 37% last year, with especially strong market share gains in the quick-service restaurant channel. This webinar will explore sales data across commercial and non-commercial foodservice segments, including: </p>

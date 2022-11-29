@@ -16,6 +16,7 @@ end_date: 2021-09-24
 website: "https://gfi.org/good-food-conference/"
 contributors: [Avery Parkinson]
 draft: false
-weight: 
+weight: 5000
+uuid: 9219
 ---
 <p>This September, GFI will bring together scientists, entrepreneurs, investors, policymakers, and corporate leaders from around the world with the express intent of accelerating change, eliminating obstacles, and scaling solutions for mainstreaming alternative proteins across our global food system.</p>

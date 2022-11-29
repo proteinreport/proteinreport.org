@@ -18,6 +18,7 @@ city: Melbourne
 website: "https://altproteinsconference.com.au/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 9377
 ---
 <p>AltProteins 22 will unite the agri-food industry leaders, retailers, innovators, investors and policymakers shaping Australia and New Zealand’s emerging proteins sector, enabling critical conversation and collaboration to realise the industry’s potential.</p>

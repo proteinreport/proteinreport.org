@@ -19,7 +19,8 @@ country: Netherlands
 website: "https://bridge2food.com/summits/europe/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10334
 ---
 <p>Bridge2Food brings together key leaders from all along the value chain who are working to drive transformation.</p>
 <p>How do we capitalize on the opportunities the plant-based foods market offers? How do we tackle the challenges of sustainability, affordability and investment?</p>

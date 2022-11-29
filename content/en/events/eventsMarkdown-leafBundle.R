@@ -17,7 +17,7 @@ import_data <- read_csv("events.csv") %>%
 import_data$date <- as.character(import_data$date)
 # decode apostrophe
 import_data$title <- str_replace_all(import_data$title, "&#039;", "'")
-# remove "/directory" from slug
+# remove "/events" from slug
 import_data$slug <- str_replace_all(import_data$slug, "/events", "")
 
 # loop through rows creating index.md for each item
@@ -57,17 +57,11 @@ for (row in 1:nrow(import_data)) {
   if (!is.na(import_data[row,]$city)) {
     write(paste("city: ",import_data[row,]$city, sep = ""), file_path, append = T)
   }
-  #write(paste("country: [",import_data[row,]$country, "]", sep = ""), file_path, append = T)
-  #write(paste("city: [",import_data[row,]$city, "]", sep = ""), file_path, append = T)
   write(paste("website: ", shQuote(import_data[row,]$website), sep = ""), file_path, append = T)
   write(paste("contributors: [",import_data[row,]$contributors, "]", sep = ""), file_path, append = T)
   write("draft: false", file_path, append = T)
-  #write("pinned: false", file_path, append = T)
-  #write("homepage: false", file_path, append = T)
-  write("weight: ", file_path, append = T)
-  #write(images, file_path, append = T)
-  #write("images:", file_path, append = T)
-  #write(import_data[row,]$images, file_path, append = T)
+  write("weight: 5000", file_path, append = T)
+  write(paste("uuid: ",import_data[row,]$ID, sep = ""), file_path, append = T)
   write("---", file_path, append = T)
   write(content, file_path, append = T)
 }

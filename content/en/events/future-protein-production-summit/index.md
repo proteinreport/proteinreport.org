@@ -17,7 +17,8 @@ end_date: 2022-03-10
 website: "https://www.futureofproteinproduction.com"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 9648
 ---
 <p>The Future of Protein Production Summit is the must attend virtual event for any company involved in making the global food system more sustainable, kind and fair for the planet, people, and animals.</p>
 <p>The senior executive-level conference presents an unbiased opportunity to explore and discuss this highly complex issue with world-leading experts and showcase a wide range of solutions that will have a positive impact through abolishing animal cruelty, reducing global pollution and improving human health.</p>

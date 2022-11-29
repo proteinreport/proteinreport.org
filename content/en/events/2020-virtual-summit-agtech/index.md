@@ -16,7 +16,8 @@ end_date: 2020-05-07
 website: "https://www.agtechsummit.org/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 6805
 ---
 <p>The Virtual Summit on AgTech is hosted by the Tuck Center for Private Equity and Venture Capital in collaboration with the Tuck Food &amp; Agriculture Club. This online conference focuses on current trends and issues in agriculture and technology.</p>
 <p>The Tuck AgTech Summit aims to bring together some of the most important people and organizations pushing this space forward in order to accelerate the spread of knowledge, create new connections, and generate ideas. Now in its second year, the virtual conference will cover a wide range of cutting-edge topics with an impressive lineup of over 40 speakers from around the globe.</p>

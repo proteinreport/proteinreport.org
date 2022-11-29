@@ -18,7 +18,8 @@ city: San Francisco
 website: "https://hubs.ly/Q011_8z60"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10263
 ---
 <p>With a focus on showcasing future food innovations, the <em>Food Innovation &amp; Investment Summit</em> aims to bring key players within the food industry together to discuss leading macro food trends that are shaping the future of the industry - from scaling innovative foods to understanding what makes an attractive investment opportunity for investors.</p>
 <p>Join leading food experts from Nestlé, PepsiCo, Tate &amp; Lyle, Cargill, S2G Ventures and Corbion; discuss the 3 most exciting areas of development: Alternative Protein, Personalized Nutrition &amp; Gut Health, and Functional Ingredients &amp; Biotech; and discover the latest in future food innovations.</p>

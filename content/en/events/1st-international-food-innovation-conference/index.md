@@ -16,7 +16,8 @@ end_date: 2021-06-29
 website: "https://www.gdi.ch/en/events/1st-international-food-innovation-conference?utm_source=protein_foodinno21&amp;utm_medium=web&amp;utm_campaign=foodinno21"
 contributors: [GDI Gottlieb Duttweiler Institute]
 draft: false
-weight: 
+weight: 5000
+uuid: 9008
 ---
 <p>The past decades in food production have seen a move in one direction only: towards a growing worldwide entanglement along the nutrition value chain. But this chain is being challenged – by changing consumer demands, by new technologies and, lately, by the pandemic.</p>
 <p>Consumers are becoming increasingly aware of the multiple facets of sustainability, from ethical standards to responsible manufacturing, and are demanding more control over the provenance of the products they buy. At the same time, climate change, shrinking farmland and a growing world population are putting pressure on traditional methods of food production and distribution.</p>

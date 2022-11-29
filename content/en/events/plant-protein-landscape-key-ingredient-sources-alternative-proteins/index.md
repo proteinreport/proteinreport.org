@@ -17,7 +17,8 @@ end_date: 2021-02-23
 website: "NA"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8359
 ---
 <p>Consumer demand for plant-based products is growing rapidly, and a broad portfolio of plant proteins is now available for plant-based meat, egg, and dairy applications.</p>
 <p>This webinar will explore the key characteristics of plant protein sources for alternative protein end products, including:</p>

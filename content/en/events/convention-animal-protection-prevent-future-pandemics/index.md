@@ -16,7 +16,8 @@ end_date: 2022-04-14
 website: "https://grn.global/event-4713108"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10538
 ---
 <p>With the COVID-19 death toll approaching three million in March of 2021, twenty-five heads of state echoed the World Health Organisation’s call for a global pandemic treaty. With the majority of the world's focus since being dedicated to pandemic preparedness and response, insufficient attention has been paid to our ability to prevent pandemics in the first place.</p>
 <p>Like Ebola, HIV-AIDS, Nipah Virus, SARS, and others, COVID-19 spilt over from animals to humans, with our high-risk contact with, if not mistreatment of, animals lying at the heart of each of these zoonotic disease outbreaks. As such, without a global agreement to regulate our interaction with animals, a repeat of the current pandemic is simply a matter of time.</p>

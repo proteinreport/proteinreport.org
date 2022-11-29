@@ -18,7 +18,8 @@ end_date: 2021-04-28
 website: "https://us02web.zoom.us/webinar/register/WN_g5cEEHPCRxuR984vfun-nA"
 contributors: [Avery Parkinson]
 draft: false
-weight: 
+weight: 5000
+uuid: 8760
 ---
 <p>Join Dr. Sylvain Charlebois, Senior Director, Agri-Food Analytics Lab for a presentation and discussion on the Canadian plant-based food market.</p>
 <p>Dr. Charlebois will present an overview of the Canadian Consumer perspectives on plant-based foods and diets, including trends, consumer awareness and drivers of consumer behaviour.</p>

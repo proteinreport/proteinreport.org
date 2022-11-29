@@ -17,7 +17,8 @@ end_date: 2022-02-01
 website: "https://www.zeta.com/en/newsroom/blog/detail/webinar-alternative-proteins-and-cultured-meat.html"
 contributors: [petra.zeisberger]
 draft: false
-weight: 
+weight: 5000
+uuid: 10326
 ---
 <h2>Alternative Proteins and Cultured Meat</h2>
 <p>ZETA has many years of <strong>process experience</strong> and <strong>in-depth product know-how</strong> for the biotech and food industry. The specialist for aseptic production processes also keeps a close eye on <strong>current trends. </strong>Find out in this <strong>ZETA webinar</strong> how your company can benefit from our <strong>scale-up know-how</strong> for the fermentation processes of <strong>alternative proteins and cultured meat.</strong></p>

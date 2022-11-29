@@ -16,7 +16,8 @@ end_date: 2020-10-07
 website: "https://www.fairr.org/article/plant-based-protein-disruption-webinar/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 7756
 ---
 <p>The <a href="https://go.fairr.org/e/811253/2020-08-25/5sh5c/37448760?h=ZPwoO9guJSD03wXyHCgfHUDtOmSyeYq5FUbyJlik4oA">FAIRR Initiative</a> is delighted to be hosting a webinar with a focus on Canada. With consumer demand for alternative proteins fast increasing, we look at the importance of the plant-based and alternative protein market as both a growth driver and climate-risk mitigation tool for leading food companies worldwide.</p>
 <p>Join us as we discuss the strategic evolution of the largest global food companies in addressing this growing market, the climate-related benefits and the investment opportunities that this market brings.</p>

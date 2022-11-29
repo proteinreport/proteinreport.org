@@ -16,6 +16,7 @@ end_date: 2020-06-04
 website: "https://us02web.zoom.us/webinar/register/WN_q7vzqu_rRJGi8V9qZbT9ww"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 6948
 ---
 <p>We are on the cusp of making secure, ethical, sustainable, and real cultivated animal meat a reality. Join GFI Startup Growth Specialist Nate Crosser and GFI Senior Scientist Dr. Elliot Swartz for a global analysis of the cultivated meat industry. In this presentation, we will dive into the investments, competitive landscape, consumer insights, and scientific progress in this rapidly accelerating, transformative market sector.</p>

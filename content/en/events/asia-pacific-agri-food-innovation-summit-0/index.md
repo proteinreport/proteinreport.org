@@ -18,7 +18,8 @@ country: Singapore
 website: "https://agrifoodinnovation.com/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10920
 ---
 <p><strong>2022 Theme: Building Agri-Food Capacity, Security &amp; Resilience in Asia</strong></p>
 <p>As the anchor event of Singapore International Agri-Food Week (SIAW), the Asia-Pacific Agri-Food Innovation Summit will bring together over 900 global leaders to identify the strategic priorities as we build greater capacity, security and resilience in Asia’s agri-food system.</p>

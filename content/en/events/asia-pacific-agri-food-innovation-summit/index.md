@@ -17,7 +17,8 @@ end_date: 2021-11-18
 website: "https://agrifoodinnovation.com/"
 contributors: [Avery Parkinson]
 draft: false
-weight: 
+weight: 5000
+uuid: 9220
 ---
 <p><strong>Scaling Sustainable Food Production in Asia</strong></p>
 <p>Now in its fourth year, the Asia-Pacific Agri-Food Innovation Summit will bring together the world’s leading agribusinesses, growers, CPG and ingredient brands, entrepreneurs, investors, retailers and policymakers to share ideas and collaborate towards greater security and sustainability in Asia’s agri-food system.</p>

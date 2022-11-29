@@ -21,7 +21,8 @@ city: San Francisco
 website: "https://cms21.io/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8564
 ---
 <p>Join us for the 4th edition of the Cultured Meat Symposium. This Hybrid event will take place in Downtown San Francisco on Friday, October 22nd and Saturday, October 23rd, 2021. <em>In-person seating is limited.</em></p>
 <p><strong>Sustainability + Scalability:</strong> The symposium will focus on sustainability factors and the scalability of this new and thriving industry.</p>

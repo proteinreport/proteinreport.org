@@ -21,7 +21,8 @@ end_date: 2020-10-14
 website: "https://www.crowdcast.io/e/FutureFoodTech-Plant-Based-Products/register"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 7744
 ---
 <ul type="disc">
 <li>What new trends are affecting the way we source plant-based ingredients? </li>

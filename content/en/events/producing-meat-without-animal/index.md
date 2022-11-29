@@ -17,7 +17,8 @@ end_date: 2021-02-24
 website: "https://www.eventbrite.com.au/e/producing-meat-without-the-animal-tickets-138518503573"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8432
 ---
 <p>Humans are currently eating more meat than our planet can afford. Raising animals for food is resource intensive. The rise in global meat consumption has dire consequences for human health, our agricultural industry, the environment, biodiversity, and animal welfare. Fortunately, there’s an effective way to solve this growing problem. Cellular agriculture is an emerging research field dedicated to producing meat, eggs, milk, and leather directly from animals’ cells rather than whole animals.</p>
 <p><strong>Speakers:</strong></p>

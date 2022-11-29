@@ -19,7 +19,8 @@ city: Maastricht
 website: "https://www.culturedmeatconference.com/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 9390
 ---
 <p>Save the date! 29-30-1 Nov-Dec 2021!</p>
 <p>Abstract submission is already possible. Registration information will follow shortly.</p>

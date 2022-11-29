@@ -17,7 +17,8 @@ end_date: 2021-11-11
 website: "https://bridge2food.com/webinars/virtual-exhibition-plant-based-foods-value-chain-asia/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8255
 ---
 <p><strong>Live Online Summit + Expo with Video Chat Option for Ideal Networking</strong><br />
 Join the  <strong>Summit + Expo Plant-Based Foods &amp; Proteins Asia </strong>dedicated to connecting plant-based brands with the value chain, including retailers, foodservice professionals, food manufacturers, ingredient suppliers, and other service providers such as packaging, market, and brand agencies!</p>

@@ -18,7 +18,8 @@ end_date: 2020-06-11
 website: "https://www.eventbrite.com/e/ppaa-webinar-how-are-meatless-meats-made-extrusion-technology-demo-tickets-106800980608"
 contributors: [shannonsnaden]
 draft: false
-weight: 
+weight: 5000
+uuid: 7000
 ---
 <p><strong>How are "meatless" meats made? Come and learn with food innovation experts Deutsches Institut für Lebensmitteltechn</strong></p>
 <h2>About this Event</h2>

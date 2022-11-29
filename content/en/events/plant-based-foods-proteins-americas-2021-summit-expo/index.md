@@ -18,7 +18,8 @@ end_date: 2021-09-29
 website: "https://bridge2food.com/webinars/summit-plant-based-foods-proteins-americas-2021/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8251
 ---
 <p>Live Online Summit + Expo with Video Chat Option for Ideal Networking<br />
 Join the  <strong>Summit + Expo Plant-Based Foods &amp; Proteins Americas</strong><strong> </strong>dedicated to connecting plant-based brands with the value chain, including retailers, foodservice professionals, food manufacturers, ingredient suppliers, and other service providers such as packaging, market, and brand agencies!</p>

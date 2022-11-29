@@ -20,7 +20,8 @@ city: Auckland
 website: "https://proteintech.events/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8272
 ---
 <p>Since 2018 this food technology innovation conference has attracted leaders in food production, food and agricultural science and innovators across the food manufacturing sector.</p>
 <p>With a firm focus on practical business outcomes, this conference is aimed at people in the food production and food supply chains.</p>

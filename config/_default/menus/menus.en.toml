@@ -29,17 +29,6 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
-  weight = 10
-
-# [[main]]
-#   name = "Tutorial"
-#   url = "/tutorial/lorem/ipsum/"
-#   weight = 15
-
-[[main]]
   name = "Articles"
   url = "/articles/"
   weight = 20
@@ -68,26 +57,6 @@
   name = "Research"
   url = "/research/"
   weight = 45
-
-[[main]]
-  name = "Get Started"
-  weight = 60
-  identifier = "get-started"
-  url = "/docs/prologue/introduction/"
-
-[[main]]
-  name = "Quick Start"
-  weight = 70
-  identifier = "quick-start"
-  url = "/docs/prologue/quick-start/"
-  parent = "get-started"
-
-[[main]]
-  name = "Tutorial"
-  weight = 80
-  identifier = "tutorial"
-  url = "https://getdoks.org/tutorial/introduction/"
-  parent = "get-started"
 
 [[social]]
   name = "GitHub"

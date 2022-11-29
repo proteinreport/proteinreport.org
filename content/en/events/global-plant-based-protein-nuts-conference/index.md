@@ -16,7 +16,8 @@ end_date: 2021-06-03
 website: "https://www.mintecglobal.com/global-plant-based-protein-and-nut-conference"
 contributors: [Avery Parkinson]
 draft: false
-weight: 
+weight: 5000
+uuid: 8979
 ---
 <p>Plant-based food products are becoming a key driver of sales growth for grocery retailers nationwide, growing at a rate that is almost double overall food sales. According to SPINS retail sales data released April 6, 2021, grocery sales of plant-based foods that directly replace animal products have grown 27 percent in the past year to $7 billion.  According to the USDA the world trade in nuts is increasing by an average of 7.8% every year. At the same time, the export of nuts annually grows by $2 billion a year and has already reached $34 billion. With sales continuing to grow at more than 17.2% or $760 million per year. </p>
 <p>To help you better understand these complex markets, Mintec is bringing together a range of industry experts from across the plant-based foods and nut value chains to share unique perspectives provide critical essential analysis into:</p>

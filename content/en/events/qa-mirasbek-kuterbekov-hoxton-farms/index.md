@@ -17,7 +17,8 @@ end_date: 2021-11-10
 website: "https://www.eventbrite.co.uk/e/qa-with-mirasbek-kuterbekov-from-hoxton-farms-tickets-187061414727"
 contributors: [jane]
 draft: false
-weight: 
+weight: 5000
+uuid: 9855
 ---
 <p>Join us for a Q&amp;A event with senior scientist Mirasbek Kuterbekov, who will introduce his work at Hoxton Farms and talk about his career journey into the space. He will also answer your questions about cellular agriculture and working in the field.</p>
 <p>Based in London, <a href="https://hoxtonfarms.com/">Hoxton Farms</a> is cultivating a revolution. They combine cell biology and mathematical modelling to make a better kind of fat. Starting from just a few cells, they grow purified animal fat in bioreactors to produce a delicious, cruelty-free and sustainable ingredient.</p>

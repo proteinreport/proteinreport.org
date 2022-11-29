@@ -16,7 +16,8 @@ end_date: 2020-05-29
 website: "https://www.eventbrite.ca/e/ppaa-webinar-navigating-through-disruption-registration-102241398776"
 contributors: [shannonsnaden]
 draft: false
-weight: 
+weight: 5000
+uuid: 6999
 ---
 <p><strong>Wondering what transformational shifts are happening due to COVID-19?</strong></p>
 <p>Join us for a one-hour webinar on May 29th with Dr. Sylvain Charlebois to look at the short- and long-term changes we are all facing in the food and beverage industry due to the pandemic. There are transformational shifts happening that will last far beyond the outbreak. Dr. Charlebois, a leading agrifood expert from Dalhousie University, will talk about topics such as the democratization of the supply chain, growth in online grocery shopping, a new emphasis on food security and food processing, and an accelerated return to the trend in plant-based proteins.</p>

@@ -17,7 +17,8 @@ end_date: 2021-09-15
 website: "https://ucdavis.zoom.us/meeting/register/tJIqc-urqjgrE9avdsVWNlz9FWHkwsABftM9"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 9669
 ---
 <p>The UC Davis Cultivated Meat Research Consortium is proud to present</p>
 <p><strong><em>“Innovative Women Changing the Global Future of Food”</em></strong></p>

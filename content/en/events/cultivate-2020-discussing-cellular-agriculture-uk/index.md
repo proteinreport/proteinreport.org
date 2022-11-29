@@ -17,7 +17,8 @@ end_date: 2020-12-17
 website: "https://www.eventbrite.co.uk/e/cultivate-2020-discussing-cellular-agriculture-in-the-uk-tickets-128565580111"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8037
 ---
 <p>Cultivate is an annual event to discuss cellular agriculture from UK perspectives. Cellular agriculture refers to work to produce agricultural products - typically animal products - through new methods that operate at the cellular level as opposed to working with whole animals. Examples include cultured meat and fermentation-based milk.</p>
 <p>The event will feature a combination of talks and panels that will discuss activities and challenges that have risen over the last year.</p>

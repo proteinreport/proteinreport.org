@@ -18,6 +18,7 @@ city: Ithaca
 website: "https://www.cornellfuturefoodsummit.com/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 6129
 ---
 <p>The Cornell Future Food Summit aims to empower and connect food fighters to build a sustainable, innovative, and collaborative food system.</p>

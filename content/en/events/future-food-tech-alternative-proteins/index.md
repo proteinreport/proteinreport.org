@@ -17,7 +17,8 @@ end_date: 2021-06-23
 website: "https://futurefoodtechprotein.com"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8228
 ---
 <p><strong>Future Food-Tech’s new dedicated Alternative Proteins Summit on June 22-23 will connect global food leaders to map out the future of protein.</strong></p>
 <p>Focusing on three key pillars: plant-based, cell-based, and microbial fermentation, it will bring together CPG leaders, entrepreneurs, investors, ingredient providers, retailers and food service providers to unpack the possibilities of these technologies and create unified approaches to scaling the next generation of novel proteins.</p>

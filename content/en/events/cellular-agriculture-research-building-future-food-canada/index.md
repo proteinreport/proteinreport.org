@@ -17,7 +17,8 @@ end_date: 2020-09-10
 website: "https://www.crowdcast.io/e/cellular-agriculture-research/register"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7642
 ---
 <p dir="ltr">Join CAC’s Executive Director, <strong>Yadira Tejeda Saldana</strong> and moderator, <strong>Ahmed Khan </strong>from CellAgri during this event that will bring together four talented researchers from across Canada. </p>
 <p dir="ltr">Research is the foundation of any industry. Without it, the industry can’t thrive. During this event, we intend to engage in a fruitful discussion about the opportunities, the challenges, and the next steps to make Canada a leading country in cellular agriculture.</p>

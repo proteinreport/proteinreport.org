@@ -16,7 +16,8 @@ end_date: 2021-04-07
 website: "https://www.eventbrite.ca/e/bio-innovation-conference-tickets-144067591043"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8707
 ---
 <p><strong>On April 6-7th, the Bio Innovation Conference </strong>will unite entrepreneurs and startups, industry and ecosystem players, investors, and life sciences graduate students.</p>
 <ul>

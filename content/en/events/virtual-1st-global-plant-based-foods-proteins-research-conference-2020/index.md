@@ -16,7 +16,8 @@ end_date: 2020-10-08
 website: "https://bridge2food.com/webinars/virtual-1st-global-plant-based-foods-proteins-research-conference-2020"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7437
 ---
 <p>This first Global Virtual Research Conference on Plant-Based Foods &amp; Proteins is<strong> </strong>dedicated to presenting the best science from top research journals and connect researchers working on plant-based foods, ingredients, technologies, and crops from Europe, Asia Pacific and North America (Post-Doc, Ph.D., MSc, Associate Professors &amp; Professors).</p>
 <p>Researchers from all around the world will join this fantastic conference programme and will be able to connect with fellow researchers and industry experts, develop new collaborations and build their networks in a very easy and convenient way through private online meetings and video chats.</p>

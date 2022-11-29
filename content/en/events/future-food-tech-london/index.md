@@ -20,7 +20,8 @@ city: London
 website: "https://futurefoodtechlondon.com/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8264
 ---
 <p><strong>Scaling Solutions in Personal Health and Nutrition Security.</strong></p>
 <p>Gathering over 700 global food system leaders, the Future Food-Tech Summit<strong> </strong>on September 31 – October 1 will drive forward a collaborative, science-based approach to nutrition innovation.</p>

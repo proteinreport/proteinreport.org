@@ -17,7 +17,8 @@ end_date: 2020-05-26
 website: "https://us02web.zoom.us/webinar/register/WN_c2WhSxz7SviLeYntEEPZHQ"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 6942
 ---
 <p>The last year has been groundbreaking for the plant-based food industry. Join GFI's Associate Director for Corporate Engagement Caroline Bushnell and GFI's Startup Growth Specialist as we dive into the most important retail and foodservice sales data, investment analytics, technical advancements, consumer insights, industry predictions, and more (including a 2020 update).</p>
 <p>Due to data availability purposes, this presentation focuses mostly on U.S.-based-or-selling companies.</p>

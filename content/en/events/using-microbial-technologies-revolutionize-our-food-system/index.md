@@ -20,7 +20,8 @@ end_date: 2020-04-28
 website: "https://www.crowdcast.io/e/FutureFoodTech-Microbial-Technologies/register"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 6711
 ---
 <p><strong>Date: </strong>April 28, 2020<br />
 <strong>Time:</strong> 8-9am Pacific US Time</p>

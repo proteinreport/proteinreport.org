@@ -16,7 +16,8 @@ end_date: 2021-01-28
 website: "https://ter.li/xqvrr5"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7899
 ---
 <p>With one-third of consumers choosing to actively reduce their meat and dairy consumption and seeking protein substitutes driven by health and environmental concerns, there is mounting pressure on food &amp; beverage brands to <em>reformulate</em> their protein alternatives. Next-generation fermentation technologies are gaining momentum in the food industry.</p>
 <p>The REFORMULATE: Fermentation-Enabled Alternative Protein Innovation Digital Summit will showcase novel technological advances powering the new wave of alternative protein products. Whether you have a fermentation-enabled protein product offering or are looking to launch into the growing alternative protein space, this digital event will equip you with the latest view of the state of play in this emerging field, whilst providing you with the chance to connect and collaborate with those trailblazing this new area of food production.</p>

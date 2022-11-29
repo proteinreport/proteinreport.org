@@ -20,7 +20,8 @@ city: London
 website: "https://sustainablefoodsconference.com/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 9481
 ---
 <p>The Sustainable Foods Conference, now in its 2nd year, brings together the most innovative sustainable food brands and entrepreneurs with like-minded global investors, buyers and consultants.</p>
 <p>We do this by utilising our powerful global relationships with an unmissable agenda to create a two-day conference that offers attendees, and exhibitors unparalleled networking opportunities.</p>

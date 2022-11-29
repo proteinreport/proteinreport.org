@@ -18,7 +18,8 @@ city: Zurich
 website: "https://www.gdi.ch/en/event/2nd-international-food-innovation-conference-17"
 contributors: [GDI Gottlieb Duttweiler Institute]
 draft: false
-weight: 
+weight: 5000
+uuid: 10740
 ---
 <p>Do we need to recall the numbers? The numbers of how the global meat industry harms both the planet and the people living on it? The numbers of the environmental damages caused by eggs and dairy? Probably not. Instead, we would like to shed light on <strong>how innovation can solve the carnivore conundrum.</strong></p>
 <p>Humans have been using fermentation to produce bread, cheese or beer for many thousand years. Since then, we have come to scientifically understand the processes of <strong>fermentation and their potential for a more sustainable food system</strong> as well as for our wellbeing.</p>

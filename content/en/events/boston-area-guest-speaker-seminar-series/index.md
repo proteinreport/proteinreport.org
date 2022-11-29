@@ -18,7 +18,8 @@ end_date: 2021-01-08
 website: "https://mit.zoom.us/j/98317547781"
 contributors: [ayusuf]
 draft: false
-weight: 
+weight: 5000
+uuid: 8216
 ---
 <p>We are excited to see you at the talk of New Harvest's Research Program Director Jeremiah Johnson at 1 PM ET. The talk will focus on funding opportunities for academic research and open areas of research in cellular agriculture, which should supplement the crash course and be valuable for those interested in pursuing research in the field. The talk is open to all.</p>
 <p>Zoom link: <a href="https://mit.zoom.us/j/98317547781">https://mit.zoom.us/j/98317547781</a><br />

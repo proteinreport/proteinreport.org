@@ -17,7 +17,8 @@ end_date: 2021-02-17
 website: "https://www.isscr.org/meetings-events/isscr-digital/stem-cells-and-global-sustainability"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8267
 ---
 <p>The use and application of cell-based approaches for commercial agriculture requires expertise in cell culture, bioengineering, manufacturing and food sciences. The third program of the series will bring together experts in these fields to share insights in these processes and stimulate discussion.</p>
 <p><strong>Speakers:</strong></p>

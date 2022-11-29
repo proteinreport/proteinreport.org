@@ -16,7 +16,8 @@ end_date: 2020-06-16
 website: "https://us02web.zoom.us/webinar/register/7015918964705/WN_-TpuSuTURMq6WtcC-x_FUA"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7084
 ---
 <p><strong>Jun 16, 2020 10:00 AM in <a href=";">Pacific Time (US and Canada)</a></strong></p>
 <p>The alternative proteins industry is in the midst of rapid development. In the first couple months of 2020, a whopping $930 million was invested in alternative proteins, topping record-setting 2019 totals. In the short term, as highlighted by BTI’s federal policy paper, the pandemic and economic downturn have shuttered food service outlets, restricted alternative protein R&amp;D, and induced potential losses in private sector funding and production slow downs. But it could be argued that other areas of our food system have seen greater challenges and outbreaks amid the pandemic. As consumers show more enthusiasm for alternative meats and companies reach milestones like building the first pilot production facilities for cell-based meat, how will the pandemic have impacted the future of alternative meats?</p>

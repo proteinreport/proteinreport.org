@@ -19,7 +19,8 @@ end_date: 2020-05-21
 website: "https://www.cellag.ca/new-events/1z04b2ru5j9nyxb1je523ch9zpuel8"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 6894
 ---
 <p>We are thrilled to have Canadian filmmaker, Liz Marshall, and Dr. Schulze from Memphis Meats join us for a live Q&amp;A session!</p>
 <p>This is an incredible opportunity to hear from and ask all the questions that you have about the film and their careers. From the growth of the field to the regulatory steps ahead, there is a lot to discuss!</p>

@@ -16,7 +16,8 @@ end_date: 2021-06-03
 website: "https://rethinkingprotein.com/?utm_campaign=rethinkingprotein-FAIRR&amp;utm_medium=partner&amp;utm_source=proteinreport"
 contributors: [isabellestuart]
 draft: false
-weight: 
+weight: 5000
+uuid: 8861
 ---
 <p>The FAIRR Initiative and the Jeremy Coller Foundation are hosting the first international law and policy conference on the future of protein. As the world recovers from the COVID-19 pandemic, the conference aims to inspire effective, impact-driven policy and innovation to feed the world while protecting the environment, human health, and animal welfare.</p>
 <p>The summit will focus on the role of policymaking on food system transitions, and policy levers to enable a healthy, sustainable food system within planetary boundaries. Speakers will represent the worlds of policymaking, agriculture, responsible investment and the broader finance sector.</p>

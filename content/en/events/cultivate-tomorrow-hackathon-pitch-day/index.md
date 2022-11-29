@@ -19,7 +19,8 @@ end_date: 2022-02-12
 website: "https://www.eventbrite.com/e/cultivate-tomorrow-hackathon-pitch-day-virtual-tickets-219988510557"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10203
 ---
 <p><strong>Get immersed in the Cultivated Food, Cell Ag, Precision Fermentation Industry!</strong></p>
 <p><strong>About this event</strong></p>

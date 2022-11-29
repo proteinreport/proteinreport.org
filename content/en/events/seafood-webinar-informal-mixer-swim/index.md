@@ -18,7 +18,8 @@ end_date: 2020-10-29
 website: "https://go.gfi.org/swim"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 7843
 ---
 <p><strong>SWIM is a chance to catch up on the latest science related to cultivated seafood and to connect with your colleagues.</strong></p>
 <p><strong>Thursday, October 29th at 7pm ET / 4pm PT</strong></p>

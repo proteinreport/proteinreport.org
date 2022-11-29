@@ -18,6 +18,7 @@ city: Boston
 website: "https://2020.new-harvest.org/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 1094
 ---
 <p>Explore the opportunities, challenges, and realities of cellular agriculture at New Harvest’s annual conference. Established in 2004, New Harvest is the non-profit research institute building the field of cellular agriculture.</p>

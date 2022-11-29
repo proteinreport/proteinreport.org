@@ -17,7 +17,8 @@ end_date: 2022-07-27
 website: "https://events.hubilo.com/future-of-protein-production-webinar-july/register"
 contributors: [seb]
 draft: false
-weight: 
+weight: 5000
+uuid: 11056
 ---
 </p>
 <p>This webinar will examine in depth the emerging field of creating animal proteins using plants. Molecular farming for food has grown in popularity over the past few years so how can this fourth pillar of alternative proteins help get products on shelves at scale?</p>

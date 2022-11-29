@@ -20,7 +20,8 @@ end_date: 2020-05-28
 website: "https://www.cellag.ca/new-events/from-eh-to-cellag-the-cellular-agriculture-landscape-in-canada"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 6895
 ---
 <p dir="ltr">Join us for Cellular Agriculture Canada’s first virtual event, where we will share the current state of the cellular agriculture industry in Canada. </p>
 <p dir="ltr">You will have the opportunity to learn about the journey of two of Canada’s leading cellular agriculture companies and ask all the questions you want directly to them. Everyone is welcome!</p>

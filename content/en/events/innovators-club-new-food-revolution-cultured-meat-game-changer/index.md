@@ -17,7 +17,8 @@ end_date: 2022-02-23
 website: "https://www.merckgroup.com/en/research/innovation-center/events/all-upcoming-events/the-new-food-revolution.html"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10416
 ---
 <p><strong>Is the world ready for cultured meat as a new source of food?</strong></p>
 <p>The evidence suggests that it is, and 66% of our surveyed scientists would be open to try it. Learn more about the impact of cultured meat on society, the food industry and the future of meat consumption at our upcoming online Innovators´ Club on <strong>February 23, 2022</strong>!</p>

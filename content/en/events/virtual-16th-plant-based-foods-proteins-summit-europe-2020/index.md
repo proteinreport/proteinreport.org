@@ -16,7 +16,8 @@ end_date: 2020-10-14
 website: "https://bridge2food.com/webinars/virtual-16th-plant-based-foods-proteins-summit-europe-2020/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 1123
 ---
 <p>Join the only <strong>Virtual 16th Plant-Based Foods &amp; Proteins Summit &amp; Exhibition</strong> dedicated to connecting plant-based brands with the value chain including retailers, foodservice professionals, food manufacturers, ingredient suppliers, and other service providers such as packaging, market, and brand agencies!</p>
 <p><strong>Unique Networking during the Virtual 16th Plant-Based Foods &amp; Proteins Summit!</strong><br />

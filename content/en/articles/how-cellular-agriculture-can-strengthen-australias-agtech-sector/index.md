@@ -11,7 +11,7 @@ topics: [Business]
 regions: [Oceania]
 flags: [Featured]
 directory: [698, 5804, 5805, 7131, 7168]
-contributors: [Bianca Le]
+contributors: [8105]
 images: [cows.jpg]
 draft: false
 pinned: false

@@ -16,7 +16,8 @@ end_date: 2020-11-18
 website: "https://www.eventbrite.ca/e/ppaa-webinar-plant-protein-101-tickets-125929728207?aff=erelexpmlt"
 contributors: [barb]
 draft: false
-weight: 
+weight: 5000
+uuid: 7962
 ---
 <p>Wondering what’s behind all the hype of plant-based proteins? Confused by the different proteins and their uses? How can entrepreneurs capitalize on this massive opportunity?</p>
 <p>Grab a cup of coffee and hear stories from our special guest speaker David Fielder, senior scientist at Alberta Agriculture and Forestry during this one-hour webinar organized by the Plant Protein Alliance of Alberta. His talk will cover the different types of plant proteins, the reasons behind the skyrocketing global demand and the economic opportunity that offers us here in Alberta. David is the program lead of the province's Value-added Fractionation and Natural Health Products Program at the <a href="https://ppaa.ca/flour-to-face-creams-biorefinery-helps-entrepreneurs-grow-their-business/">Bio-Processing Innovation Centre</a> (BPIC) that helps companies from concept to scale-up.</p>

@@ -18,7 +18,8 @@ end_date: 2021-06-23
 website: "https://www.eventbrite.com/e/future-of-seafood-with-wildtype-tickets-156335964077"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 9060
 ---
 <p><strong>Join Wildtype for a delicious session preparing sushi-grade salmon that is fish-free and redefines the sustainability of seafood.</strong></p>
 <p><strong>About this event</strong></p>

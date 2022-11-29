@@ -16,6 +16,7 @@ end_date: 2020-07-21
 website: "https://bit.ly/3ja6biJ!"
 contributors: [Pandemic Punditry]
 draft: false
-weight: 
+weight: 5000
+uuid: 7322
 ---
 <p>With the introduction of its 3D-printed plant-based steak, Israeli company Redefine Meat launches a new era in alternative meats. Pandemic Punditry is excited to speak with Eshchar Ben-Shitrit, CEO &amp; Co-Founder of Redefine Meats, on our mini-series "Putting the Planet on a Pandemic Diet." Understand how this Israeli company is using a highly disruptive technology like 3D-printing to disrupt the innovative Smart Protein space. Learn how their 3D-printer is the only technology out there that replaces the role of the "cow" in meat production. Register now to hear from the person that's making science fiction (i.e., the Star Trek food replicator).</p>

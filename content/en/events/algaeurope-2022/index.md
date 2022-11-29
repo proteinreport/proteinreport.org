@@ -18,6 +18,7 @@ city: Rome
 website: "https://algaeurope.org/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 11118
 ---
 <p>Organized in cooperation with EABA - European Algae Biomass Association and DLG Benelux, AlgaEurope is a unique opportunity to learn and understand all about algae production and commercialization and interact with over 350 key players from more than 45 countries.</p>

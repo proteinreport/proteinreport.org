@@ -17,7 +17,8 @@ end_date: 2020-12-03
 website: "https://futurefoodtechnyc.com/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 7760
 ---
 <p>Creating Nutritious, Sustainable and Accessible Food for Urban Populations</p>
 <p>Focused on strengthening North America’s food system in a post-Covid-19 world, Future Food-Tech New York returns as a virtual summit on December 2-3, 2020.  Trailblazing start-ups, leading food brands and global money managers will explore the short and long-term impacts of the crisis, and identify which areas of food-tech will have the most impact in 2021.</p>

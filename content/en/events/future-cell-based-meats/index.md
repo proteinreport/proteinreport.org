@@ -18,6 +18,7 @@ city: Barcelona
 website: "https://www.curtiswyss.com/event/17"
 contributors: [jane]
 draft: false
-weight: 
+weight: 5000
+uuid: 9272
 ---
 <p>Curtis &amp; Wyss Group is pleased to invite you to the Future of Cell-Based Meats Summit, scheduled for September 30th-October 1st, 2021 in Barcelona, Spain. This premier B2B event will enable the participants to learn about the latest trends and developments in the cellular meat innovative field.</p>

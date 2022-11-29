@@ -16,6 +16,7 @@ end_date: 2021-12-01
 website: "https://zoom.us/webinar/register/WN_HEQ-gR3_QGunjg8CvLWB1A"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10070
 ---
 <p>Interested in a quantitative approach to prioritizing seafood species archetypes for alternative seafood development? Join GFI's Sustainable Seafood Initiative and four student consultants for an overview of the ArcheType Library for Alternative Seafood (ATLAS) database. The presentation will cover the purpose of the tool, how the new version differs from the original, and the brand new dashboard to enable easier visualization of the data.</p>

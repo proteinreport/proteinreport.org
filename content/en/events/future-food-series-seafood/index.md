@@ -18,7 +18,8 @@ end_date: 2020-12-09
 website: "https://www.eventbrite.de/e/future-food-series-seafood-registration-129461100637?aff=erelexpmlt"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8051
 ---
 <p><strong>ProVeg Incubator and NX-Food present ... the foods of the future!</strong></p>
 <p>Welcome to the third event in our Future Food Series! This time, we are diving into the topic of seafood alternatives.</p>

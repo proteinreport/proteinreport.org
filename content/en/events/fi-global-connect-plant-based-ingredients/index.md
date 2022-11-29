@@ -16,6 +16,7 @@ end_date: 2021-09-17
 website: "https://www.figlobal.com/connect/plant-based/en/home.html"
 contributors: [Avery Parkinson]
 draft: false
-weight: 
+weight: 5000
+uuid: 9454
 ---
 <p>Fi Global CONNECT - Plant-based Ingredients in the Spotlight will provide an online platform for manufacturers of plant-based products and suppliers of ingredients to connect, do business and access content online over five days</p>

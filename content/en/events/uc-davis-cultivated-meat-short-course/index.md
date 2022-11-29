@@ -16,7 +16,8 @@ end_date: 2021-09-17
 website: "https://ces-apps.ucdavis.edu/confreg/index.cfm?confid=1166"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 9041
 ---
 <p>This one-week, half-day virtual course will include:</p>
 <ul>

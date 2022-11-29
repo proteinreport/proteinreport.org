@@ -27,7 +27,8 @@ end_date: 2021-06-02
 website: "https://www.eventbrite.com/e/cellag-deutschland-launch-event-tickets-155493331741"
 contributors: [anitabroellochs]
 draft: false
-weight: 
+weight: 5000
+uuid: 9010
 ---
 <p>Note: this event will be in German.</p>
 <p><strong>Agenda*:</strong></p>

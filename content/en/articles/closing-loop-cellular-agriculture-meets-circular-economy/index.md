@@ -11,7 +11,7 @@ topics: [Business, Environment]
 regions: [International, US &amp; Canada]
 flags: [Featured]
 directory: [697]
-contributors: [Avery Parkinson]
+contributors: [8107]
 images: [ds_2.jpg]
 draft: false
 pinned: false

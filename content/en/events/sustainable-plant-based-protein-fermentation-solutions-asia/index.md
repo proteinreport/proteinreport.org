@@ -17,7 +17,8 @@ end_date: 2021-09-07
 website: "https://www.cmtevents.com/aboutevent.aspx?ev=210962"
 contributors: [Avery Parkinson]
 draft: false
-weight: 
+weight: 5000
+uuid: 9453
 ---
 <p>Many versions of plant based protein are rapidly developing in Asia - from meat to dairy alternatives. These new innovations will need to know how to broaden the mass market appeal of their product and expand its reach through multiple sales channels.</p>
 <p>Further recent developments in fermentation solutions will help plant based innovators come up with healthier and tastier creations.</p>

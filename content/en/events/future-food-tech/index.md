@@ -19,7 +19,8 @@ city: London
 website: "https://futurefoodtech.com/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 1142
 ---
 <p>The Future Food-Tech Summit is going virtual! On September 17-18, 2020, C–Suite food brand executives, investors and entrepreneurs from all four corners of the globe will come together online to radically rethink our food system in a post-Covid 19 world.  </p>
 <p>1-1 video meetings, live discussion groups, interactive panels, start-up pitches and ground-breaking keynotes will provide critical intelligence on the trends and technologies that will shape the food industry in 2021, and an unrivalled platform to connect and network with the food-tech ecosystem. </p>

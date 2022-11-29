@@ -18,7 +18,8 @@ city: San Diego
 website: "https://www.aiche.org/conferences/emerging-meat-alternatives-conference/2019"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 1121
 ---
 Emerging Meat Alternatives Conference (EMAC), a new conference organized by AIChE, is one of few scientific conferences focused on technical aspects of creating plant-based and cultured meats. Emerging meat alternatives are a prime example where biochemical and high-tech chemical engineering problems need to be solved in a multidisciplinary environment with biologists, chemical engineers and bioprocess engineers. 
 The conference will focus on the technologies (and challenges) shared by plant-based and cultured meat alternatives to achieve the goal of creating protein-rich food that can replace conventional meat.

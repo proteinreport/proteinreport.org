@@ -16,6 +16,7 @@ end_date: 2020-05-28
 website: "https://www.linkedin.com/posts/the-good-food-institute_alternativeprotein-activity-6664410254060634112-ACHD"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 6848
 ---
 <p>Our Science of Alternative Protein seminar series continues May 28 with guest speaker Mari-Liis Tammik from Center of Food and Fermentation Technologies.</p>

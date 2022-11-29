@@ -21,7 +21,8 @@ end_date: 2021-03-12
 website: "https://www.eventbrite.com/e/lessons-learned-from-singapores-cellular-agriculture-industry-tickets-142598593231"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8503
 ---
 <p>Co-hosted by Evolve.ag and Big Idea Ventures, this event will offer insights from four experts on how to propel cell ag into the future.</p>
 <p>In this free, one-hour long roundtable, you'll hear from Singapore's pioneers in the cellular agriculture sector:</p>

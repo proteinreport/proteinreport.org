@@ -17,7 +17,8 @@ end_date: 2020-10-21
 website: "https://2020.cmsymp.com/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 6770
 ---
 <p>CMS20 Online covers topics of regulation, automation, and scale for next-generation meat, poultry, and seafood production.</p>
 <p>The Cultured Meat Symposium has been a forum that has been uniting the cell-based meat industry over the last three years. Join us for a series of Virtual Sessions to take place on Monday, October 19 through Wednesday, October 21st where we will cover topics related to the cell-cultured meat industry.</p>

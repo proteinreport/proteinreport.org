@@ -18,7 +18,8 @@ city: San Francisco
 website: "https://fermentation-enabled-proteins.com/?utm_source=external&amp;utm_medium=event-listing&amp;utm_campaign=event-listing&amp;utm_content=media-partner/other-protein-report/unpaid/ev-25979"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 11111
 ---
 <p>The<strong> 3rd annual<em> Fermentation-Enabled Alternative Protein Summit</em>, </strong>as the only industry-led forum uniting the entire biomass and precision fermentation ecosystem, will return to San Francisco as an in-person meeting. Hosting 150+ key decision-makers from biotech and food tech, multinational consumer packaged goods, independent food brands, and ingredient suppliers, this 3-days summit will help you scale-up and successfully commercialize fermentation-enabled alternative with speed to market. </p>
 <p>We’re excited to introduce 35+ expert speakers and 2 dedicated streams to the 2023 summit to help technical scientists and commercial leaders across the fermentation protein value chain.</p>

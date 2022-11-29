@@ -17,7 +17,8 @@ end_date: 2020-10-20
 website: "https://hopin.to/events/symposium-on-fermentation"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 7692
 ---
 <p>Join us for an exploration of fermentation’s role in the alternative protein industry.</p>
 <p>Planned sessions include the following:</p>

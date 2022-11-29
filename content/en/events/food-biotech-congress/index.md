@@ -17,7 +17,8 @@ end_date: 2021-11-11
 website: "https://www.lsxleaders.com/food-biotech-congress"
 contributors: [paul]
 draft: false
-weight: 
+weight: 5000
+uuid: 9479
 ---
 <p>The Food Biotech Congress is not another alternative protein, plant-based conference or generic food technology or bulk buy ingredients event.</p>
 <p>Instead, it’s a next-gen ingredients forum for senior executives covering the critical business dynamics and taste, texture and nutrition challenges from biotech and cell-based approaches across the main food pillars (Fat, Protein, Sugar and Salt).</p>

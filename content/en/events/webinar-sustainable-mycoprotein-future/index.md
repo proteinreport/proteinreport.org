@@ -22,7 +22,8 @@ end_date: 2022-03-01
 website: "https://www.eventbrite.ca/e/the-sustainable-mycoprotein-future-tickets-259803157237"
 contributors: [shannonsnaden]
 draft: false
-weight: 
+weight: 5000
+uuid: 10418
 ---
 <p><strong>Learn more about sustainable fermentation with the Plenitude Project partners.</strong></p>
 <p><strong>Proposed Schedule</strong></p>

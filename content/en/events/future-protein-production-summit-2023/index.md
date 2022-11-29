@@ -17,7 +17,8 @@ end_date: 2023-02-23
 website: "https://www.futureofproteinproduction.com/summit"
 contributors: [seb]
 draft: false
-weight: 
+weight: 5000
+uuid: 11171
 ---
 <p>The world's online meeting place for accelerating the commercialization of alternative proteins.</p>
 <p>The Future of Protein Production Summit is the must-attend virtual event for any company involved in making the global food system more sustainable, kind and fair for the planet, people, and animals.</p>

@@ -17,7 +17,8 @@ end_date: 2021-03-04
 website: "https://us02web.zoom.us/webinar/register/3816111563143/WN_CJPf658xQs64MMpNdxVIkw"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8336
 ---
 <p>The Agrarian Revolution is coming. Alternative proteins are not just possible but necessary if humanity is to feed itself without killing the planet. This event will bring together scientists, investors, policy makers and businesses to address the challenges and opportunities that lie ahead.</p>
 <p>Speakers:</p>

@@ -22,7 +22,8 @@ country: Singapore
 website: "https://bridge2food.com/summits/asia/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 11115
 ---
 <p>Bridge2Food brings together key leaders from all along the value chain who are working to drive transformation.</p>
 <ul>

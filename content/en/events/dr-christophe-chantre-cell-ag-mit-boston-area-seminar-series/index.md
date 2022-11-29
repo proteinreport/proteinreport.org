@@ -17,7 +17,8 @@ end_date: 2021-01-22
 website: "https://www.cellag-mit.com/"
 contributors: [emilysoice]
 draft: false
-weight: 
+weight: 5000
+uuid: 8246
 ---
 <p>Come join at 1-2pm EST for a talk on the business of cell ag by Dr. Christophe Chantre, co-founder and CEO of the cultured meat scaffolding company Boston Meats. </p>
 <p>Zoom: <a href="https://www.google.com/url?q=https://mit.zoom.us/j/98317547781&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw3UlyV67QR5Y2TY8wCV83hf">https://mit.zoom.us/j/98317547781</a></p>

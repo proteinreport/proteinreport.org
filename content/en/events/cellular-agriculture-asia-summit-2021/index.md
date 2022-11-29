@@ -18,7 +18,8 @@ end_date: 2021-05-20
 website: "https://asia2021.cell.ag/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8624
 ---
 <p>CellAgri is excited to present the <strong>Cellular Agriculture: Asia Summit 2021</strong>. Discover the key accomplishments in the cellular agriculture field in Asia and network with global and industry leaders from the field.</p>
 <p><strong>Across Asia, the future of food is growing.</strong></p>

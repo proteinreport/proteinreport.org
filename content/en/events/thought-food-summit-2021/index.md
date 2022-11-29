@@ -18,6 +18,7 @@ city: Rome
 website: "https://thoughtforfood.org/tff-2021-summit/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 9760
 ---
 <p>Dubbed the “SXSW of Food and Agriculture,” the TFF Summit 2021 is a mainstage event at the UN FAO’s World Food Forum and is held in support of the UN Food Systems Summit.</p>

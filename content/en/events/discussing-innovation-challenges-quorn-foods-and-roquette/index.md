@@ -17,7 +17,8 @@ end_date: 2021-04-20
 website: "https://www.crowdcast.io/e/future-food-tech-live/register"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8667
 ---
 <p>Future Food-Tech partners Quorn Foods and Roquette have each set <a href="https://www.proteinreport.org/newswire/future-food-tech-announces-innovation-challenges-partnership-quorn-foods-and-roquette">a challenge for start-ups</a> to tackle some of the most critical issues facing the agriculture industry. The call for entries closes soon, on May 7. </p>
 <p>Ahead of that deadline, hear directly from these industry leaders why each of their challenges is so timely, what they're looking for, and how working with start-ups fits into their innovation strategy.</p>

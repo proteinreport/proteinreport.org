@@ -11,7 +11,7 @@ topics: [Business, Policy]
 regions: [US &amp; Canada]
 flags: [Featured, Opinion]
 directory: []
-contributors: [Ann Begley]
+contributors: [9438]
 images: [AdobeStock_365837727.jpg]
 draft: false
 pinned: false

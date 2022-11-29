@@ -16,7 +16,8 @@ end_date: 2021-02-24
 website: "https://us02web.zoom.us/webinar/register/2916101217315/WN_hvRgdYNxQpaKngGWhoY3lA"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8410
 ---
 <p>The development of a plant-based, inexpensive media for growth of cultivated meat cells is a key technical hurdle in further commercialization of cultivated meat products. Generatinging a viable alternative to expensive pharmaceutical grade medium is not an easy problem to solve, as it requires experimental optimization of at least 20-30 potential media ingredients simultaneously. Join Dr. Block as he discusses novel experimental optimization methods that can be used develop new, less expensive media for cultivated meat. Dr. Block will also discuss how this research fits into a larger, NSF-funded effort at UC Davis to assess and tackle other major technical hurdles in cultivated meat processing.</p>
 <p><strong>Time</strong>: 10:00 AM Pacific Time</p>

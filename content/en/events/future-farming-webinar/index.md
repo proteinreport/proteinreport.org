@@ -17,7 +17,8 @@ end_date: 2021-08-30
 website: "https://forms.gle/P4VDUSMwVy7yjXYw7"
 contributors: [subashinikennedy]
 draft: false
-weight: 
+weight: 5000
+uuid: 9546
 ---
 <p>Farming is the backbone of every country, and as young scientists, we wish to spread awareness of the advances in this field. In the Future Farming Webinar, our speakers will take you through the journey of how technology/synthetic biology can join hands with farming to feed the growing human population. From intellectual property in agriculture to cellular agriculture we are presenting you the dream speaker line up with great scientists and pioneers of the cellular agriculture field.</p>
 <p><strong>Speakers:</strong></p>

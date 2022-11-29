@@ -21,7 +21,8 @@ end_date: 2021-08-26
 website: "https://www.airmeet.com/e/0923ce70-f07a-11eb-a56c-d93d3574675b"
 contributors: [Avery Parkinson]
 draft: false
-weight: 
+weight: 5000
+uuid: 9491
 ---
 <p>Join us for a panel discussion with industry leaders on trends, collaboration opportunities, and considerations in the cell-based protein space. There will be a moderator-led discussion of essential questions as well as time provided for audience members to ask questions.</p>
 <p>Panelists:</p>

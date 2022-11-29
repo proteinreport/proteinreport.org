@@ -17,7 +17,8 @@ end_date: 2021-02-03
 website: "https://www.isscr.org/meetings-events/isscr-digital/stem-cells-and-global-sustainability"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8266
 ---
 <p>The first program of the series will highlight the intersection between stem cell science and the global sustainability issues of species conservation and cell-based approaches to developing meat and fish products. What are some of the big issues that are driving the need for this approach and how can stem cells help?</p>
 <p><strong>Speakers:</strong> </p>

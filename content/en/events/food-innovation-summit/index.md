@@ -19,7 +19,8 @@ city: Tallinn
 website: "https://www.foodinnovationsummit.ee/"
 contributors: [rainerkravets]
 draft: false
-weight: 
+weight: 5000
+uuid: 11083
 ---
 <p>Food Innovation Summit - the largest plant-based food innovation conference in the Baltics and the Nordics.</p>
 <p>The fourth Food Innovation Summit brings together leading food experts from around the world to analyze developments in alternative protein production and consumption in recent years that are already profoundly reshaping the present and future of the food sector.</p>

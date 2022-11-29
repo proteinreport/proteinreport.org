@@ -19,7 +19,8 @@ city: Toronto
 website: "https://plantforwardconference.com/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10922
 ---
 <p>Plant Forward is the first-ever international event showcasing Canada’s plant-based ingredient and food supply and innovation.</p>
 <p dir="ltr">We're inviting CEOs, CFOs, R&amp;D leaders and investors at the forefront of the global food industry to:</p>

@@ -16,6 +16,7 @@ end_date: 2022-01-26
 website: "https://www.futurefoodsystems.co/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10327
 ---
 <p>Future Food Systems unites sustainability, supply chain, innovation and R&amp;D leaders from food brands, hospitality providers, retailers, ingredient manufacturers, and agri-business companies. It explores innovative solutions to deliver sustainable nutrition outcomes through more resilient supply chains, behavior change, and new models.</p>

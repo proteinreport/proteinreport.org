@@ -19,7 +19,8 @@ city: San Francisco
 website: "https://industrializingcultivatedmeats.com/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10751
 ---
 <p>Returning for its 4th year, Industrializing Cultivated Meats &amp; Seafood will host the industry leaders from Food Techs, Investors, Multinational Consumer Packaged Goods, and Food Brands and Manufacturers, to focus on preparing for Cultivated Meat &amp; Seafood Commercialization.</p>
 <p>With the growing need for sustainable food alternatives from both the mainstream and animal-free industry, it’s now vital to prepare for the commercialization of cultivated products, through scaling-up to meet market demands and remaining competitive.</p>

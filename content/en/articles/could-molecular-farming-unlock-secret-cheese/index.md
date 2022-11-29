@@ -11,7 +11,7 @@ topics: [Business, Sci-Tech]
 regions: [Europe, US &amp; Canada]
 flags: [Featured]
 directory: [5897, 7241, 8754, 9366]
-contributors: [Avery Parkinson]
+contributors: [8107]
 images: [Greenhouse 2.jpg]
 draft: false
 pinned: false

@@ -18,7 +18,8 @@ end_date: 2021-12-09
 website: "https://apply.eitfood.eu/courses/course/98-thinktech-alternative-proteins"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 10013
 ---
 <p><strong>Objectives</strong><br />
 The ThinkTech! educational programme will enable you to develop skills related to novel food processing technologies focusing on technical aspects, as well as the related soft skills.</p>

@@ -18,7 +18,8 @@ end_date: 2021-03-09
 website: "https://www.iar-pole.com/evenements/optimized-combination-of-separation-technics/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8269
 ---
 <p>IAR – The French Bioeconomy Cluster and EURODIA Industrie invite you to join their workshop to learn about the tools at hand to recover plant proteins as valuable products.</p>
 <p>Relying on its long experience in purification and fractionation processes for the dairy industry, Eurodia Industrie invites you to learn about the most efficient combinations of readily available techniques to extract the full value of plant proteins.</p>

@@ -20,7 +20,8 @@ city: New York
 website: "https://www.futurefoodtechprotein.com/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10312
 ---
 <p><strong>Cultivating Partnerships to Scale Novel Proteins</strong></p>
 <p>Future Food-Tech’s dedicated Alternative Proteins Summit on June 21-22 will connect global food leaders to map out the future of protein.</p>

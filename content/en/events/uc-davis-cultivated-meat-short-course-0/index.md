@@ -16,7 +16,8 @@ end_date: 2022-09-16
 website: "https://ces-apps.ucdavis.edu/confreg/index.cfm?confid=1208&amp;webid=5906"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 11101
 ---
 <p><strong>Sponsored by the UC Davis Biotechnology Program &amp; </strong><strong>Cultivated Meat Consortium, t</strong><strong>his virtual short course will touch on a range of topics related to the development of cultivated meat, including:</strong></p>
 <ul>

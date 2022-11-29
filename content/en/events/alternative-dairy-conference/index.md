@@ -17,7 +17,8 @@ end_date: 2020-12-02
 website: "https://hopin.com/events/alternative-dairy-conference?code=7da90dc2-bd59-4774-9c1f-ade09f6bb4d2"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 7845
 ---
 <p>Join us for this 1-day virtual global conference to learn about the latest business trends and best practices to transform the future of food with alternatives for dairy applications like cheese, milk and yogurt.</p>
 <p>With keynotes and interactive panels by global leaders and industry experts in the future of alternative dairy, this virtual conference brings together the alternative dairy industry working on the new wave of food. From innovative ingredients to promising end producers and supporting organizations in the area of innovation, consumer insights and IP.</p>

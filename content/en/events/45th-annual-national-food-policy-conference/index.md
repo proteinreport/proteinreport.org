@@ -25,7 +25,8 @@ city: Washington, DC
 website: "https://consumerfed.org/events/national-food-policy-conference/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 11117
 ---
 <p><strong>*Virtual option available</strong></p>
 <p>Organized by the Consumer Federation of America, this years topics will include:</p>

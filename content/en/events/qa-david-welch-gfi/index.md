@@ -20,7 +20,8 @@ city: London
 website: "https://www.eventbrite.co.uk/e/qa-with-david-welch-of-gfi-tickets-87525742853"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 1225
 ---
 <p> Dr. David Welch, the Director of Science and Technology at The Good Food Institute </p>
 <p>will illuminate opportunities for scientists and engineers to build a sustainable, healthy, and compassionate paradigm for feeding 10 billion people by 2050.</p>

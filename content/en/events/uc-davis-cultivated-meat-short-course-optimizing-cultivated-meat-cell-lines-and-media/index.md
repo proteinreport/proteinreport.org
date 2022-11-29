@@ -17,7 +17,8 @@ end_date: 2022-05-17
 website: "https://ces-apps.ucdavis.edu/confreg/index.cfm?confid=1196&amp;showunpublic=1"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10732
 ---
 <p><strong><em>Sponsored by the UC Davis Biotechnology Program &amp; the UC Davis Cultivated Meat Consortium</em></strong></p>
 <p>Join the UC Davis Cultivated Meat Consortium faculty and research team members for an overview of the latest research approaches used to generate cell lines and optimize media for use in cultivated meat fermentations, as well as a look at the potential role of edible microcarriers.</p>

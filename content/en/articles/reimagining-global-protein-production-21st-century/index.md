@@ -11,7 +11,7 @@ topics: [Environment, Sci-Tech]
 regions: [International]
 flags: [Featured, Opinion]
 directory: [699, 1143, 1262, 1358, 10548]
-contributors: [Tomas Linder]
+contributors: [10534]
 images: [Reimagining global protein production_0.jpg]
 draft: false
 pinned: false

@@ -17,7 +17,8 @@ end_date: 2021-07-13
 website: "https://www.eventbrite.co.uk/e/cultivate-summer-panel-tickets-159523363675"
 contributors: [Avery Parkinson]
 draft: false
-weight: 
+weight: 5000
+uuid: 9155
 ---
 <p>July 13th 2021 4pm-5pm (BST) via Zoom.</p>
 <p>We at Cultivate are excited to host an online spring panel in 2021. Cultivate is a multi-voiced forum for discussing cellular agriculture from UK perspectives. We are very pleased to have an excellent panel, with opportunities for audience questions, about the evolving context of cultured meat and cellular agriculture here. Our guest panellists are:</p>

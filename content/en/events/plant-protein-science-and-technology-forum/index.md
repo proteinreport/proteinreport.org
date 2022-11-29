@@ -19,7 +19,8 @@ city: Chicago
 website: "https://plantprotein.aocs.org"
 contributors: [amygarren]
 draft: false
-weight: 
+weight: 5000
+uuid: 9194
 ---
 <p><em>The Plant Protein Science and Technology Forum is dedicated to providing insights into the highly dynamic landscape of plant proteins.</em></p>
 <p>Immerse yourself in the latest research and innovations through our program of technical sessions. Click on the following session topics to learn more about them:</p>

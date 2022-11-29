@@ -17,7 +17,8 @@ end_date: 2021-01-21
 website: "https://lnkd.in/dVUFR8s"
 contributors: [dmunch]
 draft: false
-weight: 
+weight: 5000
+uuid: 8276
 ---
 <p>📅 Mark your calendars!</p>
 <p>🖥️ If your company is affected by protein prices, this week's Protein Industry Insights webinar is one you do NOT want to miss - especially as you begin to strategize for a more successful year!</p>

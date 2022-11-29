@@ -17,7 +17,8 @@ end_date: 2021-04-29
 website: "https://www.eventbrite.ca/e/xprize-feed-the-next-billion-competition-networking-talk-tickets-151109046225"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8843
 ---
 <p>District 3 has partnered with the XPRIZE Foundation to lead the Feed the Next Billion competition in Canada. This global challenge is focused on solutions that produce a sustainable alternative to chicken breasts or fish fillets that replicate and/or outperform conventional foods.</p>
 <p>District 3 is investing in the future of alternative proteins, agri-tech, and biotech. We are looking for Canadians working in alternative proteins to network, collaborate and build teams around XPRIZE Feed the Next Billion challenge.</p>

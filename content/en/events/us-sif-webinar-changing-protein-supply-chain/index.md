@@ -16,7 +16,8 @@ end_date: 2021-02-25
 website: "https://www.fairr.org/article/us-sif-webinar-changing-the-protein-supply-chain/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8481
 ---
 <p>The COVID-19 crisis has illuminated major issues in the global protein supply chain, such as an overreliance on animals for dietary protein, food system disruptions and poor worker health and safety. However, the new year and the change of administrations in the United States provides an opportunity for policymakers and investors to consider solutions to these challenges.</p>
 <p>Our Executive Director, Maria Lettini, will join the panel hosted by <a href="https://www.ussif.org/">US SIF</a> to discuss the shift to sustainable production while addressing worker safety and environmental challenges. It will also look at how investments and shareholder engagements can help in shaping the future of protein.</p>

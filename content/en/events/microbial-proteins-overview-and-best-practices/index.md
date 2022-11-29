@@ -16,7 +16,8 @@ end_date: 2021-07-08
 website: "https://hopin.com/events/microbial-proteins-overview-and-best-practices"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 9218
 ---
 <p><strong>How to successfully enter and navigate within the fermentation sector as a food company?</strong></p>
 <ul>

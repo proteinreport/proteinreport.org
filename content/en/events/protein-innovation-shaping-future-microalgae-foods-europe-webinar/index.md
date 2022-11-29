@@ -18,7 +18,8 @@ end_date: 2022-03-22
 website: "https://www.eventbrite.ca/e/protein-innovation-shaping-the-future-of-microalgae-foods-in-europe-tickets-259800780127"
 contributors: [shannonsnaden]
 draft: false
-weight: 
+weight: 5000
+uuid: 10524
 ---
 <p>Learn insights from the ProFuture project which is shaping the future of microalgae proteins in Europe.</p>
 <p><strong>Register here: </strong><a href="https://www.eventbrite.ca/e/protein-innovation-shaping-the-future-of-microalgae-foods-in-europe-tickets-259800780127">https://www.eventbrite.ca/e/protein-innovation-shaping-the-future-of-mi…</a></p>

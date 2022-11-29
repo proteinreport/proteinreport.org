@@ -11,7 +11,7 @@ topics: [Business, Policy]
 regions: [US &amp; Canada]
 flags: [Featured]
 directory: [697, 698, 5808, 7109, 8333]
-contributors: [Avery Parkinson]
+contributors: [8107]
 images: [CAC Landscape Cover.jpg]
 draft: false
 pinned: false

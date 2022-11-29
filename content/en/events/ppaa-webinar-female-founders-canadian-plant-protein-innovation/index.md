@@ -18,7 +18,8 @@ end_date: 2020-10-14
 website: "https://www.eventbrite.com/e/ppaa-webinar-female-founders-in-canadian-food-innovation-tickets-118327654199"
 contributors: [shannonsnaden]
 draft: false
-weight: 
+weight: 5000
+uuid: 7725
 ---
 <p>Grab a cup of coffee and come hear the stories of three outstanding female entrepreneurs in the Canadian prairies. We will learn about how they got started, what they learned along the way, and how the rapidly growing demand for plant proteins plays a role. Each of the three founders brings a unique journey and perspective to the discussion.</p>
 <p><strong>About our speakers:</strong></p>

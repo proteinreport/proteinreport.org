@@ -29,7 +29,8 @@ end_date: 2021-04-14
 website: "https://bridge2food.com/webinars/virtual-exhibition-plant-based-foods-value-chain-americas"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8249
 ---
 <p>Join the only <strong>Virtual Exhibition Plant-Based Foods Value Chain in Americas </strong>dedicated to connecting:</p>
 <p>– Plant-Based Brands<br />

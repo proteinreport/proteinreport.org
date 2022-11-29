@@ -17,7 +17,8 @@ end_date: 2020-10-07
 website: "https://www.eventbrite.com/e/growth-series-crafting-a-brand-identity-for-vow-tickets-120153100157"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 7728
 ---
 <p>Join us for a discussion about branding one of Australia's hottest food tech startups with Vow cofounder Tim Noakesmith.</p>
 <p><strong>About this Event</strong></p>

@@ -16,6 +16,7 @@ end_date: 2021-05-26
 website: "https://us02web.zoom.us/webinar/register/2916101217315/WN_UTrLllq8Rsep2_bNxxqYtw"
 contributors: [Avery Parkinson]
 draft: false
-weight: 
+weight: 5000
+uuid: 8965
 ---
 <p>How can we develop edible scaffolds for cultivated meat production? Vegetables, such as spinach, have a network of vessels used to transport fluid throughout their tissues. Through decellularization, the plant cells can be removed while keeping these vessels intact. This provides a scaffold for growing bovine satellite cells that is edible and cost-effective. Join Dr. Glenn Gaudette, Professor &amp; Inaugural Chair of Engineering at Boston College, as he discusses how decellularized spinach can be used to support cell growth in a bioreactor setting.</p>

@@ -17,7 +17,8 @@ end_date: 2021-02-24
 website: "https://ws.eventact.com/seakura"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8367
 ---
 <p>Macro-algae is  the source of all plants, one of the healthiest and most nutritional foods on earth, they act as the primal source of food for all life on earth. Growing them on-land enables us to produce a premium product, clean, rich in protein, minerals, nutritional fibers, vitamins and antioxidants.</p>
 <p>Seakura is proud to invite you to the first conference with the best opinion leaders who will reveal the latest updates and innovations in this field. </p>

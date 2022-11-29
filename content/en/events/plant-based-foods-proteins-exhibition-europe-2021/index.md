@@ -20,7 +20,8 @@ end_date: 2021-06-09
 website: "https://bridge2food.com/webinars/virtual-exhibiton-plant-based-foods-value-chain-europe/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8253
 ---
 <p>Join the only <strong>Virtual Exhibition Plant-Based Foods Value Chain in Europe</strong></p>
 <p><strong>Unique Business Development</strong><br />

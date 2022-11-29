@@ -16,6 +16,7 @@ end_date: 2020-02-19
 website: "https://www.plantprotein-event.com/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 5926
 ---
 <p>As technical developments continue apace, what does the future hold for innovation in alternative proteins? Join FoodNavigator and an expert panel to find out in this free online event.</p>

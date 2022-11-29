@@ -16,7 +16,8 @@ end_date: 2020-06-10
 website: "https://www.emdgroup.com/en/research/innovation-center/news-and-events/all-events/from-bench-to-fork-the-science-behind-cultured-meat.html"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 6836
 ---
 <p>The global demand for meat is expected to rise nearly 70% by 2050. How can we feed this growing hunger for animal protein with less negative impact on the environment, human health and animal welfare? Cultured Meat – grown in a bioreactor instead of a farm – could be the answer. But what does it take to bring it to the dinner tables of consumers?</p>
 <p>To find out, join our first ever Innovators’ Club online edition, “From bench to fork: the science behind cultured meat”, with our expert keynote speakers: Liz Specht, Associate Director of Science &amp; Technology at The Good Food Institute, and Lavanya Anandan, Head of Innovation Field Clean Meat, Silicon Valley Innovation Hub of Merck KGaA, Darmstadt, Germany.</p>

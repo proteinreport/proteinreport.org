@@ -18,6 +18,7 @@ city: San Francisco
 website: "https://2019.cmsymp.com/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 438
 ---
 NA

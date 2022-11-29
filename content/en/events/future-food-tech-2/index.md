@@ -19,7 +19,8 @@ city: London
 website: "https://futurefoodtechlondon.com/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10707
 ---
 <p><strong>Designing Foods to Improve Human and Planetary Health</strong></p>
 <p>At a time of heightened fragility in the global agri-food supply chain, there has never been a more urgent need for food-tech innovation that protects both human and planetary health.</p>

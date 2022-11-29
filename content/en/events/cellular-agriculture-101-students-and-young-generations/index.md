@@ -16,6 +16,7 @@ end_date: 2020-07-09
 website: "https://us02web.zoom.us/webinar/register/WN_K9_lfNpuRqql0AuupLZHaw"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7226
 ---
 <p>Aleph Farms, The Knowledge Society, Cellular Agriculture Society and the Good Food Institute are hosting a panel about how can Gen Z get involved in high-impact technology-driven solutions that will change the future of food, and beyond.</p>

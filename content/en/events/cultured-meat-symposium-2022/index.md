@@ -19,7 +19,8 @@ city: San Francisco
 website: "https://www.eventbrite.com/e/cultured-meat-symposium-2022-tickets-272444176867"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10768
 ---
 <p>Join the cellular agriculture industry at the 5th edition of the <strong>Cultured Meat Symposium</strong>. This landmark event is taking place in Downtown San Francisco on Friday, October 28th and Saturday, October 29th.</p>
 <p><strong>Creativity + Commerce.</strong> The theme of CMS22 embraces the path to commercial scale as the industry matures.</p>

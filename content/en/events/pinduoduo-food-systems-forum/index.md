@@ -18,7 +18,8 @@ end_date: 2021-07-15
 website: "https://stories.pinduoduo-global.com/events/food-system"
 contributors: [dontan]
 draft: false
-weight: 
+weight: 5000
+uuid: 9079
 ---
 <p>The pandemic has shone a light on how fragile and intertwined our global agri-food supply chain is, making it even more pressing to push for food systems innovation and change. Can we leverage technology to build a more resilient food system that feeds more people and feeds them better?<br />
  <br />

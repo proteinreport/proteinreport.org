@@ -17,7 +17,8 @@ end_date: 2021-04-13
 website: "https://hopin.com/events/food-space-and-reimagination-041321"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8764
 ---
 <p>If we’re going to create new food systems, they have to improve on what we have and address the challenges we’ll likely face. Trends point to rising challenges and emerging opportunities - what’s a pipe dream vs what’s attainable?</p>
 <p>At Space for Food, we'll dive into alternative proteins, circular food/bio economies, controlled environment ag, microbial ag and systems, and the enabling tech and systems to make it all possible.</p>

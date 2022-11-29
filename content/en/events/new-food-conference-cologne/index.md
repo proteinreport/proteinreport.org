@@ -19,7 +19,8 @@ city: Cologne
 website: "https://www.new-food-conference.com/cologne"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8625
 ---
 <p><strong>Plant-based meets cellular agriculture: two complementary approaches towards a more resilient food system</strong></p>
 <p>We are on the cusp of one of the fastest and most consequential transformations of the food system since humans first started domesticating plants and animals. Sales of plant-based products are skyrocketing, while cellular agriculture and precision fermentation hold the potential to change the way we grow our food forever.</p>

@@ -19,7 +19,8 @@ end_date: 2020-12-11
 website: "https://www.culturedmeatconference.com/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7780
 ---
 <p>Since 2015, the Maastricht Conference has been the premier scientific meeting for the cultured meat research community. This year, we are bringing the same excellence and up-to-date content directly to your home. Register here to access engaging presentations and discussions science of cultured meat, as well as networking opportunities with speakers and other attendees. We look forward to seeing you on December 9-11!</p>
 <p><strong>Program</strong></p>

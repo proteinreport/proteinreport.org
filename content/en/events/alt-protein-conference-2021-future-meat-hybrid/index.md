@@ -17,7 +17,8 @@ end_date: 2021-09-09
 website: "https://hopin.com/events/the-future-of-meat-hybrid?code=ITy0Zw645hTz024HEgnqtQ1YW"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 9344
 ---
 <p>The Protein Directory and Cell Agri are proud to present the Alt Protein Conference 2021: ‘The Future of Meat: Hybrid’ with a focus on the new wave of companies transforming the future of meat.</p>
 <p>Join us for a 1-day virtual conference to learn how future food companies are combining the <em>best of both worlds</em> and creating hybrid meats with both cellular agriculture and plant-based alternative proteins.</p>

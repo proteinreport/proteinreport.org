@@ -16,6 +16,7 @@ end_date: 2021-02-10
 website: "https://www.eventbrite.com/e/deep-space-food-challenge-informational-webinar-tickets-138612312157"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8408
 ---
 <p>NASA, in coordination with the Canadian Space Agency and the Methuselah Foundation allied organization, along with a dynamic group of expert Challenge Collaborators will share an overview of the Deep Space Food Challenge and discuss eligibility and registration for competing teams.</p>

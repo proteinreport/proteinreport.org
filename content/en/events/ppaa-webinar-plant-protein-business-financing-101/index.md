@@ -22,7 +22,8 @@ end_date: 2020-12-02
 website: "https://www.eventbrite.com/e/ppaa-webinar-financing-101-tickets-126029657097"
 contributors: [shannonsnaden]
 draft: false
-weight: 
+weight: 5000
+uuid: 7989
 ---
 <p>Grab a cup of coffee and hear stories from our special guest speaker, Corey Keith, business coach and financing specialist at Keith &amp; Associates. Explore the different options for financing your company.</p>
 <p>He will be joined by entrepreneur Ahmad Yehya, president of Nabati Foods. The ambitious and fast-growing company of plant-based foods is based in Edmonton.</p>

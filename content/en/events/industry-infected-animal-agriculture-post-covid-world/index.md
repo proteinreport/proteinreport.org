@@ -20,7 +20,8 @@ end_date: 2020-06-03
 website: "https://www.fairr.org/article/an-industry-infected-animal-agriculture-in-a-post-covid-world/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7036
 ---
 <p>Join FAIRR for a webinar, launching our new report – An Industry Infected: Animal Agriculture in a Post-COVID World.</p>
 <p>We’ll discuss the material ESG risks and opportunities involved in intensive livestock production.</p>

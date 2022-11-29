@@ -18,7 +18,8 @@ end_date: 2020-12-14
 website: "https://2020.cell.ag/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7978
 ---
 <p><strong>2020 has been a big year for cellular agriculture.</strong></p>
 <p>From record investments to companies advancing the future of food, the cellular agriculture field continued to move forward to transform our food system. In spite of the devastating impact of the pandemic, companies continued to achieve milestone after milestone. </p>

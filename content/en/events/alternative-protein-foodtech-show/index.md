@@ -17,6 +17,7 @@ country: Singapore
 website: "https://www.kindearth.tech/singapore-2021"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 1116
 ---
 <p>The Alternative Protein &amp; FoodTech Show SINGAPORE unites inventors, scientists, food technologists, farmers and the industry players to make the future of food.</p>

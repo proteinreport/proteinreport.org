@@ -16,6 +16,7 @@ end_date: 2020-05-12
 website: "https://twitter.com/GoodFoodIndia/status/1255387208103723008"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 6757
 ---
 <p>Globally, plant-based milk is the most developed plant-based food category. However in India, dairy is inherent to our socio-economic &amp; cultural history. Learn how to navigate this and build a plant-based dairy brand in our next webinar ft Abhay Rangan &amp; Spurti Ravi of GoodMylk.</p>

@@ -16,6 +16,7 @@ end_date: 2021-12-09
 website: "https://2021.cell.ag/tickets/?coupon=PROTEINREPORT20"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 10047
 ---
 <p>CellAgri is excited to present the <strong>Cellular Agriculture: End of the Year Summit 2021</strong> to bring together leaders in the cellular agriculture field to highlight the field's achievements and accomplishments.</p>

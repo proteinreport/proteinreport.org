@@ -18,7 +18,8 @@ city: Copenhagen
 website: "https://cph-bioscience.com/en/events/microbial-foods"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10790
 ---
 <p><strong>About the conference</strong></p>
 <p>Our current food production system is associated with a number of global challenges: Foremost, food production is the single most important driver of global greenhouse gas emissions, responsible for substantial water and land use, environmental pollution and reduction in biodiversity. Second, animal farming is associated with zoonotic diseases, evolution and spread of antibiotic resistance and ethical concerns regarding animal welfare. Third, many non-communicable diseases and human deaths are a consequence of malnutrition – including hunger, overconsumption and consumption of highly processed foods. Fourth, many valuable resources within the food production system are discarded as about one third of the produced food ends as food waste or byproducts that are not considered for human consumption.</p>

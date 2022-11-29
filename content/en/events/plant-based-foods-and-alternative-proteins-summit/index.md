@@ -18,6 +18,7 @@ city: Valencia
 website: "http://www.curtiswyss.com/event/9"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8649
 ---
 <p>As the world's industries and governmental bodies are seeking novel and sustainable solutions, the supply and demand for protein alternative products is more relevant than ever. We are providing a multifunctional platform for foodservice professionals to discuss and share revolutionary insights as well as to address recent industry obstacles.</p>

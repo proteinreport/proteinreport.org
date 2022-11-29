@@ -16,6 +16,7 @@ end_date: 2021-04-22
 website: "http://www.cvent.com/events/penn-state-ingredion-plant-based-yogurt-alternative-short-course/event-summary-f6236e8d058f43928bebeb8f6e44ff5b.aspx"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8320
 ---
 <p>In this 3-day virtual short course, the class participants will be able to understand the difference and challenges in formulating yogurt alternatives versus traditional yogurts, understand the breadth and functionality or plant-proteins that are available for formulation, and take away a toolbox of solutions to formulating and processing in the yogurt alternative space.</p>

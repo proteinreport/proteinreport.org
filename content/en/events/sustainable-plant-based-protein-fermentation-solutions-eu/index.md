@@ -20,7 +20,8 @@ city: Rotterdam
 website: "https://www.cmtevents.com/aboutevent.aspx?ev=220928"
 contributors: [hani]
 draft: false
-weight: 
+weight: 5000
+uuid: 11109
 ---
 <p><strong>Promising proteins from fava beans, mycelium, sunflower to algae - Taste, texturisation &amp; supply challenges</strong></p>
 <p>Shift towards plant-based &amp; meat alternatives protein continues to play a major role in human nutrition. </p>

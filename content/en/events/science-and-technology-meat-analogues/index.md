@@ -16,6 +16,7 @@ end_date: 2021-03-04
 website: "https://www.wur.nl/en/activity/Conference-Science-and-Technology-for-Meat-Analogues.htm"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8456
 ---
 <p>This international scientific Conference will present the latest research insights and findings related to the technology for the production of fibrous, plant-based materials on nano- to macro-scale, resembling the structure, the fibrous texture and the juiciness of meat better than commercially available products.</p>

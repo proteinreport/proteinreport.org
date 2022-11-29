@@ -17,7 +17,8 @@ end_date: 2020-06-25
 website: "https://us02web.zoom.us/webinar/register/WN_mNRr2PtTSwS6bTeF_v2swg"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7148
 ---
 <p>With global seafood demand projected to rise over the coming decades and sustainable seafood production unable to keep pace, the opportunities for plant-based and cultivated seafood development and commercialization are endless. Join the Good Food Institute and Changing Tastes for a webinar on alternative seafood.</p>
 <p>GFI will discuss the need for new seafood production systems and how plant-based and cultivated products can fill in the looming supply gaps. We will then discuss the current market landscape of both plant-based and cultivated seafood.</p>

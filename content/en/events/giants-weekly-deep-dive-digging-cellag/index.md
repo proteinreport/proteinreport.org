@@ -17,7 +17,8 @@ end_date: 2021-03-02
 website: "https://blackbird-vc.zoom.us/webinar/register/WN_N3eupY3wSma-71evvKFrIw"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8482
 ---
 <p>Join us to dig into the world of cell agriculture! We've called on founders and leaders from the industry to discuss the ANZ landscape, early signals and traction from the industry and the possibilities informed by a more sustainable future of food.</p>
 <p><strong>Panellists:</strong></p>

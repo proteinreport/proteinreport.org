@@ -17,7 +17,8 @@ end_date: 2020-06-30
 website: "https://algaeworkshops.org/algae-based-fish-and-meat/"
 contributors: [alexandramosch]
 draft: false
-weight: 
+weight: 5000
+uuid: 6968
 ---
 <p>The European Algae Biomass Association (EABA) aims to promote a strong link between <strong>science, technology and business</strong> in the algae biomass sector.</p>
 <p>Due to their high CO2 absorption, being grown in water and providing for a beneficial nutritional profile, algae-based alternative fish and meat applications are very important. In our technical webinar we will bring together the main stakeholders for knowledge exchange and to foster collaboration.</p>

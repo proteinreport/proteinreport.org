@@ -17,7 +17,8 @@ end_date: 2020-07-22
 website: "https://www.plugandplaytechcenter.com/events/alternative-proteins-webinar/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7296
 ---
 <p>The alternative protein industry is in the midst of rapid development. When some of the world’s leading food manufacturers and restaurants start focusing on alternative proteins, it’s clear that there is a major shift afoot. </p>
 <p>As consumers show more enthusiasm and companies reach milestones like building the first pilot production facilities for cell-based meat, how will the new economic landscape have impacted the future of this segment?</p>

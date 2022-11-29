@@ -19,7 +19,8 @@ city: Davis
 website: "https://registration.ucdavis.edu/Item/Details/860"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 11121
 ---
 <p><strong>Monday, September 12, 8:30am-5:00pm PT:</strong> <u>Cultured Meat and Alternative Proteins Summit</u> (in-person and virtual attendance options).  Learn more about this cutting-edge field from leaders in academia, government, and private industry who, together, are advancing research and development to break down the barriers to commercialization.</p>
 <p>Register here by 9/9/22: <u><a href="https://registration.ucdavis.edu/Item/Details/860">https://registration.ucdavis.edu/Item/Details/860</a></u></p>

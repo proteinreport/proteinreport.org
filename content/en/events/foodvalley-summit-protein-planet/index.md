@@ -18,6 +18,7 @@ city: Wageningen
 website: "https://www.foodvalley.nl/event/foodvalley-summit-the-protein-planet/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 1125
 ---
 <p>The Foodvalley Summit offered food and agri companies with focus on protein an excellent platform to showcase their brand, launch new products, expand relationships and engage with food producers, growers, breeders, investors, research institutes and the government.</p>

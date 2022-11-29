@@ -16,7 +16,8 @@ end_date: 2020-11-20
 website: "https://sustainablefoodsconference.com"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 7846
 ---
 <p>In today’s world it is more important than ever for senior food executives, entrepreneurs, investors, and technology providers to fast-track the adoption of sustainable food systems. The COVID-19 pandemic has highlighted the limits of the global food industry, stressing the need to address topics such as food security, tackling food waste, re-imagining agriculture, and diversifying sources of protein.</p>
 <p>For this year’s Sustainable Foods Conference in November we are going virtual, connecting delegates around the world to participate in high-level food sustainability discussions that could benefit both people and planet.</p>

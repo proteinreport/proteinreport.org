@@ -18,7 +18,8 @@ end_date: 2020-05-06
 website: "https://docs.google.com/forms/d/e/1FAIpQLSd-iy6DUs1doH2gFQr_R1jw9sdCwmTqopZm8WRyT2BCNBsCWg/viewform"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 6814
 ---
 <p>Webinar on the European cellular agriculture scene.</p>
 <p>Topic 1: The European Cellular Agriculture Scene: who are active now and where are we missing activity? with Alexander Holst</p>

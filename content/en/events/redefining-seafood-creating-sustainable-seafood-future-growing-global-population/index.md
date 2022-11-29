@@ -16,7 +16,8 @@ end_date: 2020-10-07
 website: "https://sustainablebrands.com/events/view/redefining-seafood-creating-a-sustainable-seafood-future-for-a-growing-global-population"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7732
 ---
 <p>Using the seafood industry as a model, this webinar will explore how brands can leverage collaboration with traditional and non-traditional partners to pivot their business model to redefine sustainability in their industry.</p>
 <p>The world’s oceans represent 70% of the earth’s surface, the livelihoods of more than 40 million people, and the primary source of nutrition for billions. They play a critical role in the health of our planet as well as our ability to feed the growing population. The challenges of the global pandemic have only amplified the need for companies to address the impact of their actions on people, food systems, labor and the planet – and oceans are a huge part of that.</p>

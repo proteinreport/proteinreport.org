@@ -16,6 +16,7 @@ end_date: 2021-03-16
 website: "https://us02web.zoom.us/webinar/register/WN_-QX6n67jSi-MK2F_51uL1w"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8522
 ---
 <p>Sustainable seaweed cultivation has the potential to play a key role in expanding our planet's protein supply to meet growing global demand. Join GFI for a Seafood Webinar and Informal Mixer (SWIM) event on March 16 on the role of macroalgae in alternative meat and seafood. We will start with a panel discussion between seasoned experts in seaweed cultivation, processing, and alternative protein production about the opportunities and barriers to building all three industry segments in parallel. We will then move to an optional networking session to build bridges and identify opportunities for collaboration.</p>

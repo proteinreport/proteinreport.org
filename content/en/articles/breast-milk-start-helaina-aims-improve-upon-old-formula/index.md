@@ -11,7 +11,7 @@ topics: [Business, Health]
 regions: [US &amp; Canada]
 flags: [Editors&#039; Picks, Featured]
 directory: [1249, 6178, 7022]
-contributors: [Samantha Sanders]
+contributors: [8110]
 images: [Helaina Team.jpg]
 draft: false
 pinned: false

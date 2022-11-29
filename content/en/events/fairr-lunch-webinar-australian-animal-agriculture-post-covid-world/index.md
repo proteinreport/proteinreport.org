@@ -20,7 +20,8 @@ end_date: 2020-06-25
 website: "https://us02web.zoom.us/webinar/register/WN_GQossz0ATi2m1EJNie11IA"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7139
 ---
 <p>Join us over lunch to discuss the impact of COVID-19 on Australian Animal Agriculture, including:</p>
 <p>1. The role that intensive animal agriculture plays in increasing zoonotic disease risk.</p>

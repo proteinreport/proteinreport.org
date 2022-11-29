@@ -17,7 +17,8 @@ end_date: 2021-04-13
 website: "https://hopin.com/events/1-1-networking-for-good-food-scientists"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8677
 ---
 <p>Welcome to The Good Food Institute’s virtual networking session for scientists working in alternative proteins! </p>
 <p>The event will start with brief remarks from GFI's Director of Science and Technology, Liz Specht, Ph.D. The networking sessions will begin following these remarks. The event will also feature topic-focused session rooms that you can visit anytime you want a break from networking.</p>

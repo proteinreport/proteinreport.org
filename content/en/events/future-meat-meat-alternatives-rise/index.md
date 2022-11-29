@@ -16,6 +16,7 @@ end_date: 2020-05-15
 website: "https://zoom.us/webinar/register/WN_je3SqUKmQY6iluLAOoOGXw"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 6849
 ---
 <p>Meat alternatives mount a tremendous challenge to the status quo of the industry, both in terms of quality of product and impact on the environment. To bring this exciting trend to the attention of our audience we have invited two up-and-coming players from the industry. The Swiss start-up Planted Foods will introduce us to the advantages of plant-based meat. We also have invited Avant Meats from Hong Kong, which produces meat using stem cells.</p>

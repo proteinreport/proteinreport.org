@@ -18,6 +18,7 @@ city: Berlin
 website: "https://www.new-food-conference.com/berlin"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 440
 ---
 <p>The New Food Conference is a unique, industry-oriented event that aims to accelerate and empower these innovative food technologies by bringing together key stakeholders. It is Europe’s first and biggest conference on new-protein solutions.</p>

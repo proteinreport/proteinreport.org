@@ -17,7 +17,8 @@ end_date: 2022-03-17
 website: "https://www.eventbrite.ca/e/cellular-agriculture-with-dr-tejeda-saldana-tickets-290198951877"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10531
 ---
 <p>With the growing threat of climate change, sustainable development has become more and more critical to our modern society. Researchers all over the globe have been working non-stop, trying to find a way to meet continuous human demands, such as food, while conserving our limited resources.</p>
 <p>For that reason, The Chemical Institute of Canada, Toronto Section (CICTor) is excited to have Dr. Tejeda-Saldana from New Harvest give us a talk on Cellular Agriculture on Thursday, March 17th, 2021, from 6:00 to 7:00 PM EDT.</p>

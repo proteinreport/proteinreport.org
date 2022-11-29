@@ -20,7 +20,8 @@ end_date: 2020-11-25
 website: "https://www.eventbrite.com/e/ppaa-webinar-fractionation-101-tickets-126022002201"
 contributors: [shannonsnaden]
 draft: false
-weight: 
+weight: 5000
+uuid: 7988
 ---
 <p>Grab a cup of coffee and hear stories from our special guest speakers, Trevor Pizzey President &amp; Principal Consultant of anCeres Processing Solutions Ltd. and Chance Barkley of Can Seed Equipment Ltd. Plant-ingredient processing offers a global opportunity with a realistic path to economic diversification. Explore the value-added processing of crops such as pulses, canola and hemp.</p>
 <p>This one-hour webinar is organized by the Plant Protein Alliance of Alberta.</p>

@@ -16,7 +16,8 @@ end_date: 2020-08-26
 website: "https://nutritionfacts.org/webinar/human-health-implications-of-cultivated-meat/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7348
 ---
 <p>In my new book <a href="https://nutritionfacts.org/how-to-survive-a-pandemic/">How to Survive a Pandemic</a> and my last <a href="https://drgreger.org/collections/downloads/products/how-to-survive-a-pandemic-digital">COVID-19 Webinar</a> I marveled at the constellation of new consumer choices in the dairy and meat aisle helping to innovate us out of our precarious situation with regards to the pandemic threats posed by animal agriculture. Plant-based meats, milks, and egg products—as well as even more pioneering approaches involving cellular agriculture—could also offer enormous benefits for the climate crisis. But what are the nutritional and personal human health effects of eating products like Beyond Meat and the Impossible Burger, or even actual animal products grown without the animals?</p>
 <p>I did a deep dive and crafted a dozen videos on the topic that I’m going to unveil in a 2-hour live webinar with Q&amp;A at 2pm ET on August 26th:</p>

@@ -19,7 +19,8 @@ end_date: 2022-06-29
 website: "https://events.hubilo.com/future-of-protein-production-webinar-series-june/register"
 contributors: [seb]
 draft: false
-weight: 
+weight: 5000
+uuid: 10950
 ---
 <p>June 29th, 1:00 pm CET - 3:00 PM CET.</p>
 <p>In this webinar, we will hear about the latest in colours and flavourings for alternative products. Industry leaders will share their knowledge of current and emerging technologies.</p>

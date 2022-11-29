@@ -16,7 +16,8 @@ end_date: 2021-06-11
 website: "https://bridge2food.com/webinars/virtual-summit-plant-based-foods-europe/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8254
 ---
 <p>Join the only <strong>Virtual Summit Plant-Based Foods &amp; Proteins Europe</strong> dedicated to connecting plant-based brands with the value chain including retailers, foodservice professionals, food manufacturers, ingredient suppliers, and other service providers such as packaging, market, and brand agencies!</p>
 <p><strong>Unique Networking during the Virtual Summit Plant-Based Foods &amp; Proteins Europe!</strong><br />

@@ -32,7 +32,8 @@ city: London
 website: "https://www.futurefoodsystems.co/in-person-event"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10328
 ---
 <p>We’re giving you the chance to re-imagine the current food system in this special post-summit think-in on 2 March.</p>
 <p>Led by advisor, speaker, and sustainable business commentator Mike Barry, the think-in will bring together a unique combination of participants from across the value chain.</p>

@@ -18,7 +18,8 @@ end_date: 2021-03-12
 website: "https://futurefoodtechsf.com/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7946
 ---
 <p><strong>Moonshot Solutions for a Food System Under Stress</strong></p>
 <p>Our food system is undergoing a revolution. Covid-19 and the threat of climate change are driving unprecedented demand for more efficient, nutritious and sustainable solutions.</p>

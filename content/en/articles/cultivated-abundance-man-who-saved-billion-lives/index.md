@@ -11,7 +11,7 @@ topics: [Business, Sci-Tech]
 regions: [International]
 flags: [Book Excerpt, Featured]
 directory: []
-contributors: [Mihir Pershad]
+contributors: [8112]
 images: [wheat_polina-rytova-1dGMs4hhcVA-unsplash.jpg]
 draft: false
 pinned: false

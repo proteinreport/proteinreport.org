@@ -17,7 +17,8 @@ end_date: 2022-04-20
 website: "https://www.eventbrite.ca/e/the-plant-based-investment-opportunity-tickets-272811395227"
 contributors: [shannonsnaden]
 draft: false
-weight: 
+weight: 5000
+uuid: 10525
 ---
 <p>Plant-based foods are key to meeting our climate goals.</p>
 <p><a href="https://bridge2food.com/">Bridge2Food</a> and <a href="https://plantbasedfoodalliance.eu/">European Alliance for Plant-Based Foods (EAPF)</a> are proud to lead a coalition of 60 organisations calling for increased research funding for plant-based foods. This is essential to accelerate the shift to sustainable &amp; healthy food systems.</p>

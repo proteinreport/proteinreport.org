@@ -18,7 +18,8 @@ end_date: 2020-05-20
 website: "https://www.facebook.com/events/273039733861556/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 6758
 ---
 <p>Academia and cellular agriculture</p>
 <p>Topic 1: How to convert existing knowledge and infrastructure to cellular agriculture? with Tom Ben-Arye</p>

@@ -18,6 +18,7 @@ city: Maastricht
 website: "https://www.culturedmeatconference.com/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 11112
 ---
 <p>Abstract submissions due August 14!</p>

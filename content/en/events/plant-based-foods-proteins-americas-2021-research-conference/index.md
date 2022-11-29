@@ -18,7 +18,8 @@ end_date: 2021-10-20
 website: "https://bridge2food.com/webinars/virtual-research-conference-plant-based-foods-proteins-americas/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8256
 ---
 <p>Join the<strong> Research Conference Plant-Based Foods &amp; Proteins </strong>dedicated to connecting researchers (Post-Doc, Ph.D., MSc, Associate Professors &amp; Professors) working on plant-based foods, ingredients, technologies, and crops with each other.</p>
 <p>Researchers from all around the world can join this fantastic conference programme.</p>

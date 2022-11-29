@@ -16,6 +16,7 @@ end_date: 2021-06-17
 website: "https://algaeworkshops.org/algae-workshops/novel-proteins-and-applications-from-algae-biomass/"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 8670
 ---
 NA

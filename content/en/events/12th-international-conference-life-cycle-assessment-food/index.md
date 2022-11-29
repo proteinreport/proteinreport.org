@@ -18,6 +18,7 @@ city: Berlin
 website: "https://lcafood2020.com/"
 contributors: [proteinreport]
 draft: false
-weight: 
+weight: 5000
+uuid: 6027
 ---
 <p>The International Conference on Life Cycle Assessment of Food is the leading conference series on sustainability of food systems worldwide. Every second year it unites 400+ scholars and practitioners from 40+ countries working in academia, industry, and public institutions.</p>

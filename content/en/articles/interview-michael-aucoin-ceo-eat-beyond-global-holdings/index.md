@@ -11,7 +11,7 @@ topics: [Business]
 regions: [US &amp; Canada]
 flags: [Interview, Video, Featured]
 directory: [234, 694, 695, 5816, 7964]
-contributors: [Doug Grant]
+contributors: [8172]
 images: []
 draft: false
 pinned: false

@@ -11,7 +11,7 @@ topics: [Business, Culture]
 regions: [US &amp; Canada]
 flags: [Interview, Featured]
 directory: [697, 698, 699, 6600, 7109, 7131]
-contributors: [Editor, Avery Parkinson]
+contributors: [8106, 8107]
 images: [avery1.jpg]
 draft: false
 pinned: false

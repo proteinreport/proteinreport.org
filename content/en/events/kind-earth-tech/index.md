@@ -16,7 +16,8 @@ end_date: 2020-11-20
 website: "https://www.kindearth.tech/ketvirtual2020"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7980
 ---
 <p><strong>Why attend KET’s virtual event on kind earth tech and future food?!</strong></p>
 <ul>

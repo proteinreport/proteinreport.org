@@ -17,7 +17,8 @@ end_date: 2020-09-03
 website: "https://w.tame.events/e/144103307"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 7245
 ---
 <p>The Protein Directory and Cell Agri are proud to present the Alt Protein Conference 2020 with a focus on the <em>new wav</em>e of future food companies <em>transforming</em> the business of tomorrow.</p>
 <p>Join us for a 2-day virtual conference to learn about the latest business trends and best practices to transform the <em>future of food</em> with cellular agriculture and plant-based alternative proteins.</p>

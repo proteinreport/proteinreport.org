@@ -18,7 +18,8 @@ country: Singapore
 website: "https://www.cmtevents.com/aboutevent.aspx?ev=220208"
 contributors: [NL]
 draft: false
-weight: 
+weight: 5000
+uuid: 10294
 ---
 <p>As technology advances for cell based protein production , can it disrupt the global meat/seafood market? CMT has lined up a top panel of speakers/experts and promising start ups that will share new developments, advancing cell-based protein for commercial global production.</p>
 <p>Join us at this Hybrid conference in Singapore or Virtually.</p>
