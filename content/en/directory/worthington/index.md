@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">David smith Lane</span><br>
 <span class="locality">Ooltewah</span>, <span class="postal-code">37363</span><br>
 <span class="country">United States</span></p>]

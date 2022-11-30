@@ -3,7 +3,7 @@ title: "European Alliance for Plant-based Foods"
 date: 2020-09-28 18:39:12
 lastmod: 2020-09-28 18:39:12
 slug: /european-alliance-plant-based-foods
-description: "The European Alliance for Plant-Based Foods (EAPF) brings together like-minded organisations in the plant-based value chain around a unique mission: To put plant-based foods at the heart of the transition towards more sustainable and healthy food systems. The Alliance represents the entire plant-based value chain: Food producers and manufacturers, NGOs, nutritionists, research &amp; academia, and consumers."
+description: "The European Alliance for Plant-Based Foods (EAPF) brings together like-minded organisations in the plant-based value chain around a unique mission: To put plant-based foods at the heart of the transition towards more sustainable and healthy food systems. The Alliance represents the entire plant-based value chain: Food producers and manufacturers, NGOs, nutritionists, research & academia, and consumers."
 proteins: [Plant-Based]
 products: []
 business: [Nonprofit]
@@ -19,4 +19,4 @@ homepage: false
 weight: 5000
 uuid: 7723
 ---
-<p>The European Alliance for Plant-Based Foods (EAPF) brings together like-minded organisations in the plant-based value chain around a unique mission: To put plant-based foods at the heart of the transition towards more sustainable and healthy food systems. The Alliance represents the entire plant-based value chain: Food producers and manufacturers, NGOs, nutritionists, research &amp; academia, and consumers.</p>
+<p>The European Alliance for Plant-Based Foods (EAPF) brings together like-minded organisations in the plant-based value chain around a unique mission: To put plant-based foods at the heart of the transition towards more sustainable and healthy food systems. The Alliance represents the entire plant-based value chain: Food producers and manufacturers, NGOs, nutritionists, research & academia, and consumers.</p>

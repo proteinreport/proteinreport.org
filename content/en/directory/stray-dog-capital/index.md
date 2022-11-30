@@ -8,7 +8,7 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">West 90th Street</span><br>
 <span class="locality">Leawood</span>, <span class="postal-code">66206</span><br>
 <span class="country">United States</span></p>]

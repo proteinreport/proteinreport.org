@@ -9,7 +9,7 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Georgiou &#039;A</span><br>
+location: [<p class="address" translate="no"><span class="address-line1">Georgiou 'A</span><br>
 <span class="locality">Limassol</span><br>
 <span class="country">Cyprus</span></p>]
 images: ["Green Vie logo.png"]

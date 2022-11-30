@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Latin America &amp; Caribbean]
+regions: [Latin America & Caribbean]
 location: [<p class="address" translate="no"><span class="address-line1">Avenida Almirante Barroso</span><br>
 <span class="postal-code">20221-260</span><br>
 <span class="country">Brazil</span></p>]

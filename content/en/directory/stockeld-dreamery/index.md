@@ -3,7 +3,7 @@ title: "Stockeld Dreamery"
 date: 2020-01-23 17:50:52
 lastmod: 2020-01-23 17:50:52
 slug: /stockeld-dreamery
-description: "Creating the world&#039;s most ambitious cheese."
+description: "Creating the world's most ambitious cheese."
 proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
@@ -19,4 +19,4 @@ homepage: false
 weight: 5000
 uuid: 5732
 ---
-<p>Creating the world&#039;s most ambitious cheese.</p>
+<p>Creating the world's most ambitious cheese.</p>

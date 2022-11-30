@@ -8,7 +8,7 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">North Claiborne Avenue</span><br>
 <span class="locality">New Orleans</span>, <span class="postal-code">70112</span><br>
 <span class="country">United States</span></p>]

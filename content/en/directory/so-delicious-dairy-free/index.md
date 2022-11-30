@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Denver</span>,<br>
 <span class="country">United States</span></p>]
 images: ["SoDelicious_Logo.png"]

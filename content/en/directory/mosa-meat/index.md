@@ -3,7 +3,7 @@ title: "Mosa Meat"
 date: 2020-01-23 18:09:58
 lastmod: 2020-01-23 18:09:58
 slug: /mosa-meat
-description: "Startup working on cultivated beef in collaboration with Mark Post at Maastricht University. Since Post produced the first clean burger in 2013, the company&#039;s focus is on affordability and scalability."
+description: "Startup working on cultivated beef in collaboration with Mark Post at Maastricht University. Since Post produced the first clean burger in 2013, the company's focus is on affordability and scalability."
 proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
@@ -19,4 +19,4 @@ homepage: false
 weight: 5000
 uuid: 5820
 ---
-<p>Startup working on cultivated beef in collaboration with Mark Post at Maastricht University. Since Post produced the first clean burger in 2013, the company&#039;s focus is on affordability and scalability.</p>
+<p>Startup working on cultivated beef in collaboration with Mark Post at Maastricht University. Since Post produced the first clean burger in 2013, the company's focus is on affordability and scalability.</p>

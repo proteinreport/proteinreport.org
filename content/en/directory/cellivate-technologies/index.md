@@ -5,7 +5,7 @@ lastmod: 2021-05-20 09:52:33
 slug: /cellivate-technologies
 description: "The engineering of cells has the potential to enormously revolutionise medicine, drug discovery and even the future of food. However, they are inhibited due to the complications with culturing cells. Cellivate Technologies has developed a patented nanotechnology to address this problem. They have discovered that different oxide chemistries enable cells to adhere better and accelerate their growth, while maintaining vital cellular markers."
 proteins: [Cell-Based]
-products: [Scaffolding &amp; Structure, Technology &amp; Equipment]
+products: [Scaffolding & Structure, Technology & Equipment]
 business: [Production]
 finance_type: []
 regions: [Asia]

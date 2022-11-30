@@ -5,7 +5,7 @@ lastmod: 2021-05-19 11:29:53
 slug: /gelatex
 description: "Gelatex is a materials technology startup that is specialized in innovating bio-based nanofibrous materials and nanofiber production technologies. Compared to electrospinning, their technology enables over 90% cheaper nanofiber production for applications such as tissue engineering, cultured meat, drug discovery, wound care, energy storage, filtration, and more."
 proteins: [Cell-Based]
-products: [Scaffolding &amp; Structure]
+products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
 regions: [Europe]

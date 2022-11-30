@@ -8,7 +8,7 @@ proteins: [Microbial, Fungi]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Chicago</span>,<br>
 <span class="country">United States</span></p>]
 images: ["Natures Fynd Logo Square Transparent.png"]

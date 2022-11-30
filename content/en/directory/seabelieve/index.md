@@ -1,5 +1,5 @@
 ---
-title: "Sea&amp;Believe"
+title: "Sea&Believe"
 date: 2022-02-21 11:38:30
 lastmod: 2022-02-21 11:38:30
 slug: /seabelieve
@@ -9,7 +9,7 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Taylor&#039;s Lane</span><br>
+location: [<p class="address" translate="no"><span class="address-line1">Taylor's Lane</span><br>
 <span class="locality">Dublin 8</span><br>
 <span class="administrative-area">County Dublin</span><br>
 <span class="country">Ireland</span></p>]

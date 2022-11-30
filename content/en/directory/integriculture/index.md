@@ -5,7 +5,7 @@ lastmod: 2020-01-23 18:09:58
 slug: /integriculture
 description: "IntegriCulture is a startup creating full-stack cellular agriculture and leading an open-source movement."
 proteins: [Cell-Based]
-products: [Meat, Ingredients, Technology &amp; Equipment]
+products: [Meat, Ingredients, Technology & Equipment]
 business: [Production]
 finance_type: []
 regions: [Asia]

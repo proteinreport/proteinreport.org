@@ -3,7 +3,7 @@ title: "Eatable Adventures"
 date: 2022-06-08 09:07:34
 lastmod: 2022-06-08 09:07:34
 slug: /eatable-adventures
-description: "Eatable Adventures connects the most disruptive food startups with corporations and investors, developing the right collaborations with a mission: building tomorrow&#039;s food companies."
+description: "Eatable Adventures connects the most disruptive food startups with corporations and investors, developing the right collaborations with a mission: building tomorrow's food companies."
 proteins: []
 products: []
 business: [Finance]
@@ -19,4 +19,4 @@ homepage: false
 weight: 5000
 uuid: 10963
 ---
-<p>Eatable Adventures connects the most disruptive food startups with corporations and investors, developing the right collaborations with a mission: building tomorrow&#039;s food companies.</p>
+<p>Eatable Adventures connects the most disruptive food startups with corporations and investors, developing the right collaborations with a mission: building tomorrow's food companies.</p>

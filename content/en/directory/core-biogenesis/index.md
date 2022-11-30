@@ -3,9 +3,9 @@ title: "Core Biogenesis"
 date: 2021-01-25 16:43:21
 lastmod: 2021-01-25 16:43:21
 slug: /core-biogenesis
-description: "Core Biogenesis is building the world&#039;s most scalable bioproduction platform."
+description: "Core Biogenesis is building the world's most scalable bioproduction platform."
 proteins: [Microbial]
-products: [Technology &amp; Equipment]
+products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 regions: [Europe]
@@ -19,4 +19,4 @@ homepage: false
 weight: 5000
 uuid: 8335
 ---
-<p>Core Biogenesis is building the world&#039;s most scalable bioproduction platform.</p>
+<p>Core Biogenesis is building the world's most scalable bioproduction platform.</p>

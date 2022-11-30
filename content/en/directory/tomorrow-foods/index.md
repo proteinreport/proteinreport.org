@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Latin America &amp; Caribbean]
+regions: [Latin America & Caribbean]
 location: [<p class="address" translate="no"><span class="address-line1">Castelli</span><br>
 <span class="locality">Pergamino</span><br>
 <span class="country">Argentina</span></p>]

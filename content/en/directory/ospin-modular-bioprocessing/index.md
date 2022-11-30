@@ -5,7 +5,7 @@ lastmod: 2020-01-23 18:10:01
 slug: /ospin-modular-bioprocessing
 description: "Startup providing bioreactor systems for cultivated meat and tissue engineering uses"
 proteins: [Cell-Based]
-products: [Technology &amp; Equipment]
+products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 regions: [Europe]

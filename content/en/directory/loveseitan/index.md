@@ -3,7 +3,7 @@ title: "LoveSeitan"
 date: 2020-01-23 17:50:57
 lastmod: 2020-01-23 17:50:57
 slug: /loveseitan
-description: "Wholesale seitan suppliers LoveSeitan are the UK’s leading manufacturer of seitan products. Supplying wholesalers, distributors, restaurants, cafes &amp; retail."
+description: "Wholesale seitan suppliers LoveSeitan are the UK’s leading manufacturer of seitan products. Supplying wholesalers, distributors, restaurants, cafes & retail."
 proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
@@ -20,4 +20,4 @@ homepage: false
 weight: 5000
 uuid: 5771
 ---
-Wholesale seitan suppliers LoveSeitan are the UK’s leading manufacturer of seitan products. Supplying wholesalers, distributors, restaurants, cafes <span class="amp">&amp;</span> retail.
+Wholesale seitan suppliers LoveSeitan are the UK’s leading manufacturer of seitan products. Supplying wholesalers, distributors, restaurants, cafes <span class="amp">&</span> retail.

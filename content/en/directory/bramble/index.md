@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Pet Food]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Cortlandt Alley</span><br>
 <span class="locality">New York</span>, <span class="postal-code">10013</span><br>
 <span class="country">United States</span></p>]

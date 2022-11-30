@@ -8,7 +8,7 @@ proteins: [Microbial, Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Barrington Street</span><br>
 <span class="locality">Halifax</span> <span class="postal-code">B3J 1Z6</span><br>
 <span class="country">Canada</span></p>]

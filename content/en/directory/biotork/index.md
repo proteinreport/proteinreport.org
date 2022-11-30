@@ -8,7 +8,7 @@ proteins: [Microbial, Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Southeast Hawthorne Road</span><br>
 <span class="locality">Gainesville</span>, <span class="postal-code">32641</span><br>
 <span class="country">United States</span></p>]

@@ -5,7 +5,7 @@ lastmod: 2021-06-14 20:03:47
 slug: /seawith
 description: "Seawith is a Korean company that is using algae as a raw material in cell media and scaffolding in order to produce cultivated beef."
 proteins: [Cell-Based, Algae]
-products: [Meat, Cell Culture Media, Scaffolding &amp; Structure]
+products: [Meat, Cell Culture Media, Scaffolding & Structure]
 business: [Production]
 finance_type: []
 regions: [Asia]

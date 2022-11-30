@@ -3,7 +3,7 @@ title: "BioFood Systems"
 date: 2020-01-23 18:09:58
 lastmod: 2020-01-23 18:09:58
 slug: /biofood-systems
-description: "Startup working on culturing meat using bovine embryonic stem cells in a disruptive, cost-effective process, following the meat industry to supply healthy ,”green”, &amp; slaughter free beef products, for the ever growing&nbsp;population"
+description: "Startup working on culturing meat using bovine embryonic stem cells in a disruptive, cost-effective process, following the meat industry to supply healthy ,”green”, & slaughter free beef products, for the ever growing&nbsp;population"
 proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
@@ -19,4 +19,4 @@ homepage: false
 weight: 5000
 uuid: 5814
 ---
-<p>Startup working on culturing meat using bovine embryonic stem cells in a disruptive, cost-effective process, following the meat industry to supply healthy ,”green”, <span class="amp">&amp;</span> slaughter free beef products, for the ever growing&nbsp;population</p>
+<p>Startup working on culturing meat using bovine embryonic stem cells in a disruptive, cost-effective process, following the meat industry to supply healthy ,”green”, <span class="amp">&</span> slaughter free beef products, for the ever growing&nbsp;population</p>

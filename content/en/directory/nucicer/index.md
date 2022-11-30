@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">3rd Street 615</span><br>
 <span class="locality">Davis</span>, <span class="administrative-area">California</span> <span class="postal-code">95616</span><br>
 <span class="country">United States</span></p>]

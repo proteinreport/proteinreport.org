@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Glenwood Avenue</span><br>
 <span class="locality">Minneapolis</span>, <span class="postal-code">55405</span><br>
 <span class="country">United States</span></p>]

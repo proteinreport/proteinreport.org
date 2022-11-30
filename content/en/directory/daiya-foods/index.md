@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Rupert Street</span><br>
 <span class="locality">Vancouver</span> <span class="postal-code">V5M 3T7</span><br>
 <span class="country">Canada</span></p>]

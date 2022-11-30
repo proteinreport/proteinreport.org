@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Seafood]
 business: [Nonprofit]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Washington</span>, <span class="postal-code">20036</span><br>
 <span class="country">United States</span></p>]
 images: ["amps.png"]

@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe, US &amp; Canada]
+regions: [Europe, US & Canada]
 location: [<p class="address" translate="no"><span class="locality">London</span><br>
 <span class="postal-code">of Freedom#8573311~!#</span><br>
 <span class="country">United Kingdom</span></p>]

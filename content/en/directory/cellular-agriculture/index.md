@@ -3,7 +3,7 @@ title: "Cellular Agriculture"
 date: 2020-01-14 14:56:22
 lastmod: 2020-01-14 14:56:22
 slug: /cellular-agriculture
-description: "Cell Ag Ltd was founded in early 2016 as the first UK startup in the cell-based meat space.&amp;nbsp;An extensive research and development program looks to deliver scaled technology for multi species cell-based meat technology."
+description: "Cell Ag Ltd was founded in early 2016 as the first UK startup in the cell-based meat space.&nbsp;An extensive research and development program looks to deliver scaled technology for multi species cell-based meat technology."
 proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
@@ -19,4 +19,4 @@ homepage: false
 weight: 5000
 uuid: 1271
 ---
-<p>Cell Ag Ltd was founded in early 2016 as the first UK startup in the cell-based meat space.&amp;nbsp;An extensive research and development program looks to deliver scaled technology for multi species cell-based meat technology.</p>
+<p>Cell Ag Ltd was founded in early 2016 as the first UK startup in the cell-based meat space.&nbsp;An extensive research and development program looks to deliver scaled technology for multi species cell-based meat technology.</p>

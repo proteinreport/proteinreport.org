@@ -10,7 +10,7 @@ business: [Production]
 finance_type: []
 regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">HaKidma Street</span><br>
-<span class="locality">Yokne&#039;am Illit</span><br>
+<span class="locality">Yokne'am Illit</span><br>
 <span class="country">Israel</span></p>]
 images: ["NextFerm logo.png"]
 draft: false

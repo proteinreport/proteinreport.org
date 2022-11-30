@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Eggs]
 business: [Production]
 finance_type: []
-regions: [Latin America &amp; Caribbean]
+regions: [Latin America & Caribbean]
 location: [<p class="address" translate="no"><span class="address-line1">Virginia Opazo</span><br>
 <span class="locality">Santiago</span><br>
 <span class="country">Chile</span></p>]

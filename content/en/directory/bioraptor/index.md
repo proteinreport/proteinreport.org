@@ -10,7 +10,7 @@ business: [Research]
 finance_type: []
 regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">Ha-Agasim Street 12</span><br>
-<span class="locality">Binyamina-Giv&#039;at Ada</span><br>
+<span class="locality">Binyamina-Giv'at Ada</span><br>
 <span class="country">Israel</span></p>]
 images: ["Bioraptor Logo.png"]
 draft: false

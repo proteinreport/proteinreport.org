@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Brickell Avenue</span><br>
 <span class="locality">Miami</span>, <span class="postal-code">33131</span><br>
 <span class="country">United States</span></p>]

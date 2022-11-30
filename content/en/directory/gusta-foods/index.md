@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Place du Marché-du-Nord</span><br>
 <span class="locality">Montréal</span> <span class="postal-code">H2S 1A2</span><br>
 <span class="country">Canada</span></p>]

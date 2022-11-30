@@ -8,7 +8,7 @@ proteins: [Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Commerce</span>, <span class="postal-code">90040</span><br>
 <span class="country">United States</span></p>]
 images: ["nonfood.png"]

@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Saginaw Drive</span><br>
 <span class="locality">Redwood City</span>, <span class="postal-code">94063</span><br>
 <span class="country">United States</span></p>]

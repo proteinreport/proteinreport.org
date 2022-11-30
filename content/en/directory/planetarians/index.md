@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Hansen Way</span><br>
 <span class="locality">Palo Alto</span>, <span class="postal-code">94304</span><br>
 <span class="country">United States</span></p>]

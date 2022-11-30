@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Côte des Saints</span><br>
 <span class="locality">Mirabel</span> <span class="postal-code">J7N 2Y1</span><br>
 <span class="country">Canada</span></p>]

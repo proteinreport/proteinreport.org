@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Emperor Boulevard</span><br>
 <span class="locality">Durham</span>, <span class="postal-code">27703</span><br>
 <span class="country">United States</span></p>]

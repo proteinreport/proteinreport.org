@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Avenida Encinas</span><br>
 <span class="locality">Carlsbad</span>, <span class="postal-code">92008</span><br>
 <span class="country">United States</span></p>]

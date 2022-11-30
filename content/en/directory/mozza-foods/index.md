@@ -8,7 +8,7 @@ proteins: [Molecular Farming]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">South Pecan Street</span><br>
 <span class="locality">Los Angeles</span>, <span class="postal-code">90033</span><br>
 <span class="country">United States</span></p>]

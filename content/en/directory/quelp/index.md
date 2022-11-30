@@ -8,7 +8,7 @@ proteins: [Algae]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Latin America &amp; Caribbean]
+regions: [Latin America & Caribbean]
 location: [<p class="address" translate="no"><span class="address-line1">Virginia Opazo 23</span><br>
 <span class="locality">Santiago</span><br>
 <span class="administrative-area">Región Metropolitana</span><br>

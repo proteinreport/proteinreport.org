@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Garberville</span>, <span class="administrative-area">California</span> <span class="postal-code">95542</span><br>
 <span class="country">United States</span></p>]
 images: ["Vixen-Kitchen-Logo.png"]

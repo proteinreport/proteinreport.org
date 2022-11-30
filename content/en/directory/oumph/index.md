@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Järnvägsgatan</span><br>
 <span class="postal-code">595 52</span> <span class="locality">Mjölby</span><br>
 <span class="country">Sweden</span></p>]

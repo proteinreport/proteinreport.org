@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Piedmont Avenue Northeast</span><br>
 <span class="locality">Atlanta</span>, <span class="postal-code">30324</span><br>
 <span class="country">United States</span></p>]

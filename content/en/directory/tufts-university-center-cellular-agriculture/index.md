@@ -8,7 +8,7 @@ proteins: [Cell-Based, Microbial]
 products: []
 business: [Research, Nonprofit]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">College Avenue 200</span><br>
 <span class="locality">Medford</span>, <span class="administrative-area">Massachusetts</span> <span class="postal-code">02155</span><br>
 <span class="country">United States</span></p>]

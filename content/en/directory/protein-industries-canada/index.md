@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Albert Street</span><br>
 <span class="locality">Regina</span> <span class="postal-code">S4P 2T9</span><br>
 <span class="country">Canada</span></p>]

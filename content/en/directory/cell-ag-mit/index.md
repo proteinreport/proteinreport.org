@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Cambridge</span>, <span class="postal-code">02138</span><br>
 <span class="country">United States</span></p>]
 images: ["cellagmit.jpg"]

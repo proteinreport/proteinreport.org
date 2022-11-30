@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">South Harbor City Boulevard</span><br>
 <span class="locality">Melbourne</span>, <span class="postal-code">32901</span><br>
 <span class="country">United States</span></p>]

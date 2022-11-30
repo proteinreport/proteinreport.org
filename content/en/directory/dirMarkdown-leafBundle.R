@@ -15,8 +15,12 @@ import_data <- read_csv("directory.csv") %>%
 import_data[is.na(import_data)] = ""
 # fix date formatting
 import_data$date <- as.character(import_data$date)
-# decode apostrophe
-import_data$title <- str_replace_all(import_data$title, "&#039;", "'")
+# decode apostrophe across entire data frame
+import_data <- data.frame(lapply(import_data, function(x){gsub("&#039;", "'", x)}))
+# decode ampersand across entire data frame
+import_data <- data.frame(lapply(import_data, function(x){gsub("&amp;", "&", x)}))
+# remove hidden line breaks from description
+import_data$description <- str_replace_all(import_data$description, "[\r\n]" , "")
 # remove "/directory" from slug
 import_data$slug <- str_replace_all(import_data$slug, "/directory", "")
 

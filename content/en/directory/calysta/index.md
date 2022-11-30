@@ -8,7 +8,7 @@ proteins: [Microbial]
 products: [Pet Food, Ingredients, Feed]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Menlo Park</span>,<br>
 <span class="country">United States</span></p>]
 images: ["calysta.jpg"]

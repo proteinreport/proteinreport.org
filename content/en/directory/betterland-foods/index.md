@@ -8,7 +8,7 @@ proteins: [Microbial]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: []
 images: ["betterland_logo_black-1920w.png"]
 draft: false

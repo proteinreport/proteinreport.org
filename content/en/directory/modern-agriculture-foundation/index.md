@@ -9,7 +9,7 @@ products: []
 business: [Nonprofit]
 finance_type: []
 regions: [Middle East]
-location: [<p class="address" translate="no"><span class="locality">Modi&#039;in Makabim-Re&#039;ut</span><br>
+location: [<p class="address" translate="no"><span class="locality">Modi'in Makabim-Re'ut</span><br>
 <span class="country">Israel</span></p>]
 images: ["horizontal logo.PNG"]
 draft: false

@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Vulcan Way</span><br>
 <span class="locality">Richmond</span> <span class="postal-code">V6V 1Z5</span><br>
 <span class="country">Canada</span></p>]

@@ -1,9 +1,9 @@
 ---
-title: "Jack &amp; Bry"
+title: "Jack & Bry"
 date: 2020-01-23 17:50:55
 lastmod: 2020-01-23 17:50:55
 slug: /jack-bry
-description: "Jack &amp; Bry is creating tantalisingly tasty &amp; tender plant-based meats made from Jackfruit – a nutritious wonder-fruit, that is natural, full of flavour, high in fibre and palm oil free. ​"
+description: "Jack & Bry is creating tantalisingly tasty & tender plant-based meats made from Jackfruit – a nutritious wonder-fruit, that is natural, full of flavour, high in fibre and palm oil free. ​"
 proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
@@ -19,4 +19,4 @@ homepage: false
 weight: 5000
 uuid: 5758
 ---
-<p>Jack <span class="amp">&amp;</span> Bry is creating tantalisingly tasty <span class="amp">&amp;</span> tender plant-based meats made from Jackfruit – a nutritious wonder-fruit, that is natural, full of flavour, high in fibre and palm oil free. ​</p>
+<p>Jack <span class="amp">&</span> Bry is creating tantalisingly tasty <span class="amp">&</span> tender plant-based meats made from Jackfruit – a nutritious wonder-fruit, that is natural, full of flavour, high in fibre and palm oil free. ​</p>

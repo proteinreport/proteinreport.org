@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Duke of York Boulevard</span><br>
 <span class="locality">Mississauga</span> <span class="postal-code">L5B 3C9</span><br>
 <span class="country">Canada</span></p>]

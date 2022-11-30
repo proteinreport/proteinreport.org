@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Maple Road</span><br>
 <span class="locality">Elma Center</span>, <span class="postal-code">14059</span><br>
 <span class="country">United States</span></p>]

@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Marin Street</span><br>
 <span class="locality">Vallejo</span>, <span class="postal-code">94590</span><br>
 <span class="country">United States</span></p>]

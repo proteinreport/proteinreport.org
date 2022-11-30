@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">West 33rd Street</span><br>
 <span class="locality">Chicago</span>, <span class="postal-code">60616</span><br>
 <span class="country">United States</span></p>]

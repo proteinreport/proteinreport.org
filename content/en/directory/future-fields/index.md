@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Cell Culture Media]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Edmonton</span><br>
 <span class="country">Canada</span></p>]
 images: ["Future Fields_0.png"]

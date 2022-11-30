@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Wellington Street</span><br>
 <span class="locality">London</span> <span class="postal-code">N6B 1T6</span><br>
 <span class="country">Canada</span></p>]

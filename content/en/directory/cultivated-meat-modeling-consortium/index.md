@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Research, Nonprofit]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Madison Street</span><br>
 <span class="locality">Seattle</span>, <span class="postal-code">98164</span><br>
 <span class="country">United States</span></p>]

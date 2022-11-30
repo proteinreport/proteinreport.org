@@ -8,7 +8,7 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Accelerator]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">U.S. 101</span><br>
 <span class="locality">San Francisco</span>, <span class="postal-code">94103</span><br>
 <span class="country">United States</span></p>]

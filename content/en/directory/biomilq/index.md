@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Durham</span>, <span class="postal-code">27701</span><br>
 <span class="country">United States</span></p>]
 images: ["biomilq.png"]

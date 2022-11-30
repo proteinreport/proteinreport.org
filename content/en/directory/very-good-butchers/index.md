@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Douglas Street</span><br>
 <span class="locality">Victoria</span> <span class="postal-code">V8W 0C1</span><br>
 <span class="country">Canada</span></p>]

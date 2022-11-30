@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Seafood]
 business: [Production]
 finance_type: []
-regions: [Latin America &amp; Caribbean]
+regions: [Latin America & Caribbean]
 location: [<p class="address" translate="no"><span class="address-line1">Parque Dom Pedro II</span><br>
 <span class="postal-code">01022-050</span><br>
 <span class="country">Brazil</span></p>]

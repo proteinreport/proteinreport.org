@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Rue Dorion</span><br>
 <span class="locality">Montréal</span> <span class="postal-code">H2K 4B6</span><br>
 <span class="country">Canada</span></p>]

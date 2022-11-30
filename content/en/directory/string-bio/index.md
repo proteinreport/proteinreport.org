@@ -5,7 +5,7 @@ lastmod: 2020-01-23 18:20:44
 slug: /string-bio
 description: "String Bio has built a cutting-edge platform that delivers cost effective, robust and sustainable solutions for real world problems. Their solution leverages methane, produced from waste or available natural resource to create value added products that have applications in multiple industries like Animal Nutrition, Human Nutrition, Agriculture, Cosmetics etc."
 proteins: [Microbial]
-products: [Technology &amp; Equipment]
+products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 regions: [Asia]

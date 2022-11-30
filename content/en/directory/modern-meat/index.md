@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Robson Street</span><br>
 <span class="locality">Vancouver</span> <span class="postal-code">V6Z 2E7</span><br>
 <span class="country">Canada</span></p>]

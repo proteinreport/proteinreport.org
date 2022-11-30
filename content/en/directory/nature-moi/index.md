@@ -1,9 +1,9 @@
 ---
-title: "Nature &amp; Moi"
+title: "Nature & Moi"
 date: 2020-01-23 17:50:48
 lastmod: 2020-01-23 17:50:48
 slug: /nature-moi
-description: "Nature &amp; Moi, an exclusive French plant-based cheese company, provides a range of cheeses for all the applications."
+description: "Nature & Moi, an exclusive French plant-based cheese company, provides a range of cheeses for all the applications."
 proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
@@ -18,4 +18,4 @@ homepage: false
 weight: 5000
 uuid: 5702
 ---
-<p>Nature &amp; Moi, an exclusive French plant-based cheese company, provides a range of cheeses for all the applications.</p>
+<p>Nature & Moi, an exclusive French plant-based cheese company, provides a range of cheeses for all the applications.</p>

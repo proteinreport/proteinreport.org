@@ -8,7 +8,7 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Morris Avenue 19</span><br>
 <span class="administrative-area">New York</span> <span class="postal-code">11205</span><br>
 <span class="country">United States</span></p>]

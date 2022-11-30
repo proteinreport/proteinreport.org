@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Algae]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]
 business: [Research]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">South State Street</span><br>
 <span class="locality">Dover</span>, <span class="postal-code">19904</span><br>
 <span class="country">United States</span></p>]

@@ -8,7 +8,7 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">East Bank Drive</span><br>
 <span class="locality">Peterborough</span> <span class="postal-code">K9L 1Z8</span><br>
 <span class="country">Canada</span></p>]

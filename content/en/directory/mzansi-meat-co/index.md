@@ -3,7 +3,7 @@ title: "Mzansi Meat Co."
 date: 2020-06-16 09:09:14
 lastmod: 2020-06-16 09:09:14
 slug: /mzansi-meat-co
-description: "We&#039;re building Africa&#039;s first cultivated meat company."
+description: "We're building Africa's first cultivated meat company."
 proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
@@ -20,4 +20,4 @@ homepage: false
 weight: 5000
 uuid: 7119
 ---
-<p>We&#039;re building Africa&#039;s first cultivated meat company.</p>
+<p>We're building Africa's first cultivated meat company.</p>

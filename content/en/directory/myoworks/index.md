@@ -5,7 +5,7 @@ lastmod: 2021-08-03 23:12:37
 slug: /myoworks
 description: "MyoWorks Private Limited aims to create scaffolds and an eco-system of ancillary products that will facilitate any cultivated-meat entrepreneur’s vision of in-vitro meat production."
 proteins: [Cell-Based]
-products: [Scaffolding &amp; Structure]
+products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
 regions: [Asia]

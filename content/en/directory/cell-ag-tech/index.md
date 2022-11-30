@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Seafood]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Kennedy Avenue</span><br>
 <span class="locality">Toronto</span> <span class="postal-code">M6R 2L2</span><br>
 <span class="country">Canada</span></p>]

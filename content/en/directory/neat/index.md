@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Eggs]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Industry Court</span><br>
 <span class="locality">Nashville</span>, <span class="postal-code">27856</span><br>
 <span class="country">United States</span></p>]

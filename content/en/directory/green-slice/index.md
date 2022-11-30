@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US &amp; Canada]
+regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Cochran Road</span><br>
 <span class="locality">Richmond</span>, <span class="postal-code">05477</span><br>
 <span class="country">United States</span></p>]
