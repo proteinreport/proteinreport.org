@@ -3,18 +3,7 @@ title: "CellAg Deutschland Launch Event"
 date: 2021-05-25 21:43:31
 lastmod: 2021-05-25 21:43:31
 slug: /cellag-deutschland-launch-event
-description: "Note: this event will be in German.
-Agenda*:
-19:00 Welcome and intro
-19:05 Presentation of CellAg Deutschland
-19:05 Industry presentations and panel discussions
-20:30 Outlook and announcements
-*Central European Standard Time
-Speakers:
-
-Dr. Sebastian Rakers, Bluu Biosciences
-Michael Mitsakos, EVIG Group
-Dr. Britta Winterberg, Formo"
+description: "Note: this event will be in German.Agenda*:19:00 Welcome and intro19:05 Presentation of CellAg Deutschland19:05 Industry presentations and panel discussions20:30 Outlook and announcements*Central European Standard TimeSpeakers:Dr. Sebastian Rakers, Bluu BiosciencesMichael Mitsakos, EVIG GroupDr. Britta Winterberg, Formo"
 proteins: [Cell-Based]
 products: [Meat, Dairy]
 topics: [Business, Sci-Tech]

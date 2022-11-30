@@ -3,8 +3,7 @@ title: "Food Biotech Congress"
 date: 2021-08-11 13:46:34
 lastmod: 2021-08-11 13:46:34
 slug: /food-biotech-congress
-description: "The Food Biotech Congress is not another alternative protein, plant-based conference or generic food technology or bulk buy ingredients event.
-Instead, it’s a next-gen ingredients forum for senior executives covering the critical business dynamics and taste, texture and nutrition challenges from biotech and cell-based approaches across the main food pillars (Fat, Protein, Sugar and Salt)."
+description: "The Food Biotech Congress is not another alternative protein, plant-based conference or generic food technology or bulk buy ingredients event.Instead, it’s a next-gen ingredients forum for senior executives covering the critical business dynamics and taste, texture and nutrition challenges from biotech and cell-based approaches across the main food pillars (Fat, Protein, Sugar and Salt)."
 proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Algae]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]
 topics: [Business, Culture, Sci-Tech]

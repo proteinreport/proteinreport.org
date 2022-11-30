@@ -3,12 +3,11 @@ title: "Plant-Based Foodservice Market Overview"
 date: 2020-06-12 09:05:35
 lastmod: 2020-06-12 09:05:35
 slug: /plant-based-foodservice-market-overview
-description: "Thursday, June 18th at 12pm ET / 9am PT
-NPD SupplyTrack data released by The Good Food Institute shows U.S. wholesale foodservice sales of plant-based meat grew 37% last year, with especially strong market share gains in the quick-service restaurant channel. This webinar will explore sales data across commercial and non-commercial foodservice segments, including: "
+description: "Thursday, June 18th at 12pm ET / 9am PTNPD SupplyTrack data released by The Good Food Institute shows U.S. wholesale foodservice sales of plant-based meat grew 37% last year, with especially strong market share gains in the quick-service restaurant channel. This webinar will explore sales data across commercial and non-commercial foodservice segments, including: "
 proteins: [Plant-Based]
 products: [Meat]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["The-Good-Food-Institute-Logo-post.jpg"]
 banner_image: "gfi.jpg"
 online: TRUE

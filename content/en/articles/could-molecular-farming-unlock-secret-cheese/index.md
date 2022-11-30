@@ -8,7 +8,7 @@ excerpt: "Gene-recombinant biotechnologies aim to produce key animal proteins at
 proteins: [Cell-Based, Molecular Farming]
 products: [Meat, Dairy, Ingredients]
 topics: [Business, Sci-Tech]
-regions: [Europe, US &amp; Canada]
+regions: [Europe, US & Canada]
 flags: [Featured]
 directory: [5897, 7241, 8754, 9366]
 contributors: [8107]

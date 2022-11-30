@@ -3,8 +3,7 @@ title: "2020 Symposium on Fermentation"
 date: 2020-09-18 14:37:29
 lastmod: 2020-09-18 14:37:29
 slug: /2020-symposium-fermentation
-description: "Join us for an exploration of fermentation’s role in the alternative protein industry.
-Planned sessions include the following:"
+description: "Join us for an exploration of fermentation’s role in the alternative protein industry.Planned sessions include the following:"
 proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Ingredients]
 topics: [Business, Sci-Tech]
@@ -23,7 +22,7 @@ uuid: 7692
 <p>Join us for an exploration of fermentation’s role in the alternative protein industry.</p>
 <p>Planned sessions include the following:</p>
 <ul>
-<li>Fermentation 101 - a review of <a href="https://www.gfi.org/industry?utm_source=web&amp;utm_medium=hopin&amp;utm_campaign=fermentation%20symposium">GFI's Fermentation State of the Industry Report</a></li>
+<li>Fermentation 101 - a review of <a href="https://www.gfi.org/industry?utm_source=web&utm_medium=hopin&utm_campaign=fermentation%20symposium">GFI's Fermentation State of the Industry Report</a></li>
 <li>Traditional fermentation: Leveraging the power of biology to transform food ingredients</li>
 <li>Biomass fermentation: Microorganisms’ great promise as protein powerhouses</li>
 <li>Precision fermentation: Harnessing microbial hosts as cell factories</li>

@@ -8,11 +8,11 @@ excerpt: "Brave New Meat podcast host Doug Grant talks with Michael Aucoin, CEO 
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Eggs]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Interview, Video, Featured]
 directory: [234, 694, 695, 5816, 7964]
 contributors: [8172]
-images: []
+images: [NA]
 draft: false
 pinned: false
 homepage: false

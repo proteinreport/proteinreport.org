@@ -3,8 +3,7 @@ title: "Plant and cell-based seafood: A threat or opportunity?"
 date: 2020-04-28 12:03:30
 lastmod: 2020-04-28 12:03:30
 slug: /plant-and-cell-based-seafood-threat-or-opportunity
-description: "IntraFish Media will host its second Digital Event on May 12, exploring the fast-emerging trend of \"alternative seafood,\" and what it means for the seafood industry, investors, buyers and suppliers.
-Alternative seafood -- items made of plants or fish tissue grown in labs -- is gaining traction among consumers, and the trend is reflective of significant changes in consumer eating patterns."
+description: "IntraFish Media will host its second Digital Event on May 12, exploring the fast-emerging trend of \"alternative seafood,\" and what it means for the seafood industry, investors, buyers and suppliers.Alternative seafood -- items made of plants or fish tissue grown in labs -- is gaining traction among consumers, and the trend is reflective of significant changes in consumer eating patterns."
 proteins: [Cell-Based, Plant-Based]
 products: [Seafood]
 topics: [Business]
@@ -27,7 +26,7 @@ uuid: 6747
 <p><strong>Panelists include:</strong></p>
 <ul>
 <li>Joost Matthijssen, Investment Director, Nutreco</li>
-<li>Roger O'Brien, President &amp; CEO, Santa Monica Seafood</li>
-<li>Lou Cooperhouse, President &amp; CEO, BlueNalu, Inc.</li>
-<li>Chad Sarno, Co-Founder &amp; Senior VP Culinary, Gathered Foods /Good Catch Foods</li>
+<li>Roger O'Brien, President & CEO, Santa Monica Seafood</li>
+<li>Lou Cooperhouse, President & CEO, BlueNalu, Inc.</li>
+<li>Chad Sarno, Co-Founder & Senior VP Culinary, Gathered Foods /Good Catch Foods</li>
 </ul>

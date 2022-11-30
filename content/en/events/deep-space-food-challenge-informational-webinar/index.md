@@ -7,7 +7,7 @@ description: "NASA, in coordination with the Canadian Space Agency and the Methu
 proteins: [Cell-Based, Microbial]
 products: [Meat, Dairy, Ingredients]
 topics: [Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["logo.jpg"]
 banner_image: "banner.jpg"
 online: TRUE

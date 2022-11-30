@@ -1,5 +1,5 @@
 ---
-title: "Global Plant-Based Protein &amp; Nuts Conference"
+title: "Global Plant-Based Protein & Nuts Conference"
 date: 2021-05-17 11:56:12
 lastmod: 2021-05-17 11:56:12
 slug: /global-plant-based-protein-nuts-conference
@@ -7,7 +7,7 @@ description: "Plant-based food products are becoming a key driver of sales growt
 proteins: [Plant-Based]
 products: [Ingredients]
 topics: [Business]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 images: ["mintec_0.png"]
 banner_image: "banner.jpg"
 online: TRUE
@@ -23,7 +23,7 @@ uuid: 8979
 <p>To help you better understand these complex markets, Mintec is bringing together a range of industry experts from across the plant-based foods and nut value chains to share unique perspectives provide critical essential analysis into:</p>
 <p><strong>•  </strong>the state of the markets</p>
 <p><strong>•  </strong>the possible effect of bottle necks</p>
-<p><strong>•  </strong>raw material price changes &amp; sector growth</p>
+<p><strong>•  </strong>raw material price changes & sector growth</p>
 <p><strong>•  </strong>the place of new protein ingredients</p>
 <p><strong>•  </strong>price trends changing buyer behavior</p>
 <p><strong>•  </strong>how COVID is changing the industry</p>

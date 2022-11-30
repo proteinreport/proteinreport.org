@@ -1,15 +1,13 @@
 ---
-title: "Seafood Webinar &amp; Informal Mixer (SWIM)"
+title: "Seafood Webinar & Informal Mixer (SWIM)"
 date: 2020-10-21 13:39:08
 lastmod: 2020-10-21 13:39:08
 slug: /seafood-webinar-informal-mixer-swim
-description: "SWIM is a chance to catch up on the latest science related to cultivated seafood and to connect with your colleagues.
-Thursday, October 29th at 7pm ET / 4pm PT
-Join the Good Food Institute for a highly informative presentation on seafood cell line development followed by a networking session. Cell line development is a key challenge in cultivated meat and particularly cultivated seafood. We will hear from three research teams that are currently working on some exciting new cell lines from popular seafood species."
+description: "SWIM is a chance to catch up on the latest science related to cultivated seafood and to connect with your colleagues.Thursday, October 29th at 7pm ET / 4pm PTJoin the Good Food Institute for a highly informative presentation on seafood cell line development followed by a networking session. Cell line development is a key challenge in cultivated meat and particularly cultivated seafood. We will hear from three research teams that are currently working on some exciting new cell lines from popular seafood species."
 proteins: [Cell-Based]
 products: [Seafood]
 topics: [Business, Sci-Tech]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 images: ["Mug_Logo.png"]
 banner_image: "banner.png"
 online: TRUE

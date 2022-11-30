@@ -3,11 +3,9 @@ title: "How are &quot;meatless&quot; meats made? Extrusion technology demo"
 date: 2020-05-27 18:04:47
 lastmod: 2020-05-27 18:04:47
 slug: /how-are-meatless-meats-made-extrusion-technology-demo
-description: "How are \"meatless\" meats made? Come and learn with food innovation experts Deutsches Institut für Lebensmitteltechn
-About this Event
-Value-added processing of agricultural products is a great opportunity for Canadians to create jobs, diversify the economy, and create tasty products that we can be proud of!"
+description: "How are \"meatless\" meats made? Come and learn with food innovation experts Deutsches Institut für LebensmitteltechnAbout this EventValue-added processing of agricultural products is a great opportunity for Canadians to create jobs, diversify the economy, and create tasty products that we can be proud of!"
 proteins: [Plant-Based, Algae, Fungi, Insect]
-products: [Meat, Pet Food, Ingredients, Technology &amp; Equipment]
+products: [Meat, Pet Food, Ingredients, Technology & Equipment]
 topics: [Business, Sci-Tech]
 regions: [International]
 images: ["ppaalogo_0.png"]

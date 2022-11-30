@@ -3,8 +3,7 @@ title: "New Food Conference Cologne"
 date: 2021-03-22 13:15:08
 lastmod: 2021-03-22 13:15:08
 slug: /new-food-conference-cologne
-description: "Plant-based meets cellular agriculture: two complementary approaches towards a more resilient food system
-We are on the cusp of one of the fastest and most consequential transformations of the food system since humans first started domesticating plants and animals. Sales of plant-based products are skyrocketing, while cellular agriculture and precision fermentation hold the potential to change the way we grow our food forever."
+description: "Plant-based meets cellular agriculture: two complementary approaches towards a more resilient food systemWe are on the cusp of one of the fastest and most consequential transformations of the food system since humans first started domesticating plants and animals. Sales of plant-based products are skyrocketing, while cellular agriculture and precision fermentation hold the potential to change the way we grow our food forever."
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood]
 topics: [Business]

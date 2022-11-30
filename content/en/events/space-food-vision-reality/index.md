@@ -3,8 +3,7 @@ title: "Space for Food - From Vision to Reality"
 date: 2021-04-10 09:04:00
 lastmod: 2021-04-10 09:04:00
 slug: /space-food-vision-reality
-description: "If we’re going to create new food systems, they have to improve on what we have and address the challenges we’ll likely face. Trends point to rising challenges and emerging opportunities - what’s a pipe dream vs what’s attainable?
-At Space for Food, we'll dive into alternative proteins, circular food/bio economies, controlled environment ag, microbial ag and systems, and the enabling tech and systems to make it all possible."
+description: "If we’re going to create new food systems, they have to improve on what we have and address the challenges we’ll likely face. Trends point to rising challenges and emerging opportunities - what’s a pipe dream vs what’s attainable?At Space for Food, we'll dive into alternative proteins, circular food/bio economies, controlled environment ag, microbial ag and systems, and the enabling tech and systems to make it all possible."
 proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Algae]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Sci-Tech]

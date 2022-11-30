@@ -7,7 +7,7 @@ description: "The FAIRR Initiative is delighted to be hosting a webinar with a
 proteins: [Plant-Based]
 products: [Meat, Dairy]
 topics: [Business, Environment]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["fairr-logo.jpg"]
 banner_image: "fairr.jpg"
 online: TRUE
@@ -29,7 +29,7 @@ uuid: 7756
 <ul>
 <li>Kezia St. Clere Smithe, ESG Analyst, <em>FAIRR Initiative</em></li>
 </ul>
-<p><strong>12:15 </strong><strong>Company &amp; Investor Roundtable: Long-Term Growth Opportunities</strong></p>
+<p><strong>12:15 </strong><strong>Company & Investor Roundtable: Long-Term Growth Opportunities</strong></p>
 <p><strong>Moderator</strong></p>
 <ul>
 <li>Sofiane Belmiloud, Investor Outreach Manager, <em>FAIRR Initiative</em></li>
@@ -40,7 +40,7 @@ uuid: 7756
 <li>Kathlyne Ross, VP Product Development, <em>Loblaws</em></li>
 <li>Perumal Gandhi, Co-Founder, <em>Perfect Day</em></li>
 </ul>
-<p><strong>12:35 </strong><strong>Q&amp;A</strong></p>
+<p><strong>12:35 </strong><strong>Q&A</strong></p>
 <p><strong>12:45 </strong><strong>Closing Remarks</strong></p>
 <ul>
 <li>Sofiane Belmiloud, Investor Outreach Manager, <em>FAIRR Initiative</em></li>

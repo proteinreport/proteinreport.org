@@ -7,7 +7,7 @@ description: "It’s been three years since we last gathered the agri-food commu
 proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["FFT_SF2022_logo - Copy.png"]
 banner_image: "FFT_SF2022_logo.png"
 online: FALSE

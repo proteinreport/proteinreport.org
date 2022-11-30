@@ -7,7 +7,7 @@ description: "How can plant breeding optimize the protein quality and bioavailab
 proteins: [Plant-Based]
 products: [Meat, Ingredients]
 topics: [Sci-Tech]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 images: ["d2e09f9c-b7d7-45ff-be70-d679bc79f745.png"]
 banner_image: "bf2bbeb3-d349-4612-b719-747e15e3c25d.png"
 online: TRUE

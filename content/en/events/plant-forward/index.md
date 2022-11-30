@@ -3,12 +3,11 @@ title: "Plant Forward"
 date: 2022-05-30 08:10:02
 lastmod: 2022-05-30 08:10:02
 slug: /plant-forward
-description: "Plant Forward is the first-ever international event showcasing Canada’s plant-based ingredient and food supply and innovation.
-We're inviting CEOs, CFOs, R&amp;D leaders and investors at the forefront of the global food industry to:"
+description: "Plant Forward is the first-ever international event showcasing Canada’s plant-based ingredient and food supply and innovation.We're inviting CEOs, CFOs, R&D leaders and investors at the forefront of the global food industry to:"
 proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["plantofrward_0.jpg"]
 banner_image: "plantforward_1_0.jpg"
 online: FALSE
@@ -23,7 +22,7 @@ weight: 5000
 uuid: 10922
 ---
 <p>Plant Forward is the first-ever international event showcasing Canada’s plant-based ingredient and food supply and innovation.</p>
-<p dir="ltr">We're inviting CEOs, CFOs, R&amp;D leaders and investors at the forefront of the global food industry to:</p>
+<p dir="ltr">We're inviting CEOs, CFOs, R&D leaders and investors at the forefront of the global food industry to:</p>
 <ul>
 <li>Gain diverse perspectives from leaders on the future of plant-forward</li>
 <li>Learn more about Canada’s integrated plant-based ecosystem</li>

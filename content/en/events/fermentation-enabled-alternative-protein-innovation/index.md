@@ -7,7 +7,7 @@ description: "The 3rd annual Fermentation-Enabled Alternative Protein Summit,
 proteins: [Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Policy, Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["Fermentation Logo 2023_0.png"]
 banner_image: "Fermentation Logo 2023.png"
 online: FALSE
@@ -15,7 +15,7 @@ start_date: 2023-01-31
 end_date: 2023-02-02
 country: United States
 city: San Francisco
-website: "https://fermentation-enabled-proteins.com/?utm_source=external&amp;utm_medium=event-listing&amp;utm_campaign=event-listing&amp;utm_content=media-partner/other-protein-report/unpaid/ev-25979"
+website: "https://fermentation-enabled-proteins.com/?utm_source=external&utm_medium=event-listing&utm_campaign=event-listing&utm_content=media-partner/other-protein-report/unpaid/ev-25979"
 contributors: [NL]
 draft: false
 weight: 5000

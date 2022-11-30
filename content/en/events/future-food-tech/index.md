@@ -3,8 +3,7 @@ title: "Future Food-Tech"
 date: 2020-01-07 13:00:43
 lastmod: 2020-01-07 13:00:43
 slug: /future-food-tech
-description: "The Future Food-Tech Summit is going virtual! On September 17-18, 2020, C–Suite food brand executives, investors and entrepreneurs from all four corners of the globe will come together online to radically rethink our food system in a post-Covid 19 world.  
-1-1 video meetings, live discussion groups, interactive panels, start-up pitches and ground-breaking keynotes will provide critical intelligence on the trends and technologies that will shape the food industry in 2021, and an unrivalled platform to connect and network with the food-tech ecosystem. "
+description: "The Future Food-Tech Summit is going virtual! On September 17-18, 2020, C–Suite food brand executives, investors and entrepreneurs from all four corners of the globe will come together online to radically rethink our food system in a post-Covid 19 world.  1-1 video meetings, live discussion groups, interactive panels, start-up pitches and ground-breaking keynotes will provide critical intelligence on the trends and technologies that will shape the food industry in 2021, and an unrivalled platform to connect and network with the food-tech ecosystem. "
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Environment, Health, Sci-Tech]

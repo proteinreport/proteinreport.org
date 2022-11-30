@@ -8,9 +8,9 @@ excerpt: "Though opportunity in this space is abundant, government regulators ha
 proteins: [Plant-Based]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business, Policy]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Featured, Opinion]
-directory: []
+directory: [NA]
 contributors: [9438]
 images: [AdobeStock_365837727.jpg]
 draft: false

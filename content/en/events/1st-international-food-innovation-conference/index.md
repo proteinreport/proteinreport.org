@@ -13,7 +13,7 @@ banner_image: "pr_0.jpg"
 online: TRUE
 start_date: 2021-06-29
 end_date: 2021-06-29
-website: "https://www.gdi.ch/en/events/1st-international-food-innovation-conference?utm_source=protein_foodinno21&amp;utm_medium=web&amp;utm_campaign=foodinno21"
+website: "https://www.gdi.ch/en/events/1st-international-food-innovation-conference?utm_source=protein_foodinno21&utm_medium=web&utm_campaign=foodinno21"
 contributors: [GDI Gottlieb Duttweiler Institute]
 draft: false
 weight: 5000
@@ -31,7 +31,7 @@ We are offering a <strong>two-for-one deal</strong> for the <strong>livestream</
 <ul>
 <li><strong>Paul Shapiro</strong> (US), author of the bestseller "Clean Meat", a four-time TEDx speaker, and CEO of The Better Meat Co.</li>
 <li><strong>Lord Adair Turner</strong> (GB), chairman of the British Energy Transitions Commission and Senior Fellow of the Institute for New Economic Thinking</li>
-<li><strong>Sjaak Wolfert</strong> (NL), theme ambassador for Digital Innovation in Agri-Food at Wageningen University &amp; Research</li>
+<li><strong>Sjaak Wolfert</strong> (NL), theme ambassador for Digital Innovation in Agri-Food at Wageningen University & Research</li>
 <li><strong>Chris Smaje</strong> (GB), author of the book "A Small Farm Future" and board member of the Ecological Land Co-op</li>
 <li><strong>Emma Slack</strong> (CH), Professor of Food Immunology at ETH Zurich</li>
 <li><strong>Martin Zehnder</strong> (CH), Category Manager Meat, Migros</li>
@@ -40,4 +40,4 @@ We are offering a <strong>two-for-one deal</strong> for the <strong>livestream</
 <li><strong>David Bosshart</strong> (CH), executive advisor of the Gottlieb Duttweiler Institute</li>
 <li>Founders of <strong>leading start-ups</strong> that are disrupting agriculture with cell-based products</li>
 </ul>
-<p>The list of speakers and contributing start-ups can be found on our website, together with the full <a href="https://www.gdi.ch/en/events/1st-international-food-innovation-conference?utm_source=protein_foodinno21&amp;utm_medium=web&amp;utm_campaign=foodinno21#programme">programme</a>. </p>
+<p>The list of speakers and contributing start-ups can be found on our website, together with the full <a href="https://www.gdi.ch/en/events/1st-international-food-innovation-conference?utm_source=protein_foodinno21&utm_medium=web&utm_campaign=foodinno21#programme">programme</a>. </p>

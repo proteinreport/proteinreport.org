@@ -7,7 +7,7 @@ description: "Wondering what transformational shifts are happening due to COVID-
 proteins: [Plant-Based, Insect, Animal]
 products: [Ingredients]
 topics: [Business, Culture, Environment, Health]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["ppaalogo.png"]
 banner_image: "Copy of JOIN THE CONVERSATION.png"
 online: TRUE

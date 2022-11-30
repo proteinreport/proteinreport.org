@@ -3,12 +3,11 @@ title: "Cellular Agriculture Research: Building the Future of Food in Canada"
 date: 2020-09-10 08:18:33
 lastmod: 2020-09-10 08:18:33
 slug: /cellular-agriculture-research-building-future-food-canada
-description: "Join CAC’s Executive Director, Yadira Tejeda Saldana and moderator, Ahmed Khan from CellAgri during this event that will bring together four talented researchers from across Canada. 
-Research is the foundation of any industry. Without it, the industry can’t thrive. During this event, we intend to engage in a fruitful discussion about the opportunities, the challenges, and the next steps to make Canada a leading country in cellular agriculture."
+description: "Join CAC’s Executive Director, Yadira Tejeda Saldana and moderator, Ahmed Khan from CellAgri during this event that will bring together four talented researchers from across Canada. Research is the foundation of any industry. Without it, the industry can’t thrive. During this event, we intend to engage in a fruitful discussion about the opportunities, the challenges, and the next steps to make Canada a leading country in cellular agriculture."
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["cac.jpg"]
 banner_image: "event-cover-8707.png"
 online: TRUE

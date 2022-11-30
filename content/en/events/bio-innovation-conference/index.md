@@ -7,7 +7,7 @@ description: "On April 6-7th, the Bio Innovation Conference will unite entrepre
 proteins: [Cell-Based, Microbial]
 products: [Meat, Ingredients, Materials]
 topics: [Business, Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["d3.jpg"]
 banner_image: "banner.jpg"
 online: TRUE

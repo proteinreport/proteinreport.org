@@ -3,8 +3,7 @@ title: "1:1 Networking for Alternative Protein Scientists - Session #1"
 date: 2021-03-30 07:15:32
 lastmod: 2021-03-30 07:15:32
 slug: /11-networking-alternative-protein-scientists-session-1
-description: "Welcome to The Good Food Institute’s virtual networking session for scientists working in alternative proteins! 
-The event will start with brief remarks from GFI's Director of Science and Technology, Liz Specht, Ph.D. The networking sessions will begin following these remarks. The event will also feature topic-focused session rooms that you can visit anytime you want a break from networking."
+description: "Welcome to The Good Food Institute’s virtual networking session for scientists working in alternative proteins! The event will start with brief remarks from GFI's Director of Science and Technology, Liz Specht, Ph.D. The networking sessions will begin following these remarks. The event will also feature topic-focused session rooms that you can visit anytime you want a break from networking."
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]

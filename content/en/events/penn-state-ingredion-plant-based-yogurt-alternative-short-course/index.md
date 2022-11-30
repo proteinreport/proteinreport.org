@@ -7,7 +7,7 @@ description: "In this 3-day virtual short course, the class participants will be
 proteins: [Plant-Based]
 products: [Dairy]
 topics: [Business, Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["psu.jpg"]
 banner_image: "psbanner.jpg"
 online: TRUE

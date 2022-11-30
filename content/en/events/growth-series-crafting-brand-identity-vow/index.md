@@ -3,8 +3,7 @@ title: "Growth Series: Crafting a brand identity for Vow"
 date: 2020-09-29 15:26:14
 lastmod: 2020-09-29 15:26:14
 slug: /growth-series-crafting-brand-identity-vow
-description: "Join us for a discussion about branding one of Australia's hottest food tech startups with Vow cofounder Tim Noakesmith.
-About this Event"
+description: "Join us for a discussion about branding one of Australia's hottest food tech startups with Vow cofounder Tim Noakesmith.About this Event"
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Business]

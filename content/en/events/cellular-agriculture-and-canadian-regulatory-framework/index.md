@@ -7,7 +7,7 @@ description: "Cellular Agriculture Canada is excited to announce our next event
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Policy]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["cac.jpg"]
 banner_image: "banner_1.jpg"
 online: TRUE
@@ -29,7 +29,7 @@ uuid: 8455
 <p dir="ltr">Introduction and Canadian Cellular Agriculture Landscape by CAC</p>
 </li>
 <li dir="ltr">
-<p dir="ltr">Food &amp; Feed by Health Canada and CFIA</p>
+<p dir="ltr">Food & Feed by Health Canada and CFIA</p>
 </li>
 <li dir="ltr">
 <p dir="ltr">New Substances Program (NSP) by Health Canada and ECCC</p>

@@ -136,7 +136,7 @@ uuid: 9188
 
 <p>The risks outlined below are arranged from macro- to firm-level to cover as much of the potential risk landscape as possible but are not ranked by probability or severity.</p>
 
-<p><strong>Macroeconomic Risk:</strong> Agronomics is listed within a sub-market of the London Stock Exchange called the Alternative Investment Market (AIM). Investing in anything on an international exchange characterizing itself as “alternative” should give even the most intrepid retail investor pause when stepping off the well-trod path of the S&amp;P 500. In the event of an economic downturn, it’s likely that many of these positions would be the first to go in a liquidity crunch.</p>
+<p><strong>Macroeconomic Risk:</strong> Agronomics is listed within a sub-market of the London Stock Exchange called the Alternative Investment Market (AIM). Investing in anything on an international exchange characterizing itself as “alternative” should give even the most intrepid retail investor pause when stepping off the well-trod path of the S&P 500. In the event of an economic downturn, it’s likely that many of these positions would be the first to go in a liquidity crunch.</p>
 
 <p><strong>Currency Risk:</strong> Agronomics is based in the UK and over the last five years, the British sterling exchange rate for $1 has ranged from £0.69 to £0.86. Post-Brexit, investors should be prepared for the possibility of increased volatility in exchange rates.</p>
 

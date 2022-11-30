@@ -3,12 +3,11 @@ title: "New Harvest 2022"
 date: 2022-02-15 15:53:25
 lastmod: 2022-02-15 15:53:25
 slug: /new-harvest-2022
-description: "New Harvest 2022 is a live, in-person event about the emerging field of cellular agriculture—the growing of animal products like meat, milk, and eggs from cells instead of animals.
-For two days, researchers, companies, students, policymakers, investors, artists, activists, journalists, skeptics, early adopters, and more will convene in Brooklyn, New York to discuss the future of cultured meat and other cell-cultured foods."
+description: "New Harvest 2022 is a live, in-person event about the emerging field of cellular agriculture—the growing of animal products like meat, milk, and eggs from cells instead of animals.For two days, researchers, companies, students, policymakers, investors, artists, activists, journalists, skeptics, early adopters, and more will convene in Brooklyn, New York to discuss the future of cultured meat and other cell-cultured foods."
 proteins: [Cell-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]
 topics: [Business, Culture, Environment, Health, Policy, Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["PaTOP2yP_400x400.jpg"]
 banner_image: "nh2_0.jpg"
 online: FALSE

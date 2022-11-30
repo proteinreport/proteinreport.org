@@ -3,10 +3,7 @@ title: "6th International Conference on Cultured Meat"
 date: 2020-10-08 12:47:50
 lastmod: 2020-10-08 12:47:50
 slug: /6th-international-conference-cultured-meat
-description: "Since 2015, the Maastricht Conference has been the premier scientific meeting for the cultured meat research community. This year, we are bringing the same excellence and up-to-date content directly to your home. Register here to access engaging presentations and discussions science of cultured meat, as well as networking opportunities with speakers and other attendees. We look forward to seeing you on December 9-11!
-Program
--Note- This program is subject to change before the event
-All times CET"
+description: "Since 2015, the Maastricht Conference has been the premier scientific meeting for the cultured meat research community. This year, we are bringing the same excellence and up-to-date content directly to your home. Register here to access engaging presentations and discussions science of cultured meat, as well as networking opportunities with speakers and other attendees. We look forward to seeing you on December 9-11!Program-Note- This program is subject to change before the eventAll times CET"
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]

@@ -7,7 +7,7 @@ description: "Using the seafood industry as a model, this webinar will explore h
 proteins: [Cell-Based, Plant-Based]
 products: [Seafood]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["SustainableBrands-Logo2019.png"]
 banner_image: "keyart-masthead.jpg"
 online: TRUE

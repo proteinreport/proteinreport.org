@@ -3,12 +3,11 @@ title: "Cellular Agriculture: utilizing cell culture to grow animal products"
 date: 2022-03-08 08:44:58
 lastmod: 2022-03-08 08:44:58
 slug: /cellular-agriculture-utilizing-cell-culture-grow-animal-products
-description: "With the growing threat of climate change, sustainable development has become more and more critical to our modern society. Researchers all over the globe have been working non-stop, trying to find a way to meet continuous human demands, such as food, while conserving our limited resources.
-For that reason, The Chemical Institute of Canada, Toronto Section (CICTor) is excited to have Dr. Tejeda-Saldana from New Harvest give us a talk on Cellular Agriculture on Thursday, March 17th, 2021, from 6:00 to 7:00 PM EDT."
+description: "With the growing threat of climate change, sustainable development has become more and more critical to our modern society. Researchers all over the globe have been working non-stop, trying to find a way to meet continuous human demands, such as food, while conserving our limited resources.For that reason, The Chemical Institute of Canada, Toronto Section (CICTor) is excited to have Dr. Tejeda-Saldana from New Harvest give us a talk on Cellular Agriculture on Thursday, March 17th, 2021, from 6:00 to 7:00 PM EDT."
 proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["cic.jpg"]
 banner_image: "FNQSWcPWYAMrecH.jpg"
 online: TRUE

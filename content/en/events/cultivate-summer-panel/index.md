@@ -3,8 +3,7 @@ title: "Cultivate Summer Panel"
 date: 2021-06-15 22:01:42
 lastmod: 2021-06-15 22:01:42
 slug: /cultivate-summer-panel
-description: "July 13th 2021 4pm-5pm (BST) via Zoom.
-We at Cultivate are excited to host an online spring panel in 2021. Cultivate is a multi-voiced forum for discussing cellular agriculture from UK perspectives. We are very pleased to have an excellent panel, with opportunities for audience questions, about the evolving context of cultured meat and cellular agriculture here. Our guest panellists are:"
+description: "July 13th 2021 4pm-5pm (BST) via Zoom.We at Cultivate are excited to host an online spring panel in 2021. Cultivate is a multi-voiced forum for discussing cellular agriculture from UK perspectives. We are very pleased to have an excellent panel, with opportunities for audience questions, about the evolving context of cultured meat and cellular agriculture here. Our guest panellists are:"
 proteins: [Cell-Based]
 products: [Meat, Ingredients]
 topics: [Business, Culture]

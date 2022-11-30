@@ -3,9 +3,7 @@ title: "ProteinTECH 2022"
 date: 2021-01-15 20:46:37
 lastmod: 2021-01-15 20:46:37
 slug: /proteintech-2022
-description: "Since 2018 this food technology innovation conference has attracted leaders in food production, food and agricultural science and innovators across the food manufacturing sector.
-With a firm focus on practical business outcomes, this conference is aimed at people in the food production and food supply chains.
-ProteinTECH showcases entrepreneurs achieving growth and niche market outcomes in emerging food technologies."
+description: "Since 2018 this food technology innovation conference has attracted leaders in food production, food and agricultural science and innovators across the food manufacturing sector.With a firm focus on practical business outcomes, this conference is aimed at people in the food production and food supply chains.ProteinTECH showcases entrepreneurs achieving growth and niche market outcomes in emerging food technologies."
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Ingredients]
 topics: [Business, Sci-Tech]

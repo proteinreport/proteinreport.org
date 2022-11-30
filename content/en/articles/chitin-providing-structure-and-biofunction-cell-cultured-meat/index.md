@@ -10,7 +10,7 @@ products: [Meat, Ingredients]
 topics: [Sci-Tech]
 regions: [International]
 flags: [Featured]
-directory: []
+directory: [NA]
 contributors: [10872]
 images: [chitin-image_0.png]
 draft: false

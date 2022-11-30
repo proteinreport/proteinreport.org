@@ -3,8 +3,7 @@ title: "Alt Protein Conference 2021: The Future of Meat: Hybrid"
 date: 2021-07-19 12:45:57
 lastmod: 2021-07-19 12:45:57
 slug: /alt-protein-conference-2021-future-meat-hybrid
-description: "The Protein Directory and Cell Agri are proud to present the Alt Protein Conference 2021: ‘The Future of Meat: Hybrid’ with a focus on the new wave of companies transforming the future of meat.
-Join us for a 1-day virtual conference to learn how future food companies are combining the best of both worlds and creating hybrid meats with both cellular agriculture and plant-based alternative proteins."
+description: "The Protein Directory and Cell Agri are proud to present the Alt Protein Conference 2021: ‘The Future of Meat: Hybrid’ with a focus on the new wave of companies transforming the future of meat.Join us for a 1-day virtual conference to learn how future food companies are combining the best of both worlds and creating hybrid meats with both cellular agriculture and plant-based alternative proteins."
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat]
 topics: [Business]

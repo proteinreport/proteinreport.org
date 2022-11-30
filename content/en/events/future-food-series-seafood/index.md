@@ -3,9 +3,7 @@ title: "Future Food Series: Seafood"
 date: 2020-12-01 14:35:24
 lastmod: 2020-12-01 14:35:24
 slug: /future-food-series-seafood
-description: "ProVeg Incubator and NX-Food present ... the foods of the future!
-Welcome to the third event in our Future Food Series! This time, we are diving into the topic of seafood alternatives.
-On 9 December, we will be chatting to startup founders from Europe and Asia about which products the plant-based and cultivated seafood sectors have to offer, how to successfully launch them into a huge market full of potential and what the future is going to bring."
+description: "ProVeg Incubator and NX-Food present ... the foods of the future!Welcome to the third event in our Future Food Series! This time, we are diving into the topic of seafood alternatives.On 9 December, we will be chatting to startup founders from Europe and Asia about which products the plant-based and cultivated seafood sectors have to offer, how to successfully launch them into a huge market full of potential and what the future is going to bring."
 proteins: [Cell-Based, Plant-Based]
 products: [Seafood]
 topics: [Business]
@@ -36,8 +34,8 @@ uuid: 8051
 <ul>
 <li>Carrie Chan, Co-Founder and CEO of Avant Meats</li>
 <li>Sandhya Sriram, Founder and CEO of Shiok Meats</li>
-<li>Tom Johansson &amp; Emil Wasteson, Co-Founders of Hooked</li>
-<li>Georg Baunach, Managing Partner &amp; Co-Founder of Hatch</li>
+<li>Tom Johansson & Emil Wasteson, Co-Founders of Hooked</li>
+<li>Georg Baunach, Managing Partner & Co-Founder of Hatch</li>
 </ul>
 <p>ProVeg Incubator is the world’s leading Incubator of plant-based and cultured food startups. Our 40+ alumni startups come from all over the world and have raised over €18 million and launched more than 40 products.</p>
 <p>NX-Food stands for Next Generation Food and is a food innovation hub of the wholesaler METRO. We are proud to be working in partnership together to accelerate food innovation in the plant-based space.</p>

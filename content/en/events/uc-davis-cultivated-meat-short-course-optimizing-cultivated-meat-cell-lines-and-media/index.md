@@ -3,24 +3,23 @@ title: "UC Davis Cultivated Meat Short Course: Optimizing Cultivated Meat Cell L
 date: 2022-04-16 06:53:17
 lastmod: 2022-04-16 06:53:17
 slug: /uc-davis-cultivated-meat-short-course-optimizing-cultivated-meat-cell-lines-and-media
-description: "Sponsored by the UC Davis Biotechnology Program &amp; the UC Davis Cultivated Meat Consortium
-Join the UC Davis Cultivated Meat Consortium faculty and research team members for an overview of the latest research approaches used to generate cell lines and optimize media for use in cultivated meat fermentations, as well as a look at the potential role of edible microcarriers."
+description: "Sponsored by the UC Davis Biotechnology Program & the UC Davis Cultivated Meat ConsortiumJoin the UC Davis Cultivated Meat Consortium faculty and research team members for an overview of the latest research approaches used to generate cell lines and optimize media for use in cultivated meat fermentations, as well as a look at the potential role of edible microcarriers."
 proteins: [Cell-Based]
 products: [Meat, Ingredients]
 topics: [Sci-Tech]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 images: ["biotech-logo.jpg"]
 banner_image: "NA"
 online: TRUE
 start_date: 2022-05-17
 end_date: 2022-05-17
-website: "https://ces-apps.ucdavis.edu/confreg/index.cfm?confid=1196&amp;showunpublic=1"
+website: "https://ces-apps.ucdavis.edu/confreg/index.cfm?confid=1196&showunpublic=1"
 contributors: [NL]
 draft: false
 weight: 5000
 uuid: 10732
 ---
-<p><strong><em>Sponsored by the UC Davis Biotechnology Program &amp; the UC Davis Cultivated Meat Consortium</em></strong></p>
+<p><strong><em>Sponsored by the UC Davis Biotechnology Program & the UC Davis Cultivated Meat Consortium</em></strong></p>
 <p>Join the UC Davis Cultivated Meat Consortium faculty and research team members for an overview of the latest research approaches used to generate cell lines and optimize media for use in cultivated meat fermentations, as well as a look at the potential role of edible microcarriers.</p>
 <p>This work was funded in part by NSF Growing Convergent Research award #2021132. Please see our website for more information on CMC activities:<strong> </strong><a href="https://biotech.ucdavis.edu/cultivated-meat-consortium-cmc">Cultivated Meat Consortium (CMC) | UC Davis Biotechnology Program</a></p>
 <p><strong>Instructors: </strong>The course will be hosted by the UC Davis Biotechnology Program and feature faculty researchers participating in the UC Davis Cultivated Meat Consortium.</p>

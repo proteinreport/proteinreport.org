@@ -3,9 +3,7 @@ title: "Future Food-Tech London"
 date: 2021-01-14 20:47:19
 lastmod: 2021-01-14 20:47:19
 slug: /future-food-tech-london
-description: "Scaling Solutions in Personal Health and Nutrition Security.
-Gathering over 700 global food system leaders, the Future Food-Tech Summit on September 31 – October 1 will drive forward a collaborative, science-based approach to nutrition innovation.
-Join a senior delegation of food innovators, brands, ingredient providers, chefs, investors, and technology developers to exchange ideas through 1-1 networking, live debates, pitch competitions and group discussions."
+description: "Scaling Solutions in Personal Health and Nutrition Security.Gathering over 700 global food system leaders, the Future Food-Tech Summit on September 31 – October 1 will drive forward a collaborative, science-based approach to nutrition innovation.Join a senior delegation of food innovators, brands, ingredient providers, chefs, investors, and technology developers to exchange ideas through 1-1 networking, live debates, pitch competitions and group discussions."
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
@@ -26,7 +24,7 @@ uuid: 8264
 <p><strong>Scaling Solutions in Personal Health and Nutrition Security.</strong></p>
 <p>Gathering over 700 global food system leaders, the Future Food-Tech Summit<strong> </strong>on September 31 – October 1 will drive forward a collaborative, science-based approach to nutrition innovation.</p>
 <p>Join a senior delegation of food innovators, brands, ingredient providers, chefs, investors, and technology developers to exchange ideas through 1-1 networking, live debates, pitch competitions and group discussions.</p>
-<p>Whether you are using our intuitive, easy-to-use virtual platform or attending our select in-person content hours, the September summit will offer unique opportunities to connect with fellow leaders in the sector and scale R&amp;D breakthroughs from lab to plate. </p>
+<p>Whether you are using our intuitive, easy-to-use virtual platform or attending our select in-person content hours, the September summit will offer unique opportunities to connect with fellow leaders in the sector and scale R&D breakthroughs from lab to plate. </p>
 <p><em>Key Themes</em></p>
 <ul>
 <li>Collaborative Strategies to Prioritise Nutrition Security</li>

@@ -3,21 +3,7 @@ title: "Future Food Systems - London"
 date: 2022-01-24 09:13:06
 lastmod: 2022-01-24 09:13:06
 slug: /future-food-systems-london
-description: "We’re giving you the chance to re-imagine the current food system in this special post-summit think-in on 2 March.
-Led by advisor, speaker, and sustainable business commentator Mike Barry, the think-in will bring together a unique combination of participants from across the value chain.
-Join ambitious and innovative change agents to:
-
-
-be inspired
-
-
-challenge the status quo
-
-
-approach systemic challenges from a fresh perspective
-
-
-unlock creativity and boundary-pushing solutions"
+description: "We’re giving you the chance to re-imagine the current food system in this special post-summit think-in on 2 March.Led by advisor, speaker, and sustainable business commentator Mike Barry, the think-in will bring together a unique combination of participants from across the value chain.Join ambitious and innovative change agents to:be inspiredchallenge the status quoapproach systemic challenges from a fresh perspectiveunlock creativity and boundary-pushing solutions"
 proteins: [Cell-Based, Plant-Based, Microbial, Animal]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Environment]

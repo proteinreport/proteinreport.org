@@ -20,7 +20,7 @@ weight: 5000
 uuid: 6836
 ---
 <p>The global demand for meat is expected to rise nearly 70% by 2050. How can we feed this growing hunger for animal protein with less negative impact on the environment, human health and animal welfare? Cultured Meat – grown in a bioreactor instead of a farm – could be the answer. But what does it take to bring it to the dinner tables of consumers?</p>
-<p>To find out, join our first ever Innovators’ Club online edition, “From bench to fork: the science behind cultured meat”, with our expert keynote speakers: Liz Specht, Associate Director of Science &amp; Technology at The Good Food Institute, and Lavanya Anandan, Head of Innovation Field Clean Meat, Silicon Valley Innovation Hub of Merck KGaA, Darmstadt, Germany.</p>
+<p>To find out, join our first ever Innovators’ Club online edition, “From bench to fork: the science behind cultured meat”, with our expert keynote speakers: Liz Specht, Associate Director of Science & Technology at The Good Food Institute, and Lavanya Anandan, Head of Innovation Field Clean Meat, Silicon Valley Innovation Hub of Merck KGaA, Darmstadt, Germany.</p>
 <p>During the event, hosted by Annika Zille, Head of Marketing and Market Intelligence at our Innovation Center, we will explore the state of the cultivated meat industry and the biotechnology behind it, answering key questions like:</p>
 <ul>
 <li>Why should we eat meat grown in a bioreactor?</li>

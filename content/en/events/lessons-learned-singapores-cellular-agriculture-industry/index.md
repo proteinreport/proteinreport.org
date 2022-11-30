@@ -3,12 +3,7 @@ title: "Lessons learned from Singapore's cellular agriculture industry"
 date: 2021-03-02 10:26:45
 lastmod: 2021-03-02 10:26:45
 slug: /lessons-learned-singapores-cellular-agriculture-industry
-description: "Co-hosted by Evolve.ag and Big Idea Ventures, this event will offer insights from four experts on how to propel cell ag into the future.
-In this free, one-hour long roundtable, you'll hear from Singapore's pioneers in the cellular agriculture sector:
-Fengru Lin - TurtleTree Labs
-Vin Srinivas - Gaia Foods
-Dr. Sandhya Sriram - Shiok Meats
-Dr. Matthew Zhao - Big Idea Ventures"
+description: "Co-hosted by Evolve.ag and Big Idea Ventures, this event will offer insights from four experts on how to propel cell ag into the future.In this free, one-hour long roundtable, you'll hear from Singapore's pioneers in the cellular agriculture sector:Fengru Lin - TurtleTree LabsVin Srinivas - Gaia FoodsDr. Sandhya Sriram - Shiok MeatsDr. Matthew Zhao - Big Idea Ventures"
 proteins: [Cell-Based]
 products: [Meat, Dairy, Seafood]
 topics: [Business, Policy]

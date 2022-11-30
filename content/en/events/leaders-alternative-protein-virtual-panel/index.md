@@ -7,7 +7,7 @@ description: "Join us to discuss trends in food biotechnology as we move towards
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy]
 topics: [Business]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 images: ["1613485432596.jpg"]
 banner_image: "banner_5.jpg"
 online: TRUE

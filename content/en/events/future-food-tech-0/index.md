@@ -3,8 +3,7 @@ title: "Future Food-Tech"
 date: 2020-10-05 15:22:21
 lastmod: 2020-10-05 15:22:21
 slug: /future-food-tech-0
-description: "Creating Nutritious, Sustainable and Accessible Food for Urban Populations
-Focused on strengthening North America’s food system in a post-Covid-19 world, Future Food-Tech New York returns as a virtual summit on December 2-3, 2020.  Trailblazing start-ups, leading food brands and global money managers will explore the short and long-term impacts of the crisis, and identify which areas of food-tech will have the most impact in 2021."
+description: "Creating Nutritious, Sustainable and Accessible Food for Urban PopulationsFocused on strengthening North America’s food system in a post-Covid-19 world, Future Food-Tech New York returns as a virtual summit on December 2-3, 2020.  Trailblazing start-ups, leading food brands and global money managers will explore the short and long-term impacts of the crisis, and identify which areas of food-tech will have the most impact in 2021."
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Ingredients]
 topics: [Business, Sci-Tech]
@@ -29,7 +28,7 @@ uuid: 7760
 <li>Bridging the Nutritional Gap in Plant-Based Products</li>
 <li>Home-Living: Healthy Snacks to Support Mind and Body</li>
 <li>Food as Medicine: Combating Chronic Health Conditions Through Nutrition</li>
-<li>Food Service &amp; Delivery: Future-Proofing Using AI &amp; Automation</li>
+<li>Food Service & Delivery: Future-Proofing Using AI & Automation</li>
 <li>Scaling Start-Ups: Choosing the Perfect Partner</li>
 <li>Microbiome Intervention: Improving Health, Cognition and Mood</li>
 <li>Fermentation: Laying the Foundations for the Protein Supply Chain of the Future</li>

@@ -3,8 +3,7 @@ title: "Future Food-Tech"
 date: 2022-04-12 09:38:46
 lastmod: 2022-04-12 09:38:46
 slug: /future-food-tech-2
-description: "Designing Foods to Improve Human and Planetary Health
-At a time of heightened fragility in the global agri-food supply chain, there has never been a more urgent need for food-tech innovation that protects both human and planetary health."
+description: "Designing Foods to Improve Human and Planetary HealthAt a time of heightened fragility in the global agri-food supply chain, there has never been a more urgent need for food-tech innovation that protects both human and planetary health."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
@@ -33,11 +32,11 @@ uuid: 10707
 <li>Survival Strategies: Sustaining Business in a Downturn</li>
 <li>Alternative Fats and Lipids: The Missing Ingredient</li>
 <li>Infant Nutrition and Formula: Feeding the Next Generation</li>
-<li>The Future Consumer: Food Trends, Buying Behaviours &amp; Generational Eating Habits</li>
+<li>The Future Consumer: Food Trends, Buying Behaviours & Generational Eating Habits</li>
 <li>Protein Production Debate: Which Technologies Have the Fastest Route to Commercialisation?</li>
 <li>Routes to Regulation: Moving the Needle on Cultivated Meat and Novel Foods</li>
 <li>Ultra-Processed, Ultra-Unhealthy? Creating Healthier Plant-Based ProductsScaling Novel Foods: Defining the Critical Factors for Large-Scale Manufacturing</li>
 <li>Targeting the Gut Microbiome: Personalising Foods for Physical and Mental Health</li>
-<li>Personalised Nutrition: Revolutionising Our Approach to Health &amp; Performance</li>
+<li>Personalised Nutrition: Revolutionising Our Approach to Health & Performance</li>
 <li>Displacing, Not Replacing, Meat: Exploring the White Space of Plant-Based</li>
 </ul>

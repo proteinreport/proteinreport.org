@@ -3,13 +3,11 @@ title: "Future Food-Tech"
 date: 2020-11-12 11:51:36
 lastmod: 2020-11-12 11:51:36
 slug: /future-food-tech-1
-description: "Moonshot Solutions for a Food System Under Stress
-Our food system is undergoing a revolution. Covid-19 and the threat of climate change are driving unprecedented demand for more efficient, nutritious and sustainable solutions.
-Future Food-Tech’s flagship San Francisco summit, hosted virtually, will act as a digital bioreactor – bringing together West Coast innovators, global food brands, ingredient providers and investors to grow ideas from concept to reality."
+description: "Moonshot Solutions for a Food System Under StressOur food system is undergoing a revolution. Covid-19 and the threat of climate change are driving unprecedented demand for more efficient, nutritious and sustainable solutions.Future Food-Tech’s flagship San Francisco summit, hosted virtually, will act as a digital bioreactor – bringing together West Coast innovators, global food brands, ingredient providers and investors to grow ideas from concept to reality."
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["FFT-SF_2021_logo.png"]
 banner_image: "FFT-SF_2021_virtual_logo_LIGHTBG.png"
 online: TRUE

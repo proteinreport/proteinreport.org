@@ -3,8 +3,7 @@ title: "Alternative Proteins Webinar: Why Some of the World’s Largest Food Com
 date: 2020-07-16 13:06:36
 lastmod: 2020-07-16 13:06:36
 slug: /alternative-proteins-webinar-why-some-worlds-largest-food-companies-are-diversifying
-description: "The alternative protein industry is in the midst of rapid development. When some of the world’s leading food manufacturers and restaurants start focusing on alternative proteins, it’s clear that there is a major shift afoot. 
-As consumers show more enthusiasm and companies reach milestones like building the first pilot production facilities for cell-based meat, how will the new economic landscape have impacted the future of this segment?"
+description: "The alternative protein industry is in the midst of rapid development. When some of the world’s leading food manufacturers and restaurants start focusing on alternative proteins, it’s clear that there is a major shift afoot. As consumers show more enthusiasm and companies reach milestones like building the first pilot production facilities for cell-based meat, how will the new economic landscape have impacted the future of this segment?"
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy]
 topics: [Business]

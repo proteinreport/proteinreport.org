@@ -3,13 +3,11 @@ title: "Future of Seafood with Wildtype"
 date: 2021-06-02 07:18:06
 lastmod: 2021-06-02 07:18:06
 slug: /future-seafood-wildtype
-description: "Join Wildtype for a delicious session preparing sushi-grade salmon that is fish-free and redefines the sustainability of seafood.
-About this event
-Sushi-grade salmon without the fish. Seafood without touching the precious resources of our ocean. Both of these are now possible with a new method of food production called cellular agriculture, pioneered by the food startup Wildtype."
+description: "Join Wildtype for a delicious session preparing sushi-grade salmon that is fish-free and redefines the sustainability of seafood.About this eventSushi-grade salmon without the fish. Seafood without touching the precious resources of our ocean. Both of these are now possible with a new method of food production called cellular agriculture, pioneered by the food startup Wildtype."
 proteins: [Cell-Based]
 products: [Seafood]
 topics: [Business, Sci-Tech]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 images: ["logo.jpg"]
 banner_image: "NA"
 online: TRUE
@@ -25,5 +23,5 @@ uuid: 9060
 <p><strong>About this event</strong></p>
 <p>Sushi-grade salmon without the fish. Seafood without touching the precious resources of our ocean. Both of these are now possible with a new method of food production called cellular agriculture, pioneered by the food startup Wildtype.</p>
 <p>Join the co-founders of Wildtype and Executive Chef Nick Green (L'Auberge Del Mar) for a special evening of sushi-making and open dialogue about how cell-ag seafood is made, and the challenges and opportunities ahead.</p>
-<p>Moderated by Dr. Liz Specht, Director of Science &amp; Technology at The Good Food Institute.</p>
-<p>Hosted by the MIT Food &amp; Ag Club and Stanford Alt Protein Project.</p>
+<p>Moderated by Dr. Liz Specht, Director of Science & Technology at The Good Food Institute.</p>
+<p>Hosted by the MIT Food & Ag Club and Stanford Alt Protein Project.</p>

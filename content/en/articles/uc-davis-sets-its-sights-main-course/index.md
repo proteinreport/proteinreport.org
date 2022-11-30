@@ -8,7 +8,7 @@ excerpt: "How do you feed 10 billion people? The university that helped turn Cal
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Business, Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Featured]
 directory: [694, 695, 697, 698, 5831, 7798]
 contributors: [8110]

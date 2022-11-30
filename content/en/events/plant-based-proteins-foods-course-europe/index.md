@@ -1,9 +1,9 @@
 ---
-title: "Plant-Based Proteins &amp; Foods Course Europe"
+title: "Plant-Based Proteins & Foods Course Europe"
 date: 2022-01-24 09:42:44
 lastmod: 2022-01-24 09:42:44
 slug: /plant-based-proteins-foods-course-europe
-description: "The course “Plant-Based Proteins &amp; Foods” is designed to give participants a theoretical and practical overview of plant-based proteins currently available for food applications and to provide hands-on information about their properties and functionalities."
+description: "The course “Plant-Based Proteins & Foods” is designed to give participants a theoretical and practical overview of plant-based proteins currently available for food applications and to provide hands-on information about their properties and functionalities."
 proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
@@ -20,4 +20,4 @@ draft: false
 weight: 5000
 uuid: 10333
 ---
-<p>The course “Plant-Based Proteins &amp; Foods” is designed to give participants a theoretical and practical overview of plant-based proteins currently available for food applications and to provide hands-on information about their properties and functionalities.</p>
+<p>The course “Plant-Based Proteins & Foods” is designed to give participants a theoretical and practical overview of plant-based proteins currently available for food applications and to provide hands-on information about their properties and functionalities.</p>

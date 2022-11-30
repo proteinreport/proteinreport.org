@@ -3,12 +3,11 @@ title: "The State of the Plant-Based Meat, Eggs, and Dairy Industry"
 date: 2020-05-21 07:30:12
 lastmod: 2020-05-21 07:30:12
 slug: /state-plant-based-meat-eggs-and-dairy-industry
-description: "The last year has been groundbreaking for the plant-based food industry. Join GFI's Associate Director for Corporate Engagement Caroline Bushnell and GFI's Startup Growth Specialist as we dive into the most important retail and foodservice sales data, investment analytics, technical advancements, consumer insights, industry predictions, and more (including a 2020 update).
-Due to data availability purposes, this presentation focuses mostly on U.S.-based-or-selling companies."
+description: "The last year has been groundbreaking for the plant-based food industry. Join GFI's Associate Director for Corporate Engagement Caroline Bushnell and GFI's Startup Growth Specialist as we dive into the most important retail and foodservice sales data, investment analytics, technical advancements, consumer insights, industry predictions, and more (including a 2020 update).Due to data availability purposes, this presentation focuses mostly on U.S.-based-or-selling companies."
 proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["The-Good-Food-Institute-Logo-post.jpg"]
 banner_image: "EYe7sSgUMAAgSZG.jpg"
 online: TRUE

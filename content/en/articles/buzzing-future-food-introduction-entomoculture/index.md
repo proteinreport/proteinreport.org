@@ -8,7 +8,7 @@ excerpt: "Cultured insect meat products might look more like normal burgers and 
 proteins: [Cell-Based, Insect]
 products: [Meat]
 topics: [Sci-Tech]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 flags: [Featured, Explainer]
 directory: [697]
 contributors: [8107]

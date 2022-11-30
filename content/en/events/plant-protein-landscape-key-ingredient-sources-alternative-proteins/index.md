@@ -3,8 +3,7 @@ title: "The Plant Protein Landscape: Key ingredient sources for alternative prot
 date: 2021-01-29 13:57:40
 lastmod: 2021-01-29 13:57:40
 slug: /plant-protein-landscape-key-ingredient-sources-alternative-proteins
-description: "Consumer demand for plant-based products is growing rapidly, and a broad portfolio of plant proteins is now available for plant-based meat, egg, and dairy applications.
-This webinar will explore the key characteristics of plant protein sources for alternative protein end products, including:"
+description: "Consumer demand for plant-based products is growing rapidly, and a broad portfolio of plant proteins is now available for plant-based meat, egg, and dairy applications.This webinar will explore the key characteristics of plant protein sources for alternative protein end products, including:"
 proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Ingredients]
 topics: [Business]

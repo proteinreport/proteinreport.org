@@ -8,7 +8,7 @@ excerpt: "Though perhaps not thought of as immediately as startup magnets like S
 proteins: [Cell-Based]
 products: [Meat, Dairy, Ingredients]
 topics: [Business, Policy]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Featured]
 directory: [697, 698, 5808, 7109, 8333]
 contributors: [8107]

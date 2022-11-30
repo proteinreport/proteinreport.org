@@ -3,8 +3,7 @@ title: "Promise and Challenges of Stem Cells in Global Sustainability"
 date: 2021-01-15 10:55:35
 lastmod: 2021-01-15 10:55:35
 slug: /promise-and-challenges-stem-cells-global-sustainability
-description: "The fourth and final program of the series will highlight the potential and the challenges of cell-based approaches to meat and fish alternatives from experts in the field and industry.
-Speakers:"
+description: "The fourth and final program of the series will highlight the potential and the challenges of cell-based approaches to meat and fish alternatives from experts in the field and industry.Speakers:"
 proteins: [Cell-Based]
 products: [Meat, Seafood]
 topics: [Environment, Sci-Tech]

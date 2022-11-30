@@ -5,7 +5,7 @@ lastmod: 2020-07-20 18:20:43
 slug: /science-alt-protein-growing-bovine-muscle-tissue-tsp-scaffolds-dr-tom-ben-arye
 description: "Can textured soy protein be a successful platform for growing skeletal muscle tissue? In order to grow whole muscle cuts of cultivated meat, we need a three-dimensional scaffold to provide support to the cells and mimic the structure of the extracellular matrix (ECM) that is edible, delicious, and nutritious. Join Dr. Tom Ben-Arye, Senior Scientist at GFI Israel, as he demonstrates the use of textured soy protein—an edible, porous biomaterial that is commonly used to generate plant-based meat analogues—as a novel scaffold to support cell attachment and proliferation."
 proteins: [Cell-Based]
-products: [Meat, Scaffolding &amp; Structure]
+products: [Meat, Scaffolding & Structure]
 topics: [Sci-Tech]
 regions: [International]
 images: ["The-Good-Food-Institute-Logo-post.jpg"]

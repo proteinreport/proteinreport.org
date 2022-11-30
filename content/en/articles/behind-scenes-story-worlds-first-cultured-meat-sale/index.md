@@ -8,7 +8,7 @@ excerpt: "On December 29, 2017, just two days before New Year’s Eve, Josh Tetr
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Business, Policy]
-regions: [Europe, US &amp; Canada]
+regions: [Europe, US & Canada]
 flags: [Book Excerpt, Featured]
 directory: [234]
 contributors: [8109]

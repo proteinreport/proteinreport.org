@@ -3,9 +3,7 @@ title: "Pinduoduo Food Systems Forum"
 date: 2021-06-04 06:43:58
 lastmod: 2021-06-04 06:43:58
 slug: /pinduoduo-food-systems-forum
-description: "The pandemic has shone a light on how fragile and intertwined our global agri-food supply chain is, making it even more pressing to push for food systems innovation and change. Can we leverage technology to build a more resilient food system that feeds more people and feeds them better?
- 
-Join us virtually for our inaugural Food Systems Forum, which will convene experts from around the world to share their insights and spark further connections and potential collaborations."
+description: "The pandemic has shone a light on how fragile and intertwined our global agri-food supply chain is, making it even more pressing to push for food systems innovation and change. Can we leverage technology to build a more resilient food system that feeds more people and feeds them better? Join us virtually for our inaugural Food Systems Forum, which will convene experts from around the world to share their insights and spark further connections and potential collaborations."
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Ingredients]
 topics: [Business, Environment, Health]

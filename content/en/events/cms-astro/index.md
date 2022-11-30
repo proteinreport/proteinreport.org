@@ -3,8 +3,7 @@ title: "CMS Astro"
 date: 2021-03-26 19:42:46
 lastmod: 2021-03-26 19:42:46
 slug: /cms-astro
-description: "A virtual symposium dedicated to the role of cell-cultured meat technology in space.
-Join us for CMS Astro. A single day of talks related to cell-based meat technology in applications of outer space research, space travel, and deep space exploration."
+description: "A virtual symposium dedicated to the role of cell-cultured meat technology in space.Join us for CMS Astro. A single day of talks related to cell-based meat technology in applications of outer space research, space travel, and deep space exploration."
 proteins: [Cell-Based]
 products: [Meat, Dairy, Seafood]
 topics: [Sci-Tech]

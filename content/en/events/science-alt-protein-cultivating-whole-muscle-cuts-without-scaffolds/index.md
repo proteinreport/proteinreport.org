@@ -7,7 +7,7 @@ description: "Can we cultivate whole muscle cuts with full complement of cell ty
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 images: ["gfilogo.jpg"]
 banner_image: "gfibanner_0.png"
 online: TRUE

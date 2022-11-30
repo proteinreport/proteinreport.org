@@ -8,7 +8,7 @@ excerpt: "Cultivated ground meat has the potential to unravel the business model
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Featured, Analysis]
 directory: [234, 694, 695, 836]
 contributors: [8172]

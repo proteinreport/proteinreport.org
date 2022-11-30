@@ -3,12 +3,11 @@ title: "Urner Barry's Plant Protein Industry Insights"
 date: 2021-01-18 14:39:09
 lastmod: 2021-01-18 14:39:09
 slug: /urner-barrys-plant-protein-industry-insights
-description: "📅 Mark your calendars!
-🖥️ If your company is affected by protein prices, this week's Protein Industry Insights webinar is one you do NOT want to miss - especially as you begin to strategize for a more successful year!"
+description: "📅 Mark your calendars!🖥️ If your company is affected by protein prices, this week's Protein Industry Insights webinar is one you do NOT want to miss - especially as you begin to strategize for a more successful year!"
 proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 images: ["urnerbarry.jpg"]
 banner_image: "UB_BannerWebinar.jpg"
 online: TRUE

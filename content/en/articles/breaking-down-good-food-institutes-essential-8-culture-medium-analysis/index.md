@@ -60,7 +60,7 @@ uuid: 7569
 <ul>
 	<li><strong>DMEM:</strong> 52 ingredient basal medium which comprises the bulk of the culture medium and supplies most of the nutrients</li>
 	<li><strong>AA2P:</strong> Vitamin C derivative</li>
-	<li><strong>NaHCO_3 <span class="amp">&amp;</span> Sodium Selenite:</strong> Salts</li>
+	<li><strong>NaHCO_3 <span class="amp">&</span> Sodium Selenite:</strong> Salts</li>
 	<li><strong>Insulin + Transferrin + FGF-2 + TGF-beta:</strong> Growth Factors</li>
 </ul>
 

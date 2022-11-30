@@ -7,7 +7,7 @@ description: "NPC is very pleased to announce a special virtual pitch event dedi
 proteins: [Cell-Based, Plant-Based, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["npc.png"]
 banner_image: "bann.jpg"
 online: TRUE

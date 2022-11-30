@@ -8,7 +8,7 @@ excerpt: "Much attention has been given to the innovators producing plant- and c
 proteins: [Algae, Fungi]
 products: [Ingredients]
 topics: [Business, Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Book Excerpt, Featured]
 directory: [694, 695, 5839]
 contributors: [9645]

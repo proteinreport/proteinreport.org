@@ -180,7 +180,7 @@ uuid: 9606
 <p>DIY cell culture manuals (March 2020 versions):</p>
 
 <p><a href="https://www.slideshare.net/2co/diy-culture-medium-manual-for-dmem-and-l15" target="_blank">DIY culture medium manual for DMEM and L15</a><br />
-<a href="https://www.slideshare.net/2co/diy-cell-culture-manual-the-roadmap-to-diy-cellbased-meat" target="_blank">DIY cell culture manual (&amp; the roadmap to DIY cell-based meat)</a></p>
+<a href="https://www.slideshare.net/2co/diy-cell-culture-manual-the-roadmap-to-diy-cellbased-meat" target="_blank">DIY cell culture manual (& the roadmap to DIY cell-based meat)</a></p>
 
 <p>In November 2019, Dr. Mark Post visited Japan to speak at a public science event organized by JST as a part of the JST-Mirai Program. For this event, high-school student members of the Shojinmeat Project demonstrated a DIY culture medium made from amino acid supplements, table salt, and other household materials. During Dr. Post’s keynote speech, he <a href="https://twitter.com/Rurumayu0915/status/1195945529366106122" target="_blank">drank the DIY medium on stage</a>.</p>
 

@@ -8,7 +8,7 @@ excerpt: "Over the next two years, many cultivated meat startups will bring prod
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Featured, Analysis]
 directory: [237, 694, 695, 836, 5829]
 contributors: [8172]
@@ -92,7 +92,7 @@ uuid: 8479
           </div>  
             <div class="blazy__caption">
                               <div class="blazy__caption--description">* Source: <a href="http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/psdata.html">Revenue Multiples by Sector (US), Aswath Damodaran, January 2021</a>  
-** Source: <a href="https://www.gurufocus.com/industry_overview.php?industry=Semiconductors&amp;region=Europe">Overview of Market Industries: Valuation and Profitability (Semiconductors), gurufocus</a></div>
+** Source: <a href="https://www.gurufocus.com/industry_overview.php?industry=Semiconductors&region=Europe">Overview of Market Industries: Valuation and Profitability (Semiconductors), gurufocus</a></div>
                         </div>
       
 

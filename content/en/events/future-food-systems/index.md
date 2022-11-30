@@ -3,7 +3,7 @@ title: "Future Food Systems"
 date: 2022-01-24 09:09:30
 lastmod: 2022-01-24 09:09:30
 slug: /future-food-systems
-description: "Future Food Systems unites sustainability, supply chain, innovation and R&amp;D leaders from food brands, hospitality providers, retailers, ingredient manufacturers, and agri-business companies. It explores innovative solutions to deliver sustainable nutrition outcomes through more resilient supply chains, behavior change, and new models."
+description: "Future Food Systems unites sustainability, supply chain, innovation and R&D leaders from food brands, hospitality providers, retailers, ingredient manufacturers, and agri-business companies. It explores innovative solutions to deliver sustainable nutrition outcomes through more resilient supply chains, behavior change, and new models."
 proteins: [Plant-Based, Animal]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Environment]
@@ -19,4 +19,4 @@ draft: false
 weight: 5000
 uuid: 10327
 ---
-<p>Future Food Systems unites sustainability, supply chain, innovation and R&amp;D leaders from food brands, hospitality providers, retailers, ingredient manufacturers, and agri-business companies. It explores innovative solutions to deliver sustainable nutrition outcomes through more resilient supply chains, behavior change, and new models.</p>
+<p>Future Food Systems unites sustainability, supply chain, innovation and R&D leaders from food brands, hospitality providers, retailers, ingredient manufacturers, and agri-business companies. It explores innovative solutions to deliver sustainable nutrition outcomes through more resilient supply chains, behavior change, and new models.</p>

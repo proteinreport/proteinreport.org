@@ -1,14 +1,13 @@
 ---
-title: "XPRIZE Feed the Next Billion Competition Networking &amp; Talk"
+title: "XPRIZE Feed the Next Billion Competition Networking & Talk"
 date: 2021-04-22 10:08:04
 lastmod: 2021-04-22 10:08:04
 slug: /xprize-feed-next-billion-competition-networking-talk
-description: "District 3 has partnered with the XPRIZE Foundation to lead the Feed the Next Billion competition in Canada. This global challenge is focused on solutions that produce a sustainable alternative to chicken breasts or fish fillets that replicate and/or outperform conventional foods.
-District 3 is investing in the future of alternative proteins, agri-tech, and biotech. We are looking for Canadians working in alternative proteins to network, collaborate and build teams around XPRIZE Feed the Next Billion challenge."
+description: "District 3 has partnered with the XPRIZE Foundation to lead the Feed the Next Billion competition in Canada. This global challenge is focused on solutions that produce a sustainable alternative to chicken breasts or fish fillets that replicate and/or outperform conventional foods.District 3 is investing in the future of alternative proteins, agri-tech, and biotech. We are looking for Canadians working in alternative proteins to network, collaborate and build teams around XPRIZE Feed the Next Billion challenge."
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Seafood]
 topics: [Business, Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["d3_0.jpg"]
 banner_image: "banner_6.jpg"
 online: TRUE

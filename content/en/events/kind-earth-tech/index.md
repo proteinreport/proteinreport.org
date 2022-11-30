@@ -28,7 +28,7 @@ uuid: 7980
 <li>Convert a farm with<strong> KET </strong>cofounder <a href="https://www.linkedin.com/in/iravaneelen/">Ira Van Eelen</a></li>
 <li>Read with <a href="https://www.kindearth.tech/inspiration-books">our book club</a></li>
 <li>Live kind with the <strong>KET</strong>cast hosted by <a href="https://www.linkedin.com/in/emmaosborne/">Emma Osborne</a></li>
-<li>Ask your questions &amp; get answers</li>
+<li>Ask your questions & get answers</li>
 <li>Follow <strong>KET</strong> around the world in a day</li>
 <li>Be educated by our cohort of young geniuses</li>
 <li>And more!</li>

@@ -3,11 +3,7 @@ title: "FAIRR Lunch Webinar: Australian Animal Agriculture in a Post-COVID World
 date: 2020-06-18 11:28:54
 lastmod: 2020-06-18 11:28:54
 slug: /fairr-lunch-webinar-australian-animal-agriculture-post-covid-world
-description: "Join us over lunch to discuss the impact of COVID-19 on Australian Animal Agriculture, including:
-1. The role that intensive animal agriculture plays in increasing zoonotic disease risk.
-2. The vulnerability of the sector to global shocks.
-3. What investors and companies can do to mitigate these risks.
-Jun 25, 2020 12:00 PM in Canberra, Melbourne, Sydney"
+description: "Join us over lunch to discuss the impact of COVID-19 on Australian Animal Agriculture, including:1. The role that intensive animal agriculture plays in increasing zoonotic disease risk.2. The vulnerability of the sector to global shocks.3. What investors and companies can do to mitigate these risks.Jun 25, 2020 12:00 PM in Canberra, Melbourne, Sydney"
 proteins: [Animal]
 products: [Meat, Dairy]
 topics: [Business, Environment, Health]

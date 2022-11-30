@@ -3,17 +3,11 @@ title: "PPAA Webinar: Plant Protein Business Financing 101"
 date: 2020-11-18 21:19:11
 lastmod: 2020-11-18 21:19:11
 slug: /ppaa-webinar-plant-protein-business-financing-101
-description: "Grab a cup of coffee and hear stories from our special guest speaker, Corey Keith, business coach and financing specialist at Keith &amp; Associates. Explore the different options for financing your company.
-He will be joined by entrepreneur Ahmad Yehya, president of Nabati Foods. The ambitious and fast-growing company of plant-based foods is based in Edmonton.
-This one-hour webinar organized by the Plant Protein Alliance of Alberta.
-Schedule:
-• Introduction (5 minutes)
-• Presentations (30 minutes)
-• Q&amp;A (10 minutes)"
+description: "Grab a cup of coffee and hear stories from our special guest speaker, Corey Keith, business coach and financing specialist at Keith & Associates. Explore the different options for financing your company.He will be joined by entrepreneur Ahmad Yehya, president of Nabati Foods. The ambitious and fast-growing company of plant-based foods is based in Edmonton.This one-hour webinar organized by the Plant Protein Alliance of Alberta.Schedule:• Introduction (5 minutes)• Presentations (30 minutes)• Q&A (10 minutes)"
 proteins: [Plant-Based]
 products: [NA]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["logo_0.png"]
 banner_image: "Copy of Financing 101.png"
 online: TRUE
@@ -25,13 +19,13 @@ draft: false
 weight: 5000
 uuid: 7989
 ---
-<p>Grab a cup of coffee and hear stories from our special guest speaker, Corey Keith, business coach and financing specialist at Keith &amp; Associates. Explore the different options for financing your company.</p>
+<p>Grab a cup of coffee and hear stories from our special guest speaker, Corey Keith, business coach and financing specialist at Keith & Associates. Explore the different options for financing your company.</p>
 <p>He will be joined by entrepreneur Ahmad Yehya, president of Nabati Foods. The ambitious and fast-growing company of plant-based foods is based in Edmonton.</p>
 <p>This one-hour webinar organized by the Plant Protein Alliance of Alberta.</p>
 <p><strong>Schedule:</strong></p>
 <p>• Introduction (5 minutes)</p>
 <p>• Presentations (30 minutes)</p>
-<p>• Q&amp;A (10 minutes)</p>
+<p>• Q&A (10 minutes)</p>
 <p>• Closing (5 minutes)</p>
 <p>• Breakout rooms with the presenters for deeper discussion and networking (10 minutes)</p>
 <p><strong>About our speakers:</strong></p>

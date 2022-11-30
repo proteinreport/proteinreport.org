@@ -7,7 +7,7 @@ description: "Live and in person January 25th - 27th 2022 @ the Oakland Marriott
 proteins: [Cell-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients, Materials]
 topics: [Business, Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["SynBioBeta.jpg"]
 banner_image: "banner.jpg"
 online: FALSE

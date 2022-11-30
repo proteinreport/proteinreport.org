@@ -251,6 +251,15 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "jobs"}
       - {label: "Name", name: "title", widget: "string"}
+      - label: "Company"
+        name: "company"
+        widget: "relation"
+        collection: "directory"
+        search_fields: ["uuid", "title"]
+        value_field: "uuid"
+        display_fields: ["title"]
+      - {label: "Company Name", name: "company_name", widget: "string", required: false}
+      - {label: "Company Link", name: "company_link", widget: "string", required: false}
       - {label: "Image", name: "images", widget: "image"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "UUID", name: "uuid", widget: "uuid" }

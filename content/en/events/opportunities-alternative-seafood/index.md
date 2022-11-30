@@ -3,8 +3,7 @@ title: "Opportunities in Alternative Seafood"
 date: 2020-06-19 09:59:39
 lastmod: 2020-06-19 09:59:39
 slug: /opportunities-alternative-seafood
-description: "With global seafood demand projected to rise over the coming decades and sustainable seafood production unable to keep pace, the opportunities for plant-based and cultivated seafood development and commercialization are endless. Join the Good Food Institute and Changing Tastes for a webinar on alternative seafood.
-GFI will discuss the need for new seafood production systems and how plant-based and cultivated products can fill in the looming supply gaps. We will then discuss the current market landscape of both plant-based and cultivated seafood."
+description: "With global seafood demand projected to rise over the coming decades and sustainable seafood production unable to keep pace, the opportunities for plant-based and cultivated seafood development and commercialization are endless. Join the Good Food Institute and Changing Tastes for a webinar on alternative seafood.GFI will discuss the need for new seafood production systems and how plant-based and cultivated products can fill in the looming supply gaps. We will then discuss the current market landscape of both plant-based and cultivated seafood."
 proteins: [Cell-Based, Plant-Based]
 products: [Seafood]
 topics: [Business]

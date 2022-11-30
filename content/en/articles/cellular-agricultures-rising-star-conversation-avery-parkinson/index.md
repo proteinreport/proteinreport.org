@@ -8,7 +8,7 @@ excerpt: "Every now and again a young person comes along whose intellect and wis
 proteins: [Cell-Based]
 products: [Meat, Dairy]
 topics: [Business, Culture]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Interview, Featured]
 directory: [697, 698, 699, 6600, 7109, 7131]
 contributors: [8106, 8107]

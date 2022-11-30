@@ -3,8 +3,7 @@ title: "Food, Space, and Re-Imagination"
 date: 2021-04-10 08:52:26
 lastmod: 2021-04-10 08:52:26
 slug: /food-space-and-re-imagination
-description: "If we’re going to create new food systems, they have to improve on what we have and address the challenges we’ll likely face. Trends point to rising challenges and emerging opportunities - what’s a pipe dream vs what’s attainable?
-At Space for Food, we'll dive into alternative proteins, circular food/bio economies, controlled environment ag, microbial ag and systems, and the enabling tech and systems to make it all possible."
+description: "If we’re going to create new food systems, they have to improve on what we have and address the challenges we’ll likely face. Trends point to rising challenges and emerging opportunities - what’s a pipe dream vs what’s attainable?At Space for Food, we'll dive into alternative proteins, circular food/bio economies, controlled environment ag, microbial ag and systems, and the enabling tech and systems to make it all possible."
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Sci-Tech]

@@ -3,8 +3,7 @@ title: "Future Food-Tech Alternative Proteins"
 date: 2021-01-11 18:38:29
 lastmod: 2021-01-11 18:38:29
 slug: /future-food-tech-alternative-proteins
-description: "Future Food-Tech’s new dedicated Alternative Proteins Summit on June 22-23 will connect global food leaders to map out the future of protein.
-Focusing on three key pillars: plant-based, cell-based, and microbial fermentation, it will bring together CPG leaders, entrepreneurs, investors, ingredient providers, retailers and food service providers to unpack the possibilities of these technologies and create unified approaches to scaling the next generation of novel proteins."
+description: "Future Food-Tech’s new dedicated Alternative Proteins Summit on June 22-23 will connect global food leaders to map out the future of protein.Focusing on three key pillars: plant-based, cell-based, and microbial fermentation, it will bring together CPG leaders, entrepreneurs, investors, ingredient providers, retailers and food service providers to unpack the possibilities of these technologies and create unified approaches to scaling the next generation of novel proteins."
 proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Algae]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]
 topics: [Business]

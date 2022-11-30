@@ -24,7 +24,7 @@ uuid: 8301
 <p><strong>Speakers</strong></p>
 <ul>
 <li>Rachit Gupta, Senior Corporate Governance Analyst, <em>Aviva</em></li>
-<li>Cristina Figaredo Research &amp; Engagement Manager, <em>FAIRR Initiative</em></li>
+<li>Cristina Figaredo Research & Engagement Manager, <em>FAIRR Initiative</em></li>
 <li>Alice Martin, Labour Specialist, <em>PIRC</em></li>
 <li>Additional guest TBC</li>
 </ul>

@@ -8,9 +8,9 @@ excerpt: "What distinguishes a muscle cell from a fat cell or a skin cell? The a
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 flags: [Featured, Explainer, Analysis]
-directory: []
+directory: [NA]
 contributors: [8107]
 images: [cow genes.jpg]
 draft: false
@@ -77,7 +77,7 @@ uuid: 8779
 
 <p>As such, a change in a cell’s function is caused by a change in its transcriptome as a response to external or internal stimuli such as development or exposure to a drug. During this process, specific genes are either up-regulated (expressed more) or down-regulated (repressed more). A gene is considered significantly differentially expressed if it is upregulated or downregulated beyond a predetermined threshold. Differential gene expression analysis is the process of identifying such genes by comparing two or more transcriptomes.</p>
 
-<p>This year, I entered my project <em>Lab to Table: A differential gene expression analysis of RNA-sequenced bovine stem cells <span class="amp">&amp;</span> myocytes</em> into the Ottawa Regional Science Fair. The purpose of this study was to design a bioinformatics pipeline to conduct a differential gene expression analysis on the transcriptomes of a bovine embryonic stem cell (ESC) and an adult myocyte (precursor to muscle tissue) in order to identify the genes responsible for bovine myocyte differentiation. The idea is that if we can find what these genes are, we can selectively activate them within stem cells so that in a cellular agriculture bioprocess they reliably differentiate into myocytes characteristic of meat that consumers would be willing to buy.</p>
+<p>This year, I entered my project <em>Lab to Table: A differential gene expression analysis of RNA-sequenced bovine stem cells <span class="amp">&</span> myocytes</em> into the Ottawa Regional Science Fair. The purpose of this study was to design a bioinformatics pipeline to conduct a differential gene expression analysis on the transcriptomes of a bovine embryonic stem cell (ESC) and an adult myocyte (precursor to muscle tissue) in order to identify the genes responsible for bovine myocyte differentiation. The idea is that if we can find what these genes are, we can selectively activate them within stem cells so that in a cellular agriculture bioprocess they reliably differentiate into myocytes characteristic of meat that consumers would be willing to buy.</p>
 
 <p>The two samples used here were obtained using RNA-sequencing (similar to genome sequencing but for mRNA) and are available on the NCBI Genbank database. They both came from bovine longissimus muscle — one from an ESC and the other from a myocyte. The differential gene expression analysis was run using a pipeline (series of algorithms) on the Galaxy Project public web server pictured below.</p>
 

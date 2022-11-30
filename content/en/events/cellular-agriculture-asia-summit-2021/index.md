@@ -3,9 +3,7 @@ title: "Cellular Agriculture: Asia Summit 2021"
 date: 2021-03-22 12:52:35
 lastmod: 2021-03-22 12:52:35
 slug: /cellular-agriculture-asia-summit-2021
-description: "CellAgri is excited to present the Cellular Agriculture: Asia Summit 2021. Discover the key accomplishments in the cellular agriculture field in Asia and network with global and industry leaders from the field.
-Across Asia, the future of food is growing.
-From the first commercial launch of cell-based meat to new partnerships and investments, the cellular agriculture companies across Asia, from Israel to Singapore, are accelerating the future of food."
+description: "CellAgri is excited to present the Cellular Agriculture: Asia Summit 2021. Discover the key accomplishments in the cellular agriculture field in Asia and network with global and industry leaders from the field.Across Asia, the future of food is growing.From the first commercial launch of cell-based meat to new partnerships and investments, the cellular agriculture companies across Asia, from Israel to Singapore, are accelerating the future of food."
 proteins: [Cell-Based]
 products: [Meat, Dairy, Seafood]
 topics: [Business]

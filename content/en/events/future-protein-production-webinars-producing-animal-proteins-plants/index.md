@@ -3,8 +3,7 @@ title: "Future of Protein Production Webinars - Producing Animal Proteins From P
 date: 2022-07-04 13:17:39
 lastmod: 2022-07-04 13:17:39
 slug: /future-protein-production-webinars-producing-animal-proteins-plants
-description: "This webinar will examine in depth the emerging field of creating animal proteins using plants. Molecular farming for food has grown in popularity over the past few years so how can this fourth pillar of alternative proteins help get products on shelves at scale?
-This is a free-to-attend 2-hour webinar. Attendees will have the opportunity to hear from industry experts as well as interact through Q&amp;A sessions and networking slots."
+description: "This webinar will examine in depth the emerging field of creating animal proteins using plants. Molecular farming for food has grown in popularity over the past few years so how can this fourth pillar of alternative proteins help get products on shelves at scale?This is a free-to-attend 2-hour webinar. Attendees will have the opportunity to hear from industry experts as well as interact through Q&A sessions and networking slots."
 proteins: [Molecular Farming]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Policy, Sci-Tech]
@@ -22,4 +21,4 @@ uuid: 11056
 ---
 </p>
 <p>This webinar will examine in depth the emerging field of creating animal proteins using plants. Molecular farming for food has grown in popularity over the past few years so how can this fourth pillar of alternative proteins help get products on shelves at scale?</p>
-<p>This is a free-to-attend 2-hour webinar. Attendees will have the opportunity to hear from industry experts as well as interact through Q&amp;A sessions and networking slots.</p>
+<p>This is a free-to-attend 2-hour webinar. Attendees will have the opportunity to hear from industry experts as well as interact through Q&A sessions and networking slots.</p>

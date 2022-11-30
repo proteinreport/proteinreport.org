@@ -3,13 +3,11 @@ title: "Future Food-Tech Alternative Proteins"
 date: 2022-01-20 08:06:28
 lastmod: 2022-01-20 08:06:28
 slug: /future-food-tech-alternative-proteins-0
-description: "Cultivating Partnerships to Scale Novel Proteins
-Future Food-Tech’s dedicated Alternative Proteins Summit on June 21-22 will connect global food leaders to map out the future of protein.
-Returning for its second year, Future Food-Tech’s dedicated Alternative Proteins Summit takes place in New York to reunite the protein industry to explore new approaches to scaling novel technologies."
+description: "Cultivating Partnerships to Scale Novel ProteinsFuture Food-Tech’s dedicated Alternative Proteins Summit on June 21-22 will connect global food leaders to map out the future of protein.Returning for its second year, Future Food-Tech’s dedicated Alternative Proteins Summit takes place in New York to reunite the protein industry to explore new approaches to scaling novel technologies."
 proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
-regions: [US &amp; Canada]
+regions: [US & Canada]
 images: ["fftlogo.png"]
 banner_image: "FFT_NYC_Logo_2022_LIGHT_BG.png"
 online: FALSE
@@ -30,10 +28,10 @@ uuid: 10312
 <p>Identified through extensive research with food brands, start-ups and investors, key themes to be discussed at the meeting include:</p>
 <ul>
 <li>Treating Alternative Proteins as a National Security Issue</li>
-<li>From R&amp;D to Commercial: Turning the Science Project into a Business</li>
+<li>From R&D to Commercial: Turning the Science Project into a Business</li>
 <li>Improving Fermentation Capacity and Reducing Downstream Costs</li>
 <li>Cultured Meat: The Importance of Partnerships in Achieving Scale</li>
-<li>Unicorns, Market Corrections &amp; Private Capital: Financing the Food of the Future</li>
+<li>Unicorns, Market Corrections & Private Capital: Financing the Food of the Future</li>
 <li>Interactive Debate: Will Advances in Novel Foods Make Plant-Based Irrelevant?</li>
 <li>Harnessing the Biological Activity of Protein to Deliver Health Outcomes</li>
 <li>Protein in 2050: What Does the Future of Protein Hold?</li>

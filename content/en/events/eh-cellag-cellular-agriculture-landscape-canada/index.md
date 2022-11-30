@@ -3,11 +3,7 @@ title: "From Eh! to Cellag: The Cellular Agriculture Landscape in Canada"
 date: 2020-05-14 16:46:14
 lastmod: 2020-05-14 16:46:14
 slug: /eh-cellag-cellular-agriculture-landscape-canada
-description: "Join us for Cellular Agriculture Canada’s first virtual event, where we will share the current state of the cellular agriculture industry in Canada. 
-You will have the opportunity to learn about the journey of two of Canada’s leading cellular agriculture companies and ask all the questions you want directly to them. Everyone is welcome!
-
-Register now and we look forward to welcoming you to our virtual discussion!
-Agenda:"
+description: "Join us for Cellular Agriculture Canada’s first virtual event, where we will share the current state of the cellular agriculture industry in Canada. You will have the opportunity to learn about the journey of two of Canada’s leading cellular agriculture companies and ask all the questions you want directly to them. Everyone is welcome!Register now and we look forward to welcoming you to our virtual discussion!Agenda:"
 proteins: [Cell-Based]
 products: [Meat, Pet Food]
 topics: [Business, Policy]
@@ -33,5 +29,5 @@ Register now and we look forward to welcoming you to our virtual discussion!</p>
 <li>Overview of Global and Canadian cellular agriculture landscape – Presentation by CellAgri</li>
 <li>‘The Future of Pet Food’ – Presentation by Because Animals</li>
 <li>‘Making Future Meat Sustainable and Affordable’ – Presentation by Future Fields</li>
-<li>Q&amp;A session.</li>
+<li>Q&A session.</li>
 </ul>

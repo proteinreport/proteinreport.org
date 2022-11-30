@@ -7,7 +7,7 @@ description: "The food industry has witnessed tremendous changes since 2020 but 
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Eggs, Ingredients]
 topics: [Business]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 images: ["Food+Edge.png"]
 banner_image: "banner_3.jpg"
 online: TRUE

@@ -13,7 +13,7 @@ banner_image: "Policy Conference Mock Up Cards resized 3_1.jpg"
 online: TRUE
 start_date: 2021-06-03
 end_date: 2021-06-03
-website: "https://rethinkingprotein.com/?utm_campaign=rethinkingprotein-FAIRR&amp;utm_medium=partner&amp;utm_source=proteinreport"
+website: "https://rethinkingprotein.com/?utm_campaign=rethinkingprotein-FAIRR&utm_medium=partner&utm_source=proteinreport"
 contributors: [isabellestuart]
 draft: false
 weight: 5000

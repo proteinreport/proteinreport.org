@@ -3,8 +3,7 @@ title: "The Agrarian Revolution: Opportunities in Alternative Proteins"
 date: 2021-01-25 17:11:30
 lastmod: 2021-01-25 17:11:30
 slug: /agrarian-revolution-opportunities-alternative-proteins
-description: "The Agrarian Revolution is coming. Alternative proteins are not just possible but necessary if humanity is to feed itself without killing the planet. This event will bring together scientists, investors, policy makers and businesses to address the challenges and opportunities that lie ahead.
-Speakers:"
+description: "The Agrarian Revolution is coming. Alternative proteins are not just possible but necessary if humanity is to feed itself without killing the planet. This event will bring together scientists, investors, policy makers and businesses to address the challenges and opportunities that lie ahead.Speakers:"
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Seafood]
 topics: [Business]

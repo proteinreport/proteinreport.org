@@ -3,8 +3,7 @@ title: "Producing meat without the animal"
 date: 2021-02-15 12:15:06
 lastmod: 2021-02-15 12:15:06
 slug: /producing-meat-without-animal
-description: "Humans are currently eating more meat than our planet can afford. Raising animals for food is resource intensive. The rise in global meat consumption has dire consequences for human health, our agricultural industry, the environment, biodiversity, and animal welfare. Fortunately, there’s an effective way to solve this growing problem. Cellular agriculture is an emerging research field dedicated to producing meat, eggs, milk, and leather directly from animals’ cells rather than whole animals.
-Speakers:"
+description: "Humans are currently eating more meat than our planet can afford. Raising animals for food is resource intensive. The rise in global meat consumption has dire consequences for human health, our agricultural industry, the environment, biodiversity, and animal welfare. Fortunately, there’s an effective way to solve this growing problem. Cellular agriculture is an emerging research field dedicated to producing meat, eggs, milk, and leather directly from animals’ cells rather than whole animals.Speakers:"
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]

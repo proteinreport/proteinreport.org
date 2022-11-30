@@ -3,8 +3,7 @@ title: "Cultivate 2020: Discussing cellular agriculture in the UK"
 date: 2020-11-28 21:17:43
 lastmod: 2020-11-28 21:17:43
 slug: /cultivate-2020-discussing-cellular-agriculture-uk
-description: "Cultivate is an annual event to discuss cellular agriculture from UK perspectives. Cellular agriculture refers to work to produce agricultural products - typically animal products - through new methods that operate at the cellular level as opposed to working with whole animals. Examples include cultured meat and fermentation-based milk.
-The event will feature a combination of talks and panels that will discuss activities and challenges that have risen over the last year."
+description: "Cultivate is an annual event to discuss cellular agriculture from UK perspectives. Cellular agriculture refers to work to produce agricultural products - typically animal products - through new methods that operate at the cellular level as opposed to working with whole animals. Examples include cultured meat and fermentation-based milk.The event will feature a combination of talks and panels that will discuss activities and challenges that have risen over the last year."
 proteins: [Cell-Based]
 products: [Meat, Dairy, Seafood]
 topics: [Business, Sci-Tech]

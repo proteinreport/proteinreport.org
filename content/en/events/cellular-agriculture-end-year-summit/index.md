@@ -3,9 +3,7 @@ title: "Cellular Agriculture: End of the Year Summit"
 date: 2020-11-16 17:55:27
 lastmod: 2020-11-16 17:55:27
 slug: /cellular-agriculture-end-year-summit
-description: "2020 has been a big year for cellular agriculture.
-From record investments to companies advancing the future of food, the cellular agriculture field continued to move forward to transform our food system. In spite of the devastating impact of the pandemic, companies continued to achieve milestone after milestone. 
-We’re bringing everyone together at the Cellular Agriculture: End of the Year Summit 2020 to celebrate the field’s progress and predict what to expect moving forward in 2021."
+description: "2020 has been a big year for cellular agriculture.From record investments to companies advancing the future of food, the cellular agriculture field continued to move forward to transform our food system. In spite of the devastating impact of the pandemic, companies continued to achieve milestone after milestone. We’re bringing everyone together at the Cellular Agriculture: End of the Year Summit 2020 to celebrate the field’s progress and predict what to expect moving forward in 2021."
 proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood]
 topics: [Business]

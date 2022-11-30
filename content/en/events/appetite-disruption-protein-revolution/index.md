@@ -3,8 +3,7 @@ title: "Appetite For Disruption - The Protein Revolution"
 date: 2020-08-20 15:42:17
 lastmod: 2020-08-20 15:42:17
 slug: /appetite-disruption-protein-revolution
-description: "The FAIRR Initiative and UKSIF are delighted to invite you to an event on the importance of the alternative proteins market as both a growth driver and climate-risk mitigation tool for leading food companies worldwide.
-Time: Sep. 2, 2020 1:00PM British Summer Time"
+description: "The FAIRR Initiative and UKSIF are delighted to invite you to an event on the importance of the alternative proteins market as both a growth driver and climate-risk mitigation tool for leading food companies worldwide.Time: Sep. 2, 2020 1:00PM British Summer Time"
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Environment]

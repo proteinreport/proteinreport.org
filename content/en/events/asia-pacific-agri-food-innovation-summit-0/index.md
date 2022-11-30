@@ -3,8 +3,7 @@ title: "Asia-Pacific Agri-Food Innovation Summit"
 date: 2022-05-26 17:28:50
 lastmod: 2022-05-26 17:28:50
 slug: /asia-pacific-agri-food-innovation-summit-0
-description: "2022 Theme: Building Agri-Food Capacity, Security &amp; Resilience in Asia
-As the anchor event of Singapore International Agri-Food Week (SIAW), the Asia-Pacific Agri-Food Innovation Summit will bring together over 900 global leaders to identify the strategic priorities as we build greater capacity, security and resilience in Asia’s agri-food system."
+description: "2022 Theme: Building Agri-Food Capacity, Security & Resilience in AsiaAs the anchor event of Singapore International Agri-Food Week (SIAW), the Asia-Pacific Agri-Food Innovation Summit will bring together over 900 global leaders to identify the strategic priorities as we build greater capacity, security and resilience in Asia’s agri-food system."
 proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
@@ -21,7 +20,7 @@ draft: false
 weight: 5000
 uuid: 10920
 ---
-<p><strong>2022 Theme: Building Agri-Food Capacity, Security &amp; Resilience in Asia</strong></p>
+<p><strong>2022 Theme: Building Agri-Food Capacity, Security & Resilience in Asia</strong></p>
 <p>As the anchor event of Singapore International Agri-Food Week (SIAW), the Asia-Pacific Agri-Food Innovation Summit will bring together over 900 global leaders to identify the strategic priorities as we build greater capacity, security and resilience in Asia’s agri-food system.</p>
 <p>From alternative proteins, aquaculture and CEA to sustainable smallholder production, the world’s leading agribusinesses, growers, CPG and ingredient brands, entrepreneurs, investors, retailers and policymakers will reunite to tackle the critical issues of 2022 and the decade ahead.</p>
 <p>Taking place on October 26-28 at Marina Bay Sands in Singapore, this renowned leadership summit will deliver three days of high-level discussion, networking and deal-making. Featuring Ministerial keynotes, interactive panels, executive briefings and tours to Singapore’s newest agri-food facilities, the summit supports new partnerships and collaborations through a full program of 1-1 meetings.</p>
@@ -33,7 +32,7 @@ uuid: 10920
 <p><strong>Details:</strong></p>
 <p><strong>Name: </strong>Asia-Pacific Agri-Food Innovation Summit<br />
 <strong>Date: </strong>October 26-28, 2022<br />
-<strong>Location:</strong> Marina Bay Sands Expo &amp; Convention Centre, Singapore<br />
+<strong>Location:</strong> Marina Bay Sands Expo & Convention Centre, Singapore<br />
 <strong>Organiser: </strong>Rethink Events<br />
 <strong>Contact Email: </strong><a href="mailto:henry.tonkin@rethinkevents.com">henry.tonkin@rethinkevents.com</a><br />
 <strong>Contact: </strong>Henry Tonkin, Delegate Sales Executive<br />

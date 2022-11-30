@@ -7,7 +7,7 @@ description: "This one-week, half-day virtual course will include:"
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
-regions: [International, US &amp; Canada]
+regions: [International, US & Canada]
 images: ["biotech-logo_0.jpg"]
 banner_image: "banner_3.jpg"
 online: TRUE

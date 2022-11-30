@@ -3,8 +3,7 @@ title: "Asia-Pacific Agri-Food Innovation Summit"
 date: 2021-06-25 19:12:09
 lastmod: 2021-06-25 19:12:09
 slug: /asia-pacific-agri-food-innovation-summit
-description: "Scaling Sustainable Food Production in Asia
-Now in its fourth year, the Asia-Pacific Agri-Food Innovation Summit will bring together the world’s leading agribusinesses, growers, CPG and ingredient brands, entrepreneurs, investors, retailers and policymakers to share ideas and collaborate towards greater security and sustainability in Asia’s agri-food system."
+description: "Scaling Sustainable Food Production in AsiaNow in its fourth year, the Asia-Pacific Agri-Food Innovation Summit will bring together the world’s leading agribusinesses, growers, CPG and ingredient brands, entrepreneurs, investors, retailers and policymakers to share ideas and collaborate towards greater security and sustainability in Asia’s agri-food system."
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business]
@@ -29,8 +28,8 @@ uuid: 9220
 <p><em>Key Themes</em></p>
 <ul>
 <li>Developing an Integrated Approach to Agri-Food Sustainability in the Asia-Pacific Region</li>
-<li>Sustainable Agriculture &amp; Rural Livelihoods: Boosting Adoption of Digital Solutions to Improve Farm Productivity</li>
-<li>Regenerative &amp; Carbon-Neutral Farming: The Role of Smallholder Farmers in Tackling Food Security and Climate Change</li>
+<li>Sustainable Agriculture & Rural Livelihoods: Boosting Adoption of Digital Solutions to Improve Farm Productivity</li>
+<li>Regenerative & Carbon-Neutral Farming: The Role of Smallholder Farmers in Tackling Food Security and Climate Change</li>
 <li>The Vertical Farm of Tomorrow: Achieving Secure, Sustainable, Affordable Access to Fresh Produce</li>
 <li>A Holistic Approach to Nutrition: Supporting Health and Wellbeing through Ingredient Innovation</li>
 <li>The Future of Plant-Based, Fermented and Cultivated Proteins: Scaling Production and Navigating the Regulatory Landscape</li>
@@ -38,7 +37,7 @@ uuid: 9220
 <li>Accelerating Innovation in Aquaculture: Sharing Risk and Improving Access to Finance</li>
 <li>Plastics, Waste and Circularity: Material Innovation and Building a Circular Economy</li>
 <li>Fast-Tracking Pandemic Recovery: Designing New Investment and Finance Models</li>
-<li>Ecosystem Collaboration &amp; Partnerships: Connecting the Dots to Crisis-Proof Asia’s Food System</li>
+<li>Ecosystem Collaboration & Partnerships: Connecting the Dots to Crisis-Proof Asia’s Food System</li>
 </ul>
 <p><em>Event Details</em></p>
 <ul>

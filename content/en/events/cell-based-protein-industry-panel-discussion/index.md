@@ -3,12 +3,7 @@ title: "Cell Based Protein Industry Panel Discussion"
 date: 2021-08-13 22:31:06
 lastmod: 2021-08-13 22:31:06
 slug: /cell-based-protein-industry-panel-discussion
-description: "Join us for a panel discussion with industry leaders on trends, collaboration opportunities, and considerations in the cell-based protein space. There will be a moderator-led discussion of essential questions as well as time provided for audience members to ask questions.
-Panelists:
-
-Liz Specht, Ph.D (Vice President of Science and Technology at the Good Food Institute)
-Nieves Martinez Marshall (CEO and Co-Founder of Novel Farms)
-Other speakers TBA!"
+description: "Join us for a panel discussion with industry leaders on trends, collaboration opportunities, and considerations in the cell-based protein space. There will be a moderator-led discussion of essential questions as well as time provided for audience members to ask questions.Panelists:Liz Specht, Ph.D (Vice President of Science and Technology at the Good Food Institute)Nieves Martinez Marshall (CEO and Co-Founder of Novel Farms)Other speakers TBA!"
 proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
