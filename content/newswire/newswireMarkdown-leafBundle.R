@@ -61,6 +61,40 @@ for (row in 1:nrow(import_data)) {
   write(paste("title: ", shQuote(import_data[row,]$title), sep = ""), file_path, append = T)
   write(paste("date: ", import_data[row,]$date, sep = ""), file_path, append = T)
   write(paste("lastmod: ", import_data[row,]$date, sep = ""), file_path, append = T)
+  write(paste("slug: ", import_data[row,]$slug, sep = ""), file_path, append = T)
+  if (!(is.na(import_data[row,]$company))) {
+    write(paste("company: ", import_data[row,]$company, sep = ""), file_path, append = T)
+  }
+  else if (!(is.na(import_data[row,]$company_name))) {
+    write(paste("company_name: ", shQuote(import_data[row,]$company_name), sep = ""), file_path, append = T)
+    write(paste("company_link: ", shQuote(import_data[row,]$company_link), sep = ""), file_path, append = T)
+  }
+  write(paste("description: ", shQuote(import_data[row,]$description), sep = ""), file_path, append = T)
+  write(paste("excerpt: ", shQuote(import_data[row,]$description), sep = ""), file_path, append = T)
+  write(paste("proteins: [",import_data[row,]$proteins, "]", sep = ""), file_path, append = T)
+  write(paste("products: [",import_data[row,]$products, "]", sep = ""), file_path, append = T)
+  write(paste("topics: [",import_data[row,]$topics, "]", sep = ""), file_path, append = T)
+  write(paste("regions: [",import_data[row,]$regions, "]", sep = ""), file_path, append = T)
+  write(paste("flags: [",import_data[row,]$flags, "]", sep = ""), file_path, append = T)
+  write(paste("directory: [",import_data[row,]$directory, "]", sep = ""), file_path, append = T)
+  #write(paste("contributors: [",import_data[row,]$contributors, "]", sep = ""), file_path, append = T)
+  write(paste("featured_image: ", shQuote(import_data[row,]$images), sep = ""), file_path, append = T)
+  #write(paste("additional_images: [",import_data[row,]$additional_images, "]", sep = ""), file_path, append = T)
+  write(paste("additional_images:", sep=""), file_path, append = T)
+  write(paste("  - src: ", shQuote(import_data[row,]$images),
+              "\n    caption: ", shQuote(import_data[row,]$image_caption),
+              "\n    alt: ", shQuote(import_data[row,]$image_caption),
+              "\n    title: ", shQuote(import_data[row,]$image_caption),
+              sep = ""), file_path, append = T)
+  if (!(is.na(import_data[row,]$additional_images))) {
+    for (item in 1:length(img_urls[[1]])) {
+      write(paste("  - src: ", img_urls[[1]][item],
+                  "\n    caption: ", addtl_images_captions[[1]][item],
+                  "\n    alt: ", addtl_images_captions[[1]][item],
+                  "\n    title: ", addtl_images_captions[[1]][item],
+                  sep=""), file_path, append = T)
+    }
+  }  
   write("draft: false", file_path, append = T)
   write("pinned: false", file_path, append = T)
   write("homepage: false", file_path, append = T)
@@ -70,5 +104,5 @@ for (row in 1:nrow(import_data)) {
   #write("images:", file_path, append = T)
   #write(import_data[row,]$images, file_path, append = T)
   write("---", file_path, append = T)
-  #write(content, file_path, append = T)
+  write(content, file_path, append = T)
 }
