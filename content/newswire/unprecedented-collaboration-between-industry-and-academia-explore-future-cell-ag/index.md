@@ -12,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [697, 699, 836, 1249, 1299, 5824, 5827, 6178, 10023]
-featured_image: "ct.png"
 draft: false
 pinned: false
 homepage: false

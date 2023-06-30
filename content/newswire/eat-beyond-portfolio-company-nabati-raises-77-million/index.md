@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [7964]
-featured_image: "nabati-foods-678x381-copy.jpg"
 draft: false
 pinned: false
 homepage: false

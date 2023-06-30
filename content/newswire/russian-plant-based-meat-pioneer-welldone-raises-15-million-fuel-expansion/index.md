@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [1332, 9334]
-featured_image: "Patty with mashed potato.jpg"
 draft: false
 pinned: false
 homepage: false

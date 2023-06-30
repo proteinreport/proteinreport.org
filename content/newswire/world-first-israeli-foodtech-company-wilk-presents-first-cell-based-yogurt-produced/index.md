@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release]
 directory: [8844]
-featured_image: "DSC00266.jpg"
 draft: false
 pinned: false
 homepage: false

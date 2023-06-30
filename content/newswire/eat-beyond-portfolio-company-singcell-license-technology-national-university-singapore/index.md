@@ -12,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [Asia, US & Canada]
 flags: [Press Release]
 directory: [7556, 7964]
-featured_image: "PRplaceholder.png"
 draft: false
 pinned: false
 homepage: false

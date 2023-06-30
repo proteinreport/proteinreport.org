@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [8176]
-featured_image: "Kevin and Ashish.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -13,7 +13,6 @@ topics: [Business, Sci-Tech]
 regions: [Middle East]
 flags: [Press Release]
 directory: [5816]
-featured_image: "Aleph Cuts.jpg"
 draft: false
 pinned: false
 homepage: false

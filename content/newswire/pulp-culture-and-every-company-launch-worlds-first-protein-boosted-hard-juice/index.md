@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [1299]
-featured_image: "TDAVIS_Every072 copy.jpg"
 draft: false
 pinned: false
 homepage: false

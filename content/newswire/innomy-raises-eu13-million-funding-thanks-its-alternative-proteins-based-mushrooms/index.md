@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe, Latin America & Caribbean]
 flags: [Press Release, Investments]
 directory: [8457, 9233, 10963]
-featured_image: "Founders_ Pablo Ignacio Sánchez Rey, COO_ Juan Pablo De Giacomi, CEO_ Francisco Kuhar, CSO.jpg"
 draft: false
 pinned: false
 homepage: false

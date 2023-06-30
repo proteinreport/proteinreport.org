@@ -13,7 +13,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [NA]
-featured_image: "FFTSF21 - Innovation Challenge 2021.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [11222]
-featured_image: "StageTwo Sieger Foto.jpg"
 draft: false
 pinned: false
 homepage: false

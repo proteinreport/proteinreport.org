@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [8550]
-featured_image: "LabShot.jpg"
 draft: false
 pinned: false
 homepage: false

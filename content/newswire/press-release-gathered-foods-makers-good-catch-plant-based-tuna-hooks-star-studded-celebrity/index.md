@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [837]
-featured_image: "Full-Product-Line_041020-1-2048x695 (1).jpg"
 draft: false
 pinned: false
 homepage: false

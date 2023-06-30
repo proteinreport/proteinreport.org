@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [6600, 10908]
-featured_image: "future_product_line.jpg"
 draft: false
 pinned: false
 homepage: false

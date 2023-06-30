@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release]
 directory: [8844]
-featured_image: "Logo white.jpg"
 draft: false
 pinned: false
 homepage: false

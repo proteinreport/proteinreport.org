@@ -13,7 +13,6 @@ topics: [Business, Sci-Tech]
 regions: [International]
 flags: [Press Release]
 directory: [1172, 7349]
-featured_image: "fft ecosystem.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Video, Press Release]
 directory: [5817]
-featured_image: "Production-To-Fork Cultured Meat Manufacturing Facility.jpg.jpg"
 draft: false
 pinned: false
 homepage: false

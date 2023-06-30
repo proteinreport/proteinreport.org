@@ -12,7 +12,6 @@ topics: [Policy]
 regions: [Europe]
 flags: [Press Release]
 directory: [234, 698, 6139]
-featured_image: "bean-to-plate_highres.jpg"
 draft: false
 pinned: false
 homepage: false

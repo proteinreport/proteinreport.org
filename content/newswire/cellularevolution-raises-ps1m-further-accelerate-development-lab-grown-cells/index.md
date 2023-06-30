@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [5816, 5829, 5831, 5855, 6280]
-featured_image: "M Miotto in the lab 3.JPG"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [5825]
-featured_image: "balletic.png"
 draft: false
 pinned: false
 homepage: false

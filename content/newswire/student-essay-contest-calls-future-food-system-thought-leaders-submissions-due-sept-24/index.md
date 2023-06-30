@@ -12,7 +12,6 @@ topics: [Business, Culture, Environment, Health, Policy, Sci-Tech]
 regions: [International]
 flags: [Press Release]
 directory: [234, 685, 697, 5816, 7131]
-featured_image: "banner3.jpg"
 draft: false
 pinned: false
 homepage: false

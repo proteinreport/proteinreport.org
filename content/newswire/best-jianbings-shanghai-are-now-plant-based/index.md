@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [234]
-featured_image: "Just-Egg-Jiangbing-Day-1-33.jpg"
 draft: false
 pinned: false
 homepage: false

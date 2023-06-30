@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [5836, 5853, 5865]
-featured_image: "PR-images_With-PoM-logo_All-002-1.jpg"
 draft: false
 pinned: false
 homepage: false

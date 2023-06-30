@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [234]
-featured_image: "Future Food Studio 植物料理创意厨房 by JUST-Logo-Horizontal-01.png"
 draft: false
 pinned: false
 homepage: false

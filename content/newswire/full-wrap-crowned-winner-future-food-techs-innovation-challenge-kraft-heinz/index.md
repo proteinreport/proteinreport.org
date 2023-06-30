@@ -13,7 +13,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [NA]
-featured_image: "Copy of SOCIAL - Innovation Challenge FFT (1).png"
 draft: false
 pinned: false
 homepage: false

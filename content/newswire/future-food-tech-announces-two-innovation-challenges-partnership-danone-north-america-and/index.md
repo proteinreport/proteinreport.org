@@ -13,7 +13,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [NA]
-featured_image: "Danone 1.png"
 draft: false
 pinned: false
 homepage: false

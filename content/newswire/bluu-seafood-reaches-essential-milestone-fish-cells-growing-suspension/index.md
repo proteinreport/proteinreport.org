@@ -12,7 +12,6 @@ topics: [Sci-Tech]
 regions: [Europe]
 flags: [Press Release]
 directory: [7856]
-featured_image: "Bluu Seafood.jpg"
 draft: false
 pinned: false
 homepage: false

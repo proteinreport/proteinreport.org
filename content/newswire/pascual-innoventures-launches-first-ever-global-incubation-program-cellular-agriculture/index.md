@@ -13,7 +13,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [10963]
-featured_image: "Gabriel Torres Pascual_Mylkcubator.jpg"
 draft: false
 pinned: false
 homepage: false

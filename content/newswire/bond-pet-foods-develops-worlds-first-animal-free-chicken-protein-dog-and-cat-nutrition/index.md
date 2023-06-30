@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [1269, 1332, 6149, 6281]
-featured_image: "HERO_Bond_Pre-Dried_Chicken Protein_V1.jpg"
 draft: false
 pinned: false
 homepage: false

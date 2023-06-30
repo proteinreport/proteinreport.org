@@ -12,7 +12,6 @@ topics: [Sci-Tech]
 regions: [Middle East]
 flags: [Press Release]
 directory: [1310]
-featured_image: "Believer_Meats_Logo.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -13,7 +13,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [NA]
-featured_image: "marvelous.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [Asia]
 flags: [Press Release]
 directory: [5818]
-featured_image: "integriculture.png"
 draft: false
 pinned: false
 homepage: false

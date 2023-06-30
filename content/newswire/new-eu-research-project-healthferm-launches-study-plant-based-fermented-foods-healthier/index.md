@@ -13,7 +13,6 @@ topics: [Health, Policy]
 regions: [Europe]
 flags: [Press Release]
 directory: [5791]
-featured_image: "DSC_0320.JPG"
 draft: false
 pinned: false
 homepage: false

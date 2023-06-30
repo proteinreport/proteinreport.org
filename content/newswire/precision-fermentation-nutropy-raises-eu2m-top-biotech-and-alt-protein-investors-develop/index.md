@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [6600, 11147]
-featured_image: "Fomage_fondant_HQ_logo.jpg"
 draft: false
 pinned: false
 homepage: false

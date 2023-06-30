@@ -12,7 +12,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [10963]
-featured_image: "Mylkcubator Image.png"
 draft: false
 pinned: false
 homepage: false

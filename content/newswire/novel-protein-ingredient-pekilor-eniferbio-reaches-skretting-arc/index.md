@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [8922]
-featured_image: "eniferBio team.png"
 draft: false
 pinned: false
 homepage: false

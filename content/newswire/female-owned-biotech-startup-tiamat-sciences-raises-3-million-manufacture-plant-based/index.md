@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe, US & Canada]
 flags: [Press Release, Investments]
 directory: [700, 7241]
-featured_image: "tiamatimg.jpg"
 draft: false
 pinned: false
 homepage: false

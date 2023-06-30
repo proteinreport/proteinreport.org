@@ -13,7 +13,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [NA]
-featured_image: "FFTLON21 - Meet the start-ups 2021.jpg"
 draft: false
 pinned: false
 homepage: false

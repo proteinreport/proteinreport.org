@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [New Products, Press Release]
 directory: [7964]
-featured_image: "Chick-n-Burger.jpg"
 draft: false
 pinned: false
 homepage: false

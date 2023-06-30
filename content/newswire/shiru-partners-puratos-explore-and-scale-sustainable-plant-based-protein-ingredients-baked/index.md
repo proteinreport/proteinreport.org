@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [7174]
-featured_image: "Shiru partners with Puratos.png"
 draft: false
 pinned: false
 homepage: false

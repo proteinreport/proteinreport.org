@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [234, 5812, 6600, 8756]
-featured_image: "DSC00441.jpg"
 draft: false
 pinned: false
 homepage: false

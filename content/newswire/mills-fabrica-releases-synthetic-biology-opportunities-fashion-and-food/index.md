@@ -13,7 +13,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [NA]
-featured_image: "cover design.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [694, 695, 705, 6280, 8229, 8360]
-featured_image: "Hoxton Farms 1.jpg"
 draft: false
 pinned: false
 homepage: false

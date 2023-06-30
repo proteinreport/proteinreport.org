@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia, Europe]
 flags: [Press Release]
 directory: [7856, 8329, 10129]
-featured_image: "bluu_cellx.jpg"
 draft: false
 pinned: false
 homepage: false

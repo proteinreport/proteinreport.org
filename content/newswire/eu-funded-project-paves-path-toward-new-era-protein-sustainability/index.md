@@ -13,7 +13,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [1077, 5820, 5865]
-featured_image: "IMG_20230412_135739.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Sci-Tech]
 regions: [Europe]
 flags: [Press Release]
 directory: [7873]
-featured_image: "20210629_123620000_iOS 1.jpg"
 draft: false
 pinned: false
 homepage: false

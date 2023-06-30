@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, New Products]
 directory: [5810]
-featured_image: "ZELLULIN ANTI-OXIDATION 01_s.jpg"
 draft: false
 pinned: false
 homepage: false

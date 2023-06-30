@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release, Investments]
 directory: [10918]
-featured_image: "Brevel.jpg"
 draft: false
 pinned: false
 homepage: false

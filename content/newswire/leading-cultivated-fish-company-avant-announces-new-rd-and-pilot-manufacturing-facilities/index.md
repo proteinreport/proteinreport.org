@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [5810]
-featured_image: "SG_HK_edit_2.jpg"
 draft: false
 pinned: false
 homepage: false

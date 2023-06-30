@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [1262]
-featured_image: "admap.jpg"
 draft: false
 pinned: false
 homepage: false

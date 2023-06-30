@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, New Products]
 directory: [8412]
-featured_image: "1.jpg"
 draft: false
 pinned: false
 homepage: false

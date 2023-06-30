@@ -13,7 +13,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [1356, 5660, 6178, 7174, 7241, 8332, 8360]
-featured_image: "Meet the Start-Ups.png"
 draft: false
 pinned: false
 homepage: false

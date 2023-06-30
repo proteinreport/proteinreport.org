@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [1332, 6280, 7679, 7856]
-featured_image: "founders_0.jpg"
 draft: false
 pinned: false
 homepage: false

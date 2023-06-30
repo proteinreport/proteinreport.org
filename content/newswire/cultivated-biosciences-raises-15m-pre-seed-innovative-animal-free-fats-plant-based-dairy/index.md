@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [1212, 1299, 5791, 6600, 10547]
-featured_image: "Cultivated Co-founders.jpg"
 draft: false
 pinned: false
 homepage: false

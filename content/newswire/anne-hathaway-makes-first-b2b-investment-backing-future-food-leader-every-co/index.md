@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [1299]
-featured_image: "EVERY_Hathaway_Investor-Graphic.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Business, Policy]
 regions: [Oceania]
 flags: [Press Release]
 directory: [5804, 5805, 7131, 7326, 7627, 7855, 8859]
-featured_image: "CAA White Paper_0.png"
 draft: false
 pinned: false
 homepage: false

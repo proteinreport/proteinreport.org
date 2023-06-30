@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [5829, 7856]
-featured_image: "Executive Team Bluu Biosciences.jpg"
 draft: false
 pinned: false
 homepage: false

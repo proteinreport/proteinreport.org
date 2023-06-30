@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [8967]
-featured_image: "Biocatalysts-Ltd_Apr-21_EMP-Full-Facility.jpg"
 draft: false
 pinned: false
 homepage: false

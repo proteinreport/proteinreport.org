@@ -13,7 +13,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [695, 699]
-featured_image: "report cover.jpg"
 draft: false
 pinned: false
 homepage: false

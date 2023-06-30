@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release]
 directory: [5816, 6737, 6782, 7654]
-featured_image: "MAF Top 26 Levana Shifman intro.jpg"
 draft: false
 pinned: false
 homepage: false

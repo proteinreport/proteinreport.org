@@ -12,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [Europe]
 flags: [Press Release]
 directory: [7933]
-featured_image: "Moolec Science 1.jpg"
 draft: false
 pinned: false
 homepage: false

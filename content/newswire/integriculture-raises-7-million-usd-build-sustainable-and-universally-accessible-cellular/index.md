@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [705, 5818]
-featured_image: "培養foie gra1.JPG"
 draft: false
 pinned: false
 homepage: false

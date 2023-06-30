@@ -13,7 +13,6 @@ topics: [Business, Sci-Tech]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [NA]
-featured_image: "CPI’s Novel Food, Feed and Nutraceuticals Innovation Centre of Excellence will enhance biomanufacturing in the Tees Valley.jpg"
 draft: false
 pinned: false
 homepage: false

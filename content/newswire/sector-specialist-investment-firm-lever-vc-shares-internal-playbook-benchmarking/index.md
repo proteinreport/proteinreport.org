@@ -12,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [International]
 flags: [Press Release]
 directory: [1332]
-featured_image: "lvervc_whitepaper.JPG"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [234]
-featured_image: "268961.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, New Products]
 directory: [8756]
-featured_image: "Wrap & Roll - Wrap 2.jpg"
 draft: false
 pinned: false
 homepage: false

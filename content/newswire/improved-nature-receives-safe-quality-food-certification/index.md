@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [1153]
-featured_image: "Shreds-Hydrated-and-PRIME-landscape-for-website-2000x1083.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [703, 6600, 10437]
-featured_image: "Sliced sea bass filets.jpg"
 draft: false
 pinned: false
 homepage: false

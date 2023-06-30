@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [234, 5831, 7679, 7856]
-featured_image: "Atlantic salmon in Petri dish_copyright_Bluu GmbH 2023_photo_Anna Brauns.jpg"
 draft: false
 pinned: false
 homepage: false

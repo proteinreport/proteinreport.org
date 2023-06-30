@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [11143]
-featured_image: "Aliga_Netherlands_facility2.jpg"
 draft: false
 pinned: false
 homepage: false

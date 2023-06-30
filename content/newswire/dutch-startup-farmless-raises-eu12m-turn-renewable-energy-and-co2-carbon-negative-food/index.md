@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [8229, 11309]
-featured_image: "Protein 4.jpg"
 draft: false
 pinned: false
 homepage: false

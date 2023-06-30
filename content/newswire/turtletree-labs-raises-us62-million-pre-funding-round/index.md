@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [1249, 6281, 7964, 8328]
-featured_image: "ftLogo.png"
 draft: false
 pinned: false
 homepage: false

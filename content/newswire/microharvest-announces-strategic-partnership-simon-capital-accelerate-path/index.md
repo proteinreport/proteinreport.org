@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [698, 700, 5660, 7553, 11296]
-featured_image: "MicroHarvest team at their new Lisbon office.jpg"
 draft: false
 pinned: false
 homepage: false

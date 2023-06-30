@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia, Europe]
 flags: [Press Release, Investments]
 directory: [9900]
-featured_image: "IMG_2752-1479x1536.jpeg"
 draft: false
 pinned: false
 homepage: false

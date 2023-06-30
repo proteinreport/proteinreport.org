@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release]
 directory: [10918]
-featured_image: "Brevel protein powder.jpg"
 draft: false
 pinned: false
 homepage: false

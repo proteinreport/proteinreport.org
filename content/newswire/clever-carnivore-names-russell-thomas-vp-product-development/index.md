@@ -13,7 +13,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [NA]
-featured_image: "Russell Thomas Headshot.jpg"
 draft: false
 pinned: false
 homepage: false

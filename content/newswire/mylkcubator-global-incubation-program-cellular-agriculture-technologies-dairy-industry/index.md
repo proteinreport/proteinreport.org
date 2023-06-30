@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [10963]
-featured_image: "Mylkcubator (1).png"
 draft: false
 pinned: false
 homepage: false

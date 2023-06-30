@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [10527]
-featured_image: "Arkeon_core team_web.jpg"
 draft: false
 pinned: false
 homepage: false

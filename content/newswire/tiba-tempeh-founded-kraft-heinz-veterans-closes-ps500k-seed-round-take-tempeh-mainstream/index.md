@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [694, 695, 1294, 1332, 10251]
-featured_image: "Tiba Tempeh Range.jpg"
 draft: false
 pinned: false
 homepage: false

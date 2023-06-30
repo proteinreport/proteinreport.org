@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release]
 directory: [7654]
-featured_image: "20220720_2006411.jpg"
 draft: false
 pinned: false
 homepage: false

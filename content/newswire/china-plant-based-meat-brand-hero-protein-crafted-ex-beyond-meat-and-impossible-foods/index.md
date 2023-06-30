@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [694, 695, 1110, 1161, 1165, 1332, 8412]
-featured_image: "HERO_Products.jpg"
 draft: false
 pinned: false
 homepage: false

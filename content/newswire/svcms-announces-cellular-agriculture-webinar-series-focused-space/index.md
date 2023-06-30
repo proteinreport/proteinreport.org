@@ -13,7 +13,6 @@ topics: [Business, Sci-Tech]
 regions: [International, US & Canada]
 flags: [Press Release]
 directory: [5816, 5897, 8550]
-featured_image: "astro_teaser.png"
 draft: false
 pinned: false
 homepage: false

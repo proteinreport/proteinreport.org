@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [697, 5808, 10023, 10643, 10975]
-featured_image: "cellagnh.png"
 draft: false
 pinned: false
 homepage: false

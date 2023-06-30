@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [5660]
-featured_image: "Mushlabs_Mushroom_1.jpg"
 draft: false
 pinned: false
 homepage: false

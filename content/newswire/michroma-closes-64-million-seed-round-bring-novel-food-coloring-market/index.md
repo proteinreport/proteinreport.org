@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Latin America & Caribbean, US & Canada]
 flags: [Press Release, Investments]
 directory: [11244]
-featured_image: "Michroma - Red 2.jpg"
 draft: false
 pinned: false
 homepage: false

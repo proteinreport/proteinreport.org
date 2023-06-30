@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [1332, 5810, 8412, 8756]
-featured_image: "leverfoods.png"
 draft: false
 pinned: false
 homepage: false

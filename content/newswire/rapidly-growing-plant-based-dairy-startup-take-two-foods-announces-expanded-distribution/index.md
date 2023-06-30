@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [7113]
-featured_image: "TakeTwoLineup.png"
 draft: false
 pinned: false
 homepage: false

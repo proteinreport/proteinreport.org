@@ -12,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [5855]
-featured_image: "tpcg-D_d.jpg"
 draft: false
 pinned: false
 homepage: false

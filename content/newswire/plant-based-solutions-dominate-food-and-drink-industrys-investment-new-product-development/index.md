@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [9876]
-featured_image: "RGB Atura Logo INDIGO_0.jpg"
 draft: false
 pinned: false
 homepage: false

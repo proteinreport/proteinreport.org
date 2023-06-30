@@ -13,7 +13,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [NA]
-featured_image: "Future Food-Tech - Innovation Challenge - Kraft Heinz -.png"
 draft: false
 pinned: false
 homepage: false

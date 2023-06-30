@@ -12,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [Oceania]
 flags: [Press Release]
 directory: [7131]
-featured_image: "caa_pathways_0.jpg"
 draft: false
 pinned: false
 homepage: false

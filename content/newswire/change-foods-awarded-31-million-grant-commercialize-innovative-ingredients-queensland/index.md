@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Oceania]
 flags: [Press Release, Investments]
 directory: [7627]
-featured_image: "Photo 2 Change R&D Team_0_0.jpg"
 draft: false
 pinned: false
 homepage: false

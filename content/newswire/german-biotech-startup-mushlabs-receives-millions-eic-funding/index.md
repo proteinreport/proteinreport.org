@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [5660]
-featured_image: "Mushlabs Founders_Mazen Rizk_Cathy Preißer_Thibault Godard (1).jpg"
 draft: false
 pinned: false
 homepage: false

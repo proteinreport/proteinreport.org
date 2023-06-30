@@ -12,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [695, 1311, 6280, 7174]
-featured_image: "Shiru patent (1000 × 1000 px) (3).png"
 draft: false
 pinned: false
 homepage: false

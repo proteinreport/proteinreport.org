@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [700, 7241, 8229]
-featured_image: "Tiamat_team.jpg"
 draft: false
 pinned: false
 homepage: false

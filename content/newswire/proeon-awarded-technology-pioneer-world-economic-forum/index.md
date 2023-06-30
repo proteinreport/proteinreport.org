@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [698, 8176]
-featured_image: "proeon.jpg"
 draft: false
 pinned: false
 homepage: false

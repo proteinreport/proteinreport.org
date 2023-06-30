@@ -13,7 +13,6 @@ topics: [Business]
 regions: [Asia, International]
 flags: [Press Release]
 directory: [1328]
-featured_image: "FEYRiIoWYAQI0CK.jpg"
 draft: false
 pinned: false
 homepage: false

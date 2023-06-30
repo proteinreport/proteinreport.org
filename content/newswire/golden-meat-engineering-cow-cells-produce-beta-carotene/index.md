@@ -12,7 +12,6 @@ topics: [Sci-Tech]
 regions: [US & Canada]
 flags: [Featured, Press Release]
 directory: [697]
-featured_image: "Andrew_headshot.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -13,7 +13,6 @@ topics: [Culture]
 regions: [International, US & Canada]
 flags: [Press Release]
 directory: [NA]
-featured_image: "just_launched.png"
 draft: false
 pinned: false
 homepage: false

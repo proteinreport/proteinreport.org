@@ -13,7 +13,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release]
 directory: [1303, 5660, 5819, 6280]
-featured_image: "106.jpg"
 draft: false
 pinned: false
 homepage: false

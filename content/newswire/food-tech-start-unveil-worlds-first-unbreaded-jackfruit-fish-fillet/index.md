@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, New Products]
 directory: [5758]
-featured_image: "Jackfruit Unbreaded Fish Fillet.jpg"
 draft: false
 pinned: false
 homepage: false

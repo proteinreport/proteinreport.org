@@ -13,7 +13,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [1212]
-featured_image: "Fungal coloni_Chromologics.jpg"
 draft: false
 pinned: false
 homepage: false

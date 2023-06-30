@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [7336, 7349]
-featured_image: "Orbillion Team - 645_2021-01-26_____HAILLEYHOWARD_.jpg"
 draft: false
 pinned: false
 homepage: false

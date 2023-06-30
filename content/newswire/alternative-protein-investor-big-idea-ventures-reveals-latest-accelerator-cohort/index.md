@@ -12,7 +12,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release, Investments]
 directory: [6600, 10547, 10908]
-featured_image: "Big Idea Ventures (Black Logo).png"
 draft: false
 pinned: false
 homepage: false

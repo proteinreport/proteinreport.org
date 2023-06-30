@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [7964]
-featured_image: "eb.jpg"
 draft: false
 pinned: false
 homepage: false

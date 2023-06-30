@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [1332, 5678, 11153]
-featured_image: "Michael Tai Headshot_0.jpeg"
 draft: false
 pinned: false
 homepage: false

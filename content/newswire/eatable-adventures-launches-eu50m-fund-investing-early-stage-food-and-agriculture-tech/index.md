@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [8457, 9233, 10963]
-featured_image: "ea.jpg"
 draft: false
 pinned: false
 homepage: false

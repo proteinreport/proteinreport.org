@@ -13,7 +13,6 @@ topics: [Business]
 regions: [Europe, US & Canada]
 flags: [Press Release]
 directory: [NA]
-featured_image: "Crespel Deiters Group_different Lory Tex wheat texturates.jpg"
 draft: false
 pinned: false
 homepage: false

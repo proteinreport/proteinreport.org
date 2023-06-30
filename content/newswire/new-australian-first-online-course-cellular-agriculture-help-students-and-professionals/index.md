@@ -12,7 +12,6 @@ topics: [Business, Policy, Sci-Tech]
 regions: [Oceania]
 flags: [Press Release]
 directory: [698, 7131]
-featured_image: "Screen Shot 2022-08-01 at 11.47.05 am.png"
 draft: false
 pinned: false
 homepage: false

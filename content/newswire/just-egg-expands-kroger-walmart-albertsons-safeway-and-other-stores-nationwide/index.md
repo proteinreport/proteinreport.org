@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [234, 698]
-featured_image: "Egg_LQ_FLD_Box_Bottle_FrenchToastPrep_vert_bestCrop.jpg"
 draft: false
 pinned: false
 homepage: false

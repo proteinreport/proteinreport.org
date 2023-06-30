@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [7349]
-featured_image: "Orbillion_FoundingTeam_Nov2021.jpg"
 draft: false
 pinned: false
 homepage: false

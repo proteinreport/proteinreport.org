@@ -13,7 +13,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [694, 698, 1161, 5668, 5794]
-featured_image: "Santi Aliaga.jpg"
 draft: false
 pinned: false
 homepage: false

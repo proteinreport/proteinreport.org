@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [6916, 11189]
-featured_image: "Eden Bio Team_0.jpg"
 draft: false
 pinned: false
 homepage: false

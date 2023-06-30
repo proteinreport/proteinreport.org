@@ -12,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [Middle East]
 flags: [Press Release]
 directory: [8844]
-featured_image: "DSC_9879.jpg"
 draft: false
 pinned: false
 homepage: false

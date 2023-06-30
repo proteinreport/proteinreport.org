@@ -12,7 +12,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [10451, 10457, 10963]
-featured_image: "52020731810_c961bbd9d0_o.jpeg"
 draft: false
 pinned: false
 homepage: false

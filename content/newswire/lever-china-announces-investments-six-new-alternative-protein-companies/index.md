@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [1332, 5810, 8329, 8412, 8756, 10474]
-featured_image: "Lever-China-full-logo.png"
 draft: false
 pinned: false
 homepage: false

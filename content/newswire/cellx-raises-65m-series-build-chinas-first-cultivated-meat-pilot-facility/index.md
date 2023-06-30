@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [8329]
-featured_image: "CellX培养鸡胸肉.png"
 draft: false
 pinned: false
 homepage: false

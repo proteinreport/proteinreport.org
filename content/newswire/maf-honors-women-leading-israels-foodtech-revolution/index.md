@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release]
 directory: [5740, 5816, 7654]
-featured_image: "MAFwomen_0.jpg"
 draft: false
 pinned: false
 homepage: false

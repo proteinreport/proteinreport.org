@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, New Products]
 directory: [5818]
-featured_image: "KV.jpg"
 draft: false
 pinned: false
 homepage: false

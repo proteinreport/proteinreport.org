@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [700, 1332, 8229, 8464]
-featured_image: "All-Packaging-Seitan.jpg"
 draft: false
 pinned: false
 homepage: false

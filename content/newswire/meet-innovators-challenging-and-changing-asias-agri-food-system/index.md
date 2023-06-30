@@ -13,7 +13,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [1328]
-featured_image: "apac.png"
 draft: false
 pinned: false
 homepage: false

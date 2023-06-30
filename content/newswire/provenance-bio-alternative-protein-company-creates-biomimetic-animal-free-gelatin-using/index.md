@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [5863]
-featured_image: "provenance-logo_1.png"
 draft: false
 pinned: false
 homepage: false

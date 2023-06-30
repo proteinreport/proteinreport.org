@@ -12,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [8922]
-featured_image: "pekilo_0.jpg"
 draft: false
 pinned: false
 homepage: false

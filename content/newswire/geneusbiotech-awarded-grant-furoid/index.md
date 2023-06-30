@@ -12,7 +12,6 @@ topics: [Business, Sci-Tech]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [10726]
-featured_image: "geneus_0.png"
 draft: false
 pinned: false
 homepage: false

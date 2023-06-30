@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [234]
-featured_image: "Eat_Just_JUST_Egg_GOOD_Meat.jpg"
 draft: false
 pinned: false
 homepage: false

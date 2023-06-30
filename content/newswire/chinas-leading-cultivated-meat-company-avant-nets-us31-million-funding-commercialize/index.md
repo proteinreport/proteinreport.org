@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [1332, 5810, 6280]
-featured_image: "AVANT DEMO 2010-10-11 B (CULTIVATED FISH MAW BITES IN POTATO CROQUETTE) a.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -13,7 +13,6 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [NA]
-featured_image: "Innovation Challenge Winner - 77 FOODS.png"
 draft: false
 pinned: false
 homepage: false

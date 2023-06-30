@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [836, 5831, 8327, 8981, 9257]
-featured_image: "Fiber inspection_photoby_Siiri Kumari.jpg.jpeg"
 draft: false
 pinned: false
 homepage: false

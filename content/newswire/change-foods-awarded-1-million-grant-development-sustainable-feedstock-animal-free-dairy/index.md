@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Oceania]
 flags: [Press Release, Investments]
 directory: [7627]
-featured_image: "Photo1 Change Foods 1 million grant.jpg"
 draft: false
 pinned: false
 homepage: false

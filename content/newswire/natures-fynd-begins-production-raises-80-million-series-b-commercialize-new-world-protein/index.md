@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [5861]
-featured_image: "CEO Thomas Jonas 1.jpg"
 draft: false
 pinned: false
 homepage: false

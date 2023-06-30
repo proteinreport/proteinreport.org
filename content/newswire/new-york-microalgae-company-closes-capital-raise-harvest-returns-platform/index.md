@@ -13,7 +13,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Investments, Press Release]
 directory: [NA]
-featured_image: "logos.jpg"
 draft: false
 pinned: false
 homepage: false

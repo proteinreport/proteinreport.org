@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [1332, 8329]
-featured_image: "Picture1.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [1294, 1303, 6280, 8229, 8360]
-featured_image: "IMG_4682_0.jpg"
 draft: false
 pinned: false
 homepage: false

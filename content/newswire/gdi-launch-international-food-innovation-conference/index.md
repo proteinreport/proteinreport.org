@@ -13,7 +13,6 @@ topics: [Business]
 regions: [Europe, International]
 flags: [Press Release]
 directory: [1170, 1212, 6280]
-featured_image: "synthetic-meat_cooke_1.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Africa]
 flags: [Press Release]
 directory: [10449]
-featured_image: "Mogale Meat Co_ first cultivated chicken in Africa _3.jpg"
 draft: false
 pinned: false
 homepage: false

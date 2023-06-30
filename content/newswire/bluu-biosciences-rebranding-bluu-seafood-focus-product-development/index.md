@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [7856]
-featured_image: "Logo Bluu Seafood_bluu.darkblue_0.jpg"
 draft: false
 pinned: false
 homepage: false

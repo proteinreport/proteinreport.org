@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [8981]
-featured_image: "Gelatex co-founder and CEO Märt-Erik Martens (by Gelatex).jpg"
 draft: false
 pinned: false
 homepage: false

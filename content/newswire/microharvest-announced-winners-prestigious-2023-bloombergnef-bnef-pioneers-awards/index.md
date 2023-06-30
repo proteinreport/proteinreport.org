@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [11296]
-featured_image: "MicroHarvest co-founders Luísa Cruz Katelijne Bekers and Jonathan Roberz.jpeg"
 draft: false
 pinned: false
 homepage: false

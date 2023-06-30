@@ -13,7 +13,6 @@ topics: [Business]
 regions: [Latin America & Caribbean, US & Canada]
 flags: [Press Release]
 directory: [685, 6139]
-featured_image: "Moonshot panel members .png"
 draft: false
 pinned: false
 homepage: false

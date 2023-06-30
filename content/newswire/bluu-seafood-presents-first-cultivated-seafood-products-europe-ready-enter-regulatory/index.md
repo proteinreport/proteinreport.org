@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [7856]
-featured_image: "Bluu Seafood_Cultivated Fish Balls_copyright Bluu GmbH_Wim Jansen.jpg"
 draft: false
 pinned: false
 homepage: false

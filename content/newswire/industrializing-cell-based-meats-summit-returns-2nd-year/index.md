@@ -11,7 +11,6 @@ topics: [Business, Sci-Tech]
 regions: [NA]
 flags: [Press Release]
 directory: [700, 1170, 1268, 5828, 5829, 5853]
-featured_image: "brochure.png"
 draft: false
 pinned: false
 homepage: false

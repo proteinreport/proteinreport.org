@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [5818]
-featured_image: "logos_0.jpg"
 draft: false
 pinned: false
 homepage: false

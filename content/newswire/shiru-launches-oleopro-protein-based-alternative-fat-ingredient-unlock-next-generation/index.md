@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [1311, 6280, 7174]
-featured_image: "Shiru-product-02_0.jpg"
 draft: false
 pinned: false
 homepage: false

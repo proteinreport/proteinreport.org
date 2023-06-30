@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [8329]
-featured_image: "CellX_01_0.jpg"
 draft: false
 pinned: false
 homepage: false

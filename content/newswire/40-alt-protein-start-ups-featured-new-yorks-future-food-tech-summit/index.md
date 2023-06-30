@@ -13,7 +13,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [694, 696, 1174, 1176, 1262, 1299, 1353, 5606, 5678, 5703, 5797, 5800, 5829, 5837, 5861, 5865, 6782, 6832, 7022, 7110, 7933, 8844, 9427, 10387, 10918]
-featured_image: "JzFfLuLE_0.png"
 draft: false
 pinned: false
 homepage: false

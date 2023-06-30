@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [5819, 6149]
-featured_image: "Founders_Meatable_4.jpg"
 draft: false
 pinned: false
 homepage: false

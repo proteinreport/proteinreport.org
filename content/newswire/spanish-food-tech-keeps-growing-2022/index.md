@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [1328, 5760, 6179, 8457, 9233, 10963]
-featured_image: "3D Meat steak_Cocuus.jpeg"
 draft: false
 pinned: false
 homepage: false

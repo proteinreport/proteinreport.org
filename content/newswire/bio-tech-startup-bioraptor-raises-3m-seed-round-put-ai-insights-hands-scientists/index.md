@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release, Investments]
 directory: [6280, 11176]
-featured_image: "bioraptor_cofounders_0.jpg"
 draft: false
 pinned: false
 homepage: false

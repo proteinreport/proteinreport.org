@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [10188]
-featured_image: "Diverse Chickpea Material - NuCicer.JPG"
 draft: false
 pinned: false
 homepage: false

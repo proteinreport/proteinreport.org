@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [1332, 10188]
-featured_image: "NucicerLogo.png"
 draft: false
 pinned: false
 homepage: false

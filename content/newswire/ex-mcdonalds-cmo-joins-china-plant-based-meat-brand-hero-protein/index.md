@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [694, 695, 8412]
-featured_image: "HEROPROTEIN_04_Burger_with-logo.jpg"
 draft: false
 pinned: false
 homepage: false

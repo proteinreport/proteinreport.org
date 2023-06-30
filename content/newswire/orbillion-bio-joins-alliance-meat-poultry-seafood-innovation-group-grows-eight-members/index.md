@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [234, 237, 5801, 5826, 5828, 5829, 5831, 7336, 7349]
-featured_image: "AMPS-Orbillion_0.jpg"
 draft: false
 pinned: false
 homepage: false

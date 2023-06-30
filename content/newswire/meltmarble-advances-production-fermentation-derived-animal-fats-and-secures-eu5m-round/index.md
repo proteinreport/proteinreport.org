@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [1332, 10458]
-featured_image: "Florian David-Anastasia Krivoruchko_0.jpg"
 draft: false
 pinned: false
 homepage: false

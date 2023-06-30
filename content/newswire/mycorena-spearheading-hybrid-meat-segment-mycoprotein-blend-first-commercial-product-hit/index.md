@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, New Products]
 directory: [5899]
-featured_image: "hybrid-cow-final.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, New Products]
 directory: [234]
-featured_image: "GOOD Meat Cultivated Chicken in Case.jpg"
 draft: false
 pinned: false
 homepage: false

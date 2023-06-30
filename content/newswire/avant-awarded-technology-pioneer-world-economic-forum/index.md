@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [5810]
-featured_image: "20210615_WEF Tech Pioneers.jpg"
 draft: false
 pinned: false
 homepage: false

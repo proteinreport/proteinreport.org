@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [10474]
-featured_image: "Yeyo_ALDI_shelf.jpg"
 draft: false
 pinned: false
 homepage: false

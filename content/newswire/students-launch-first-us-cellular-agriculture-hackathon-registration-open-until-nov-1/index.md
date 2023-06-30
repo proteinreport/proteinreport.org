@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [697, 698, 699, 836, 1249, 8327]
-featured_image: "ct_0.jpg"
 draft: false
 pinned: false
 homepage: false

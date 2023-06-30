@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [8457, 9233, 10963]
-featured_image: "Cocuus Steak.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [1212, 1332, 7110, 7552, 10387]
-featured_image: "Raw_filet_5_covershot.jpg"
 draft: false
 pinned: false
 homepage: false

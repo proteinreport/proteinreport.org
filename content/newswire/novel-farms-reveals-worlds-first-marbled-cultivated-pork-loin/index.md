@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [6600, 7502, 7552, 8229, 10643]
-featured_image: "Novel Farms_0.jpg"
 draft: false
 pinned: false
 homepage: false

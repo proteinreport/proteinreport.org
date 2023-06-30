@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [11174]
-featured_image: "scaleup.jpg"
 draft: false
 pinned: false
 homepage: false

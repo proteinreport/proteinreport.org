@@ -12,7 +12,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [1153]
-featured_image: "Slices_-_Hydrated_and_PRIME_2048x2048.jpg"
 draft: false
 pinned: false
 homepage: false

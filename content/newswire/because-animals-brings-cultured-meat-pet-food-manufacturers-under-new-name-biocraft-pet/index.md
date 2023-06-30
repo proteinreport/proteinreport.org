@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe, US & Canada]
 flags: [Press Release]
 directory: [5842]
-featured_image: "Team#2.JPG"
 draft: false
 pinned: false
 homepage: false

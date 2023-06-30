@@ -13,7 +13,6 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [NA]
-featured_image: "Remedy Logo Vertical RGB.jpg"
 draft: false
 pinned: false
 homepage: false

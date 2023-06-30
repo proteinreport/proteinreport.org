@@ -12,7 +12,6 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, New Products]
 directory: [5842]
-featured_image: "Food4.jpg"
 draft: false
 pinned: false
 homepage: false
