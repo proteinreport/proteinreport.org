@@ -12,6 +12,32 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [11222]
+featured_image: "StageTwo Sieger Foto.jpg"
+additional_images:
+  - src: "StageTwo Sieger Foto.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "Sieger Dt. Nachhaltigkeitspreis_Ries_Pitter-v2.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "Sieger Dt. Nachhaltigkeitspreis_Ries_Scholz_v4.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "Protein Dekoriert 2.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "Protein Gelöst.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "Protein Verpackt.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

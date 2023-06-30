@@ -12,6 +12,12 @@ topics: [Business]
 regions: [Oceania]
 flags: [Press Release]
 directory: [695, 5800, 8588]
+featured_image: "PRplaceholder.png"
+additional_images:
+  - src: "PRplaceholder.png"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

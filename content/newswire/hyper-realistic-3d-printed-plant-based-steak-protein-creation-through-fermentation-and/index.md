@@ -12,6 +12,28 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [8457, 9233, 10963]
+featured_image: "Cocuus Steak.jpg"
+additional_images:
+  - src: "Cocuus Steak.jpg"
+    caption: "Cocuus Steak"
+    alt: "Cocuus Steak"
+    title: "Cocuus Steak"
+  - src: "Cocuus Bacon.jpeg"
+    caption: "Cocuus Bacon"
+    alt: "Cocuus Bacon"
+    title: "Cocuus Bacon"
+  - src: "MOA (3).jpg"
+    caption: "MOA protein"
+    alt: "MOA protein"
+    title: "MOA protein"
+  - src: "Innomy (3).jpg"
+    caption: "Innomy burger"
+    alt: "Innomy burger"
+    title: "Innomy burger"
+  - src: "Cocuus (4).jpg"
+    caption: "Cocuus Salmon"
+    alt: "Cocuus Salmon"
+    title: "Cocuus Salmon"
 draft: false
 pinned: false
 homepage: false

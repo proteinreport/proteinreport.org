@@ -12,6 +12,12 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [234]
+featured_image: "Eat_Just_JUST_Egg_GOOD_Meat.jpg"
+additional_images:
+  - src: "Eat_Just_JUST_Egg_GOOD_Meat.jpg"
+    caption: "JUST Egg and GOOD Meat (Photo: Eat Just, Inc.)"
+    alt: "JUST Egg and GOOD Meat (Photo: Eat Just, Inc.)"
+    title: "JUST Egg and GOOD Meat (Photo: Eat Just, Inc.)"
 draft: false
 pinned: false
 homepage: false

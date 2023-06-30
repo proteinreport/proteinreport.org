@@ -12,6 +12,24 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [5829, 7856]
+featured_image: "Executive Team Bluu Biosciences.jpg"
+additional_images:
+  - src: "Executive Team Bluu Biosciences.jpg"
+    caption: "From left, Bluu Biosciences executive team: COO Chris Dammann; Co-Founder and Managing Director Dr Sebastian Rakers; Co-Founder and Managing Director Simon Fabich. Copyright Bluu GmbH."
+    alt: "From left, Bluu Biosciences executive team: COO Chris Dammann; Co-Founder and Managing Director Dr Sebastian Rakers; Co-Founder and Managing Director Simon Fabich. Copyright Bluu GmbH."
+    title: "From left, Bluu Biosciences executive team: COO Chris Dammann; Co-Founder and Managing Director Dr Sebastian Rakers; Co-Founder and Managing Director Simon Fabich. Copyright Bluu GmbH."
+  - src: "Chris Dammann_COO Bluu Biosciences_copyright Bluu GmbH.jpg"
+    caption: "Chris Dammann, COO Bluu Biosciences. Copyright Bluu GmbH."
+    alt: "Chris Dammann, COO Bluu Biosciences. Copyright Bluu GmbH."
+    title: "Chris Dammann, COO Bluu Biosciences. Copyright Bluu GmbH."
+  - src: "R&D for cell-based fish_copyright Bluu Biosciences (1).jpg"
+    caption: "R&amp;D for cell-based fish. Copyright Bluu Biosciences."
+    alt: "R&amp;D for cell-based fish. Copyright Bluu Biosciences."
+    title: "R&amp;D for cell-based fish. Copyright Bluu Biosciences."
+  - src: "Logo_highres.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

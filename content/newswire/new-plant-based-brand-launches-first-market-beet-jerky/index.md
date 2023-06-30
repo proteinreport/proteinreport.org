@@ -12,6 +12,12 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [6600, 11179]
+featured_image: "BeetJerkyVariety.jpg"
+additional_images:
+  - src: "BeetJerkyVariety.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

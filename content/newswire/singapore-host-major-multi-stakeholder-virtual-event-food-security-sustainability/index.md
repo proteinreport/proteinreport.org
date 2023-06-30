@@ -13,6 +13,12 @@ topics: [Business, Environment, Health, Policy]
 regions: [Asia, International]
 flags: [Press Release]
 directory: [NA]
+featured_image: "banner-6.jpg"
+additional_images:
+  - src: "banner-6.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

@@ -13,6 +13,20 @@ topics: [Health, Policy]
 regions: [Europe]
 flags: [Press Release]
 directory: [5791]
+featured_image: "DSC_0320.JPG"
+additional_images:
+  - src: "DSC_0320.JPG"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "HealthFerm Kick off Graphic recording.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "HealthFerm_logo.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

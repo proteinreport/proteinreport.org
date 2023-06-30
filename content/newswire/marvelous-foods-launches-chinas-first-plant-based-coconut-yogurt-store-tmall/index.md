@@ -13,6 +13,28 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [NA]
+featured_image: "marvelous.jpg"
+additional_images:
+  - src: "marvelous.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "marvelous2.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "marvelous3jpg.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "marvelous4.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "marvelous5.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

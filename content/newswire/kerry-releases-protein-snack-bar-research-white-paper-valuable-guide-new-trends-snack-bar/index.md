@@ -13,6 +13,12 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [NA]
+featured_image: "protein-bar-hero2.jpg"
+additional_images:
+  - src: "protein-bar-hero2.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

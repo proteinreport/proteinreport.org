@@ -12,6 +12,12 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [1153]
+featured_image: "ImprovedNature_Nature's PRIME_0.jpg"
+additional_images:
+  - src: "ImprovedNature_Nature's PRIME_0.jpg"
+    caption: "Improved Nature Nature's PRIME"
+    alt: "Improved Nature Nature's PRIME"
+    title: "Improved Nature Nature's PRIME"
 draft: false
 pinned: false
 homepage: false

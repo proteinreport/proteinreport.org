@@ -12,6 +12,12 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release, Investments]
 directory: [7654]
+featured_image: "maf.png"
+additional_images:
+  - src: "maf.png"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

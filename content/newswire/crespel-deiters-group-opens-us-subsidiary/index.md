@@ -13,6 +13,16 @@ topics: [Business]
 regions: [Europe, US & Canada]
 flags: [Press Release]
 directory: [NA]
+featured_image: "Crespel Deiters Group_different Lory Tex wheat texturates.jpg"
+additional_images:
+  - src: "Crespel Deiters Group_different Lory Tex wheat texturates.jpg"
+    caption: "Different Lory Tex wheat texturates. Copyright Crespel Deiters Group."
+    alt: "Different Lory Tex wheat texturates. Copyright Crespel Deiters Group."
+    title: "Different Lory Tex wheat texturates. Copyright Crespel Deiters Group."
+  - src: "Crespel Deiters Group_Philipp Deiters_Member Executive Board.jpg"
+    caption: "Philipp Deiters, Member Executive Board. Copyright Crespel Deiters Group."
+    alt: "Philipp Deiters, Member Executive Board. Copyright Crespel Deiters Group."
+    title: "Philipp Deiters, Member Executive Board. Copyright Crespel Deiters Group."
 draft: false
 pinned: false
 homepage: false

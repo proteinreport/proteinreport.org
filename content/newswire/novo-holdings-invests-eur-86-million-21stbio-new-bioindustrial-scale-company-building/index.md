@@ -13,6 +13,12 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [5870]
+featured_image: "novo.jpg"
+additional_images:
+  - src: "novo.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

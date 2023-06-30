@@ -12,6 +12,24 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [700, 1332, 8229, 8464]
+featured_image: "All-Packaging-Seitan.jpg"
+additional_images:
+  - src: "All-Packaging-Seitan.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "UltimateFlatlay.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "All-Pizza.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "Tacos-ChiliLime.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

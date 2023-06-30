@@ -13,6 +13,12 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [NA]
+featured_image: "FFTSF21 - Innovation Challenge 2021.png"
+additional_images:
+  - src: "FFTSF21 - Innovation Challenge 2021.png"
+    caption: "Food-Tech Start-Ups Invited to Submit Solutions for Plant-Based &amp; Dairy Alternatives and Digestive Wellness"
+    alt: "Food-Tech Start-Ups Invited to Submit Solutions for Plant-Based &amp; Dairy Alternatives and Digestive Wellness"
+    title: "Food-Tech Start-Ups Invited to Submit Solutions for Plant-Based &amp; Dairy Alternatives and Digestive Wellness"
 draft: false
 pinned: false
 homepage: false

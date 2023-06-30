@@ -12,6 +12,20 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [10527]
+featured_image: "Arkeon_core team_web.jpg"
+additional_images:
+  - src: "Arkeon_core team_web.jpg"
+    caption: "Arkeon core team"
+    alt: "Arkeon core team"
+    title: "Arkeon core team"
+  - src: "Arkeon_founders_web.jpg"
+    caption: "Arkeon founders"
+    alt: "Arkeon founders"
+    title: "Arkeon founders"
+  - src: "Arkeon_Tegl_web.jpg"
+    caption: "Arkeon CEO Gregor Tegl"
+    alt: "Arkeon CEO Gregor Tegl"
+    title: "Arkeon CEO Gregor Tegl"
 draft: false
 pinned: false
 homepage: false

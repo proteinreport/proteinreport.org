@@ -12,6 +12,32 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, New Products]
 directory: [8412]
+featured_image: "1.jpg"
+additional_images:
+  - src: "1.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "2.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "3.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "4.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "5.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "HEROTEIN logo.png"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

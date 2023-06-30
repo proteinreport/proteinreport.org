@@ -12,6 +12,28 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [8329]
+featured_image: "CellX_01_0.jpg"
+additional_images:
+  - src: "CellX_01_0.jpg"
+    caption: "CellX &amp; Tofflon announce strategic partnership"
+    alt: "CellX &amp; Tofflon announce strategic partnership"
+    title: "CellX &amp; Tofflon announce strategic partnership"
+  - src: "CellX_02.jpg"
+    caption: "Rendering of China's first pilot facility for cultivated meat"
+    alt: "Rendering of China's first pilot facility for cultivated meat"
+    title: "Rendering of China's first pilot facility for cultivated meat"
+  - src: "CellX_03_0.jpg"
+    caption: "Xiaodong Zheng, chairman of Tofflon"
+    alt: "Xiaodong Zheng, chairman of Tofflon"
+    title: "Xiaodong Zheng, chairman of Tofflon"
+  - src: "CellX_04_0.jpg"
+    caption: "Ziliang Yang, Co-founder and CEO of CellX"
+    alt: "Ziliang Yang, Co-founder and CEO of CellX"
+    title: "Ziliang Yang, Co-founder and CEO of CellX"
+  - src: "CellX code.jpg"
+    caption: "CellX's QR code"
+    alt: "CellX's QR code"
+    title: "CellX's QR code"
 draft: false
 pinned: false
 homepage: false

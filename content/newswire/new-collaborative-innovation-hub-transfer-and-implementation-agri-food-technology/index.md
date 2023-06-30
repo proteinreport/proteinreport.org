@@ -13,6 +13,16 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [10963]
+featured_image: "Presentation Eatex 1.jpeg"
+additional_images:
+  - src: "Presentation Eatex 1.jpeg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "Presentation Eatex 2.jpeg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

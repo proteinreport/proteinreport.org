@@ -12,6 +12,24 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [694, 695, 1294, 1332, 10251]
+featured_image: "Tiba Tempeh Range.jpg"
+additional_images:
+  - src: "Tiba Tempeh Range.jpg"
+    caption: "Tiba Tempeh Range"
+    alt: "Tiba Tempeh Range"
+    title: "Tiba Tempeh Range"
+  - src: "Tiba Tempeh BBQ Burgers.jpg"
+    caption: "Tiba Tempeh BBQ Burgers"
+    alt: "Tiba Tempeh BBQ Burgers"
+    title: "Tiba Tempeh BBQ Burgers"
+  - src: "Tiba Tempeh Soy-Marinated Pieces Stir-Fry.jpg"
+    caption: "Tiba Tempeh Soy-Marinated Pieces Stir-Fry"
+    alt: "Tiba Tempeh Soy-Marinated Pieces Stir-Fry"
+    title: "Tiba Tempeh Soy-Marinated Pieces Stir-Fry"
+  - src: "Tiba Tempeh Sweet Chilli Pieces.jpg"
+    caption: "Tiba Tempeh Sweet Chilli Pieces"
+    alt: "Tiba Tempeh Sweet Chilli Pieces"
+    title: "Tiba Tempeh Sweet Chilli Pieces"
 draft: false
 pinned: false
 homepage: false

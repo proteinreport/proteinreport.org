@@ -12,6 +12,20 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [694, 695, 1110, 1161, 1165, 1332, 8412]
+featured_image: "HERO_Products.jpg"
+additional_images:
+  - src: "HERO_Products.jpg"
+    caption: "HERO products packaging"
+    alt: "HERO products packaging"
+    title: "HERO products packaging"
+  - src: "HERO_Beef-Burger.jpg"
+    caption: "HERO beef burger"
+    alt: "HERO beef burger"
+    title: "HERO beef burger"
+  - src: "HERO_Chicken.JPG"
+    caption: "HERO chicken"
+    alt: "HERO chicken"
+    title: "HERO chicken"
 draft: false
 pinned: false
 homepage: false

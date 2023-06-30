@@ -13,6 +13,16 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release]
 directory: [694, 698, 1161, 5668, 5794]
+featured_image: "Santi Aliaga.jpg"
+additional_images:
+  - src: "Santi Aliaga.jpg"
+    caption: "Santiago Aliaga, CEO of Zyrcular Foods"
+    alt: "Santiago Aliaga, CEO of Zyrcular Foods"
+    title: "Santiago Aliaga, CEO of Zyrcular Foods"
+  - src: "Zyrcular Foods.jpg"
+    caption: "Zyrcular Foods plant-based protein facility"
+    alt: "Zyrcular Foods plant-based protein facility"
+    title: "Zyrcular Foods plant-based protein facility"
 draft: false
 pinned: false
 homepage: false

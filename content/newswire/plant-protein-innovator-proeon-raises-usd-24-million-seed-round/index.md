@@ -12,6 +12,12 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release, Investments]
 directory: [8176]
+featured_image: "Kevin and Ashish.jpg"
+additional_images:
+  - src: "Kevin and Ashish.jpg"
+    caption: "The funds will be used to accelerate growth, expand research and development capabilities, and set up a research lab in the Netherlands"
+    alt: "The funds will be used to accelerate growth, expand research and development capabilities, and set up a research lab in the Netherlands"
+    title: "The funds will be used to accelerate growth, expand research and development capabilities, and set up a research lab in the Netherlands"
 draft: false
 pinned: false
 homepage: false

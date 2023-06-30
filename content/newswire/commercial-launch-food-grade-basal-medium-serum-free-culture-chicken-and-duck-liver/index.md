@@ -12,6 +12,32 @@ topics: [Business, Sci-Tech]
 regions: [Asia]
 flags: [Press Release]
 directory: [5818]
+featured_image: "integriculture.png"
+additional_images:
+  - src: "integriculture.png"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "liver_cell_growth_curve.JPG"
+    caption: "Growth curve of liver cells"
+    alt: "Growth curve of liver cells"
+    title: "Growth curve of liver cells"
+  - src: "culnet_schematic.JPG"
+    caption: "Figure 1: Schematic diagram of the CulNet™ system"
+    alt: "Figure 1: Schematic diagram of the CulNet™ system"
+    title: "Figure 1: Schematic diagram of the CulNet™ system"
+  - src: "duck_liver_cell_growth_curve.JPG"
+    caption: "Figure 2: Growth curve of Duck liver-derived cell"
+    alt: "Figure 2: Growth curve of Duck liver-derived cell"
+    title: "Figure 2: Growth curve of Duck liver-derived cell"
+  - src: "chicken_liver_cell_growth_curve.JPG"
+    caption: "Figure 3: Growth curve of Chicken liver-derived cell"
+    alt: "Figure 3: Growth curve of Chicken liver-derived cell"
+    title: "Figure 3: Growth curve of Chicken liver-derived cell"
+  - src: "duck_liver_cells_3_days.JPG"
+    caption: "Duck liver-derived cells: 3 days after start of cultivation"
+    alt: "Duck liver-derived cells: 3 days after start of cultivation"
+    title: "Duck liver-derived cells: 3 days after start of cultivation"
 draft: false
 pinned: false
 homepage: false

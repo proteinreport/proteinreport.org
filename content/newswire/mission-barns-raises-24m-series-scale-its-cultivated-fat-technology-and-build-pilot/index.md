@@ -12,6 +12,16 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [234, 694, 695, 699, 1332, 5663, 5703, 5827, 5831, 7552, 8328]
+featured_image: "fat_fp_img.jpg"
+additional_images:
+  - src: "fat_fp_img.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "Logobig_1.png"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

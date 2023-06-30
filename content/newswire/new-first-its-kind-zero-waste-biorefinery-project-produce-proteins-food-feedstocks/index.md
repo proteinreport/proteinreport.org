@@ -11,6 +11,12 @@ topics: [Business, Environment]
 regions: [Europe]
 flags: [Press Release]
 directory: [1077, 5820, 5865]
+featured_image: "logos.png"
+additional_images:
+  - src: "logos.png"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

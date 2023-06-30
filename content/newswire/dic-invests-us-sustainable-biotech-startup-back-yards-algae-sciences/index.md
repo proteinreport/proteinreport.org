@@ -13,6 +13,12 @@ topics: [Business]
 regions: [Asia, US & Canada]
 flags: [Press Release, Investments]
 directory: [5839]
+featured_image: "lab 20.jpg"
+additional_images:
+  - src: "lab 20.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

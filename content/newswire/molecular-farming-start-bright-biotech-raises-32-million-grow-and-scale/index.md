@@ -12,6 +12,24 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [1303, 5660, 5819, 6280, 6600, 10455]
+featured_image: "IMG_9989.jpg"
+additional_images:
+  - src: "IMG_9989.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "bright-biotech_option-02.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "IMG_9933.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "IMG_9988.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

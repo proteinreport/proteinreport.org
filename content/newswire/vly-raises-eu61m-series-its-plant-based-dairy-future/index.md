@@ -12,6 +12,12 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [5662]
+featured_image: "From L to R_ Vly Co-Founders Moritz Braunwarth, Nicolas Hartmann, Niklas Katter._0.jpg"
+additional_images:
+  - src: "From L to R_ Vly Co-Founders Moritz Braunwarth, Nicolas Hartmann, Niklas Katter._0.jpg"
+    caption: "From left, Vly Co-Founders Moritz Braunwarth, Nicolas Hartmann, and Niklas Katter"
+    alt: "From left, Vly Co-Founders Moritz Braunwarth, Nicolas Hartmann, and Niklas Katter"
+    title: "From left, Vly Co-Founders Moritz Braunwarth, Nicolas Hartmann, and Niklas Katter"
 draft: false
 pinned: false
 homepage: false

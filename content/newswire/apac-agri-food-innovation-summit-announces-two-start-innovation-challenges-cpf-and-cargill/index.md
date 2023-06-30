@@ -13,6 +13,12 @@ topics: [Business]
 regions: [Asia]
 flags: [Press Release]
 directory: [NA]
+featured_image: "APAC21 Innovation Challenge Webinar.png"
+additional_images:
+  - src: "APAC21 Innovation Challenge Webinar.png"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

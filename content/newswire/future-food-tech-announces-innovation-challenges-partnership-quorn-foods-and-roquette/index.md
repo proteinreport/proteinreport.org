@@ -13,6 +13,16 @@ topics: [Business]
 regions: [International]
 flags: [Press Release]
 directory: [1143]
+featured_image: "FFTP21 - Innovation Challenge 2021 (1).png"
+additional_images:
+  - src: "FFTP21 - Innovation Challenge 2021 (1).png"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "WEBINAR FFTP - Innovation Challenges.png"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

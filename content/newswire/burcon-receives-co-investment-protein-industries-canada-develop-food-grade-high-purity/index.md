@@ -13,6 +13,12 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [7110, 7167]
+featured_image: "logo-lg.png"
+additional_images:
+  - src: "logo-lg.png"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

@@ -12,6 +12,36 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [6600, 10908]
+featured_image: "future_product_line.jpg"
+additional_images:
+  - src: "future_product_line.jpg"
+    caption: "Mewery future product design mockup"
+    alt: "Mewery future product design mockup"
+    title: "Mewery future product design mockup"
+  - src: "Mewery 1.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "Mewery 2.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "Mewery 3.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "Mewery 4.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "Mewery 5.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "Roman Lauš 2.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

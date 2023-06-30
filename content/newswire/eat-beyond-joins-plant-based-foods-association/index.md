@@ -12,6 +12,12 @@ topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [6139, 7964]
+featured_image: "eb banner.jpg"
+additional_images:
+  - src: "eb banner.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

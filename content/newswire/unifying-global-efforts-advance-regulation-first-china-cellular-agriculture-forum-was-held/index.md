@@ -13,6 +13,16 @@ topics: [Business, Policy]
 regions: [Asia]
 flags: [Press Release]
 directory: [1249, 1332, 5810, 5816, 5817, 5818, 5820, 5821, 5827, 5829, 5831, 7315, 8329]
+featured_image: "CCAF-Image2.png"
+additional_images:
+  - src: "CCAF-Image2.png"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "CCAF-Image1.png"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

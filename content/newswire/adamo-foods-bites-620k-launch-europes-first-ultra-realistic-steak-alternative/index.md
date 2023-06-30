@@ -12,6 +12,12 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [11159]
+featured_image: "factory-g4edad8858_1920.jpg"
+additional_images:
+  - src: "factory-g4edad8858_1920.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

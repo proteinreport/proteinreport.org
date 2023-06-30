@@ -13,6 +13,28 @@ topics: [Business, Environment]
 regions: [US & Canada]
 flags: [Press Release]
 directory: [694, 695, 698]
+featured_image: "Homepage-SEO.png"
+additional_images:
+  - src: "Homepage-SEO.png"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "bti1.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "bti2.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "bti3.jpg"
+    caption: ""
+    alt: ""
+    title: ""
+  - src: "bti4.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

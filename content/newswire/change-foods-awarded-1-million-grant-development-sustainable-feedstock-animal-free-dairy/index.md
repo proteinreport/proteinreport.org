@@ -12,6 +12,16 @@ topics: [Business]
 regions: [Oceania]
 flags: [Press Release, Investments]
 directory: [7627]
+featured_image: "Photo1 Change Foods 1 million grant.jpg"
+additional_images:
+  - src: "Photo1 Change Foods 1 million grant.jpg"
+    caption: "Attending the press conference to announce the grant award to Change Foods (from left): Prof. Ian O'Hara, Deputy Director, Queensland University of Technology Centre for Agriculture &amp; the Bioeconomy; Nida Murtaza, Researcher Change Foods; Ms. Angie Bell MP, Federal Member for Moncrieff; Senator the Hon Bridget McKenzie, Minister for Emergency Management &amp; National Recovery &amp; Resilience; Nayana Pathiraja, Team Leader, Australian Research Lab for Change Foods."
+    alt: "Attending the press conference to announce the grant award to Change Foods (from left): Prof. Ian O'Hara, Deputy Director, Queensland University of Technology Centre for Agriculture &amp; the Bioeconomy; Nida Murtaza, Researcher Change Foods; Ms. Angie Bell MP, Federal Member for Moncrieff; Senator the Hon Bridget McKenzie, Minister for Emergency Management &amp; National Recovery &amp; Resilience; Nayana Pathiraja, Team Leader, Australian Research Lab for Change Foods."
+    title: "Attending the press conference to announce the grant award to Change Foods (from left): Prof. Ian O'Hara, Deputy Director, Queensland University of Technology Centre for Agriculture &amp; the Bioeconomy; Nida Murtaza, Researcher Change Foods; Ms. Angie Bell MP, Federal Member for Moncrieff; Senator the Hon Bridget McKenzie, Minister for Emergency Management &amp; National Recovery &amp; Resilience; Nayana Pathiraja, Team Leader, Australian Research Lab for Change Foods."
+  - src: "Photo 2 Change R&D Team_0.jpg"
+    caption: "Change Foods Australia-based research and development team (from left): Prof. Junior Te’o, Change Foods Co-Founder and CTO; Dr. Nayana Pathiraja, Team Leader, Research Scientist, Change Foods; Dr. Nida Murtaza, Research Scientist, Change Foods; Dr. Tuan Tu, Researcher, Research Scientist, Change Foods."
+    alt: "Change Foods Australia-based research and development team (from left): Prof. Junior Te’o, Change Foods Co-Founder and CTO; Dr. Nayana Pathiraja, Team Leader, Research Scientist, Change Foods; Dr. Nida Murtaza, Research Scientist, Change Foods; Dr. Tuan Tu, Researcher, Research Scientist, Change Foods."
+    title: "Change Foods Australia-based research and development team (from left): Prof. Junior Te’o, Change Foods Co-Founder and CTO; Dr. Nayana Pathiraja, Team Leader, Research Scientist, Change Foods; Dr. Nida Murtaza, Research Scientist, Change Foods; Dr. Tuan Tu, Researcher, Research Scientist, Change Foods."
 draft: false
 pinned: false
 homepage: false

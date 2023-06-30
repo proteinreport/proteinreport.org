@@ -12,6 +12,12 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [5819, 6149]
+featured_image: "Founders_Meatable_4.jpg"
+additional_images:
+  - src: "Founders_Meatable_4.jpg"
+    caption: "Meatable co-founders Krijn De Nood (left) and Daan Luining"
+    alt: "Meatable co-founders Krijn De Nood (left) and Daan Luining"
+    title: "Meatable co-founders Krijn De Nood (left) and Daan Luining"
 draft: false
 pinned: false
 homepage: false

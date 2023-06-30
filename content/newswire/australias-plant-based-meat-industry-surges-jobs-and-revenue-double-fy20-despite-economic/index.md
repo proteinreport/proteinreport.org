@@ -12,6 +12,12 @@ topics: [Business]
 regions: [Oceania]
 flags: [Press Release]
 directory: [5800, 6264, 8588]
+featured_image: "Report Cover.jpg"
+additional_images:
+  - src: "Report Cover.jpg"
+    caption: ""
+    alt: ""
+    title: ""
 draft: false
 pinned: false
 homepage: false

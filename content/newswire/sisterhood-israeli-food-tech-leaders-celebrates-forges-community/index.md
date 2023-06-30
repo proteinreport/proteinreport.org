@@ -12,6 +12,16 @@ topics: [Business]
 regions: [Middle East]
 flags: [Press Release]
 directory: [5816, 6737, 6782, 7654]
+featured_image: "MAF Top 26 Levana Shifman intro.jpg"
+additional_images:
+  - src: "MAF Top 26 Levana Shifman intro.jpg"
+    caption: "Levana Shifman, head of MAF"
+    alt: "Levana Shifman, head of MAF"
+    title: "Levana Shifman, head of MAF"
+  - src: "MAF top 26 women.jpg"
+    caption: "Israeli female food-tech leaders"
+    alt: "Israeli female food-tech leaders"
+    title: "Israeli female food-tech leaders"
 draft: false
 pinned: false
 homepage: false
