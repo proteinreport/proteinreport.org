@@ -63,7 +63,7 @@ uuid: 9100
 
 
 
-      <div class="media-wrapper media-wrapper--blazy media-wrapper--image">              <a href="/sites/default/files/inline-images/product%20details_1.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1890,&quot;height&quot;:703,&quot;rel&quot;:&quot;blazy-filter-0gxl6p-fo98-22-export-data-export-2&quot;}">      <div style="padding-bottom: 37.2%;" data-ratio="37.2" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy media-wrapper--image">              <a href="/sites/default/files/inline-images/product%20details_1.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1890,&quot;height&quot;:703,&quot;rel&quot;:&quot;blazy-filter-k1szhttor8-22-export-data-export-2&quot;}">      <div style="padding-bottom: 37.2%;" data-ratio="37.2" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Product Details" title="product details_1.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="631b77b8-14d9-4433-99eb-5595b2e7777d" data-src="/sites/default/files/inline-images/product%20details_1.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201890%20703'%2F%3E" width="1890" height="703" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

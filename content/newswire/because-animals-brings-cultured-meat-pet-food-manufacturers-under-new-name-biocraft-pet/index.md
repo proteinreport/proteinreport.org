@@ -12,9 +12,9 @@ topics: [Business]
 regions: [Europe, US & Canada]
 flags: [Press Release]
 directory: [5842]
-featured_image: "Team#2.jpg"
+featured_image: "Team2.jpg"
 additional_images:
-  - src: "Team#2.jpg"
+  - src: "Team2.jpg"
     caption: ""
     alt: ""
     title: ""
@@ -22,7 +22,7 @@ additional_images:
     caption: ""
     alt: ""
     title: ""
-  - src: "Food#3.jpg"
+  - src: "Food3.jpg"
     caption: ""
     alt: ""
     title: ""
