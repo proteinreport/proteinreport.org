@@ -13,11 +13,6 @@ regions: [Middle East]
 flags: [Press Release]
 directory: [8844]
 featured_image: "Logo white.jpg"
-additional_images:
-  - src: "Logo white.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

@@ -13,11 +13,6 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [10023]
 featured_image: "gb.png"
-additional_images:
-  - src: "gb.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

@@ -13,23 +13,6 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [6600, 8457, 9233, 10963]
 featured_image: "Team.jpg"
-additional_images:
-  - src: "Team.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Salmon.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Bacon2.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Meat.jpeg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

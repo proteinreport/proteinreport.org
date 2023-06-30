@@ -13,27 +13,6 @@ regions: [Asia]
 flags: [Press Release]
 directory: [10474]
 featured_image: "Yeyo_ALDI_shelf.jpg"
-additional_images:
-  - src: "Yeyo_ALDI_shelf.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "three_flavors_of_yeyo.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Yeyo ALDI mini program.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Yeyo_with_granola_topping.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "yeyo-maia-active-partnership.jpeg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

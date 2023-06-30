@@ -13,11 +13,6 @@ regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [837]
 featured_image: "Full-Product-Line_041020-1-2048x695 (1).jpg"
-additional_images:
-  - src: "Full-Product-Line_041020-1-2048x695 (1).jpg"
-    caption: "COOD CATCH"
-    alt: "COOD CATCH"
-    title: "COOD CATCH"
 draft: false
 pinned: false
 homepage: false

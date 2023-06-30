@@ -14,15 +14,6 @@ regions: [International]
 flags: [Press Release]
 directory: [1172, 7349]
 featured_image: "fft ecosystem.jpg"
-additional_images:
-  - src: "fft ecosystem.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "fft_0.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

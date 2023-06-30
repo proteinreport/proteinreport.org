@@ -14,19 +14,6 @@ regions: [International]
 flags: [Press Release]
 directory: [1356, 5660, 6178, 7174, 7241, 8332, 8360]
 featured_image: "Meet the Start-Ups.png"
-additional_images:
-  - src: "Meet the Start-Ups.png"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Innovation Challenge FFT (1).png"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Innovation Challenge FFT (2).png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

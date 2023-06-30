@@ -13,15 +13,6 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [695, 1311, 6280, 7174]
 featured_image: "Shiru patent (1000 × 1000 px) (3).png"
-additional_images:
-  - src: "Shiru patent (1000 × 1000 px) (3).png"
-    caption: "Lab automation with Shiru logo"
-    alt: "Lab automation with Shiru logo"
-    title: "Lab automation with Shiru logo"
-  - src: "shiru logo 1200 x 628.png"
-    caption: "Shiru logo"
-    alt: "Shiru logo"
-    title: "Shiru logo"
 draft: false
 pinned: false
 homepage: false

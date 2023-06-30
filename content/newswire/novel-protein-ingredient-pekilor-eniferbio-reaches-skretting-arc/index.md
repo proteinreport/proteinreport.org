@@ -13,11 +13,6 @@ regions: [Europe]
 flags: [Press Release]
 directory: [8922]
 featured_image: "eniferBio team.png"
-additional_images:
-  - src: "eniferBio team.png"
-    caption: "eniferBio team"
-    alt: "eniferBio team"
-    title: "eniferBio team"
 draft: false
 pinned: false
 homepage: false

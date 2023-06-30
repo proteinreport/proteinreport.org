@@ -13,11 +13,6 @@ regions: [US & Canada]
 flags: [Investments, Press Release]
 directory: [234, 1173, 1249, 7556, 7964]
 featured_image: "1500x500.jpg"
-additional_images:
-  - src: "1500x500.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

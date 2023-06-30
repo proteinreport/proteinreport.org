@@ -13,27 +13,6 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [8229, 11309]
 featured_image: "Protein 4.jpg"
-additional_images:
-  - src: "Protein 4.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Farmless Team.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Protein 1.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Protein 2.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Protein 3.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

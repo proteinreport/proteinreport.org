@@ -13,11 +13,6 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [697, 5808, 10023, 10643, 10975]
 featured_image: "cellagnh.png"
-additional_images:
-  - src: "cellagnh.png"
-    caption: "Illustration by Nick Counter for New Harvest // CC BY-NC-SA 4.0"
-    alt: "Illustration by Nick Counter for New Harvest // CC BY-NC-SA 4.0"
-    title: "Illustration by Nick Counter for New Harvest // CC BY-NC-SA 4.0"
 draft: false
 pinned: false
 homepage: false

@@ -14,11 +14,6 @@ regions: [Middle East]
 flags: [Press Release]
 directory: [1303, 5660, 5819, 6280]
 featured_image: "106.jpg"
-additional_images:
-  - src: "106.jpg"
-    caption: "PoLoPo founders. Photo credit: Amit Alfonta."
-    alt: "PoLoPo founders. Photo credit: Amit Alfonta."
-    title: "PoLoPo founders. Photo credit: Amit Alfonta."
 draft: false
 pinned: false
 homepage: false

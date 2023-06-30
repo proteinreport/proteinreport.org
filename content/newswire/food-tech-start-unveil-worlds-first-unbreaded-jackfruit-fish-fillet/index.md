@@ -13,11 +13,6 @@ regions: [Europe]
 flags: [Press Release, New Products]
 directory: [5758]
 featured_image: "Jackfruit Unbreaded Fish Fillet.jpg"
-additional_images:
-  - src: "Jackfruit Unbreaded Fish Fillet.jpg"
-    caption: "Jackfruit Unbreaded Fish Fillet. Photo credit: Jack &amp; Bry."
-    alt: "Jackfruit Unbreaded Fish Fillet. Photo credit: Jack &amp; Bry."
-    title: "Jackfruit Unbreaded Fish Fillet. Photo credit: Jack &amp; Bry."
 draft: false
 pinned: false
 homepage: false

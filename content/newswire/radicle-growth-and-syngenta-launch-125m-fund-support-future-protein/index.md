@@ -12,11 +12,6 @@ regions: [International]
 flags: [Press Release]
 directory: [NA]
 featured_image: "radicle-syngenta.png"
-additional_images:
-  - src: "radicle-syngenta.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

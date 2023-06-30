@@ -13,11 +13,6 @@ regions: [Asia]
 flags: [Press Release, Investments]
 directory: [1332]
 featured_image: "LeverVC.jpg"
-additional_images:
-  - src: "LeverVC.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

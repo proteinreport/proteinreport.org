@@ -13,11 +13,6 @@ regions: [Asia]
 flags: [Press Release]
 directory: [11174]
 featured_image: "scaleup.jpg"
-additional_images:
-  - src: "scaleup.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

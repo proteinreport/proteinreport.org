@@ -14,15 +14,6 @@ regions: [Asia]
 flags: [Press Release]
 directory: [1328]
 featured_image: "apac.png"
-additional_images:
-  - src: "apac.png"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "APAC21 - Meet The Start-Ups.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

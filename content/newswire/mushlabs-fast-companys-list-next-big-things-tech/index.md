@@ -13,19 +13,6 @@ regions: [Europe]
 flags: [Press Release]
 directory: [5660]
 featured_image: "Mushlabs_Mushroom_1.jpg"
-additional_images:
-  - src: "Mushlabs_Mushroom_1.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Mushlabs_Lab.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Mushlabs_Fermenter.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

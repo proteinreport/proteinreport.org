@@ -13,23 +13,6 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [1332, 5678, 11153]
 featured_image: "Michael Tai Headshot_0.jpeg"
-additional_images:
-  - src: "Michael Tai Headshot_0.jpeg"
-    caption: "Michael Tai"
-    alt: "Michael Tai"
-    title: "Michael Tai"
-  - src: "Mert Sahin Headshot.jpg"
-    caption: "Mert Sahin"
-    alt: "Mert Sahin"
-    title: "Mert Sahin"
-  - src: "Ted Netland Headshot.jpg"
-    caption: "Ted Netland"
-    alt: "Ted Netland"
-    title: "Ted Netland"
-  - src: "BB_logo_fullcolor.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

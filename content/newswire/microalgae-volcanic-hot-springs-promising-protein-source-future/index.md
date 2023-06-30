@@ -13,15 +13,6 @@ regions: [Europe]
 flags: [Press Release]
 directory: [7873]
 featured_image: "20210629_123620000_iOS 1.jpg"
-additional_images:
-  - src: "20210629_123620000_iOS 1.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "FB.jpg"
-    caption: "Right side: Production of Galdieria sulphuraria in a pilot tubular photobioreactor at AlgaePARC (Wageningen University and Research, The Netherlands); Left side: hot springs"
-    alt: "Right side: Production of Galdieria sulphuraria in a pilot tubular photobioreactor at AlgaePARC (Wageningen University and Research, The Netherlands); Left side: hot springs"
-    title: "Right side: Production of Galdieria sulphuraria in a pilot tubular photobioreactor at AlgaePARC (Wageningen University and Research, The Netherlands); Left side: hot springs"
 draft: false
 pinned: false
 homepage: false

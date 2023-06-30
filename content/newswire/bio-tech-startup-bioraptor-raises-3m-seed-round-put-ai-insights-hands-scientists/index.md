@@ -13,19 +13,6 @@ regions: [Middle East]
 flags: [Press Release, Investments]
 directory: [6280, 11176]
 featured_image: "bioraptor_cofounders_0.jpg"
-additional_images:
-  - src: "bioraptor_cofounders_0.jpg"
-    caption: "BioRaptor cofounders Yaron David (left) and Ori Zakin (right)."
-    alt: "BioRaptor cofounders Yaron David (left) and Ori Zakin (right)."
-    title: "BioRaptor cofounders Yaron David (left) and Ori Zakin (right)."
-  - src: "Ori Zakin.jpeg"
-    caption: "Ori Zakin"
-    alt: "Ori Zakin"
-    title: "Ori Zakin"
-  - src: "Yaron David.jpeg"
-    caption: "Yaron David"
-    alt: "Yaron David"
-    title: "Yaron David"
 draft: false
 pinned: false
 homepage: false

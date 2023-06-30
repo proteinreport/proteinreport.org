@@ -13,23 +13,6 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [6600, 11147]
 featured_image: "Fomage_fondant_HQ_logo.jpg"
-additional_images:
-  - src: "Fomage_fondant_HQ_logo.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Proto A4 HQ - logo.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Nathalie Rolland.jpg"
-    caption: "Nathalie Rolland"
-    alt: "Nathalie Rolland"
-    title: "Nathalie Rolland"
-  - src: "Maya Bendifallah.jpg"
-    caption: "Maya Bendifallah"
-    alt: "Maya Bendifallah"
-    title: "Maya Bendifallah"
 draft: false
 pinned: false
 homepage: false

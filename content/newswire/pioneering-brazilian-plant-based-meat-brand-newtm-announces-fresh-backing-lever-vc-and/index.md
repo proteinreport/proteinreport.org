@@ -13,15 +13,6 @@ regions: [Latin America & Caribbean]
 flags: [Press Release, Investments]
 directory: [694, 1332, 8602]
 featured_image: "Bruno Fonseca - Cofounder The New Butchers.jpg"
-additional_images:
-  - src: "Bruno Fonseca - Cofounder The New Butchers.jpg"
-    caption: "Bruno Fonseca, Cofounder of The New Butchers"
-    alt: "Bruno Fonseca, Cofounder of The New Butchers"
-    title: "Bruno Fonseca, Cofounder of The New Butchers"
-  - src: "THE NEW BUTCHERS - BACALHOADA (5).jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

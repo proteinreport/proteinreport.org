@@ -14,11 +14,6 @@ regions: [Asia]
 flags: [Press Release]
 directory: [234, 699, 5797, 5800, 5816, 5820, 5821, 5829, 5831, 6736, 6737, 7551, 7856, 8817, 8859, 9129, 9427, 10387]
 featured_image: "AP_Agri-Food_2021_webslider_2650x1000px_v2_NEWS-scaled.jpg"
-additional_images:
-  - src: "AP_Agri-Food_2021_webslider_2650x1000px_v2_NEWS-scaled.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

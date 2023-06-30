@@ -13,11 +13,6 @@ regions: [Europe]
 flags: [Press Release]
 directory: [5836, 5853, 5865]
 featured_image: "PR-images_With-PoM-logo_All-002-1.jpg"
-additional_images:
-  - src: "PR-images_With-PoM-logo_All-002-1.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

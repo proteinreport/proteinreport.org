@@ -13,15 +13,6 @@ regions: [Europe]
 flags: [Press Release]
 directory: [11296]
 featured_image: "MicroHarvest co-founders Luísa Cruz Katelijne Bekers and Jonathan Roberz.jpeg"
-additional_images:
-  - src: "MicroHarvest co-founders Luísa Cruz Katelijne Bekers and Jonathan Roberz.jpeg"
-    caption: "MicroHarvest co-founders, from left: Luísa Cruz, Katelijne Bekers, and Jonathan Roberz."
-    alt: "MicroHarvest co-founders, from left: Luísa Cruz, Katelijne Bekers, and Jonathan Roberz."
-    title: "MicroHarvest co-founders, from left: Luísa Cruz, Katelijne Bekers, and Jonathan Roberz."
-  - src: "MicroHarvest protein ingredient.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

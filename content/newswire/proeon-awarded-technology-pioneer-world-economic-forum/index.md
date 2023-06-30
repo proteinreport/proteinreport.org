@@ -13,15 +13,6 @@ regions: [Asia]
 flags: [Press Release]
 directory: [698, 8176]
 featured_image: "proeon.jpg"
-additional_images:
-  - src: "proeon.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Proeon logo.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

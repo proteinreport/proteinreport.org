@@ -14,31 +14,6 @@ regions: [International, US & Canada]
 flags: [Press Release]
 directory: [NA]
 featured_image: "just_launched.png"
-additional_images:
-  - src: "just_launched.png"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "illustration.png"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "kickstarter-cover.png"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "anita_broellochs.jpg"
-    caption: "Anita Broellochs"
-    alt: "Anita Broellochs"
-    title: "Anita Broellochs"
-  - src: "alex_shirazi.jpg"
-    caption: "Alex Shirazi"
-    alt: "Alex Shirazi"
-    title: "Alex Shirazi"
-  - src: "gabriel_gonzalez.jpg"
-    caption: "Gabriel Gonzalez"
-    alt: "Gabriel Gonzalez"
-    title: "Gabriel Gonzalez"
 draft: false
 pinned: false
 homepage: false

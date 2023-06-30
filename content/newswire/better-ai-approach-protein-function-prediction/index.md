@@ -13,11 +13,6 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [1311, 6280, 7174]
 featured_image: "Shiru presents a new AI approach for better protein function prediction.jpg"
-additional_images:
-  - src: "Shiru presents a new AI approach for better protein function prediction.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

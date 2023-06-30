@@ -13,19 +13,6 @@ regions: [Asia]
 flags: [Press Release, Investments]
 directory: [1332, 5810, 6280]
 featured_image: "AVANT DEMO 2010-10-11 B (CULTIVATED FISH MAW BITES IN POTATO CROQUETTE) a.jpg"
-additional_images:
-  - src: "AVANT DEMO 2010-10-11 B (CULTIVATED FISH MAW BITES IN POTATO CROQUETTE) a.jpg"
-    caption: "Cultivated fish maw bites in potato croquette"
-    alt: "Cultivated fish maw bites in potato croquette"
-    title: "Cultivated fish maw bites in potato croquette"
-  - src: "AVANT DEMO 2020-03-06 A (FRUIT TARTARE TOPPED WITH CULTIVATED FISH MAW BITES) a.jpg"
-    caption: "Fruit tartare topped with cultivated fish maw bites"
-    alt: "Fruit tartare topped with cultivated fish maw bites"
-    title: "Fruit tartare topped with cultivated fish maw bites"
-  - src: "CarrieChan_001 a[1]_0.jpg"
-    caption: "Carrie Chan"
-    alt: "Carrie Chan"
-    title: "Carrie Chan"
 draft: false
 pinned: false
 homepage: false

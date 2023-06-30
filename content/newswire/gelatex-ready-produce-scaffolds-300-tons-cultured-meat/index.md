@@ -13,31 +13,6 @@ regions: [Europe]
 flags: [Press Release]
 directory: [836, 5831, 8327, 8981, 9257]
 featured_image: "Fiber inspection_photoby_Siiri Kumari.jpg.jpeg"
-additional_images:
-  - src: "Fiber inspection_photoby_Siiri Kumari.jpg.jpeg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "CEO_cofounder_Märt-Erik Martens_photoby_Siiri Kumari.jpg"
-    caption: "CEO and cofounder Märt-Erik Martens"
-    alt: "CEO and cofounder Märt-Erik Martens"
-    title: "CEO and cofounder Märt-Erik Martens"
-  - src: "Fiber inspection_photoby_Siiri Kumari.jpg"
-    caption: "Fiber inspection"
-    alt: "Fiber inspection"
-    title: "Fiber inspection"
-  - src: "Fiber production_photoby_Siiri Kumari.jpg"
-    caption: "Fiber production"
-    alt: "Fiber production"
-    title: "Fiber production"
-  - src: "Nanofibrous material production on the line_photoby_Siiri Kumari.jpg"
-    caption: "Nanofibrous material production on the line"
-    alt: "Nanofibrous material production on the line"
-    title: "Nanofibrous material production on the line"
-  - src: "Nanofibrous material quality control_photoby_Siiri Kumari.jpg"
-    caption: "Nanofibrous material quality control"
-    alt: "Nanofibrous material quality control"
-    title: "Nanofibrous material quality control"
 draft: false
 pinned: false
 homepage: false

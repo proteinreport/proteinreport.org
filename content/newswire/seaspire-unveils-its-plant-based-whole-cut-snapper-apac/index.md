@@ -13,15 +13,6 @@ regions: [Asia]
 flags: [Press Release, New Products]
 directory: [9427]
 featured_image: "IMG_6355_0.jpg"
-additional_images:
-  - src: "IMG_6355_0.jpg"
-    caption: "Plant-based whole-cut snapper produced using bioprinting technology"
-    alt: "Plant-based whole-cut snapper produced using bioprinting technology"
-    title: "Plant-based whole-cut snapper produced using bioprinting technology"
-  - src: "IMG_6376_0.jpg"
-    caption: "SeaSpire’s Co-founders: Shantanu Dhnagr (Left) and Varun Gadodia (Right)"
-    alt: "SeaSpire’s Co-founders: Shantanu Dhnagr (Left) and Varun Gadodia (Right)"
-    title: "SeaSpire’s Co-founders: Shantanu Dhnagr (Left) and Varun Gadodia (Right)"
 draft: false
 pinned: false
 homepage: false

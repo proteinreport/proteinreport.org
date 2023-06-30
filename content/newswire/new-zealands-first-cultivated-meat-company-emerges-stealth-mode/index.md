@@ -13,11 +13,6 @@ regions: [Oceania]
 flags: [Press Release, Investments]
 directory: [11197]
 featured_image: "IMG_3556.jpg"
-additional_images:
-  - src: "IMG_3556.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

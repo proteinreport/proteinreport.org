@@ -13,11 +13,6 @@ regions: [Europe]
 flags: [Press Release]
 directory: [1310, 1345, 5803, 5816, 5817, 5819, 5820, 5824, 5853, 6179, 7856, 9042, 10129]
 featured_image: "cae.jpg"
-additional_images:
-  - src: "cae.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

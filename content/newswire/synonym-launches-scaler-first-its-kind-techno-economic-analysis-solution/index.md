@@ -13,11 +13,6 @@ regions: [International, US & Canada]
 flags: [Press Release]
 directory: [11262]
 featured_image: "Scaler_By_Synonym_Techno_Economic_Analysis.png"
-additional_images:
-  - src: "Scaler_By_Synonym_Techno_Economic_Analysis.png"
-    caption: "Introducing Scaler: techno-economic analysis for fermentation"
-    alt: "Introducing Scaler: techno-economic analysis for fermentation"
-    title: "Introducing Scaler: techno-economic analysis for fermentation"
 draft: false
 pinned: false
 homepage: false

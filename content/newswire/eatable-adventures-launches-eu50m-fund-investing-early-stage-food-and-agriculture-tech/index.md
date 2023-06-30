@@ -13,11 +13,6 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [8457, 9233, 10963]
 featured_image: "ea.jpg"
-additional_images:
-  - src: "ea.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

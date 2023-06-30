@@ -13,11 +13,6 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [10451, 10963, 11147]
 featured_image: "Mylkcubator 2.png"
-additional_images:
-  - src: "Mylkcubator 2.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

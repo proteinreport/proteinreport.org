@@ -13,11 +13,6 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [5863]
 featured_image: "provenance-logo_1.png"
-additional_images:
-  - src: "provenance-logo_1.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

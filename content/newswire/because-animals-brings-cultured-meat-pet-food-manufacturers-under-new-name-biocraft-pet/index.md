@@ -13,19 +13,6 @@ regions: [Europe, US & Canada]
 flags: [Press Release]
 directory: [5842]
 featured_image: "Team#2.JPG"
-additional_images:
-  - src: "Team#2.JPG"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Scientists at hoods.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Food#3.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

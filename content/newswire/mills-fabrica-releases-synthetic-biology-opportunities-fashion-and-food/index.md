@@ -14,11 +14,6 @@ regions: [International]
 flags: [Press Release]
 directory: [NA]
 featured_image: "cover design.jpg"
-additional_images:
-  - src: "cover design.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

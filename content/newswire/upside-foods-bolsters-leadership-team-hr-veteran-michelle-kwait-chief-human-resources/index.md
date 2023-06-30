@@ -13,15 +13,6 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [5831]
 featured_image: "WlN3tkXw.jpeg"
-additional_images:
-  - src: "WlN3tkXw.jpeg"
-    caption: "Upside Foods' Engineering, Production, and Innovation Center entryway"
-    alt: "Upside Foods' Engineering, Production, and Innovation Center entryway"
-    title: "Upside Foods' Engineering, Production, and Innovation Center entryway"
-  - src: "Michelle Kwait Headshot_1.jpg"
-    caption: "Upside Foods' Chief Human Resources Officer Michelle Kwait"
-    alt: "Upside Foods' Chief Human Resources Officer Michelle Kwait"
-    title: "Upside Foods' Chief Human Resources Officer Michelle Kwait"
 draft: false
 pinned: false
 homepage: false

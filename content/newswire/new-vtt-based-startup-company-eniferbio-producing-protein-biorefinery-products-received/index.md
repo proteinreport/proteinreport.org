@@ -13,15 +13,6 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [8922]
 featured_image: "pekilo_0.jpg"
-additional_images:
-  - src: "pekilo_0.jpg"
-    caption: "eniferBio team members preparing pekilo fermentation"
-    alt: "eniferBio team members preparing pekilo fermentation"
-    title: "eniferBio team members preparing pekilo fermentation"
-  - src: "konsepti7.jpg"
-    caption: "eniferBio infographic"
-    alt: "eniferBio infographic"
-    title: "eniferBio infographic"
 draft: false
 pinned: false
 homepage: false

@@ -13,11 +13,6 @@ regions: [International, US & Canada]
 flags: [Press Release, Investments]
 directory: [234, 694, 695, 1170, 1243, 1248, 1249, 1269, 1294, 1332, 5760, 5810, 5816, 5820, 5827, 5831, 6196, 7856, 8329, 8464, 8602, 8754, 9334]
 featured_image: "levervc.jpg"
-additional_images:
-  - src: "levervc.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

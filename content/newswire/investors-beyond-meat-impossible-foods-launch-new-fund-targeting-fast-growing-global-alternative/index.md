@@ -13,11 +13,6 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [234, 694, 695, 698, 1170, 1243, 1249, 1269, 1332, 5816, 5827, 5831, 6196]
 featured_image: "leverportfolio_1.jpg"
-additional_images:
-  - src: "leverportfolio_1.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

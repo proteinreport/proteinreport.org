@@ -13,15 +13,6 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [5825]
 featured_image: "balletic.png"
-additional_images:
-  - src: "balletic.png"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "anita_broellochs_headshot.jpg"
-    caption: "Balletic Foods Founder and CEO, Anita Broellochs"
-    alt: "Balletic Foods Founder and CEO, Anita Broellochs"
-    title: "Balletic Foods Founder and CEO, Anita Broellochs"
 draft: false
 pinned: false
 homepage: false

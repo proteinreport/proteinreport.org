@@ -14,15 +14,6 @@ regions: [International]
 flags: [Press Release]
 directory: [NA]
 featured_image: "Copy of SOCIAL - Innovation Challenge FFT (1).png"
-additional_images:
-  - src: "Copy of SOCIAL - Innovation Challenge FFT (1).png"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "FFTLON21 - Innovation Challenge Winner (1).png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

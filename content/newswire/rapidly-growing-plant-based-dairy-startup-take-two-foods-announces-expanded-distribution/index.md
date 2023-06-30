@@ -13,11 +13,6 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [7113]
 featured_image: "TakeTwoLineup.png"
-additional_images:
-  - src: "TakeTwoLineup.png"
-    caption: "Take Two Foods product lineup"
-    alt: "Take Two Foods product lineup"
-    title: "Take Two Foods product lineup"
 draft: false
 pinned: false
 homepage: false

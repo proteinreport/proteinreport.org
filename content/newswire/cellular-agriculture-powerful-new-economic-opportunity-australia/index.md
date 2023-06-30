@@ -13,11 +13,6 @@ regions: [Oceania]
 flags: [Press Release]
 directory: [5804, 5805, 7131, 7326, 7627, 7855, 8859]
 featured_image: "CAA White Paper_0.png"
-additional_images:
-  - src: "CAA White Paper_0.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

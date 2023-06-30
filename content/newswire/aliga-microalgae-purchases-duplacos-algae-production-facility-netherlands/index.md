@@ -13,15 +13,6 @@ regions: [Europe]
 flags: [Press Release]
 directory: [11143]
 featured_image: "Aliga_Netherlands_facility2.jpg"
-additional_images:
-  - src: "Aliga_Netherlands_facility2.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "aliga_white_green_Chlorella_1128.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

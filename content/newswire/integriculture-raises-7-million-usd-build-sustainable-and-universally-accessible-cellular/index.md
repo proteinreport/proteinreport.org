@@ -13,23 +13,6 @@ regions: [Asia]
 flags: [Press Release, Investments]
 directory: [705, 5818]
 featured_image: "培養foie gra1.JPG"
-additional_images:
-  - src: "培養foie gra1.JPG"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "integriculture.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "培養foie gras2.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "CulnetSystem_写真.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

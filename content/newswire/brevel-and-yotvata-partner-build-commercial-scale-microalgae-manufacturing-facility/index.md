@@ -13,11 +13,6 @@ regions: [Middle East]
 flags: [Press Release]
 directory: [10918]
 featured_image: "Brevel protein powder.jpg"
-additional_images:
-  - src: "Brevel protein powder.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

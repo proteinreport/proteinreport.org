@@ -13,11 +13,6 @@ regions: [US & Canada]
 flags: [New Products, Press Release]
 directory: [7964]
 featured_image: "Chick-n-Burger.jpg"
-additional_images:
-  - src: "Chick-n-Burger.jpg"
-    caption: "Nabati Chick-n-burger"
-    alt: "Nabati Chick-n-burger"
-    title: "Nabati Chick-n-burger"
 draft: false
 pinned: false
 homepage: false

@@ -13,27 +13,6 @@ regions: [Asia]
 flags: [Press Release, New Products]
 directory: [8756]
 featured_image: "Wrap & Roll - Wrap 2.jpg"
-additional_images:
-  - src: "Wrap & Roll - Wrap 2.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Pawon - Sate Ayam 2.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Green Friday - All 1.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "STYX - All 1.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Topolino - Pizza 1.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

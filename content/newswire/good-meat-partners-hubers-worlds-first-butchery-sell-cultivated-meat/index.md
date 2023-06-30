@@ -13,31 +13,6 @@ regions: [Asia]
 flags: [Press Release, New Products]
 directory: [234]
 featured_image: "GOOD Meat Cultivated Chicken in Case.jpg"
-additional_images:
-  - src: "GOOD Meat Cultivated Chicken in Case.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "GOOD Meat Cultivated Chicken Close Up.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "GOOD Meat Cultivated Chicken at the Butchery.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "GOOD Meat Cultivated Chicken Consumer.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "GOOD Meat Cultivated Chicken Final Dish.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "Screen Shot 2022-12-06 at 11.06.27 AM.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

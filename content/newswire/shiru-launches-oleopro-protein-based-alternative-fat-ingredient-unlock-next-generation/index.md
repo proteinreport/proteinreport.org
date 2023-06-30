@@ -13,11 +13,6 @@ regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [1311, 6280, 7174]
 featured_image: "Shiru-product-02_0.jpg"
-additional_images:
-  - src: "Shiru-product-02_0.jpg"
-    caption: "Shiru’s OleoProTM alternative fat ingredient is structured and solid at room temperature, designed to replicate the performance of conventional animal fat"
-    alt: "Shiru’s OleoProTM alternative fat ingredient is structured and solid at room temperature, designed to replicate the performance of conventional animal fat"
-    title: "Shiru’s OleoProTM alternative fat ingredient is structured and solid at room temperature, designed to replicate the performance of conventional animal fat"
 draft: false
 pinned: false
 homepage: false

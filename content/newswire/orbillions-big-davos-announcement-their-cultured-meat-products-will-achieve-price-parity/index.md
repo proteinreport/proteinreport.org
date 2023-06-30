@@ -13,19 +13,6 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [7349]
 featured_image: "Orbillion_FoundingTeam_Nov2021.jpg"
-additional_images:
-  - src: "Orbillion_FoundingTeam_Nov2021.jpg"
-    caption: "Orbillion founding team, Nov 2021."
-    alt: "Orbillion founding team, Nov 2021."
-    title: "Orbillion founding team, Nov 2021."
-  - src: "Orbillion_CellCulturedWagyuBao_May2022.jpg"
-    caption: "Orbillion Cell-Cultured Wagyu Bao, May 2022."
-    alt: "Orbillion Cell-Cultured Wagyu Bao, May 2022."
-    title: "Orbillion Cell-Cultured Wagyu Bao, May 2022."
-  - src: "Orbillion_CellCulturedWagyuLarb_May2022.jpg"
-    caption: "Orbillion Cell-Cultured Wagyu Larb, May 2022."
-    alt: "Orbillion Cell-Cultured Wagyu Larb, May 2022."
-    title: "Orbillion Cell-Cultured Wagyu Larb, May 2022."
 draft: false
 pinned: false
 homepage: false

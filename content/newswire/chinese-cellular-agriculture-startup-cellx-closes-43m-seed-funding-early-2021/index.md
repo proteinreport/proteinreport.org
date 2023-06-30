@@ -13,23 +13,6 @@ regions: [Asia]
 flags: [Press Release, Investments]
 directory: [1332, 8329]
 featured_image: "Picture1.png"
-additional_images:
-  - src: "Picture1.png"
-    caption: "Prototype from CellX"
-    alt: "Prototype from CellX"
-    title: "Prototype from CellX"
-  - src: "Picture2.png"
-    caption: "Prototype from CellX"
-    alt: "Prototype from CellX"
-    title: "Prototype from CellX"
-  - src: "Picture3.jpg"
-    caption: "From CellX"
-    alt: "From CellX"
-    title: "From CellX"
-  - src: "Picture4.jpg"
-    caption: "From XPRIZE"
-    alt: "From XPRIZE"
-    title: "From XPRIZE"
 draft: false
 pinned: false
 homepage: false

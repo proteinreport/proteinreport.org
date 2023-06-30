@@ -13,15 +13,6 @@ regions: [Asia]
 flags: [Press Release, New Products]
 directory: [5818]
 featured_image: "KV.jpg"
-additional_images:
-  - src: "KV.jpg"
-    caption: ""
-    alt: ""
-    title: ""
-  - src: "culnet.png"
-    caption: "CulNet technology mimics the cellular growth systems of organs connected by blood vessels."
-    alt: "CulNet technology mimics the cellular growth systems of organs connected by blood vessels."
-    title: "CulNet technology mimics the cellular growth systems of organs connected by blood vessels."
 draft: false
 pinned: false
 homepage: false

@@ -13,11 +13,6 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [10527]
 featured_image: "Arkeon Team.jpg"
-additional_images:
-  - src: "Arkeon Team.jpg"
-    caption: "Arkeon team"
-    alt: "Arkeon team"
-    title: "Arkeon team"
 draft: false
 pinned: false
 homepage: false

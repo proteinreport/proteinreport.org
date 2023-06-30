@@ -13,11 +13,6 @@ regions: [International]
 flags: [Press Release]
 directory: [10451, 10457, 10963]
 featured_image: "52020731810_c961bbd9d0_o.jpeg"
-additional_images:
-  - src: "52020731810_c961bbd9d0_o.jpeg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

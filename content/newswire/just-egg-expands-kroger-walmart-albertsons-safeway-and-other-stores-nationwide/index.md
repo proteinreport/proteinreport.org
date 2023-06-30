@@ -13,11 +13,6 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [234, 698]
 featured_image: "Egg_LQ_FLD_Box_Bottle_FrenchToastPrep_vert_bestCrop.jpg"
-additional_images:
-  - src: "Egg_LQ_FLD_Box_Bottle_FrenchToastPrep_vert_bestCrop.jpg"
-    caption: "JUST Egg"
-    alt: "JUST Egg"
-    title: "JUST Egg"
 draft: false
 pinned: false
 homepage: false
