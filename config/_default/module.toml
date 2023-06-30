@@ -28,11 +28,11 @@
   target = "layouts"
 
 [[mounts]]
-  source = "themes/my-tailwindcss-theme/assets"
+  source = "themes/pr/assets"
   target = "assets"
 
 [[mounts]]
-  source = "themes/my-tailwindcss-theme/layouts"
+  source = "themes/pr/layouts"
   target = "layouts"
 
 [[mounts]]
