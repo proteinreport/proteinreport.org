@@ -13,6 +13,7 @@
       "h1",
       "h2",
       "h3",
+      "h6",
       "head",
       "hr",
       "html",
@@ -34,7 +35,8 @@
       "sup",
       "title",
       "u",
-      "ul"
+      "ul",
+      "wbr"
     ],
     "classes": [
       "amp",
@@ -44,6 +46,8 @@
       "bg-white",
       "border",
       "border-gray-200",
+      "caps",
+      "contributors",
       "dark:bg-gray-800",
       "dark:border-gray-600",
       "dark:border-gray-700",
@@ -51,6 +55,8 @@
       "dark:hover:bg-gray-700",
       "dark:hover:text-white",
       "dark:text-gray-400",
+      "directory",
+      "events",
       "figure",
       "flex",
       "focus:outline-none",
@@ -65,9 +71,9 @@
       "hover:bg-gray-900",
       "hover:text-blue-700",
       "img-fluid",
+      "jobs",
       "justify-center",
       "mb-5",
-      "media-oembed-content",
       "media__element",
       "media__icon",
       "media__icon--litebox",
@@ -77,7 +83,6 @@
       "newswire",
       "px-5",
       "py-2.5",
-      "remote-video__field-media-oembed-video",
       "rounded-full",
       "section",
       "single",
@@ -98,7 +103,8 @@
       "7bee",
       "9e77",
       "bb1c",
-      "e565"
+      "e565",
+      "yui_3_17_2_1_1590687653036_170"
     ]
   }
 }

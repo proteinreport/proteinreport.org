@@ -104,5 +104,5 @@ for (row in 1:nrow(import_data)) {
   #write("images:", file_path, append = T)
   #write(import_data[row,]$images, file_path, append = T)
   write("---", file_path, append = T)
-  write(content, file_path, append = T)
+  #write(content, file_path, append = T)
 }
