@@ -1,5 +1,5 @@
 title = "Hyas Tailwind CSS starter"
-baseurl = "/"
+baseurl = "https://proteinreport.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
