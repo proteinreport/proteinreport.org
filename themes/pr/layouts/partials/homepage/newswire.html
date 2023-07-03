@@ -1,0 +1,20 @@
+<section class="items-center relative w-full border-black border-b-2">
+    <div class="items-center relative w-full border-black border-b-4 mx-auto 2xl:max-w-7xl">
+        <div class="flex flex-wrap items-center divide-black divide-y-0 2xl:border-x-2 border-black divide-t-0 md:divide-x-4">
+            <h2 class="md:w-1/3 lg:text-7xl p-10">Newswire</h2>
+            <p class="md:w-2/3 p-10 lg:text-2xl">Press releases from companies and organizations</p>
+        </div>
+        <div class="flex flex-wrap w-full divide-black divide-y-4 2xl:border-x-2 border-black md:divide-x-4">
+            {{ range first 5 ( where .Site.RegularPages "Section" "newswire" ) }}
+            {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+            <div class="w-full md:w-1/3">
+                <img src="{{ $image.RelPermalink }}" alt="" class="object-cover" style="aspect-ratio: 16/9;">
+            </div>
+            <div class="w-full md:w-2/3 relative gap-12 p-2 lg:px-6">
+                <a class="p-6 w-full" href="{{ .RelPermalink }}"><h2 class="text-4xl">{{ .Params.title }}</h2></a>
+            </div>
+            
+            {{ end }}
+        </div>
+    </div>
+</section>
