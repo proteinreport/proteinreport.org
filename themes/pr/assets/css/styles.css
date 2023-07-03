@@ -81,7 +81,6 @@
   Influenced by: https://sproutsocial.com/
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-
 /* #Mega Menu Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .mega-menu {
@@ -90,6 +89,7 @@
   position: absolute;
   text-align: left;
   width: 100%;
+  z-index: 1000;
 }
 
 

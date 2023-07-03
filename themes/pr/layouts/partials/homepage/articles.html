@@ -1,0 +1,46 @@
+<section class="items-center relative w-full border-black border-b-2">
+    <div class="items-center relative w-full border-black border-b-4 mx-auto 2xl:max-w-7xl">
+        {{ range first 1 ( where .Site.RegularPages "Section" "articles" )}}
+        {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+        <div class="flex flex-wrap divide-black divide-y-4 2xl:border-x-2 border-black md:divide-x-4 md:divide-y-0">
+            <a class="absolute bottom-2 p-10 w-full" href="{{ .RelPermalink }}"><h2 class="lg:text-6xl font-bold" style="text-shadow: 3px 3px 3px rgba(255, 255, 255, 0.8), -3px 0px 7px rgba(255, 255, 255, 0.8), 0px 4px 7px rgba(255, 255, 255, 0.8);">{{ .Params.title }}</h2></a>
+            <div class="w-full invisible lg:visible lg:w-1/3 md:w-1/2 order-2 relative gap-12 p-2 lg:px-6 lg:order-1">
+                <p class="text-lg pt-4">{{ .Params.excerpt | safeHTML }}</p>
+            </div>
+            <div class="w-full lg:w-2/3 md:w-1/2 order-1 lg:order-2 md:order-2 aspect-video lg:mt-0 bg-lila-500 block">
+                <img src="{{ $image.RelPermalink }}" alt="" class="object-cover">
+            </div>
+        </div>
+        {{ end }}
+    </div>
+    <div class="items-center relative w-full border-black border-b-4 mx-auto 2xl:max-w-7xl">
+        <div class="flex flex-wrap w-full divide-black divide-y-4 2xl:border-x-2 border-black md:divide-x-4 md:divide-y-0">
+            {{ range first 2 ( after 1 ( where .Site.RegularPages "Section" "articles" ) ) }}
+            {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+            <div class="flex flex-col w-full md:w-1/2">
+                <div class="w-full lg:mt-0">
+                    <img src="{{ $image.RelPermalink }}" alt="" class="object-cover" style="aspect-ratio: 16/9;">
+                </div>
+                <div class="w-full relative gap-12 p-2 lg:px-6">
+                    <a class="p-6 w-full" href="{{ .RelPermalink }}"><h2 class="text-4xl" style="text-shadow: 3px 3px 3px rgba(255, 255, 255, 0.8), -3px 0px 7px rgba(255, 255, 255, 0.8), 0px 4px 7px rgba(255, 255, 255, 0.8);">{{ .Params.title }}</h2></a>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+    <div class="items-center relative w-full border-black border-b-4 mx-auto 2xl:max-w-7xl">
+        <div class="flex flex-wrap w-full divide-black divide-y-4 2xl:border-x-2 border-black md:divide-x-4 md:divide-y-0">
+            {{ range first 3 ( after 3 ( where .Site.RegularPages "Section" "articles" ) ) }}
+            {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+            <div class="flex flex-col w-full md:w-1/3">
+                <div class="w-full lg:mt-0">
+                    <img src="{{ $image.RelPermalink }}" alt="" class="object-cover" style="aspect-ratio: 16/9;">
+                </div>
+                <div class="w-full relative gap-12 p-2 lg:px-6">
+                    <a class="p-6 w-full" href="{{ .RelPermalink }}"><h2 class="text-4xl" style="text-shadow: 3px 3px 3px rgba(255, 255, 255, 0.8), -3px 0px 7px rgba(255, 255, 255, 0.8), 0px 4px 7px rgba(255, 255, 255, 0.8);">{{ .Params.title }}</h2></a>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
