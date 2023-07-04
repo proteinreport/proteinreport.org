@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [NA]
 topics: [Environment, Health]
 regions: [NA]
-featured_image: ["Cornell Future Food Summit 2020 logo.png"]
+featured_image: "Cornell Future Food Summit 2020 logo.png"
 banner_image: "NA"
 online: NA
 start_date: 2020-04-10

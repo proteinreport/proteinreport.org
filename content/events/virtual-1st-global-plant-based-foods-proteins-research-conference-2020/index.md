@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Health, Sci-Tech]
 regions: [International]
-featured_image: ["b2f_logo_0.jpg"]
+featured_image: "b2f_logo_0.jpg"
 banner_image: "EixenEGWkAgP5ii.jpg"
 online: TRUE
 start_date: 2020-10-07

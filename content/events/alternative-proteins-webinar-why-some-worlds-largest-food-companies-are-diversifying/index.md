@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy]
 topics: [Business]
 regions: [International]
-featured_image: ["plug-and-play-logo-blue.451860baa333.png"]
+featured_image: "plug-and-play-logo-blue.451860baa333.png"
 banner_image: "Event_Section.jpg"
 online: TRUE
 start_date: 2020-07-22

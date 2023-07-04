@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [Asia]
-featured_image: ["1558482594571.jpg"]
+featured_image: "1558482594571.jpg"
 banner_image: "ffa-2020-goh.jpg"
 online: FALSE
 start_date: 2023-05-17

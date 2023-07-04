@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Dairy]
 topics: [Business]
 regions: [International]
-featured_image: ["gfi india.png"]
+featured_image: "gfi india.png"
 banner_image: "banner.jpg"
 online: TRUE
 start_date: 2020-05-12

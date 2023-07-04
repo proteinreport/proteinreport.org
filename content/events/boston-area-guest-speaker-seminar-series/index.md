@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [US & Canada]
-featured_image: ["cellagmit_0.jpg"]
+featured_image: "cellagmit_0.jpg"
 banner_image: "cellagmitbanner.jpg"
 online: TRUE
 start_date: 2021-01-08

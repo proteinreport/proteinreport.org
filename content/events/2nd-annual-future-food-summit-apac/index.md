@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [Asia]
-featured_image: ["Emnes 2022 Logo Ai (1).png"]
+featured_image: "Emnes 2022 Logo Ai (1).png"
 banner_image: "v6.jpg"
 online: FALSE
 start_date: 2023-03-08

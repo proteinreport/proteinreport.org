@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Seafood]
 topics: [Business]
 regions: [US & Canada]
-featured_image: ["SustainableBrands-Logo2019.png"]
+featured_image: "SustainableBrands-Logo2019.png"
 banner_image: "keyart-masthead.jpg"
 online: TRUE
 start_date: 2020-10-07

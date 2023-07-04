@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Fungi]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business]
 regions: [Oceania]
-featured_image: ["fflogo.png"]
+featured_image: "fflogo.png"
 banner_image: "ap22.jpg"
 online: FALSE
 start_date: 2022-05-17

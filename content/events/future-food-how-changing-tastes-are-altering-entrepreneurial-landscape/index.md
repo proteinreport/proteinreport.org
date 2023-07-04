@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy]
 topics: [Business]
 regions: [International]
-featured_image: ["header_biocomlogo_black_horizontal-n.png"]
+featured_image: "header_biocomlogo_black_horizontal-n.png"
 banner_image: "rtaImage.jpg"
 online: TRUE
 start_date: 2020-07-16

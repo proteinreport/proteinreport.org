@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Algae, Fungi]
 products: [NA]
 topics: [Business, Environment, Health, Sci-Tech]
 regions: [NA]
-featured_image: ["FutureFoodTechSanFranciscoLogo.png"]
+featured_image: "FutureFoodTechSanFranciscoLogo.png"
 banner_image: "fft.png"
 online: NA
 start_date: 2020-03-19

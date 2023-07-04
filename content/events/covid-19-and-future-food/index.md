@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [NA]
 topics: [Business]
 regions: [Asia]
-featured_image: ["SP-Logo-Transparent-300x61_0.png"]
+featured_image: "SP-Logo-Transparent-300x61_0.png"
 banner_image: "Digital_Week_Webinar_28MAY_v7_0.jpg"
 online: TRUE
 start_date: 2020-05-28

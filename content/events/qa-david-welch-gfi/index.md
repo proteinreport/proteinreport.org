@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [NA]
 topics: [Environment, Sci-Tech]
 regions: [NA]
-featured_image: ["the-good-food-institute-logo.png"]
+featured_image: "the-good-food-institute-logo.png"
 banner_image: "NA"
 online: NA
 start_date: 2020-01-16

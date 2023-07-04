@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["GFI_Badge_Filled_Band_Seaweed.png"]
+featured_image: "GFI_Badge_Filled_Band_Seaweed.png"
 banner_image: "COR-Online-Business-Seminar-Series-Build-your-network-2021-0317_Hobin_1500x600.png"
 online: TRUE
 start_date: 2021-04-13

@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Business]
 regions: [Oceania]
-featured_image: ["https___cdn.evbuc_.com_images_112975361_249520854450_1_original.png"]
+featured_image: "https___cdn.evbuc_.com_images_112975361_249520854450_1_original.png"
 banner_image: "https___cdn.evbuc_.com_images_111156753_249520854450_1_original.jpg"
 online: TRUE
 start_date: 2020-10-07

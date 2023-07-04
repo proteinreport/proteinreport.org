@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Animal]
 products: [Meat, Dairy, Feed]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["igemlogo.jpg"]
+featured_image: "igemlogo.jpg"
 banner_image: "banner_0.jpg"
 online: TRUE
 start_date: 2021-08-29

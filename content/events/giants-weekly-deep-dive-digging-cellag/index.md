@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Business]
 regions: [Oceania]
-featured_image: ["blackbird.png"]
+featured_image: "blackbird.png"
 banner_image: "banner1.jpg"
 online: TRUE
 start_date: 2021-03-02

@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Animal]
 products: [NA]
 topics: [Environment]
 regions: [International]
-featured_image: ["lca-food-2020-sticky.png"]
+featured_image: "lca-food-2020-sticky.png"
 banner_image: "banner.jpg"
 online: TRUE
 start_date: 2020-10-13

@@ -8,7 +8,7 @@ proteins: [Plant-Based, Animal]
 products: [Meat, Dairy, Eggs, Ingredients]
 topics: [Business, Health, Policy]
 regions: [US & Canada]
-featured_image: ["cfa.jpg"]
+featured_image: "cfa.jpg"
 banner_image: "nfp.jpg"
 online: FALSE
 start_date: 2022-10-12

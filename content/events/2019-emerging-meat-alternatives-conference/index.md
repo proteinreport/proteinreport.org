@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [NA]
 topics: [Sci-Tech]
 regions: [NA]
-featured_image: ["emac_logo.png"]
+featured_image: "emac_logo.png"
 banner_image: "NA"
 online: NA
 start_date: 2019-10-31

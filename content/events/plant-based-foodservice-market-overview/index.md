@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat]
 topics: [Business]
 regions: [US & Canada]
-featured_image: ["The-Good-Food-Institute-Logo-post.jpg"]
+featured_image: "The-Good-Food-Institute-Logo-post.jpg"
 banner_image: "gfi.jpg"
 online: TRUE
 start_date: 2020-06-18

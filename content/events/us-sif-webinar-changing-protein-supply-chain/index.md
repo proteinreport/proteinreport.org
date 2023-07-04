@@ -8,7 +8,7 @@ proteins: [Animal]
 products: [Meat, Dairy, Eggs]
 topics: [Business, Environment, Policy]
 regions: [International]
-featured_image: ["fairrlogo.png"]
+featured_image: "fairrlogo.png"
 banner_image: "banner_3.jpg"
 online: TRUE
 start_date: 2021-02-25

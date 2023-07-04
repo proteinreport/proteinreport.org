@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Environment]
 regions: [Europe]
-featured_image: ["fairr-logo.jpg"]
+featured_image: "fairr-logo.jpg"
 banner_image: "0.jpg"
 online: TRUE
 start_date: 2020-09-02

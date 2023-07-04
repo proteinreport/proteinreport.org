@@ -8,7 +8,7 @@ proteins: [Cell-Based, Microbial]
 products: [Meat, Dairy, Ingredients]
 topics: [Sci-Tech]
 regions: [US & Canada]
-featured_image: ["logo.jpg"]
+featured_image: "logo.jpg"
 banner_image: "banner.jpg"
 online: TRUE
 start_date: 2021-02-10

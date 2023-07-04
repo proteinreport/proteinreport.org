@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["640px-Minnesota_Golden_Gophers_logo.svg.png"]
+featured_image: "640px-Minnesota_Golden_Gophers_logo.svg.png"
 banner_image: "Capture.jpg"
 online: TRUE
 start_date: 2020-11-17

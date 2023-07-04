@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [Asia]
-featured_image: ["AP_Agri-Food_virtual_SUMMIT_logo_NODATES.jpg"]
+featured_image: "AP_Agri-Food_virtual_SUMMIT_logo_NODATES.jpg"
 banner_image: "APAC22 - Protein Report 1280x256.png"
 online: FALSE
 start_date: 2022-10-26

@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Business]
 regions: [International]
-featured_image: ["MpiJlwZL_400x400.jpg"]
+featured_image: "MpiJlwZL_400x400.jpg"
 banner_image: "event-cover-4286.png"
 online: TRUE
 start_date: 2020-05-21

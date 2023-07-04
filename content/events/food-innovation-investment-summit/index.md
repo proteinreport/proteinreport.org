@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Ingredients]
 topics: [Business]
 regions: [US & Canada]
-featured_image: ["world_of_food_and_nutrition_innovation_forum_logo_final2_0.png"]
+featured_image: "world_of_food_and_nutrition_innovation_forum_logo_final2_0.png"
 banner_image: "Protein Report Banner.jpg"
 online: FALSE
 start_date: 2022-05-18

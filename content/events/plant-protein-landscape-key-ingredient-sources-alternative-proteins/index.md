@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Ingredients]
 topics: [Business]
 regions: [International]
-featured_image: ["gfilogo_0.jpg"]
+featured_image: "gfilogo_0.jpg"
 banner_image: "1611620821661.jpg"
 online: TRUE
 start_date: 2021-02-23

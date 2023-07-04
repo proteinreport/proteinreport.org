@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Dairy, Seafood]
 topics: [Business]
 regions: [Asia]
-featured_image: ["cellagrilogo.jpg"]
+featured_image: "cellagrilogo.jpg"
 banner_image: "Blank-Light--3--1200x800-layout1019-1g4eqva.png"
 online: TRUE
 start_date: 2021-05-20

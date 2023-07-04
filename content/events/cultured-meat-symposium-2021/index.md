@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Seafood]
 topics: [Business, Environment, Sci-Tech]
 regions: [International, US & Canada]
-featured_image: ["cms_black.png"]
+featured_image: "cms_black.png"
 banner_image: "banner1.jpg"
 online: FALSE
 start_date: 2021-10-22

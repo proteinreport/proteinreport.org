@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 topics: [Business]
 regions: [Oceania]
-featured_image: ["APC-23-Logo-design-550x300-1.png"]
+featured_image: "APC-23-Logo-design-550x300-1.png"
 banner_image: "apc2023.jpg"
 online: FALSE
 start_date: 2023-03-21

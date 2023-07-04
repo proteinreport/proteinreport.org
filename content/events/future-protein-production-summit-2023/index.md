@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients, Feed]
 topics: [Business, Environment, Health, Policy, Sci-Tech]
 regions: [International]
-featured_image: ["PP_SUMMIT_logo_dates.png"]
+featured_image: "PP_SUMMIT_logo_dates.png"
 banner_image: "Untitled design (2).jpg"
 online: TRUE
 start_date: 2023-02-21

@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Dairy]
 topics: [Business, Sci-Tech]
 regions: [Europe]
-featured_image: ["CAD_logo.jpg"]
+featured_image: "CAD_logo.jpg"
 banner_image: "banner_1.jpg"
 online: TRUE
 start_date: 2021-06-02

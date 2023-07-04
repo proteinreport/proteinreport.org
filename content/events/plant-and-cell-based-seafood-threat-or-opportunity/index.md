@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Seafood]
 topics: [Business]
 regions: [International]
-featured_image: ["intrafish.png"]
+featured_image: "intrafish.png"
 banner_image: "may12.jpg"
 online: TRUE
 start_date: 2020-05-12

@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Seafood]
 topics: [Environment, Sci-Tech]
 regions: [International]
-featured_image: ["isscrlogo_1.jpg"]
+featured_image: "isscrlogo_1.jpg"
 banner_image: "isscrbannere_1.jpg"
 online: TRUE
 start_date: 2021-02-23

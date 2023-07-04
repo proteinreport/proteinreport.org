@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [NA]
 topics: [Health]
 regions: [Europe]
-featured_image: ["vegmed-image.png"]
+featured_image: "vegmed-image.png"
 banner_image: "vegmedbanner.jpg"
 online: TRUE
 start_date: 2021-02-28

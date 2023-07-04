@@ -8,7 +8,7 @@ proteins: [Microbial]
 products: [Meat, Dairy, Eggs, Ingredients]
 topics: [Business]
 regions: [International]
-featured_image: ["gfilogo.png"]
+featured_image: "gfilogo.png"
 banner_image: "ExbnxPcXMAIxY7b.jpg"
 online: TRUE
 start_date: 2021-05-13

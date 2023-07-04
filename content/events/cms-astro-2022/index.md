@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood]
 topics: [Sci-Tech]
 regions: [International, US & Canada]
-featured_image: ["astro_logo.png"]
+featured_image: "astro_logo.png"
 banner_image: "banner_5.jpg"
 online: TRUE
 start_date: 2022-05-16

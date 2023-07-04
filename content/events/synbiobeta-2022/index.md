@@ -8,7 +8,7 @@ proteins: [Cell-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients, Materials]
 topics: [Business, Sci-Tech]
 regions: [US & Canada]
-featured_image: ["SynBioBeta.jpg"]
+featured_image: "SynBioBeta.jpg"
 banner_image: "banner.jpg"
 online: FALSE
 start_date: 2022-01-25

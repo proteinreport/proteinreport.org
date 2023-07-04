@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Animal]
 products: [Meat]
 topics: [Business, Sci-Tech]
 regions: [Europe]
-featured_image: ["_l1_GG23_400x400.png"]
+featured_image: "_l1_GG23_400x400.png"
 banner_image: "pr_0.jpg"
 online: TRUE
 start_date: 2021-06-29

@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business]
 regions: [Asia]
-featured_image: ["APAC-Agrifood-2021-Singapore-Virtual-Nov-16-18_LIGHT_BG.png.pagespeed.ce_.X4o2sYAuBL.png"]
+featured_image: "APAC-Agrifood-2021-Singapore-Virtual-Nov-16-18_LIGHT_BG.png.pagespeed.ce_.X4o2sYAuBL.png"
 banner_image: "APAC-Agrifood-2021-Singapore-Virtual-Nov-16-18_LIGHT_BG.png.pagespeed.ce_.X4o2sYAuBL.png"
 online: TRUE
 start_date: 2021-11-16

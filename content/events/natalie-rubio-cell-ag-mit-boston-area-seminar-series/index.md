@@ -8,7 +8,7 @@ proteins: [Cell-Based, Insect]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [International, US & Canada]
-featured_image: ["CellAg MIT_SSa-R03b_Mil_1.png"]
+featured_image: "CellAg MIT_SSa-R03b_Mil_1.png"
 banner_image: "cellagmit-1_1.jpg"
 online: TRUE
 start_date: 2021-01-29

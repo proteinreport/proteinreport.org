@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 topics: [Business]
 regions: [US & Canada]
-featured_image: ["Untitled design (1).png"]
+featured_image: "Untitled design (1).png"
 banner_image: "Protein Report Female Founders.png"
 online: TRUE
 start_date: 2020-10-14

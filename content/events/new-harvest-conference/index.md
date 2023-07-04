@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [NA]
 topics: [Business, Sci-Tech]
 regions: [NA]
-featured_image: ["new harvest logo.png"]
+featured_image: "new harvest logo.png"
 banner_image: "NA"
 online: NA
 start_date: 2020-07-10

@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [US & Canada]
-featured_image: ["ppic_logo.png"]
+featured_image: "ppic_logo.png"
 banner_image: "spotlight 2021 crowd.jpg"
 online: FALSE
 start_date: 2023-03-29

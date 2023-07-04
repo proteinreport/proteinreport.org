@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [US & Canada]
-featured_image: ["CellAg MIT_SSa-R03b_Mil.png"]
+featured_image: "CellAg MIT_SSa-R03b_Mil.png"
 banner_image: "cellagmit-1_0.jpg"
 online: TRUE
 start_date: 2021-01-15

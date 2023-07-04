@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat]
 topics: [Culture]
 regions: [NA]
-featured_image: ["PD logo.jpg"]
+featured_image: "PD logo.jpg"
 banner_image: "Eshchar Ben-Shitrit.jpg"
 online: TRUE
 start_date: 2020-07-21

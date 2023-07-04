@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [International]
-featured_image: ["1548697243995.png"]
+featured_image: "1548697243995.png"
 banner_image: "Screen Shot 2021-08-13 at 6.33.39 PM.png"
 online: TRUE
 start_date: 2021-08-26

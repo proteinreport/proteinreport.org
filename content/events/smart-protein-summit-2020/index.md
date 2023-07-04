@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Seafood]
 topics: [Business, Policy]
 regions: [Asia]
-featured_image: ["center-logo.png"]
+featured_image: "center-logo.png"
 banner_image: "banner.jpg"
 online: TRUE
 start_date: 2020-10-06

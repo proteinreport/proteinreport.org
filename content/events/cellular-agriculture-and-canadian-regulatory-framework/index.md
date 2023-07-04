@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Policy]
 regions: [US & Canada]
-featured_image: ["cac.jpg"]
+featured_image: "cac.jpg"
 banner_image: "banner_1.jpg"
 online: TRUE
 start_date: 2021-03-04

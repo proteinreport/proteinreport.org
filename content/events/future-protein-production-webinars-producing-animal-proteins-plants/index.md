@@ -8,7 +8,7 @@ proteins: [Molecular Farming]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Policy, Sci-Tech]
 regions: [International]
-featured_image: ["Webinars_3.png"]
+featured_image: "Webinars_3.png"
 banner_image: "Banner_Producing Animal Protein 1.1.jpg"
 online: TRUE
 start_date: 2022-07-27

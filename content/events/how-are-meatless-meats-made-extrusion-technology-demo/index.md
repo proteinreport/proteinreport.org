@@ -8,7 +8,7 @@ proteins: [Plant-Based, Algae, Fungi, Insect]
 products: [Meat, Pet Food, Ingredients, Technology & Equipment]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["ppaalogo_0.png"]
+featured_image: "ppaalogo_0.png"
 banner_image: "Copy of Copy of FB Post - Split Burger.png"
 online: TRUE
 start_date: 2020-06-11

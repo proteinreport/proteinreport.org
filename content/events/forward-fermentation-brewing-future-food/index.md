@@ -8,7 +8,7 @@ proteins: [Microbial, Algae, Fungi]
 products: [Dairy, Eggs, Pet Food, Ingredients, Materials]
 topics: [Business]
 regions: [Europe]
-featured_image: ["GDI_Logo.jpg"]
+featured_image: "GDI_Logo.jpg"
 banner_image: "iStock-474399670 (1).jpg"
 online: FALSE
 start_date: 2022-06-15

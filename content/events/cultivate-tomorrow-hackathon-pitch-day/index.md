@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Dairy, Seafood]
 topics: [Business]
 regions: [US & Canada]
-featured_image: ["ctlogo.jpg"]
+featured_image: "ctlogo.jpg"
 banner_image: "ctlogo_0.jpg"
 online: TRUE
 start_date: 2022-02-12

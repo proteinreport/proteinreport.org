@@ -8,7 +8,7 @@ proteins: [Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Policy, Sci-Tech]
 regions: [US & Canada]
-featured_image: ["Fermentation Logo 2023_0.png"]
+featured_image: "Fermentation Logo 2023_0.png"
 banner_image: "Fermentation Logo 2023.png"
 online: FALSE
 start_date: 2023-01-31

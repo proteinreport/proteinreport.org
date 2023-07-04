@@ -8,7 +8,7 @@ proteins: [Animal]
 products: [Meat, Dairy, Eggs, Seafood]
 topics: [Health, Policy]
 regions: [International]
-featured_image: ["1y3ghuN1_400x400.jpg"]
+featured_image: "1y3ghuN1_400x400.jpg"
 banner_image: "Pandemic Prevention.jpg"
 online: TRUE
 start_date: 2022-04-14

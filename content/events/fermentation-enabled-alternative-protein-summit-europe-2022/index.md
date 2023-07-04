@@ -8,7 +8,7 @@ proteins: [Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Policy, Sci-Tech]
 regions: [Europe]
-featured_image: ["img.jpg"]
+featured_image: "img.jpg"
 banner_image: "HW220202-Fermentation-Enabled-Alternative-Protein-Innovation-Europe-logo-FINAL-1-2048x449_0.jpg"
 online: FALSE
 start_date: 2022-06-27

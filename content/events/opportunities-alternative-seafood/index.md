@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Seafood]
 topics: [Business]
 regions: [International]
-featured_image: ["The-Good-Food-Institute-Logo-post_1.jpg"]
+featured_image: "The-Good-Food-Institute-Logo-post_1.jpg"
 banner_image: "gfi_1.jpg"
 online: TRUE
 start_date: 2020-06-25

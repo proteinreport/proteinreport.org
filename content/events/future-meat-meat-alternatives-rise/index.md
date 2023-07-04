@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat]
 topics: [Business]
 regions: [Asia]
-featured_image: ["swissnex.jpg"]
+featured_image: "swissnex.jpg"
 banner_image: "banner_0.jpg"
 online: TRUE
 start_date: 2020-05-15

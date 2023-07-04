@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [NA]
 topics: [Health]
 regions: [International]
-featured_image: ["logo.jpg"]
+featured_image: "logo.jpg"
 banner_image: "pla20-virtualconferencea-1-w895h480.jpg"
 online: TRUE
 start_date: 2020-09-11

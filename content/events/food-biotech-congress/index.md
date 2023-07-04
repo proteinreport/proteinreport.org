@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Algae]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]
 topics: [Business, Culture, Sci-Tech]
 regions: [Europe, International]
-featured_image: ["Food Biotech 2021 100x100.png"]
+featured_image: "Food Biotech 2021 100x100.png"
 banner_image: "Food Biotech 2021 1920x400 Logo.png"
 online: TRUE
 start_date: 2021-11-10

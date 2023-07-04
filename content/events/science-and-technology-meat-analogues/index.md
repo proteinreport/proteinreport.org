@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [Europe, International]
-featured_image: ["58340fb4-e33a-4d0b-af17-8d596fa93663_WUR_RGB_standard.png"]
+featured_image: "58340fb4-e33a-4d0b-af17-8d596fa93663_WUR_RGB_standard.png"
 banner_image: "banner_2.jpg"
 online: TRUE
 start_date: 2021-03-03

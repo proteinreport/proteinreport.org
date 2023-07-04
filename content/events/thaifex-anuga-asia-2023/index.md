@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [Asia]
-featured_image: ["THAIFEX-Anuga-Asia-Logo.png"]
+featured_image: "THAIFEX-Anuga-Asia-Logo.png"
 banner_image: "1280 x 256 px-01.png"
 online: FALSE
 start_date: 2023-05-23

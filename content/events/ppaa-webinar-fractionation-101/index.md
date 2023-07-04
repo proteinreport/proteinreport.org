@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Technology & Equipment]
 topics: [Sci-Tech]
 regions: [US & Canada]
-featured_image: ["logo.png"]
+featured_image: "logo.png"
 banner_image: "Copy of Fractionation 101.png"
 online: TRUE
 start_date: 2020-11-25

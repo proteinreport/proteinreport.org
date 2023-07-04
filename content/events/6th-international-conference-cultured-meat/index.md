@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [International]
-featured_image: ["maastricht-university-265-logo.png"]
+featured_image: "maastricht-university-265-logo.png"
 banner_image: "burger.jpg"
 online: TRUE
 start_date: 2020-12-09

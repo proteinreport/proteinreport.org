@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [International]
-featured_image: ["1e0e82d1-5079-473f-9737-873bc60ec3da.png"]
+featured_image: "1e0e82d1-5079-473f-9737-873bc60ec3da.png"
 banner_image: "Screen Shot 2021-05-13 at 6.32.10 AM.png"
 online: TRUE
 start_date: 2021-05-26

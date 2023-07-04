@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 topics: [Business, Policy]
 regions: [Europe]
-featured_image: ["logo 90X90_0.png"]
+featured_image: "logo 90X90_0.png"
 banner_image: "Copy of Siska Pottie (1280 × 500 px) (1280 × 256 px) (1).png"
 online: TRUE
 start_date: 2022-04-20

@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat]
 topics: [Business, Environment]
 regions: [International]
-featured_image: ["Logo With Dates Transparent-01.png"]
+featured_image: "Logo With Dates Transparent-01.png"
 banner_image: "Logo With Dates-02[9035].png"
 online: TRUE
 start_date: 2020-11-18

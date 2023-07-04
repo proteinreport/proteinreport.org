@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Business]
 regions: [Europe, International, US & Canada]
-featured_image: ["xhkKDoco_400x400.jpg"]
+featured_image: "xhkKDoco_400x400.jpg"
 banner_image: "banner.jpg"
 online: TRUE
 start_date: 2021-01-21

@@ -8,7 +8,7 @@ proteins: [Cell-Based, Microbial]
 products: [Meat, Seafood]
 topics: [Business, Policy, Sci-Tech]
 regions: [US & Canada]
-featured_image: ["26659-–-Industrializing-Cultivated-Meats-Seafood.jpg"]
+featured_image: "26659-–-Industrializing-Cultivated-Meats-Seafood.jpg"
 banner_image: "1500x300.jpg"
 online: FALSE
 start_date: 2022-08-20

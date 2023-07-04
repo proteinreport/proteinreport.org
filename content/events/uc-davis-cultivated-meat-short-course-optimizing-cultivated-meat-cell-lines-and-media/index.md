@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Ingredients]
 topics: [Sci-Tech]
 regions: [International, US & Canada]
-featured_image: ["biotech-logo.jpg"]
+featured_image: "biotech-logo.jpg"
 banner_image: "NA"
 online: TRUE
 start_date: 2022-05-17

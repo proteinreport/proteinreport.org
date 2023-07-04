@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Ingredients]
 topics: [Sci-Tech]
 regions: [International, US & Canada]
-featured_image: ["d2e09f9c-b7d7-45ff-be70-d679bc79f745.png"]
+featured_image: "d2e09f9c-b7d7-45ff-be70-d679bc79f745.png"
 banner_image: "bf2bbeb3-d349-4612-b719-747e15e3c25d.png"
 online: TRUE
 start_date: 2021-04-28

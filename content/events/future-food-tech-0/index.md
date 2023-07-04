@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["Food_NYC_virtual_logo_Light-Background - Copy.png"]
+featured_image: "Food_NYC_virtual_logo_Light-Background - Copy.png"
 banner_image: "Food_NYC_virtual_logo_Light-Background.png"
 online: TRUE
 start_date: 2020-12-02

@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Business, Sci-Tech]
 regions: [Europe]
-featured_image: ["download (10).png"]
+featured_image: "download (10).png"
 banner_image: "CW logo1.png"
 online: FALSE
 start_date: 2021-09-30

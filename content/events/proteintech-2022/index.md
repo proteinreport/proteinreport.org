@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [Oceania]
-featured_image: ["PT-2020-Logo-small.png"]
+featured_image: "PT-2020-Logo-small.png"
 banner_image: "PT-2020-Logo-small_0.png"
 online: FALSE
 start_date: 2022-06-21

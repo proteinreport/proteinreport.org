@@ -8,7 +8,7 @@ proteins: [Algae]
 products: [Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["logo_seakuraENG_2019.png"]
+featured_image: "logo_seakuraENG_2019.png"
 banner_image: "banner_2.jpg"
 online: TRUE
 start_date: 2021-02-24

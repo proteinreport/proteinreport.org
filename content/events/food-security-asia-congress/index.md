@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients, Feed]
 topics: [Business, Health, Policy]
 regions: [Asia]
-featured_image: ["fsa-logo.png"]
+featured_image: "fsa-logo.png"
 banner_image: "fasban.jpg"
 online: FALSE
 start_date: 2023-05-23

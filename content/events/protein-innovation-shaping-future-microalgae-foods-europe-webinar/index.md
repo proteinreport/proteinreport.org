@@ -8,7 +8,7 @@ proteins: [Algae]
 products: [Ingredients]
 topics: [Business]
 regions: [Europe]
-featured_image: ["logo 90X90.png"]
+featured_image: "logo 90X90.png"
 banner_image: "ProFuture Eventbrite Webinar Protein Report (1280 × 500 px) (1280 × 256 px).png"
 online: TRUE
 start_date: 2022-03-22

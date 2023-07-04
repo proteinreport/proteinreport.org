@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["5239_Industrializing_Cell-Based_Meats__Seafood_Summit_Logo.png"]
+featured_image: "5239_Industrializing_Cell-Based_Meats__Seafood_Summit_Logo.png"
 banner_image: "banner_4.jpg"
 online: TRUE
 start_date: 2021-08-10

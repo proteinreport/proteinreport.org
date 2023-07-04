@@ -8,7 +8,7 @@ proteins: [Plant-Based, Algae, Fungi, Insect]
 products: [Meat, Dairy, Seafood, Ingredients, Feed]
 topics: [Environment, Sci-Tech]
 regions: [Europe]
-featured_image: ["H4P-plain-logo.png"]
+featured_image: "H4P-plain-logo.png"
 banner_image: "banner_7.jpg"
 online: TRUE
 start_date: 2022-02-03

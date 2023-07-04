@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [Asia]
-featured_image: ["210962_logo.png"]
+featured_image: "210962_logo.png"
 banner_image: "210962fill.jpg"
 online: TRUE
 start_date: 2021-09-07

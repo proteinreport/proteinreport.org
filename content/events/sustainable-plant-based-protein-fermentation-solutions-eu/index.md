@@ -8,7 +8,7 @@ proteins: [Plant-Based, Microbial, Molecular Farming, Algae, Fungi, Insect, Anim
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [Europe]
-featured_image: ["proteinlogo.png"]
+featured_image: "proteinlogo.png"
 banner_image: "proteinfill.jpg"
 online: FALSE
 start_date: 2022-09-28

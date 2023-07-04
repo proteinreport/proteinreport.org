@@ -52,7 +52,7 @@ for (row in 1:nrow(import_data)) {
   write(paste("products: [",import_data[row,]$products, "]", sep = ""), file_path, append = T)
   write(paste("topics: [",import_data[row,]$topics, "]", sep = ""), file_path, append = T)
   write(paste("regions: [",import_data[row,]$regions, "]", sep = ""), file_path, append = T)
-  write(paste("featured_image: [", shQuote(import_data[row,]$images), "]", sep = ""), file_path, append = T)
+  write(paste("featured_image: ", shQuote(import_data[row,]$images), sep = ""), file_path, append = T)
   #write(paste("images:", sep=""), file_path, append = T)
   #write(paste("  - src: ", shQuote(import_data[row,]$images),
   #            "\n    caption: ", shQuote(import_data[row,]$image_caption),

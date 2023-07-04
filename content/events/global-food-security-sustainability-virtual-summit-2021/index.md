@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business, Environment, Health, Policy]
 regions: [Asia]
-featured_image: ["Food-tech-256.jpg"]
+featured_image: "Food-tech-256.jpg"
 banner_image: "banner_2.jpg"
 online: TRUE
 start_date: 2021-09-17

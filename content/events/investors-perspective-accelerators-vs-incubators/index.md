@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Seafood]
 topics: [Business]
 regions: [International]
-featured_image: ["PD logo_0.jpg"]
+featured_image: "PD logo_0.jpg"
 banner_image: "Dr. Dalal AlGhawas and Christian Cadeo3 (1).jpg"
 online: TRUE
 start_date: 2020-07-28

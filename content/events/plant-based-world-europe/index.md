@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]
 topics: [Business]
 regions: [Europe]
-featured_image: ["logo-pbw-master_0.png"]
+featured_image: "logo-pbw-master_0.png"
 banner_image: "OCT REG OPEN.jpg"
 online: FALSE
 start_date: 2021-10-15

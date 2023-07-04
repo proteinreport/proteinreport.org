@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Animal]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Environment]
 regions: [Europe]
-featured_image: ["New Logo_0.jpg"]
+featured_image: "New Logo_0.jpg"
 banner_image: "banner_2.jpg"
 online: FALSE
 start_date: 2022-03-02

@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Dairy]
 topics: [Health]
 regions: [International]
-featured_image: ["PD logo.jpg"]
+featured_image: "PD logo.jpg"
 banner_image: "Michelle Egger1 (1).jpg"
 online: TRUE
 start_date: 2020-08-21

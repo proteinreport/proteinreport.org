@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 topics: [Business]
 regions: [International, US & Canada]
-featured_image: ["mintec_0.png"]
+featured_image: "mintec_0.png"
 banner_image: "banner.jpg"
 online: TRUE
 start_date: 2021-06-02

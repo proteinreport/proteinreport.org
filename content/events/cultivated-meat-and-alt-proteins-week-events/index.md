@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [US & Canada]
-featured_image: ["ucdaviscmc_1.png"]
+featured_image: "ucdaviscmc_1.png"
 banner_image: "biotech-logo_0_0.jpg"
 online: FALSE
 start_date: 2022-09-12

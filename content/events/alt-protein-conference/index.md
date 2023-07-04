@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood]
 topics: [Business]
 regions: [International]
-featured_image: ["apclogo.png"]
+featured_image: "apclogo.png"
 banner_image: "altproteinconf.jpg"
 online: TRUE
 start_date: 2020-09-02

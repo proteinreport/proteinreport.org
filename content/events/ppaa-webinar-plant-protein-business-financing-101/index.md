@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [NA]
 topics: [Business]
 regions: [US & Canada]
-featured_image: ["logo_0.png"]
+featured_image: "logo_0.png"
 banner_image: "Copy of Financing 101.png"
 online: TRUE
 start_date: 2020-12-02

@@ -8,7 +8,7 @@ proteins: [Plant-Based, Animal]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business, Environment, Policy]
 regions: [International]
-featured_image: ["WSJ-GlobalFoodForum_Logo_Green-boxRGB-small.jpg"]
+featured_image: "WSJ-GlobalFoodForum_Logo_Green-boxRGB-small.jpg"
 banner_image: "gff banner.jpg"
 online: TRUE
 start_date: 2021-02-09

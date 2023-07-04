@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi]
 products: [Meat, Seafood]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["Webinars_2.jpg"]
+featured_image: "Webinars_2.jpg"
 banner_image: "Banner_Whole Cuts 1.1.jpg"
 online: TRUE
 start_date: 2022-08-31

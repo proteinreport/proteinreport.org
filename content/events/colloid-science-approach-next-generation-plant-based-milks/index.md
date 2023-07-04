@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Dairy]
 topics: [Sci-Tech]
 regions: [International]
-featured_image: ["gfi.jpg"]
+featured_image: "gfi.jpg"
 banner_image: "A colloid science approach to next-generation plant-based milks.jpg"
 online: TRUE
 start_date: 2020-10-28

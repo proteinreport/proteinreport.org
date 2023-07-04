@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [US & Canada]
-featured_image: ["cac.jpg"]
+featured_image: "cac.jpg"
 banner_image: "event-cover-8707.png"
 online: TRUE
 start_date: 2020-09-10

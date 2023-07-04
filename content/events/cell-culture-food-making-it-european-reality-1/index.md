@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [Europe]
-featured_image: ["eag.png"]
+featured_image: "eag.png"
 banner_image: "cellculturetofood.jpg"
 online: TRUE
 start_date: 2020-05-06

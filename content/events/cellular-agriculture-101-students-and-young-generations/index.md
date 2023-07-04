@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Business, Culture, Sci-Tech]
 regions: [International]
-featured_image: ["af.png"]
+featured_image: "af.png"
 banner_image: "banner.png"
 online: TRUE
 start_date: 2020-07-09

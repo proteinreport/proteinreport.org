@@ -8,7 +8,7 @@ proteins: [Plant-Based, Animal]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Environment]
 regions: [Europe, International]
-featured_image: ["New Logo.jpg"]
+featured_image: "New Logo.jpg"
 banner_image: "banner_1.jpg"
 online: TRUE
 start_date: 2022-01-25

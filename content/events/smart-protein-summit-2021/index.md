@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood]
 topics: [Business]
 regions: [Asia, International]
-featured_image: ["header-sps-logo-1.png"]
+featured_image: "header-sps-logo-1.png"
 banner_image: "banner.jpg"
 online: TRUE
 start_date: 2021-11-10

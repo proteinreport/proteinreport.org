@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Ingredients]
 topics: [Business, Culture]
 regions: [Europe]
-featured_image: ["https___cdn.evbuc_.com_images_138667385_158680278666_1_original.jpg"]
+featured_image: "https___cdn.evbuc_.com_images_138667385_158680278666_1_original.jpg"
 banner_image: "NA"
 online: TRUE
 start_date: 2021-07-13

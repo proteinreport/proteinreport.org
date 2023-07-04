@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Ingredients]
 topics: [Business]
 regions: [International]
-featured_image: ["fft.jpg"]
+featured_image: "fft.jpg"
 banner_image: "event-cover-4482.png"
 online: TRUE
 start_date: 2020-10-14

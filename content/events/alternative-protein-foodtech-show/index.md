@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Seafood]
 topics: [Business, Environment, Sci-Tech]
 regions: [Asia]
-featured_image: ["Kind Earth Tech Logo.jpg"]
+featured_image: "Kind Earth Tech Logo.jpg"
 banner_image: "banner_1.jpg"
 online: FALSE
 start_date: 2021-08-25

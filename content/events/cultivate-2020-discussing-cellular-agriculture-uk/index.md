@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Dairy, Seafood]
 topics: [Business, Sci-Tech]
 regions: [Europe]
-featured_image: ["cultivate.jpg"]
+featured_image: "cultivate.jpg"
 banner_image: "banner.jpg"
 online: TRUE
 start_date: 2020-12-17

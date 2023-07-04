@@ -8,7 +8,7 @@ proteins: [Cell-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]
 topics: [Business, Culture, Environment, Health, Policy, Sci-Tech]
 regions: [US & Canada]
-featured_image: ["PaTOP2yP_400x400.jpg"]
+featured_image: "PaTOP2yP_400x400.jpg"
 banner_image: "nh2_0.jpg"
 online: FALSE
 start_date: 2022-06-09

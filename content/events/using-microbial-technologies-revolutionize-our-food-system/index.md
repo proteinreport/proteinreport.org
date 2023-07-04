@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["Future-Food-Tech-logo-final-05.jpg"]
+featured_image: "Future-Food-Tech-logo-final-05.jpg"
 banner_image: "event-cover-2544.png"
 online: TRUE
 start_date: 2020-04-28

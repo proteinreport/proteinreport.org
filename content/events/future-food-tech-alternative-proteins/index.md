@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Algae]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]
 topics: [Business]
 regions: [International]
-featured_image: ["fftaplogo.png"]
+featured_image: "fftaplogo.png"
 banner_image: "fftapbannere.png"
 online: TRUE
 start_date: 2021-06-22

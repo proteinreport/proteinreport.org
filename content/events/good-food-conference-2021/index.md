@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Ingredients]
 topics: [Business, Policy, Sci-Tech]
 regions: [International]
-featured_image: ["GFI_Primary_Seaweed_Black.png"]
+featured_image: "GFI_Primary_Seaweed_Black.png"
 banner_image: "GFC_Logo_Lockup_Blue.png"
 online: TRUE
 start_date: 2021-09-22

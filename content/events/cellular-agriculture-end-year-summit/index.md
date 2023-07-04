@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood]
 topics: [Business]
 regions: [International]
-featured_image: ["cellagri.jpg"]
+featured_image: "cellagri.jpg"
 banner_image: "cellagri banner_0.jpg"
 online: TRUE
 start_date: 2020-12-14

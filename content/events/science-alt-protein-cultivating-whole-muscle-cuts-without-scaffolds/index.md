@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [International, US & Canada]
-featured_image: ["gfilogo.jpg"]
+featured_image: "gfilogo.jpg"
 banner_image: "gfibanner_0.png"
 online: TRUE
 start_date: 2021-01-27

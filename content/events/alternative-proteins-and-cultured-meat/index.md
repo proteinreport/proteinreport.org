@@ -8,7 +8,7 @@ proteins: [Cell-Based, Microbial, Algae]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["ZETA_Logo_2c_WEB_0.jpg"]
+featured_image: "ZETA_Logo_2c_WEB_0.jpg"
 banner_image: "Webinar_01-02-2022_Cultured-Meat_low.jpg"
 online: TRUE
 start_date: 2022-02-01

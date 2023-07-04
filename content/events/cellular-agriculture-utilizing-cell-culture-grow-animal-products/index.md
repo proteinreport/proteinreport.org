@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [US & Canada]
-featured_image: ["cic.jpg"]
+featured_image: "cic.jpg"
 banner_image: "FNQSWcPWYAMrecH.jpg"
 online: TRUE
 start_date: 2022-03-17

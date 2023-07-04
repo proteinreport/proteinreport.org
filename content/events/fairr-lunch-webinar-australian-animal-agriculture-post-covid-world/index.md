@@ -8,7 +8,7 @@ proteins: [Animal]
 products: [Meat, Dairy]
 topics: [Business, Environment, Health]
 regions: [Oceania]
-featured_image: ["fairr_0.png"]
+featured_image: "fairr_0.png"
 banner_image: "fairr_0.jpg"
 online: TRUE
 start_date: 2020-06-25

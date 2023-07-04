@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [NA]
 topics: [Business, Sci-Tech]
 regions: [NA]
-featured_image: ["logo.png"]
+featured_image: "logo.png"
 banner_image: "NA"
 online: NA
 start_date: 2019-06-26

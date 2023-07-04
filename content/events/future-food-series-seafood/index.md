@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Seafood]
 topics: [Business]
 regions: [International]
-featured_image: ["pv.jpg"]
+featured_image: "pv.jpg"
 banner_image: "pvffs.jpg"
 online: TRUE
 start_date: 2020-12-09

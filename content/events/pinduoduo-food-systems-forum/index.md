@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Ingredients]
 topics: [Business, Environment, Health]
 regions: [International]
-featured_image: ["FSF Logo 2.png"]
+featured_image: "FSF Logo 2.png"
 banner_image: "banner.jpg"
 online: TRUE
 start_date: 2021-07-14

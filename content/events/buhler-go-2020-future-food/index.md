@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy]
 topics: [Business]
 regions: [International]
-featured_image: ["logo_print.png"]
+featured_image: "logo_print.png"
 banner_image: "go2020_key_visual_2_Ggh4x.jpg"
 online: TRUE
 start_date: 2020-06-15

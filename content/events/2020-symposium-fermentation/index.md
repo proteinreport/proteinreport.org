@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["Mug_Logo.png"]
+featured_image: "Mug_Logo.png"
 banner_image: "INN-FERM-Symposium-Event-Page-Banner-1500x600.png"
 online: TRUE
 start_date: 2020-10-20

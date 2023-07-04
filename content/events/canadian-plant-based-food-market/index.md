@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Ingredients]
 topics: [Business]
 regions: [US & Canada]
-featured_image: ["3b8bce5f-653c-49f3-ba3f-f86f853cccc2_0.jpg"]
+featured_image: "3b8bce5f-653c-49f3-ba3f-f86f853cccc2_0.jpg"
 banner_image: "banner_1.jpg"
 online: TRUE
 start_date: 2021-04-28

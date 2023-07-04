@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Seafood]
 topics: [Business]
 regions: [International]
-featured_image: ["logo.jpg"]
+featured_image: "logo.jpg"
 banner_image: "banner_0.jpg"
 online: TRUE
 start_date: 2021-03-04

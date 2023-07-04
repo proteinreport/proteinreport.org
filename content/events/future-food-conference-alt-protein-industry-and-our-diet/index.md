@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Fungi]
 products: [Meat, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["Dizajn bez naslova (5).png"]
+featured_image: "Dizajn bez naslova (5).png"
 banner_image: "Dizajn bez naslova.jpg"
 online: TRUE
 start_date: 2022-01-17

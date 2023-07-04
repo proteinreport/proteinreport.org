@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Algae]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["vsatlogo.png"]
+featured_image: "vsatlogo.png"
 banner_image: "vsat.jpg"
 online: TRUE
 start_date: 2021-05-04

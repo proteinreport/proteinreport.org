@@ -8,7 +8,7 @@ proteins: [Algae]
 products: [Meat, Seafood, Ingredients]
 topics: [Business, Culture, Environment, Health]
 regions: [Europe, International]
-featured_image: ["LOGO_EABA_MAIN_LIGHTBKG_HORIZONTAL_0.png"]
+featured_image: "LOGO_EABA_MAIN_LIGHTBKG_HORIZONTAL_0.png"
 banner_image: "EABA_Web2020-06_Fish&Meat_banners_Twitter header.jpg"
 online: TRUE
 start_date: 2020-06-30

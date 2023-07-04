@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [International]
-featured_image: ["The-Good-Food-Institute-Logo-post_0.jpg"]
+featured_image: "The-Good-Food-Institute-Logo-post_0.jpg"
 banner_image: "gfi_0.jpg"
 online: TRUE
 start_date: 2020-06-24

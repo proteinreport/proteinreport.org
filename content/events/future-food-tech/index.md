@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Environment, Health, Sci-Tech]
 regions: [International]
-featured_image: ["FFT_2020_LDN_Colour.png"]
+featured_image: "FFT_2020_LDN_Colour.png"
 banner_image: "banner_1.jpg"
 online: TRUE
 start_date: 2020-09-17

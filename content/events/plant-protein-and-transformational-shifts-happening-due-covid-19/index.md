@@ -8,7 +8,7 @@ proteins: [Plant-Based, Insect, Animal]
 products: [Ingredients]
 topics: [Business, Culture, Environment, Health]
 regions: [US & Canada]
-featured_image: ["ppaalogo.png"]
+featured_image: "ppaalogo.png"
 banner_image: "Copy of JOIN THE CONVERSATION.png"
 online: TRUE
 start_date: 2020-05-29

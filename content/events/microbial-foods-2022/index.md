@@ -8,7 +8,7 @@ proteins: [Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Environment, Health, Policy, Sci-Tech]
 regions: [Europe]
-featured_image: ["cbc-logo-red.png"]
+featured_image: "cbc-logo-red.png"
 banner_image: "microbialfoods.jpg"
 online: FALSE
 start_date: 2022-05-08

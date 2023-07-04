@@ -8,7 +8,7 @@ proteins: [Plant-Based, Microbial, Fungi, Animal]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Environment, Sci-Tech]
 regions: [Europe]
-featured_image: ["cropped-cropped-Nextgen_Logo.png"]
+featured_image: "cropped-cropped-Nextgen_Logo.png"
 banner_image: "cropped-cropped-Nextgen_Logo_0.png"
 online: FALSE
 start_date: 2023-09-07

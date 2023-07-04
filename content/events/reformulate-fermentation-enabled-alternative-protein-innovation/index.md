@@ -8,7 +8,7 @@ proteins: [Microbial, Fungi, Algae]
 products: [Meat, Dairy, Eggs, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["5099_Fermentation-Enabled_Alternative_Protein_Innovation_Summit_2020_Logo_FINAL-1024x151.png"]
+featured_image: "5099_Fermentation-Enabled_Alternative_Protein_Innovation_Summit_2020_Logo_FINAL-1024x151.png"
 banner_image: "Fermentation-Enabled Alternative Protein Innovation - Protein Report.png"
 online: TRUE
 start_date: 2021-01-26

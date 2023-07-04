@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Ingredients]
 topics: [Business, Health, Sci-Tech]
 regions: [US & Canada]
-featured_image: ["PPF2021-Personify.png"]
+featured_image: "PPF2021-Personify.png"
 banner_image: "banner_1.jpg"
 online: FALSE
 start_date: 2021-10-05

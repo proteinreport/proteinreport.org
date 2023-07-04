@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Dairy]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["PDlogo.jpg"]
+featured_image: "PDlogo.jpg"
 banner_image: "(COPY)_Post_with_title_and_photo_(2).jpeg"
 online: TRUE
 start_date: 2020-12-02

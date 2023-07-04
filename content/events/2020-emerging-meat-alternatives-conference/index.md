@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [International]
-featured_image: ["emac.jpg"]
+featured_image: "emac.jpg"
 banner_image: "emac banner.jpg"
 online: TRUE
 start_date: 2020-11-12

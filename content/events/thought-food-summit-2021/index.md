@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Seafood]
 topics: [Business, Environment]
 regions: [International]
-featured_image: ["TFF_Original_RGB.png"]
+featured_image: "TFF_Original_RGB.png"
 banner_image: "1500x500.jpg"
 online: FALSE
 start_date: 2021-10-02

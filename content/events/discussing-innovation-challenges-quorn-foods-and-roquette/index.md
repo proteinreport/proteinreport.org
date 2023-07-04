@@ -8,7 +8,7 @@ proteins: [Plant-Based, Fungi]
 products: [Meat, Dairy, Ingredients]
 topics: [Business]
 regions: [International]
-featured_image: ["fftaplogo_0.png"]
+featured_image: "fftaplogo_0.png"
 banner_image: "WEBINAR FFTP - Innovation Challenges_0.png"
 online: TRUE
 start_date: 2021-04-20

@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Business]
 regions: [International]
-featured_image: ["ZoIJA9lk_400x400.jpg"]
+featured_image: "ZoIJA9lk_400x400.jpg"
 banner_image: "Mkgaa1920x1080.jpg"
 online: TRUE
 start_date: 2022-02-23

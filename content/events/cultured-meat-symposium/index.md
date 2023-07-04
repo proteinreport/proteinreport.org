@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [NA]
 topics: [Business, Sci-Tech]
 regions: [NA]
-featured_image: ["cms19_black.png"]
+featured_image: "cms19_black.png"
 banner_image: "NA"
 online: NA
 start_date: 2019-11-14

@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Ingredients]
 topics: [Business]
 regions: [Europe]
-featured_image: ["1542132883700.jpg"]
+featured_image: "1542132883700.jpg"
 banner_image: "NA"
 online: TRUE
 start_date: 2021-11-10

@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [Asia]
-featured_image: ["Future Food Asia 2020.PNG"]
+featured_image: "Future Food Asia 2020.PNG"
 banner_image: "ffa.jpg"
 online: TRUE
 start_date: 2020-09-21

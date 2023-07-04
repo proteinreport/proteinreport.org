@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Dairy]
 topics: [Business, Sci-Tech]
 regions: [US & Canada]
-featured_image: ["psu.jpg"]
+featured_image: "psu.jpg"
 banner_image: "psbanner.jpg"
 online: TRUE
 start_date: 2021-04-20

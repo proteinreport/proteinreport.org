@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat]
 topics: [Environment, Health]
 regions: [International]
-featured_image: ["nf_logo.jpg"]
+featured_image: "nf_logo.jpg"
 banner_image: "meat-alternative_79422af1.png"
 online: TRUE
 start_date: 2020-08-26

@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Environment, Health, Policy]
 regions: [International]
-featured_image: ["Food-tech-256_1.jpg"]
+featured_image: "Food-tech-256_1.jpg"
 banner_image: "gfsss2022_1.jpg"
 online: TRUE
 start_date: 2022-06-30

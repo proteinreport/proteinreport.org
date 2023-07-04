@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [International, US & Canada]
-featured_image: ["urnerbarry.jpg"]
+featured_image: "urnerbarry.jpg"
 banner_image: "UB_BannerWebinar.jpg"
 online: TRUE
 start_date: 2021-01-21

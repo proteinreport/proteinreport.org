@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [US & Canada]
-featured_image: ["plantofrward_0.jpg"]
+featured_image: "plantofrward_0.jpg"
 banner_image: "plantforward_1_0.jpg"
 online: FALSE
 start_date: 2022-11-01

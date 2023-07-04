@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Seafood]
 topics: [Sci-Tech]
 regions: [International]
-featured_image: ["gfi_0.png"]
+featured_image: "gfi_0.png"
 banner_image: "banner_2.jpg"
 online: TRUE
 start_date: 2021-12-15

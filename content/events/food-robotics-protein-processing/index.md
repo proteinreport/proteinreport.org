@@ -8,7 +8,7 @@ proteins: [Animal]
 products: [Meat]
 topics: [Other Topic]
 regions: [International, US & Canada]
-featured_image: ["staubli_rgb.png"]
+featured_image: "staubli_rgb.png"
 banner_image: "NA"
 online: TRUE
 start_date: 2020-12-03

@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [Europe]
-featured_image: ["logo_future_proteins_conference.png"]
+featured_image: "logo_future_proteins_conference.png"
 banner_image: "fp_0.jpg"
 online: FALSE
 start_date: 2023-02-01

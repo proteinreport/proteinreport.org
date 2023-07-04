@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["ket logo.jpg"]
+featured_image: "ket logo.jpg"
 banner_image: "banner.JPG"
 online: TRUE
 start_date: 2020-11-20

@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [Asia]
-featured_image: ["Bridge2Food_Logo_Bridge2Food_sRGB_150dpi.png"]
+featured_image: "Bridge2Food_Logo_Bridge2Food_sRGB_150dpi.png"
 banner_image: "b2fsummitasia.jpg"
 online: FALSE
 start_date: 2022-11-28

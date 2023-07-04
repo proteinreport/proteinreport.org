@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [International]
-featured_image: ["merck.jpg"]
+featured_image: "merck.jpg"
 banner_image: "Mkgaa1920x1080.jpg"
 online: TRUE
 start_date: 2020-06-10

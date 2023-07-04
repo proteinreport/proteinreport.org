@@ -8,7 +8,7 @@ proteins: [Cell-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [Asia]
-featured_image: ["bCpQdhqmCU6bSptftpX2Ja.png"]
+featured_image: "bCpQdhqmCU6bSptftpX2Ja.png"
 banner_image: "Asia-Summit-Designs-1200x628-layout787-1h1svfr.png"
 online: TRUE
 start_date: 2022-05-05

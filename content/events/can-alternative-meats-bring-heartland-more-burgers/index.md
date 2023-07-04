@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat]
 topics: [Business, Policy]
 regions: [US & Canada]
-featured_image: ["052ed7ca-e8d3-431e-9fed-6af0e4e133dd.jpg"]
+featured_image: "052ed7ca-e8d3-431e-9fed-6af0e4e133dd.jpg"
 banner_image: "Screen Shot 2021-04-23 at 8.59.08 AM.png"
 online: TRUE
 start_date: 2021-04-28

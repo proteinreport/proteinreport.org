@@ -8,7 +8,7 @@ proteins: [Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [US & Canada]
-featured_image: ["xDN-DLyT_400x400.png"]
+featured_image: "xDN-DLyT_400x400.png"
 banner_image: "Fermentation-Enabled-Alternative-Protein-Innovation-logo-FINAL-2048x381.jpg"
 online: TRUE
 start_date: 2022-01-18

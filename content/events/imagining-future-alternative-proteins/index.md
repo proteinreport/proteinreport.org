@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat]
 topics: [Business, Policy]
 regions: [US & Canada]
-featured_image: ["btilogo.png"]
+featured_image: "btilogo.png"
 banner_image: "bti.png"
 online: TRUE
 start_date: 2020-06-16

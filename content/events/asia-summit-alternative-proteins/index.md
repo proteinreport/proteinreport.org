@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Policy]
 regions: [Asia]
-featured_image: ["gfi_0.jpg"]
+featured_image: "gfi_0.jpg"
 banner_image: "asap banner.jpg"
 online: TRUE
 start_date: 2020-08-20

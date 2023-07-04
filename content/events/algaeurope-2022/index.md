@@ -8,7 +8,7 @@ proteins: [Algae]
 products: [Seafood, Ingredients]
 topics: [Business, Environment, Health, Sci-Tech]
 regions: [Europe]
-featured_image: ["ae2022_logo-small-257x260.jpg"]
+featured_image: "ae2022_logo-small-257x260.jpg"
 banner_image: "eaba_algaeurope_2022.jpg"
 online: FALSE
 start_date: 2022-12-13

@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 topics: [Business, Sci-Tech]
 regions: [NA]
-featured_image: ["foodnavigator-com-logo-vector.png"]
+featured_image: "foodnavigator-com-logo-vector.png"
 banner_image: "NA"
 online: TRUE
 start_date: 2020-02-19

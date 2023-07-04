@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 topics: [Sci-Tech]
 regions: [International]
-featured_image: ["gfi logo.jpg"]
+featured_image: "gfi logo.jpg"
 banner_image: "0.jpg"
 online: TRUE
 start_date: 2020-09-23

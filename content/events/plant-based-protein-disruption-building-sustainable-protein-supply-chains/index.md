@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy]
 topics: [Business, Environment]
 regions: [US & Canada]
-featured_image: ["fairr-logo.jpg"]
+featured_image: "fairr-logo.jpg"
 banner_image: "fairr.jpg"
 online: TRUE
 start_date: 2020-10-07

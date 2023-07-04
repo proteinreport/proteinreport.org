@@ -8,7 +8,7 @@ proteins: [Algae]
 products: [Ingredients]
 topics: [Business, Sci-Tech]
 regions: [Europe]
-featured_image: ["PtJAAKd__400x400.jpg"]
+featured_image: "PtJAAKd__400x400.jpg"
 banner_image: "algaeurope_banner.jpg"
 online: TRUE
 start_date: 2020-12-01

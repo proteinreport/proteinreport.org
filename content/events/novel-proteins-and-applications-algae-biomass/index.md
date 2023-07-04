@@ -8,7 +8,7 @@ proteins: [Algae]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [Europe]
-featured_image: ["eabalogo.jpg"]
+featured_image: "eabalogo.jpg"
 banner_image: "EABA_TechWeb-June17-2021_20210302_Website-event-page.png"
 online: TRUE
 start_date: 2021-06-17

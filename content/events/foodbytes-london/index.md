@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Insect]
 products: [NA]
 topics: [Business, Sci-Tech]
 regions: [NA]
-featured_image: ["Logo_FoodBytes_v4.png"]
+featured_image: "Logo_FoodBytes_v4.png"
 banner_image: "NA"
 online: NA
 start_date: 2019-11-07

@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business]
 regions: [Asia]
-featured_image: ["AFTEA2022_Logo_0.png"]
+featured_image: "AFTEA2022_Logo_0.png"
 banner_image: "1644566826649.jpg"
 online: FALSE
 start_date: 2022-10-26

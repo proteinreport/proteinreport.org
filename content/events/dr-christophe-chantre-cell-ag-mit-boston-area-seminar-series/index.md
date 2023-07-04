@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Scaffolding & Structure]
 topics: [Business]
 regions: [US & Canada]
-featured_image: ["CellAg MIT_SSa-R03b_Mil_0.png"]
+featured_image: "CellAg MIT_SSa-R03b_Mil_0.png"
 banner_image: "cellagmit-1.jpg"
 online: TRUE
 start_date: 2021-01-22

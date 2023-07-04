@@ -8,7 +8,7 @@ proteins: [Animal]
 products: [Meat]
 topics: [Business]
 regions: [International]
-featured_image: ["fairrlogo.png"]
+featured_image: "fairrlogo.png"
 banner_image: "fairrbanner.jpg"
 online: TRUE
 start_date: 2021-01-28

@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["4862_Industrializing_Cell-Based_Meats_2020_Logo_FINAL.jpg"]
+featured_image: "4862_Industrializing_Cell-Based_Meats_2020_Logo_FINAL.jpg"
 banner_image: "icbm.jpg"
 online: TRUE
 start_date: 2020-08-25

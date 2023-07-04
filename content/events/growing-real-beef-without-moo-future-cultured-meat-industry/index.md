@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Business, Sci-Tech]
 regions: [US & Canada]
-featured_image: ["expanded_logo_2_gold-blue.jpg"]
+featured_image: "expanded_logo_2_gold-blue.jpg"
 banner_image: "Cultured Meat.jpg"
 online: TRUE
 start_date: 2021-02-23

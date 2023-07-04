@@ -8,7 +8,7 @@ proteins: [Plant-Based, Fungi, Insect, Animal]
 products: [NA]
 topics: [Business, Environment, Sci-Tech]
 regions: [NA]
-featured_image: ["foodvalley-summits-logo.png"]
+featured_image: "foodvalley-summits-logo.png"
 banner_image: "NA"
 online: FALSE
 start_date: 2019-10-17

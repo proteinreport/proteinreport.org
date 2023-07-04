@@ -8,7 +8,7 @@ proteins: [Cell-Based, Microbial]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business, Policy]
 regions: [Europe]
-featured_image: ["mevo_0.png"]
+featured_image: "mevo_0.png"
 banner_image: "mevo_0.jpg"
 online: FALSE
 start_date: 2023-02-15

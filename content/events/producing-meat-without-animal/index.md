@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [International, Oceania]
-featured_image: ["S85mgWn6_400x400.jpg"]
+featured_image: "S85mgWn6_400x400.jpg"
 banner_image: "banner_0.jpg"
 online: TRUE
 start_date: 2021-02-24

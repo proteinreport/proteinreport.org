@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 topics: [Environment, Sci-Tech]
 regions: [International]
-featured_image: ["nizo-logo.png"]
+featured_image: "nizo-logo.png"
 banner_image: "CFP-NIZO-1200x628-1.jpg"
 online: TRUE
 start_date: 2020-10-21

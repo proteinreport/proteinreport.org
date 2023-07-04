@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Dairy, Ingredients]
 topics: [Sci-Tech]
 regions: [Europe]
-featured_image: ["iar-logo-en-300x95.jpeg"]
+featured_image: "iar-logo-en-300x95.jpeg"
 banner_image: "iarbanner.jpg"
 online: TRUE
 start_date: 2021-03-09

@@ -8,7 +8,7 @@ proteins: [Algae]
 products: [Meat, Seafood, Ingredients]
 topics: [Business]
 regions: [International]
-featured_image: ["gfi logo.png"]
+featured_image: "gfi logo.png"
 banner_image: "Evlm6DXXYAYYERu.jpg"
 online: TRUE
 start_date: 2021-03-16

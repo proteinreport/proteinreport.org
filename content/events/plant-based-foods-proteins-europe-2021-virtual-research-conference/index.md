@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [Europe]
-featured_image: ["b2f_logo_5.jpg"]
+featured_image: "b2f_logo_5.jpg"
 banner_image: "b2fbanner_4.jpg"
 online: TRUE
 start_date: 2021-05-20

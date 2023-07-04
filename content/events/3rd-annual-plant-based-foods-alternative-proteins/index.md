@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Seafood, Feed]
 topics: [Business]
 regions: [International, US & Canada]
-featured_image: ["cw.png"]
+featured_image: "cw.png"
 banner_image: "NA"
 online: FALSE
 start_date: 2023-02-16

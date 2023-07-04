@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat]
 topics: [Business]
 regions: [International]
-featured_image: ["protein.directory.logo_.png"]
+featured_image: "protein.directory.logo_.png"
 banner_image: "Hybrid_Conference_0.png"
 online: TRUE
 start_date: 2021-09-09

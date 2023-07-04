@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Ingredients]
 topics: [Business]
 regions: [Latin America & Caribbean, US & Canada]
-featured_image: ["b2f_logo.jpg"]
+featured_image: "b2f_logo.jpg"
 banner_image: "b2fbanner.jpg"
 online: TRUE
 start_date: 2021-04-13

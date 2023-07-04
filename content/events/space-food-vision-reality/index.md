@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Algae]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Sci-Tech]
 regions: [International]
-featured_image: ["FgjFffEB_400x400_0.jpg"]
+featured_image: "FgjFffEB_400x400_0.jpg"
 banner_image: "banner2.jpg"
 online: TRUE
 start_date: 2021-05-04

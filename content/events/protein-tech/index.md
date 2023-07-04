@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Algae, Fungi]
 products: [Ingredients]
 topics: [Business, Environment, Sci-Tech]
 regions: [Oceania]
-featured_image: ["PT-2020-Logo-small.png"]
+featured_image: "PT-2020-Logo-small.png"
 banner_image: "NA"
 online: TRUE
 start_date: 2020-08-04

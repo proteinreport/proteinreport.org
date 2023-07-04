@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Culture, Environment, Policy]
 regions: [Europe]
-featured_image: ["Original.png"]
+featured_image: "Original.png"
 banner_image: "Banner_ Innovations in sustainable and plant-based communal catering .jpg"
 online: TRUE
 start_date: 2022-11-14

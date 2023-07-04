@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Seafood, Ingredients]
 topics: [Business, Environment]
 regions: [Europe]
-featured_image: ["SustainFoods__LONDON_DATE_LONDON-1.jpg"]
+featured_image: "SustainFoods__LONDON_DATE_LONDON-1.jpg"
 banner_image: "NA"
 online: FALSE
 start_date: 2022-03-30

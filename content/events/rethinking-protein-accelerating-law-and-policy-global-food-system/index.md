@@ -8,7 +8,7 @@ proteins: [Plant-Based, Animal]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients, Feed]
 topics: [Business, Environment, Health, Policy]
 regions: [International]
-featured_image: ["5Y-Logo (Final Transparent).png"]
+featured_image: "5Y-Logo (Final Transparent).png"
 banner_image: "Policy Conference Mock Up Cards resized 3_1.jpg"
 online: TRUE
 start_date: 2021-06-03

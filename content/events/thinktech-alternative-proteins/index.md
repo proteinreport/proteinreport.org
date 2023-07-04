@@ -8,7 +8,7 @@ proteins: [Plant-Based, Microbial]
 products: [Meat, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["eit.png"]
+featured_image: "eit.png"
 banner_image: "1213_ThinkTech_BANNER_V1_8th and 9th Dec_0.jpg"
 online: TRUE
 start_date: 2021-12-08

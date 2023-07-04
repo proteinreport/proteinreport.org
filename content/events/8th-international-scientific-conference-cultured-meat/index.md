@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Seafood]
 topics: [Sci-Tech]
 regions: [Europe]
-featured_image: ["maastricht-university-265-logo.png"]
+featured_image: "maastricht-university-265-logo.png"
 banner_image: "isccm.jpg"
 online: FALSE
 start_date: 2022-10-09

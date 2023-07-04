@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Pet Food, Ingredients, Feed, Technology & Equipment]
 topics: [Business, Environment]
 regions: [US & Canada]
-featured_image: ["PPAA logo  copy.png"]
+featured_image: "PPAA logo  copy.png"
 banner_image: "ppaa banner.jpg"
 online: TRUE
 start_date: 2020-11-18

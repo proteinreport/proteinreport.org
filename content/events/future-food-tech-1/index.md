@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [US & Canada]
-featured_image: ["FFT-SF_2021_logo.png"]
+featured_image: "FFT-SF_2021_logo.png"
 banner_image: "FFT-SF_2021_virtual_logo_LIGHTBG.png"
 online: TRUE
 start_date: 2021-03-11

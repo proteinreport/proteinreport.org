@@ -8,7 +8,7 @@ proteins: [Cell-Based, Molecular Farming]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["Webinars_3.png"]
+featured_image: "Webinars_3.png"
 banner_image: "Flavour and colour in analogue products.png"
 online: TRUE
 start_date: 2022-06-29

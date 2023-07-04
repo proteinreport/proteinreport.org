@@ -8,7 +8,7 @@ proteins: [Microbial]
 products: [Meat, Dairy, Eggs, Ingredients]
 topics: [Business, Sci-Tech]
 regions: [International]
-featured_image: ["bg.png"]
+featured_image: "bg.png"
 banner_image: "microbial_banner.jpg"
 online: TRUE
 start_date: 2021-07-08

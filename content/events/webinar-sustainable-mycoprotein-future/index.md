@@ -8,7 +8,7 @@ proteins: [Plant-Based, Fungi]
 products: [Meat, Ingredients, Technology & Equipment]
 topics: [Sci-Tech]
 regions: [International]
-featured_image: ["logo 90X90 (2).png"]
+featured_image: "logo 90X90 (2).png"
 banner_image: "ProFuture Webinar for Protein Report.jpg"
 online: TRUE
 start_date: 2022-03-01

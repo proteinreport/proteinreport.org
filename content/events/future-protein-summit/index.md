@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [NA]
 topics: [Business, Environment, Sci-Tech]
 regions: [NA]
-featured_image: ["The future of protein summit - India_0.png"]
+featured_image: "The future of protein summit - India_0.png"
 banner_image: "NA"
 online: NA
 start_date: 2019-11-11

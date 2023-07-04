@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood]
 topics: [Sci-Tech]
 regions: [Europe]
-featured_image: ["eal.png"]
+featured_image: "eal.png"
 banner_image: "banner_0.jpg"
 online: TRUE
 start_date: 2020-05-20

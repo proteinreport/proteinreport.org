@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [Ingredients]
 topics: [Business]
 regions: [International]
-featured_image: ["fi.png"]
+featured_image: "fi.png"
 banner_image: "banner.jpg"
 online: TRUE
 start_date: 2021-09-13

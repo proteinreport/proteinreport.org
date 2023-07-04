@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy, Eggs, Ingredients]
 topics: [Business]
 regions: [International, US & Canada]
-featured_image: ["Food+Edge.png"]
+featured_image: "Food+Edge.png"
 banner_image: "banner_3.jpg"
 online: TRUE
 start_date: 2021-05-04

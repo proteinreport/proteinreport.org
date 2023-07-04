@@ -8,7 +8,7 @@ proteins: [Cell-Based]
 products: [Seafood]
 topics: [Business, Sci-Tech]
 regions: [International, US & Canada]
-featured_image: ["Mug_Logo.png"]
+featured_image: "Mug_Logo.png"
 banner_image: "banner.png"
 online: TRUE
 start_date: 2020-10-29

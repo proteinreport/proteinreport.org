@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi, 
 products: [Meat, Dairy, Eggs, Seafood, Ingredients, Materials]
 topics: [Business, Environment]
 regions: [Europe]
-featured_image: ["1666428216459-2.jpeg"]
+featured_image: "1666428216459-2.jpeg"
 banner_image: "HackSummit-3-2.png"
 online: FALSE
 start_date: 2023-05-11

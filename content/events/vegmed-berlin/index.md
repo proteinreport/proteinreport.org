@@ -8,7 +8,7 @@ proteins: [Plant-Based]
 products: [NA]
 topics: [Health]
 regions: [NA]
-featured_image: ["vegmed-image.png"]
+featured_image: "vegmed-image.png"
 banner_image: "NA"
 online: FALSE
 start_date: 2020-05-01

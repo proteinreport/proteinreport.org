@@ -8,7 +8,7 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [Europe, International]
-featured_image: ["nfc.png"]
+featured_image: "nfc.png"
 banner_image: "banner_2.jpg"
 online: TRUE
 start_date: 2021-04-28
