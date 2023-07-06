@@ -5,7 +5,7 @@ lastmod: 2021-11-02 11:43:52
 slug: /carmen-bezerra
 description: "NA"
 excerpt: "NA"
-featured_image: ["carmen.jpg"]
+featured_image: "carmen.jpg"
 draft: false
 pinned: false
 homepage: false

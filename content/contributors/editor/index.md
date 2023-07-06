@@ -5,7 +5,7 @@ lastmod: 2020-12-13 19:49:23
 slug: /editor
 description: "Your editor at Protein Report."
 excerpt: "Your editor at Protein Report."
-featured_image: ["favicon.png"]
+featured_image: "favicon.png"
 draft: false
 pinned: false
 homepage: false

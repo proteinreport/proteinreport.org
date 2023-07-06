@@ -46,7 +46,7 @@ for (row in 1:nrow(import_data)) {
   write(paste("slug: ", import_data[row,]$slug, sep = ""), file_path, append = T)
   write(paste("description: ", shQuote(import_data[row,]$description), sep = ""), file_path, append = T)
   write(paste("excerpt: ", shQuote(import_data[row,]$description), sep = ""), file_path, append = T)
-  write(paste("featured_image: [", shQuote(import_data[row,]$images), "]", sep = ""), file_path, append = T)
+  write(paste("featured_image: ", shQuote(import_data[row,]$images), sep = ""), file_path, append = T)
   #write(paste("images:", sep=""), file_path, append = T)
   #write(paste("  - src: ", shQuote(import_data[row,]$images),
   #            "\n    caption: ", shQuote(import_data[row,]$image_caption),

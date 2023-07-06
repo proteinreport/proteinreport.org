@@ -5,7 +5,7 @@ lastmod: 2021-10-12 11:51:54
 slug: /nam-tran
 description: "NA"
 excerpt: "NA"
-featured_image: ["namtran.jpeg"]
+featured_image: "namtran.jpeg"
 draft: false
 pinned: false
 homepage: false

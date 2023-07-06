@@ -1,0 +1,8 @@
+{{ $p := where (where .Site.Pages "Section" "contributors") "Params.uuid" "in" .Params.contributors }}
+{{ range $p }}
+  {{ $image := .Resources.GetMatch .Params.featured_image }}
+  {{ $imageLq := $image.Resize "15x15 webp q95" -}}
+  {{ $image = $image.Resize "60x60 webp q95" -}}
+  <a href="{{ .RelPermalink }}">{{.Title}}</a>
+  <img class="rounded-circle w-auto mx-1 lazyload blur-up" src="{{ $imageLq.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ .Title }}" width="30" height="30">
+{{end}}

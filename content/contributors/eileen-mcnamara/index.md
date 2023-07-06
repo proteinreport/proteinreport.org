@@ -5,7 +5,7 @@ lastmod: 2021-10-12 10:52:28
 slug: /eileen-mcnamara
 description: "NA"
 excerpt: "NA"
-featured_image: ["eileen.jpg"]
+featured_image: "eileen.jpg"
 draft: false
 pinned: false
 homepage: false

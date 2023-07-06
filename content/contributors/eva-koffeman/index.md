@@ -5,7 +5,7 @@ lastmod: 2021-10-12 09:41:42
 slug: /eva-koffeman
 description: "NA"
 excerpt: "NA"
-featured_image: ["eva_1.jpg"]
+featured_image: "eva_1.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,16 +12,11 @@
     {{ $image := .Resources.GetMatch (printf "**%s" (index .Params.featured_image)) -}}
     {{ if $image -}}
     <div class="w-full md:w-2/3">
-      {{ partial "picture" (dict
-      "ctx" .
-      "src" $image
-      "alt" .Title
-      "class" "img-fluid blur-up"
-      )}}
+      <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid object-cover">
     </div>
     {{ end -}}
     <aside class="w-full md:w-1/3 p-4">
-      {{ partial "main/article-meta.html" . }}
+      {{ partial "main/article-contributors.html" . }}
     </aside>
   </div>
   <div class="flex flex-row flex-wrap divide-black divide-x-4 border-b-4 border-black">
@@ -38,17 +33,17 @@
       {{ end -}}
     </aside>
   </div>
-    
-    <div class="">
-      {{ with .Params.summary -}}<p class="lead">{{ . }}</p>{{ end -}}
-      {{ if .Params.tags -}}
-      <div class="tag-list-single">
-        {{ range $index, $tag := .Params.tags -}}
-        <a class="btn btn-light" href="{{ " /tags/" | absURL }}{{ . | urlize }}/" role="button">{{ . }}</a>
-        {{ end -}}
-      </div>
+
+  <div class="">
+    {{ with .Params.summary -}}<p class="lead">{{ . }}</p>{{ end -}}
+    {{ if .Params.tags -}}
+    <div class="tag-list-single">
+      {{ range $index, $tag := .Params.tags -}}
+      <a class="btn btn-light" href="{{ " /tags/" | absURL }}{{ . | urlize }}/" role="button">{{ . }}</a>
       {{ end -}}
     </div>
+    {{ end -}}
+  </div>
   </div>
 </article>
 {{ end }}

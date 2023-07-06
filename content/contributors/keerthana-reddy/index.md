@@ -5,7 +5,7 @@ lastmod: 2021-10-12 10:33:06
 slug: /keerthana-reddy
 description: "NA"
 excerpt: "NA"
-featured_image: ["keerthana.jpg"]
+featured_image: "keerthana.jpg"
 draft: false
 pinned: false
 homepage: false

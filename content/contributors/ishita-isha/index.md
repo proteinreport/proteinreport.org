@@ -5,7 +5,7 @@ lastmod: 2021-11-02 11:43:18
 slug: /ishita-isha
 description: "NA"
 excerpt: "NA"
-featured_image: ["ishita.jpg"]
+featured_image: "ishita.jpg"
 draft: false
 pinned: false
 homepage: false

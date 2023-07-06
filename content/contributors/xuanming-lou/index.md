@@ -5,7 +5,7 @@ lastmod: 2021-10-20 15:22:21
 slug: /xuanming-lou
 description: "NA"
 excerpt: "NA"
-featured_image: ["photo_louxm.jpg"]
+featured_image: "photo_louxm.jpg"
 draft: false
 pinned: false
 homepage: false

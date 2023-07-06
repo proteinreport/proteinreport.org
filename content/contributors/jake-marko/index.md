@@ -5,7 +5,7 @@ lastmod: 2021-10-12 15:57:24
 slug: /jake-marko
 description: "NA"
 excerpt: "NA"
-featured_image: ["Jake Marko.png"]
+featured_image: "Jake Marko.png"
 draft: false
 pinned: false
 homepage: false

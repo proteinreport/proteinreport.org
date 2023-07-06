@@ -5,7 +5,7 @@ lastmod: 2020-12-14 13:22:48
 slug: /samantha-sanders
 description: "Contributing Editor"
 excerpt: "Contributing Editor"
-featured_image: ["ss.jpg"]
+featured_image: "ss.jpg"
 draft: false
 pinned: false
 homepage: false
