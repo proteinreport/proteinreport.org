@@ -1,0 +1,5 @@
+{{ if .Params.protein -}}
+  {{ range $index, $protein := .Params.protein -}}
+    <a class="stretched-link position-relative link-muted" href="{{ "/protein/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+  {{ end -}}
+{{ end -}}
