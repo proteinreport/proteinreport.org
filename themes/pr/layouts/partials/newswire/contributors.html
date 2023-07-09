@@ -1,0 +1,15 @@
+{{ $p := where (where .Site.Pages "Section" "contributors") "Params.uuid" "in" .Params.contributors }}
+<!--
+<p class="border-black border-t-4 border-r-4 p-4 w-min">Contributors</p>
+-->
+<div class="flex flex-row flex-wrap md:flex-col divide-black divide-y-4 border-black border-y-4">
+{{ range $p }}
+  {{ $image := .Resources.GetMatch .Params.featured_image }}
+  {{ $imageLq := $image.Resize "15x15 webp q95" -}}
+  <!-- {{ $image = $image.Resize "160x160 webp q95" -}} -->
+  <a href="{{ .RelPermalink }}" class="flex flex-row sm:w-full md:max-w-1/2 lg:w-full items-center">
+    <img class="w-1/5 lazyload blur-up" src="{{ $image.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
+    <p class="text-xl pl-4">{{.Title}}</p>
+  </a>
+{{end}}
+</div>
