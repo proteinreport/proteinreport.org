@@ -11,8 +11,9 @@
   <div class="flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-black divide-x-4 border-b-4 border-black">
     {{ $image := .Resources.GetMatch (printf "**%s" (index .Params.featured_image)) -}}
     {{ if $image -}}
-    <div class="w-full md:w-2/3 border-black border-t-4">
+    <div class="w-full md:w-2/3 border-black border-t-4 relative">
       <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid object-cover">
+      {{ partial "article/flags.html" . }}
     </div>
     {{ end -}}
     <aside class="w-full md:w-1/3">
@@ -47,36 +48,4 @@
   </div>
   </div>
 </article>
-{{ end }}
-
-{{ define "sidebar-footer" }}
-{{ if site.Data.doks.relatedPosts -}}
-{{ $related := .Site.RegularPages.Related . | first 3 -}}
-{{ with $related -}}
-<div class="bg-light">
-  <section class="section section-related container">
-    <div class="row justify-content-center">
-      <div class="col-md-12 col-lg-9">
-        <h2 class="section-title text-center">Related posts</h2>
-      </div>
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-lg-9">
-        {{ range . -}}
-        <div class="card">
-          <div class="card-body">
-            <article>
-              <h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
-              <p>{{ .Params.summary | safeHTML }}</p>
-              {{ partial "article/meta.html" . -}}
-            </article>
-          </div>
-        </div>
-        {{ end -}}
-      </div>
-    </div>
-  </section>
-</div>
-{{ end -}}
-{{ end -}}
 {{ end }}
