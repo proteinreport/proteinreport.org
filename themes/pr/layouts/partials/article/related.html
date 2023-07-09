@@ -1,0 +1,6 @@
+{{ $related := .Site.RegularPages.Related . | first 3 -}}
+      {{ with $related -}}
+        {{ range . -}}
+          {{ .Params.title }}
+        {{ end -}}
+      {{ end -}}
