@@ -1,10 +1,10 @@
-<section class="items-center relative w-full border-black border-b-2">
-    <div class="items-center relative w-full border-black border-b-4 mx-auto 2xl:max-w-7xl">
-        <div class="flex flex-wrap items-center divide-black divide-y-0 2xl:border-x-2 border-black divide-t-0 md:divide-x-4">
+<section class="items-center relative w-full">
+    <div class="items-center relative w-full border-b-4 mx-auto 2xl:max-w-7xl">
+        <div class="flex flex-wrap items-center divide-y-0 2xl:border-x-2 divide-t-0 md:divide-x-4">
             <h2 class="md:w-1/3 lg:text-7xl p-10">Events</h2>
             <p class="md:w-2/3 p-10 lg:text-2xl">Upcoming conferences and summits</p>
         </div>
-        <div class="flex flex-wrap w-full divide-black divide-y-4 2xl:border-x-2 border-black md:divide-x-4">
+        <div class="flex flex-wrap w-full divide-y-4 2xl:border-x-2 md:divide-x-4">
             {{ range first 5 ( where .Site.RegularPages "Section" "events" ) }}
             {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
             <div class="w-full md:w-1/3 aspect-w-16 aspect-h-3">

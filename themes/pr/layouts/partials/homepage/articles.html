@@ -1,16 +1,16 @@
-<section class="items-center relative w-full border-black border-b-2">
-    <div class="items-center relative w-full border-black border-b-4 mx-auto 2xl:max-w-7xl">
-        <div class="flex flex-wrap items-center divide-black divide-y-0 2xl:border-x-2 border-black divide-t-0 md:divide-x-4">
+<section class="items-center relative w-full border-b-2">
+    <div class="items-center relative w-full border-b-4 mx-auto 2xl:max-w-7xl">
+        <div class="flex flex-wrap items-center divide-y-0 2xl:border-x-2 divide-t-0 md:divide-x-4">
             <h2 class="md:w-1/3 lg:text-8xl p-10">Articles</h2>
-            <p class="md:w-2/3 p-10 lg:text-2xl">Opinion, analysis, and explainers from subject matter experts</p>
+            <p class="md:w-2/3 p-10 lg:text-2xl">Opinion, analysis, and explainers from subject-matter experts</p>
         </div>
         {{ range first 1 ( where .Site.RegularPages "Section" "articles" )}}
         {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
-        <div class="flex flex-wrap divide-black divide-y-4 2xl:border-x-2 border-black md:divide-x-4 md:divide-x-reverse">
+        <div class="flex flex-wrap divide-y-4 2xl:border-x-2 md:divide-x-4 md:divide-x-reverse">
             <a class="absolute z-50 bottom-2 p-10 w-full" href="{{ .RelPermalink }}"><h2 class="lg:text-6xl font-bold" style="text-shadow: 3px 3px 3px rgba(255, 255, 255, 0.8), -3px 0px 7px rgba(255, 255, 255, 0.8), 0px 4px 7px rgba(255, 255, 255, 0.8);">{{ .Params.title }}</h2></a>
             <div class="w-full invisible lg:visible lg:w-1/3 md:w-1/2 order-2 relative gap-12 p-2 lg:px-6 lg:order-1">
                 <p class="text-lg pt-4">{{ .Params.excerpt | safeHTML }}</p>
-                <button class="float-right flex flex-row items-center border-black border-4 p-4 mt-4"><a href="{{ .RelPermalink }}">read more</a><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                <button class="float-right flex flex-row items-center border-4 p-4 mt-4"><a href="{{ .RelPermalink }}">read more</a><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
                 </svg></button>                  
             </div>
@@ -20,8 +20,8 @@
         </div>
         {{ end }}
     </div>
-    <div class="items-center relative w-full border-black border-b-4 mx-auto 2xl:max-w-7xl">
-        <div class="flex flex-wrap w-full divide-black 2xl:border-x-2 border-black md:divide-x-4">
+    <div class="items-center relative w-full border-b-4 mx-auto 2xl:max-w-7xl">
+        <div class="flex flex-wrap w-full 2xl:border-x-2 md:divide-x-4">
             {{ range first 2 ( after 1 ( where .Site.RegularPages "Section" "articles" ) ) }}
             {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
             <div class="flex flex-col w-full md:w-1/2">
@@ -35,8 +35,8 @@
             {{ end }}
         </div>
     </div>
-    <div class="items-center relative w-full border-black border-b-4 mx-auto 2xl:max-w-7xl">
-        <div class="flex flex-wrap w-full divide-black 2xl:border-x-2 border-black md:divide-x-4">
+    <div class="items-center relative w-full border-b-4 mx-auto 2xl:max-w-7xl">
+        <div class="flex flex-wrap w-full 2xl:border-x-2 md:divide-x-4">
             {{ range first 3 ( after 3 ( where .Site.RegularPages "Section" "articles" ) ) }}
             {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
             <div class="flex flex-col w-full md:w-1/3">

@@ -1,4 +1,4 @@
-<div class="flex flex-col w-full divide-y-4">
+<div class="flex flex-col w-full divide-y-4 border-y-4">
     {{ range first 5 ( where .Site.RegularPages "Section" "articles" ) }}
     {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
     <div class="flex flex-row w-full gap-2 items-center">
