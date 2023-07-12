@@ -1,3 +1,4 @@
+<p class="text-lg m-2">News provided by:</p>
 {{ if .Params.company}}
   {{ $company_uuid := .Params.company }}
   {{ $image := "" }}
@@ -10,7 +11,7 @@
             {{ $image := .Resources.GetMatch .Params.featured_image }}
             {{ $imageLq := $image.Resize "15x15 webp q95" -}}
             <a href="{{ .RelPermalink }}" class="flex flex-row sm:w-full md:max-w-1/2 lg:w-full items-center">
-              <img class="w-1/5 lazyload blur-up" src="{{ $image.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
+              <img class="w-1/5 lazyload blur-up my-2" src="{{ $image.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
               <p class="text-xl pl-4">{{.Title}}</p>
             </a>
           </div>
