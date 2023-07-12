@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Langenlebarner Straße 10</span><br>
 <span class="postal-code">3430</span> <span class="locality">Tulln an der Donau</span><br>
 <span class="country">Austria</span></p>]
-featured_image: "Arkeon - Logo (black).png"
+featured_image: "Logo - 3-Symbol - black.png"
 draft: false
 pinned: false
 homepage: false

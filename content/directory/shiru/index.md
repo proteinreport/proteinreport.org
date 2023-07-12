@@ -4,7 +4,7 @@ date: 2020-06-24 14:15:02
 lastmod: 2020-06-24 14:15:02
 slug: /shiru
 description: "Shiru rapidly and efficiently identifies high value functional food proteins via an innovative computational platform that integrates machine learning and molecular modeling and creates them through precision biology."
-proteins: [Microbial]
+proteins: [Plant-Based, Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []

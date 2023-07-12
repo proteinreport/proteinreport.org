@@ -9,11 +9,11 @@ products: [Meat]
 business: [Production]
 finance_type: []
 regions: [Africa]
-location: [<p class="address" translate="no"><span class="address-line1">Von Wielligh Street</span><br>
-<span class="locality">Johannesburg</span><br>
-<span class="postal-code">2001</span><br>
+location: [<p class="address" translate="no"><span class="address-line1">Albert Road 66</span><br>
+<span class="locality">Cape Town</span><br>
+<span class="postal-code">7925</span><br>
 <span class="country">South Africa</span></p>]
-featured_image: "Mzansi-Meat-Co-Logo-Dark-Transparent.png"
+featured_image: "Mzansi logo 1.jpg"
 draft: false
 pinned: false
 homepage: false

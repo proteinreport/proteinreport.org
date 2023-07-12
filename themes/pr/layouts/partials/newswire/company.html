@@ -18,7 +18,7 @@
     {{ end }}
   {{ end }}
 {{ else if .Params.company_name }}
-  <div>
+  <div class="flex flex-row flex-wrap border-y-4 m-2">
     <a href="{{ .Params.company_link }}" target="_blank" class="flex flex-row sm:w-full md:max-w-1/2 lg:w-full items-center">
       <p class="text-xl pl-4">{{ .Params.company_name }}</p>
     </a>
