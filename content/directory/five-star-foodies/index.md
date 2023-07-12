@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Este Avenue</span><br>
 <span class="locality">Cincinnati</span>, <span class="postal-code">45232</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Foodies+Logo+copy+small.png"]
+featured_image: "Foodies+Logo+copy+small.png"
 draft: false
 pinned: false
 homepage: false

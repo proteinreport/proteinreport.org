@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Rostock</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["innocent meat Logo_head.png"]
+featured_image: "innocent meat Logo_head.png"
 draft: false
 pinned: false
 homepage: false

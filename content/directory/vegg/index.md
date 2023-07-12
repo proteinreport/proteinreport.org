@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Old Country Road</span><br>
 <span class="locality">Carle Place</span>, <span class="postal-code">11514</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Vegg logo.jpg"]
+featured_image: "Vegg logo.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Palmetto Street</span><br>
 <span class="locality">Los Angeles</span>, <span class="postal-code">90013</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["califia-logo-brown_2x_.png"]
+featured_image: "califia-logo-brown_2x_.png"
 draft: false
 pinned: false
 homepage: false

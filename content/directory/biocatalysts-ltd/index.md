@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Cefn Co
 <span class="locality">Cardiff</span><br>
 <span class="postal-code">CF15 7QQ</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["Biocatalysts-Ltd_500x400_proteinreport-1.jpg"]
+featured_image: "Biocatalysts-Ltd_500x400_proteinreport-1.jpg"
 draft: false
 pinned: false
 homepage: false

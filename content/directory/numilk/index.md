@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">New York</span>,<br>
 <span class="country">United States</span></p>]
-featured_image: ["NuMilk logo2.jpg"]
+featured_image: "NuMilk logo2.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Bestekar Caddesi</span><br>
 <span class="postal-code">06680</span> /<br>
 <span class="country">Turkey</span></p>]
-featured_image: ["biftek logo.png"]
+featured_image: "biftek logo.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Calle Santa Gemma</span><br>
 <span class="postal-code">46980</span><br>
 <span class="country">Spain</span></p>]
-featured_image: ["ADM-Biopolis_news_large.png"]
+featured_image: "ADM-Biopolis_news_large.png"
 draft: false
 pinned: false
 homepage: false

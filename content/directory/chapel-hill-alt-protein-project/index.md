@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">South Columbia Street</span><br>
 <span class="locality">Chapel Hill</span>, <span class="postal-code">27514</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["chapp.png"]
+featured_image: "chapp.png"
 draft: false
 pinned: false
 homepage: false

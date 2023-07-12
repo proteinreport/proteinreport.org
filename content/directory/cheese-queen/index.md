@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">bulevard &quot;Vitosha&quot;</span><br>
 <span class="postal-code">1408</span> <span class="locality">Sofia</span><br>
 <span class="country">Bulgaria</span></p>]
-featured_image: ["cheese the queen logo.png"]
+featured_image: "cheese the queen logo.png"
 draft: false
 pinned: false
 homepage: false

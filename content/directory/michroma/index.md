@@ -12,7 +12,7 @@ regions: [Latin America & Caribbean, US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">U.S. 101 5911</span><br>
 <span class="locality">San Francisco</span>, <span class="administrative-area">California</span> <span class="postal-code">94103</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["CMYK_Degrade_1.png"]
+featured_image: "CMYK_Degrade_1.png"
 draft: false
 pinned: false
 homepage: false

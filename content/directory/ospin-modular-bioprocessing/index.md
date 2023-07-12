@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Berlin</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["ospin-logo-500.png"]
+featured_image: "ospin-logo-500.png"
 draft: false
 pinned: false
 homepage: false

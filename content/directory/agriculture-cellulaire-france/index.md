@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Rue de Rivoli</span><br>
 <span class="postal-code">75004</span> <span class="locality">Paris</span><br>
 <span class="country">France</span></p>]
-featured_image: ["new logo.PNG"]
+featured_image: "new logo.PNG"
 draft: false
 pinned: false
 homepage: false

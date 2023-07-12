@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Airport Way</span><br>
 <span class="locality">Broomfield</span>, <span class="postal-code">80021</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Silk.jpg"]
+featured_image: "Silk.jpg"
 draft: false
 pinned: false
 homepage: false

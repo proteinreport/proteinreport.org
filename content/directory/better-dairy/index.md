@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">The Pav
 <span class="locality">London</span><br>
 <span class="postal-code">SW4 0HY</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["BetterDairy-Logo-Petrol-AW.png"]
+featured_image: "BetterDairy-Logo-Petrol-AW.png"
 draft: false
 pinned: false
 homepage: false

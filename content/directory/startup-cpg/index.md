@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">U.S. 101</span><br>
 <span class="locality">San Francisco</span>, <span class="postal-code">94103</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["startupcpg.jpg"]
+featured_image: "startupcpg.jpg"
 draft: false
 pinned: false
 homepage: false

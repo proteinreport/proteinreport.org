@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Staverenstraat</span><br>
 <span class="postal-code">7418 CJ</span> <span class="locality">Deventer</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["Vegafit logo.png"]
+featured_image: "Vegafit logo.png"
 draft: false
 pinned: false
 homepage: false

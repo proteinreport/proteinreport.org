@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">4th C Main Road</span><br>
 <span class="locality">Bengaluru</span> <span class="postal-code">560043</span><br>
 <span class="country">India</span></p>]
-featured_image: ["Good mylk logo.png"]
+featured_image: "Good mylk logo.png"
 draft: false
 pinned: false
 homepage: false

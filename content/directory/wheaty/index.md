@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Dreifürstensteinstraße</span><br>
 <span class="postal-code">72116</span> <span class="locality">Mössingen</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["Wheaty logo.jpg"]
+featured_image: "Wheaty logo.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Brooklyn Avenue</span><br>
 <span class="postal-code">11216</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["anita's yogurt logo.jpg"]
+featured_image: "anita's yogurt logo.jpg"
 draft: false
 pinned: false
 homepage: false

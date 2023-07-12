@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Edmonton</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["Future Fields_0.png"]
+featured_image: "Future Fields_0.png"
 draft: false
 pinned: false
 homepage: false

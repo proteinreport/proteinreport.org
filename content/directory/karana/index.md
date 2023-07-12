@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Kallang Road</span><br>
 <span class="postal-code">208718</span><br>
 <span class="country">Singapore</span></p>]
-featured_image: ["karana.png"]
+featured_image: "karana.png"
 draft: false
 pinned: false
 homepage: false

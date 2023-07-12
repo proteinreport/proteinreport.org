@@ -10,7 +10,7 @@ business: [Production]
 finance_type: []
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="country">China</span></p>]
-featured_image: ["Screen Shot 2021-04-08 at 1.16.23 PM.png"]
+featured_image: "Screen Shot 2021-04-08 at 1.16.23 PM.png"
 draft: false
 pinned: false
 homepage: false

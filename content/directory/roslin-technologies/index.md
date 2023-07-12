@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Roslin</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["roslin.jpg"]
+featured_image: "roslin.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">South Madison Street</span><br>
 <span class="locality">Burr Ridge</span>, <span class="postal-code">60527</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Milkadamia-Logo-1.jpg"]
+featured_image: "Milkadamia-Logo-1.jpg"
 draft: false
 pinned: false
 homepage: false

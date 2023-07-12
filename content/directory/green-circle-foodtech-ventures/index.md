@@ -12,7 +12,7 @@ regions: [International, US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">John Street 111</span><br>
 <span class="locality">New York</span>, <span class="administrative-area">New York</span> <span class="postal-code">10038</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["GreenCircle PNG CapitalLogo.png"]
+featured_image: "GreenCircle PNG CapitalLogo.png"
 draft: false
 pinned: false
 homepage: false

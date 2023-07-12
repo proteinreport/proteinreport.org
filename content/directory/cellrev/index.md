@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Neville
 <span class="locality">Newcastle upon Tyne</span><br>
 <span class="postal-code">NE1 5DP</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["1653034072700.jpg"]
+featured_image: "1653034072700.jpg"
 draft: false
 pinned: false
 homepage: false

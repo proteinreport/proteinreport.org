@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Upper R
 <span class="locality">London</span><br>
 <span class="postal-code">SW15 2SP</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["higher_steaks_logo_0.jpg"]
+featured_image: "higher_steaks_logo_0.jpg"
 draft: false
 pinned: false
 homepage: false

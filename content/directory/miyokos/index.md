@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Marina Avenue</span><br>
 <span class="locality">Petaluma</span>, <span class="postal-code">94954</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["miyokos_creamery_360x_logo.png"]
+featured_image: "miyokos_creamery_360x_logo.png"
 draft: false
 pinned: false
 homepage: false

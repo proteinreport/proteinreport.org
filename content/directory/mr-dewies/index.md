@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Solano Avenue</span><br>
 <span class="locality">Albany</span>, <span class="postal-code">94706</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Mr Dewie's Cashew creamary logo.jpg"]
+featured_image: "Mr Dewie's Cashew creamary logo.jpg"
 draft: false
 pinned: false
 homepage: false

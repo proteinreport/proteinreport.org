@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Cuneraweg</span><br>
 <span class="postal-code">4051 CE</span> <span class="locality">Ochten</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["Plenti_logo.png"]
+featured_image: "Plenti_logo.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Boulevard Southeast</span><br>
 <span class="locality">Atlanta</span>, <span class="postal-code">30312</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Revolution gelato logo.png"]
+featured_image: "Revolution gelato logo.png"
 draft: false
 pinned: false
 homepage: false

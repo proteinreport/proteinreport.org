@@ -10,7 +10,7 @@ business: [Production]
 finance_type: []
 regions: [US & Canada]
 location: []
-featured_image: ["betterland_logo_black-1920w.png"]
+featured_image: "betterland_logo_black-1920w.png"
 draft: false
 pinned: false
 homepage: false

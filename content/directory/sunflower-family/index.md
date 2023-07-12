@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Northlake Boulevard</span><br>
 <span class="locality">Palm Beach Gardens</span>, <span class="postal-code">33403</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["sunflower family logo.jpg"]
+featured_image: "sunflower family logo.jpg"
 draft: false
 pinned: false
 homepage: false

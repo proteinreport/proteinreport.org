@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Tofustraße</span><br>
 <span class="postal-code">54578</span> <span class="locality">Wiesbaum</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["Tofutown logo.png"]
+featured_image: "Tofutown logo.png"
 draft: false
 pinned: false
 homepage: false

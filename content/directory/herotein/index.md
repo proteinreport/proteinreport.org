@@ -10,7 +10,7 @@ business: [Production]
 finance_type: []
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="country">China</span></p>]
-featured_image: ["HEROTEIN_Logo_Square_White-bg (1).png"]
+featured_image: "HEROTEIN_Logo_Square_White-bg (1).png"
 draft: false
 pinned: false
 homepage: false

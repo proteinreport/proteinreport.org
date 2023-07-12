@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Boulevard Robert-Bourassa</span><br>
 <span class="locality">Montréal</span> <span class="postal-code">H3B</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["Screen Shot 2021-08-02 at 4.17.49 PM.png"]
+featured_image: "Screen Shot 2021-08-02 at 4.17.49 PM.png"
 draft: false
 pinned: false
 homepage: false

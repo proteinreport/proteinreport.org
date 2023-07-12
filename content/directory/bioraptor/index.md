@@ -12,7 +12,7 @@ regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">Ha-Agasim Street 12</span><br>
 <span class="locality">Binyamina-Giv'at Ada</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["Bioraptor Logo.png"]
+featured_image: "Bioraptor Logo.png"
 draft: false
 pinned: false
 homepage: false

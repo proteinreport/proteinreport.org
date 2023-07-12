@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Hamlyns
 <span class="locality">Buckfastleigh</span><br>
 <span class="postal-code">TQ11 0PA</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["Dragonfly foods logo.png"]
+featured_image: "Dragonfly foods logo.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Cochran Road</span><br>
 <span class="locality">Richmond</span>, <span class="postal-code">05477</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Green Slice food logo.jpg"]
+featured_image: "Green Slice food logo.jpg"
 draft: false
 pinned: false
 homepage: false

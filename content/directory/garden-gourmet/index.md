@@ -12,7 +12,7 @@ regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">Abba Eban Street</span><br>
 <span class="locality">Jerusalem</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["Garden Gourmet - logo.png"]
+featured_image: "Garden Gourmet - logo.png"
 draft: false
 pinned: false
 homepage: false

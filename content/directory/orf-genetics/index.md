@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Víkurhvarf</span><br>
 <span class="locality">Kópavogur</span><br>
 <span class="country">Iceland</span></p>]
-featured_image: ["ORF Genetics.png"]
+featured_image: "ORF Genetics.png"
 draft: false
 pinned: false
 homepage: false

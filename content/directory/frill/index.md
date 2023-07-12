@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">London</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["Frill ice cream logo.png"]
+featured_image: "Frill ice cream logo.png"
 draft: false
 pinned: false
 homepage: false

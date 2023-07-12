@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Kazan</span><br>
 <span class="country">Russia</span></p>]
-featured_image: ["artmeat logo.jpg"]
+featured_image: "artmeat logo.jpg"
 draft: false
 pinned: false
 homepage: false

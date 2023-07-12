@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">South Myrtle Avenue</span><br>
 <span class="locality">Monrovia</span>, <span class="postal-code">91016</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Vegetarian Plus logo.png"]
+featured_image: "Vegetarian Plus logo.png"
 draft: false
 pinned: false
 homepage: false

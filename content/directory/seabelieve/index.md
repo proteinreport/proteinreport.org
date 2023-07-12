@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Taylor'
 <span class="locality">Dublin 8</span><br>
 <span class="administrative-area">County Dublin</span><br>
 <span class="country">Ireland</span></p>]
-featured_image: ["plantruption-logo.png"]
+featured_image: "plantruption-logo.png"
 draft: false
 pinned: false
 homepage: false

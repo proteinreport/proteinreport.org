@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Central Avenue</span><br>
 <span class="locality">Boulder</span>, <span class="postal-code">80301</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Good Karma Foods logo.png"]
+featured_image: "Good Karma Foods logo.png"
 draft: false
 pinned: false
 homepage: false

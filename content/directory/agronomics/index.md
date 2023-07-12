@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Paterno
 <span class="locality">London</span><br>
 <span class="postal-code">EC4M 7LS</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["cropped-AGRONOMICS-LOGO-300x0-c-default.png"]
+featured_image: "cropped-AGRONOMICS-LOGO-300x0-c-default.png"
 draft: false
 pinned: false
 homepage: false

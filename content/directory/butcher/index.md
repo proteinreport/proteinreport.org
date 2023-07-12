@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Britannia Boulevard</span><br>
 <span class="locality">San Diego</span>, <span class="postal-code">92154</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Before the Butcher logo.png"]
+featured_image: "Before the Butcher logo.png"
 draft: false
 pinned: false
 homepage: false

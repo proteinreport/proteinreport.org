@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="postal-code">00100</span> <span class="locality">Helsinki</span><br>
 <span class="country">Finland</span></p>]
-featured_image: ["Solar Foods logo.png"]
+featured_image: "Solar Foods logo.png"
 draft: false
 pinned: false
 homepage: false

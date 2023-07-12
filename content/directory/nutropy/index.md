@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Autoroute du Soleil</span><br>
 <span class="postal-code">91080</span> <span class="locality">Évry-Courcouronnes</span><br>
 <span class="country">France</span></p>]
-featured_image: ["Nutropy_logo-BLUE-1536x247.png"]
+featured_image: "Nutropy_logo-BLUE-1536x247.png"
 draft: false
 pinned: false
 homepage: false

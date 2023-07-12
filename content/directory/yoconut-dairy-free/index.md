@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Marina Boulevard</span><br>
 <span class="locality">San Francisco</span>, <span class="postal-code">94123</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Yoconut_Logo_Final_transparent_LORES.png"]
+featured_image: "Yoconut_Logo_Final_transparent_LORES.png"
 draft: false
 pinned: false
 homepage: false

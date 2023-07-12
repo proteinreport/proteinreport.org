@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">East Roanoke Street</span><br>
 <span class="locality">Seattle</span>, <span class="postal-code">98112</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["biocellion logo.png"]
+featured_image: "biocellion logo.png"
 draft: false
 pinned: false
 homepage: false

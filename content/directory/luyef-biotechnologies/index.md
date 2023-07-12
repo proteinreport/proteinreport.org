@@ -12,7 +12,7 @@ regions: [Latin America & Caribbean]
 location: [<p class="address" translate="no"><span class="address-line1">Virginia Opazo</span><br>
 <span class="locality">Santiago</span><br>
 <span class="country">Chile</span></p>]
-featured_image: ["LUYEF2 LOGO.jpg"]
+featured_image: "LUYEF2 LOGO.jpg"
 draft: false
 pinned: false
 homepage: false

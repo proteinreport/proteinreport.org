@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Am Mühlenberg 11</span><br>
 <span class="postal-code">14476</span> <span class="locality">Potsdam</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["pq.jpg"]
+featured_image: "pq.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -11,7 +11,7 @@ finance_type: [Accelerator]
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">San Mateo</span>, <span class="administrative-area">California</span> <span class="postal-code">94401</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Kitchentown_Logo_Gray_0.png"]
+featured_image: "Kitchentown_Logo_Gray_0.png"
 draft: false
 pinned: false
 homepage: false

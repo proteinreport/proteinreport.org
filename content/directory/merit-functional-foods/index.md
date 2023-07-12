@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Main Street</span><br>
 <span class="locality">Winnipeg</span> <span class="postal-code">R3C 4T3</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["Merit_Logo_Full-Color_highres.jpg"]
+featured_image: "Merit_Logo_Full-Color_highres.jpg"
 draft: false
 pinned: false
 homepage: false

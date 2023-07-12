@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="locality">Jainapur</span> <span class="postal-code">416101</span><br>
 <span class="administrative-area">Maharashtra</span><br>
 <span class="country">India</span></p>]
-featured_image: ["biobritte logo.png"]
+featured_image: "biobritte logo.png"
 draft: false
 pinned: false
 homepage: false

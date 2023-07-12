@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Kaistraße</span><br>
 <span class="postal-code">40221</span> <span class="locality">Düsseldorf</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["LM_Logo-NEU_RGB_800PIX_082017.png"]
+featured_image: "LM_Logo-NEU_RGB_800PIX_082017.png"
 draft: false
 pinned: false
 homepage: false

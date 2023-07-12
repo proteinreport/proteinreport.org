@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Rue Belliard</span><br>
 <span class="postal-code">1000</span> <span class="locality">Bruxelles</span><br>
 <span class="country">Belgium</span></p>]
-featured_image: ["a4-papier-2.png"]
+featured_image: "a4-papier-2.png"
 draft: false
 pinned: false
 homepage: false

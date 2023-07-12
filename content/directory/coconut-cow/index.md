@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Ceely R
 <span class="locality">Aylesbury</span><br>
 <span class="postal-code">HP21 8JA</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["The coconut cow.png"]
+featured_image: "The coconut cow.png"
 draft: false
 pinned: false
 homepage: false

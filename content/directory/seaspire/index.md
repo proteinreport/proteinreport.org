@@ -11,7 +11,7 @@ finance_type: []
 regions: [Asia, Oceania]
 location: [<p class="address" translate="no"><span class="locality">Mumbai</span> <span class="postal-code">400070</span><br>
 <span class="country">India</span></p>]
-featured_image: ["seaspireimg.png"]
+featured_image: "seaspireimg.png"
 draft: false
 pinned: false
 homepage: false

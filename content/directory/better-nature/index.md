@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">London</span><br>
 <span class="postal-code">of Freedom#8573311~!#</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["bn.jpg"]
+featured_image: "bn.jpg"
 draft: false
 pinned: false
 homepage: false

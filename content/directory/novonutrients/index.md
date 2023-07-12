@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Anvilwood Court</span><br>
 <span class="locality">Sunnyvale</span>, <span class="postal-code">94089</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["nn.png"]
+featured_image: "nn.png"
 draft: false
 pinned: false
 homepage: false

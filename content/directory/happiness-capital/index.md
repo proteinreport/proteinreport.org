@@ -10,7 +10,7 @@ business: [Finance]
 finance_type: [Venture Capital]
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="country">Hong Kong SAR China</span></p>]
-featured_image: ["logo.dcdb01bd.png"]
+featured_image: "logo.dcdb01bd.png"
 draft: false
 pinned: false
 homepage: false

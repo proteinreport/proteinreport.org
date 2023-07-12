@@ -10,7 +10,7 @@ business: [Production]
 finance_type: []
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="country">China</span></p>]
-featured_image: ["logo_1.png"]
+featured_image: "logo_1.png"
 draft: false
 pinned: false
 homepage: false

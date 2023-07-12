@@ -12,7 +12,7 @@ regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">David Fikes Street 5</span><br>
 <span class="locality">Rehovot</span> <span class="postal-code">7632805</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["sh.png"]
+featured_image: "sh.png"
 draft: false
 pinned: false
 homepage: false

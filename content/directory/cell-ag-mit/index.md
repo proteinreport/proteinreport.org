@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Cambridge</span>, <span class="postal-code">02138</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["cellagmit.jpg"]
+featured_image: "cellagmit.jpg"
 draft: false
 pinned: false
 homepage: false

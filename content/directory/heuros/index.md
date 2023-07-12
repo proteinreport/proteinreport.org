@@ -12,7 +12,7 @@ regions: [Oceania]
 location: [<p class="address" translate="no"><span class="address-line1">Cordelia Street</span><br>
 <span class="locality">South Brisbane</span> <span class="postal-code">4101</span><br>
 <span class="country">Australia</span></p>]
-featured_image: ["Heuros logo_0.jpg"]
+featured_image: "Heuros logo_0.jpg"
 draft: false
 pinned: false
 homepage: false

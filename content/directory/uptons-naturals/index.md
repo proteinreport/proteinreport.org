@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">West Grand Avenue</span><br>
 <span class="locality">Chicago</span>, <span class="postal-code">60612</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Upton's naturals logo.jpg"]
+featured_image: "Upton's naturals logo.jpg"
 draft: false
 pinned: false
 homepage: false

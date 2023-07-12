@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">West Pender Street 789</span><br>
 <span class="locality">Vancouver</span> <span class="administrative-area">British Columbia</span> <span class="postal-code">V6C 1H2</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["cult.png"]
+featured_image: "cult.png"
 draft: false
 pinned: false
 homepage: false

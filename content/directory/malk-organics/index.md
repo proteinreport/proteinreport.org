@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Kirby Drive</span><br>
 <span class="locality">Houston</span>, <span class="postal-code">77098</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Malk logo.jpg"]
+featured_image: "Malk logo.jpg"
 draft: false
 pinned: false
 homepage: false

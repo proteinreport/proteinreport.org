@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Rue Pierre Fontaine</span><br>
 <span class="postal-code">91000</span> <span class="locality">Évry</span><br>
 <span class="country">France</span></p>]
-featured_image: ["algama.png"]
+featured_image: "algama.png"
 draft: false
 pinned: false
 homepage: false

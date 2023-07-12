@@ -11,7 +11,7 @@ finance_type: []
 regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["yemoja-grn.png"]
+featured_image: "yemoja-grn.png"
 draft: false
 pinned: false
 homepage: false

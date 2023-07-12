@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Menlo Park</span>,<br>
 <span class="country">United States</span></p>]
-featured_image: ["calysta.jpg"]
+featured_image: "calysta.jpg"
 draft: false
 pinned: false
 homepage: false

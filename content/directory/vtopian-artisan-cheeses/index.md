@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Southwest Jefferson Street</span><br>
 <span class="locality">Portland</span>, <span class="postal-code">97201</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["v-color.png"]
+featured_image: "v-color.png"
 draft: false
 pinned: false
 homepage: false

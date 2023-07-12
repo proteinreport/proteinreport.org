@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Bothoekweg</span><br>
 <span class="postal-code">7115 AK</span> <span class="locality">Winterswijk Brinkheurne</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["celltrainer-logo.png"]
+featured_image: "celltrainer-logo.png"
 draft: false
 pinned: false
 homepage: false

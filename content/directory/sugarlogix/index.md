@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Webster Street</span><br>
 <span class="locality">Oakland</span>, <span class="postal-code">94609</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["sugarlogix7.png"]
+featured_image: "sugarlogix7.png"
 draft: false
 pinned: false
 homepage: false

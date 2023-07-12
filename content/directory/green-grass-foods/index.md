@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Southeast Eastgate Way</span><br>
 <span class="locality">Bellevue</span>, <span class="postal-code">98008</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["nutpods logo.png"]
+featured_image: "nutpods logo.png"
 draft: false
 pinned: false
 homepage: false

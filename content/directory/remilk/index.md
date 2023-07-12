@@ -12,7 +12,7 @@ regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">Beit Eshel Street</span><br>
 <span class="locality">Tel Aviv-Yafo</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["remilk.png"]
+featured_image: "remilk.png"
 draft: false
 pinned: false
 homepage: false

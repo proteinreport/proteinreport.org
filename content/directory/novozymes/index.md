@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Krogshøjvej</span><br>
 <span class="postal-code">2880</span> <span class="locality">Bagsværd</span><br>
 <span class="country">Denmark</span></p>]
-featured_image: ["novozymes_logo_purple.png"]
+featured_image: "novozymes_logo_purple.png"
 draft: false
 pinned: false
 homepage: false

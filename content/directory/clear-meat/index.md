@@ -11,7 +11,7 @@ finance_type: []
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="locality">Delhi</span> <span class="postal-code">110041</span><br>
 <span class="country">India</span></p>]
-featured_image: ["ClearMeat-logo_0.png"]
+featured_image: "ClearMeat-logo_0.png"
 draft: false
 pinned: false
 homepage: false

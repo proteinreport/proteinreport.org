@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Oxfordlaan</span><br>
 <span class="postal-code">6229 EV</span> <span class="locality">Maastricht</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["logo-horizontal-def_0.png"]
+featured_image: "logo-horizontal-def_0.png"
 draft: false
 pinned: false
 homepage: false

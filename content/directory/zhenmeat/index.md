@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Zhengyi Road</span><br>
 <span class="postal-code">100007</span><br>
 <span class="country">China</span></p>]
-featured_image: ["Zhenmeat - logo_footer2.png"]
+featured_image: "Zhenmeat - logo_footer2.png"
 draft: false
 pinned: false
 homepage: false

@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Pencrof
 <span class="locality">Manchester</span><br>
 <span class="postal-code">M15 6GZ</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["bright-biotech_logo-02@4x.png"]
+featured_image: "bright-biotech_logo-02@4x.png"
 draft: false
 pinned: false
 homepage: false

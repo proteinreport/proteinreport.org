@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">San Pablo Avenue 2988</span><br>
 <span class="locality">Berkeley</span>, <span class="administrative-area">California</span> <span class="postal-code">94702</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["BLACK-WHITE.png"]
+featured_image: "BLACK-WHITE.png"
 draft: false
 pinned: false
 homepage: false

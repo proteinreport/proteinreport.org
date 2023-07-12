@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Saint A
 <span class="locality">Cambridge</span><br>
 <span class="postal-code">CB2 3BU</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["1612454136801.jpg"]
+featured_image: "1612454136801.jpg"
 draft: false
 pinned: false
 homepage: false

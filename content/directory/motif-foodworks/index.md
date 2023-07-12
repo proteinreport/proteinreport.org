@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Drydock Avenue</span><br>
 <span class="locality">Boston</span>, <span class="postal-code">02210</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["motif-foodworks.png"]
+featured_image: "motif-foodworks.png"
 draft: false
 pinned: false
 homepage: false

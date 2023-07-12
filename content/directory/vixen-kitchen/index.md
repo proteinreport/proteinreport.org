@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Garberville</span>, <span class="administrative-area">California</span> <span class="postal-code">95542</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Vixen-Kitchen-Logo.png"]
+featured_image: "Vixen-Kitchen-Logo.png"
 draft: false
 pinned: false
 homepage: false

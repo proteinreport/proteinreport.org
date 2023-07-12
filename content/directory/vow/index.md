@@ -11,7 +11,7 @@ finance_type: []
 regions: [Asia, Oceania]
 location: [<p class="address" translate="no"><span class="locality">North Parramatta</span><br>
 <span class="country">Australia</span></p>]
-featured_image: ["logo-only-square.png"]
+featured_image: "logo-only-square.png"
 draft: false
 pinned: false
 homepage: false

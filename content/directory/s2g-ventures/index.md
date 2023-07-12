@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">North Carpenter Street</span><br>
 <span class="locality">Chicago</span>, <span class="postal-code">60607</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["s2gventures logo.png"]
+featured_image: "s2gventures logo.png"
 draft: false
 pinned: false
 homepage: false

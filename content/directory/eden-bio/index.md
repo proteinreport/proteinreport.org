@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Wood La
 <span class="locality">London</span><br>
 <span class="postal-code">W12 7RZ</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["edenbio.png"]
+featured_image: "edenbio.png"
 draft: false
 pinned: false
 homepage: false

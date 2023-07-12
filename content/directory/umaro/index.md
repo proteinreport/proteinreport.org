@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Berkeley</span>, <span class="administrative-area">California</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["UMARO_Logo_Red.png"]
+featured_image: "UMARO_Logo_Red.png"
 draft: false
 pinned: false
 homepage: false

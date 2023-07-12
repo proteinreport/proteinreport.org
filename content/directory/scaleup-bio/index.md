@@ -11,7 +11,7 @@ finance_type: []
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="postal-code">858877</span><br>
 <span class="country">Singapore</span></p>]
-featured_image: ["scaleup.png"]
+featured_image: "scaleup.png"
 draft: false
 pinned: false
 homepage: false

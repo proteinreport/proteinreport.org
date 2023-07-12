@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Southeast Hawthorne Road</span><br>
 <span class="locality">Gainesville</span>, <span class="postal-code">32641</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["bio tork logo.png"]
+featured_image: "bio tork logo.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Sukhumvit Road</span><br>
 <span class="postal-code">10260</span><br>
 <span class="country">Thailand</span></p>]
-featured_image: ["logo_0.png"]
+featured_image: "logo_0.png"
 draft: false
 pinned: false
 homepage: false

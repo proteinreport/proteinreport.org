@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Tower Place</span><br>
 <span class="locality">South San Francisco</span>, <span class="postal-code">94080</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["EVERY_LOGO_BLACK_0.png"]
+featured_image: "EVERY_LOGO_BLACK_0.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Tribseeser Chaussee</span><br>
 <span class="postal-code">18507</span> <span class="locality">Grimmen</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["luve.jpg"]
+featured_image: "luve.jpg"
 draft: false
 pinned: false
 homepage: false

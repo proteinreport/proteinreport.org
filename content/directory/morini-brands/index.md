@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">West South Street</span><br>
 <span class="locality">Orlando</span>, <span class="postal-code">32801</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["morini brands logo.png"]
+featured_image: "morini brands logo.png"
 draft: false
 pinned: false
 homepage: false

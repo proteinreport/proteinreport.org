@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Wageningen</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["Fumi ingredients logo.png"]
+featured_image: "Fumi ingredients logo.png"
 draft: false
 pinned: false
 homepage: false

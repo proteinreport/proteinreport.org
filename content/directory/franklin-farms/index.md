@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Meeting House Hill Road</span><br>
 <span class="locality">Franklin</span>, <span class="postal-code">06254</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Franklin-Farms-Logo-Final.png"]
+featured_image: "Franklin-Farms-Logo-Final.png"
 draft: false
 pinned: false
 homepage: false

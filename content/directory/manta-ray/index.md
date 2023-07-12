@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Fulham 
 <span class="locality">London</span><br>
 <span class="postal-code">SW3 6RD</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["logo.png"]
+featured_image: "logo.png"
 draft: false
 pinned: false
 homepage: false

@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Field S
 <span class="locality">Durban</span><br>
 <span class="postal-code">4001</span><br>
 <span class="country">South Africa</span></p>]
-featured_image: ["Fry's logo.png"]
+featured_image: "Fry's logo.png"
 draft: false
 pinned: false
 homepage: false

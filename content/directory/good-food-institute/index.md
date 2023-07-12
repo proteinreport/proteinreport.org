@@ -11,7 +11,7 @@ finance_type: [Research Grants]
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Washington</span>, <span class="postal-code">20036</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["gfi logo_0.png"]
+featured_image: "gfi logo_0.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Tekniikantie 2</span><br>
 <span class="postal-code">02150</span> <span class="locality">Espoo</span><br>
 <span class="country">Finland</span></p>]
-featured_image: ["Logo+small.jpg"]
+featured_image: "Logo+small.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Heinz Avenue</span><br>
 <span class="locality">Berkeley</span>, <span class="postal-code">94710</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["static1.squarespace.png"]
+featured_image: "static1.squarespace.png"
 draft: false
 pinned: false
 homepage: false

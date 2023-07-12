@@ -12,7 +12,7 @@ regions: [Oceania]
 location: [<p class="address" translate="no"><span class="address-line1">Leonard Isitt Drive</span><br>
 <span class="locality">Auckland</span> <span class="postal-code">2022</span><br>
 <span class="country">New Zealand</span></p>]
-featured_image: ["sunfed-logo-e1510805056521.jpg"]
+featured_image: "sunfed-logo-e1510805056521.jpg"
 draft: false
 pinned: false
 homepage: false

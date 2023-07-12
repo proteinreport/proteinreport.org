@@ -12,7 +12,7 @@ regions: [Oceania]
 location: [<p class="address" translate="no"><span class="address-line1">Belmont Road West</span><br>
 <span class="locality">Croydon South</span> <span class="postal-code">3136</span><br>
 <span class="country">Australia</span></p>]
-featured_image: ["Unreal co logo.png"]
+featured_image: "Unreal co logo.png"
 draft: false
 pinned: false
 homepage: false

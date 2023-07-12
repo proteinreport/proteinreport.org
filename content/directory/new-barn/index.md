@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Alta Avenue</span><br>
 <span class="locality">Rohnert Park</span>, <span class="postal-code">94928</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["nbo.jpg"]
+featured_image: "nbo.jpg"
 draft: false
 pinned: false
 homepage: false

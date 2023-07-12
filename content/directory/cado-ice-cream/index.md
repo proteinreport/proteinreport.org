@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">East Broadway Avenue</span><br>
 <span class="locality">Fairfield</span>, <span class="postal-code">52556</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["cado icecream.jpg"]
+featured_image: "cado icecream.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="locality">Muju</span><br>
 <span class="postal-code">568-810</span><br>
 <span class="country">South Korea</span></p>]
-featured_image: ["logo.png"]
+featured_image: "logo.png"
 draft: false
 pinned: false
 homepage: false

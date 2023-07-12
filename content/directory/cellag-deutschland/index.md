@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">B5</span><br>
 <span class="postal-code">10178</span> <span class="locality">Berlin</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["CellAg Logo (3)_0.png"]
+featured_image: "CellAg Logo (3)_0.png"
 draft: false
 pinned: false
 homepage: false

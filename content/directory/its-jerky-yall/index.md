@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Crossroads Drive</span><br>
 <span class="locality">Redding</span>, <span class="postal-code">96003</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["all Y'alls logo.png"]
+featured_image: "all Y'alls logo.png"
 draft: false
 pinned: false
 homepage: false

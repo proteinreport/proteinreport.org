@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Nelson 
 <span class="locality">Pretoria</span><br>
 <span class="postal-code">1050</span><br>
 <span class="country">South Africa</span></p>]
-featured_image: ["mmc.png"]
+featured_image: "mmc.png"
 draft: false
 pinned: false
 homepage: false

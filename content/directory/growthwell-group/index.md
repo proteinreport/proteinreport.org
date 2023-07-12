@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Tai Seng Avenue</span><br>
 <span class="postal-code">534409</span><br>
 <span class="country">Singapore</span></p>]
-featured_image: ["growthwell_0.png"]
+featured_image: "growthwell_0.png"
 draft: false
 pinned: false
 homepage: false

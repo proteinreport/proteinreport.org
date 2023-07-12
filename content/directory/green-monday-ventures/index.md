@@ -11,7 +11,7 @@ finance_type: [Venture Capital]
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Wang Yuen Street</span><br>
 <span class="country">Hong Kong SAR China</span></p>]
-featured_image: ["green-monday-logo-2.png"]
+featured_image: "green-monday-logo-2.png"
 draft: false
 pinned: false
 homepage: false

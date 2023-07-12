@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Bebelstraße</span><br>
 <span class="postal-code">79108</span> <span class="locality">Freiburg im Breisgau</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["Taifun tofu logo.png"]
+featured_image: "Taifun tofu logo.png"
 draft: false
 pinned: false
 homepage: false

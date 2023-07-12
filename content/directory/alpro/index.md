@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Sint-Michielsstraat</span><br>
 <span class="postal-code">9000</span> <span class="locality">Gent</span><br>
 <span class="country">Belgium</span></p>]
-featured_image: ["alpro.png"]
+featured_image: "alpro.png"
 draft: false
 pinned: false
 homepage: false

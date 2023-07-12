@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">London</span><br>
 <span class="postal-code">WC2N 5DU</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["hoxton-farms-logo.png"]
+featured_image: "hoxton-farms-logo.png"
 draft: false
 pinned: false
 homepage: false

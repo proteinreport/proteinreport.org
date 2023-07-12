@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="locality">Kumamoto</span>,<br>
 <span class="postal-code">860-0812</span><br>
 <span class="country">Japan</span></p>]
-featured_image: ["daiz.png"]
+featured_image: "daiz.png"
 draft: false
 pinned: false
 homepage: false

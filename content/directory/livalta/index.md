@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Riverga
 <span class="locality">Peterborough</span><br>
 <span class="postal-code">PE1 1ED</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["livalta-blue-green-tagline.png"]
+featured_image: "livalta-blue-green-tagline.png"
 draft: false
 pinned: false
 homepage: false

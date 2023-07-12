@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Genthiner Straße</span><br>
 <span class="postal-code">10785</span> <span class="locality">Berlin</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["pv.jpg"]
+featured_image: "pv.jpg"
 draft: false
 pinned: false
 homepage: false

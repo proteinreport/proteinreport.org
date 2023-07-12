@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Humboldtplatz</span><br>
 <span class="postal-code">48429</span> <span class="locality">Rheine</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["gsvlogo.png"]
+featured_image: "gsvlogo.png"
 draft: false
 pinned: false
 homepage: false

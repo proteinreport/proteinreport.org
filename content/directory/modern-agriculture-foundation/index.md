@@ -11,7 +11,7 @@ finance_type: []
 regions: [Middle East]
 location: [<p class="address" translate="no"><span class="locality">Modi'in Makabim-Re'ut</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["horizontal logo.PNG"]
+featured_image: "horizontal logo.PNG"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Burgstraat</span><br>
 <span class="postal-code">4283 GG</span> <span class="locality">Giessen</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["Schouten logo.png"]
+featured_image: "Schouten logo.png"
 draft: false
 pinned: false
 homepage: false

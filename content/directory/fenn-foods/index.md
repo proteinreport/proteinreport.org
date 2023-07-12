@@ -11,7 +11,7 @@ finance_type: []
 regions: [Oceania]
 location: [<p class="address" translate="no"><span class="locality">Maxwelton</span> <span class="postal-code">4822</span><br>
 <span class="country">Australia</span></p>]
-featured_image: ["fenn-logo.png"]
+featured_image: "fenn-logo.png"
 draft: false
 pinned: false
 homepage: false

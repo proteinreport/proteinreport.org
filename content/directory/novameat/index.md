@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Carrer de la Canuda</span><br>
 <span class="postal-code">08002</span> <span class="locality">Barcelona</span><br>
 <span class="country">Spain</span></p>]
-featured_image: ["novameat.jpg"]
+featured_image: "novameat.jpg"
 draft: false
 pinned: false
 homepage: false

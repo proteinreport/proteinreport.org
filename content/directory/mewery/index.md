@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Moravské náměstí 13</span><br>
 <span class="postal-code">602 00</span><br>
 <span class="country">Czechia</span></p>]
-featured_image: ["2h1JT-9m_400x400.jpg"]
+featured_image: "2h1JT-9m_400x400.jpg"
 draft: false
 pinned: false
 homepage: false

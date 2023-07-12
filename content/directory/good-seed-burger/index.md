@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Congress Avenue</span><br>
 <span class="locality">Austin</span>, <span class="postal-code">78701</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Good Seed logo.png"]
+featured_image: "Good Seed logo.png"
 draft: false
 pinned: false
 homepage: false

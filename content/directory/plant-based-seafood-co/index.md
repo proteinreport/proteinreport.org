@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Old Ferry Road</span><br>
 <span class="locality">Gwynn</span>, <span class="postal-code">23064</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["VC_PBFC_logo_stacked_1000x_0.jpg"]
+featured_image: "VC_PBFC_logo_stacked_1000x_0.jpg"
 draft: false
 pinned: false
 homepage: false

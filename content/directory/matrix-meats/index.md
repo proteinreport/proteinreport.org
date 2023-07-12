@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">East Capital Street</span><br>
 <span class="locality">Columbus</span>, <span class="postal-code">43215</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["MatrixMeats+Logo-08.png"]
+featured_image: "MatrixMeats+Logo-08.png"
 draft: false
 pinned: false
 homepage: false

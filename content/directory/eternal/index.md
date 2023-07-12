@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Arenale
 <span class="postal-code">C1061</span> <span class="locality">AAS</span><br>
 <span class="administrative-area">Buenos Aires</span><br>
 <span class="country">Argentina</span></p>]
-featured_image: ["dZWRdv0A_400x400.jpg"]
+featured_image: "dZWRdv0A_400x400.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Herrengasse</span><br>
 <span class="postal-code">8010</span> <span class="locality">Graz</span><br>
 <span class="country">Austria</span></p>]
-featured_image: ["picture.jpg"]
+featured_image: "picture.jpg"
 draft: false
 pinned: false
 homepage: false

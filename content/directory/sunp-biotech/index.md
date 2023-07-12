@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Cherry Hill</span>,<br>
 <span class="country">United States</span></p>]
-featured_image: ["SunP biotech logo.png"]
+featured_image: "SunP biotech logo.png"
 draft: false
 pinned: false
 homepage: false

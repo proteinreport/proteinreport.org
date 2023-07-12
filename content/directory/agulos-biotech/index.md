@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Lake Mills</span>,<br>
 <span class="country">United States</span></p>]
-featured_image: ["agulos logo.png"]
+featured_image: "agulos logo.png"
 draft: false
 pinned: false
 homepage: false

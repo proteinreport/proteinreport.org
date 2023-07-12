@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Azalea Place Southeast</span><br>
 <span class="locality">Aiken</span>, <span class="postal-code">29801</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["lavva logo.jpg"]
+featured_image: "lavva logo.jpg"
 draft: false
 pinned: false
 homepage: false

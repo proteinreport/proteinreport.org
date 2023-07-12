@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Ottawa</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["Incuvers logo.png"]
+featured_image: "Incuvers logo.png"
 draft: false
 pinned: false
 homepage: false

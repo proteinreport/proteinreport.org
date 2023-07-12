@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Fair Drive</span><br>
 <span class="locality">Costa Mesa</span>, <span class="postal-code">92626</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["abbots-butcher-logo.png"]
+featured_image: "abbots-butcher-logo.png"
 draft: false
 pinned: false
 homepage: false

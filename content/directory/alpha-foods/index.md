@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">West Mountain Street</span><br>
 <span class="locality">Glendale</span>, <span class="postal-code">91201</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Alpha foods logo.jpg"]
+featured_image: "Alpha foods logo.jpg"
 draft: false
 pinned: false
 homepage: false

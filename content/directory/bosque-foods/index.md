@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Broadway 254</span><br>
 <span class="locality">New York</span>, <span class="administrative-area">New York</span> <span class="postal-code">10007</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["bf.jpg"]
+featured_image: "bf.jpg"
 draft: false
 pinned: false
 homepage: false

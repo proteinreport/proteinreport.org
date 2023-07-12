@@ -12,7 +12,7 @@ regions: [Latin America & Caribbean]
 location: [<p class="address" translate="no"><span class="address-line1">Parque Dom Pedro II</span><br>
 <span class="postal-code">01022-050</span><br>
 <span class="country">Brazil</span></p>]
-featured_image: ["Logo-1.png"]
+featured_image: "Logo-1.png"
 draft: false
 pinned: false
 homepage: false

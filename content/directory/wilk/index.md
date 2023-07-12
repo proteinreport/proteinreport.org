@@ -12,7 +12,7 @@ regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">Bnei Moshe Street</span><br>
 <span class="locality">Rehovot</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["Logo white_0.jpg"]
+featured_image: "Logo white_0.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Commerce</span>, <span class="postal-code">90040</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["nonfood.png"]
+featured_image: "nonfood.png"
 draft: false
 pinned: false
 homepage: false

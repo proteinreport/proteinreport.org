@@ -12,7 +12,7 @@ regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">Avraham Rozenman Street</span><br>
 <span class="locality">Netivot</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["Hinoman logo.jpg"]
+featured_image: "Hinoman logo.jpg"
 draft: false
 pinned: false
 homepage: false

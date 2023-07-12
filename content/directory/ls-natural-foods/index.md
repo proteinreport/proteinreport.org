@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Eastex Freeway Service Road</span><br>
 <span class="locality">Porter</span>, <span class="postal-code">77365</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["ls natural foods logo.png"]
+featured_image: "ls natural foods logo.png"
 draft: false
 pinned: false
 homepage: false

@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Denver</span>, <span class="postal-code">80202</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["qrunch-organics.jpg"]
+featured_image: "qrunch-organics.jpg"
 draft: false
 pinned: false
 homepage: false

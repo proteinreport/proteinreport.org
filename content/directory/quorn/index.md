@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Station
 <span class="locality">Middlesbrough</span><br>
 <span class="postal-code">TS9 7AA</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["xquorn_logo_0.png"]
+featured_image: "xquorn_logo_0.png"
 draft: false
 pinned: false
 homepage: false

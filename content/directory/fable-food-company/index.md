@@ -12,7 +12,7 @@ regions: [Oceania]
 location: [<p class="address" translate="no"><span class="address-line1">Oceanic Drive</span><br>
 <span class="locality">Warana</span> <span class="postal-code">4575</span><br>
 <span class="country">Australia</span></p>]
-featured_image: ["fable.png"]
+featured_image: "fable.png"
 draft: false
 pinned: false
 homepage: false

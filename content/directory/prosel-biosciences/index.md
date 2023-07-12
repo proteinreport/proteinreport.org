@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Paseo del Sol 3900</span><br>
 <span class="locality">Santa Fe</span>, <span class="administrative-area">New Mexico</span> <span class="postal-code">87507</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["newlogo-1.png"]
+featured_image: "newlogo-1.png"
 draft: false
 pinned: false
 homepage: false

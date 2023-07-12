@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Madison Street</span><br>
 <span class="locality">Seattle</span>, <span class="postal-code">98164</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["CR_Logo_Tagline_Lockup_RGB_Horizontal.png"]
+featured_image: "CR_Logo_Tagline_Lockup_RGB_Horizontal.png"
 draft: false
 pinned: false
 homepage: false

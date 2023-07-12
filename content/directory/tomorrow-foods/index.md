@@ -12,7 +12,7 @@ regions: [Latin America & Caribbean]
 location: [<p class="address" translate="no"><span class="address-line1">Castelli</span><br>
 <span class="locality">Pergamino</span><br>
 <span class="country">Argentina</span></p>]
-featured_image: ["tomorrow foods logo-cortado.png"]
+featured_image: "tomorrow foods logo-cortado.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Latin America & Caribbean]
 location: [<p class="address" translate="no"><span class="address-line1">Rua do Prensista</span><br>
 <span class="postal-code">37200-000</span><br>
 <span class="country">Brazil</span></p>]
-featured_image: ["vida veg. logo.png"]
+featured_image: "vida veg. logo.png"
 draft: false
 pinned: false
 homepage: false

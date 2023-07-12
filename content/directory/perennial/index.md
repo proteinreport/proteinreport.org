@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Wilshire Boulevard</span><br>
 <span class="locality">Los Angeles</span>, <span class="postal-code">90025</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Perennial logo.png"]
+featured_image: "Perennial logo.png"
 draft: false
 pinned: false
 homepage: false

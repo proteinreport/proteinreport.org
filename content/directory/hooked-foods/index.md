@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Bråvallavägen</span><br>
 <span class="postal-code">131 47</span> <span class="locality">Nacka</span><br>
 <span class="country">Sweden</span></p>]
-featured_image: ["hooked.jpg"]
+featured_image: "hooked.jpg"
 draft: false
 pinned: false
 homepage: false

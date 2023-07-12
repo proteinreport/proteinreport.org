@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Gustav Adolfs torg</span><br>
 <span class="postal-code">111 52</span> <span class="locality">Stockholm</span><br>
 <span class="country">Sweden</span></p>]
-featured_image: ["VegMe logo.png"]
+featured_image: "VegMe logo.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Tödistrasse</span><br>
 <span class="postal-code">8002</span> <span class="locality">Zürich</span><br>
 <span class="country">Switzerland</span></p>]
-featured_image: ["bhv_logo-blue.png"]
+featured_image: "bhv_logo-blue.png"
 draft: false
 pinned: false
 homepage: false

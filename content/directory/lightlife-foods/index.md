@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Lightlife Way</span><br>
 <span class="locality">Montague</span>, <span class="postal-code">01376</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Lightlife Red_Logo.jpg"]
+featured_image: "Lightlife Red_Logo.jpg"
 draft: false
 pinned: false
 homepage: false

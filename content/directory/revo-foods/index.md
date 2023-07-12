@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Stephansplatz</span><br>
 <span class="postal-code">1010</span> <span class="locality">Wien</span><br>
 <span class="country">Austria</span></p>]
-featured_image: ["1612354485736.jpg"]
+featured_image: "1612354485736.jpg"
 draft: false
 pinned: false
 homepage: false

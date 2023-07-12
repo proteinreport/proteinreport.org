@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Charlottesville</span>,<br>
 <span class="country">United States</span></p>]
-featured_image: ["No Bull burger logo.png"]
+featured_image: "No Bull burger logo.png"
 draft: false
 pinned: false
 homepage: false

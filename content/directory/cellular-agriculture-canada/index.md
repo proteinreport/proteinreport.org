@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Regina Street South</span><br>
 <span class="locality">Waterloo</span> <span class="postal-code">N2J</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["cac.jpg"]
+featured_image: "cac.jpg"
 draft: false
 pinned: false
 homepage: false

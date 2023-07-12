@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Passatge de Gaiolà</span><br>
 <span class="postal-code">08013</span> <span class="locality">Barcelona</span><br>
 <span class="country">Spain</span></p>]
-featured_image: ["heura logo.png"]
+featured_image: "heura logo.png"
 draft: false
 pinned: false
 homepage: false

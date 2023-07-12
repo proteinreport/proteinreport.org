@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Steward Road</span><br>
 <span class="locality">Monson</span>, <span class="postal-code">04464</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["freshies organic food logo.jpg"]
+featured_image: "freshies organic food logo.jpg"
 draft: false
 pinned: false
 homepage: false

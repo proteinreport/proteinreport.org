@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Thomaskirchhof</span><br>
 <span class="postal-code">04109</span> <span class="locality">Leipzig</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["alife2.jpg"]
+featured_image: "alife2.jpg"
 draft: false
 pinned: false
 homepage: false

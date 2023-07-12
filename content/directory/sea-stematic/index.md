@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Von Wie
 <span class="locality">Johannesburg</span><br>
 <span class="postal-code">2001</span><br>
 <span class="country">South Africa</span></p>]
-featured_image: ["1620040113576.jpg"]
+featured_image: "1620040113576.jpg"
 draft: false
 pinned: false
 homepage: false

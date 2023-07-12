@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">正义路 2</span><br>
 <span class="administrative-area">Bei Jing Shi</span>, <span class="postal-code">100051</span><br>
 <span class="country">China</span></p>]
-featured_image: ["Marvelous+Foods+logo+-+Long.png"]
+featured_image: "Marvelous+Foods+logo+-+Long.png"
 draft: false
 pinned: false
 homepage: false

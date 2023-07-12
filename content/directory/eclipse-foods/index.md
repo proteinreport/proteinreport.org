@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Martin Luther King Junior Way</span><br>
 <span class="locality">Berkeley</span>, <span class="postal-code">94704</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["eclipse.jpg"]
+featured_image: "eclipse.jpg"
 draft: false
 pinned: false
 homepage: false

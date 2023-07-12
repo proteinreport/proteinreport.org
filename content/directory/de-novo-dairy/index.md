@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">R102 66
 <span class="locality">Cape Town</span><br>
 <span class="postal-code">7915</span><br>
 <span class="country">South Africa</span></p>]
-featured_image: ["KzRWCOdz_400x400.jpg"]
+featured_image: "KzRWCOdz_400x400.jpg"
 draft: false
 pinned: false
 homepage: false

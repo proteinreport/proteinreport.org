@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Ulitsa 
 <span class="locality">Maloyaroslavets</span><br>
 <span class="postal-code">249096</span><br>
 <span class="country">Russia</span></p>]
-featured_image: ["Greenwise logo2.png"]
+featured_image: "Greenwise logo2.png"
 draft: false
 pinned: false
 homepage: false

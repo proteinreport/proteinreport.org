@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Saint Patrick's Street</span><br>
 <span class="locality">Cork</span><br>
 <span class="country">Ireland</span></p>]
-featured_image: ["plantedit.png"]
+featured_image: "plantedit.png"
 draft: false
 pinned: false
 homepage: false

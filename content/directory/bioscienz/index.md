@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Loopschansstraat</span><br>
 <span class="postal-code">4817 KW</span> <span class="locality">Breda</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["BioscienZ logo.png"]
+featured_image: "BioscienZ logo.png"
 draft: false
 pinned: false
 homepage: false

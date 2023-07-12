@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Amsterdam</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["Photanol logo.jpg"]
+featured_image: "Photanol logo.jpg"
 draft: false
 pinned: false
 homepage: false

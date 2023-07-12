@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Viale Belfiore</span><br>
 <span class="postal-code">50144</span> <span class="locality">Firenze</span><br>
 <span class="country">Italy</span></p>]
-featured_image: ["logo.png"]
+featured_image: "logo.png"
 draft: false
 pinned: false
 homepage: false

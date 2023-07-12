@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Chicago</span>,<br>
 <span class="country">United States</span></p>]
-featured_image: ["Natures Fynd Logo Square Transparent.png"]
+featured_image: "Natures Fynd Logo Square Transparent.png"
 draft: false
 pinned: false
 homepage: false

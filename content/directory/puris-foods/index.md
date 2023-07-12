@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Glenwood Avenue</span><br>
 <span class="locality">Minneapolis</span>, <span class="postal-code">55405</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Puris logo.png"]
+featured_image: "Puris logo.png"
 draft: false
 pinned: false
 homepage: false

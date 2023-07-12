@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Ostpreußenstraße 2/2</span><br>
 <span class="postal-code">73760</span> <span class="locality">Ostfildern</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["Protein_Distillery_Logo_CMYK.png"]
+featured_image: "Protein_Distillery_Logo_CMYK.png"
 draft: false
 pinned: false
 homepage: false

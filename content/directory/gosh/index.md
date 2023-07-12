@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Milton Keynes</span><br>
 <span class="postal-code">MK10 0BY</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["Gosh logo.jpg"]
+featured_image: "Gosh logo.jpg"
 draft: false
 pinned: false
 homepage: false

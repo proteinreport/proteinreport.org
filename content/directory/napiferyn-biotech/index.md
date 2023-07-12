@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="postal-code">90-057</span> <span class="locality">Łódź</span><br>
 <span class="country">Poland</span></p>]
-featured_image: ["Zasób 2@4x.png"]
+featured_image: "Zasób 2@4x.png"
 draft: false
 pinned: false
 homepage: false

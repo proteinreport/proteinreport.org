@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Atlantic Street</span><br>
 <span class="locality">Stamford</span>, <span class="postal-code">06901</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["nwf_logo_horiz_tag_tm.png"]
+featured_image: "nwf_logo_horiz_tag_tm.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Carrer de Barcelona</span><br>
 <span class="postal-code">08401</span> <span class="locality">Granollers</span><br>
 <span class="country">Spain</span></p>]
-featured_image: ["cubiqfoods_logogo_1.png"]
+featured_image: "cubiqfoods_logogo_1.png"
 draft: false
 pinned: false
 homepage: false

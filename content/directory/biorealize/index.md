@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Grays Ferry Avenue</span><br>
 <span class="locality">Philadelphia</span>, <span class="postal-code">19146</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["biorealize_logo.png"]
+featured_image: "biorealize_logo.png"
 draft: false
 pinned: false
 homepage: false

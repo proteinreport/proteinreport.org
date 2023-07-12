@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Market Street 845</span><br>
 <span class="locality">San Francisco</span>, <span class="administrative-area">California</span> <span class="postal-code">94103</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["AgFunder-Resized.jpg"]
+featured_image: "AgFunder-Resized.jpg"
 draft: false
 pinned: false
 homepage: false

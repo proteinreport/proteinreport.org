@@ -12,7 +12,7 @@ regions: [Oceania]
 location: [<p class="address" translate="no"><span class="address-line1">Albert Street</span><br>
 <span class="locality">Brisbane City</span> <span class="postal-code">4000</span><br>
 <span class="country">Australia</span></p>]
-featured_image: ["logo.png"]
+featured_image: "logo.png"
 draft: false
 pinned: false
 homepage: false

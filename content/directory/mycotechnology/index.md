@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">East 40th Avenue</span><br>
 <span class="locality">Aurora</span>, <span class="postal-code">80011</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["MycoTechnology-Logo.png"]
+featured_image: "MycoTechnology-Logo.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">B2</span><br>
 <span class="postal-code">10178</span> <span class="locality">Berlin</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["PlantLX-winning-logo-design-e1503494794204.jpeg"]
+featured_image: "PlantLX-winning-logo-design-e1503494794204.jpeg"
 draft: false
 pinned: false
 homepage: false

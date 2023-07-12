@@ -10,7 +10,7 @@ business: [Research, Nonprofit]
 finance_type: []
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="country">China</span></p>]
-featured_image: ["gfic.png"]
+featured_image: "gfic.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Williston Road 4508</span><br>
 <span class="locality">Minnetonka</span>, <span class="administrative-area">Minnesota</span> <span class="postal-code">55345</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["fwf.png"]
+featured_image: "fwf.png"
 draft: false
 pinned: false
 homepage: false

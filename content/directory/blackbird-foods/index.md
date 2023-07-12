@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="postal-code">11101</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Ck5aVj58_400x400.jpg"]
+featured_image: "Ck5aVj58_400x400.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Calle de la Fuente</span><br>
 <span class="postal-code">31190</span> <span class="locality">Cizur Menor</span><br>
 <span class="country">Spain</span></p>]
-featured_image: ["Logo Coquus horizontal color.png"]
+featured_image: "Logo Coquus horizontal color.png"
 draft: false
 pinned: false
 homepage: false

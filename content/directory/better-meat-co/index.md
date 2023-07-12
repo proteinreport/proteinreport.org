@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Lincoln Highway</span><br>
 <span class="locality">West Sacramento</span>, <span class="postal-code">95691</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["The+Better+Meat+Co+-+Web+Logo.png"]
+featured_image: "The+Better+Meat+Co+-+Web+Logo.png"
 draft: false
 pinned: false
 homepage: false

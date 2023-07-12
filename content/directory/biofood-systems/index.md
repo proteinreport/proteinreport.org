@@ -12,7 +12,7 @@ regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">Ha-Mekasher Street</span><br>
 <span class="locality">Hod Hasharon</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["BioFoods Systems_0.png"]
+featured_image: "BioFoods Systems_0.png"
 draft: false
 pinned: false
 homepage: false

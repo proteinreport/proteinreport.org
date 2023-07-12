@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Union Street</span><br>
 <span class="postal-code">11215</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Halsa foods logo.jpg"]
+featured_image: "Halsa foods logo.jpg"
 draft: false
 pinned: false
 homepage: false

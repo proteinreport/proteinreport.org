@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Hoogoorddreef</span><br>
 <span class="postal-code">1101 BA</span> <span class="locality">Amsterdam</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["ecotone.png"]
+featured_image: "ecotone.png"
 draft: false
 pinned: false
 homepage: false

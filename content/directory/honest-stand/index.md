@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">South Arthur Avenue</span><br>
 <span class="locality">Louisville</span>, <span class="postal-code">80027</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["The honest stand logo.png"]
+featured_image: "The honest stand logo.png"
 draft: false
 pinned: false
 homepage: false

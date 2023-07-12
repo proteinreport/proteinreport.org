@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Haarlemmerstraatweg</span><br>
 <span class="postal-code">1165 MK</span> <span class="locality">Halfweg</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["olijck-zeegroenten-retina.png"]
+featured_image: "olijck-zeegroenten-retina.png"
 draft: false
 pinned: false
 homepage: false

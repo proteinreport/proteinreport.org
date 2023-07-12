@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Factory
 <span class="locality">Highbridge</span><br>
 <span class="postal-code">TA9 4RN</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["RGB Atura Logo INDIGO.jpg"]
+featured_image: "RGB Atura Logo INDIGO.jpg"
 draft: false
 pinned: false
 homepage: false

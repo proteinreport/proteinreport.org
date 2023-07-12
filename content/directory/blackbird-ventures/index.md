@@ -12,7 +12,7 @@ regions: [Oceania]
 location: [<p class="address" translate="no"><span class="address-line1">Albion Street</span><br>
 <span class="locality">Surry Hills</span> <span class="postal-code">2010</span><br>
 <span class="country">Australia</span></p>]
-featured_image: ["blackbird.png"]
+featured_image: "blackbird.png"
 draft: false
 pinned: false
 homepage: false

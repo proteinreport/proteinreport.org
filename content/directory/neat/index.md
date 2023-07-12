@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Industry Court</span><br>
 <span class="locality">Nashville</span>, <span class="postal-code">27856</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Neat-logo.png"]
+featured_image: "Neat-logo.png"
 draft: false
 pinned: false
 homepage: false

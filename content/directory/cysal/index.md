@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Mendelstraße</span><br>
 <span class="postal-code">48149</span> <span class="locality">Münster</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["cysal logo.png"]
+featured_image: "cysal logo.png"
 draft: false
 pinned: false
 homepage: false

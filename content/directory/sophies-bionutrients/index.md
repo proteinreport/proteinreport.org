@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Science Park Road</span><br>
 <span class="postal-code">117610</span><br>
 <span class="country">Singapore</span></p>]
-featured_image: ["lg-sophie-biox2.png"]
+featured_image: "lg-sophie-biox2.png"
 draft: false
 pinned: false
 homepage: false

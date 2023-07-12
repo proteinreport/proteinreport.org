@@ -12,7 +12,7 @@ regions: [Oceania]
 location: [<p class="address" translate="no"><span class="address-line1">Victoria Street</span><br>
 <span class="locality">North Melbourne</span> <span class="postal-code">3051</span><br>
 <span class="country">Australia</span></p>]
-featured_image: ["fflogo.png"]
+featured_image: "fflogo.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Industrial Street</span><br>
 <span class="locality">Hood River</span>, <span class="postal-code">97031</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["tofurky-logo-e1516381934369.jpeg"]
+featured_image: "tofurky-logo-e1516381934369.jpeg"
 draft: false
 pinned: false
 homepage: false

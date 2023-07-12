@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Whitecap Drive</span><br>
 <span class="locality">North Kingstown</span>, <span class="postal-code">02852</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Go Veggie logo.jpg"]
+featured_image: "Go Veggie logo.jpg"
 draft: false
 pinned: false
 homepage: false

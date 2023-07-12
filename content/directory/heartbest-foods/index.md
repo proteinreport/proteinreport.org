@@ -12,7 +12,7 @@ regions: [Latin America & Caribbean]
 location: [<p class="address" translate="no"><span class="address-line1">Carretera a Zacatecas</span><br>
 <span class="postal-code">78115</span> <span class="locality">San Luis Potosí</span>,<br>
 <span class="country">Mexico</span></p>]
-featured_image: ["Heartbest logo.png"]
+featured_image: "Heartbest logo.png"
 draft: false
 pinned: false
 homepage: false

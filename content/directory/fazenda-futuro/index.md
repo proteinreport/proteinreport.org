@@ -12,7 +12,7 @@ regions: [Latin America & Caribbean]
 location: [<p class="address" translate="no"><span class="address-line1">Avenida Almirante Barroso</span><br>
 <span class="postal-code">20221-260</span><br>
 <span class="country">Brazil</span></p>]
-featured_image: ["fazenda-futuro_logo.png"]
+featured_image: "fazenda-futuro_logo.png"
 draft: false
 pinned: false
 homepage: false

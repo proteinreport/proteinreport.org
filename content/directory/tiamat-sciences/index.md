@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe, US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Durham</span>, <span class="administrative-area">North Carolina</span> <span class="postal-code">27701</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["tiamat.jpg"]
+featured_image: "tiamat.jpg"
 draft: false
 pinned: false
 homepage: false

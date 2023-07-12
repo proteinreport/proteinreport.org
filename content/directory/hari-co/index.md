@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Rue Pierre Semard</span><br>
 <span class="postal-code">69007</span> <span class="locality">Lyon</span><br>
 <span class="country">France</span></p>]
-featured_image: ["Hari&co logo.jpg"]
+featured_image: "Hari&co logo.jpg"
 draft: false
 pinned: false
 homepage: false

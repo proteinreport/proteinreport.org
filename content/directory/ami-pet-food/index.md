@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Via Giarre</span><br>
 <span class="postal-code">35031</span> <span class="locality">Abano Terme</span><br>
 <span class="country">Italy</span></p>]
-featured_image: ["ami-logo.png"]
+featured_image: "ami-logo.png"
 draft: false
 pinned: false
 homepage: false

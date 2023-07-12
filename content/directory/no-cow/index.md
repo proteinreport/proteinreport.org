@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Blake Street</span><br>
 <span class="locality">Denver</span>, <span class="postal-code">80202</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["No Cow Logos_Web-02_170x@2x.png"]
+featured_image: "No Cow Logos_Web-02_170x@2x.png"
 draft: false
 pinned: false
 homepage: false

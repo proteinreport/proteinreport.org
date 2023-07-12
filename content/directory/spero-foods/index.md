@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">East Evelyn Avenue</span><br>
 <span class="locality">Mountain View</span>, <span class="postal-code">94043</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["spero.jpg"]
+featured_image: "spero.jpg"
 draft: false
 pinned: false
 homepage: false

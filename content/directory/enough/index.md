@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">West Ge
 <span class="locality">Glasgow</span><br>
 <span class="postal-code">G2 1PP</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["1619696571057-1.jpg"]
+featured_image: "1619696571057-1.jpg"
 draft: false
 pinned: false
 homepage: false

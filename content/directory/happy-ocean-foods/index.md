@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Tal</span><br>
 <span class="postal-code">80331</span> <span class="locality">München</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["happyoceanlogo.jpg"]
+featured_image: "happyoceanlogo.jpg"
 draft: false
 pinned: false
 homepage: false

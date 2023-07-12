@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">U.S. 180</span><br>
 <span class="locality">Flagstaff</span>, <span class="postal-code">86001</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Nex veg new-logo.png"]
+featured_image: "Nex veg new-logo.png"
 draft: false
 pinned: false
 homepage: false

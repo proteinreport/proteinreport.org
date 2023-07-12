@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Main Ro
 <span class="locality">Nottingham</span><br>
 <span class="postal-code">NG9 1PG</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["Deep Branch download.png"]
+featured_image: "Deep Branch download.png"
 draft: false
 pinned: false
 homepage: false

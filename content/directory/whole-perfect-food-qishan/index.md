@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Daiwang
 <span class="locality">Shenzhen Shi</span><br>
 <span class="postal-code">518125</span><br>
 <span class="country">China</span></p>]
-featured_image: ["Whole Perfect Foods logo.jpg"]
+featured_image: "Whole Perfect Foods logo.jpg"
 draft: false
 pinned: false
 homepage: false

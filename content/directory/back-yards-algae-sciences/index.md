@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">West 48th Street</span><br>
 <span class="locality">Chicago</span>, <span class="postal-code">60609</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Back of the Yards algae sciences Logo.png"]
+featured_image: "Back of the Yards algae sciences Logo.png"
 draft: false
 pinned: false
 homepage: false

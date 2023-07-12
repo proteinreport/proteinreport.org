@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Graaf Engelbertlaan</span><br>
 <span class="postal-code">4819 BP</span> <span class="locality">Breda</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["the vegetarian butcher.jpg"]
+featured_image: "the vegetarian butcher.jpg"
 draft: false
 pinned: false
 homepage: false

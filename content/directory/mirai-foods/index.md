@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Einsiedlerstrasse</span><br>
 <span class="postal-code">8820</span> <span class="locality">Wädenswil</span><br>
 <span class="country">Switzerland</span></p>]
-featured_image: ["mirai logo.jpg"]
+featured_image: "mirai logo.jpg"
 draft: false
 pinned: false
 homepage: false

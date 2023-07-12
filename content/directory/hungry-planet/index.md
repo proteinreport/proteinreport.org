@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Clayton Road</span><br>
 <span class="locality">St. Louis</span>, <span class="postal-code">63131</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["hp-logo.png"]
+featured_image: "hp-logo.png"
 draft: false
 pinned: false
 homepage: false

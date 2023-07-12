@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Red Soils Court</span><br>
 <span class="locality">Oregon City</span>, <span class="postal-code">97045</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Lisanatti logo.png"]
+featured_image: "Lisanatti logo.png"
 draft: false
 pinned: false
 homepage: false

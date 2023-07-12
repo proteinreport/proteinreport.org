@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Alexander Fleminglaan</span><br>
 <span class="postal-code">2613 AZ</span> <span class="locality">Delft</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["Meatble-transp.temp_.png"]
+featured_image: "Meatble-transp.temp_.png"
 draft: false
 pinned: false
 homepage: false

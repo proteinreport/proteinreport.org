@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">West Bowery Street</span><br>
 <span class="locality">Akron</span>, <span class="postal-code">44308</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Fawe some logo.png"]
+featured_image: "Fawe some logo.png"
 draft: false
 pinned: false
 homepage: false

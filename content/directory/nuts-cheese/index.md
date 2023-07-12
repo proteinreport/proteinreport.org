@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Wellington Street</span><br>
 <span class="locality">London</span> <span class="postal-code">N6B 1T6</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["NUTS-FOR-CHEESE-LOGO-TM-1024x863.png"]
+featured_image: "NUTS-FOR-CHEESE-LOGO-TM-1024x863.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Bamberger Straße</span><br>
 <span class="postal-code">96135</span> <span class="locality">Stegaurach</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["amidori-logo2.jpg"]
+featured_image: "amidori-logo2.jpg"
 draft: false
 pinned: false
 homepage: false

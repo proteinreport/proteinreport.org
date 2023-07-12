@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Hills R
 <span class="locality">Cambridge</span><br>
 <span class="postal-code">CB2 1NT</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["unicorn.jpg"]
+featured_image: "unicorn.jpg"
 draft: false
 pinned: false
 homepage: false

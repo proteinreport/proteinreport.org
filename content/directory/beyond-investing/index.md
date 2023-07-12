@@ -11,7 +11,7 @@ finance_type: [Venture Capital]
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="postal-code">1204</span> <span class="locality">Genf</span><br>
 <span class="country">Switzerland</span></p>]
-featured_image: ["beyond investing.png"]
+featured_image: "beyond investing.png"
 draft: false
 pinned: false
 homepage: false

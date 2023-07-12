@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">BV-1424</span><br>
 <span class="postal-code">08140</span> <span class="locality">Caldes de Montbui</span><br>
 <span class="country">Spain</span></p>]
-featured_image: ["profuture.jpg"]
+featured_image: "profuture.jpg"
 draft: false
 pinned: false
 homepage: false

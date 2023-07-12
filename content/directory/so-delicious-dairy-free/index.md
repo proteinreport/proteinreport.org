@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Denver</span>,<br>
 <span class="country">United States</span></p>]
-featured_image: ["SoDelicious_Logo.png"]
+featured_image: "SoDelicious_Logo.png"
 draft: false
 pinned: false
 homepage: false

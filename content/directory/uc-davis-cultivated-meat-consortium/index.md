@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="postal-code">95616</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["biotech-logo_0.jpg"]
+featured_image: "biotech-logo_0.jpg"
 draft: false
 pinned: false
 homepage: false

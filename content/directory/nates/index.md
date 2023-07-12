@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
 <span class="locality">Malegaon</span> <span class="postal-code">422113</span><br>
 <span class="country">India</span></p>]
-featured_image: ["nate's logo.jpg"]
+featured_image: "nate's logo.jpg"
 draft: false
 pinned: false
 homepage: false

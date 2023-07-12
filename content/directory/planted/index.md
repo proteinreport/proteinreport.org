@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Kemptpark</span><br>
 <span class="postal-code">8310</span> <span class="locality">Lindau</span><br>
 <span class="country">Switzerland</span></p>]
-featured_image: ["planted-logo-pantone_nobar_3400x.png"]
+featured_image: "planted-logo-pantone_nobar_3400x.png"
 draft: false
 pinned: false
 homepage: false

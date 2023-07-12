@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">North Claiborne Avenue</span><br>
 <span class="locality">New Orleans</span>, <span class="postal-code">70112</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["E2JDJ LOGO.jpg"]
+featured_image: "E2JDJ LOGO.jpg"
 draft: false
 pinned: false
 homepage: false

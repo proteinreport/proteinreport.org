@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">River Valley Road</span><br>
 <span class="postal-code">179022</span><br>
 <span class="country">Singapore</span></p>]
-featured_image: ["Phuture-Logo-06.png"]
+featured_image: "Phuture-Logo-06.png"
 draft: false
 pinned: false
 homepage: false

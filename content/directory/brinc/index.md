@@ -11,7 +11,7 @@ finance_type: [Accelerator]
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Aberdeen Street</span><br>
 <span class="country">Hong Kong SAR China</span></p>]
-featured_image: ["brinc_logo_final+(1).png"]
+featured_image: "brinc_logo_final+(1).png"
 draft: false
 pinned: false
 homepage: false

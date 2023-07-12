@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Madison</span>, <span class="postal-code">53715</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["_DDfmz_V_400x400.jpg"]
+featured_image: "_DDfmz_V_400x400.jpg"
 draft: false
 pinned: false
 homepage: false

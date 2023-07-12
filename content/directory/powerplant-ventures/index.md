@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Hermosa Avenue</span><br>
 <span class="locality">Hermosa Beach</span>, <span class="postal-code">90254</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Powerplant ventures logo.png"]
+featured_image: "Powerplant ventures logo.png"
 draft: false
 pinned: false
 homepage: false

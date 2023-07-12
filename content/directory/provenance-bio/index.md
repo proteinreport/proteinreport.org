@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Indiana Street</span><br>
 <span class="locality">San Francisco</span>, <span class="postal-code">94107</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Provenance Bio logo icon.png"]
+featured_image: "Provenance Bio logo icon.png"
 draft: false
 pinned: false
 homepage: false

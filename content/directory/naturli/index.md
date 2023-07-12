@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Smedevænget</span><br>
 <span class="postal-code">8920</span> <span class="locality">Randers</span><br>
 <span class="country">Denmark</span></p>]
-featured_image: ["logo-blue.png"]
+featured_image: "logo-blue.png"
 draft: false
 pinned: false
 homepage: false

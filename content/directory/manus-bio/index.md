@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Massachusetts Avenue</span><br>
 <span class="locality">Cambridge</span>, <span class="postal-code">02138</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Manus Bio logo.png"]
+featured_image: "Manus Bio logo.png"
 draft: false
 pinned: false
 homepage: false

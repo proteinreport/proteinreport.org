@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">East Grand Avenue</span><br>
 <span class="locality">South San Francisco</span>, <span class="postal-code">94080</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["culture biosciences logo.png"]
+featured_image: "culture biosciences logo.png"
 draft: false
 pinned: false
 homepage: false

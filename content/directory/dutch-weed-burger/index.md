@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Korte Papaverweg</span><br>
 <span class="postal-code">1032 KB</span> <span class="locality">Amsterdam</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["the dutch weed burger.jpg"]
+featured_image: "the dutch weed burger.jpg"
 draft: false
 pinned: false
 homepage: false

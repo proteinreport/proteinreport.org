@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Moskva</span><br>
 <span class="country">Russia</span></p>]
-featured_image: ["logo.png"]
+featured_image: "logo.png"
 draft: false
 pinned: false
 homepage: false

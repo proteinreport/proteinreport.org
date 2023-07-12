@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Deangelo Drive</span><br>
 <span class="locality">Bedford</span>, <span class="postal-code">01730</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Conagen.png"]
+featured_image: "Conagen.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Oceania]
 location: [<p class="address" translate="no"><span class="address-line1">Broadway 142B</span><br>
 <span class="locality">Auckland</span> <span class="postal-code">1023</span><br>
 <span class="country">New Zealand</span></p>]
-featured_image: ["Opo-Bio-Logo-Full.png"]
+featured_image: "Opo-Bio-Logo-Full.png"
 draft: false
 pinned: false
 homepage: false

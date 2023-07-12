@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">McKinney Avenue</span><br>
 <span class="locality">Dallas</span>, <span class="postal-code">75204</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Mooala_Logo-1.png"]
+featured_image: "Mooala_Logo-1.png"
 draft: false
 pinned: false
 homepage: false

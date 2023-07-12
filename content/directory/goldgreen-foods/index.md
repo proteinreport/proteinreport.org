@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Hämeentie</span><br>
 <span class="postal-code">00560</span> <span class="locality">Helsinki</span><br>
 <span class="country">Finland</span></p>]
-featured_image: ["Gold & Green of Helsinki logo.png"]
+featured_image: "Gold & Green of Helsinki logo.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Zubiaurrealde Auzoa</span><br>
 <span class="postal-code">48130</span> <span class="locality">Bakio</span><br>
 <span class="country">Spain</span></p>]
-featured_image: ["1531680176088.jpg"]
+featured_image: "1531680176088.jpg"
 draft: false
 pinned: false
 homepage: false

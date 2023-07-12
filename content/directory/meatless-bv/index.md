@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Gebroeders Spykerstraat</span><br>
 <span class="postal-code">4462 GJ</span> <span class="locality">Goes</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["meatless-300x120.png"]
+featured_image: "meatless-300x120.png"
 draft: false
 pinned: false
 homepage: false

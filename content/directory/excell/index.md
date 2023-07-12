@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Cohoes Avenue</span><br>
 <span class="locality">Green Island</span>, <span class="postal-code">12183</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["excell-cap-white.png"]
+featured_image: "excell-cap-white.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Goeseelsstraat</span><br>
 <span class="postal-code">4817 MV</span> <span class="locality">Breda</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["The Protein Brewery logo.jpg"]
+featured_image: "The Protein Brewery logo.jpg"
 draft: false
 pinned: false
 homepage: false

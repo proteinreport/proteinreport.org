@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Vandværksvej 12</span><br>
 <span class="postal-code">9800</span> <span class="locality">Hjørring</span><br>
 <span class="country">Denmark</span></p>]
-featured_image: ["Aliga_logo_mail_NY_4.jpg"]
+featured_image: "Aliga_logo_mail_NY_4.jpg"
 draft: false
 pinned: false
 homepage: false

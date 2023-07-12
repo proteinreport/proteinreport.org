@@ -12,7 +12,7 @@ regions: [Oceania]
 location: [<p class="address" translate="no"><span class="address-line1">Collins Street</span><br>
 <span class="locality">Docklands</span> <span class="postal-code">3008</span><br>
 <span class="country">Australia</span></p>]
-featured_image: ["startmate.jpg"]
+featured_image: "startmate.jpg"
 draft: false
 pinned: false
 homepage: false

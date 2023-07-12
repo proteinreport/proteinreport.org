@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Corporate Circle</span><br>
 <span class="locality">Petaluma</span>, <span class="postal-code">94954</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Amy's_Kitchen_logo.png"]
+featured_image: "Amy's_Kitchen_logo.png"
 draft: false
 pinned: false
 homepage: false

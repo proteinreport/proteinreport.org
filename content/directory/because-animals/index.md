@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Philadelphia</span>,<br>
 <span class="country">United States</span></p>]
-featured_image: ["BA_stack-logo-green_social_1200x1200_1.jpg"]
+featured_image: "BA_stack-logo-green_social_1200x1200_1.jpg"
 draft: false
 pinned: false
 homepage: false

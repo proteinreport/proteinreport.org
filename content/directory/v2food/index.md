@@ -12,7 +12,7 @@ regions: [Oceania]
 location: [<p class="address" translate="no"><span class="address-line1">King Street</span><br>
 <span class="locality">Sydney</span> <span class="postal-code">2000</span><br>
 <span class="country">Australia</span></p>]
-featured_image: ["v2food logo.png"]
+featured_image: "v2food logo.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Rue Saint-Siméon</span><br>
 <span class="postal-code">33000</span> <span class="locality">Bordeaux</span><br>
 <span class="country">France</span></p>]
-featured_image: ["Odontella-1-330x114.png"]
+featured_image: "Odontella-1-330x114.png"
 draft: false
 pinned: false
 homepage: false

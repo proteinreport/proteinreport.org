@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Handelsweg</span><br>
 <span class="postal-code">7451 PJ</span> <span class="locality">Holten</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["vivera.png"]
+featured_image: "vivera.png"
 draft: false
 pinned: false
 homepage: false

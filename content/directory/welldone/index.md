@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Moskva</span><br>
 <span class="postal-code">109012</span><br>
 <span class="country">Russia</span></p>]
-featured_image: ["welldone.png"]
+featured_image: "welldone.png"
 draft: false
 pinned: false
 homepage: false

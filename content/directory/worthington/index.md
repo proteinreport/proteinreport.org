@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">David smith Lane</span><br>
 <span class="locality">Ooltewah</span>, <span class="postal-code">37363</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Worthington-logo-big.jpg"]
+featured_image: "Worthington-logo-big.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -11,7 +11,7 @@ finance_type: []
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
 <span class="country">Singapore</span></p>]
-featured_image: ["Shiok.png"]
+featured_image: "Shiok.png"
 draft: false
 pinned: false
 homepage: false

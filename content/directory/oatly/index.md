@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Stora Varvsgatan</span><br>
 <span class="postal-code">211 19</span> <span class="locality">Malmö</span><br>
 <span class="country">Sweden</span></p>]
-featured_image: ["Oatly logo.png"]
+featured_image: "Oatly logo.png"
 draft: false
 pinned: false
 homepage: false

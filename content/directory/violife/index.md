@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Agiou Dimitriou</span><br>
 <span class="postal-code">546 31</span> <span class="locality">Thessaloniki</span><br>
 <span class="country">Greece</span></p>]
-featured_image: ["violife.jpg"]
+featured_image: "violife.jpg"
 draft: false
 pinned: false
 homepage: false

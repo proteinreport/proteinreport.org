@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Soon Lee Road</span><br>
 <span class="postal-code">627605</span><br>
 <span class="country">Singapore</span></p>]
-featured_image: ["GAIA-Logo.png"]
+featured_image: "GAIA-Logo.png"
 draft: false
 pinned: false
 homepage: false

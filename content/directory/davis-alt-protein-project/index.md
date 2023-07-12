@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">3rd Street</span><br>
 <span class="locality">Davis</span>, <span class="postal-code">95616</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["dapp_0.png"]
+featured_image: "dapp_0.png"
 draft: false
 pinned: false
 homepage: false

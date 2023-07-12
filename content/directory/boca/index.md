@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">West Jackson Boulevard</span><br>
 <span class="locality">Chicago</span>, <span class="postal-code">60604</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Boca_Logo-min.png"]
+featured_image: "Boca_Logo-min.png"
 draft: false
 pinned: false
 homepage: false

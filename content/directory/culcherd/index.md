@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Canarctic Drive</span><br>
 <span class="locality">Toronto</span> <span class="postal-code">M3J 2P4</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["Culcherd logo.png"]
+featured_image: "Culcherd logo.png"
 draft: false
 pinned: false
 homepage: false

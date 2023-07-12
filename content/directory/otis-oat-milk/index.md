@@ -12,7 +12,7 @@ regions: [Oceania]
 location: [<p class="address" translate="no"><span class="address-line1">Highgate</span><br>
 <span class="locality">Dunedin</span> <span class="postal-code">9010</span><br>
 <span class="country">New Zealand</span></p>]
-featured_image: ["otis.jpg"]
+featured_image: "otis.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Burggrevegatan 2</span><br>
 <span class="postal-code">411 03</span> <span class="locality">Göteborg</span><br>
 <span class="country">Sweden</span></p>]
-featured_image: ["mm.png"]
+featured_image: "mm.png"
 draft: false
 pinned: false
 homepage: false

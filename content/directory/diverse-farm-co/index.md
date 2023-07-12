@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="locality">Osaka</span>,<br>
 <span class="postal-code">530-0043</span><br>
 <span class="country">Japan</span></p>]
-featured_image: ["dfc.jpg"]
+featured_image: "dfc.jpg"
 draft: false
 pinned: false
 homepage: false

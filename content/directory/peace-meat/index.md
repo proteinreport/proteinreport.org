@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Antwerpen</span><br>
 <span class="country">Belgium</span></p>]
-featured_image: ["POM_M_RGB_Red.png"]
+featured_image: "POM_M_RGB_Red.png"
 draft: false
 pinned: false
 homepage: false

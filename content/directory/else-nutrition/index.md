@@ -12,7 +12,7 @@ regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">Arlozorov Street</span><br>
 <span class="locality">Tel Aviv-Yafo</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["Else Nutrition logo.jpg"]
+featured_image: "Else Nutrition logo.jpg"
 draft: false
 pinned: false
 homepage: false

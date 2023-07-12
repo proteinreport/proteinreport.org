@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Virgini
 <span class="locality">Santiago</span><br>
 <span class="administrative-area">Región Metropolitana</span><br>
 <span class="country">Chile</span></p>]
-featured_image: ["logo-web-2.png"]
+featured_image: "logo-web-2.png"
 draft: false
 pinned: false
 homepage: false

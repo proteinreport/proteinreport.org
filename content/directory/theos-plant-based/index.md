@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">South Federal Street 399-301</span><br>
 <span class="locality">Chicago</span>, <span class="administrative-area">Illinois</span> <span class="postal-code">60604</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Blue Logo, Off-White Background.png"]
+featured_image: "Blue Logo, Off-White Background.png"
 draft: false
 pinned: false
 homepage: false

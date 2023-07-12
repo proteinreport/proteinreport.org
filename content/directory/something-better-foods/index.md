@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Marin Street</span><br>
 <span class="locality">Vallejo</span>, <span class="postal-code">94590</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Something Better logo.png"]
+featured_image: "Something Better logo.png"
 draft: false
 pinned: false
 homepage: false

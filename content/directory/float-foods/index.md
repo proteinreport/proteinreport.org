@@ -10,7 +10,7 @@ business: [Production]
 finance_type: []
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="country">Singapore</span></p>]
-featured_image: ["1592203205718.jpg"]
+featured_image: "1592203205718.jpg"
 draft: false
 pinned: false
 homepage: false

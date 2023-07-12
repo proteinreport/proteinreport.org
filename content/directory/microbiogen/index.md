@@ -12,7 +12,7 @@ regions: [Oceania]
 location: [<p class="address" translate="no"><span class="address-line1">Sirius Road</span><br>
 <span class="locality">Lane Cove West</span> <span class="postal-code">2066</span><br>
 <span class="country">Australia</span></p>]
-featured_image: ["MBG logo.jpeg"]
+featured_image: "MBG logo.jpeg"
 draft: false
 pinned: false
 homepage: false

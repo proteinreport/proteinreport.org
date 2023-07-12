@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Kahn Road</span><br>
 <span class="locality">Franklin</span>, <span class="postal-code">06254</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["westsoy_logo_hr.jpg"]
+featured_image: "westsoy_logo_hr.jpg"
 draft: false
 pinned: false
 homepage: false

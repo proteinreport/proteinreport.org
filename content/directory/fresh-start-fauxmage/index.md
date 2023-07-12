@@ -10,7 +10,7 @@ business: [Production]
 finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="country">Canada</span></p>]
-featured_image: ["Fresh Start Fauxmage logo.png"]
+featured_image: "Fresh Start Fauxmage logo.png"
 draft: false
 pinned: false
 homepage: false

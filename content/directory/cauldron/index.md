@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Spencer
 <span class="locality">St Albans</span><br>
 <span class="postal-code">AL3 5EG</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["Cauldron Foods - logo.png"]
+featured_image: "Cauldron Foods - logo.png"
 draft: false
 pinned: false
 homepage: false

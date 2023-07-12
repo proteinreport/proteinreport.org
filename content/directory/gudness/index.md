@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Machine
 <span class="locality">Germiston</span><br>
 <span class="postal-code">1407</span><br>
 <span class="country">South Africa</span></p>]
-featured_image: ["Gudness-Logo.png"]
+featured_image: "Gudness-Logo.png"
 draft: false
 pinned: false
 homepage: false

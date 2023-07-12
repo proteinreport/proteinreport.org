@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Fewster Drive</span><br>
 <span class="locality">Mississauga</span> <span class="postal-code">L4W 1A2</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["SolCuisine-Logo.jpg"]
+featured_image: "SolCuisine-Logo.jpg"
 draft: false
 pinned: false
 homepage: false

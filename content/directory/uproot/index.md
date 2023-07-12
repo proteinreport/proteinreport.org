@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Providence</span>,<br>
 <span class="country">United States</span></p>]
-featured_image: ["Uproot milk logo.jpg"]
+featured_image: "Uproot milk logo.jpg"
 draft: false
 pinned: false
 homepage: false

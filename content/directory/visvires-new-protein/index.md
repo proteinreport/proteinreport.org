@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Amoy Street</span><br>
 <span class="postal-code">069930</span><br>
 <span class="country">Singapore</span></p>]
-featured_image: ["vvnp.png"]
+featured_image: "vvnp.png"
 draft: false
 pinned: false
 homepage: false

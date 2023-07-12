@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Nieuwe Hemweg</span><br>
 <span class="postal-code">1013 BG</span> <span class="locality">Amsterdam</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["seamore-logo.png"]
+featured_image: "seamore-logo.png"
 draft: false
 pinned: false
 homepage: false

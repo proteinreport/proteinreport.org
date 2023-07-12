@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Don Julian Road</span><br>
 <span class="locality">City of Industry</span>, <span class="postal-code">91746</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["El Burito Mexican Food Products logo.png"]
+featured_image: "El Burito Mexican Food Products logo.png"
 draft: false
 pinned: false
 homepage: false

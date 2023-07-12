@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">East De La Guerra Street</span><br>
 <span class="locality">Santa Barbara</span>, <span class="postal-code">93101</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["reveriLogo-pink_onTransp.png"]
+featured_image: "reveriLogo-pink_onTransp.png"
 draft: false
 pinned: false
 homepage: false

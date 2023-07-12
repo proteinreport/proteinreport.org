@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Calle Saturnino Calleja 16</span><br>
 <span class="postal-code">28002</span> <span class="locality">Madrid</span> <span class="administrative-area">Comunidad de Madrid</span><br>
 <span class="country">Spain</span></p>]
-featured_image: ["ea.png"]
+featured_image: "ea.png"
 draft: false
 pinned: false
 homepage: false

@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Quezon 
 <span class="locality">Manila</span><br>
 <span class="postal-code">1001</span><br>
 <span class="country">Philippines</span></p>]
-featured_image: ["wth.jpg"]
+featured_image: "wth.jpg"
 draft: false
 pinned: false
 homepage: false

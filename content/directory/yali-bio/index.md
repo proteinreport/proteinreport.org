@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Railroad Avenue 525</span><br>
 <span class="locality">South San Francisco</span>, <span class="administrative-area">California</span> <span class="postal-code">94080</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Yali_logo.jpg"]
+featured_image: "Yali_logo.jpg"
 draft: false
 pinned: false
 homepage: false

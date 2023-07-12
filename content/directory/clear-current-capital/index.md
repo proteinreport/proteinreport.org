@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">20th Street</span><br>
 <span class="locality">Vero Beach</span>, <span class="postal-code">32960</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["ccc.png"]
+featured_image: "ccc.png"
 draft: false
 pinned: false
 homepage: false

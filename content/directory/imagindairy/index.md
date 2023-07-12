@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Netiv HaTrashim</span><br>
 <span class="locality">Nesher</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["1601666596330.jpg"]
+featured_image: "1601666596330.jpg"
 draft: false
 pinned: false
 homepage: false

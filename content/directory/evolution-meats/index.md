@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Molenstraat</span><br>
 <span class="postal-code">3882 AD</span> <span class="locality">Putten</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["Evolution meats logo.jpg"]
+featured_image: "Evolution meats logo.jpg"
 draft: false
 pinned: false
 homepage: false

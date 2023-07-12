@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Folketshusvägen</span><br>
 <span class="postal-code">760 49</span> <span class="locality">Herräng</span><br>
 <span class="country">Sweden</span></p>]
-featured_image: ["Maisha logo.png"]
+featured_image: "Maisha logo.png"
 draft: false
 pinned: false
 homepage: false

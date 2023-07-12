@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Libourne</span><br>
 <span class="country">France</span></p>]
-featured_image: ["Fermentalg.png"]
+featured_image: "Fermentalg.png"
 draft: false
 pinned: false
 homepage: false

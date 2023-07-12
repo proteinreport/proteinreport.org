@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Šutna</span><br>
 <span class="postal-code">1241</span> <span class="locality">Kamnik</span><br>
 <span class="country">Slovenia</span></p>]
-featured_image: ["download.png"]
+featured_image: "download.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Avenida de Europa</span><br>
 <span class="postal-code">28108</span> <span class="locality">Alcobendas</span><br>
 <span class="country">Spain</span></p>]
-featured_image: ["alga-energy logo.png"]
+featured_image: "alga-energy logo.png"
 draft: false
 pinned: false
 homepage: false

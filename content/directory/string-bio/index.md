@@ -11,7 +11,7 @@ finance_type: []
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="locality">Bengaluru</span> <span class="postal-code">560001</span><br>
 <span class="country">India</span></p>]
-featured_image: ["String Bio logo.png"]
+featured_image: "String Bio logo.png"
 draft: false
 pinned: false
 homepage: false

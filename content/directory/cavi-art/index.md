@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Hi-Park</span><br>
 <span class="postal-code">7400</span> <span class="locality">Herning</span><br>
 <span class="country">Denmark</span></p>]
-featured_image: ["caviart-logo-retina.png"]
+featured_image: "caviart-logo-retina.png"
 draft: false
 pinned: false
 homepage: false

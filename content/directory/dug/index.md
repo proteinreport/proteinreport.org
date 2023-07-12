@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Whiteha
 <span class="locality">London</span><br>
 <span class="postal-code">SW1A 2DD</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["logo_dug_primary_364dc8cf.png"]
+featured_image: "logo_dug_primary_364dc8cf.png"
 draft: false
 pinned: false
 homepage: false

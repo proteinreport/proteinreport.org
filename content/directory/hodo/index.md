@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Adeline Street</span><br>
 <span class="locality">Oakland</span>, <span class="postal-code">94608</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["HodoFoods-Logo-Filled-1218x728.png"]
+featured_image: "HodoFoods-Logo-Filled-1218x728.png"
 draft: false
 pinned: false
 homepage: false

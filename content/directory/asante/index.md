@@ -12,7 +12,7 @@ regions: [Latin America & Caribbean]
 location: [<p class="address" translate="no"><span class="address-line1">Parque Centenario</span><br>
 <span class="postal-code">04000</span> <span class="locality">Ciudad de México</span>,<br>
 <span class="country">Mexico</span></p>]
-featured_image: ["Asanté+Logo.png"]
+featured_image: "Asanté+Logo.png"
 draft: false
 pinned: false
 homepage: false

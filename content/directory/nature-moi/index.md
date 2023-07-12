@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="postal-code">44600</span> <span class="locality">Saint-Nazaire</span><br>
 <span class="country">France</span></p>]
-featured_image: ["nature-et-moi logo.png"]
+featured_image: "nature-et-moi logo.png"
 draft: false
 pinned: false
 homepage: false

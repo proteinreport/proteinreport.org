@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Durham 
 <span class="locality">London</span><br>
 <span class="postal-code">SE11 5JH</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["Oggs logo.png"]
+featured_image: "Oggs logo.png"
 draft: false
 pinned: false
 homepage: false

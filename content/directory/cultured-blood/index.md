@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Breda</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["cultured blood logo.jpg"]
+featured_image: "cultured blood logo.jpg"
 draft: false
 pinned: false
 homepage: false

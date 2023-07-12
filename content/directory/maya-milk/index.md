@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Gülbahçe Caddesi 1/1</span><br>
 <span class="postal-code">35433</span> /<span class="administrative-area">İzmir</span><br>
 <span class="country">Turkey</span></p>]
-featured_image: ["mayamilk-logo-MOR6.png"]
+featured_image: "mayamilk-logo-MOR6.png"
 draft: false
 pinned: false
 homepage: false

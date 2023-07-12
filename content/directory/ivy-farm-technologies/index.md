@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Cornmar
 <span class="locality">Oxford</span><br>
 <span class="postal-code">OX1</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["1621008975071.jpg"]
+featured_image: "1621008975071.jpg"
 draft: false
 pinned: false
 homepage: false

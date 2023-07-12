@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Townhea
 <span class="locality">Isle of Bute</span><br>
 <span class="postal-code">PA20 9JH</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["bute island foods logo.png"]
+featured_image: "bute island foods logo.png"
 draft: false
 pinned: false
 homepage: false

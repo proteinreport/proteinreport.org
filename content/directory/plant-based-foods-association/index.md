@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Drumm Street</span><br>
 <span class="locality">San Francisco</span>, <span class="postal-code">94111</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["plant-based-foods-association.jpg"]
+featured_image: "plant-based-foods-association.jpg"
 draft: false
 pinned: false
 homepage: false

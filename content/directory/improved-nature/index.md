@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Vandora Springs Road</span><br>
 <span class="locality">Garner</span>, <span class="postal-code">27529</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["logo_improvedNature_R.png"]
+featured_image: "logo_improvedNature_R.png"
 draft: false
 pinned: false
 homepage: false

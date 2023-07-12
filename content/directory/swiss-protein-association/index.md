@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Effingerstrasse 6A</span><br>
 <span class="postal-code">3011</span> <span class="locality">Bern</span><br>
 <span class="country">Switzerland</span></p>]
-featured_image: ["1639559376954.jpg"]
+featured_image: "1639559376954.jpg"
 draft: false
 pinned: false
 homepage: false

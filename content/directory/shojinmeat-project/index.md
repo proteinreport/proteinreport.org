@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="locality">Chiyoda City</span>,<br>
 <span class="postal-code">100-0005</span><br>
 <span class="country">Japan</span></p>]
-featured_image: ["shojinmeat-project.png"]
+featured_image: "shojinmeat-project.png"
 draft: false
 pinned: false
 homepage: false

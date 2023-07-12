@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Kalyan - Bhiwandi Road</span><br>
 <span class="locality">Kongaon</span> <span class="postal-code">421302</span><br>
 <span class="country">India</span></p>]
-featured_image: ["logo.jpg"]
+featured_image: "logo.jpg"
 draft: false
 pinned: false
 homepage: false

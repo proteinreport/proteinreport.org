@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Haskell Avenue</span><br>
 <span class="locality">Lawrence</span>, <span class="postal-code">66046</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Hilary_s_Eat_Well_Logo_3fcfd74a-1b1e-4f45-b1df-d02edf5b0232_300x@2x.png"]
+featured_image: "Hilary_s_Eat_Well_Logo_3fcfd74a-1b1e-4f45-b1df-d02edf5b0232_300x@2x.png"
 draft: false
 pinned: false
 homepage: false

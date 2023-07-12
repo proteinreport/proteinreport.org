@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Thorndyke Avenue West</span><br>
 <span class="locality">Seattle</span>, <span class="postal-code">98119</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["arzeda.jpg"]
+featured_image: "arzeda.jpg"
 draft: false
 pinned: false
 homepage: false

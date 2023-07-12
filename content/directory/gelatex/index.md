@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="postal-code">10111</span> <span class="locality">Kesklinna</span><br>
 <span class="country">Estonia</span></p>]
-featured_image: ["2578462_original.jpg"]
+featured_image: "2578462_original.jpg"
 draft: false
 pinned: false
 homepage: false

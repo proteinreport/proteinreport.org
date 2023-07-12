@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Bergen Street</span><br>
 <span class="postal-code">11201</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Afineur logo.png"]
+featured_image: "Afineur logo.png"
 draft: false
 pinned: false
 homepage: false

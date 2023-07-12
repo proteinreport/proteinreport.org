@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Santa Monica Boulevard</span><br>
 <span class="locality">Santa Monica</span>, <span class="postal-code">90401</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["outstanding-foods-809.jpg"]
+featured_image: "outstanding-foods-809.jpg"
 draft: false
 pinned: false
 homepage: false

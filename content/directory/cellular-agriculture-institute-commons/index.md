@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="locality">Suginami City</span>,<br>
 <span class="postal-code">168-0063</span><br>
 <span class="country">Japan</span></p>]
-featured_image: ["cell.png"]
+featured_image: "cell.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Bisschopsstraat</span><br>
 <span class="postal-code">1000</span> <span class="locality">Brussel</span><br>
 <span class="country">Belgium</span></p>]
-featured_image: ["logo_ensa.png"]
+featured_image: "logo_ensa.png"
 draft: false
 pinned: false
 homepage: false

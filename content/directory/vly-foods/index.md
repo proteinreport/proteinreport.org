@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">B2</span><br>
 <span class="postal-code">10178</span> <span class="locality">Berlin</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["vly_logo-header_100x@2x.jpg"]
+featured_image: "vly_logo-header_100x@2x.jpg"
 draft: false
 pinned: false
 homepage: false

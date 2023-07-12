@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Main Street North 209</span><br>
 <span class="locality">Alexandria</span> <span class="administrative-area">Ontario</span> <span class="postal-code">K0C 1A0</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["Fauxmagerie Zengarry cheese logo.png"]
+featured_image: "Fauxmagerie Zengarry cheese logo.png"
 draft: false
 pinned: false
 homepage: false

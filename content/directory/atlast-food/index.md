@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Green Island</span>,<br>
 <span class="country">United States</span></p>]
-featured_image: ["Atlast-logo-black.png"]
+featured_image: "Atlast-logo-black.png"
 draft: false
 pinned: false
 homepage: false

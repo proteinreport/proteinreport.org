@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
 <span class="locality">Udaipur</span> <span class="postal-code">313001</span><br>
 <span class="country">India</span></p>]
-featured_image: ["Good dot logo.jpg"]
+featured_image: "Good dot logo.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Barrington Street</span><br>
 <span class="locality">Halifax</span> <span class="postal-code">B3J 1Z6</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["Smallfood_Inc__Smallfood_Is_Unearthing_The_Potential_Of_Microbes.jpg"]
+featured_image: "Smallfood_Inc__Smallfood_Is_Unearthing_The_Potential_Of_Microbes.jpg"
 draft: false
 pinned: false
 homepage: false

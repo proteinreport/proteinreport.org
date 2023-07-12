@@ -11,7 +11,7 @@ finance_type: []
 regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Larnaca</span><br>
 <span class="country">Cyprus</span></p>]
-featured_image: ["mightykitchen.jpg"]
+featured_image: "mightykitchen.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">York Ro
 <span class="locality">Uxbridge</span><br>
 <span class="postal-code">UB8 1QW</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["tiba.jpg"]
+featured_image: "tiba.jpg"
 draft: false
 pinned: false
 homepage: false

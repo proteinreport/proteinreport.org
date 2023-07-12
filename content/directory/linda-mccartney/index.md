@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Century
 <span class="locality">Leeds</span><br>
 <span class="postal-code">LS15 8ZB</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["Linda McCartney's logo.jpg"]
+featured_image: "Linda McCartney's logo.jpg"
 draft: false
 pinned: false
 homepage: false

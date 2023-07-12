@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
 <span class="postal-code">75004</span> <span class="locality">Paris</span><br>
 <span class="country">France</span></p>]
-featured_image: ["CoreBioGen_Logo_Colour_RGB1.jpg"]
+featured_image: "CoreBioGen_Logo_Colour_RGB1.jpg"
 draft: false
 pinned: false
 homepage: false

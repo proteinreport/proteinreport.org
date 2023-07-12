@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Schönhauser Allee</span><br>
 <span class="postal-code">10119</span> <span class="locality">Berlin</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["POV+logo+light.png"]
+featured_image: "POV+logo+light.png"
 draft: false
 pinned: false
 homepage: false

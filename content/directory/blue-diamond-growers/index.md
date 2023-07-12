@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">C Street</span><br>
 <span class="locality">Sacramento</span>, <span class="postal-code">95811</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Almond Breeze logo_0.jpg"]
+featured_image: "Almond Breeze logo_0.jpg"
 draft: false
 pinned: false
 homepage: false

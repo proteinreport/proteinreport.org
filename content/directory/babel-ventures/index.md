@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Geary Boulevard</span><br>
 <span class="locality">San Francisco</span>, <span class="postal-code">94118</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["babelventures.jpg"]
+featured_image: "babelventures.jpg"
 draft: false
 pinned: false
 homepage: false

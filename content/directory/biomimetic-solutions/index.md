@@ -10,7 +10,7 @@ business: [Production]
 finance_type: []
 regions: [Latin America & Caribbean]
 location: [<p class="address" translate="no"><span class="country">Brazil</span></p>]
-featured_image: ["Biomimetic Solutions logo.png"]
+featured_image: "Biomimetic Solutions logo.png"
 draft: false
 pinned: false
 homepage: false

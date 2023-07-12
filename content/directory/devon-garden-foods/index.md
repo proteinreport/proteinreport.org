@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Commerc
 <span class="locality">Exeter</span><br>
 <span class="postal-code">EX2 4EB</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["New_Logo_Black_Background.png"]
+featured_image: "New_Logo_Black_Background.png"
 draft: false
 pinned: false
 homepage: false

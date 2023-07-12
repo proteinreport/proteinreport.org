@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Warwick</span><br>
 <span class="postal-code">CV34 6DY</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["Moolec Science - Logo 3.png"]
+featured_image: "Moolec Science - Logo 3.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">New Industrial Road 27</span><br>
 <span class="postal-code">536212</span><br>
 <span class="country">Singapore</span></p>]
-featured_image: ["audra.png"]
+featured_image: "audra.png"
 draft: false
 pinned: false
 homepage: false

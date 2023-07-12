@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">East Institute Drive</span><br>
 <span class="locality">Durham</span>, <span class="postal-code">27703</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Sustainable.png"]
+featured_image: "Sustainable.png"
 draft: false
 pinned: false
 homepage: false

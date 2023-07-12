@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">South Wilmington Street</span><br>
 <span class="locality">Raleigh</span>, <span class="postal-code">27601</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["1603305692988.jpg"]
+featured_image: "1603305692988.jpg"
 draft: false
 pinned: false
 homepage: false

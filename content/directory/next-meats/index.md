@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="locality">Chiyoda City</span>,<br>
 <span class="postal-code">100-0005</span><br>
 <span class="country">Japan</span></p>]
-featured_image: ["zmnwhypkb2y6jtg2r1rx.jpg"]
+featured_image: "zmnwhypkb2y6jtg2r1rx.jpg"
 draft: false
 pinned: false
 homepage: false

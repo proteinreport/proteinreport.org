@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">An der Röthe</span><br>
 <span class="postal-code">36145</span> <span class="locality">Hofbieber</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["futterservice-fulda.png"]
+featured_image: "futterservice-fulda.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Reguliersbreestraat</span><br>
 <span class="postal-code">1017 CL</span> <span class="locality">Amsterdam</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["Ful foods logo.png"]
+featured_image: "Ful foods logo.png"
 draft: false
 pinned: false
 homepage: false

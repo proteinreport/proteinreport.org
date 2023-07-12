@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Brompto
 <span class="locality">London</span><br>
 <span class="postal-code">SW3 2BB</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["Adamo logo - transparent.png"]
+featured_image: "Adamo logo - transparent.png"
 draft: false
 pinned: false
 homepage: false

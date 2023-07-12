@@ -12,7 +12,7 @@ regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">Rambam Street</span><br>
 <span class="locality">Ashdod</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["Yofix logo.jpg"]
+featured_image: "Yofix logo.jpg"
 draft: false
 pinned: false
 homepage: false

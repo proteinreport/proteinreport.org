@@ -10,7 +10,7 @@ business: [Production]
 finance_type: []
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="country">Hong Kong SAR China</span></p>]
-featured_image: ["Avant-Meats logo_0.png"]
+featured_image: "Avant-Meats logo_0.png"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Kölsumer Weg</span><br>
 <span class="postal-code">41334</span> <span class="locality">Nettetal</span><br>
 <span class="country">Germany</span></p>]
-featured_image: ["phytowelt logo.png"]
+featured_image: "phytowelt logo.png"
 draft: false
 pinned: false
 homepage: false

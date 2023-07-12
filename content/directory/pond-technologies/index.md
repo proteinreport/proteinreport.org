@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Shields Court</span><br>
 <span class="locality">Markham</span> <span class="postal-code">L3R 9T5</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["Pond-Tech-Green-Logo.png"]
+featured_image: "Pond-Tech-Green-Logo.png"
 draft: false
 pinned: false
 homepage: false

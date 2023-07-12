@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">College Avenue 200</span><br>
 <span class="locality">Medford</span>, <span class="administrative-area">Massachusetts</span> <span class="postal-code">02155</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["640px-Tufts_University_wordmark.svg.png"]
+featured_image: "640px-Tufts_University_wordmark.svg.png"
 draft: false
 pinned: false
 homepage: false

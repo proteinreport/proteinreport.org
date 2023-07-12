@@ -11,7 +11,7 @@ finance_type: []
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="postal-code">100-101</span><br>
 <span class="country">South Korea</span></p>]
-featured_image: ["unlimeat_1.png"]
+featured_image: "unlimeat_1.png"
 draft: false
 pinned: false
 homepage: false

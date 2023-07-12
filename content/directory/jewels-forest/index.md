@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Pleasant Hill Avenue North</span><br>
 <span class="locality">Sebastopol</span>, <span class="postal-code">95472</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["JewelsOfTheForestLogo.jpg"]
+featured_image: "JewelsOfTheForestLogo.jpg"
 draft: false
 pinned: false
 homepage: false

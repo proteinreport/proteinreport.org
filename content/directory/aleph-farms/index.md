@@ -12,7 +12,7 @@ regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">Prof. Menakhem Plaut Street</span><br>
 <span class="locality">Rehovot</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["Aleph_Farms_logo.png"]
+featured_image: "Aleph_Farms_logo.png"
 draft: false
 pinned: false
 homepage: false

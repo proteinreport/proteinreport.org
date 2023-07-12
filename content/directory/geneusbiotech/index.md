@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Mr. Visserplein</span><br>
 <span class="postal-code">1011 PL</span> <span class="locality">Amsterdam</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["geneus.png"]
+featured_image: "geneus.png"
 draft: false
 pinned: false
 homepage: false

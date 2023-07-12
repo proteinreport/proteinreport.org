@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Westminster Avenue</span><br>
 <span class="locality">Santa Ana</span>, <span class="postal-code">92703</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["8th-continent-soymilk-logo_0.png"]
+featured_image: "8th-continent-soymilk-logo_0.png"
 draft: false
 pinned: false
 homepage: false

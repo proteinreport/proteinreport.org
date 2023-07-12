@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Kjøpmannsgata</span><br>
 <span class="postal-code">7013</span> <span class="locality">Trondheim</span><br>
 <span class="country">Norway</span></p>]
-featured_image: ["flowfood logo.png"]
+featured_image: "flowfood logo.png"
 draft: false
 pinned: false
 homepage: false

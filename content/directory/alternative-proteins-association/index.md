@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Park St
 <span class="locality">London</span><br>
 <span class="postal-code">W1K 6SS</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["APA.jpg"]
+featured_image: "APA.jpg"
 draft: false
 pinned: false
 homepage: false

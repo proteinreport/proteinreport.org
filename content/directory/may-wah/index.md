@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Hester Street</span><br>
 <span class="locality">New York</span>, <span class="postal-code">10013</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["may wah nyc logo.png"]
+featured_image: "may wah nyc logo.png"
 draft: false
 pinned: false
 homepage: false

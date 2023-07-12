@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Portland</span>, <span class="postal-code">97201</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["tempt.jpg"]
+featured_image: "tempt.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Rakentajanaukio</span><br>
 <span class="postal-code">02150</span> <span class="locality">Espoo</span><br>
 <span class="country">Finland</span></p>]
-featured_image: ["OzF4nOLS_400x400.jpg"]
+featured_image: "OzF4nOLS_400x400.jpg"
 draft: false
 pinned: false
 homepage: false

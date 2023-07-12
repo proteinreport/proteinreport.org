@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Albert Street</span><br>
 <span class="locality">Ottawa</span> <span class="postal-code">K1P 1A5</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["1598575338575.jpg"]
+featured_image: "1598575338575.jpg"
 draft: false
 pinned: false
 homepage: false

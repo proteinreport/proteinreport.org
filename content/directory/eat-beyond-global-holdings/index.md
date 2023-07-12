@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Robson Street</span><br>
 <span class="locality">Vancouver</span> <span class="postal-code">V6Z 2E7</span><br>
 <span class="country">Canada</span></p>]
-featured_image: ["EB_logo.jpg"]
+featured_image: "EB_logo.jpg"
 draft: false
 pinned: false
 homepage: false

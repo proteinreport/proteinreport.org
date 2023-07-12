@@ -12,7 +12,7 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="locality">Shinjuku City</span>,<br>
 <span class="postal-code">162-0056</span><br>
 <span class="country">Japan</span></p>]
-featured_image: ["Integriculture - logo.png"]
+featured_image: "Integriculture - logo.png"
 draft: false
 pinned: false
 homepage: false

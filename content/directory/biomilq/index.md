@@ -11,7 +11,7 @@ finance_type: []
 regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Durham</span>, <span class="postal-code">27701</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["biomilq.png"]
+featured_image: "biomilq.png"
 draft: false
 pinned: false
 homepage: false

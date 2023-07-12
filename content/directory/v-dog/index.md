@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Downley
 <span class="locality">Havant</span><br>
 <span class="postal-code">PO9 2NJ</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["V-dog logo.png"]
+featured_image: "V-dog logo.png"
 draft: false
 pinned: false
 homepage: false

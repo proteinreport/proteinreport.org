@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">57th Street</span><br>
 <span class="locality">Sarasota</span>, <span class="postal-code">34243</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["Osprey Biotechnics logo.jpg"]
+featured_image: "Osprey Biotechnics logo.jpg"
 draft: false
 pinned: false
 homepage: false

@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">West Bannock Street</span><br>
 <span class="locality">Boise</span>, <span class="postal-code">83702</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["melt-organic-butter.jpg"]
+featured_image: "melt-organic-butter.jpg"
 draft: false
 pinned: false
 homepage: false

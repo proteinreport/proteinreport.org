@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Amstelplein</span><br>
 <span class="postal-code">1096 BC</span> <span class="locality">Amsterdam</span><br>
 <span class="country">Netherlands</span></p>]
-featured_image: ["640px-Upfield_logo.svg.png"]
+featured_image: "640px-Upfield_logo.svg.png"
 draft: false
 pinned: false
 homepage: false

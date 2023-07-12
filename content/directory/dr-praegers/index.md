@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">Boumar Place</span><br>
 <span class="locality">Elmwood Park</span>, <span class="postal-code">07407</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["dr-praegers-logo.png"]
+featured_image: "dr-praegers-logo.png"
 draft: false
 pinned: false
 homepage: false

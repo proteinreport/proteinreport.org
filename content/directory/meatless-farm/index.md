@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Wharf S
 <span class="locality">Leeds</span><br>
 <span class="postal-code">LS2 7EQ</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["mf.png"]
+featured_image: "mf.png"
 draft: false
 pinned: false
 homepage: false

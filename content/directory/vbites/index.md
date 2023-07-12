@@ -13,7 +13,7 @@ location: [<p class="address" translate="no"><span class="address-line1">Tunwell
 <span class="locality">Corby</span><br>
 <span class="postal-code">NN17 1AR</span><br>
 <span class="country">United Kingdom</span></p>]
-featured_image: ["VBites-2018-Logo_1000px.png"]
+featured_image: "VBites-2018-Logo_1000px.png"
 draft: false
 pinned: false
 homepage: false

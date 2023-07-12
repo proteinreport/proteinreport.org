@@ -11,7 +11,7 @@ finance_type: []
 regions: [Middle East]
 location: [<p class="address" translate="no"><span class="locality">Lachish</span><br>
 <span class="country">Israel</span></p>]
-featured_image: ["Brevel-LOGO.png"]
+featured_image: "Brevel-LOGO.png"
 draft: false
 pinned: false
 homepage: false

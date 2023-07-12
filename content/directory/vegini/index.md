@@ -12,7 +12,7 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="address-line1">Dokapark</span><br>
 <span class="postal-code">3304</span><br>
 <span class="country">Austria</span></p>]
-featured_image: ["vegini-logo_0.png"]
+featured_image: "vegini-logo_0.png"
 draft: false
 pinned: false
 homepage: false

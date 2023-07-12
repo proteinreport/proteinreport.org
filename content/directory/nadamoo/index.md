@@ -12,7 +12,7 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="address-line1">South Lamar Boulevard</span><br>
 <span class="locality">Austin</span>, <span class="postal-code">78704</span><br>
 <span class="country">United States</span></p>]
-featured_image: ["KYK1LKGb_400x400.jpg"]
+featured_image: "KYK1LKGb_400x400.jpg"
 draft: false
 pinned: false
 homepage: false
