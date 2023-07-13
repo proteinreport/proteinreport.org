@@ -1,10 +1,12 @@
-<p class="text-lg m-2">News provided by:</p>
+<p class="text-lg m-2">Job posted by:</p>
 {{ if .Params.company}}
   {{ $company_uuid := .Params.company }}
+  {{ $image := "" }}
   {{ $companies := where site.RegularPages "Type" "directory" }}
   {{ with where $companies ".Params.uuid" $company_uuid }}
     {{ with index . 0 }}
       {{ if .Params.featured_image }}
+        {{ $image = .Resources.GetMatch .Params.featured_image }}
           <div class="flex flex-row flex-wrap md:flex-col divide-y-4 border-y-4 m-2">
             {{ $image := .Resources.GetMatch .Params.featured_image }}
             {{ $imageLq := $image.Resize "15x15 webp q95" -}}

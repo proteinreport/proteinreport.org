@@ -1,0 +1,30 @@
+<div class="flex flex-col gap-2 m-2">
+  <div class="flex flex-row">
+    {{ if .Params.protein -}}
+      {{ range $index, $protein := .Params.protein -}}
+        <a class="border-2 p-2" href="{{ "/protein/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{ end -}}
+    {{ end -}}
+  </div>
+  <div class="flex flex-row gap-2">
+    {{ if .Params.products -}}
+      {{ range $index, $products := .Params.products -}}
+        <a class="border-2 p-2" href="{{ "/products/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{ end -}}
+    {{ end -}}
+  </div>
+  <div class="flex flex-row gap-2">
+    {{ if .Params.topics -}}
+      {{ range $index, $topics := .Params.topics -}}
+        <a class="border-2 p-2" href="{{ "/topics/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{ end -}}
+    {{ end -}}
+  </div>
+  <div class="flex flex-row gap-2">
+    {{ if .Params.regions -}}
+      {{ range $index, $regions := .Params.regions -}}
+        <a class="border-2 p-2" href="{{ "/regions/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{ end -}}
+    {{ end -}}
+  </div>
+</div>

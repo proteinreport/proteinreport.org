@@ -1,0 +1,43 @@
+{{ define "main" }}
+<div class="flex flex-wrap  justify-center">
+  <div class="md:w-full pr-4 pl-4 lg:w-3/4 pr-4 pl-4">
+    {{ with .Params.headline -}}
+      <h1 class="text-center">{{ . }}</h1>
+    {{ else -}}
+      <h1 class="text-center">{{ .Title }}</h1>
+    {{ end -}}
+    {{ with .Params.summary -}}<p class="text-xl font-light text-center">{{ . }}</p>{{ end -}}
+    {{ with .Content -}}<div class="text-center">{{ . }}</div>{{ end -}}
+  </div>
+</div>
+<div class="flex flex-wrap  justify-center">
+  <div class="lg:w-3/4 pr-4 pl-4">
+    {{ $paginator := .Paginate (.Data.Pages) -}}
+    {{ range $paginator.Pages -}}
+      <div class="relative flex flex-col min-w-0 rounded break-words border bg-white border-1 border-gray-300">
+        {{ $image := .Resources.GetMatch (printf "**%s" .Params.featured_image) -}}
+        {{ if $image -}}
+          {{ partial "picture" (dict
+          "ctx" .
+          "src" $image
+          "alt" .Title
+          "class" "img-fluid blur-up w-100 h-auto rounded-0"
+          )}}
+        {{ end -}}
+        <div class="flex-auto p-6">
+          <article>
+            <h2 class="h3"><a class="" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
+            <p>{{ .Params.summary | safeHTML }}</p>
+            {{ partial "main/article-meta.html" . -}}
+          </article>
+        </div>
+      </div>
+    {{ end -}}
+  </div>
+</div>
+<div class="flex flex-wrap  justify-center">
+  <div class="md:w-full pr-4 pl-4 lg:w-3/4 pr-4 pl-4">
+    {{ template "_internal/pagination.html" . }}    
+  </div>
+</div>
+{{ end }}

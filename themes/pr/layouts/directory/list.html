@@ -1,0 +1,31 @@
+{{ define "main" }}
+<section class="items-center relative w-full border-b-2">
+  <div class="items-center relative w-full border-b-4 mx-auto 2xl:max-w-7xl">
+      <div class="flex flex-wrap items-center 2xl:border-x-2 md:divide-x-4">
+          <h2 class="md:w-1/3 lg:text-7xl p-10">Directory</h2>
+          <p class="md:w-2/3 p-10 lg:text-2xl">Companies and organizations addressing protein industry challenges</p>
+      </div>
+      <div class="flex flex-col w-full border-t-4 divide-y-4 2xl:border-x-2">
+        {{ $paginator := .Paginate (.Data.Pages) -}}
+        {{ range $paginator.Pages -}}
+        <div class="w-full flex flex-row flex-wrap items-center">
+          <div class="w-full md:w-1/3 aspect-w-16 aspect-h-3">
+            {{ $image := .Resources.GetMatch .Params.featured_image -}}
+            {{ if $image -}}
+                <img src="{{ $image.RelPermalink }}" alt="" class="object-cover">
+            {{ end -}}
+          </div>
+          <div class="w-full md:w-2/3 gap-12 p-2 lg:px-6">
+              <a class="p-6 w-full" href="{{ .RelPermalink }}"><h2 class="text-4xl">{{ .Params.title }}</h2></a>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+      <div class="flex flex-wrap  justify-center">
+        <div class="md:w-full pr-4 pl-4 lg:w-3/4 pr-4 pl-4">
+          {{ template "_internal/pagination.html" . }}    
+        </div>
+      </div>
+  </div>
+</section>
+{{ end }}

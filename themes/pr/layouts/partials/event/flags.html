@@ -1,0 +1,9 @@
+<div class="flex flex-col absolute top-0 right-0 z-1000">
+  <div class="flex flex-row pt-2 pr-2">
+    {{ if .Params.flags -}}
+      {{ range $index, $flags := .Params.flags -}}
+        <a class="border-2 p-2 ml-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{ end -}}
+    {{ end -}}
+  </div>
+</div>
