@@ -24,14 +24,14 @@
         <div class="flex flex-wrap w-full 2xl:border-x-2 md:divide-x-4">
             {{ range first 2 ( after 1 ( where .Site.RegularPages "Section" "articles" ) ) }}
             {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
-            <div class="flex relative flex-col w-full md:w-1/2">
+            <div class="flex relative flex-col divide-y-4 w-full md:w-1/2">
                 <div class="w-full lg:mt-0 aspect-w-16 aspect-h-9">
                     <img src="{{ $image.RelPermalink }}" alt="" class="object-cover">
                 </div>
-                <div class="md:w-5/6 absolute p-4 bg-white/95 border-4 bottom-0 lg:px-6">
+                <div class="md:w-5/6 absolute p-4 bg-white/95 border-t-4 border-r-4 bottom-0 lg:px-6">
                     <a class="w-full group" href="{{ .RelPermalink }}">
-                        <h2 class="text-4xl font-semibold group-hover:hidden">{{ .Params.title }}</h2>
-                        <p class="text-2xl hidden group-hover:flex">{{ .Params.excerpt | safeHTML | truncate 100 }}</p>
+                        <h2 class="text-4xl font-semibold">{{ .Params.title }}</h2>
+                        <p class="text-2xl hidden">{{ .Params.excerpt | safeHTML | truncate 100 }}</p>
                     </a>
                 </div>
                 <div class="w-1/6 ml-auto py-6">
@@ -47,14 +47,14 @@
         <div class="flex flex-wrap w-full 2xl:border-x-2 md:divide-x-4">
             {{ range first 3 ( after 3 ( where .Site.RegularPages "Section" "articles" ) ) }}
             {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
-            <div class="flex relative flex-col w-full md:w-1/3">
+            <div class="flex relative flex-col divide-y-4 w-full md:w-1/3">
                 <div class="w-full lg:mt-0 aspect-w-16 aspect-h-9">
                     <img src="{{ $image.RelPermalink }}" alt="" class="object-cover">
                 </div>
-                <div class="md:w-5/6 absolute p-4 bg-white/95 border-4 bottom-0 lg:px-6">
+                <div class="md:w-5/6 absolute p-4 bg-white/95 border-t-4 border-r-4 bottom-0 lg:px-6">
                     <a class="w-full group" href="{{ .RelPermalink }}">
-                        <h2 class="text-2xl font-semibold group-hover:hidden">{{ .Params.title }}</h2>
-                        <p class="text-lg hidden group-hover:flex">{{ .Params.excerpt | safeHTML | truncate 100 }}</p>
+                        <h2 class="text-2xl font-semibold">{{ .Params.title }}</h2>
+                        <p class="text-lg hidden">{{ .Params.excerpt | safeHTML | truncate 100 }}</p>
                     </a>
                 </div>
                 <div class="w-1/6 ml-auto py-6">

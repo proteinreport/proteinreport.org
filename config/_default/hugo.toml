@@ -3,12 +3,12 @@ baseurl = "/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
-disableKinds = ["taxonomy", "term"]
+# disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
 languageCode = "en-US"
-paginate = 700
+paginate = 7
 rssLimit = 10
 summarylength = 20 # 70 (default)
 
@@ -32,9 +32,18 @@ copyRight = "Copyright (c) 2023 Hyas"
 
 [taxonomies]
   category = "categories"
+  protein = "proteins"
+  product = "products"
+  topic = "topics"
+  region = "regions"
+  flag = "flags"
 
 [permalinks]
   blog = "/:title/"
+  proteins = "/:slug/"
+  products = "/:slug/"
+  topics = "/:slug/"
+  regions = "/:slug/"
 
 [minify.tdewolff.html]
   keepWhitespace = false
