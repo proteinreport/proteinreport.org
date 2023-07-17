@@ -9,7 +9,7 @@
     {{ $image := .Resources.GetMatch .Params.featured_image -}}
     {{ if $image -}}
     <div class="w-full md:max-w-[50%] flex items-center">
-      <div class="m-auto">
+      <div class="m-auto p-6">
         <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid w-80">
       </div>
     </div>
@@ -19,12 +19,12 @@
     </aside>
   </div>
   <div class="w-full flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-x-4 border-b-4">
-    <div class="w-full flex flex-col px-4 md:w-1/2 mt-4">
+    <div class="w-full flex flex-col px-6 md:w-1/2 mt-4">
       {{ partial "directory/details.html" . }}
     </div>
-    <aside class="w-full md:w-1/2">
+    <div class="w-full md:w-1/2 px-4">
       {{ partial "directory/links.html" . }}
-    </aside>
+    </div>
   </div>
 </article>
 {{ end }}
