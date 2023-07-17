@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">David F
 <span class="locality">Rehovot</span> <span class="postal-code">7632805</span><br>
 <span class="country">Israel</span></p>]
 featured_image: "sh.png"
+website: https://steakholderfoods.com/
+linkedin: https://www.linkedin.com/company/steakholderfoods
+twitter: https://twitter.com/stkhfoods
+instagram: https://www.instagram.com/steakholderfoods/
+facebook: https://www.facebook.com/SteakholderFoods/
+youtube: https://www.youtube.com/c/SteakholderFoods
+crunchbase: https://www.crunchbase.com/organization/meatech
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5836
 ---
-<p>Steakholder Foods Ltd. (Nasdaq: STKH), formally MeaTech 3D Ltd. ($MITC), is on a mission to make real meat sustainable and slaughter free. With proprietary 3D bioprinting technology and advanced cellular biology, the company is developing whole-cut, ground and hybrid products that will allow people to continue enjoying tender, juicy meat while making the right choice for the planet and all its inhabitants.</p>
+Steakholder Foods Ltd. (Nasdaq: STKH), formally MeaTech 3D Ltd. ($MITC), is on a mission to make real meat sustainable and slaughter free. With proprietary 3D bioprinting technology and advanced cellular biology, the company is developing whole-cut, ground and hybrid products that will allow people to continue enjoying tender, juicy meat while making the right choice for the planet and all its inhabitants.

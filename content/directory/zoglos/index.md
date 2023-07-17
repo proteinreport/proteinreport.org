@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Kennedy
 <span class="locality">Toronto</span> <span class="postal-code">M6R 2L2</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "zoglo's logo.jpg"
+website: http://www.zoglos.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/Zoglos-138605442829514/
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/soglowek-food-group
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5565
 ---
-<p>Zoglo’s is a dedicated manufacturer of fine meatless alternatives with protein and vegetable entrées, and finger foods which are easy to prepare in just a few minutes. Zoglo’s products combine taste, technology and the highest levels of research and development.</p>
+Zoglo’s is a dedicated manufacturer of fine meatless alternatives with protein and vegetable entrées, and finger foods which are easy to prepare in just a few minutes. Zoglo’s products combine taste, technology and the highest levels of research and development.

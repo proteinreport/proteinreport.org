@@ -12,10 +12,17 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Durham</span>, <span class="postal-code">27701</span><br>
 <span class="country">United States</span></p>]
 featured_image: "biomilq.png"
+website: https://www.biomilq.com/
+linkedin: https://www.linkedin.com/company/biomilq
+twitter: https://twitter.com/biomilq
+instagram: 
+facebook: https://www.facebook.com/biomilq
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/biomilq
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6178
 ---
-<p>We leverage our patent-pending technology to produce nutritionally equivalent breastmilk from cultured human mammary cells. With Biomilq, families can achieve the recommended six months of exclusive breastfeeding while alleviating the climate impacts of bovine-based infant formula.</p>
+We leverage our patent-pending technology to produce nutritionally equivalent breastmilk from cultured human mammary cells. With Biomilq, families can achieve the recommended six months of exclusive breastfeeding while alleviating the climate impacts of bovine-based infant formula.

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">New Peh
 <span class="locality">Saddle Brook</span>, <span class="postal-code">07663</span><br>
 <span class="country">United States</span></p>]
 featured_image: "sirabella's logo.png"
+website: http://www.VeganCheesecake.net
+linkedin: 
+twitter: https://twitter.com/vegcheesecake
+instagram: https://www.instagram.com/vegancheesecakes/
+facebook: https://www.facebook.com/vegancheesecake
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/sirabella-s-vegancheesecake
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5665
 ---
-<p>Sirabella’s New York style Cheesecake uses dairy-free and eggless ingredients to create a plant-based cheesecake that looks and tastes just like a traditional cheesecake.</p>
+Sirabella’s New York style Cheesecake uses dairy-free and eggless ingredients to create a plant-based cheesecake that looks and tastes just like a traditional cheesecake.

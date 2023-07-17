@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Martin 
 <span class="locality">Berkeley</span>, <span class="postal-code">94704</span><br>
 <span class="country">United States</span></p>]
 featured_image: "logo_0.png"
+website: https://www.melibio.com/
+linkedin: https://www.linkedin.com/company/melibioinc
+twitter: https://twitter.com/MeliBioInc
+instagram: https://www.instagram.com/melibioinc/
+facebook: https://www.facebook.com/MeliBioInc/
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/melibio
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7705
 ---
-<p>The future of honey. Better for humans. Better for bees.</p>
+The future of honey. Better for humans. Better for bees.

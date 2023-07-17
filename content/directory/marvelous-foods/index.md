@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">正义�
 <span class="administrative-area">Bei Jing Shi</span>, <span class="postal-code">100051</span><br>
 <span class="country">China</span></p>]
 featured_image: "Marvelous+Foods+logo+-+Long.png"
+website: https://marvelousfoods.com/
+linkedin: https://www.linkedin.com/company/marvelous-foods
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/marvelous-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10474
 ---
-<p>Marvelous Foods is a plant-based snack foods start-up for the Chinese market.</p>
+Marvelous Foods is a plant-based snack foods start-up for the Chinese market.

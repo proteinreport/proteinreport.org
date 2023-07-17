@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Market 
 <span class="locality">San Francisco</span>, <span class="postal-code">94102</span><br>
 <span class="country">United States</span></p>]
 featured_image: "HoorayFoods logo.png"
+website: https://www.hoorayfoods.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

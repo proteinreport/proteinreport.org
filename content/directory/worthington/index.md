@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">David s
 <span class="locality">Ooltewah</span>, <span class="postal-code">37363</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Worthington-logo-big.jpg"
+website: http://eatworthington.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

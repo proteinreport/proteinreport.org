@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">East Ca
 <span class="locality">Columbus</span>, <span class="postal-code">43215</span><br>
 <span class="country">United States</span></p>]
 featured_image: "MatrixMeats+Logo-08.png"
+website: https://www.matrixmeats.com/
+linkedin: https://www.linkedin.com/company/matrix-meats
+twitter: https://twitter.com/MatrixMeats
+instagram: https://www.instagram.com/matrix.meats
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 370
 ---
-<p>Matrix Meats is a manufacturer of 3D nanofibrous matrices that produce significantly more volume of meat cell culture per batch. Our custom designed electrospun fiber products are covered by over 50 issued and pending patents that help facilitate cultured meat that looks, feels, and tastes like real meat.</p>
+Matrix Meats is a manufacturer of 3D nanofibrous matrices that produce significantly more volume of meat cell culture per batch. Our custom designed electrospun fiber products are covered by over 50 issued and pending patents that help facilitate cultured meat that looks, feels, and tastes like real meat.

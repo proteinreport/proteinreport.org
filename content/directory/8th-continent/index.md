@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Westmin
 <span class="locality">Santa Ana</span>, <span class="postal-code">92703</span><br>
 <span class="country">United States</span></p>]
 featured_image: "8th-continent-soymilk-logo_0.png"
+website: http://www.8thcontinent.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5554
 ---
-<p>Stremicks Heritage Foods is a family run business. The company produces and sells the high quality plant-based dairy products at affordable prices . </p>
+Stremicks Heritage Foods is a family run business. The company produces and sells the high quality plant-based dairy products at affordable prices . 

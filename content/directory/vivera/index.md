@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Handels
 <span class="postal-code">7451 PJ</span> <span class="locality">Holten</span><br>
 <span class="country">Netherlands</span></p>]
 featured_image: "vivera.png"
+website: https://vivera.com/
+linkedin: https://www.linkedin.com/company/vivera-b-v-
+twitter: 
+instagram: https://www.instagram.com/vivavivera/
+facebook: https://www.facebook.com/vivavivera/
+youtube: https://www.youtube.com/user/Viveravleesvervanger
+crunchbase: https://www.crunchbase.com/organization/vivera-c4c9
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1077
 ---
-<p>Vivera is a European brand for conventional and organic meat alternatives (components, ingredients and snacks). The Vivera assortment consists of raw and precooked products divided into four categories: Basic, Organic, 100% Vegetable and Meat product replacements. Most Vivera products are based on soy beans. However, there are also products based on chickpeas, corn, rice and potatoes.</p>
+Vivera is a European brand for conventional and organic meat alternatives (components, ingredients and snacks). The Vivera assortment consists of raw and precooked products divided into four categories: Basic, Organic, 100% Vegetable and Meat product replacements. Most Vivera products are based on soy beans. However, there are also products based on chickpeas, corn, rice and potatoes.

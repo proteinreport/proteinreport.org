@@ -12,10 +12,17 @@ regions: [Middle East]
 location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
 <span class="country">Israel</span></p>]
 featured_image: "yemoja-grn.png"
+website: https://yemojaltd.com/
+linkedin: https://www.linkedin.com/company/yemoja
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/yemoja
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6606
 ---
-<p>Yemoja is an innovative company specializing in industrial, multi-species microalgae production. Our state of the art technology changes the concept of algaculture manufacturing. Thanks to our expertise and our unique patented technology, we are able to produce high quantities of products extracted from microalgae Our mission is to rely on our expertise to provide our clients with microalgae-derived high-value products, with the highest production standards and quality. The company is currently extending its industrial capacities, with the building of a larger facility, conceived as a GMP one.</p>
+Yemoja is an innovative company specializing in industrial, multi-species microalgae production. Our state of the art technology changes the concept of algaculture manufacturing. Thanks to our expertise and our unique patented technology, we are able to produce high quantities of products extracted from microalgae Our mission is to rely on our expertise to provide our clients with microalgae-derived high-value products, with the highest production standards and quality.

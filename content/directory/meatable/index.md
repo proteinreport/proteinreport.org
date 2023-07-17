@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Alexand
 <span class="postal-code">2613 AZ</span> <span class="locality">Delft</span><br>
 <span class="country">Netherlands</span></p>]
 featured_image: "Meatble-transp.temp_.png"
+website: https://www.meatable.com/
+linkedin: https://www.linkedin.com/company/itsmeatable/
+twitter: https://twitter.com/itsmeatable
+instagram: https://www.instagram.com/itsmeatable/
+facebook: https://www.facebook.com/meetMeatable
+youtube: https://www.youtube.com/channel/UCNuu-ncMYhvHjieSZgL2XVQ
+crunchbase: https://www.crunchbase.com/organization/meatable
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5819
 ---
-<p>Meatable makes 100% real, delicious, guilt-free meat. With one cell, they are revolutionizing the meat industry's impact on climate change and animal welfare. At the same time the company increases food security, without compromising the culinary experience of eating tasty, real meat.</p>
+Meatable makes 100% real, delicious, guilt-free meat. With one cell, they are revolutionizing the meat industry's impact on climate change and animal welfare. At the same time the company increases food security, without compromising the culinary experience of eating tasty, real meat.

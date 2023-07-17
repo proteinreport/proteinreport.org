@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">South F
 <span class="locality">Chicago</span>, <span class="administrative-area">Illinois</span> <span class="postal-code">60604</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Aqua Cultured Foods logo.png"
+website: https://www.aquaculturedfoods.com/
+linkedin: https://www.linkedin.com/company/aquacultured-foods
+twitter: https://twitter.com/foods_aqua
+instagram: https://www.instagram.com/aquaculturedfoods/
+facebook: https://www.facebook.com/AquaCulturedFoods
+youtube: https://www.youtube.com/channel/UC0lT3pkbMQbFZeckY-udwZQ
+crunchbase: https://www.crunchbase.com/organization/aquacultured-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10437
 ---
-<p>Aqua Cultured Foods is an innovative food technology startup developing the world’s first whole-muscle cut seafood alternatives created through microbial fermentation. Its novel technology produces a sustainable, complete protein source using only a fraction of the resources required by traditional aquaculture. As an R&D company with a focus on product commercialization, Aqua Cultured Foods occupies a unique position in the burgeoning alt-seafood market as well as within the fermentation industry. The company’s mission is to mitigate global challenges such as overfishing, climate change and feeding the world’s expanding population with delicious, nutrient-rich foods.</p>
+Aqua Cultured Foods is an innovative food technology startup developing the world’s first whole-muscle cut seafood alternatives created through microbial fermentation. Its novel technology produces a sustainable, complete protein source using only a fraction of the resources required by traditional aquaculture. As an R&D company with a focus on product commercialization, Aqua Cultured Foods occupies a unique position in the burgeoning alt-seafood market as well as within the fermentation industry.

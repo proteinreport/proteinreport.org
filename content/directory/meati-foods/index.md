@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Canyon 
 <span class="locality">Boulder</span>, <span class="postal-code">80302</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Meati_Logo_Revised_Final_V3_Clean.png"
+website: https://www.meati.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 696
 ---
-<p>Sustainable plant-based meats made from natural ingredients that have the nutrition profile of real meat, plus all the nutrition and fiber of vegetables. Meati has been produced by Emergy Foods.</p>
+Sustainable plant-based meats made from natural ingredients that have the nutrition profile of real meat, plus all the nutrition and fiber of vegetables. Meati has been produced by Emergy Foods.

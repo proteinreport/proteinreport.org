@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Schönh
 <span class="postal-code">10119</span> <span class="locality">Berlin</span><br>
 <span class="country">Germany</span></p>]
 featured_image: "POV+logo+light.png"
+website: https://www.purpleorange.com/
+linkedin: https://www.linkedin.com/company/purpleorange
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/purple-orange-ventures
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7124
 ---
-<p>POV is an entrepreneur-led impact seed fund based in Berlin.  We back mission-driven founders leveraging science & technology to solve some of the world's most pressing challenges.  We seek early-stage teams across the globe devoted to removing animals from the global food system and sustainably feeding the world.</p>
+POV is an entrepreneur-led impact seed fund based in Berlin.  We back mission-driven founders leveraging science & technology to solve some of the world's most pressing challenges.  We seek early-stage teams across the globe devoted to removing animals from the global food system and sustainably feeding the world.

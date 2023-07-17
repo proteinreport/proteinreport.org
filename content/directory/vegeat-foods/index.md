@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Côte d
 <span class="locality">Mirabel</span> <span class="postal-code">J7N 2Y1</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "vegeat-logo-wh.png"
+website: https://vegeatfoods.com/
+linkedin: https://www.linkedin.com/company/vegeat-foods/about/
+twitter: 
+instagram: https://www.instagram.com/vegeatfoods/
+facebook: https://www.facebook.com/Vegeat-Foods-325693717984118/
+youtube: https://www.youtube.com/channel/UCBIkLslQnjA8hM6oGb48YtQ/videos?view_as=subscriber
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

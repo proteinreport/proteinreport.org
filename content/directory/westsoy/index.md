@@ -13,12 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Kahn Ro
 <span class="locality">Franklin</span>, <span class="postal-code">06254</span><br>
 <span class="country">United States</span></p>]
 featured_image: "westsoy_logo_hr.jpg"
+website: http://www.westsoytofu.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5560
 ---
-WESTSOY plant-based beverages and meatless products prove that heart healthy, good-for-you can be tasty and fun, too.
-
-Westsoy is certified by the American Heart Association to be low in saturated fat and cholesterol and Non-GMO Project verified.
+WESTSOY plant-based beverages and meatless products prove that heart healthy, good-for-you can be tasty and fun, too.Westsoy is certified by the American Heart Association to be low in saturated fat and cholesterol and Non-GMO Project verified.

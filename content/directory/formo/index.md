@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Rosenth
 <span class="postal-code">10119</span> <span class="locality">Berlin</span><br>
 <span class="country">Germany</span></p>]
 featured_image: "FORMO-LOGO-SPARK-MILK-1.png"
+website: https://formo.bio/
+linkedin: https://www.linkedin.com/company/eat-formo/
+twitter: https://twitter.com/eatformo
+instagram: https://www.instagram.com/eatformo/
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/legendairy-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1303
 ---
-<p>Formo is aiming to give people dairy milk without the destructive environmental and ethical consequences. Through a fermentation process, Formo transforms microorganisms and sugar into milk protein and then on to dairy products. Dairy milk without cows.</p>
+Formo is aiming to give people dairy milk without the destructive environmental and ethical consequences. Through a fermentation process, Formo transforms microorganisms and sugar into milk protein and then on to dairy products. Dairy milk without cows.

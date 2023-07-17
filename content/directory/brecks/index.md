@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Unnamed
 <span class="postal-code">YO8 6DJ</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "brecks_logo.png"
+website: http://www.brecksfood.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1297
 ---
-<p>UK based supplier of extruded cereals and meat free products to industry and retail.</p>
+UK based supplier of extruded cereals and meat free products to industry and retail.

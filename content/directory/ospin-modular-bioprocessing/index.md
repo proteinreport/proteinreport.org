@@ -12,10 +12,17 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Berlin</span><br>
 <span class="country">Germany</span></p>]
 featured_image: "ospin-logo-500.png"
+website: https://ospin.de/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5849
 ---
-<p>Startup providing bioreactor systems for cultivated meat and tissue engineering uses</p>
+Startup providing bioreactor systems for cultivated meat and tissue engineering uses

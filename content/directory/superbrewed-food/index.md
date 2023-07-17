@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Lisa Dr
 <span class="locality">New Castle</span>, <span class="postal-code">19720</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Dairy-free-cheeses-featuring-novel-fermented-microbial-protein-to-launch-by-year-end-says-Superbrewed-Food_wrbm_large.jpg"
+website: https://www.superbrewedfood.com/
+linkedin: https://www.linkedin.com/company/white-dog-labs-inc./
+twitter: https://twitter.com/whitedoglabs
+instagram: https://www.instagram.com/superbrewedfood/
+facebook: https://www.facebook.com/SuperbrewedFood
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/white-dog-labs-inc
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6617
 ---
-<p>Superbrewed Food, based in New Castle Delaware, uses anaerobic fermentation to generate microbial protein that balances nutrition, affordability and performance.</p>
+Superbrewed Food, based in New Castle Delaware, uses anaerobic fermentation to generate microbial protein that balances nutrition, affordability and performance.

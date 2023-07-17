@@ -12,10 +12,17 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="postal-code">44600</span> <span class="locality">Saint-Nazaire</span><br>
 <span class="country">France</span></p>]
 featured_image: "nature-et-moi logo.png"
+website: http://www.nature-moi.fr/
+linkedin: 
+twitter: https://twitter.com/nature_et_moi
+instagram: https://www.instagram.com/nature_moi_veg/
+facebook: https://www.facebook.com/pg/NATUREMOIVEG
+youtube: https://www.youtube.com/channel/UCHPoIrhTnQE_p1VVjrnDozg
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5702
 ---
-<p>Nature & Moi, an exclusive French plant-based cheese company, provides a range of cheeses for all the applications.</p>
+Nature & Moi, an exclusive French plant-based cheese company, provides a range of cheeses for all the applications.

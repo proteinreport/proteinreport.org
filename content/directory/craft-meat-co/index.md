@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Kaikora
 <span class="locality">Dunedin</span> <span class="postal-code">9011</span><br>
 <span class="country">New Zealand</span></p>]
 featured_image: "the craft meat co logo.png"
+website: https://www.craftmeat.co.nz/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

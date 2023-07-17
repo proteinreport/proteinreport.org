@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">U.S. 18
 <span class="locality">Flagstaff</span>, <span class="postal-code">86001</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Nex veg new-logo.png"
+website: https://nexveg.com/
+linkedin: 
+twitter: https://twitter.com/nexveg
+instagram: https://www.instagram.com/nexveg/
+facebook: https://www.facebook.com/nexveg
+youtube: https://www.youtube.com/channel/UCF7uTphBVj_TsMWWKMB0V8Q
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5608
 ---
-<p>NexVeg, a revolutionary whole-food plant-based protein brand, has launched a Kickstarter campaign to introduce its delicious, non-allergen, non-GMO products to high-performance, health-conscious and environmentally aware people across the nation.</p>
+NexVeg, a revolutionary whole-food plant-based protein brand, has launched a Kickstarter campaign to introduce its delicious, non-allergen, non-GMO products to high-performance, health-conscious and environmentally aware people across the nation.

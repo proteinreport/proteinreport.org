@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">R102 66
 <span class="postal-code">7915</span><br>
 <span class="country">South Africa</span></p>]
 featured_image: "KzRWCOdz_400x400.jpg"
+website: https://www.denovodairy.com/
+linkedin: https://www.linkedin.com/company/de-novo-dairy
+twitter: https://twitter.com/denovodairy
+instagram: https://www.instagram.com/de_novo_dairy/
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/de-novo-dairy
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10451
 ---
-<p>De Novo Dairy is on a mission to create nature-identical, sustainable and most importantly, healthy dairy proteins for human nutrition.</p>
+De Novo Dairy is on a mission to create nature-identical, sustainable and most importantly, healthy dairy proteins for human nutrition.

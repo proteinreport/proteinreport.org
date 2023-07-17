@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">South 2
 <span class="locality">Bozeman</span>, <span class="postal-code">59718</span><br>
 <span class="country">United States</span></p>]
 featured_image: "WayFare logo.png"
+website: https://wayfarefoods.com/
+linkedin: 
+twitter: https://twitter.com/wayfarefoods
+instagram: https://www.instagram.com/wayfare_foods/
+facebook: https://www.facebook.com/pg/wayfare
+youtube: https://www.youtube.com/channel/UC36QfwOn0kgifle_HIDhOxw
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Martin 
 <span class="locality">Berkeley</span>, <span class="postal-code">94704</span><br>
 <span class="country">United States</span></p>]
 featured_image: "eclipse.jpg"
+website: https://www.eclipsefoods.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1176
 ---
-<p>Eclipse Foods makes plant-based milk that is indistinguishable from conventional dairy, in taste, texture and functionality. Our products are made without soy, nuts, coconut, gluten, GMO’s, gums or stabilizers, making them free from all common allergens and much cleaner than other products.</p>
+Eclipse Foods makes plant-based milk that is indistinguishable from conventional dairy, in taste, texture and functionality. Our products are made without soy, nuts, coconut, gluten, GMO’s, gums or stabilizers, making them free from all common allergens and much cleaner than other products.

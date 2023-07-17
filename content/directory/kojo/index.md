@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">West Ja
 <span class="locality">Chicago</span>, <span class="postal-code">60604</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Kojo_Logos-03_400x.png"
+website: https://www.kojojerky.com/
+linkedin: 
+twitter: 
+instagram: https://www.instagram.com/kojojerky/
+facebook: https://www.facebook.com/kojojerky
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

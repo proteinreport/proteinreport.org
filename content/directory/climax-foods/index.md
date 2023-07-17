@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Seventh
 <span class="locality">Berkeley</span>, <span class="postal-code">94710</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Logo+with+Safezone+Black.png"
+website: https://www.climaxfoods.com/
+linkedin: https://www.linkedin.com/company/climaxfoods
+twitter: https://twitter.com/ClimaxFoods
+instagram: https://www.instagram.com/climaxfoods/
+facebook: https://www.facebook.com/ClimaxCheese/
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/climax-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7608
 ---
-<p>Climax Foods is a data science company innovating the future of food. It has developed sophisticated machine intelligence tools to unlock smarter paths from plants to products, creating a new generation of plant-based foods that will out-compete animal-based predecessors. Together, a team of top data and food scientists from around the globe are intelligently harnessing the vast biodiversity of the plant kingdom to create the pinnacle of flavor, texture, and nutrition — at a price point for everyone.</p>
+Climax Foods is a data science company innovating the future of food. It has developed sophisticated machine intelligence tools to unlock smarter paths from plants to products, creating a new generation of plant-based foods that will out-compete animal-based predecessors. Together, a team of top data and food scientists from around the globe are intelligently harnessing the vast biodiversity of the plant kingdom to create the pinnacle of flavor, texture, and nutrition — at a price point for everyone.

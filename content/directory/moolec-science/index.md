@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="locality">Warwick</spa
 <span class="postal-code">CV34 6DY</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "Moolec Science - Logo 3.png"
+website: https://moolecscience.com/
+linkedin: https://www.linkedin.com/company/moolec-science
+twitter: https://twitter.com/MoolecScience
+instagram: https://www.instagram.com/moolecscience/
+facebook: 
+youtube: https://www.youtube.com/channel/UC5i31t8SYIePaKnYmtynU8g
+crunchbase: https://www.crunchbase.com/organization/moolec-science
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7933
 ---
-<p>Moolec Science is the first company to introduce a unique hybrid concept between plant-based and cell-based in the alternative proteins landscape using Molecular Farming technology.</p>
+Moolec Science is the first company to introduce a unique hybrid concept between plant-based and cell-based in the alternative proteins landscape using Molecular Farming technology.

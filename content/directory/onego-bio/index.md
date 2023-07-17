@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Tekniik
 <span class="postal-code">02150</span> <span class="locality">Espoo</span><br>
 <span class="country">Finland</span></p>]
 featured_image: "Logo+small.jpg"
+website: https://www.onego.bio/
+linkedin: https://www.linkedin.com/company/onego-bio
+twitter: https://twitter.com/Onego_Bio
+instagram: https://www.instagram.com/onego_bio/
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/onego-bio
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10548
 ---
-<p>Onego Bio biotech company producing animal-free egg white with precision fermentation.</p>
+Onego Bio biotech company producing animal-free egg white with precision fermentation.

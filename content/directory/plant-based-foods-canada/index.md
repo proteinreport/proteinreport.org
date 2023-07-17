@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Duke of
 <span class="locality">Mississauga</span> <span class="postal-code">L5B 3C9</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "pbfc.jpg"
+website: https://www.plantbasedfoodscanada.ca/
+linkedin: https://www.linkedin.com/company/plant-based-foods-of-canada
+twitter: https://twitter.com/PlantBasedCAN
+instagram: https://www.instagram.com/plantbasedcan/
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7105
 ---
-<p>Plant-Based Foods of Canada (PBFC) acts as a collective voice for the producers of plant-based products. We use our voice to advocate for a modernized regulatory environment that will allow members to market their products effectively and to make them accessible to all consumers.</p>
+Plant-Based Foods of Canada (PBFC) acts as a collective voice for the producers of plant-based products. We use our voice to advocate for a modernized regulatory environment that will allow members to market their products effectively and to make them accessible to all consumers.

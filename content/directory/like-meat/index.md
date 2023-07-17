@@ -13,12 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Kaistra
 <span class="postal-code">40221</span> <span class="locality">Düsseldorf</span><br>
 <span class="country">Germany</span></p>]
 featured_image: "LM_Logo-NEU_RGB_800PIX_082017.png"
+website: https://likemeat.de
+linkedin: 
+twitter: 
+instagram: https://www.instagram.com/likemeat.de/?hl=de
+facebook: https://www.facebook.com/LikeMeatDE/
+youtube: https://www.youtube.com/channel/UCXWhrkIjiPjykjYGqCvSKbw
+crunchbase: https://www.crunchbase.com/organization/like-meat-gmbh
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5546
 ---
-<p>LikeMeat is a German company based in Dusseldorf. With the support of his family business from a meat processing background, Timo Recker founded LikeMeat in December 2013.</p>
-<p>During his studies in England in 2010 he came up with the brilliant idea to produce the most popular meat products, but completely without animal meat. Together with his team he has developed a production technology that finally matches the quality of meat and results in a firm, delicious and succulent texture. Just like meat!</p>
-<p>This LikeMeat process is unique in the market and keeps the special quality for the LikeMeat brand. In 2016, the heristo group merged with LikeMeat in order to provide the young company with the necessary momentum and organizational structure to make the LikeMeat brand to the most successful brand for meat alternatives.</p>
+LikeMeat is a German company based in Dusseldorf. With the support of his family business from a meat processing background, Timo Recker founded LikeMeat in December 2013.During his studies in England in 2010 he came up with the brilliant idea to produce the most popular meat products, but completely without animal meat. Together with his team he has developed a production technology that finally matches the quality of meat and results in a firm, delicious and succulent texture. Just like meat!

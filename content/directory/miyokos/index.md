@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Marina 
 <span class="locality">Petaluma</span>, <span class="postal-code">94954</span><br>
 <span class="country">United States</span></p>]
 featured_image: "miyokos_creamery_360x_logo.png"
+website: https://miyokos.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1248
 ---
-<p>Miyoko’s is revolutionizing the dairy industry by combining proprietary technology with age-old creamery methods to craft cheese and butter from plants.</p>
+Miyoko’s is revolutionizing the dairy industry by combining proprietary technology with age-old creamery methods to craft cheese and butter from plants.

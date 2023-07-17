@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Sint-Mi
 <span class="postal-code">9000</span> <span class="locality">Gent</span><br>
 <span class="country">Belgium</span></p>]
 featured_image: "alpro.png"
+website: https://www.alpro.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/alpro
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5529
 ---
-<p>Alpro is a company based in Ghent, Belgium that markets organic and non-organic, non-genetically modified, plant-based products, such as foods and drinks made from soy, almonds, hazelnuts, cashew, rice, oats or coconut.</p>
+Alpro is a company based in Ghent, Belgium that markets organic and non-organic, non-genetically modified, plant-based products, such as foods and drinks made from soy, almonds, hazelnuts, cashew, rice, oats or coconut.

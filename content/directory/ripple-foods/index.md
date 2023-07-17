@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Gilman 
 <span class="locality">Berkeley</span>, <span class="postal-code">94710</span><br>
 <span class="country">United States</span></p>]
 featured_image: "ripple-logo-568x320.jpg"
+website: https://www.ripplefoods.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1175
 ---
-<p>Berkeley-based Ripple Foods is a leader in developing innovative and delicious non-dairy products. Ripple products are powered by Ripptein, the purest plant protein on Earth.</p>
+Berkeley-based Ripple Foods is a leader in developing innovative and delicious non-dairy products. Ripple products are powered by Ripptein, the purest plant protein on Earth.

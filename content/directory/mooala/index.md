@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">McKinne
 <span class="locality">Dallas</span>, <span class="postal-code">75204</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Mooala_Logo-1.png"
+website: https://www.mooala.com/
+linkedin: 
+twitter: https://twitter.com/Mooala_Koala
+instagram: https://www.instagram.com/mooala_koala/
+facebook: https://www.facebook.com/mooalabrands/
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/mooala#section-overview
 draft: false
 pinned: false
 homepage: false

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Industr
 <span class="locality">Nashville</span>, <span class="postal-code">27856</span><br>
 <span class="country">United States</span></p>]
 featured_image: "LomaLinda-Blue-Box-logo_Traditions.png"
+website: https://atlanticnaturalfoods.com/loma-linda/
+linkedin: 
+twitter: 
+instagram: https://www.instagram.com/lomalinda_brand/
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5557
 ---
-<p>Since 1890, Loma Linda has been a leader in sustainable foods. Loma Linda believes that plant-based proteins are key to a healthy lifestyle and they contribute to a healthy world. The Loma Linda’s unique line of products aims to serve every taste and dietary need.</p>
+Since 1890, Loma Linda has been a leader in sustainable foods. Loma Linda believes that plant-based proteins are key to a healthy lifestyle and they contribute to a healthy world. The Loma Linda’s unique line of products aims to serve every taste and dietary need.

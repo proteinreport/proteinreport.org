@@ -12,10 +12,17 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Aberdeen Street</span><br>
 <span class="country">Hong Kong SAR China</span></p>]
 featured_image: "brinc_logo_final+(1).png"
+website: https://www.brinc.io/
+linkedin: https://www.linkedin.com/company/brinc-io
+twitter: https://twitter.com/brinciot
+instagram: https://www.instagram.com/brinc.io/
+facebook: https://www.facebook.com/Brinc.io
+youtube: https://www.youtube.com/channel/UC3BlOWiOJ0pF_mkOTuSGUVg
+crunchbase: https://www.crunchbase.com/organization/brinc-io
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7517
 ---
-<p>Brinc has developed a three month program covering Greater Bay Area, spanning Hong Kong, Shenzhen and Guangzhou, designed to support entrepreneurs who are solving the inefficiencies in the food supply chain by developing new protein alternatives to replace animal-based and animal-derived products. Startups accepted in the program will receive investment as well as hands-on support from Brinc’s in-house mentors and network of experts. If accepted, you will receive support in commercialization, and help to drive commercial conversations with potential partners with a view to launching in new markets across Asia. Brinc mentors will also provide product development support throughout the entire food supply chain.</p>
+Brinc has developed a three month program covering Greater Bay Area, spanning Hong Kong, Shenzhen and Guangzhou, designed to support entrepreneurs who are solving the inefficiencies in the food supply chain by developing new protein alternatives to replace animal-based and animal-derived products. Startups accepted in the program will receive investment as well as hands-on support from Brinc’s in-house mentors and network of experts.

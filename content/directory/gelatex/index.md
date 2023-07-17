@@ -12,10 +12,17 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="postal-code">10111</span> <span class="locality">Kesklinna</span><br>
 <span class="country">Estonia</span></p>]
 featured_image: "2578462_original.jpg"
+website: https://www.gelatex.com/
+linkedin: https://www.linkedin.com/company/gelatex/
+twitter: https://twitter.com/gela_tex
+instagram: 
+facebook: https://www.facebook.com/gelatex
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/gelatex
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 8981
 ---
-<p>Gelatex is a materials technology startup that is specialized in innovating bio-based nanofibrous materials and nanofiber production technologies. Compared to electrospinning, their technology enables over 90% cheaper nanofiber production for applications such as tissue engineering, cultured meat, drug discovery, wound care, energy storage, filtration, and more.</p>
+Gelatex is a materials technology startup that is specialized in innovating bio-based nanofibrous materials and nanofiber production technologies. Compared to electrospinning, their technology enables over 90% cheaper nanofiber production for applications such as tissue engineering, cultured meat, drug discovery, wound care, energy storage, filtration, and more.

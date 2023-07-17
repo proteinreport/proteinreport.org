@@ -11,10 +11,17 @@ finance_type: []
 regions: [US & Canada]
 location: []
 featured_image: "betterland_logo_black-1920w.png"
+website: https://www.betterlandfoods.com/
+linkedin: https://www.linkedin.com/company/betterland-foods
+twitter: 
+instagram: https://www.instagram.com/betterlandfoods/
+facebook: https://facebook.com/betterlandfoods
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10551
 ---
-<p>betterland foods is committed to creating a portfolio of cow-free products that tread lightly on the land, are healthier for humans and promise to delight.</p>
+betterland foods is committed to creating a portfolio of cow-free products that tread lightly on the land, are healthier for humans and promise to delight.

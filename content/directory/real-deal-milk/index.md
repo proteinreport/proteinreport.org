@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Ronda d
 <span class="postal-code">08010</span> <span class="locality">Barcelona</span> <span class="administrative-area">Catalunya</span><br>
 <span class="country">Spain</span></p>]
 featured_image: "blue-transparent-logo.png"
+website: https://www.realdealmilk.com/
+linkedin: https://www.linkedin.com/company/real-deal-milk
+twitter: https://twitter.com/realdealmilk
+instagram: https://www.instagram.com/realdealmilk/
+facebook: https://www.facebook.com/realdealmilk
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10457
 ---
-<p>It turns out, cows aren't great at making milk. They are an outdated and inefficient production system and we can do much better. At Real Deal Milk, we are developing technologies that produce dairy products that are equivalent to traditional dairy in terms of their nutritional value as well as the consumer experience. Our product will allow customers to enjoy milk products from cheese to ice cream as they were meant to be without having to worry about your impact on the environment and animal welfare.</p>
+It turns out, cows aren't great at making milk. They are an outdated and inefficient production system and we can do much better. At Real Deal Milk, we are developing technologies that produce dairy products that are equivalent to traditional dairy in terms of their nutritional value as well as the consumer experience. Our product will allow customers to enjoy milk products from cheese to ice cream as they were meant to be without having to worry about your impact on the environment and animal welfare.

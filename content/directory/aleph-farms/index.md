@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Prof. M
 <span class="locality">Rehovot</span><br>
 <span class="country">Israel</span></p>]
 featured_image: "mark-1.png"
+website: https://www.aleph-farms.com/
+linkedin: https://www.linkedin.com/company/aleph-farms/
+twitter: https://twitter.com/AlephFarms
+instagram: https://www.instagram.com/alephfarms/
+facebook: https://www.facebook.com/AlephFarms
+youtube: https://www.youtube.com/channel/UC0SEsI9gxrY9lGeDGWg2sEg
+crunchbase: https://www.crunchbase.com/organization/aleph-farms
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5816
 ---
-<p>Aleph Farms is a food technology company. We design new ways to grow quality animal products that improve sustainability, food security, and animal welfare in our food systems. Founded in 2017, we utilized cellular agriculture technology to unveil the world’s first cultivated thin-cut steak in 2018, the world’s first cultivated ribeye steak in 2021, and cultivated collagen in 2022. Under our product brand, Aleph Cuts, we will launch our first product, the Petit Steak, grown from the non-modified cells of a premium Angus cow.</p>
+Aleph Farms is a food technology company. We design new ways to grow quality animal products that improve sustainability, food security, and animal welfare in our food systems. Founded in 2017, we utilized cellular agriculture technology to unveil the world’s first cultivated thin-cut steak in 2018, the world’s first cultivated ribeye steak in 2021, and cultivated collagen in 2022. Under our product brand, Aleph Cuts, we will launch our first product, the Petit Steak, grown from the non-modified cells of a premium Angus cow.

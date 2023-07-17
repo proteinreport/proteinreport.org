@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Gerrard
 <span class="locality">Toronto</span> <span class="administrative-area">Ontario</span> <span class="postal-code">M5B 1G3</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "newschool.jpeg"
+website: https://www.newschoolfoods.co/
+linkedin: https://www.linkedin.com/company/newschoolfoods
+twitter: https://twitter.com/NewSchoolFoods
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/new-school-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10387
 ---
-<p>Whole-muscle seafood. Made from plants.</p>
+Whole-muscle seafood. Made from plants.

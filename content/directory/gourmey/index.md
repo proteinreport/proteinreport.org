@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Rue de 
 <span class="postal-code">75004</span> <span class="locality">Paris</span><br>
 <span class="country">France</span></p>]
 featured_image: "Gourmey_logo.png"
+website: https://gourmey.com/en/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1345
 ---
-<p>Gourmey is developing a delicious and 100% ethical foie gras without force-feeding or slaughter from duck cells. The development starts from a freshly laid duck egg from which a few cells are extracted and placed in a cultivator. The cells multiply naturally to create a real duck foie gras.</p>
+Gourmey is developing a delicious and 100% ethical foie gras without force-feeding or slaughter from duck cells. The development starts from a freshly laid duck egg from which a few cells are extracted and placed in a cultivator. The cells multiply naturally to create a real duck foie gras.

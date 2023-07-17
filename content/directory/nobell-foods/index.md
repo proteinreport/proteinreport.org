@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Shoreli
 <span class="locality">South San Francisco</span>, <span class="postal-code">94080</span><br>
 <span class="country">United States</span></p>]
 featured_image: "ObOvG2ld_400x400.jpg"
+website: https://www.nobellfoods.com/
+linkedin: https://www.linkedin.com/company/nobellfoods
+twitter: https://twitter.com/Nobellfoods
+instagram: https://www.instagram.com/nobellfoods/
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/alpine-roads
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 9366
 ---
-<p>We make delicious cheese from plant-derived dairy proteins, supporting a larger mission of creating a radically more humane and sustainable food system. Our cheese stretches, melts, and tastes as great as the ones from cows and goats - minus the animals.</p>
+We make delicious cheese from plant-derived dairy proteins, supporting a larger mission of creating a radically more humane and sustainable food system. Our cheese stretches, melts, and tastes as great as the ones from cows and goats - minus the animals.

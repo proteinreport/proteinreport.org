@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="locality">Jainapur</sp
 <span class="administrative-area">Maharashtra</span><br>
 <span class="country">India</span></p>]
 featured_image: "biobritte logo.png"
+website: https://www.biobritte.co.in
+linkedin: https://www.linkedin.com/company/biobritte-agro-solutions-private-limited
+twitter: https://twitter.com/biobritte2018
+instagram: https://www.instagram.com/biobritte2018/
+facebook: https://www.facebook.com/biobritte.kolhapur/
+youtube: https://www.youtube.com/channel/UCFnb6NT78CZRLdyzP53lZ_g
+crunchbase: https://www.crunchbase.com/organization/biobritte-agro-solutions-private-limited-india
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 11053
 ---
-<p>Biobritte agro is fungi protein-based company. Biobritte is working on a fungi-based protein that can replace meat-based proteins. Biobritte grows different medicinal mushrooms. Biobritte was established in 2018 and became India's top mushroom company in a little span of time.</p>
+Biobritte agro is fungi protein-based company. Biobritte is working on a fungi-based protein that can replace meat-based proteins. Biobritte grows different medicinal mushrooms. Biobritte was established in 2018 and became India's top mushroom company in a little span of time.

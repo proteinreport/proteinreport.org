@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Hansen 
 <span class="locality">Palo Alto</span>, <span class="postal-code">94304</span><br>
 <span class="country">United States</span></p>]
 featured_image: "LogoPlanetHealthy.png"
+website: https://www.planetarians.com/
+linkedin: https://www.linkedin.com/company/planetarians
+twitter: https://twitter.com/PlanetariansNet
+instagram: https://www.instagram.com/planetariansnet/
+facebook: https://www.facebook.com/planetariansnet/
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/planetarians
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6859
 ---
-<p>High protein flour from upcycled ingredients. PLANETARIANS’ patent-pending technology adds value to overlooked ingredients like defatted seeds, converts them into a high-protein, high-fiber ingredient, and helps food manufacturers fortify a variety of food products with natural protein and fiber from seeds. Repurposing defatted sunflower seeds from animal to human consumption we demonstrate the potential of feeding growing population simultaneously reducing the impact on the planet.</p>
+High protein flour from upcycled ingredients. PLANETARIANS’ patent-pending technology adds value to overlooked ingredients like defatted seeds, converts them into a high-protein, high-fiber ingredient, and helps food manufacturers fortify a variety of food products with natural protein and fiber from seeds. Repurposing defatted sunflower seeds from animal to human consumption we demonstrate the potential of feeding growing population simultaneously reducing the impact on the planet.

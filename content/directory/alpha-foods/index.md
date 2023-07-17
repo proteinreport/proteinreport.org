@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">West Mo
 <span class="locality">Glendale</span>, <span class="postal-code">91201</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Alpha foods logo.jpg"
+website: http://alphaplantbased.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/alpha-foods
 draft: false
 pinned: false
 homepage: false

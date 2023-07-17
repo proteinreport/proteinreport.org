@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Park St
 <span class="postal-code">W1K 6SS</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "APA.jpg"
+website: https://www.alternativeproteinsassociation.com/
+linkedin: 
+twitter: https://twitter.com/altproteinsuk
+instagram: https://www.instagram.com/altproteinsuk/
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10571
 ---
-<p>APA is a trade association and non-profit organisation that exists to fuel collaboration across the value chain. APA works to protect and enhance the reputation of the alternative proteins industry and give a voice to people across the food & agriculture industry.</p>
+APA is a trade association and non-profit organisation that exists to fuel collaboration across the value chain. APA works to protect and enhance the reputation of the alternative proteins industry and give a voice to people across the food & agriculture industry.

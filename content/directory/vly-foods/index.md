@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">B2</spa
 <span class="postal-code">10178</span> <span class="locality">Berlin</span><br>
 <span class="country">Germany</span></p>]
 featured_image: "vly_logo-header_100x@2x.jpg"
+website: http://vlyfoods.com/
+linkedin: https://www.linkedin.com/company/vlyfoods/
+twitter: 
+instagram: https://www.instagram.com/vlyfoods/
+facebook: https://www.facebook.com/VlyFoods/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5662
 ---
-<p>Vly is a plant-based milk alternative.</p>
+Vly is a plant-based milk alternative.

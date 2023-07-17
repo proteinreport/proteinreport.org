@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Stephan
 <span class="postal-code">1010</span> <span class="locality">Wien</span><br>
 <span class="country">Austria</span></p>]
 featured_image: "My ey logo.jpg"
+website: https://myey.info
+linkedin: 
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/MyEy.info/
+youtube: https://www.youtube.com/user/MYEYvideo
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5778
 ---
-<p>Plant-based egg alternatives for baking and cooking.</p>
+Plant-based egg alternatives for baking and cooking.

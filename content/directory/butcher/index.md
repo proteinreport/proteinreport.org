@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Britann
 <span class="locality">San Diego</span>, <span class="postal-code">92154</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Before the Butcher logo.png"
+website: http://btbfoods.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

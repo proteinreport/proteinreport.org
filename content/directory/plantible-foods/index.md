@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Fourth 
 <span class="locality">San Diego</span>, <span class="postal-code">92101</span><br>
 <span class="country">United States</span></p>]
 featured_image: "plantible-foods-inc-logo-vector.jpg"
+website: https://www.plantiblefoods.com/
+linkedin: https://www.linkedin.com/company/plantible
+twitter: https://twitter.com/plantible
+instagram: https://www.instagram.com/plantiblefoods/
+facebook: https://facebook.com/Plantible
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/plantible-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6783
 ---
-<p>Plantible Foods is a B2B food technology company with the goal to develop the most functional and applicable plant-based protein in the world using scalable and sustainable aqua-farming and extraction technologies.</p>
+Plantible Foods is a B2B food technology company with the goal to develop the most functional and applicable plant-based protein in the world using scalable and sustainable aqua-farming and extraction technologies.

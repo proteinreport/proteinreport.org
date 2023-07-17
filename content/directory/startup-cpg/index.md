@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">U.S. 10
 <span class="locality">San Francisco</span>, <span class="postal-code">94103</span><br>
 <span class="country">United States</span></p>]
 featured_image: "startupcpg.jpg"
+website: https://startupcpg.com/
+linkedin: https://www.linkedin.com/company/startupcpg/
+twitter: 
+instagram: https://www.instagram.com/startupcpg/
+facebook: https://www.facebook.com/startupcpg/
+youtube: https://www.youtube.com/channel/UC4QLYZSUwUwq9CE_uCu7djA
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7874
 ---
-<p>Startup CPG is here to help young CPG brands succeed.  If you are a startup consumer brand with five employees or fewer, we will give you opportunities to shine, elevate your brand to decision-makers who matter, and connect you to those who have done it before. We will do everything in our power to help any brand working for a better food system.  We’re here to lift you up, provide constructive feedback, advise on critical resources, and grow your network so you can make real impact.</p>
+Startup CPG is here to help young CPG brands succeed.  If you are a startup consumer brand with five employees or fewer, we will give you opportunities to shine, elevate your brand to decision-makers who matter, and connect you to those who have done it before. We will do everything in our power to help any brand working for a better food system.  We’re here to lift you up, provide constructive feedback, advise on critical resources, and grow your network so you can make real impact.

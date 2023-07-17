@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Zhengyi
 <span class="postal-code">100007</span><br>
 <span class="country">China</span></p>]
 featured_image: "CellX_Logo_w1pt.png"
+website: https://cellx.tech/
+linkedin: https://www.linkedin.com/company/cellxtech
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/cellx
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 8329
 ---
-<p>Cellular agriculture startup creating cell-cultivated meat products. Our goal is to provide sustainable animal protein, enhance human health, and improve animal welfare.</p>
+Cellular agriculture startup creating cell-cultivated meat products. Our goal is to provide sustainable animal protein, enhance human health, and improve animal welfare.

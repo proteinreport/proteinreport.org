@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Broadwa
 <span class="locality">New York</span>, <span class="postal-code">10007</span><br>
 <span class="country">United States</span></p>]
 featured_image: "musea.png"
+website: http://www.museaventures.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7166
 ---
-<p>Musea Ventures portfolio is mainly consists of companies in the Biotech, Bioenergy, Synthetic Biology and healthcare fields. However, given our experience in other markets and fields, we have made opportunistic investments in unique entrepreneurs and companies.</p>
+Musea Ventures portfolio is mainly consists of companies in the Biotech, Bioenergy, Synthetic Biology and healthcare fields. However, given our experience in other markets and fields, we have made opportunistic investments in unique entrepreneurs and companies.

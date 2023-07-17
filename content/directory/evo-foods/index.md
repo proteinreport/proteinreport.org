@@ -12,10 +12,17 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="locality">Mumbai</span> <span class="postal-code">400070</span><br>
 <span class="country">India</span></p>]
 featured_image: "evo.png"
+website: http://www.evoworld.in
+linkedin: https://www.linkedin.com/company/evo-foods
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6885
 ---
-<p>Evo Foods is using cutting edge science and technology to create a next generation of plant based substitutes for animal products.</p>
+Evo Foods is using cutting edge science and technology to create a next generation of plant based substitutes for animal products.

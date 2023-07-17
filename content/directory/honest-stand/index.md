@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">South A
 <span class="locality">Louisville</span>, <span class="postal-code">80027</span><br>
 <span class="country">United States</span></p>]
 featured_image: "The honest stand logo.png"
+website: http://www.thehoneststand.com/
+linkedin: 
+twitter: https://twitter.com/TheHonestStand
+instagram: https://www.instagram.com/thehoneststand/
+facebook: https://www.facebook.com/thehoneststand
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/the-honest-stand
 draft: false
 pinned: false
 homepage: false

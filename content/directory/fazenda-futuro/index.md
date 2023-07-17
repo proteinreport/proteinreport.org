@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Avenida
 <span class="postal-code">20221-260</span><br>
 <span class="country">Brazil</span></p>]
 featured_image: "fazenda-futuro_logo.png"
+website: https://fazendafuturo.io/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1231
 ---
-<p>A new, Brazilian start-up, Fazenda Futuro, is pioneering in the production of beef-sans-cow with the plant-based Futuro Burger.</p>
+A new, Brazilian start-up, Fazenda Futuro, is pioneering in the production of beef-sans-cow with the plant-based Futuro Burger.

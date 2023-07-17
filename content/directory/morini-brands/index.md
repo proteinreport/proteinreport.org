@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">West So
 <span class="locality">Orlando</span>, <span class="postal-code">32801</span><br>
 <span class="country">United States</span></p>]
 featured_image: "morini brands logo.png"
+website: https://www.morinibrands.com/
+linkedin: 
+twitter: https://twitter.com/morinibrands
+instagram: https://www.instagram.com/morinibrands/
+facebook: https://www.facebook.com/MoriniBrands
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5695
 ---
-<p>Risofu (rhee-ZOE- foo) is a new food which clearly separates Morini Brands from every company offering soy-based and other vegetarian meat analogues. Risofu is the name for the creation of the world’s first rice curd/rice tofu - based meat alternative.</p>
+Risofu (rhee-ZOE- foo) is a new food which clearly separates Morini Brands from every company offering soy-based and other vegetarian meat analogues. Risofu is the name for the creation of the world’s first rice curd/rice tofu - based meat alternative.

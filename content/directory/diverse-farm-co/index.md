@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="locality">Osaka</span>
 <span class="postal-code">530-0043</span><br>
 <span class="country">Japan</span></p>]
 featured_image: "dfc.jpg"
+website: https://www.diversefarm.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7857
 ---
-<p>Japan's second cultivated meat startup.</p>
+Japan's second cultivated meat startup.

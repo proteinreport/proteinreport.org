@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Townhea
 <span class="postal-code">PA20 9JH</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "bute island foods logo.png"
+website: https://www.buteisland.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5609
 ---
-<p>Bute Island Foods Ltd is headquartered in the UK and operates the business under various segments such as Sheese Blocks, Creamy Sheese, Sheese Wedges, Grated Sheese, and Sheese Slices. The company offers a wide range of dairy-free cheeses under the brand Sheese.</p>
+Bute Island Foods Ltd is headquartered in the UK and operates the business under various segments such as Sheese Blocks, Creamy Sheese, Sheese Wedges, Grated Sheese, and Sheese Slices. The company offers a wide range of dairy-free cheeses under the brand Sheese.

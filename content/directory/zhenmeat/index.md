@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Zhengyi
 <span class="postal-code">100007</span><br>
 <span class="country">China</span></p>]
 featured_image: "Zhenmeat - logo_footer2.png"
+website: https://zhenmeat.com/en
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1242
 ---
-<p>Zhenmeat, the Beijing-based, new Chinese food-tech startup, brings plant-based and fungus based meat alternative tailored to Chinese cuisines, from dimsum to stuffed peppers to mooncakes. </p>
+Zhenmeat, the Beijing-based, new Chinese food-tech startup, brings plant-based and fungus based meat alternative tailored to Chinese cuisines, from dimsum to stuffed peppers to mooncakes. 

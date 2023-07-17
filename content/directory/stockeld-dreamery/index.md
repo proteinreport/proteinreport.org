@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Birger 
 <span class="postal-code">113 56</span> <span class="locality">Stockholm</span><br>
 <span class="country">Sweden</span></p>]
 featured_image: "stockeld_logo.png"
+website: http://noquofoods.com/
+linkedin: https://www.linkedin.com/company/stockeld/
+twitter: https://twitter.com/SDreamery
+instagram: https://www.instagram.com/stockeld_dreamery/
+facebook: https://www.facebook.com/stockelddreamery
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/stockeld-dreamery
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5732
 ---
-<p>Creating the world's most ambitious cheese.</p>
+Creating the world's most ambitious cheese.

@@ -13,11 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Unnamed
 <span class="postal-code">75004</span> <span class="locality">Paris</span><br>
 <span class="country">France</span></p>]
 featured_image: "1598452154913.jpg"
+website: https://www.umiami.com
+linkedin: https://www.linkedin.com/company/umiami/
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 9258
 ---
-<p>At Umiami, we love meat but we don't like its impact on health, animals and the environment. We are on a mission to offer 100% meat-free products without any compromise.</p>
-<p>To create the world's first plant-based whole-cuts, we use an unprecedented technique to texturize plant proteins. Our process is the first in the world that can create thick fibrous chicken breasts at scale. It is also cleaner-label than current industrially available technologies.</p>
+At Umiami, we love meat but we don't like its impact on health, animals and the environment. We are on a mission to offer 100% meat-free products without any compromise.To create the world's first plant-based whole-cuts, we use an unprecedented technique to texturize plant proteins. Our process is the first in the world that can create thick fibrous chicken breasts at scale. It is also cleaner-label than current industrially available technologies.

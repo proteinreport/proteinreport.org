@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">North C
 <span class="locality">New Orleans</span>, <span class="postal-code">70112</span><br>
 <span class="country">United States</span></p>]
 featured_image: "E2JDJ LOGO.jpg"
+website: https://www.e2jdj.com/
+linkedin: https://www.linkedin.com/company/e%C2%B2jdj/
+twitter: https://twitter.com/E2JDJ_VC
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/e%C2%B2jdj
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 9941
 ---
-<p>E²JDJ invests globally in high growth, scalable and sustainable AgriFood technology and science ventures across the value chain from production to consumption.</p>
+E²JDJ invests globally in high growth, scalable and sustainable AgriFood technology and science ventures across the value chain from production to consumption.

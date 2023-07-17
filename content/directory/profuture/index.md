@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">BV-1424
 <span class="postal-code">08140</span> <span class="locality">Caldes de Montbui</span><br>
 <span class="country">Spain</span></p>]
 featured_image: "profuture.jpg"
+website: https://www.pro-future.eu/
+linkedin: https://www.linkedin.com/groups/8984763/
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7873
 ---
-<p>ProFuture is a European-funded Horizon 2020 research project aiming to scale up microalgae production and prepare the market uptake of microalgae proteins as ingredients for innovative and sustainable food and feed products. The project will last for 4 years (2019-2023) and it is coordinated by the Institute of Agrifood Research and Technology (IRTA) in Spain.</p>
+ProFuture is a European-funded Horizon 2020 research project aiming to scale up microalgae production and prepare the market uptake of microalgae proteins as ingredients for innovative and sustainable food and feed products. The project will last for 4 years (2019-2023) and it is coordinated by the Institute of Agrifood Research and Technology (IRTA) in Spain.

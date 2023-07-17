@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">3rd Str
 <span class="locality">Davis</span>, <span class="administrative-area">California</span> <span class="postal-code">95616</span><br>
 <span class="country">United States</span></p>]
 featured_image: "balletic1_0.png"
+website: http://www.balleticfoods.com/
+linkedin: https://www.linkedin.com/company/balletic-foods
+twitter: https://twitter.com/BalleticFoods
+instagram: https://www.instagram.com/balleticfoods/
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/balletic-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5825
 ---
-<p>California based company working towards a sustainable food system by combining science and technology to create new sources of animal-free protein.</p>
+California based company working towards a sustainable food system by combining science and technology to create new sources of animal-free protein.

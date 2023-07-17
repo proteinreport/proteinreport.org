@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">South W
 <span class="locality">Raleigh</span>, <span class="postal-code">27601</span><br>
 <span class="country">United States</span></p>]
 featured_image: "1603305692988.jpg"
+website: https://www.jellatech.com/
+linkedin: https://www.linkedin.com/company/jellatech/
+twitter: https://twitter.com/Jellatech1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+instagram: https://www.instagram.com/jellatech.inc/
+facebook: https://www.facebook.com/jellatech/
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/jellatech
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 9257
 ---
-<p>Jellatech is a B2B biotech business based in Raleigh, NC and with R&D in Wageningen, Netherlands. Jellatech is producing high quality, pure, animal-free collagen and gelatin. Founded by a group of innovators, dreamers, entrepreneurs and scientists, Jellatech is eliminating the dependency on animals, to make better ingredient products - starting with collagen and gelatin.</p>
+Jellatech is a B2B biotech business based in Raleigh, NC and with R&D in Wageningen, Netherlands. Jellatech is producing high quality, pure, animal-free collagen and gelatin. Founded by a group of innovators, dreamers, entrepreneurs and scientists, Jellatech is eliminating the dependency on animals, to make better ingredient products - starting with collagen and gelatin.

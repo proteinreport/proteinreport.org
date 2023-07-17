@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Brickel
 <span class="locality">Miami</span>, <span class="postal-code">33131</span><br>
 <span class="country">United States</span></p>]
 featured_image: "cas.png"
+website: https://www.cellag.org/
+linkedin: https://www.linkedin.com/company/cas-cellular-agriculture-society
+twitter: https://twitter.com/CellAgriculture
+instagram: https://www.instagram.com/cellagriculture/
+facebook: https://www.facebook.com/CellAgriculture/
+youtube: https://www.youtube.com/channel/UCn1UIqqs8pzmMMCFHtp-Vpg
+crunchbase: https://www.crunchbase.com/organization/cellular-agriculture-society#section-overview
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7108
 ---
-<p>CAS is the international 501(c)(3) non-profit advancing cellular agriculture, a field of biotechnology producing animal products without animals.</p>
+CAS is the international 501(c)(3) non-profit advancing cellular agriculture, a field of biotechnology producing animal products without animals.

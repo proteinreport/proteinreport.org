@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Science
 <span class="postal-code">117610</span><br>
 <span class="country">Singapore</span></p>]
 featured_image: "lg-sophie-biox2.png"
+website: https://sophiesbionutrients.com/
+linkedin: https://www.linkedin.com/company/sophie-s-bionutrients
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 8332
 ---
-<p>Sophie’s Bionutrients is on a mission to unleash the limitless possibilities of nature, restore our planet and eliminate food allergies by creating plant-based, protein-rich alternatives to meat and seafood using microalgae, the mother of all food and plant life.</p>
+Sophie’s Bionutrients is on a mission to unleash the limitless possibilities of nature, restore our planet and eliminate food allergies by creating plant-based, protein-rich alternatives to meat and seafood using microalgae, the mother of all food and plant life.

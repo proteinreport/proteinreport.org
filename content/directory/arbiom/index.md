@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Emperor
 <span class="locality">Durham</span>, <span class="postal-code">27703</span><br>
 <span class="country">United States</span></p>]
 featured_image: "arbiom-logo-retina.png"
+website: https://arbiom.com/
+linkedin: https://www.linkedin.com/company/arbiom-inc
+twitter: https://twitter.com/arbiom
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/arbiom
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7555
 ---
-<p>Arbiom’s bioprocessing and fermentation technology enables an economically viable production pathway from wood to food. SylPro is a single-cell protein yeast that is approved for use in feed and food in the US, Canada, and EU.</p>
+Arbiom’s bioprocessing and fermentation technology enables an economically viable production pathway from wood to food. SylPro is a single-cell protein yeast that is approved for use in feed and food in the US, Canada, and EU.

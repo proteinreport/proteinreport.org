@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Standar
 <span class="locality">El Segundo</span>, <span class="postal-code">90245</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Beyond_Meat_logo.png"
+website: https://www.beyondmeat.com/
+linkedin: https://www.linkedin.com/company/beyond-meat/
+twitter: https://twitter.com/BeyondMeat
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/beyond-meat
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 694
 ---
-<p>At Beyond Meat, we believe there is a better way to feed the planet. Our mission is to create The Future of Protein® – delicious plant-based burgers, beef, sausage, crumbles, and more. By shifting from animal to plant-based meat, we can address four growing global issues: human health, climate change, constraints on natural resources, and animal welfare.</p>
+At Beyond Meat, we believe there is a better way to feed the planet. Our mission is to create The Future of Protein® – delicious plant-based burgers, beef, sausage, crumbles, and more. By shifting from animal to plant-based meat, we can address four growing global issues: human health, climate change, constraints on natural resources, and animal welfare.

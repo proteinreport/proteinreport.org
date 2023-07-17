@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Machine
 <span class="postal-code">1407</span><br>
 <span class="country">South Africa</span></p>]
 featured_image: "Gudness-Logo.png"
+website: https://gudness.co.za/
+linkedin: 
+twitter: 
+instagram: 
+facebook: https://business.facebook.com/GudnessSA/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6111
 ---
-<p>Gudness is an innovative plant-based alternative to conventional deli meats exclusively developed & produced in South Africa. The base ingredients are soy and pea protein.</p>
+Gudness is an innovative plant-based alternative to conventional deli meats exclusively developed & produced in South Africa. The base ingredients are soy and pea protein.

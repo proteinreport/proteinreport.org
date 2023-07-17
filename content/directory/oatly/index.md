@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Stora V
 <span class="postal-code">211 19</span> <span class="locality">Malmö</span><br>
 <span class="country">Sweden</span></p>]
 featured_image: "Oatly logo.png"
+website: http://www.oatly.com/
+linkedin: 
+twitter: https://twitter.com/oatly
+instagram: https://www.instagram.com/oatly/
+facebook: https://www.facebook.com/Oatly/
+youtube: https://www.youtube.com/user/oatlyab/
+crunchbase: https://www.crunchbase.com/organization/oatly
 draft: false
 pinned: false
 homepage: false

@@ -12,6 +12,13 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Denver</span>,<br>
 <span class="country">United States</span></p>]
 featured_image: "SoDelicious_Logo.png"
+website: http://sodeliciousdairyfree.com/
+linkedin: 
+twitter: https://twitter.com/So_Delicious
+instagram: https://www.instagram.com/so_delicious/
+facebook: https://www.facebook.com/sodeliciousdairyfree
+youtube: https://www.youtube.com/user/SoDeliciousDairyFree/videos
+crunchbase: https://www.crunchbase.com/organization/whitewave-foods
 draft: false
 pinned: false
 homepage: false

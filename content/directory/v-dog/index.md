@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Downley
 <span class="postal-code">PO9 2NJ</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "V-dog logo.png"
+website: https://www.v-dog.co.uk/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1241
 ---
-<p>Celebrating over 40 years since we launched the first commercial vegetarian dog food in the UK in 1980. Suitable for all adult dogs and highly recommended for those with sensitive digestions, skin problems or suspected intolerance to meat proteins.</p>
+Celebrating over 40 years since we launched the first commercial vegetarian dog food in the UK in 1980. Suitable for all adult dogs and highly recommended for those with sensitive digestions, skin problems or suspected intolerance to meat proteins.

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">West Pe
 <span class="locality">Vancouver</span> <span class="administrative-area">British Columbia</span> <span class="postal-code">V6C 1H2</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "cult.png"
+website: https://www.cultfoodscience.com/
+linkedin: https://www.linkedin.com/company/cult-food-science
+twitter: https://twitter.com/CULTFoodScience
+instagram: https://www.instagram.com/cultfoodscience/
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/cult-food-science
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10643
 ---
-<p>CULT Food Science is an investment company focused on supporting and advancing the technology behind the future of food. It identifies and makes equity investments in global cultivated meat and dairy companies that are developing and commercializing innovative food technologies that enable a kinder, more secure, and more sustainable food supplychain.</p>
+CULT Food Science is an investment company focused on supporting and advancing the technology behind the future of food. It identifies and makes equity investments in global cultivated meat and dairy companies that are developing and commercializing innovative food technologies that enable a kinder, more secure, and more sustainable food supplychain.

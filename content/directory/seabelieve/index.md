@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Taylor'
 <span class="administrative-area">County Dublin</span><br>
 <span class="country">Ireland</span></p>]
 featured_image: "plantruption-logo.png"
+website: https://www.plantruption.com/
+linkedin: https://www.linkedin.com/company/seaandbelieve
+twitter: https://twitter.com/plantruption
+instagram: https://www.instagram.com/plantruption/
+facebook: https://www.facebook.com/plantruption/
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/plantruption
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10448
 ---
-<p>Our aim is to build a brand of sustainability develop our products using seaweed and micro algae, the most sustainable plant in the world. Plant based seafood provides a host of benefits, including alleviating pressures and providing relief to fragile ocean ecosystems, taking out an entire layer of the supply chain. (Formerly Plantruption)</p>
+Our aim is to build a brand of sustainability develop our products using seaweed and micro algae, the most sustainable plant in the world. Plant based seafood provides a host of benefits, including alleviating pressures and providing relief to fragile ocean ecosystems, taking out an entire layer of the supply chain. (Formerly Plantruption)

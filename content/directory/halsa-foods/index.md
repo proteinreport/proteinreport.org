@@ -13,11 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Union S
 <span class="postal-code">11215</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Halsa foods logo.jpg"
+website: https://halsafoods.com/
+linkedin: 
+twitter: https://twitter.com/NOTHNG_BUT_REAL
+instagram: https://www.instagram.com/halsafoods/
+facebook: https://www.facebook.com/HalsaOrganicPlantBased/
+youtube: https://www.youtube.com/channel/UCOWdFk0Qx2anrW2tAfOpWEw
+crunchbase: https://www.crunchbase.com/organization/halsa
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5591
 ---
-Hälsa produces a healthy plant based probiotic yogurt, oat milk, oat yogurt, oatgurt, organic, halsa, 100% clean. 
-Hälsa has created a healthier way of creating yogurt: A simple process that keeps intact all the beneficial nutrients of whole grain oats. Nothing is removed, and nothing artificial is added.
+Hälsa produces a healthy plant based probiotic yogurt, oat milk, oat yogurt, oatgurt, organic, halsa, 100% clean. Hälsa has created a healthier way of creating yogurt: A simple process that keeps intact all the beneficial nutrients of whole grain oats. Nothing is removed, and nothing artificial is added.

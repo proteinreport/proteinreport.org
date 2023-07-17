@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Martin 
 <span class="locality">Berkeley</span>, <span class="postal-code">94704</span><br>
 <span class="country">United States</span></p>]
 featured_image: "v4yKo9Co_400x400.jpg"
+website: http://www.newagemeats.com/
+linkedin: https://www.linkedin.com/company/new-age-meats
+twitter: https://twitter.com/NewAgeMeats
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/new-age-meats
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5828
 ---
-<p>New Age Meats is an early-stage startup making healthy cell-cultured meat without animal&nbsp;slaughter.</p>
+New Age Meats is an early-stage startup making healthy cell-cultured meat without animal&nbsp;slaughter.

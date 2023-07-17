@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="locality">London</span
 <span class="postal-code">of Freedom#8573311~!#</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "Magellan logo.png"
+website: http://magellanlifesciences.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

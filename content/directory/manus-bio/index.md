@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Massach
 <span class="locality">Cambridge</span>, <span class="postal-code">02138</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Manus Bio logo.png"
+website: http://www.manusbio.com/what-we-do.php
+linkedin: https://in.linkedin.com/company/manus-biosynthesis
+twitter: https://twitter.com/manusbio
+instagram: 
+facebook: https://www.facebook.com/ManusBio
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

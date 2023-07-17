@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Congres
 <span class="locality">Austin</span>, <span class="postal-code">78701</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Good Seed logo.png"
+website: http://goodseedburger.com/
+linkedin: 
+twitter: https://twitter.com/goodseedburger
+instagram: 
+facebook: https://www.facebook.com/goodseed.superfoods
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/good-seed
 draft: false
 pinned: false
 homepage: false

@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Santa M
 <span class="locality">Santa Monica</span>, <span class="postal-code">90401</span><br>
 <span class="country">United States</span></p>]
 featured_image: "outstanding-foods-809.jpg"
+website: https://www.outstandingfoods.com/
+linkedin: 
+twitter: https://twitter.com/outstandingfds
+instagram: https://instagram.com/outstandingfoods/
+facebook: https://www.facebook.com/outstandingfoods
+youtube: https://www.youtube.com/channel/UCB1-oTmuVOiMNw5GtUIIkrA
+crunchbase: https://www.crunchbase.com/organization/outstanding-foods
 draft: false
 pinned: false
 homepage: false

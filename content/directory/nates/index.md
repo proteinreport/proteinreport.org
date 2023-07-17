@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Unnamed
 <span class="locality">Malegaon</span> <span class="postal-code">422113</span><br>
 <span class="country">India</span></p>]
 featured_image: "nate's logo.jpg"
+website: http://www.adf-foods.com/brand/nates
+linkedin: 
+twitter: https://twitter.com/NatesMeatless
+instagram: 
+facebook: https://www.facebook.com/pg/natesmeatless
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

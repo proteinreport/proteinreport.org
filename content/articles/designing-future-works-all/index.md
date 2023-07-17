@@ -3,8 +3,8 @@ title: "Designing a Future That Works for All"
 date: 2023-03-07 07:56:27
 lastmod: 2023-03-07 07:56:27
 slug: /designing-future-works-all
-description: "Technological revolutions usually leave societies better off than they were before, but that’s never without some collateral damage. We are now at the dawn of an imminent Biological Revolution that promises to impact all areas of our lives, from health to food, climate, manufacturing, and much more. The general assumption is that technology is intrinsically neutral — it can be used for either good or bad and the outcome depends on the person or group who uses it. However, history has shown us time and time again that this is not entirely true."
-excerpt: "Technological revolutions usually leave societies better off than they were before, but that’s never without some collateral damage. We are now at the dawn of an imminent Biological Revolution that promises to impact all areas of our lives, from health to food, climate, manufacturing, and much more. The general assumption is that technology is intrinsically neutral — it can be used for either good or bad and the outcome depends on the person or group who uses it. However, history has shown us time and time again that this is not entirely true."
+description: "The general assumption is that technology is intrinsically neutral — it can be used for either good or bad and the outcome depends on the person or group who uses it. However, history has shown us time and again that this is not entirely true."
+excerpt: "The general assumption is that technology is intrinsically neutral — it can be used for either good or bad and the outcome depends on the person or group who uses it. However, history has shown us time and again that this is not entirely true."
 proteins: [Cell-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Culture, Sci-Tech]
@@ -23,7 +23,6 @@ uuid: 11269
 <p><em><strong>Biotech is not inherently neutral, but we can design it to be fair</strong></em></p>
 
 <hr />
-
 <p>With the coming of every technological revolution lies the promise of a better life for everyone. The Industrial Revolution led to lower prices, more goods, and higher wages. The Scientific Revolution of the 20<sup>th</sup> century dramatically improved the quality of life for countless people through the development of vaccines and cures for various diseases, the discovery of new forms of energy, and advances in industrial chemistry that provided new materials for manufacturing thousands of products. Most recently, the Digital Revolution enabled mass communication worldwide and provided democratized access to a previously unimaginable abundance of information, knowledge, and resources.</p>
 
 <p>We are now at the dawn of an imminent Biological Revolution that promises to be the most important technological revolution to date, with the potential to impact all areas of our lives, from health to food, climate, manufacturing, and much more. But even with all of the hype coming from bioenthusiasts, the enormous amount of research being conducted every year, and the billions of dollars being poured into biotechnologies, there’s still another side of the coin we need to consider.</p>
@@ -52,15 +51,15 @@ uuid: 11269
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/bridge.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1100,&quot;height&quot;:824,&quot;rel&quot;:&quot;blazy-filter-h9ym-9m4r2e-4-export-data-export-1&quot;}">      <div style="padding-bottom: 74.92%;" data-ratio="74.92" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
-<img alt="At first glance, nothing seems wrong with this image â just another bridge. Southern State Parkway in Nassau County, circa 1960. Source: Pictorial Parade/Getty Images (via NPR)." title="bridge.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="f12e6914-2ccd-4ca3-b6bc-0643bd52eb01" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/bridge.jpg?itok=Bh1W7Bvq" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20899'%2F%3E" width="1200" height="899" loading="lazy" typeof="foaf:Image" />
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/P1016143-1ykej64-1024x768.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1024,&quot;height&quot;:768,&quot;rel&quot;:&quot;blazy-filter-wgrwpnzjuwm-4-export-data-export-1&quot;}">      <div style="padding-bottom: 75%;" data-ratio="75" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+<img alt="Bridge on Southern State Parkway in Nassau County, NY. Photo by Thomas J. Campanella via builtbrooklyn.org" title="P1016143-1ykej64-1024x768.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="2fe6c304-68c7-49fb-97e8-51e3f73e1a19" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/P1016143-1ykej64-1024x768.jpg?itok=i-h14iTh" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201200%20900'%2F%3E" width="1200" height="900" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
 
                 
           </div>  
             <div class="blazy__caption">
-                              <div class="blazy__caption--description">At first glance, nothing seems wrong with this image — just another bridge. Southern State Parkway in Nassau County, circa 1960. Source: <a href="https://www.npr.org/2020/07/05/887386869/how-transportation-racism-shaped-america">Pictorial Parade/Getty Images (via NPR)</a>.</div>
+                              <div class="blazy__caption--description">Bridge on Southern State Parkway in Nassau County, NY. Photo by <a href="https://www.builtbrooklyn.org/2017/08/06/the-bridges-of-nassau-county/">Thomas J. Campanella</a>.</div>
                         </div>
       
 
@@ -95,7 +94,7 @@ uuid: 11269
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/insulin.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1080,&quot;height&quot;:1350,&quot;rel&quot;:&quot;blazy-filter-h9ym-9m4r2e-4-export-data-export-1&quot;}">      <div style="padding-bottom: 125%;" data-ratio="125" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/insulin.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1080,&quot;height&quot;:1350,&quot;rel&quot;:&quot;blazy-filter-wgrwpnzjuwm-4-export-data-export-1&quot;}">      <div style="padding-bottom: 125%;" data-ratio="125" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="A lot is said about the miracle of biomanufactured insulin. But for most people with diabetes, it remains highly inaccessible." title="insulin.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="00c0a956-b90d-4e36-9d8f-e30b44febc4e" data-src="/sites/default/files/styles/1200x900_4_3/public/inline-images/insulin.jpg?itok=-eZKtSEA" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20720%20900'%2F%3E" width="720" height="900" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

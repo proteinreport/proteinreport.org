@@ -14,12 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Hills R
 <span class="postal-code">CB2 1NT</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "unicorn.jpg"
+website: https://www.unicornb.io/
+linkedin: https://www.linkedin.com/company/unicorn-biotechnologies
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/unicorn-biotechnologies
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10550
 ---
-<p>Unicorn Biotechnologies is developing a next generation biomanufacturing platform to affordably and rapidly scale cellular agriculture manufacturing.</p>
-<p>Our full stack platform combines hardware, software and analytics to completely automate biomanufacturing, reducing costs and increasing product quality.</p>
-<p>By providing a clear path to scale cellular agriculture, we will improve human and planetary health and drive the transition to animal free agriculture.</p>
+Unicorn Biotechnologies is developing a next generation biomanufacturing platform to affordably and rapidly scale cellular agriculture manufacturing.Our full stack platform combines hardware, software and analytics to completely automate biomanufacturing, reducing costs and increasing product quality.By providing a clear path to scale cellular agriculture, we will improve human and planetary health and drive the transition to animal free agriculture.

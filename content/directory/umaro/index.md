@@ -12,10 +12,17 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Berkeley</span>, <span class="administrative-area">California</span><br>
 <span class="country">United States</span></p>]
 featured_image: "UMARO_Logo_Red.png"
+website: https://www.umarofoods.com
+linkedin: https://www.linkedin.com/company/umaro-foods/
+twitter: 
+instagram: https://www.instagram.com/umarofoods
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/umaro-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6974
 ---
-<p>Umaro makes the meatiest plant-based protein from the ocean, concentrating on red seaweeds to produce a high quality protein with mild flavor and red color. (Previously Trophic)</p>
+Umaro makes the meatiest plant-based protein from the ocean, concentrating on red seaweeds to produce a high quality protein with mild flavor and red color. (Previously Trophic)

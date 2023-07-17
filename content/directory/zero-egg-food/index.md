@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Rambam 
 <span class="locality">Ashdod</span><br>
 <span class="country">Israel</span></p>]
 featured_image: "zero-egg-logo.jpg"
+website: https://zeroeggfood.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Broadwa
 <span class="locality">New York</span>, <span class="postal-code">10007</span><br>
 <span class="country">United States</span></p>]
 featured_image: "new harvest logo.png"
+website: https://www.new-harvest.org/
+linkedin: https://www.linkedin.com/company/new-harvest/
+twitter: https://twitter.com/NewHarvestOrg
+instagram: https://www.instagram.com/newharvestorg/
+facebook: https://www.facebook.com/newharvestorg/
+youtube: https://www.youtube.com/channel/UCxq2JKQ4FNRbO73iw6FDsbw
+crunchbase: https://www.crunchbase.com/organization/new-harvest
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 697
 ---
-<p>Established in 2004, New Harvest is the non-profit research institute building the field of cellular agriculture. We strategically fund and conduct open, public, collaborative research that reinvents the way we make animal products - without animals. Our mission is to build and establish the field of cellular agriculture. Our vision is a strong foundation of accessible, public, fundamental cellular agriculture research, upon which a post-animal bioeconomy may be built, where animal products are harvested from cell cultures, not animals, to feed a growing global population sustainably and affordably.</p>
+Established in 2004, New Harvest is the non-profit research institute building the field of cellular agriculture. We strategically fund and conduct open, public, collaborative research that reinvents the way we make animal products - without animals. Our mission is to build and establish the field of cellular agriculture.

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="locality">London</span
 <span class="postal-code">of Freedom#8573311~!#</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "cellag.png"
+website: https://www.cellularagriculture.co.uk/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1271
 ---
-<p>Cell Ag Ltd was founded in early 2016 as the first UK startup in the cell-based meat space.&nbsp;An extensive research and development program looks to deliver scaled technology for multi species cell-based meat technology.</p>
+Cell Ag Ltd was founded in early 2016 as the first UK startup in the cell-based meat space.&nbsp;An extensive research and development program looks to deliver scaled technology for multi species cell-based meat technology.

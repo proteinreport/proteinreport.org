@@ -12,10 +12,17 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="locality">Shenzhen Shi</span><br>
 <span class="country">China</span></p>]
 featured_image: "logo_0.png"
+website: https://www.starfieldcn.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/starfield-food-science-technology
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6860
 ---
-<p>Starfield researches, produces, and supplies plant-based meat and protein products. With its own in-house R&D team, Starfield has five production lines with a total output capacity of 1,700 tons per month.</p>
+Starfield researches, produces, and supplies plant-based meat and protein products. With its own in-house R&D team, Starfield has five production lines with a total output capacity of 1,700 tons per month.

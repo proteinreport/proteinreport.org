@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Georgio
 <span class="locality">Limassol</span><br>
 <span class="country">Cyprus</span></p>]
 featured_image: "Green Vie logo.png"
+website: http://www.greenviefoods.com/
+linkedin: 
+twitter: https://twitter.com/GreenvieFoods
+instagram: https://www.instagram.com/greenvie_dairyfree/
+facebook: https://www.facebook.com/pg/GreenVieFoods/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5794
 ---
-<p>Green Vie is a range of dairy free delights. Green Vie offers a whole range of plant-based cheeses, spreads and stuffed antipasti.</p>
+Green Vie is a range of dairy free delights. Green Vie offers a whole range of plant-based cheeses, spreads and stuffed antipasti.

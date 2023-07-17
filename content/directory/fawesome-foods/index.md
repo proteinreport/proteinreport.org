@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">West Bo
 <span class="locality">Akron</span>, <span class="postal-code">44308</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Fawe some logo.png"
+website: http://eatfawesome.com/
+linkedin: 
+twitter: 
+instagram: https://www.instagram.com/fawesomefoods/
+facebook: https://www.facebook.com/eatfawesome/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5607
 ---
-<p>Plant-based jerky made of only the finest sourced, sustainable, organic, and non-gmo ingredients.</p>
+Plant-based jerky made of only the finest sourced, sustainable, organic, and non-gmo ingredients.

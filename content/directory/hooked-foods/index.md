@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Bråval
 <span class="postal-code">131 47</span> <span class="locality">Nacka</span><br>
 <span class="country">Sweden</span></p>]
 featured_image: "hooked.jpg"
+website: https://www.hookedfoods.com/
+linkedin: https://www.linkedin.com/company/hooked-seafood-ab
+twitter: 
+instagram: https://www.instagram.com/hookedfoods/
+facebook: https://www.facebook.com/hookedfoods
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/hooked-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 8330
 ---
-<p>Leading the transition to a healthier seafood ecosystem by serving delicious plant-based seafood for everyone to enjoy.</p>
+Leading the transition to a healthier seafood ecosystem by serving delicious plant-based seafood for everyone to enjoy.

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Gustav 
 <span class="postal-code">111 52</span> <span class="locality">Stockholm</span><br>
 <span class="country">Sweden</span></p>]
 featured_image: "VegMe logo.png"
+website: http://www.vegme.se/
+linkedin: 
+twitter: 
+instagram: https://www.instagram.com/vegmesverige/
+facebook: https://www.facebook.com/pg/vegmesverige
+youtube: https://www.youtube.com/channel/UC6A-zN6iqTAstgxdAMByVmA
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5705
 ---
-<p>VegMe is a new innovative vegetarian alternative developed by a Swedish chef family with taste and consistency in the center.</p>
+VegMe is a new innovative vegetarian alternative developed by a Swedish chef family with taste and consistency in the center.

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">West 90
 <span class="locality">Leawood</span>, <span class="postal-code">66206</span><br>
 <span class="country">United States</span></p>]
 featured_image: "sdc-social-default.jpg"
+website: https://straydogcapital.com/
+linkedin: https://www.linkedin.com/company/stray-dog-capital
+twitter: https://twitter.com/StrayDogCapital
+instagram: 
+facebook: https://www.facebook.com/straydogcapital/
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/stray-dog-capital
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 703
 ---
-<p>Stray Dog Capital is a mission-driven Venture Capital firm that drives alternatives to the use of animals in the supply chain through investments, expertise and support. Stray Dog Capital wants a world in which all animals live in peaceful co-existence. To that end, we provide early stage, ground-breaking businesses with the capital and support to grow their businesses and shift away from an animal-based economy.</p>
+Stray Dog Capital is a mission-driven Venture Capital firm that drives alternatives to the use of animals in the supply chain through investments, expertise and support. Stray Dog Capital wants a world in which all animals live in peaceful co-existence. To that end, we provide early stage, ground-breaking businesses with the capital and support to grow their businesses and shift away from an animal-based economy.

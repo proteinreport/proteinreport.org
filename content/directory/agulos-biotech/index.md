@@ -12,10 +12,17 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Lake Mills</span>,<br>
 <span class="country">United States</span></p>]
 featured_image: "agulos logo.png"
+website: http://agulosbiotech.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5846
 ---
-<p>Simulated Platelet Lysate (porcine); a replacement for FBS</p>
+Simulated Platelet Lysate (porcine); a replacement for FBS

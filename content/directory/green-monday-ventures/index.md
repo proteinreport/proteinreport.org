@@ -12,10 +12,17 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Wang Yuen Street</span><br>
 <span class="country">Hong Kong SAR China</span></p>]
 featured_image: "green-monday-logo-2.png"
+website: https://greenmonday.org/en/ventures/
+linkedin: https://www.linkedin.com/company/green-monday-official
+twitter: https://twitter.com/GreenMondayHK
+instagram: https://www.instagram.com/greenmonday_official/
+facebook: https://www.facebook.com/GreenMondayHK
+youtube: https://www.youtube.com/user/GreenMondayHK
+crunchbase: https://www.crunchbase.com/organization/green-monday
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 8328
 ---
-<p>The “green food industry” is perhaps the most impactful and visible component in the course of the transition towards a green economy. Awareness of the impact the livestock industry has created in terms of greenhouse gas emission, water footprint and food production inefficiency as well as our health on an individual level has reached new heighs. GMV is of the view that plant-based food items are important alternatives to meat. The plant-based consumer segment is where the most ground-breaking and compelling food innovations will take place.</p>
+The “green food industry” is perhaps the most impactful and visible component in the course of the transition towards a green economy. Awareness of the impact the livestock industry has created in terms of greenhouse gas emission, water footprint and food production inefficiency as well as our health on an individual level has reached new heighs. GMV is of the view that plant-based food items are important alternatives to meat. The plant-based consumer segment is where the most ground-breaking and compelling food innovations will take place.

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">King St
 <span class="locality">Sydney</span> <span class="postal-code">2000</span><br>
 <span class="country">Australia</span></p>]
 featured_image: "v2food logo.png"
+website: http://www.v2food.com/
+linkedin: https://www.linkedin.com/company/v2foodofficial/
+twitter: https://twitter.com/V2FoodOfficial
+instagram: https://www.instagram.com/v2foodofficial/
+facebook: https://www.facebook.com/v2foodofficial/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5800
 ---
-<p>V2food works with Australia’s national science agency CSIRO to develop a range of plant-based meat products meant to accurately mimic the real thing. The company’s first product, a meatless patty, is currently sold in the Rebel Whopper at Hungry Jack’s, Australia’s version of Burger King.</p>
+V2food works with Australia’s national science agency CSIRO to develop a range of plant-based meat products meant to accurately mimic the real thing. The company’s first product, a meatless patty, is currently sold in the Rebel Whopper at Hungry Jack’s, Australia’s version of Burger King.

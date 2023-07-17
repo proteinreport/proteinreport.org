@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">West Ja
 <span class="locality">Chicago</span>, <span class="postal-code">60604</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Boca_Logo-min.png"
+website: https://www.bocaburger.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1117
 ---
-<p>Boca, strives to bring delicious and convenient plant-based eats. They offer and vegetarian patties, bowls, nuggets, crumbles, falafels, and skillet meals are packed with flavor for are as delicious as they are easy to prepare.</p>
+Boca, strives to bring delicious and convenient plant-based eats. They offer and vegetarian patties, bowls, nuggets, crumbles, falafels, and skillet meals are packed with flavor for are as delicious as they are easy to prepare.

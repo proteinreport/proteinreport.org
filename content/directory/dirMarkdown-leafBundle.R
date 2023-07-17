@@ -5,6 +5,7 @@ library(here)
 library(stringr)
 library(urltools)
 library(rlist)
+library(rvest)
 
 # set working directory
 setwd(here("content/directory"))
@@ -35,7 +36,7 @@ for (row in 1:nrow(import_data)) {
   # decode image url
   import_data[row,]$images <- url_decode(basename(import_data[row,]$images))
   # get body
-  content <- select(import_data[row,], body) %>%
+  content <- select(import_data[row,], description) %>%
     as.character()
   # write to file
   write("---", file_path)
@@ -65,6 +66,13 @@ for (row in 1:nrow(import_data)) {
   #            "\n    alt: ", shQuote(import_data[row,]$image_caption),
   #            "\n    title: ", shQuote(import_data[row,]$image_caption),
   #            sep = ""), file_path, append = T)
+  write(paste("website: ",import_data[row,]$website, sep = ""), file_path, append = T)
+  write(paste("linkedin: ",import_data[row,]$linkedin, sep = ""), file_path, append = T)
+  write(paste("twitter: ",import_data[row,]$twitter, sep = ""), file_path, append = T)
+  write(paste("instagram: ",import_data[row,]$instagram, sep = ""), file_path, append = T)
+  write(paste("facebook: ",import_data[row,]$facebook, sep = ""), file_path, append = T)
+  write(paste("youtube: ",import_data[row,]$youtube, sep = ""), file_path, append = T)
+  write(paste("crunchbase: ",import_data[row,]$crunchbase, sep = ""), file_path, append = T)
   write("draft: false", file_path, append = T)
   write("pinned: false", file_path, append = T)
   write("homepage: false", file_path, append = T)

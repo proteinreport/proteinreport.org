@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Agiou D
 <span class="postal-code">546 31</span> <span class="locality">Thessaloniki</span><br>
 <span class="country">Greece</span></p>]
 featured_image: "violife.jpg"
+website: https://violifefoods.com
+linkedin: 
+twitter: https://twitter.com/ViolifeFoods
+instagram: https://www.instagram.com/violife_foods/
+facebook: https://www.facebook.com/ViolifeFoods/
+youtube: https://www.youtube.com/channel/UCbomgKQqQ1W5jI3XJ7I-2ow
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1245
 ---
-<p>Violife is a range of award-winning plant-based alternatives to cheese products. They are free from dairy, preservatives, casein, lactose, gluten, nuts and soya. All are based on coconut oil and fortified with Vitamin B12.</p>
+Violife is a range of award-winning plant-based alternatives to cheese products. They are free from dairy, preservatives, casein, lactose, gluten, nuts and soya. All are based on coconut oil and fortified with Vitamin B12.

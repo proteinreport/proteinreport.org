@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">HaKidma
 <span class="locality">Yokne'am Illit</span><br>
 <span class="country">Israel</span></p>]
 featured_image: "NextFerm logo.png"
+website: https://www.nextferm.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5871
 ---
-<p>NextFerm is a science oriented industrial company, representing a new era in fermentation and fermentation-derived nutrients for supplements, food, infant nutrition and animal feed.</p>
+NextFerm is a science oriented industrial company, representing a new era in fermentation and fermentation-derived nutrients for supplements, food, infant nutrition and animal feed.

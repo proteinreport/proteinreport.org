@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">City Ha
 <span class="locality">Boston</span>, <span class="administrative-area">Massachusetts</span> <span class="postal-code">02203</span><br>
 <span class="country">United States</span></p>]
 featured_image: "31847_8939_Tender_Logo_Primary+Navy.png"
+website: https://www.tenderfood.com/
+linkedin: https://www.linkedin.com/company/tenderfood-inc
+twitter: https://twitter.com/bostonmeats
+instagram: https://www.instagram.com/tenderfood.co/
+facebook: https://www.facebook.com/Boston-Meats-113487283750037
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/boston-meats
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7240
 ---
-<p>Tender Food is solving the texture problem in the production of alternative meat products. For this new industry to grow, several breakthroughs will be key, including recreating the real texture and taste of meat and scaling it for food production. Tender Food’s team brings cumulative decades of experience to the problem, and has developed highly scalable technologies for recreating the texture in plant-based and cell-cultured meats. (Previously Boston Meats)</p>
+Tender Food is solving the texture problem in the production of alternative meat products. For this new industry to grow, several breakthroughs will be key, including recreating the real texture and taste of meat and scaling it for food production. Tender Food’s team brings cumulative decades of experience to the problem, and has developed highly scalable technologies for recreating the texture in plant-based and cell-cultured meats. (Previously Boston Meats)

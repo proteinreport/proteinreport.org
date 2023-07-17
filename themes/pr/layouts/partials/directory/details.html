@@ -1,0 +1,64 @@
+<div class="w-full flex flex-row flex-wrap divide-x-2 pb-2">
+  <div class="flex flex-col md:w-1/3">
+    {{ if .Params.proteins -}}
+      <h3 class="text-xl text-medium border-b-2">Protein:</h3>
+      <div class="flex flex-row flex-wrap gap-2 pt-2">
+        {{ range $index, $proteins := .Params.proteins -}}
+        <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{ end -}}
+      </div>
+    {{ end -}}
+  </div>
+  <div class="flex flex-col md:w-1/3">
+    {{ if .Params.products -}}
+      <h3 class="text-xl text-medium border-b-2 pl-2">Products:</h3>
+      <div class="flex flex-row flex-wrap gap-2 pt-2 pl-2">
+        {{ range $index, $products := .Params.products -}}
+          <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{ end -}}
+      </div>
+    {{ end -}}
+  </div>
+  <div class="flex flex-col md:w-1/3">
+    {{ if .Params.regions -}}
+      <h3 class="text-xl text-medium border-b-2 pl-2">Region:</h3>
+      <div class="flex flex-row flex-wrap gap-2 pt-2 pl-2">
+        {{ range $index, $regions := .Params.regions -}}
+          <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{ end -}}
+      </div>
+    {{ end -}}
+  </div>
+</div>
+<div class="w-full flex flex-row flex-wrap divide-x-2 pb-2">
+  <div class="flex flex-col md:w-1/3">
+    {{ if .Params.proteins -}}
+      <h3 class="text-xl text-medium border-b-2">Protein:</h3>
+      <div class="flex flex-row flex-wrap gap-2 pt-2">
+        {{ range $index, $proteins := .Params.proteins -}}
+        <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{ end -}}
+      </div>
+    {{ end -}}
+  </div>
+  <div class="flex flex-col md:w-1/3">
+    {{ if .Params.products -}}
+      <h3 class="text-xl text-medium border-b-2 pl-2">Products:</h3>
+      <div class="flex flex-row flex-wrap gap-2 pt-2 pl-2">
+        {{ range $index, $products := .Params.products -}}
+          <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{ end -}}
+      </div>
+    {{ end -}}
+  </div>
+  <div class="flex flex-col md:w-1/3">
+    {{ if .Params.regions -}}
+      <h3 class="text-xl text-medium border-b-2 pl-2">Region:</h3>
+      <div class="flex flex-row flex-wrap gap-2 pt-2 pl-2">
+        {{ range $index, $regions := .Params.regions -}}
+          <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{ end -}}
+      </div>
+    {{ end -}}
+  </div>
+</div>

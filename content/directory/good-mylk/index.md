@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">4th C M
 <span class="locality">Bengaluru</span> <span class="postal-code">560043</span><br>
 <span class="country">India</span></p>]
 featured_image: "Good mylk logo.png"
+website: https://goodmylk.in/
+linkedin: 
+twitter: https://twitter.com/goodmylk
+instagram: https://www.instagram.com/good.mylk/
+facebook: https://www.facebook.com/goodmylk
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

@@ -12,10 +12,17 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Larnaca</span><br>
 <span class="country">Cyprus</span></p>]
 featured_image: "mightykitchen.jpg"
+website: https://themightykitchen.com/
+linkedin: https://www.linkedin.com/company/themightykitchen/
+twitter: https://twitter.com/themightykitch
+instagram: https://www.instagram.com/themightykitchen/
+facebook: https://www.facebook.com/pg/themightykitchen/
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/mighty-meat
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5659
 ---
-<p>The Mighty Kitchen is a food technology company using data modelling and materials chemistry to make delicious, fibrous, plant-based poultry products and ingredients.</p>
+The Mighty Kitchen is a food technology company using data modelling and materials chemistry to make delicious, fibrous, plant-based poultry products and ingredients.

@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Albert 
 <span class="postal-code">7925</span><br>
 <span class="country">South Africa</span></p>]
 featured_image: "Mzansi logo 1.jpg"
+website: http://mzansimeat.co/
+linkedin: https://www.linkedin.com/company/mzansimeatco
+twitter: https://twitter.com/MzansiMeatCo
+instagram: 
+facebook: 
+youtube: https://www.youtube.com/@mzansimeatco.9984
+crunchbase: https://www.crunchbase.com/organization/mzansi-meat
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7119
 ---
-<p>We're building Africa's first cultivated meat company.</p>
+We're building Africa's first cultivated meat company.

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Lark St
 <span class="locality">Cohoes</span>, <span class="postal-code">12047</span><br>
 <span class="country">United States</span></p>]
 featured_image: "header-logo-orange.png"
+website: https://www.highpeaks.life/
+linkedin: https://www.linkedin.com/company/high-peaks-sausage/
+twitter: https://twitter.com/highpeaks_life
+instagram: https://www.instagram.com/highpeaks_sausage/
+facebook: https://www.facebook.com/highpeakssausage
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1330
 ---
-<p>High Peaks plant-based sausage manufactures delicious sausage made from white beans, fresh vegetables and premium seasonings. High Peaks was designed by a third-generation sausage maker to fuel active lifestyles with real, whole foods. Always meat-free, high in protein, and non-GMO.</p>
+High Peaks plant-based sausage manufactures delicious sausage made from white beans, fresh vegetables and premium seasonings. High Peaks was designed by a third-generation sausage maker to fuel active lifestyles with real, whole foods. Always meat-free, high in protein, and non-GMO.

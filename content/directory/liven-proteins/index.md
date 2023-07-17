@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Bay Str
 <span class="locality">Toronto</span> <span class="administrative-area">Ontario</span> <span class="postal-code">M5G 1P5</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "liven-logo-small.png"
+website: https://livenproteins.ca/
+linkedin: https://www.linkedin.com/company/livenproteins
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/liven-proteins
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10454
 ---
-<p>Liven makes sustainable protein ingredients to help plant-based food to have the same texture and nutritional value as conventional animal products. We are a precision fermentation company that transforms agriculture and food co-products to premium protein ingredients, enabling a circular economy.</p>
+Liven makes sustainable protein ingredients to help plant-based food to have the same texture and nutritional value as conventional animal products. We are a precision fermentation company that transforms agriculture and food co-products to premium protein ingredients, enabling a circular economy.

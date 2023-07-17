@@ -12,10 +12,17 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Amsterdam</span><br>
 <span class="country">Netherlands</span></p>]
 featured_image: "Photanol logo.jpg"
+website: https://www.photanol.com/
+linkedin: https://www.linkedin.com/company/photanol
+twitter: https://twitter.com/photanol
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5884
 ---
-<p>Photanol's technology and patents are based on the genetic modification of cyanobacteria to produce a broad range of biochemicals. These bacteria are natural photosynthesizers, drawing energy from (abundant and free) sunlight and carbon from (abundant and problematic) CO2.</p>
+Photanol's technology and patents are based on the genetic modification of cyanobacteria to produce a broad range of biochemicals. These bacteria are natural photosynthesizers, drawing energy from (abundant and free) sunlight and carbon from (abundant and problematic) CO2.

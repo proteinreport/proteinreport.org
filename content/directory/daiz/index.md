@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="locality">Kumamoto</sp
 <span class="postal-code">860-0812</span><br>
 <span class="country">Japan</span></p>]
 featured_image: "daiz.png"
+website: https://www.daiz.inc/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/daiz
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7043
 ---
-<p>Daiz develops, produces, and sells of plant-based meats and foods that use soybean-derived functional substances.</p>
+Daiz develops, produces, and sells of plant-based meats and foods that use soybean-derived functional substances.

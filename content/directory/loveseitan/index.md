@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Highbri
 <span class="postal-code">HP21 7SE</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "love seitan logo.jpg"
+website: https://www.loveseitan.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/loveseitanuk/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5771
 ---
-Wholesale seitan suppliers LoveSeitan are the UK’s leading manufacturer of seitan products. Supplying wholesalers, distributors, restaurants, cafes <span class="amp">&</span> retail.
+Wholesale seitan suppliers LoveSeitan are the UK’s leading manufacturer of seitan products. Supplying wholesalers, distributors, restaurants, cafes & retail.

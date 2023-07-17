@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Bebelst
 <span class="postal-code">79108</span> <span class="locality">Freiburg im Breisgau</span><br>
 <span class="country">Germany</span></p>]
 featured_image: "Taifun tofu logo.png"
+website: https://www.taifun-tofu.de/en
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

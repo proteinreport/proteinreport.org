@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Marcus 
 <span class="locality">New Hyde Park</span>, <span class="postal-code">11042</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Dream logo-retina.png"
+website: http://www.dreamplantbased.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/dreamnondairy
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5549
 ---
-DREAM has redefined what is possible for the dairy-free with a large variety of plant based offerings, including plant based beverages, frozen desserts, yogurts <span class="amp">&</span> chocolate, all enrolled in the Non-GMO Project. They’re nutritious and loaded with flavor.
+DREAM has redefined what is possible for the dairy-free with a large variety of plant based offerings, including plant based beverages, frozen desserts, yogurts & chocolate, all enrolled in the Non-GMO Project. They’re nutritious and loaded with flavor.

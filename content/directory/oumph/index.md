@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Järnv�
 <span class="postal-code">595 52</span> <span class="locality">Mjölby</span><br>
 <span class="country">Sweden</span></p>]
 featured_image: "Oumph logo.png"
+website: https://oumph.us/
+linkedin: 
+twitter: https://twitter.com/OumphUSA
+instagram: https://www.instagram.com/oumphusa/
+facebook: https://www.facebook.com/OumphUSA/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Robson 
 <span class="locality">Vancouver</span> <span class="postal-code">V6Z 2E7</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "ModernMeatLogo.png"
+website: https://www.themodernmeat.com
+linkedin: https://www.linkedin.com/company/themodernmeat
+twitter: 
+instagram: https://www.instagram.com/themodernmeat/
+facebook: https://www.facebook.com/themodernmeat
+youtube: https://www.youtube.com/channel/UCVUXhTWClfPW1_aeIUeKfkA
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7330
 ---
-<p>Modern Meat is a plant-based meat alternative company based in Vancouver, British Columbia. We create a selection of healthy, gourmet food crafted from natural ingredients and derived from plants. Our team is passionate about reducing our environmental footprint by choosing plant-based products over traditional meat. Health-focused, all our products are Soy, Gluten, Nut and GMO free, and made with no artificial preservatives or additives.</p>
+Modern Meat is a plant-based meat alternative company based in Vancouver, British Columbia. We create a selection of healthy, gourmet food crafted from natural ingredients and derived from plants. Our team is passionate about reducing our environmental footprint by choosing plant-based products over traditional meat. Health-focused, all our products are Soy, Gluten, Nut and GMO free, and made with no artificial preservatives or additives.

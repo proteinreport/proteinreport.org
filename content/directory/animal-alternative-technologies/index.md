@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Saint A
 <span class="postal-code">CB2 3BU</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "1612454136801.jpg"
+website: https://www.animalalternativetechnologies.com/
+linkedin: https://www.linkedin.com/company/animal-alternative-technologies/
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/animal-alternative-technologies
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 9429
 ---
-<p>Animal Alternative Technologies is engineering a scalable, end-to-end ecosystem for cell-based meat production, including specialist processes, enabling technologies, software, hardware and raw materials to democratize access to sustainable food and tackle some of the world's biggest sustainability and food security challenges.</p>
+Animal Alternative Technologies is engineering a scalable, end-to-end ecosystem for cell-based meat production, including specialist processes, enabling technologies, software, hardware and raw materials to democratize access to sustainable food and tackle some of the world's biggest sustainability and food security challenges.

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">New Ind
 <span class="postal-code">536212</span><br>
 <span class="country">Singapore</span></p>]
 featured_image: "audra.png"
+website: https://www.audra-labs.com/
+linkedin: https://www.linkedin.com/company/audra-labs-pte-ltd
+twitter: https://twitter.com/AudraLabs
+instagram: https://www.instagram.com/audrarealxaudralabs/
+facebook: https://www.facebook.com/Audra-Labs-102629682247703
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10552
 ---
-<p>Audra Labs develops products and technologies for plant-based and cultured-meat.</p>
+Audra Labs develops products and technologies for plant-based and cultured-meat.

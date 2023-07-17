@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Stavere
 <span class="postal-code">7418 CJ</span> <span class="locality">Deventer</span><br>
 <span class="country">Netherlands</span></p>]
 featured_image: "Vegafit logo.png"
+website: https://vegafit.com/products/
+linkedin: 
+twitter: 
+instagram: https://www.instagram.com/vegafit_europe/
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

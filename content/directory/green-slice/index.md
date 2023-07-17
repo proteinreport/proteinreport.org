@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Cochran
 <span class="locality">Richmond</span>, <span class="postal-code">05477</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Green Slice food logo.jpg"
+website: http://www.greenslicefoods.com/
+linkedin: 
+twitter: https://twitter.com/GreenSliceFoods
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5624
 ---
-<p>Green Slice makes a plant-based diet more appealing and accessible with plant based foods that still have the meaty taste, and taste great!</p>
+Green Slice makes a plant-based diet more appealing and accessible with plant based foods that still have the meaty taste, and taste great!

@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Don Jul
 <span class="locality">City of Industry</span>, <span class="postal-code">91746</span><br>
 <span class="country">United States</span></p>]
 featured_image: "El Burito Mexican Food Products logo.png"
+website: http://elburrito.com/
+linkedin: 
+twitter: https://twitter.com/ElBurritoFood
+instagram: 
+facebook: https://www.facebook.com/El-Burrito-Mexican-Food-Products-140472509322850/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

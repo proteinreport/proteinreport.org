@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Arenale
 <span class="administrative-area">Buenos Aires</span><br>
 <span class="country">Argentina</span></p>]
 featured_image: "dZWRdv0A_400x400.jpg"
+website: https://www.eternal.bio/
+linkedin: https://www.linkedin.com/company/eternalbio
+twitter: https://twitter.com/eternalbio
+instagram: https://www.instagram.com/eternal.bio/
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/kernel-mycofood
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 9419
 ---
-<p>Eternal is solving the absence of a properly sustainable and cost-effective protein ingredient that is flavor neutral. The company uses AI and computer vision to improve the fungi fermentation techniques of existing and approved strains. The result is a market-ready product that suits better the needs of a range of food manufacturers, reducing the amount of post processing needed for an end product. (Previously Kernel Mycofoods)</p>
+Eternal is solving the absence of a properly sustainable and cost-effective protein ingredient that is flavor neutral. The company uses AI and computer vision to improve the fungi fermentation techniques of existing and approved strains. The result is a market-ready product that suits better the needs of a range of food manufacturers, reducing the amount of post processing needed for an end product. (Previously Kernel Mycofoods)

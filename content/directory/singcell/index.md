@@ -12,10 +12,17 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
 <span class="country">Singapore</span></p>]
 featured_image: "singcell.png"
+website: https://www.singcell.com/
+linkedin: https://www.linkedin.com/company/singcell
+twitter: https://twitter.com/singcell_hq
+instagram: 
+facebook: https://www.facebook.com/singcell.hq
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7556
 ---
-<p>SingCell offers process development and contract manufacturing services for stem cell therapy and clean meat companies. SingCell leverages its proprietary technology to improve manufacturing processes and offer high consistent quality stem cells.</p>
+SingCell offers process development and contract manufacturing services for stem cell therapy and clean meat companies. SingCell leverages its proprietary technology to improve manufacturing processes and offer high consistent quality stem cells.

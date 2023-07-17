@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Broadwa
 <span class="locality">New York</span>, <span class="postal-code">10006</span><br>
 <span class="country">United States</span></p>]
 featured_image: "ruby-rockets-logo_337x.png"
+website: https://www.rubyrockets.com/
+linkedin: 
+twitter: https://twitter.com/RubysRockets
+instagram: https://www.instagram.com/rubyrocketssnacks/
+facebook: https://www.facebook.com/RubysRockets/
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/rubys-rockets
 draft: false
 pinned: false
 homepage: false

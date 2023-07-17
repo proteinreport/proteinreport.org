@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Nieuwe 
 <span class="postal-code">6711 JC</span> <span class="locality">Ede</span><br>
 <span class="country">Netherlands</span></p>]
 featured_image: "Rival foods logo.jpg"
+website: https://rival-foods.com/
+linkedin: https://www.linkedin.com/company/rival-foods/
+twitter: 
+instagram: https://www.instagram.com/rival_foods/
+facebook: https://www.facebook.com/Rival-Foods-109331567093307/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

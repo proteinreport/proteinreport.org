@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Chestnu
 <span class="locality">Santa Cruz</span>, <span class="postal-code">95060</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Lovelika logo.png"
+website: https://lovelika.com/
+linkedin: 
+twitter: https://twitter.com/AmazingProtein
+instagram: https://www.instagram.com/luv_lika/
+facebook: https://www.facebook.com/pg/AmazingProtein
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5669
 ---
-<p>Love Lika has been created by The Amazing Protein Company who has worked to create delicious products that let consumers enjoy the foods they already love while perfectly preserving or improving flavor, texture, and nutrition.</p>
+Love Lika has been created by The Amazing Protein Company who has worked to create delicious products that let consumers enjoy the foods they already love while perfectly preserving or improving flavor, texture, and nutrition.

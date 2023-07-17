@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">East Ev
 <span class="locality">Mountain View</span>, <span class="postal-code">94043</span><br>
 <span class="country">United States</span></p>]
 featured_image: "spero.jpg"
+website: https://www.sperofoods.co/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1177
 ---
-<p>Founded in 2016, Spero Foods is on a mission to make everyday dairy products into delicious, sustainable and nutrient-dense, healthy foods. Spero Foods has earned the title, Standout Startup of the Winter Fancy Food Show by Food Business News and 50 Women Led Startups Who Are Crushing Tech by Forbes. Backed by the prestigious YCombinator, the same accelerator that incubated Dropbox and AirBnB, Spero Foods is leading a new, nondairy superfood revolution.</p>
+Founded in 2016, Spero Foods is on a mission to make everyday dairy products into delicious, sustainable and nutrient-dense, healthy foods. Spero Foods has earned the title, Standout Startup of the Winter Fancy Food Show by Food Business News and 50 Women Led Startups Who Are Crushing Tech by Forbes. Backed by the prestigious YCombinator, the same accelerator that incubated Dropbox and AirBnB, Spero Foods is leading a new, nondairy superfood revolution.

@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Wood La
 <span class="postal-code">W12 7RZ</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "edenbio.png"
+website: https://eden.bio/
+linkedin: https://www.linkedin.com/company/eden-bio-ltd
+twitter: https://twitter.com/EdenBio/
+instagram: https://www.instagram.com/eden_bio_/
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/eden-bio
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 11189
 ---
-<p>Eden Bio’s machine-learning platform technology enables the precision fermentation industry to overcome the issues of low yield currently preventing exciting protein products from making it to market. Dr Christopher Reynolds, an entrepreneur with a PhD in bioinformatics, a post-doctorate in bioengineering, and over twenty years as director of software house Arc en Ciel, launched Eden Bio in Jan 2022. Prior to that, he co-founded the precision fermentation dairy disruptor, Better Dairy, in 2020, where he served as CTO.</p>
+Eden Bio’s machine-learning platform technology enables the precision fermentation industry to overcome the issues of low yield currently preventing exciting protein products from making it to market. Dr Christopher Reynolds, an entrepreneur with a PhD in bioinformatics, a post-doctorate in bioengineering, and over twenty years as director of software house Arc en Ciel, launched Eden Bio in Jan 2022. Prior to that, he co-founded the precision fermentation dairy disruptor, Better Dairy, in 2020, where he served as CTO.

@@ -12,10 +12,17 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Edmonton</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "Future Fields_0.png"
+website: https://www.futurefields.io/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5808
 ---
-<p>Startup  creating custom growth media solutions for the cellular agriculture industry - cost effective, scalable, and optimized for the future of&nbsp;food.</p>
+Startup  creating custom growth media solutions for the cellular agriculture industry - cost effective, scalable, and optimized for the future of&nbsp;food.

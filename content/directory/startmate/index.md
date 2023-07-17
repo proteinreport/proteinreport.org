@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Collins
 <span class="locality">Docklands</span> <span class="postal-code">3008</span><br>
 <span class="country">Australia</span></p>]
 featured_image: "startmate.jpg"
+website: https://www.startmate.com.au/
+linkedin: https://www.linkedin.com/company/startmate/
+twitter: https://twitter.com/startmate
+instagram: 
+facebook: https://www.facebook.com/startmateau/
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/startmate
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7172
 ---
-<p>The Startmate Accelerator is a 12-week program for startups who are changing the way we work, live and play, and we’re powered by the most successful entrepreneurs and venture capitalists in Australia and New Zealand. Alongside the regular program we run the Climate Cohort, for startups addressing the climate crisis.</p>
+The Startmate Accelerator is a 12-week program for startups who are changing the way we work, live and play, and we’re powered by the most successful entrepreneurs and venture capitalists in Australia and New Zealand. Alongside the regular program we run the Climate Cohort, for startups addressing the climate crisis.

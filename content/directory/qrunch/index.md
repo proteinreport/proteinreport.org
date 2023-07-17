@@ -12,6 +12,13 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Denver</span>, <span class="postal-code">80202</span><br>
 <span class="country">United States</span></p>]
 featured_image: "qrunch-organics.jpg"
+website: http://qrunchfoods.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

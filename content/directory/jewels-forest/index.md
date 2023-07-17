@@ -13,14 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Pleasan
 <span class="locality">Sebastopol</span>, <span class="postal-code">95472</span><br>
 <span class="country">United States</span></p>]
 featured_image: "JewelsOfTheForestLogo.jpg"
+website: http://www.shroomjerky.com/
+linkedin: 
+twitter: https://twitter.com/MycoLabSolution
+instagram: https://www.instagram.com/shroomsnack/
+facebook: https://www.facebook.com/ShroomJerky
+youtube: https://www.youtube.com/channel/UC12pheYDPWl_oaiEWpG4JKA/videos
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5601
 ---
-Jewels of the Forest was formed by two brothers, Wyatt and Hunter Bryson. Combining a deep passion for mycology and the culinary arts.
-
-In 2018, they opened their commercial kitchen and retail store front in Sebastopol, California.
-
-The inspiration for Shroom Snack Mushroom Jerky would come from Chef Hunter and his family’s many travels to Thailand, along with his love for Traditional Cultural flavors.
+Jewels of the Forest was formed by two brothers, Wyatt and Hunter Bryson. Combining a deep passion for mycology and the culinary arts.In 2018, they opened their commercial kitchen and retail store front in Sebastopol, California.The inspiration for Shroom Snack Mushroom Jerky would come from Chef Hunter and his family’s many travels to Thailand, along with his love for Traditional Cultural flavors.

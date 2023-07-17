@@ -11,10 +11,17 @@ finance_type: []
 regions: [Asia]
 location: [<p class="address" translate="no"><span class="country">Singapore</span></p>]
 featured_image: "1592203205718.jpg"
+website: https://www.floatfoods.com/
+linkedin: https://www.linkedin.com/company/floatfoods/
+twitter: https://twitter.com/FloatFoods
+instagram: 
+facebook: https://www.facebook.com/floatfoods
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/float-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 9129
 ---
-<p>Float Foods is bringing about change in our environment by transforming how we eat and what we eat. They aim to build up their local capabilities by offering tasty nutrient-dense plant-based foods, by leveraging food tech and innovation. They plan to invest in local production to impact food security.</p>
+Float Foods is bringing about change in our environment by transforming how we eat and what we eat. They aim to build up their local capabilities by offering tasty nutrient-dense plant-based foods, by leveraging food tech and innovation. They plan to invest in local production to impact food security.

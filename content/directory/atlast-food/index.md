@@ -12,10 +12,17 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Green Island</span>,<br>
 <span class="country">United States</span></p>]
 featured_image: "Atlast-logo-black.png"
+website: https://www.atlastfood.co/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5845
 ---
-<p>The Atlast Food Platform uses a patented growth environment to align fibers of mycelium to create textures, structures, and even flavors similar to meat. Our edible mycelium tissue offers a range of nutritional benefits from protein to amino&nbsp;acids.</p>
+The Atlast Food Platform uses a patented growth environment to align fibers of mycelium to create textures, structures, and even flavors similar to meat. Our edible mycelium tissue offers a range of nutritional benefits from protein to amino&nbsp;acids.

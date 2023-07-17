@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Kennedy
 <span class="locality">Toronto</span> <span class="postal-code">M6R 2L2</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "CAT Cell Ag Tech logo.jpg"
+website: https://cellagtech.com/
+linkedin: https://www.linkedin.com/company/cellagtech/
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/cell-ag-tech#section-overview
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5835
 ---
-<p>Dedicated to developing and commercializing cellular agriculture&nbsp;technologies.</p>
+Dedicated to developing and commercializing cellular agriculture&nbsp;technologies.

@@ -12,10 +12,17 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="postal-code">100-101</span><br>
 <span class="country">South Korea</span></p>]
 featured_image: "unlimeat_1.png"
+website: https://www.unlimeat.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6282
 ---
-<p>South Korea-based maker of plant-based meats.</p>
+South Korea-based maker of plant-based meats.

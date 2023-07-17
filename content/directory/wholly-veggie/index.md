@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Portlan
 <span class="locality">Toronto</span> <span class="postal-code">M5V 2M7</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "wv.jpg"
+website: https://www.whollyveggie.com/
+linkedin: 
+twitter: https://twitter.com/whollyveggie
+instagram: https://www.instagram.com/whollyveggie/
+facebook: https://www.facebook.com/whollyveggie
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5752
 ---
-<p>Wholly Veggie products offer a simple way to incorporate vegetables into the diet since they are all made from plant-based ingredients. Perfect for afternoon cravings, they are a great way for children to get a delicious, healthy snack at the end of the day. They’re also an amazing alternative to traditional sweet or salty snacks, making them the perfect way to start up your new year, new you resolutions.</p>
+Wholly Veggie products offer a simple way to incorporate vegetables into the diet since they are all made from plant-based ingredients. Perfect for afternoon cravings, they are a great way for children to get a delicious, healthy snack at the end of the day. They’re also an amazing alternative to traditional sweet or salty snacks, making them the perfect way to start up your new year, new you resolutions.

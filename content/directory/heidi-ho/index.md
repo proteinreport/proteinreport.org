@@ -12,6 +12,13 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Portland</span>, <span class="postal-code">97201</span><br>
 <span class="country">United States</span></p>]
 featured_image: "HH_Logo-TagDark-CharacterGrey_700.png"
+website: http://www.heidiho.com/
+linkedin: 
+twitter: 
+instagram: https://www.instagram.com/heidihofoods/
+facebook: https://www.facebook.com/HeidiHoFoods/
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/heidi-ho-organics
 draft: false
 pinned: false
 homepage: false

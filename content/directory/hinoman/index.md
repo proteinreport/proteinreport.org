@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Avraham
 <span class="locality">Netivot</span><br>
 <span class="country">Israel</span></p>]
 featured_image: "Hinoman logo.jpg"
+website: http://www.hinoman.com/
+linkedin: 
+twitter: https://twitter.com/eatmankai
+instagram: https://www.instagram.com/eatmankai/
+facebook: https://www.facebook.com/Eatmankai-456573778438712/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

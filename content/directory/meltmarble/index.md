@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Burggre
 <span class="postal-code">411 03</span> <span class="locality">Göteborg</span><br>
 <span class="country">Sweden</span></p>]
 featured_image: "mm.png"
+website: https://www.meltandmarble.com/
+linkedin: https://www.linkedin.com/company/meltandmarble
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/melt-marble
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 10458
 ---
-<p>Melt&Marble’s mission is to become an enabler for the alternative protein industry by providing it with the best and tastiest fats. We do this by using precision fermentation to produce animal fats without the animal. By engineering microbial metabolism, we can dictate the structure and properties of the fats that our microbes are producing, allowing us to mimic any fat structure, as well as create completely new and better fats. The result: tastier plant-based foods, for consumers and the planet!</p>
+Melt&Marble’s mission is to become an enabler for the alternative protein industry by providing it with the best and tastiest fats. We do this by using precision fermentation to produce animal fats without the animal. By engineering microbial metabolism, we can dictate the structure and properties of the fats that our microbes are producing, allowing us to mimic any fat structure, as well as create completely new and better fats. The result: tastier plant-based foods, for consumers and the planet!

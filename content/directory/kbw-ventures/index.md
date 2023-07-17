@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">East 3r
 <span class="locality">San Mateo</span>, <span class="postal-code">94401</span><br>
 <span class="country">United States</span></p>]
 featured_image: "5Z-N331Z.jpg"
+website: https://kbw-ventures.com/
+linkedin: https://www.linkedin.com/company/kbw-ventures
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6281
 ---
-<p>Focusing exclusively on venture capital, value creation and growth equity, KBW Ventures is an asset management company that targets direct investments in some of the world’s most highly sought-after private companies.</p>
+Focusing exclusively on venture capital, value creation and growth equity, KBW Ventures is an asset management company that targets direct investments in some of the world’s most highly sought-after private companies.

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Sirius 
 <span class="locality">Lane Cove West</span> <span class="postal-code">2066</span><br>
 <span class="country">Australia</span></p>]
 featured_image: "MBG logo.jpeg"
+website: http://microbiogen.com.au/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5872
 ---
-<p>Microbiogen leads the world in the development of superior biocatalysts for a range of industries including 1st and 2nd generation biofuels, human food and animal feed amongst others. The company focus is on sustainability, renewables and maximising shareholder value. The unique technology developed by the science team at Microbiogen is a game changer with first products now launched.</p>
+Microbiogen leads the world in the development of superior biocatalysts for a range of industries including 1st and 2nd generation biofuels, human food and animal feed amongst others. The company focus is on sustainability, renewables and maximising shareholder value. The unique technology developed by the science team at Microbiogen is a game changer with first products now launched.

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Ha-Agas
 <span class="locality">Binyamina-Giv'at Ada</span><br>
 <span class="country">Israel</span></p>]
 featured_image: "Bioraptor Logo.png"
+website: https://www.bioraptor.ai/
+linkedin: https://www.linkedin.com/company/bioraptor
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 11176
 ---
-<p>Our goal is to empower every scientist and biotech firm, making AI-powered insights a natural part of every workflow.  From alt-protein foods to new biopharmaceuticals, bioraptor will make it easier, quicker and more cost-effective for scientists to discover, develop and scale processes that get much-needed food and pharma products into the hands of those who need them.</p>
+Our goal is to empower every scientist and biotech firm, making AI-powered insights a natural part of every workflow.  From alt-protein foods to new biopharmaceuticals, bioraptor will make it easier, quicker and more cost-effective for scientists to discover, develop and scale processes that get much-needed food and pharma products into the hands of those who need them.

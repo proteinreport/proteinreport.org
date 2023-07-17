@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">bulevar
 <span class="postal-code">1408</span> <span class="locality">Sofia</span><br>
 <span class="country">Bulgaria</span></p>]
 featured_image: "cheese the queen logo.png"
+website: http://cheesethequeen.com/en/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5657
 ---
-<p>Producer of plant-based nut cheeses. There is a sustainable know-how developed in the factory. The company is using authentic production methods and hand-makes everything, however, the laboratory tests provide all-important security and reassurance in knowing that everything is fully tested, <em>naturally</em> matured, and loaded with millions of Lactobacillus Acidophilus <span class="amp">&</span> Lactobacillus Bulgaricus  – delivering flavor explosions and encouraging superior health. The product is aging naturally and it becomes stronger, healthier and tastier with time.</p>
+Producer of plant-based nut cheeses. There is a sustainable know-how developed in the factory. The company is using authentic production methods and hand-makes everything, however, the laboratory tests provide all-important security and reassurance in knowing that everything is fully tested, naturally matured, and loaded with millions of Lactobacillus Acidophilus & Lactobacillus Bulgaricus  – delivering flavor explosions and encouraging superior health. The product is aging naturally and it becomes stronger, healthier and tastier with time.

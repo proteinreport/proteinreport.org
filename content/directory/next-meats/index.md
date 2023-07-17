@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="locality">Chiyoda City
 <span class="postal-code">100-0005</span><br>
 <span class="country">Japan</span></p>]
 featured_image: "zmnwhypkb2y6jtg2r1rx.jpg"
+website: https://nextmeats.co.jp/
+linkedin: https://www.linkedin.com/company/next-meats-co-ltd/
+twitter: https://twitter.com/nextmeats
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/next-meats
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 8802
 ---
-<p>Next Meats, based in Tokyo, is developing plant-based meat products as a preventative measure against the food crisis caused by the deterioration of the environment.</p>
+Next Meats, based in Tokyo, is developing plant-based meat products as a preventative measure against the food crisis caused by the deterioration of the environment.

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Red Soi
 <span class="locality">Oregon City</span>, <span class="postal-code">97045</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Lisanatti logo.png"
+website: http://lisanattifoods.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5612
 ---
-<p>Lisanatti Foods is a second-generation, family owned business located in Oregon, making high quality cheese alternatives since 1976.</p>
+Lisanatti Foods is a second-generation, family owned business located in Oregon, making high quality cheese alternatives since 1976.

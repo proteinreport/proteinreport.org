@@ -13,11 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Robson 
 <span class="locality">Vancouver</span> <span class="postal-code">V6Z 2E7</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "Plant Veda logo.png"
+website: https://www.plantveda.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5658
 ---
-Inspired by Vedas, the world’s most ancient scriptures in which plants are praised as the nourishing mother of mankind, Plant Veda offers an opportunity to connect with nature once again, making the most of its goodness. Plant Veda believes that a step away from animal-based agriculture and products will certainly make our lives and the planet better.
-The proprietary recipes of utilizing oats and cashews result in a creamy beverage that tastes, smell and feels like dairy, without the use of preservatives, gums or thickeners.
+Inspired by Vedas, the world’s most ancient scriptures in which plants are praised as the nourishing mother of mankind, Plant Veda offers an opportunity to connect with nature once again, making the most of its goodness. Plant Veda believes that a step away from animal-based agriculture and products will certainly make our lives and the planet better.The proprietary recipes of utilizing oats and cashews result in a creamy beverage that tastes, smell and feels like dairy, without the use of preservatives, gums or thickeners.

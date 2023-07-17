@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Dreifü
 <span class="postal-code">72116</span> <span class="locality">Mössingen</span><br>
 <span class="country">Germany</span></p>]
 featured_image: "Veggyness_Logo.png"
+website: https://www.veggyness.com
+linkedin: 
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/veggyness/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5789
 ---
-<p>Veggyness is producing plant-based alternatives to meat and cheese.</p>
+Veggyness is producing plant-based alternatives to meat and cheese.

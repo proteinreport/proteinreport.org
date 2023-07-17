@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">East Co
 <span class="locality">Denver</span>, <span class="postal-code">80220</span><br>
 <span class="country">United States</span></p>]
 featured_image: "nuggs logo.jpg"
+website: https://eatnuggs.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

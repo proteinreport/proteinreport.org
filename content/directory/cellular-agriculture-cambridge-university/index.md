@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Saint A
 <span class="postal-code">CB2 3BJ</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "cropped-logo.png"
+website: https://cellagcam.com/
+linkedin: https://www.linkedin.com/company/cellular-agriculture-cambridge-university
+twitter: https://twitter.com/CellularAgricu1
+instagram: https://www.instagram.com/cellagcam/
+facebook: https://www.facebook.com/CellAgCam
+youtube: https://www.youtube.com/channel/UC4a3Uvg197KZ2tSU-_0Q8qw
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 8175
 ---
-<p>Cellular Agriculture Cambridge University exists with the express aim of developing talent and fostering interest for this field within Cambridge University. As one of the world's first Cellular Agriculture University Societies we wish to pioneer and promote the field in higher education globally.</p>
+Cellular Agriculture Cambridge University exists with the express aim of developing talent and fostering interest for this field within Cambridge University. As one of the world's first Cellular Agriculture University Societies we wish to pioneer and promote the field in higher education globally.

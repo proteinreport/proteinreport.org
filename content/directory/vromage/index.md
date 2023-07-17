@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Sunset 
 <span class="locality">Los Angeles</span>, <span class="postal-code">90046</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Vromage logo.png"
+website: https://www.vromage.com
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6003
 ---
-<p>Vromage offers superior-quality artisan cheeses made from nuts and aged to perfection.</p>
+Vromage offers superior-quality artisan cheeses made from nuts and aged to perfection.

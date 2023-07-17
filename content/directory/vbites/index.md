@@ -14,6 +14,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Tunwell
 <span class="postal-code">NN17 1AR</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "VBites-2018-Logo_1000px.png"
+website: https://www.vbites.com/
+linkedin: 
+twitter: https://twitter.com/VBitesFoods
+instagram: https://www.instagram.com/vbitesfoods/
+facebook: https://www.facebook.com/vbitesfoods/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">West Pa
 <span class="locality">Elmhurst</span>, <span class="postal-code">60126</span><br>
 <span class="country">United States</span></p>]
 featured_image: "greenleaf-foods.png"
+website: https://www.greenleaffoods.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1210
 ---
-<p>Greenleaf Foods, SPC is committed to shaping the future of plant-based foods. Established in 2018, the Company’s portfolio of leading plant-based protein brands includes Lightlife and Field Roast Grain Meat Co. The Company is headquartered in Chicago, and is a wholly owned, independent subsidiary of Maple Leaf Foods Inc.</p>
+Greenleaf Foods, SPC is committed to shaping the future of plant-based foods. Established in 2018, the Company’s portfolio of leading plant-based protein brands includes Lightlife and Field Roast Grain Meat Co. The Company is headquartered in Chicago, and is a wholly owned, independent subsidiary of Maple Leaf Foods Inc.

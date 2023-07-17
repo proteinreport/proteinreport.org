@@ -14,11 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Whiteha
 <span class="postal-code">SW1A 2DD</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "logo_dug_primary_364dc8cf.png"
+website: https://dugdrinks.com/
+linkedin: https://www.linkedin.com/company/veg-of-lund-u-k/
+twitter: 
+instagram: https://www.instagram.com/dugdrinks/
+facebook: 
+youtube: https://www.youtube.com/@vegoflund4996
+crunchbase: https://www.crunchbase.com/organization/veg-of-lund
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 9462
 ---
-<p>DUG is a Swedish brand with its roots in science and research by Professor Eva Tornberg at Lund university. It’s where our patented emulsion technology was developed, and where we continue to develop new ways to harness the power of potatoes. Our plant-based drinks are currently sold in stores in Sweden and the UK.</p>
-<p>The DUG brand is owned by Veg of Lund.</p>
+DUG is a Swedish brand with its roots in science and research by Professor Eva Tornberg at Lund university. It’s where our patented emulsion technology was developed, and where we continue to develop new ways to harness the power of potatoes. Our plant-based drinks are currently sold in stores in Sweden and the UK.The DUG brand is owned by Veg of Lund.

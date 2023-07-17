@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Main St
 <span class="locality">Winnipeg</span> <span class="postal-code">R3C 4T3</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "Merit_Logo_Full-Color_highres.jpg"
+website: https://www.meritfoods.com/
+linkedin: https://www.linkedin.com/company/merit-functional-foods
+twitter: https://twitter.com/MeritProteins
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/merit-functional-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7167
 ---
-<p>We’re here to uproot the industry’s perception of plant-based protein with high quality functional ingredients that are exceptional in taste, unmatched in purity, superior in solubility. As demand for a healthier, plant-based food system continues to grow, we are responding with proprietary non-GMO pea and canola protein ingredients that exceed the industry’s standards for taste, labeling, quality, and more.</p>
+We’re here to uproot the industry’s perception of plant-based protein with high quality functional ingredients that are exceptional in taste, unmatched in purity, superior in solubility. As demand for a healthier, plant-based food system continues to grow, we are responding with proprietary non-GMO pea and canola protein ingredients that exceed the industry’s standards for taste, labeling, quality, and more.

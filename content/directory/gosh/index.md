@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="locality">Milton Keyne
 <span class="postal-code">MK10 0BY</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "Gosh logo.jpg"
+website: https://www.goshfood.com/
+linkedin: 
+twitter: https://twitter.com/Gosh_Food
+instagram: https://www.instagram.com/gosh_food/
+facebook: https://www.facebook.com/pg/GoshFoodOfficial
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5534
 ---
-<p>Gosh! specialises in delicious, nutritious and easy plant-based food that is free-from all the major 14 allergens. All excitingly tasty and incredibly versatile bites, burgers and sausages are carefully designed to be kind to humans, and kind to the world around. As a British and independent company Gosh! is free to drive a new way of business — one that not only does no harm, but one that actively does good.</p>
+Gosh! specialises in delicious, nutritious and easy plant-based food that is free-from all the major 14 allergens. All excitingly tasty and incredibly versatile bites, burgers and sausages are carefully designed to be kind to humans, and kind to the world around. As a British and independent company Gosh! is free to drive a new way of business — one that not only does no harm, but one that actively does good.

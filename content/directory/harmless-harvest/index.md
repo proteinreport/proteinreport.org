@@ -13,12 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Sansome
 <span class="locality">San Francisco</span>, <span class="postal-code">94111</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Harmless Harvest logo.png"
+website: http://harmlessharvest.com/
+linkedin: https://www.linkedin.com/company/harmless-harvest
+twitter: https://twitter.com/HarmlessHarvest
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5956
 ---
-<p>Harmless Harvest makes delicious organic coconut-based products including coconut water, coconut snack drinks and dairy-free coconut yogurt alternatives. The brand was the first to launch a non thermally pasteurized coconut water in the US, as well as the first coconut water to be Fair for Life certified.</p>
-
-<p>Harmless Harvest is committed to rigorous and independent standards for fair trade and social progress within its supply chain. It operates on an ecosystem-based approach, considering its impact from seed to shelf. True to its name, Harmless Harvest is an ever-evolving brand with the ultimate goal of doing minimal harm while making remarkable products.</p>
+Harmless Harvest makes delicious organic coconut-based products including coconut water, coconut snack drinks and dairy-free coconut yogurt alternatives. The brand was the first to launch a non thermally pasteurized coconut water in the US, as well as the first coconut water to be Fair for Life certified.

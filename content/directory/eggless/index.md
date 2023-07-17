@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Virgini
 <span class="locality">Santiago</span><br>
 <span class="country">Chile</span></p>]
 featured_image: "Eggless logo.PNG"
+website: http://www.eggless.cl/
+linkedin: 
+twitter: 
+instagram: https://www.instagram.com/egglessmayo/
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

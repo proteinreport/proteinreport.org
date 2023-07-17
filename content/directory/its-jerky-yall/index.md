@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Crossro
 <span class="locality">Redding</span>, <span class="postal-code">96003</span><br>
 <span class="country">United States</span></p>]
 featured_image: "all Y'alls logo.png"
+website: https://itsjerkyyall.com/
+linkedin: 
+twitter: 
+instagram: https://www.instagram.com/allyallsfoods/
+facebook: https://www.facebook.com/pg/allyallsfoods/
+youtube: https://www.youtube.com/channel/UC_aw-CgxVOqzUa9Y9ENhQaA
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

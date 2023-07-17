@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="locality">London</span
 <span class="postal-code">of Freedom#8573311~!#</span><br>
 <span class="country">United Kingdom</span></p>]
 featured_image: "JBR_Logo_Black_RGB_100mm-sml.jpg"
+website: https://www.jackandbry.com/
+linkedin: 
+twitter: https://twitter.com/jackandbry
+instagram: 
+facebook: https://www.facebook.com/jackandBry/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5758
 ---
-<p>Jack <span class="amp">&</span> Bry is creating tantalisingly tasty <span class="amp">&</span> tender plant-based meats made from Jackfruit – a nutritious wonder-fruit, that is natural, full of flavour, high in fibre and palm oil free. ​</p>
+Jack & Bry is creating tantalisingly tasty & tender plant-based meats made from Jackfruit – a nutritious wonder-fruit, that is natural, full of flavour, high in fibre and palm oil free. ​

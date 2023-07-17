@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Albert 
 <span class="locality">Ottawa</span> <span class="postal-code">K1P 1A5</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "1598575338575.jpg"
+website: https://www.whiteboardfoods.com/
+linkedin: https://www.linkedin.com/company/whiteboard-foods/
+twitter: https://twitter.com/whiteboardfoods
+instagram: https://www.instagram.com/whiteboardfoods/
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 9428
 ---
-<p>Whiteboard Foods develops scaffolding technology to bring cell-based and plant-based protein to kitchen tables and restaurant menus around the world.</p>
+Whiteboard Foods develops scaffolding technology to bring cell-based and plant-based protein to kitchen tables and restaurant menus around the world.

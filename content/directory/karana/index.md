@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Kallang
 <span class="postal-code">208718</span><br>
 <span class="country">Singapore</span></p>]
 featured_image: "karana.png"
+website: https://eatkarana.com/
+linkedin: https://www.linkedin.com/company/eatkarana
+twitter: 
+instagram: https://www.instagram.com/eatkarana/
+facebook: https://www.facebook.com/eatkarana
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7258
 ---
-<p>Karana is re-imagining Asian Food - we're on a crusade against compromise. Our range of whole -plant based Asian foods combine taste, health, and sustainability in every bite. No trade-offs. We take natural, whole-plant ingrdeients and we transforme them into irresistibly meaty dumplings and baos without any heavy processing or artificial nasties.</p>
+Karana is re-imagining Asian Food - we're on a crusade against compromise. Our range of whole -plant based Asian foods combine taste, health, and sustainability in every bite. No trade-offs. We take natural, whole-plant ingrdeients and we transforme them into irresistibly meaty dumplings and baos without any heavy processing or artificial nasties.

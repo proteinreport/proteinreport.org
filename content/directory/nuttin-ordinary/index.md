@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Vose Fa
 <span class="locality">Peterborough</span>, <span class="postal-code">03458</span><br>
 <span class="country">United States</span></p>]
 featured_image: "nuttin_ordinary_logo-tagline-1024x527.png"
+website: http://nuttinordinary.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

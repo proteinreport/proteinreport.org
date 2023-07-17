@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Old Cou
 <span class="locality">Carle Place</span>, <span class="postal-code">11514</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Vegg logo.jpg"
+website: https://thevegg.com/
+linkedin: 
+twitter: https://twitter.com/thevegg
+instagram: 
+facebook: https://www.facebook.com/TheVegg/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5696
 ---
-<p>The Vegg produces and distributes the world’s healthiest 100% plant based-egg substitutes. The Vegg's products are all 100% plant-based, cholesterol free, gluten free and Kosher.</p>
+The Vegg produces and distributes the world’s healthiest 100% plant based-egg substitutes. The Vegg's products are all 100% plant-based, cholesterol free, gluten free and Kosher.

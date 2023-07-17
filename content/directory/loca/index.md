@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">East 3r
 <span class="locality">San Mateo</span>, <span class="postal-code">94401</span><br>
 <span class="country">United States</span></p>]
 featured_image: "loca logo.png"
+website: https://www.eatlocafood.com/
+linkedin: 
+twitter: 
+instagram: https://www.instagram.com/eatlocafood/
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Dokapar
 <span class="postal-code">3304</span><br>
 <span class="country">Austria</span></p>]
 featured_image: "vegini-logo_0.png"
+website: https://www.vegini.at/en/
+linkedin: 
+twitter: 
+instagram: https://www.instagram.com/vegini.at/
+facebook: https://www.facebook.com/pg/vegini.at
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5775
 ---
-<p>We are pioneers in the production of natural, 100% plant based meat alternatives made from pea protein.</p>
+We are pioneers in the production of natural, 100% plant based meat alternatives made from pea protein.

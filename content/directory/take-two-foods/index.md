@@ -12,10 +12,17 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Portland</span>, <span class="postal-code">97201</span><br>
 <span class="country">United States</span></p>]
 featured_image: "taketwologo_0.png"
+website: https://www.taketwofoods.com/
+linkedin: https://www.linkedin.com/company/taketwofoods
+twitter: https://twitter.com/taketwofoods
+instagram: https://www.instagram.com/taketwofoods/
+facebook: https://www.facebook.com/taketwofoods
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7113
 ---
-<p>Take Two Foods is a plant-based food and beverage company committed to creating second chances for our health and the planet. Take Two makes it easier and exciting for consumers to eat a more plant-rich diet by providing the best plant-based products found anywhere.</p>
+Take Two Foods is a plant-based food and beverage company committed to creating second chances for our health and the planet. Take Two makes it easier and exciting for consumers to eat a more plant-rich diet by providing the best plant-based products found anywhere.

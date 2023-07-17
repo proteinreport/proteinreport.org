@@ -12,10 +12,17 @@ regions: [Asia]
 location: [<p class="address" translate="no"><span class="locality">Mumbai</span> <span class="postal-code">400070</span><br>
 <span class="country">India</span></p>]
 featured_image: "Proeon Logo Square.JPG"
+website: https://www.proeon.co
+linkedin: https://www.linkedin.com/company/proeonfoods
+twitter: https://twitter.com/ProeonFoods?s=08
+instagram: 
+facebook: https://m.facebook.com/proeon.foods
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 8176
 ---
-<p>We are an ingredient manufacturer and supplier based out of India. At Proeon foods, we are creating high quality plant-based protein ingredients with superior nutritional, functional and sensory profile for global customers in alternative meat, dairy and functional food industries. We collaborate with consumer-facing brands and food innovators to solve their formulation and production challenges through ingredient innovation and R&D.</p>
+We are an ingredient manufacturer and supplier based out of India. At Proeon foods, we are creating high quality plant-based protein ingredients with superior nutritional, functional and sensory profile for global customers in alternative meat, dairy and functional food industries. We collaborate with consumer-facing brands and food innovators to solve their formulation and production challenges through ingredient innovation and R&D.

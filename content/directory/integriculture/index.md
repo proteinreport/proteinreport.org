@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="locality">Shinjuku Cit
 <span class="postal-code">162-0056</span><br>
 <span class="country">Japan</span></p>]
 featured_image: "Integriculture - logo.png"
+website: http://integriculture.jp/?lang=en
+linkedin: https://www.linkedin.com/company/integriculture/
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/integriculture
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5818
 ---
-<p>IntegriCulture is a startup creating full-stack cellular agriculture and leading an open-source movement.</p>
+IntegriCulture is a startup creating full-stack cellular agriculture and leading an open-source movement.

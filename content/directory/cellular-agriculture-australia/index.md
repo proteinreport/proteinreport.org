@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Elizabe
 <span class="locality">Melbourne</span> <span class="postal-code">3000</span><br>
 <span class="country">Australia</span></p>]
 featured_image: "CellAgAustralia Logo LINKEDIN.png"
+website: https://www.cellularagricultureaustralia.org/
+linkedin: https://www.linkedin.com/company/cellular-agriculture-australia
+twitter: https://twitter.com/CellAgAustralia
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7131
 ---
-<p>We are a non-profit organisation with the mission of promoting and accelerating research, collaboration, and innovation across the cellular agriculture sector in Australia. As the chief advocacy group for cellular agriculture in Australia, our aim is to support all stakeholders: researchers, industry leaders, government, and consumers. We do so by fostering regular meetings, developing partnerships with international laboratories and companies, championing training opportunities for students, and securing funds from public and private sources.</p>
+We are a non-profit organisation with the mission of promoting and accelerating research, collaboration, and innovation across the cellular agriculture sector in Australia. As the chief advocacy group for cellular agriculture in Australia, our aim is to support all stakeholders: researchers, industry leaders, government, and consumers. We do so by fostering regular meetings, developing partnerships with international laboratories and companies, championing training opportunities for students, and securing funds from public and private sources.

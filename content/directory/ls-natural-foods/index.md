@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Eastex 
 <span class="locality">Porter</span>, <span class="postal-code">77365</span><br>
 <span class="country">United States</span></p>]
 featured_image: "ls natural foods logo.png"
+website: http://www.lsnatural.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5628
 ---
-<p>LS Natural Foods is a producer of plant-based jerky, meat and milk alternatives including the Stonewall’s Jerquee brand.</p>
+LS Natural Foods is a producer of plant-based jerky, meat and milk alternatives including the Stonewall’s Jerquee brand.

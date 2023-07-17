@@ -12,6 +12,13 @@ regions: [US & Canada]
 location: [<p class="address" translate="no"><span class="locality">Cranford</span>,<br>
 <span class="country">United States</span></p>]
 featured_image: "Tofutti logo.png"
+website: http://www.tofutti.com/
+linkedin: 
+twitter: https://twitter.com/tofuttibrand
+instagram: https://www.instagram.com/tofuttibrands/
+facebook: https://www.facebook.com/pg/Tofuttibrand
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

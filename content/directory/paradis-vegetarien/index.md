@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Rue Sai
 <span class="locality">Montréal</span> <span class="postal-code">H2J 2L1</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "Paradis Vegetarien logo.png"
+website: https://www.paradisvegetarien.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/paradisvegetarien
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5540
 ---
-<p>Paradis Vegetarien is a supplier of more than 200 varieties of vegetarian products and mock meats made from the highest quality non-GMO soybeans and shitake mushrooms.</p>
+Paradis Vegetarien is a supplier of more than 200 varieties of vegetarian products and mock meats made from the highest quality non-GMO soybeans and shitake mushrooms.

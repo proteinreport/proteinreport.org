@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Welling
 <span class="locality">London</span> <span class="postal-code">N6B 1T6</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "NUTS-FOR-CHEESE-LOGO-TM-1024x863.png"
+website: https://nutsforcheese.com/
+linkedin: 
+twitter: https://twitter.com/nutsforcheese
+instagram: https://www.instagram.com/nutsforcheese/
+facebook: https://www.facebook.com/pg/nutsforcheese/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

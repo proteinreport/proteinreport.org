@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Parque 
 <span class="postal-code">01022-050</span><br>
 <span class="country">Brazil</span></p>]
 featured_image: "Logo-1.png"
+website: https://thenewfoods.com.br/
+linkedin: https://www.linkedin.com/company/thenewfoods/
+twitter: https://twitter.com/thenew_foods
+instagram: https://www.instagram.com/thenew.foods/
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 8602
 ---
-<p>The New, one of Latin America’s fastest-growing plant-based meat brands. Launched in September 2019 by plant-based triathlete and successful entrepreneur Bruno Fonseca, The New produces plant-based salmon, cod, chicken, and beef products. All products are non-GMO and free of all common allergens including soy and gluten.</p>
+The New, one of Latin America’s fastest-growing plant-based meat brands. Launched in September 2019 by plant-based triathlete and successful entrepreneur Bruno Fonseca, The New produces plant-based salmon, cod, chicken, and beef products. All products are non-GMO and free of all common allergens including soy and gluten.

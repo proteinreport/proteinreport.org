@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Broadwa
 <span class="locality">New York</span>, <span class="postal-code">10007</span><br>
 <span class="country">United States</span></p>]
 featured_image: "daring foods logo.jpg"
+website: http://www.daringfoods.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Califor
 <span class="locality">Hayward</span>, <span class="postal-code">94541</span><br>
 <span class="country">United States</span></p>]
 featured_image: "three trees logo.png"
+website: http://threetrees.com/
+linkedin: 
+twitter: 
+instagram: https://www.instagram.com/threetreesfoods/
+facebook: https://www.facebook.com/threetreesfoods
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

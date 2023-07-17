@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Castell
 <span class="locality">Pergamino</span><br>
 <span class="country">Argentina</span></p>]
 featured_image: "tomorrow foods logo-cortado.png"
+website: https://tomorrowfoods.com.ar/home-en
+linkedin: https://www.linkedin.com/company/tomorrow-foods
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6113
 ---
-<p>Tomorrow Foods is researching, developing and producing plant based ingredients and additives for the Global Food Industry, thus enabling healthier and more sustainable diets and lifestyles.</p>
+Tomorrow Foods is researching, developing and producing plant based ingredients and additives for the Global Food Industry, thus enabling healthier and more sustainable diets and lifestyles.

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Southea
 <span class="locality">Bellevue</span>, <span class="postal-code">98008</span><br>
 <span class="country">United States</span></p>]
 featured_image: "np.png"
+website: http://www.nutpods.com/
+linkedin: 
+twitter: https://twitter.com/nutpods
+instagram: https://www.instagram.com/nutpods/
+facebook: https://www.facebook.com/nutpods
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/nutpods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5664
 ---
-<p>Nutpods is an independent, natural foods manufacturer based in Seattle, Washington, dedicated to introducing dairy-free creamers from plant-based ingredients.</p>
+Nutpods is an independent, natural foods manufacturer based in Seattle, Washington, dedicated to introducing dairy-free creamers from plant-based ingredients.

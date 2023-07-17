@@ -12,10 +12,17 @@ regions: [Europe]
 location: [<p class="address" translate="no"><span class="locality">Moskva</span><br>
 <span class="country">Russia</span></p>]
 featured_image: "logo.png"
+website: https://bioprinting.ru/en/
+linkedin: https://www.linkedin.com/company/3d-bioprinting-solutions/
+twitter: https://twitter.com/3D_Bio
+instagram: https://www.instagram.com/3dbioprintingsolutions/
+facebook: https://www.facebook.com/3DBioprintingSolutions
+youtube: https://www.youtube.com/channel/UC9Q7GVki4qz79rYJAgywQIQ
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7307
 ---
-<p>3D Bioprinting Solutions is a Laboratory for Biotechnological Research founded by INVITRO, the largest private medical company in Russia. The laboratory develops and produces bioprinters and materials for 3D bioprinting, and also develops innovative technologies in the field of biofabrication.</p>
+3D Bioprinting Solutions is a Laboratory for Biotechnological Research founded by INVITRO, the largest private medical company in Russia. The laboratory develops and produces bioprinters and materials for 3D bioprinting, and also develops innovative technologies in the field of biofabrication.

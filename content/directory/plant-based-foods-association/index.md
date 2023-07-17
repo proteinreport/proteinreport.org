@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Drumm S
 <span class="locality">San Francisco</span>, <span class="postal-code">94111</span><br>
 <span class="country">United States</span></p>]
 featured_image: "plant-based-foods-association.jpg"
+website: https://plantbasedfoods.org/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6139
 ---
-<p>PBFA is the only organization taking a public health approach to getting people to eat more plant-based foods. Public health research shows that the key to better eating is “changing the food environment”, which means not just educating people about what they should eat but also ensuring that great-tasting plant-based foods are widely available, convenient, and affordable.</p>
+PBFA is the only organization taking a public health approach to getting people to eat more plant-based foods. Public health research shows that the key to better eating is “changing the food environment”, which means not just educating people about what they should eat but also ensuring that great-tasting plant-based foods are widely available, convenient, and affordable.

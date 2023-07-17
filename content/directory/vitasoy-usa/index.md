@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">New Eng
 <span class="locality">Ayer</span>, <span class="postal-code">01432</span><br>
 <span class="country">United States</span></p>]
 featured_image: "vitasoy logo.png"
+website: http://www.vitasoy-na.com/
+linkedin: 
+twitter: https://twitter.com/myvitasoy
+instagram: https://www.instagram.com/myvitasoy/
+facebook: https://www.facebook.com/MyVitasoy/
+youtube: https://www.youtube.com/user/MyVitasoy
+crunchbase: https://www.crunchbase.com/organization/vitasoy-usa-inc#section-overview
 draft: false
 pinned: false
 homepage: false

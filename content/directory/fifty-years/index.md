@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Market 
 <span class="locality">San Francisco</span>, <span class="postal-code">94102</span><br>
 <span class="country">United States</span></p>]
 featured_image: "50Y_mark+copy.png"
+website: https://www.fifty.vc/
+linkedin: https://www.linkedin.com/company/fifty-years
+twitter: https://twitter.com/fiftyyears
+instagram: 
+facebook: https://www.facebook.com/FiftyYearsVC/
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6212
 ---
-<p>Fifty Years is an entrepreneur-run early stage venture capital firm based in San Francisco. They partner with companies that inspire. Specifically, they back companies that, if successful, will be both massively profitable and make a serious dent in achieving one of the Sustainable Development Goals.</p>
+Fifty Years is an entrepreneur-run early stage venture capital firm based in San Francisco. They partner with companies that inspire. Specifically, they back companies that, if successful, will be both massively profitable and make a serious dent in achieving one of the Sustainable Development Goals.

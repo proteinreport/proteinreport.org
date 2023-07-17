@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Kalyan 
 <span class="locality">Kongaon</span> <span class="postal-code">421302</span><br>
 <span class="country">India</span></p>]
 featured_image: "logo.jpg"
+website: https://www.myoworks.in/
+linkedin: https://www.linkedin.com/company/myoworkspvtltd/about/
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/MyoWorks-104938575204311
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 9420
 ---
-<p>MyoWorks Private Limited aims to create scaffolds and an eco-system of ancillary products that will facilitate any cultivated-meat entrepreneur’s vision of in-vitro meat production.</p>
+MyoWorks Private Limited aims to create scaffolds and an eco-system of ancillary products that will facilitate any cultivated-meat entrepreneur’s vision of in-vitro meat production.

@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Rupert 
 <span class="locality">Vancouver</span> <span class="postal-code">V5M 3T7</span><br>
 <span class="country">Canada</span></p>]
 featured_image: "nav-logo.png"
+website: https://daiyafoods.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 843
 ---
-<p>Daiya Foods was founded in 2008 out of a love for food and a commitment to healthy living. Today, as an industry leader and one of the founding members of The Plant Based Foods Association, Daiya remains passionate about celebrating delicious food that is dairy, gluten and soy free. Its line of premium plant-based foods, like Burritos, Duets, Non-Dairy Frozen Desserts, Yogurt Alternatives, Pizzas, Cheezecakes, Cream Cheeze Style Spreads, and wonderful cheese alternatives, including Blocks, Shreds, Slices, Sticks and Cheeze Sauces, are available in the dairy case and the freezer aisle.</p>
+Daiya Foods was founded in 2008 out of a love for food and a commitment to healthy living. Today, as an industry leader and one of the founding members of The Plant Based Foods Association, Daiya remains passionate about celebrating delicious food that is dairy, gluten and soy free. Its line of premium plant-based foods, like Burritos, Duets, Non-Dairy Frozen Desserts, Yogurt Alternatives, Pizzas, Cheezecakes, Cream Cheeze Style Spreads, and wonderful cheese alternatives, including Blocks, Shreds, Slices, Sticks and Cheeze Sauces, are available in the dairy case and the freezer aisle.

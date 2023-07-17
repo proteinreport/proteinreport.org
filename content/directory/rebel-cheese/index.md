@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Aldrich
 <span class="locality">Austin</span>, <span class="postal-code">78723</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Rebel+Cheese+Logo+Website.jpg"
+website: https://www.rebelcheese.com/
+linkedin: https://www.linkedin.com/company/rebel-cheese
+twitter: 
+instagram: https://www.instagram.com/rebel.cheese/
+facebook: https://www.facebook.com/pg/rebelcheese
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6005
 ---
-<p>Rebel Cheese offers the largest selection of fresh, homemade, and unique artisan plant-based cheeses that taste the same, if not better, than their dairy counterparts.</p>
+Rebel Cheese offers the largest selection of fresh, homemade, and unique artisan plant-based cheeses that taste the same, if not better, than their dairy counterparts.

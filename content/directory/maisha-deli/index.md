@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Folkets
 <span class="postal-code">760 49</span> <span class="locality">Herräng</span><br>
 <span class="country">Sweden</span></p>]
 featured_image: "Maisha logo.png"
+website: http://maishadeli.com/
+linkedin: https://www.linkedin.com/company/maishadeliswedenab/
+twitter: 
+instagram: https://www.instagram.com/maishadeli/
+facebook: https://www.facebook.com/maishadeli
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

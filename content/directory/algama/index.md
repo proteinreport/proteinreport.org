@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Rue Pie
 <span class="postal-code">91000</span> <span class="locality">Évry</span><br>
 <span class="country">France</span></p>]
 featured_image: "algama.png"
+website: https://algamafoods.com/
+linkedin: https://www.linkedin.com/company/algama
+twitter: https://twitter.com/algamafoods
+instagram: https://www.instagram.com/algamafoods/
+facebook: https://www.facebook.com/algamafoods/
+youtube: https://www.youtube.com/channel/UCchhsRckqTprIuGRWaQPHiQ
+crunchbase: https://www.crunchbase.com/organization/algama
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7072
 ---
-<p>As a food-tech company, Algama harvests the potential of algae to create food that's good for both people and the planet. Algama’s goal is to feed 10 billion people by 2050, while preserving the planet and offering consumers additional and better choices in foods.</p>
+As a food-tech company, Algama harvests the potential of algae to create food that's good for both people and the planet. Algama’s goal is to feed 10 billion people by 2050, while preserving the planet and offering consumers additional and better choices in foods.

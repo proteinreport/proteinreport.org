@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">South C
 <span class="locality">Chapel Hill</span>, <span class="postal-code">27514</span><br>
 <span class="country">United States</span></p>]
 featured_image: "chapp.png"
+website: https://www.facebook.com/pg/chapelhillaltprotein/
+linkedin: https://www.linkedin.com/company/the-chapel-hill-alt-protein-project
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/pg/chapelhillaltprotein
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7115
 ---
-<p>The UNC Chapel Hill Alt. Protein Project strives to build a healthy, sustainable, and just food system by creating a vibrant and robust community for alternative protein research and innovation at University of North Carolina at Chapel Hill.</p>
+The UNC Chapel Hill Alt. Protein Project strives to build a healthy, sustainable, and just food system by creating a vibrant and robust community for alternative protein research and innovation at University of North Carolina at Chapel Hill.

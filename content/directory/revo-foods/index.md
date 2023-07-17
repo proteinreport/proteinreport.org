@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Stephan
 <span class="postal-code">1010</span> <span class="locality">Wien</span><br>
 <span class="country">Austria</span></p>]
 featured_image: "1612354485736.jpg"
+website: https://revo-foods.com/
+linkedin: https://www.linkedin.com/company/legendary-vish/
+twitter: https://twitter.com/RevoFoods
+instagram: 
+facebook: https://www.facebook.com/RevoFoodsOfficial
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/revo-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 8816
 ---
-<p>Revo Foods used 3D printing technology to make plant-based salmon out of pea protein, algae extracts, plant oils and citrus fibre.</p>
+Revo Foods used 3D printing technology to make plant-based salmon out of pea protein, algae extracts, plant oils and citrus fibre.

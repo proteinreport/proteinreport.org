@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Highgat
 <span class="locality">Dunedin</span> <span class="postal-code">9010</span><br>
 <span class="country">New Zealand</span></p>]
 featured_image: "otis.jpg"
+website: https://otisoatmilk.co.nz/
+linkedin: https://www.linkedin.com/company/otis-oat-milk
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 6209
 ---
-<p>Otis Oat Milk is New Zealand’s first homegrown oat milk, made with nutritious southern grown oats and made right here in the South Island of New Zealand. Otis was born to disrupt a dairy-first generation of Kiwis, to see a tasty alternative in plants that is both homegrown and sustainable.</p>
+Otis Oat Milk is New Zealand’s first homegrown oat milk, made with nutritious southern grown oats and made right here in the South Island of New Zealand. Otis was born to disrupt a dairy-first generation of Kiwis, to see a tasty alternative in plants that is both homegrown and sustainable.

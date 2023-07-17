@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">East 14
 <span class="locality">San Leandro</span>, <span class="administrative-area">California</span> <span class="postal-code">94577</span><br>
 <span class="country">United States</span></p>]
 featured_image: "svgviewer-png-output.png"
+website: https://scififoods.com
+linkedin: https://www.linkedin.com/company/scififoods
+twitter: https://twitter.com/eatscifi
+instagram: 
+facebook: https://www.facebook.com/eatscifi
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/artemys-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5801
 ---
-<p>We are making meat with the same taste, texture, and nutrition as conventional meat, but without any of the cruelty or cost to the planet. Our cultivated meat is something everyone can feel good about. Real beef, re-imagined. (Previously Artemys Foods)</p>
+We are making meat with the same taste, texture, and nutrition as conventional meat, but without any of the cruelty or cost to the planet. Our cultivated meat is something everyone can feel good about. Real beef, re-imagined. (Previously Artemys Foods)

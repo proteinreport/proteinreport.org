@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Broadwa
 <span class="locality">New York</span>, <span class="postal-code">10007</span><br>
 <span class="country">United States</span></p>]
 featured_image: "OHF_Logo-01.jpg"
+website: https://oceanhuggerfoods.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1164
 ---
-<p>Ocean Hugger Foods, Inc. offers healthy, delicious and sustainable plant-based alternatives to your favorite seafood dishes. Founded by Certified Master Chef James Corwell, the company’s mission is to alleviate the pressures on our vulnerable oceans and endangered species through culinary excellence.</p>
+Ocean Hugger Foods, Inc. offers healthy, delicious and sustainable plant-based alternatives to your favorite seafood dishes. Founded by Certified Master Chef James Corwell, the company’s mission is to alleviate the pressures on our vulnerable oceans and endangered species through culinary excellence.

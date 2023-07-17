@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Rue de 
 <span class="postal-code">75004</span> <span class="locality">Paris</span><br>
 <span class="country">France</span></p>]
 featured_image: "bev.jpg"
+website: https://www.b-t.energy/
+linkedin: https://www.linkedin.com/company/breakthrough-energy-ventures
+twitter: https://twitter.com/btenergy
+instagram: 
+facebook: https://www.facebook.com/BreakthroughEnergyCoalition/
+youtube: 
+crunchbase: https://www.crunchbase.com/organization/breakthrough-energy-ventures
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7125
 ---
-<p>Breakthrough Energy Ventures (BEV) invests in companies that leverage innovative technologies to help address climate change. Backed by many of the world’s top business leaders, BEV has more than $1 billion in committed capital to support bold entrepreneurs building companies that can significantly reduce emissions from agriculture, buildings, electricity, manufacturing, and transportation. The fund was created in 2016 by the Breakthrough Energy Coalition.</p>
+Breakthrough Energy Ventures (BEV) invests in companies that leverage innovative technologies to help address climate change. Backed by many of the world’s top business leaders, BEV has more than $1 billion in committed capital to support bold entrepreneurs building companies that can significantly reduce emissions from agriculture, buildings, electricity, manufacturing, and transportation. The fund was created in 2016 by the Breakthrough Energy Coalition.

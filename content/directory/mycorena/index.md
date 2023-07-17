@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Holterm
 <span class="postal-code">411 29</span> <span class="locality">Göteborg</span><br>
 <span class="country">Sweden</span></p>]
 featured_image: "HeImZ2s6_400x400.jpg"
+website: https://mycorena.com/
+linkedin: https://www.linkedin.com/company/mycorena
+twitter: https://twitter.com/Mycorena_AB
+instagram: https://www.instagram.com/mycorena_ab/
+facebook: https://www.facebook.com/Mycorena-AB-1236361046481587
+youtube: https://www.youtube.com/channel/UC1lzwaJ3LeCkYfDzW3dGczw
+crunchbase: https://www.crunchbase.com/organization/mycorena
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5899
 ---
-<p>Mycorena is a foodtech company created in 2017 with the mission of solving sustainability issues in the food industry by introducing a highly resource-efficient, fungi-based protein source. Mycorena's product, Promyc, is a animal-free protein ingredient with a pleasant taste and a meat-like texture which has been gaining admiration among chefs and culinary experts. Promyc production is coupled to a circular economy process, significantly lowering its environmental impact compared to animal or plant-based alternatives.</p>
+Mycorena is a foodtech company created in 2017 with the mission of solving sustainability issues in the food industry by introducing a highly resource-efficient, fungi-based protein source. Mycorena's product, Promyc, is a animal-free protein ingredient with a pleasant taste and a meat-like texture which has been gaining admiration among chefs and culinary experts. Promyc production is coupled to a circular economy process, significantly lowering its environmental impact compared to animal or plant-based alternatives.

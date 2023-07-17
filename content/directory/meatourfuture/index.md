@@ -14,10 +14,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Nelson 
 <span class="postal-code">1050</span><br>
 <span class="country">South Africa</span></p>]
 featured_image: "WhatsApp-Image-2021-06-08-at-07.52.40.jpg"
+website: https://meatourfuture.org/
+linkedin: https://www.linkedin.com/company/meatourfuture/
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/meatourfuture
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 9409
 ---
-<p>MeatOurFuture's mission is to establish the framework for a regional network of public-private innovation centers advancing the inter-disciplinary field of cell cultured meat engineering and biomanufacture at scale. This network of local and international facilities is committed to feeding the next billion people with healthy and nutritious cell-culture meat products, to the benefit of animals, people, and the environment.</p>
+MeatOurFuture's mission is to establish the framework for a regional network of public-private innovation centers advancing the inter-disciplinary field of cell cultured meat engineering and biomanufacture at scale. This network of local and international facilities is committed to feeding the next billion people with healthy and nutritious cell-culture meat products, to the benefit of animals, people, and the environment.

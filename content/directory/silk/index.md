@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Airport
 <span class="locality">Broomfield</span>, <span class="postal-code">80021</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Silk.jpg"
+website: https://silk.com/
+linkedin: 
+twitter: https://twitter.com/lovemysilk
+instagram: https://www.instagram.com/silk/
+facebook: https://www.facebook.com/pg/SilkUS
+youtube: https://www.youtube.com/user/TheSilkChannel
+crunchbase: https://www.crunchbase.com/organization/whitewave-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5689
 ---
-<p>Silk was founded on a promise to make the world a healthier place. Silk believes that plant-based foods are the best way to nourish people and the planet. Today Silk offers a broad portfolio of nutritious, great-tasting plant-based options, including soymilk, almondmilk, cashewmilk, coconutmilk, oatmilk, dairy-free coffee creamers, and dairy-free yogurt alternatives. Silk’s entire plant-based portfolio is verified by the Non-GMO Project, and the company also offers Silk almondmilk and Silk soymilk in organic options.</p>
+Silk was founded on a promise to make the world a healthier place. Silk believes that plant-based foods are the best way to nourish people and the planet. Today Silk offers a broad portfolio of nutritious, great-tasting plant-based options, including soymilk, almondmilk, cashewmilk, coconutmilk, oatmilk, dairy-free coffee creamers, and dairy-free yogurt alternatives. Silk’s entire plant-based portfolio is verified by the Non-GMO Project, and the company also offers Silk almondmilk and Silk soymilk in organic options.

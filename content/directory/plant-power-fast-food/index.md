@@ -13,6 +13,13 @@ location: [<p class="address" translate="no"><span class="address-line1">Fourth 
 <span class="locality">San Diego</span>, <span class="postal-code">92101</span><br>
 <span class="country">United States</span></p>]
 featured_image: "Plant Power Fast Food logo.png"
+website: https://www.plantpowerfastfood.com/
+linkedin: 
+twitter: https://twitter.com/plantpowerff
+instagram: https://www.instagram.com/plantpowerfastfood/
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false

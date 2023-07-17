@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Market 
 <span class="locality">San Francisco</span>, <span class="postal-code">94102</span><br>
 <span class="country">United States</span></p>]
 featured_image: "file.png"
+website: https://www.perfectdayfoods.com/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 699
 ---
-<p>We love dairy for its indulgent flavors, unparalleled nutrition, and versatility, but we don’t like the harmful way it’s produced or the fact that some people can’t enjoy it. Since 2014, we’ve been on a mission to make a better kind of dairy. It’s all part of creating a more sustainable food system for the planet. We’re doing this by creating milk proteins — casein and whey — that are nutritionally identical to what comes from a cow, but without animals.</p>
+We love dairy for its indulgent flavors, unparalleled nutrition, and versatility, but we don’t like the harmful way it’s produced or the fact that some people can’t enjoy it. Since 2014, we’ve been on a mission to make a better kind of dairy. It’s all part of creating a more sustainable food system for the planet. We’re doing this by creating milk proteins — casein and whey — that are nutritionally identical to what comes from a cow, but without animals.

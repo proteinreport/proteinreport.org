@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">Soon Le
 <span class="postal-code">627605</span><br>
 <span class="country">Singapore</span></p>]
 featured_image: "GAIA-Logo.png"
+website: http://gaiafoods.xyz/
+linkedin: https://www.linkedin.com/company/gaiafoods
+twitter: https://twitter.com/gaia_foods
+instagram: 
+facebook: 
+youtube: https://www.youtube.com/channel/UCm_oazjiOc32YqSkcoKYBCg
+crunchbase: https://www.crunchbase.com/organization/gaia-foods
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 7501
 ---
-<p>Conscious consumers who are connoisseurs of Asian cuisine have limited to no options for ethically produced meat in culturally-appropriate forms. That's why Gaia Foods is developing the stem cell technology to produce real meat - without killing animals, without damaging our environment, and without producing exorbitant amounts of waste.</p>
+Conscious consumers who are connoisseurs of Asian cuisine have limited to no options for ethically produced meat in culturally-appropriate forms. That's why Gaia Foods is developing the stem cell technology to produce real meat - without killing animals, without damaging our environment, and without producing exorbitant amounts of waste.

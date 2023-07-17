@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">An der 
 <span class="postal-code">36145</span> <span class="locality">Hofbieber</span><br>
 <span class="country">Germany</span></p>]
 featured_image: "futterservice-fulda.png"
+website: https://www.futterservice-fulda.de/
+linkedin: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
+crunchbase: 
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 1233
 ---
-<p>Futterservice Fulda offers healthy, animal-friendly food for dogs and cats.</p>
+Futterservice Fulda offers healthy, animal-friendly food for dogs and cats.

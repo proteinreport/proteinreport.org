@@ -13,10 +13,17 @@ location: [<p class="address" translate="no"><span class="address-line1">East 40
 <span class="locality">Aurora</span>, <span class="postal-code">80011</span><br>
 <span class="country">United States</span></p>]
 featured_image: "MycoTechnology-Logo.png"
+website: http://mycotechcorp.com/
+linkedin: https://www.linkedin.com/company/myco-technology-inc-
+twitter: https://twitter.com/MycoTechCorp
+instagram: https://www.instagram.com/mycotechnology/
+facebook: https://www.facebook.com/MycoTechnology/
+youtube: https://www.youtube.com/channel/UCHK1xKB8GR5wbl8p6b7Ojsg
+crunchbase: https://www.crunchbase.com/organization/mycotechnology
 draft: false
 pinned: false
 homepage: false
 weight: 5000
 uuid: 5896
 ---
-<p>MycoTechnology, Inc. is a food technology company that has developed a novel food processing platform using mycelial fermentation to transform agricultural products. MycoTechnology's flagship product, ClearTaste, is a versatile and multifunctional ingredient that can improve food products by blocking bitterness and improving taste defects. Their second product, PureTaste Protein, is a high-quality, clean-tasting, complete protein that has a nutritional profile unlike any other plant-based protein on the market.</p>
+MycoTechnology, Inc. is a food technology company that has developed a novel food processing platform using mycelial fermentation to transform agricultural products. MycoTechnology's flagship product, ClearTaste, is a versatile and multifunctional ingredient that can improve food products by blocking bitterness and improving taste defects. Their second product, PureTaste Protein, is a high-quality, clean-tasting, complete protein that has a nutritional profile unlike any other plant-based protein on the market.
