@@ -28,6 +28,7 @@
     "@hyas/images": "^1.0.2",
     "@hyas/seo": "^1.0.3",
     "@hyas/tailwindcss": "^1.0.2",
+    "daisyui": "^3.2.1",
     "gethyas": "^2.1.0"
   },
   "engines": {
