@@ -58,6 +58,8 @@
       "aspect-h-4",
       "aspect-h-6",
       "aspect-h-9",
+      "aspect-square",
+      "aspect-video",
       "aspect-w-16",
       "b-lazy",
       "bg-blue-800",

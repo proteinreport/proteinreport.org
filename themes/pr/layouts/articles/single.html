@@ -11,8 +11,8 @@
   <div class="flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-x-4 border-black">
     {{ $image := .Resources.GetMatch .Params.featured_image -}}
     {{ if $image -}}
-    <div class="w-full md:max-w-[66.6%] border-black relative aspect-w-16 aspect-h-6">
-      <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid object-cover">
+    <div class="w-full md:max-w-[66.6%] border-black relative">
+      <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video object-cover w-full">
       {{ partial "article/flags.html" . }}
     </div>
     {{ end -}}
