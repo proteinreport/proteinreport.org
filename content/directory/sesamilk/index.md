@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Sukhumvit Road</span><br>
-<span class="postal-code">10260</span><br>
-<span class="country">Thailand</span></p>]
+country: "Thailand"
+country_code: TH
+city: ""
+founded: 2019
+founders: "Siripen Suntornmonkongsri, Napatrapee Luengsakul, Tongchai Puttongsiri"
 featured_image: "logo_0.png"
 website: http://www.sesamilkfoods.com
 linkedin: https://www.linkedin.com/in/sesamilk-thailand-5b72831a3/

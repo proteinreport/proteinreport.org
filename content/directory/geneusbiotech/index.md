@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Seafood, Materials]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Mr. Visserplein</span><br>
-<span class="postal-code">1011 PL</span> <span class="locality">Amsterdam</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Amsterdam"
+founded: 1997
+founders: "Henri Kunz"
 featured_image: "geneus.png"
 website: https://www.geneusbiotech.com/
 linkedin: https://www.linkedin.com/company/geneusbiotech

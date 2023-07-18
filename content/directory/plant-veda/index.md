@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Robson Street</span><br>
-<span class="locality">Vancouver</span> <span class="postal-code">V6Z 2E7</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Vancouver"
+founded: 2019
+founders: "Vanita Gurnani"
 featured_image: "Plant Veda logo.png"
 website: https://www.plantveda.com/
 linkedin: 

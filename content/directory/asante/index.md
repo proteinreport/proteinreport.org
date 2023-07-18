@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean]
-location: [<p class="address" translate="no"><span class="address-line1">Parque Centenario</span><br>
-<span class="postal-code">04000</span> <span class="locality">Ciudad de México</span>,<br>
-<span class="country">Mexico</span></p>]
+country: "Mexico"
+country_code: MX
+city: "Ciudad de México"
+founded: 2017
+founders: ""
 featured_image: "Asanté+Logo.png"
 website: https://www.asantefoods.com/
 linkedin: 

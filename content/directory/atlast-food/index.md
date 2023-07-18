@@ -8,9 +8,11 @@ proteins: [Fungi]
 products: [Meat, Ingredients, Scaffolding & Structure]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Green Island</span>,<br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Green Island"
+founded: 2019
+founders: "Eben Bayer"
 featured_image: "Atlast-logo-black.png"
 website: https://www.atlastfood.co/
 linkedin: 

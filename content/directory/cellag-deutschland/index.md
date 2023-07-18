@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">B5</span><br>
-<span class="postal-code">10178</span> <span class="locality">Berlin</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Berlin"
+founded: 2021
+founders: "Fabian Baumann, Anita Bröllochs, Lisa Franke, Clara Hagedorn, Moritz Kompenhans, Gilda Lukacs, Tobias Messmer, Jonathan Michel, Jana Moritz, Jan Lukas Rinker, Ines Schiller, Julia Schimanietz, Pia Voltz"
 featured_image: "CellAg Logo (3)_0.png"
 website: http://www.cell-ag.de/
 linkedin: https://www.linkedin.com/company/cellag-deutschland

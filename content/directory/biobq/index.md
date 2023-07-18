@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Congress Avenue</span><br>
-<span class="locality">Austin</span>, <span class="postal-code">78701</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Austin"
+founded: 2018
+founders: "Katie Kam, Janet Zoldan"
 featured_image: "Logo_BQ_out_JPG_0.jpg"
 website: https://www.biobqing.com/
 linkedin: https://www.linkedin.com/company/biobq

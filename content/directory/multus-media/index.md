@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Cell Culture Media]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">London</span><br>
-<span class="postal-code">of Freedom#8573311~!#</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 2019
+founders: "Jedidiah Cheung, Evan Whooley, Kevin Pan, Réka Trón"
 featured_image: "Logo_DL.png"
 website: https://www.multus.media/
 linkedin: https://www.linkedin.com/company/multus-media

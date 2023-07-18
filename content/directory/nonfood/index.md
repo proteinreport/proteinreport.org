@@ -8,9 +8,11 @@ proteins: [Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Commerce</span>, <span class="postal-code">90040</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Commerce"
+founded: 2016
+founders: "Sean Raspet, Dennis Oliver Schroer"
 featured_image: "nonfood.png"
 website: https://eatnonfood.com/
 linkedin: https://www.linkedin.com/company/nonfood

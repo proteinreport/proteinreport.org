@@ -8,8 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="country">China</span></p>]
+country: "China"
+country_code: CN
+city: ""
+founded: 2020
+founders: "Julian Ting, Edward Weng"
 featured_image: "HEROTEIN_Logo_Square_White-bg (1).png"
 website: https://heroprotein.cn/en/
 linkedin: https://www.linkedin.com/company/herotein

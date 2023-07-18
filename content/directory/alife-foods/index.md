@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: []
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Thomaskirchhof</span><br>
-<span class="postal-code">04109</span> <span class="locality">Leipzig</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Leipzig"
+founded: 2019
+founders: "Steffen Sonnenberg, Dat Tran, Joe Natoli, Bernd Boeck"
 featured_image: "alife2.jpg"
 website: http://alifefoods.de/en/
 linkedin: 

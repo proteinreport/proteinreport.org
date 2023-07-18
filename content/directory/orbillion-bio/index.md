@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Berkeley</span>,<br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Berkeley"
+founded: 2019
+founders: "Patricia Bubner"
 featured_image: "Orbillion+Logo+Cropped.png"
 website: https://www.orbillion.com/
 linkedin: https://www.linkedin.com/company/orbillion

@@ -8,9 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="postal-code">1204</span> <span class="locality">Genf</span><br>
-<span class="country">Switzerland</span></p>]
+country: "Switzerland"
+country_code: CH
+city: "Genf"
+founded: 2017
+founders: "Claire Smith"
 featured_image: "beyond investing.png"
 website: http://www.beyondinvesting.com/
 linkedin: https://www.linkedin.com/company/beyond-investing

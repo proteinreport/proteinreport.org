@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East Brundage Lane</span><br>
-<span class="locality">Bakersfield</span>, <span class="postal-code">93307</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Bakersfield"
+founded: 1915
+founders: ""
 featured_image: "bolthouse farms logo.jpg"
 website: https://www.bolthouse.com/
 linkedin: 

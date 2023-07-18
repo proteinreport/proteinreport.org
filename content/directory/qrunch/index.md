@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Denver</span>, <span class="postal-code">80202</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Denver"
+founded: 2010
+founders: "Jim Adams"
 featured_image: "qrunch-organics.jpg"
 website: http://qrunchfoods.com/
 linkedin: 

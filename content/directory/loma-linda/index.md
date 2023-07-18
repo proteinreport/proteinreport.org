@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Industry Court</span><br>
-<span class="locality">Nashville</span>, <span class="postal-code">27856</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Nashville"
+founded: 1905
+founders: ""
 featured_image: "LomaLinda-Blue-Box-logo_Traditions.png"
 website: https://atlanticnaturalfoods.com/loma-linda/
 linkedin: 

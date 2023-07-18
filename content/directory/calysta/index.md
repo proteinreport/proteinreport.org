@@ -8,9 +8,11 @@ proteins: [Microbial]
 products: [Pet Food, Ingredients, Feed]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Menlo Park</span>,<br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Menlo Park"
+founded: 2011
+founders: "David McElroy, Josh Silverman"
 featured_image: "calysta.jpg"
 website: http://calysta.com/
 linkedin: 

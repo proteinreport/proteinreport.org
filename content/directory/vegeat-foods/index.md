@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Côte des Saints</span><br>
-<span class="locality">Mirabel</span> <span class="postal-code">J7N 2Y1</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Mirabel"
+founded: 
+founders: ""
 featured_image: "vegeat-logo-wh.png"
 website: https://vegeatfoods.com/
 linkedin: https://www.linkedin.com/company/vegeat-foods/about/

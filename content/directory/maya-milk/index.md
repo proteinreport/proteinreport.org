@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Gülbahçe Caddesi 1/1</span><br>
-<span class="postal-code">35433</span> /<span class="administrative-area">İzmir</span><br>
-<span class="country">Turkey</span></p>]
+country: "Turkey"
+country_code: TR
+city: ""
+founded: 2021
+founders: "Murat Badur"
 featured_image: "mayamilk-logo-MOR6.png"
 website: https://www.mayamilk.com/
 linkedin: https://www.linkedin.com/company/mayamilk

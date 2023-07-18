@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy, Eggs]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East Evelyn Avenue</span><br>
-<span class="locality">Mountain View</span>, <span class="postal-code">94043</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Mountain View"
+founded: 
+founders: ""
 featured_image: "spero.jpg"
 website: https://www.sperofoods.co/
 linkedin: 

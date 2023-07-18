@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Bebelstraße</span><br>
-<span class="postal-code">79108</span> <span class="locality">Freiburg im Breisgau</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Freiburg im Breisgau"
+founded: 1987
+founders: ""
 featured_image: "Taifun tofu logo.png"
 website: https://www.taifun-tofu.de/en
 linkedin: 

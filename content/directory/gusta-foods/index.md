@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Place du Marché-du-Nord</span><br>
-<span class="locality">Montréal</span> <span class="postal-code">H2S 1A2</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Montréal"
+founded: 2014
+founders: ""
 featured_image: "Gusta Artisanal logo.png"
 website: https://gustafoods.com/en
 linkedin: 

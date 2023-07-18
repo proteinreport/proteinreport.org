@@ -8,9 +8,11 @@ proteins: [Cell-Based, Plant-Based, Algae, Fungi]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="locality">Modi'in Makabim-Re'ut</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Modi'in Makabim-Re'ut"
+founded: 2014
+founders: ""
 featured_image: "horizontal logo.PNG"
 website: https://www.modern-agriculture.org/
 linkedin: https://www.linkedin.com/company/5384958/

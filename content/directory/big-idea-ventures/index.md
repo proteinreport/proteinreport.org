@@ -8,9 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital, Accelerator]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">New York</span>, <span class="postal-code">10005</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "New York"
+founded: 2018
+founders: "Andrew Ive"
 featured_image: "biv.png"
 website: https://bigideaventures.com/
 linkedin: https://www.linkedin.com/company/bigideaventures/

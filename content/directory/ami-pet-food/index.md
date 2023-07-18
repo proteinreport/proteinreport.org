@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Pet Food]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Via Giarre</span><br>
-<span class="postal-code">35031</span> <span class="locality">Abano Terme</span><br>
-<span class="country">Italy</span></p>]
+country: "Italy"
+country_code: IT
+city: "Abano Terme"
+founded: 
+founders: ""
 featured_image: "ami-logo.png"
 website: https://www.amipetfood.com/
 linkedin: 

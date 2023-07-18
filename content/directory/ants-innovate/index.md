@@ -8,8 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="country">Singapore</span></p>]
+country: "Singapore"
+country_code: SG
+city: "Singapore"
+founded: 2020
+founders: "Hanry Yu"
 featured_image: "download_1.jpg"
 website: https://www.antsinnovate.com/
 linkedin: https://www.linkedin.com/company/ants-innovate/

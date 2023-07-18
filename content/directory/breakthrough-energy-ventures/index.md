@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Rue de Rivoli</span><br>
-<span class="postal-code">75004</span> <span class="locality">Paris</span><br>
-<span class="country">France</span></p>]
+country: "France"
+country_code: FR
+city: "Paris"
+founded: 2016
+founders: "Breakthrough Energy Coalition"
 featured_image: "bev.jpg"
 website: https://www.b-t.energy/
 linkedin: https://www.linkedin.com/company/breakthrough-energy-ventures

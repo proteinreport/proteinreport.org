@@ -8,10 +8,11 @@ proteins: [Microbial, Fungi]
 products: [Pet Food, Ingredients, Feed]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Rakentajanaukio</span><br>
-<span class="postal-code">02150</span> <span class="locality">Espoo</span><br>
-<span class="country">Finland</span></p>]
+country: "Finland"
+country_code: FI
+city: "Espoo"
+founded: 2019
+founders: "Simo Ellilä, Anssi Rantasalo"
 featured_image: "OzF4nOLS_400x400.jpg"
 website: https://www.eniferbio.fi/
 linkedin: https://www.linkedin.com/company/enifer-bio

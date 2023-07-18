@@ -8,10 +8,11 @@ proteins: [Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Reguliersbreestraat</span><br>
-<span class="postal-code">1017 CL</span> <span class="locality">Amsterdam</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Amsterdam"
+founded: 2003
+founders: ""
 featured_image: "AlgiaVia-logo-720x340.png"
 website: http://algavia.com/
 linkedin: https://www.linkedin.com/company/algavia%C2%AE-whole-algae-ingredients

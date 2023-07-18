@@ -8,10 +8,11 @@ proteins: [Microbial, Algae]
 products: [Meat, Dairy, Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Paseo del Sol 3900</span><br>
-<span class="locality">Santa Fe</span>, <span class="administrative-area">New Mexico</span> <span class="postal-code">87507</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Santa Fe"
+founded: 2021
+founders: "Zach H., Richard Sayre"
 featured_image: "newlogo-1.png"
 website: https://proselbio.com
 linkedin: https://www.linkedin.com/company/prosel-biosciences

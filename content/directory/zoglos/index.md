@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Kennedy Avenue</span><br>
-<span class="locality">Toronto</span> <span class="postal-code">M6R 2L2</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Toronto"
+founded: 2009
+founders: ""
 featured_image: "zoglo's logo.jpg"
 website: http://www.zoglos.com/
 linkedin: 

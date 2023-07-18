@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean]
-location: [<p class="address" translate="no"><span class="address-line1">Carretera a Zacatecas</span><br>
-<span class="postal-code">78115</span> <span class="locality">San Luis Potosí</span>,<br>
-<span class="country">Mexico</span></p>]
+country: "Mexico"
+country_code: MX
+city: "San Luis Potosí"
+founded: 2017
+founders: "Aldo González"
 featured_image: "Heartbest logo.png"
 website: http://heartbestfoods.com/
 linkedin: https://www.linkedin.com/company/heartbest

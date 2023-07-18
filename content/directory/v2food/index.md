@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">King Street</span><br>
-<span class="locality">Sydney</span> <span class="postal-code">2000</span><br>
-<span class="country">Australia</span></p>]
+country: "Australia"
+country_code: AU
+city: "Sydney"
+founded: 2019
+founders: "Nick Hazell"
 featured_image: "v2food logo.png"
 website: http://www.v2food.com/
 linkedin: https://www.linkedin.com/company/v2foodofficial/

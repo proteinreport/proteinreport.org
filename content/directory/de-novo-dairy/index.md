@@ -8,11 +8,11 @@ proteins: [Microbial]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Africa]
-location: [<p class="address" translate="no"><span class="address-line1">R102 66</span><br>
-<span class="locality">Cape Town</span><br>
-<span class="postal-code">7915</span><br>
-<span class="country">South Africa</span></p>]
+country: "South Africa"
+country_code: ZA
+city: "Cape Town"
+founded: 2020
+founders: "Leah Bessa, Jean Louwrens, Richard Grieves, Joni Symon"
 featured_image: "KzRWCOdz_400x400.jpg"
 website: https://www.denovodairy.com/
 linkedin: https://www.linkedin.com/company/de-novo-dairy

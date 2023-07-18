@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Ostpreußenstraße 2/2</span><br>
-<span class="postal-code">73760</span> <span class="locality">Ostfildern</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Ostfildern"
+founded: 2020
+founders: "Michael Baunach, Tomas Kurz, Marco Ries, Christoph Pitter"
 featured_image: "Protein_Distillery_Logo_CMYK.png"
 website: https://www.proteindistillery.com/
 linkedin: https://www.linkedin.com/company/proteindistillery

@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="locality">Mumbai</span> <span class="postal-code">400070</span><br>
-<span class="country">India</span></p>]
+country: "India"
+country_code: IN
+city: "Mumbai"
+founded: 2018
+founders: "Kevin Parekh, Ashish Korde"
 featured_image: "Proeon Logo Square.JPG"
 website: https://www.proeon.co
 linkedin: https://www.linkedin.com/company/proeonfoods

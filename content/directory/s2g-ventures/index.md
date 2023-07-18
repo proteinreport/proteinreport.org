@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">North Carpenter Street</span><br>
-<span class="locality">Chicago</span>, <span class="postal-code">60607</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Chicago"
+founded: 2014
+founders: ""
 featured_image: "s2gventures logo.png"
 website: https://s2gventures.com/
 linkedin: https://www.linkedin.com/company/s2g-ventures

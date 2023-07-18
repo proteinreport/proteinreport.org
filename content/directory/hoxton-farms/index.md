@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">London</span><br>
-<span class="postal-code">WC2N 5DU</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 2020
+founders: "Max Jamilly, Ed Steele"
 featured_image: "hoxton-farms-logo.png"
 website: https://hoxtonfarms.com/
 linkedin: https://www.linkedin.com/company/hoxtonfarms/

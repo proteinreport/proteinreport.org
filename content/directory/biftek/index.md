@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Bestekar Caddesi</span><br>
-<span class="postal-code">06680</span> /<br>
-<span class="country">Turkey</span></p>]
+country: "Turkey"
+country_code: TR
+city: ""
+founded: 2018
+founders: "Can Akcali"
 featured_image: "biftek logo.png"
 website: http://biftek.co/
 linkedin: 

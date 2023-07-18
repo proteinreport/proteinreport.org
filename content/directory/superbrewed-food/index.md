@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Lisa Drive</span><br>
-<span class="locality">New Castle</span>, <span class="postal-code">19720</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "New Castle"
+founded: 2012
+founders: "Bryan Tracy"
 featured_image: "Dairy-free-cheeses-featuring-novel-fermented-microbial-protein-to-launch-by-year-end-says-Superbrewed-Food_wrbm_large.jpg"
 website: https://www.superbrewedfood.com/
 linkedin: https://www.linkedin.com/company/white-dog-labs-inc./

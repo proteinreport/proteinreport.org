@@ -8,10 +8,11 @@ proteins: [Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Reguliersbreestraat</span><br>
-<span class="postal-code">1017 CL</span> <span class="locality">Amsterdam</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Amsterdam"
+founded: 2020
+founders: "Julia Streuli, Sara Guaglio, Cristina Prat"
 featured_image: "Ful foods logo.png"
 website: https://fulfoods.com/
 linkedin: https://www.linkedin.com/company/ful-foods

@@ -8,11 +8,11 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Park Street 116</span><br>
-<span class="locality">London</span><br>
-<span class="postal-code">W1K 6SS</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 2022
+founders: "Jeremy Coller"
 featured_image: "APA.jpg"
 website: https://www.alternativeproteinsassociation.com/
 linkedin: 

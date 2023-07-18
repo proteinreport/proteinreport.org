@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Nieuwe Hemweg</span><br>
-<span class="postal-code">1013 BG</span> <span class="locality">Amsterdam</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Amsterdam"
+founded: 
+founders: "Willem Sodderland"
 featured_image: "seamore-logo.png"
 website: https://seamorefood.com/
 linkedin: 

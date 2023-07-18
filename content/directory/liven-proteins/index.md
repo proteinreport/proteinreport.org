@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Bay Street 434</span><br>
-<span class="locality">Toronto</span> <span class="administrative-area">Ontario</span> <span class="postal-code">M5G 1P5</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Toronto"
+founded: 2021
+founders: "Fei Luo"
 featured_image: "liven-logo-small.png"
 website: https://livenproteins.ca/
 linkedin: https://www.linkedin.com/company/livenproteins

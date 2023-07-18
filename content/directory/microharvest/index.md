@@ -8,9 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="postal-code">20459</span> <span class="locality">Hamburg</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Hamburg"
+founded: 2021
+founders: "Katelijne Bekers, Luisa Cruz, Jonathan Roberz"
 featured_image: "H8SvOy1l_400x400.jpg"
 website: https://microharvest.com/
 linkedin: https://www.linkedin.com/company/microharvest

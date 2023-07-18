@@ -8,10 +8,11 @@ proteins: [Algae]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Viale Belfiore</span><br>
-<span class="postal-code">50144</span> <span class="locality">Firenze</span><br>
-<span class="country">Italy</span></p>]
+country: "Italy"
+country_code: IT
+city: "Firenze"
+founded: 2009
+founders: ""
 featured_image: "logo.png"
 website: https://www.eaba-association.org/
 linkedin: https://www.linkedin.com/company/european-algae-biomass-association

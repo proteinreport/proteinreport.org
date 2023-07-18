@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Kjøpmannsgata</span><br>
-<span class="postal-code">7013</span> <span class="locality">Trondheim</span><br>
-<span class="country">Norway</span></p>]
+country: "Norway"
+country_code: NO
+city: "Trondheim"
+founded: 
+founders: "Christer Heimtoft, Richard Nystad, Fia Gullikkson"
 featured_image: "flowfood logo.png"
 website: http://www.flowfood.no/
 linkedin: https://www.linkedin.com/company/flowfood

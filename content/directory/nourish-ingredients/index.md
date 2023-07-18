@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Albert Street</span><br>
-<span class="locality">Brisbane City</span> <span class="postal-code">4000</span><br>
-<span class="country">Australia</span></p>]
+country: "Australia"
+country_code: AU
+city: "Brisbane City"
+founded: 2020
+founders: "Ben Leita, James Petrie"
 featured_image: "logo.png"
 website: https://www.nourishing.io/
 linkedin: https://www.linkedin.com/company/nourish-ingredients

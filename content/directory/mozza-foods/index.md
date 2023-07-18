@@ -8,10 +8,11 @@ proteins: [Molecular Farming]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">South Pecan Street</span><br>
-<span class="locality">Los Angeles</span>, <span class="postal-code">90033</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Los Angeles"
+founded: 2018
+founders: "Adam Tarshis"
 featured_image: "Screen Shot 2021-04-08 at 9.36.03 AM.png"
 website: https://www.mozzafoods.com/
 linkedin: https://www.linkedin.com/company/mozzanova/

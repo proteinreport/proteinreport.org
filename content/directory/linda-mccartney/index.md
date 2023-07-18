@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Century Way</span><br>
-<span class="locality">Leeds</span><br>
-<span class="postal-code">LS15 8ZB</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Leeds"
+founded: 1991
+founders: "Linda McCartney"
 featured_image: "Linda McCartney's logo.jpg"
 website: https://lindamccartneyfoods.co.uk/
 linkedin: 

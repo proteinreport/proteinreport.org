@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">正义路 2</span><br>
-<span class="administrative-area">Bei Jing Shi</span>, <span class="postal-code">100051</span><br>
-<span class="country">China</span></p>]
+country: "China"
+country_code: CN
+city: ""
+founded: 2018
+founders: "Christiana Zhu, Athena Zhu"
 featured_image: "Marvelous+Foods+logo+-+Long.png"
 website: https://marvelousfoods.com/
 linkedin: https://www.linkedin.com/company/marvelous-foods

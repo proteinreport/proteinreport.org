@@ -8,8 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="country">Hong Kong SAR China</span></p>]
+country: "Hong Kong SAR China"
+country_code: HK
+city: ""
+founded: 2018
+founders: "David Yeung"
 featured_image: "omnipork_logo_black.png"
 website: https://omnipork.co/
 linkedin: https://www.linkedin.com/company/omnipork/

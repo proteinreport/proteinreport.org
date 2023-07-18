@@ -8,11 +8,11 @@ proteins: [Plant-Based, Microbial, Algae]
 products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Rivergate</span><br>
-<span class="locality">Peterborough</span><br>
-<span class="postal-code">PE1 1ED</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Peterborough"
+founded: 2020
+founders: ""
 featured_image: "livalta-blue-green-tagline.png"
 website: https://livalta.com/
 linkedin: https://www.linkedin.com/company/74406356

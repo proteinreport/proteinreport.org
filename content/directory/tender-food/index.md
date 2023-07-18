@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Scaffolding & Structure]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">City Hall Square 2</span><br>
-<span class="locality">Boston</span>, <span class="administrative-area">Massachusetts</span> <span class="postal-code">02203</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Boston"
+founded: 2020
+founders: "Christophe Chantre"
 featured_image: "31847_8939_Tender_Logo_Primary+Navy.png"
 website: https://www.tenderfood.com/
 linkedin: https://www.linkedin.com/company/tenderfood-inc

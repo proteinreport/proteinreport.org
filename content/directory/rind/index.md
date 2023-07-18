@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Broadway</span><br>
-<span class="locality">New York</span>, <span class="postal-code">10007</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "New York"
+founded: 
+founders: "Dina DiCenso, Joshua Katcher"
 featured_image: "Rind logo.jpg"
 website: https://www.rind.nyc/
 linkedin: 

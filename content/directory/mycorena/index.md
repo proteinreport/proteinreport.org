@@ -8,10 +8,11 @@ proteins: [Fungi]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Holtermansgatan</span><br>
-<span class="postal-code">411 29</span> <span class="locality">Göteborg</span><br>
-<span class="country">Sweden</span></p>]
+country: "Sweden"
+country_code: SE
+city: "Göteborg"
+founded: 2017
+founders: "Ramkumar Nair"
 featured_image: "HeImZ2s6_400x400.jpg"
 website: https://mycorena.com/
 linkedin: https://www.linkedin.com/company/mycorena

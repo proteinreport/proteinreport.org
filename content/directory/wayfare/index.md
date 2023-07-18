@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">South 22nd Avenue</span><br>
-<span class="locality">Bozeman</span>, <span class="postal-code">59718</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Bozeman"
+founded: 2009
+founders: ""
 featured_image: "WayFare logo.png"
 website: https://wayfarefoods.com/
 linkedin: 

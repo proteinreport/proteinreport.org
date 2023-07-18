@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Cell Culture Media]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Breda</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Breda"
+founded: 2019
+founders: "Robert ten Hoor"
 featured_image: "cultured blood logo.jpg"
 website: http://culturedblood.com/
 linkedin: 

@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Portland</span>, <span class="postal-code">97201</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Portland"
+founded: 2010
+founders: "Heidi Lovig, Lyssa Story"
 featured_image: "HH_Logo-TagDark-CharacterGrey_700.png"
 website: http://www.heidiho.com/
 linkedin: 

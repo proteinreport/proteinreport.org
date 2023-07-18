@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Eggs, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Tekniikantie 2</span><br>
-<span class="postal-code">02150</span> <span class="locality">Espoo</span><br>
-<span class="country">Finland</span></p>]
+country: "Finland"
+country_code: FI
+city: "Espoo"
+founded: 2022
+founders: "Maija Itkonen, Christopher Landowski, Jussi Joensuu"
 featured_image: "Logo+small.jpg"
 website: https://www.onego.bio/
 linkedin: https://www.linkedin.com/company/onego-bio

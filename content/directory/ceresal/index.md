@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: []
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Am Exerzierplatz</span><br>
-<span class="postal-code">68167</span> <span class="locality">Mannheim</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Mannheim"
+founded: 2015
+founders: ""
 featured_image: "imageedit_1_8794196508_0.png"
 website: https://ceresal.de/
 linkedin: https://www.linkedin.com/company/ceresal-gmbh

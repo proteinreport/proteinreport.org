@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Kemptpark</span><br>
-<span class="postal-code">8310</span> <span class="locality">Lindau</span><br>
-<span class="country">Switzerland</span></p>]
+country: "Switzerland"
+country_code: CH
+city: "Lindau"
+founded: 2019
+founders: "Pascal Bieri, Eric Stirnemann"
 featured_image: "planted-logo-pantone_nobar_3400x.png"
 website: https://www.planted.ch/
 linkedin: https://www.linkedin.com/company/plantedfoods

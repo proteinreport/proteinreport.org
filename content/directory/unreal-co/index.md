@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Belmont Road West</span><br>
-<span class="locality">Croydon South</span> <span class="postal-code">3136</span><br>
-<span class="country">Australia</span></p>]
+country: "Australia"
+country_code: AU
+city: "Croydon South"
+founded: 
+founders: ""
 featured_image: "Unreal co logo.png"
 website: https://unrealco.com.au/
 linkedin: 

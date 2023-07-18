@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Fair Drive</span><br>
-<span class="locality">Costa Mesa</span>, <span class="postal-code">92626</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Costa Mesa"
+founded: 2016
+founders: "Kerry Song"
 featured_image: "abbots-butcher-logo.png"
 website: https://abbotsbutcher.com/
 linkedin: https://www.linkedin.com/company/theabbotsbutcher

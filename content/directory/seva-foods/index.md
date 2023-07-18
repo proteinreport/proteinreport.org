@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">South Coast Highway 101</span><br>
-<span class="locality">Encinitas</span>, <span class="postal-code">92024</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Encinitas"
+founded: 2017
+founders: "Michelle May"
 featured_image: "seva-foods-logo-horizontal-2000_360x.png"
 website: http://sevafoods.com/
 linkedin: 

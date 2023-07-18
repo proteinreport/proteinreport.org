@@ -8,10 +8,11 @@ proteins: [Algae]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Korte Papaverweg</span><br>
-<span class="postal-code">1032 KB</span> <span class="locality">Amsterdam</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Amsterdam"
+founded: 2012
+founders: "Mark Kulsdom, Lisette Kreischer"
 featured_image: "the dutch weed burger.jpg"
 website: http://dutchweedburger.com/en/
 linkedin: 

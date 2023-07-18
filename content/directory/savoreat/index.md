@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">Kibuts Galuyot Street</span><br>
-<span class="locality">Ness Ziona</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Ness Ziona"
+founded: 2018
+founders: "Racheli Vizman, Oded Shoseyov, Ido Braslevsky"
 featured_image: "savoreat_10953b2e-5907-11e9-8c15-4b9aac9eb338.png"
 website: https://www.savor-eat.com/
 linkedin: https://www.linkedin.com/company/savoreat/

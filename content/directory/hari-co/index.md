@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Rue Pierre Semard</span><br>
-<span class="postal-code">69007</span> <span class="locality">Lyon</span><br>
-<span class="country">France</span></p>]
+country: "France"
+country_code: FR
+city: "Lyon"
+founded: 
+founders: ""
 featured_image: "Hari&co logo.jpg"
 website: https://www.hari-co.com/en/
 linkedin: https://www.linkedin.com/company/hariandco/

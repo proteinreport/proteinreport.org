@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Dairy, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Zugerstrasse 14</span><br>
-<span class="postal-code">8820</span> <span class="locality">Wädenswil</span><br>
-<span class="country">Switzerland</span></p>]
+country: "Switzerland"
+country_code: CH
+city: "Wädenswil"
+founded: 2021
+founders: "Tomas Turner, Dimitri Zogg"
 featured_image: "Cultivated.jpg"
 website: https://www.cultivated.bio/
 linkedin: https://www.linkedin.com/company/cultivatedbio

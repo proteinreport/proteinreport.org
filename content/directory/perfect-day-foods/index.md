@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Market Street</span><br>
-<span class="locality">San Francisco</span>, <span class="postal-code">94102</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Francisco"
+founded: 2014
+founders: "Perumal Gandhi, Ryan Pandya"
 featured_image: "file.png"
 website: https://www.perfectdayfoods.com/
 linkedin: 

@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Portland</span>, <span class="postal-code">97201</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Portland"
+founded: 2002
+founders: "Hudson River Foods"
 featured_image: "tempt.jpg"
 website: http://tempthemp.com/
 linkedin: https://www.linkedin.com/company/hudsonriverfoods

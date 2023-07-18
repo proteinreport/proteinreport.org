@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Britannia Boulevard</span><br>
-<span class="locality">San Diego</span>, <span class="postal-code">92154</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Diego"
+founded: 2016
+founders: "Danny O'Malley"
 featured_image: "Before the Butcher logo.png"
 website: http://btbfoods.com/
 linkedin: 

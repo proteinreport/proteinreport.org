@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Schönhauser Allee 176</span><br>
-<span class="postal-code">10119</span> <span class="locality">Berlin</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Berlin"
+founded: 2020
+founders: "Sebastian Rakers, Simon Fabich"
 featured_image: "Logo Bluu Seafood_bluu.darkblue.jpg"
 website: https://www.bluu.bio/
 linkedin: https://www.linkedin.com/company/bluu-bio

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Carrer de la Canuda</span><br>
-<span class="postal-code">08002</span> <span class="locality">Barcelona</span><br>
-<span class="country">Spain</span></p>]
+country: "Spain"
+country_code: ES
+city: "Barcelona"
+founded: 2018
+founders: "Giuseppe Scionti"
 featured_image: "novameat.jpg"
 website: https://www.novameat.com/
 linkedin: 

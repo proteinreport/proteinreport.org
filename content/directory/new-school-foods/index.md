@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Gerrard Street East 44</span><br>
-<span class="locality">Toronto</span> <span class="administrative-area">Ontario</span> <span class="postal-code">M5B 1G3</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Toronto"
+founded: 2020
+founders: "Chris Bryson"
 featured_image: "newschool.jpeg"
 website: https://www.newschoolfoods.co/
 linkedin: https://www.linkedin.com/company/newschoolfoods

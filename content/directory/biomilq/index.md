@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Durham</span>, <span class="postal-code">27701</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Durham"
+founded: 2020
+founders: "Michelle Egger, Leila Strickland"
 featured_image: "biomilq.png"
 website: https://www.biomilq.com/
 linkedin: https://www.linkedin.com/company/biomilq

@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="locality">Osaka</span>,<br>
-<span class="postal-code">530-0043</span><br>
-<span class="country">Japan</span></p>]
+country: "Japan"
+country_code: JP
+city: "Osaka"
+founded: 2020
+founders: "Jiro Ohno"
 featured_image: "dfc.jpg"
 website: https://www.diversefarm.com/
 linkedin: 

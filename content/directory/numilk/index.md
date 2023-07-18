@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy, Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">New York</span>,<br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "New York"
+founded: 2018
+founders: "Ari Tolwin, Joseph Savino"
 featured_image: "NuMilk logo2.jpg"
 website: https://www.numilkfresh.com/
 linkedin: 

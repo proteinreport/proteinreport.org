@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Broadway</span><br>
-<span class="locality">New York</span>, <span class="postal-code">10007</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "New York"
+founded: 2015
+founders: "Chris Kerr"
 featured_image: "ncc.png"
 website: https://www.unovis.vc/
 linkedin: https://www.linkedin.com/company/new-crop-capital

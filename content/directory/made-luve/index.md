@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Tribseeser Chaussee</span><br>
-<span class="postal-code">18507</span> <span class="locality">Grimmen</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Grimmen"
+founded: 2010
+founders: "Spin-off of the Fraunhofer Institute for Process Engineering and Packaging"
 featured_image: "luve.jpg"
 website: http://madewithluve.de/
 linkedin: 

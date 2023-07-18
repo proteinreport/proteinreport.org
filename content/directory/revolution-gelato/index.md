@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Boulevard Southeast</span><br>
-<span class="locality">Atlanta</span>, <span class="postal-code">30312</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Atlanta"
+founded: 2012
+founders: "Jared Olkin"
 featured_image: "Revolution gelato logo.png"
 website: https://www.revolutiongelato.com/
 linkedin: 

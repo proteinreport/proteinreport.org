@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Vose Farm Road</span><br>
-<span class="locality">Peterborough</span>, <span class="postal-code">03458</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Peterborough"
+founded: 2012
+founders: "Josh Velasquez"
 featured_image: "nuttin_ordinary_logo-tagline-1024x527.png"
 website: http://nuttinordinary.com/
 linkedin: 

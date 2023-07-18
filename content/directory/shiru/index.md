@@ -8,10 +8,11 @@ proteins: [Plant-Based, Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Bancroft Way</span><br>
-<span class="locality">Berkeley</span>, <span class="postal-code">94710</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Berkeley"
+founded: 2019
+founders: "Jasmin Hume"
 featured_image: "Shiru_0.jpg"
 website: https://www.shiru.com/
 linkedin: https://www.linkedin.com/company/shiru-inc

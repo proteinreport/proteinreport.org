@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="locality">Bengaluru</span> <span class="postal-code">560008</span><br>
-<span class="country">India</span></p>]
+country: "India"
+country_code: IN
+city: "Bengaluru"
+founded: 2020
+founders: "Ravali Amba"
 featured_image: "demolish.png"
 website: https://www.demolishfoods.com/
 linkedin: https://www.linkedin.com/company/demolishfoods

@@ -8,8 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="country">China</span></p>]
+country: "China"
+country_code: CN
+city: ""
+founded: 2020
+founders: "Chichi Hong"
 featured_image: "download.png"
 website: https://www.heymaet.com/
 linkedin: https://www.linkedin.com/company/heymaet/

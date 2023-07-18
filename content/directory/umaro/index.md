@@ -8,9 +8,11 @@ proteins: [Algae]
 products: [Meat, Seafood, Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Berkeley</span>, <span class="administrative-area">California</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Berkeley"
+founded: 2018
+founders: "Amanda Stiles, Beth Zotter"
 featured_image: "UMARO_Logo_Red.png"
 website: https://www.umarofoods.com
 linkedin: https://www.linkedin.com/company/umaro-foods/

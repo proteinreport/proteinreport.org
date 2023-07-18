@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based, Microbial]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Effingerstrasse 6A</span><br>
-<span class="postal-code">3011</span> <span class="locality">Bern</span><br>
-<span class="country">Switzerland</span></p>]
+country: "Switzerland"
+country_code: CH
+city: "Bern"
+founded: 2021
+founders: ""
 featured_image: "1639559376954.jpg"
 website: https://www.swissproteinassociation.ch
 linkedin: https://www.linkedin.com/company/swiss-protein-association/

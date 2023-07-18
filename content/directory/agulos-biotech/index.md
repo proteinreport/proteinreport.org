@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Cell Culture Media]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Lake Mills</span>,<br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Lake Mills"
+founded: 2017
+founders: "Jonathan Irwin"
 featured_image: "agulos logo.png"
 website: http://agulosbiotech.com/
 linkedin: 

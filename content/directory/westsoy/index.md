@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Kahn Road</span><br>
-<span class="locality">Franklin</span>, <span class="postal-code">06254</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Franklin"
+founded: 1970
+founders: "Bob Gerner, Kristin Brun"
 featured_image: "westsoy_logo_hr.jpg"
 website: http://www.westsoytofu.com/
 linkedin: 

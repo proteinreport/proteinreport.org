@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
-<span class="locality">Udaipur</span> <span class="postal-code">313001</span><br>
-<span class="country">India</span></p>]
+country: "India"
+country_code: IN
+city: "Udaipur"
+founded: 2016
+founders: "Stephanie Downs"
 featured_image: "Good dot logo.jpg"
 website: https://gooddot.in/
 linkedin: https://www.linkedin.com/company/good-dot

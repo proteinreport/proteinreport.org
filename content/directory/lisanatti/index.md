@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Red Soils Court</span><br>
-<span class="locality">Oregon City</span>, <span class="postal-code">97045</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Oregon City"
+founded: 1978
+founders: "Phil Lisac, Norma Lisac"
 featured_image: "Lisanatti logo.png"
 website: http://lisanattifoods.com/
 linkedin: 

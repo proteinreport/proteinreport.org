@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Solano Avenue</span><br>
-<span class="locality">Albany</span>, <span class="postal-code">94706</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Albany"
+founded: 2011
+founders: "Ari Cohen, Andrew Cohen"
 featured_image: "Mr Dewie's Cashew creamary logo.jpg"
 website: http://www.mrdewies.com/
 linkedin: https://www.linkedin.com/company/mr--dewie's

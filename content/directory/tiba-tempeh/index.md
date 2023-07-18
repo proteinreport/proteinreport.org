@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">York Road 150</span><br>
-<span class="locality">Uxbridge</span><br>
-<span class="postal-code">UB8 1QW</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Uxbridge"
+founded: 2019
+founders: "Alexandra Longton"
 featured_image: "tiba.jpg"
 website: https://www.tibatempeh.com/
 linkedin: https://www.linkedin.com/company/tiba-tempeh

@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Calle Santa Gemma</span><br>
-<span class="postal-code">46980</span><br>
-<span class="country">Spain</span></p>]
+country: "Spain"
+country_code: ES
+city: ""
+founded: 2003
+founders: ""
 featured_image: "ADM-Biopolis_news_large.png"
 website: http://biopolis.es/
 linkedin: https://www.linkedin.com/company/biopolis-s-l-/

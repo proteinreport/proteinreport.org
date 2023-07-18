@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Haarlemmerstraatweg</span><br>
-<span class="postal-code">1165 MK</span> <span class="locality">Halfweg</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Halfweg"
+founded: 2013
+founders: ""
 featured_image: "olijck-zeegroenten-retina.png"
 website: https://www.olijckseaveggies.com/
 linkedin: 

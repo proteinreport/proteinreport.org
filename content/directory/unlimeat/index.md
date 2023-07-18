@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="postal-code">100-101</span><br>
-<span class="country">South Korea</span></p>]
+country: "South Korea"
+country_code: KR
+city: ""
+founded: 
+founders: "Zikooin"
 featured_image: "unlimeat_1.png"
 website: https://www.unlimeat.com/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">McKinney Avenue</span><br>
-<span class="locality">Dallas</span>, <span class="postal-code">75204</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Dallas"
+founded: 2013
+founders: "Jeff Richards"
 featured_image: "Mooala_Logo-1.png"
 website: https://www.mooala.com/
 linkedin: 

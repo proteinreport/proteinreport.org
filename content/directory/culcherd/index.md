@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Canarctic Drive</span><br>
-<span class="locality">Toronto</span> <span class="postal-code">M3J 2P4</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Toronto"
+founded: 2015
+founders: "Tim Donnelly, Jillian Leo"
 featured_image: "Culcherd logo.png"
 website: https://culcherd.com/
 linkedin: 

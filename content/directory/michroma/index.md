@@ -8,10 +8,11 @@ proteins: [Fungi]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean, US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">U.S. 101 5911</span><br>
-<span class="locality">San Francisco</span>, <span class="administrative-area">California</span> <span class="postal-code">94103</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Francisco"
+founded: 2019
+founders: "Ricky Cassini, Mauricio Braia"
 featured_image: "CMYK_Degrade_1.png"
 website: https://www.michroma.co/
 linkedin: https://www.linkedin.com/company/michroma

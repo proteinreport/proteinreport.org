@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Portland</span>, <span class="postal-code">97201</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Portland"
+founded: 2020
+founders: "Sarah Pool, Matt Olsofsky"
 featured_image: "taketwologo_0.png"
 website: https://www.taketwofoods.com/
 linkedin: https://www.linkedin.com/company/taketwofoods

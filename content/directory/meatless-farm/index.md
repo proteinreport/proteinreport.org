@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Wharf Street</span><br>
-<span class="locality">Leeds</span><br>
-<span class="postal-code">LS2 7EQ</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Leeds"
+founded: 2016
+founders: "Morten Toft Bech"
 featured_image: "mf.png"
 website: https://www.meatlessfarm.com/
 linkedin: https://www.linkedin.com/company/meatlessfarm

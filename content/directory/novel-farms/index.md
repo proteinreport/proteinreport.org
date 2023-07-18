@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat, Scaffolding & Structure]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">San Pablo Avenue 2988</span><br>
-<span class="locality">Berkeley</span>, <span class="administrative-area">California</span> <span class="postal-code">94702</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Berkeley"
+founded: 2020
+founders: "Nieves Martínez Marshall"
 featured_image: "BLACK-WHITE.png"
 website: https://www.novelfarms.co/
 linkedin: https://www.linkedin.com/company/novelfarms

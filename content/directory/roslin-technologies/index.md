@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Roslin</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Roslin"
+founded: 2016
+founders: "Glen Illing"
 featured_image: "roslin.jpg"
 website: https://www.roslintech.com/
 linkedin: https://www.linkedin.com/company/roslin-technologies

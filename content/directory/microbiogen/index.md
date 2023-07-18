@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Feed]
 business: [Production]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Sirius Road</span><br>
-<span class="locality">Lane Cove West</span> <span class="postal-code">2066</span><br>
-<span class="country">Australia</span></p>]
+country: "Australia"
+country_code: AU
+city: "Lane Cove West"
+founded: 
+founders: ""
 featured_image: "MBG logo.jpeg"
 website: http://microbiogen.com.au/
 linkedin: 

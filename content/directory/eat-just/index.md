@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Eggs]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Folsom Street</span><br>
-<span class="locality">San Francisco</span>, <span class="postal-code">94110</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Francisco"
+founded: 2011
+founders: "Josh Tetrick, Josh Balk"
 featured_image: "368px-JUST_logo.svg_.png"
 website: https://www.ju.st/
 linkedin: https://www.linkedin.com/company/eat-just/

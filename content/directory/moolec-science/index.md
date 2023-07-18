@@ -8,10 +8,11 @@ proteins: [Molecular Farming]
 products: [Dairy, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Warwick</span><br>
-<span class="postal-code">CV34 6DY</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Warwick"
+founded: 2020
+founders: "Martín Salinas, Gastón Paladini, Henk Hoogenkamp"
 featured_image: "Moolec Science - Logo 3.png"
 website: https://moolecscience.com/
 linkedin: https://www.linkedin.com/company/moolec-science

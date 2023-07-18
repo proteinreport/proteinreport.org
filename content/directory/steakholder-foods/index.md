@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">David Fikes Street 5</span><br>
-<span class="locality">Rehovot</span> <span class="postal-code">7632805</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Rehovot"
+founded: 2019
+founders: ""
 featured_image: "sh.png"
 website: https://steakholderfoods.com/
 linkedin: https://www.linkedin.com/company/steakholderfoods

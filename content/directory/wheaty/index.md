@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Dreifürstensteinstraße</span><br>
-<span class="postal-code">72116</span> <span class="locality">Mössingen</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Mössingen"
+founded: 1993
+founders: ""
 featured_image: "Wheaty logo.jpg"
 website: https://www.wheaty.com/
 linkedin: 

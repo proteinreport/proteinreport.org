@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Wellington Street</span><br>
-<span class="locality">London</span> <span class="postal-code">N6B 1T6</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "London"
+founded: 
+founders: "Margaret Coons"
 featured_image: "NUTS-FOR-CHEESE-LOGO-TM-1024x863.png"
 website: https://nutsforcheese.com/
 linkedin: 

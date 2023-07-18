@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
-<span class="country">Singapore</span></p>]
+country: "Singapore"
+country_code: SG
+city: "Singapore"
+founded: 2020
+founders: "Karolis Rosickas, Colby J Colasanto"
 featured_image: "singcell.png"
 website: https://www.singcell.com/
 linkedin: https://www.linkedin.com/company/singcell

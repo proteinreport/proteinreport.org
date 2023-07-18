@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Sterling Street</span><br>
-<span class="locality">Kingston</span>, <span class="postal-code">12401</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Kingston"
+founded: 
+founders: ""
 featured_image: "treeline-cheese-logo-2019-582x300.png"
 website: https://www.treelinecheese.com/
 linkedin: 

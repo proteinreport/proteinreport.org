@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Thorndyke Avenue West</span><br>
-<span class="locality">Seattle</span>, <span class="postal-code">98119</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Seattle"
+founded: 2008
+founders: "Alexandre Zanghellini, Daniela Grabs, Eric Althoff"
 featured_image: "arzeda.jpg"
 website: https://www.arzeda.com/
 linkedin: https://www.linkedin.com/company/arzeda-corp/

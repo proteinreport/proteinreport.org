@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East 3rd Avenue</span><br>
-<span class="locality">San Mateo</span>, <span class="postal-code">94401</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Mateo"
+founded: 
+founders: ""
 featured_image: "5Z-N331Z.jpg"
 website: https://kbw-ventures.com/
 linkedin: https://www.linkedin.com/company/kbw-ventures

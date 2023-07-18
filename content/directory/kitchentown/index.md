@@ -8,9 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Accelerator]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">San Mateo</span>, <span class="administrative-area">California</span> <span class="postal-code">94401</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Mateo"
+founded: 2013
+founders: ""
 featured_image: "Kitchentown_Logo_Gray_0.png"
 website: https://kitchentowncentral.com/
 linkedin: https://www.linkedin.com/company/kitchentowncentral

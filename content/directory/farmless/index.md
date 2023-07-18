@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Mr. Visserplein</span><br>
-<span class="postal-code">1011 PL</span> <span class="locality">Amsterdam</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Amsterdam"
+founded: 2023
+founders: "Adnan Oner"
 featured_image: "Farmless-Logomark-Green1.png"
 website: https://farmless.com/
 linkedin: https://www.linkedin.com/company/farmless

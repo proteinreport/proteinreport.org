@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based]
 products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Albert Street</span><br>
-<span class="locality">Ottawa</span> <span class="postal-code">K1P 1A5</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Ottawa"
+founded: 2019
+founders: "Charles M. Cuerrier"
 featured_image: "1598575338575.jpg"
 website: https://www.whiteboardfoods.com/
 linkedin: https://www.linkedin.com/company/whiteboard-foods/

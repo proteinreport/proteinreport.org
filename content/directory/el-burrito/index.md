@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Don Julian Road</span><br>
-<span class="locality">City of Industry</span>, <span class="postal-code">91746</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "City of Industry"
+founded: 1980
+founders: "Mark Roth, Grace Roth"
 featured_image: "El Burito Mexican Food Products logo.png"
 website: http://elburrito.com/
 linkedin: 

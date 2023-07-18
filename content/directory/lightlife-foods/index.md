@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Lightlife Way</span><br>
-<span class="locality">Montague</span>, <span class="postal-code">01376</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Montague"
+founded: 1979
+founders: ""
 featured_image: "Lightlife Red_Logo.jpg"
 website: https://lightlife.com/
 linkedin: 

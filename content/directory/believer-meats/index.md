@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">Moti Kind Street 5</span><br>
-<span class="locality">Rehovot</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Rehovot"
+founded: 2018
+founders: "Yaakov Nahmias"
 featured_image: "Believer_Meats_Logo.jpg"
 website: https://www.believermeats.com/
 linkedin: https://www.linkedin.com/company/believermeats

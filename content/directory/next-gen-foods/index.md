@@ -8,8 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="country">Singapore</span></p>]
+country: "Singapore"
+country_code: SG
+city: "Singapore"
+founded: 2020
+founders: "Timo Recker, Andre Menezes"
 featured_image: "logo-next-gen-teaser.png"
 website: https://nextgenfoods.sg/
 linkedin: https://www.linkedin.com/company/nextgenfoods/about/

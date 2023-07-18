@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Townhead</span><br>
-<span class="locality">Isle of Bute</span><br>
-<span class="postal-code">PA20 9JH</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Isle of Bute"
+founded: 
+founders: ""
 featured_image: "bute island foods logo.png"
 website: https://www.buteisland.com/
 linkedin: 

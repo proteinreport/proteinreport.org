@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">New Pehle Avenue</span><br>
-<span class="locality">Saddle Brook</span>, <span class="postal-code">07663</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Saddle Brook"
+founded: 2014
+founders: "Avi Strauss, Marc Sirabella"
 featured_image: "sirabella's logo.png"
 website: http://www.VeganCheesecake.net
 linkedin: 

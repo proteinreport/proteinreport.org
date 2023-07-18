@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Cambridge</span>, <span class="postal-code">02138</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Cambridge"
+founded: 2020
+founders: ""
 featured_image: "cellagmit.jpg"
 website: https://www.cellag-mit.com/
 linkedin: https://www.linkedin.com/company/cell-ag-mit/

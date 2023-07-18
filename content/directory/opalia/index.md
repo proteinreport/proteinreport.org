@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Rue Dorion</span><br>
-<span class="locality">Montréal</span> <span class="postal-code">H2K 4B6</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Montréal"
+founded: 2020
+founders: "Jennifer Côté, Lucas House"
 featured_image: "S-Ri_vt7_400x400.jpg"
 website: https://www.bettermilknow.com/
 linkedin: https://www.linkedin.com/company/opaliafoods

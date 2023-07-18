@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Stora Varvsgatan</span><br>
-<span class="postal-code">211 19</span> <span class="locality">Malmö</span><br>
-<span class="country">Sweden</span></p>]
+country: "Sweden"
+country_code: SE
+city: "Malmö"
+founded: 1985
+founders: "Rickard Öste"
 featured_image: "Oatly logo.png"
 website: http://www.oatly.com/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Elizabeth Street</span><br>
-<span class="locality">Melbourne</span> <span class="postal-code">3000</span><br>
-<span class="country">Australia</span></p>]
+country: "Australia"
+country_code: AU
+city: "Melbourne"
+founded: 2020
+founders: "Bianca Le"
 featured_image: "CellAgAustralia Logo LINKEDIN.png"
 website: https://www.cellularagricultureaustralia.org/
 linkedin: https://www.linkedin.com/company/cellular-agriculture-australia

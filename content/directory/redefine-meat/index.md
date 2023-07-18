@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">Prof. Hillel ve-Khanan Oppenheimer Street</span><br>
-<span class="locality">Rehovot</span> <span class="postal-code">7670110</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Rehovot"
+founded: 2018
+founders: "Eshchar Ben Shitrit"
 featured_image: "redefinemeat.png"
 website: https://www.redefinemeat.com/
 linkedin: https://www.linkedin.com/company/redefinemeat/

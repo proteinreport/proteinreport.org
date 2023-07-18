@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Airport Way</span><br>
-<span class="locality">Broomfield</span>, <span class="postal-code">80021</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Broomfield"
+founded: 1978
+founders: "Steve Demos"
 featured_image: "Silk.jpg"
 website: https://silk.com/
 linkedin: 

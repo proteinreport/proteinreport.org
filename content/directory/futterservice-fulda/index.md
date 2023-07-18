@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Pet Food]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">An der Röthe</span><br>
-<span class="postal-code">36145</span> <span class="locality">Hofbieber</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Hofbieber"
+founded: 
+founders: ""
 featured_image: "futterservice-fulda.png"
 website: https://www.futterservice-fulda.de/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Bisschopsstraat</span><br>
-<span class="postal-code">1000</span> <span class="locality">Brussel</span><br>
-<span class="country">Belgium</span></p>]
+country: "Belgium"
+country_code: BE
+city: "Brussel"
+founded: 2003
+founders: ""
 featured_image: "logo_ensa.png"
 website: https://ensa-eu.org/
 linkedin: 

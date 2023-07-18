@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Gebroeders Spykerstraat</span><br>
-<span class="postal-code">4462 GJ</span> <span class="locality">Goes</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Goes"
+founded: 2006
+founders: ""
 featured_image: "meatless-300x120.png"
 website: http://www.meatless.nl/en/
 linkedin: https://www.linkedin.com/company/meatless-bv

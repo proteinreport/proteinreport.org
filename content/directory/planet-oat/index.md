@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Kimball Lane</span><br>
-<span class="locality">Lynnfield</span>, <span class="postal-code">01940</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Lynnfield"
+founded: 
+founders: ""
 featured_image: "planetoatmilk_640.png"
 website: https://planetoat.com/
 linkedin: 

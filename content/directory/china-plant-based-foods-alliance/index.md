@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Zhengyi Road</span><br>
-<span class="postal-code">100007</span><br>
-<span class="country">China</span></p>]
+country: "China"
+country_code: CN
+city: ""
+founded: 2019
+founders: ""
 featured_image: "cpbfa.jpg"
 website: http://www.pbfa.org.cn/pbfa
 linkedin: 

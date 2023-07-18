@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Whitehall 3</span><br>
-<span class="locality">London</span><br>
-<span class="postal-code">SW1A 2DD</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 2021
+founders: "Eva Tornberg"
 featured_image: "logo_dug_primary_364dc8cf.png"
 website: https://dugdrinks.com/
 linkedin: https://www.linkedin.com/company/veg-of-lund-u-k/

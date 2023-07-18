@@ -8,11 +8,11 @@ proteins: [Animal]
 products: []
 business: [Research, Nonprofit]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Park Street</span><br>
-<span class="locality">London</span><br>
-<span class="postal-code">W1K 6NR</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 2015
+founders: "Jeremy Coller Foundation"
 featured_image: "fairr-logo.jpg"
 website: https://www.fairr.org/
 linkedin: https://www.linkedin.com/company/farm-animal-investment-risk-&-return-fairr-

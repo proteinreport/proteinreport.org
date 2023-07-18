@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">North Vine Street</span><br>
-<span class="locality">Orrville</span>, <span class="postal-code">44667</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Orrville"
+founded: 
+founders: ""
 featured_image: "Ajoyo-Logo.png"
 website: http://www.ajoyobrand.com/
 linkedin: 

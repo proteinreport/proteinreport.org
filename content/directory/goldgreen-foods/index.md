@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Hämeentie</span><br>
-<span class="postal-code">00560</span> <span class="locality">Helsinki</span><br>
-<span class="country">Finland</span></p>]
+country: "Finland"
+country_code: FI
+city: "Helsinki"
+founded: 2015
+founders: "Maija Itkonen, Zhong-qing Jiang, Reetta Kivelä"
 featured_image: "Gold & Green of Helsinki logo.png"
 website: http://www.goldandgreenfoods.com/
 linkedin: https://www.linkedin.com/company/gold&green-foods-ltd/

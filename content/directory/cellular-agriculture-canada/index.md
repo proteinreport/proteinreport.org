@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Regina Street South</span><br>
-<span class="locality">Waterloo</span> <span class="postal-code">N2J</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Waterloo"
+founded: 2019
+founders: "Yadira Tejeda-Saldana, Ahmed Khan"
 featured_image: "cac.jpg"
 website: https://www.cellag.ca/
 linkedin: https://www.linkedin.com/company/cellular-agriculture-canada

@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Commercial Road</span><br>
-<span class="locality">Exeter</span><br>
-<span class="postal-code">EX2 4EB</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Exeter"
+founded: 2019
+founders: "Cesar Torres"
 featured_image: "New_Logo_Black_Background.png"
 website: https://www.devongarden.com/
 linkedin: https://www.linkedin.com/company/devon-garden

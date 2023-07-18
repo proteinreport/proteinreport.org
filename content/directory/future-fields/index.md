@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Cell Culture Media]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Edmonton</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Edmonton"
+founded: 2017
+founders: "Matthew Anderson-Baron, Lejjy Gafour, Jalene Anderson-Baron"
 featured_image: "Future Fields_0.png"
 website: https://www.futurefields.io/
 linkedin: 

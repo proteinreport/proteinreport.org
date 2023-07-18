@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Zhengyi Road</span><br>
-<span class="postal-code">100007</span><br>
-<span class="country">China</span></p>]
+country: "China"
+country_code: CN
+city: ""
+founded: 2019
+founders: "Zihan Xie"
 featured_image: "20201023847.png"
 website: http://www.vestafoodlab.com/
 linkedin: https://www.linkedin.com/company/vesta-food-lab/about/

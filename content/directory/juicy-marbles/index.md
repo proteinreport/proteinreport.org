@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Šutna</span><br>
-<span class="postal-code">1241</span> <span class="locality">Kamnik</span><br>
-<span class="country">Slovenia</span></p>]
+country: "Slovenia"
+country_code: SI
+city: "Kamnik"
+founded: 2019
+founders: "Luka Sinček, Maj Hrovat, Tilen Travnik"
 featured_image: "download.png"
 website: https://www.juicymarbles.com/
 linkedin: https://www.linkedin.com/company/bevo-tech

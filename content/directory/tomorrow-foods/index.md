@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean]
-location: [<p class="address" translate="no"><span class="address-line1">Castelli</span><br>
-<span class="locality">Pergamino</span><br>
-<span class="country">Argentina</span></p>]
+country: "Argentina"
+country_code: AR
+city: "Pergamino"
+founded: 2018
+founders: "Guillermo Daniel Lentini, Gonzalo M. Segovia"
 featured_image: "tomorrow foods logo-cortado.png"
 website: https://tomorrowfoods.com.ar/home-en
 linkedin: https://www.linkedin.com/company/tomorrow-foods

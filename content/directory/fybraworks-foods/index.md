@@ -8,10 +8,11 @@ proteins: [Microbial, Fungi]
 products: [Meat, Pet Food, Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Williston Road 4508</span><br>
-<span class="locality">Minnetonka</span>, <span class="administrative-area">Minnesota</span> <span class="postal-code">55345</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Minnetonka"
+founded: 2020
+founders: "Huan Xia, Chenfeng Lu"
 featured_image: "fwf.png"
 website: https://www.fybrawork.com/
 linkedin: https://www.linkedin.com/company/fybraworks-foods-inc

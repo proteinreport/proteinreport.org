@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">1st Avenue Northeast</span><br>
-<span class="locality">Minneapolis</span>, <span class="postal-code">55413</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Minneapolis"
+founded: 2014
+founders: "Aubry Walch, Kale Walch"
 featured_image: "herbivorous-butcher-logo.png"
 website: https://www.theherbivorousbutcher.com/
 linkedin: 

@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Hamlyns Way</span><br>
-<span class="locality">Buckfastleigh</span><br>
-<span class="postal-code">TQ11 0PA</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Buckfastleigh"
+founded: 1984
+founders: ""
 featured_image: "Dragonfly foods logo.png"
 website: http://dragonflyfoods.com/
 linkedin: https://www.linkedin.com/company/dragonfly-foods-limited/about/

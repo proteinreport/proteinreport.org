@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Birger Jarlsgatan</span><br>
-<span class="postal-code">113 56</span> <span class="locality">Stockholm</span><br>
-<span class="country">Sweden</span></p>]
+country: "Sweden"
+country_code: SE
+city: "Stockholm"
+founded: 2019
+founders: "Soroush Tavakoli, Anja Leissner"
 featured_image: "stockeld_logo.png"
 website: http://noquofoods.com/
 linkedin: https://www.linkedin.com/company/stockeld/

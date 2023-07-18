@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 business: [Research]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Am Mühlenberg 11</span><br>
-<span class="postal-code">14476</span> <span class="locality">Potsdam</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Potsdam"
+founded: 2016
+founders: "Arnoud Groen, Artyom Pugachev, Vadim Demichev"
 featured_image: "pq.jpg"
 website: https://www.proteiq.com/
 linkedin: https://www.linkedin.com/company/proteiq

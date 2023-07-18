@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Alexander Fleminglaan</span><br>
-<span class="postal-code">2613 AZ</span> <span class="locality">Delft</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Delft"
+founded: 2018
+founders: "Krijn de Nood, Daan Luining, Mark Kotter"
 featured_image: "Meatble-transp.temp_.png"
 website: https://www.meatable.com/
 linkedin: https://www.linkedin.com/company/itsmeatable/

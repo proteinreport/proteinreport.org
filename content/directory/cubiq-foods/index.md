@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Carrer de Barcelona</span><br>
-<span class="postal-code">08401</span> <span class="locality">Granollers</span><br>
-<span class="country">Spain</span></p>]
+country: "Spain"
+country_code: ES
+city: "Granollers"
+founded: 2018
+founders: "Andres Montefeltro"
 featured_image: "cubiq-logo.jpg"
 website: https://www.cubiqfoods.com/
 linkedin: https://www.linkedin.com/company/cubiq-foods

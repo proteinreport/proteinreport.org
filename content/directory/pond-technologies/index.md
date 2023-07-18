@@ -8,10 +8,11 @@ proteins: [Algae]
 products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Shields Court</span><br>
-<span class="locality">Markham</span> <span class="postal-code">L3R 9T5</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Markham"
+founded: 2009
+founders: "Steve Martin"
 featured_image: "Pond-Tech-Green-Logo.png"
 website: https://www.pondtech.com/
 linkedin: 

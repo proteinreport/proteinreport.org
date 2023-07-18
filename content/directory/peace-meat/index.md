@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Antwerpen</span><br>
-<span class="country">Belgium</span></p>]
+country: "Belgium"
+country_code: BE
+city: "Antwerpen"
+founded: 2019
+founders: "Dirk von Heinrichshorst, David Brandes, Eva Sommer"
 featured_image: "POM_M_RGB_Red.png"
 website: http://peace-of-meat.com/
 linkedin: https://www.linkedin.com/company/peace-of-meat

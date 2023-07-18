@@ -8,10 +8,11 @@ proteins: [Plant-Based, Fungi]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Oceanic Drive</span><br>
-<span class="locality">Warana</span> <span class="postal-code">4575</span><br>
-<span class="country">Australia</span></p>]
+country: "Australia"
+country_code: AU
+city: "Warana"
+founded: 2019
+founders: "Michael Fox, Jim Fuller, Chris McLoghlin"
 featured_image: "fable.png"
 website: https://fablefood.co/
 linkedin: https://www.linkedin.com/company/fablefoodco

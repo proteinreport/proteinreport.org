@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East Bank Drive</span><br>
-<span class="locality">Peterborough</span> <span class="postal-code">K9L 1Z8</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Peterborough"
+founded: 2013
+founders: "Adam J. Noble"
 featured_image: "Noblegen.png"
 website: https://www.noblegen.com/
 linkedin: 

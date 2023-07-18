@@ -8,10 +8,11 @@ proteins: [Plant-Based, Fungi]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Lincoln Highway</span><br>
-<span class="locality">West Sacramento</span>, <span class="postal-code">95691</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "West Sacramento"
+founded: 2018
+founders: "Paul Shapiro"
 featured_image: "The+Better+Meat+Co+-+Web+Logo.png"
 website: https://www.bettermeat.co/
 linkedin: https://www.linkedin.com/company/bettermeatco/

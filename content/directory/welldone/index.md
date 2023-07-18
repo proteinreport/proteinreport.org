@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Moskva</span><br>
-<span class="postal-code">109012</span><br>
-<span class="country">Russia</span></p>]
+country: "Russia"
+country_code: RU
+city: "Moskva"
+founded: 2020
+founders: "Alexander Kiselev"
 featured_image: "welldone.png"
 website: https://welldone.green/
 linkedin: https://www.linkedin.com/company/welldonegreen

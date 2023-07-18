@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Steward Road</span><br>
-<span class="locality">Monson</span>, <span class="postal-code">04464</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Monson"
+founded: 2016
+founders: "Wes Acker"
 featured_image: "freshies organic food logo.jpg"
 website: http://freshiez.com/
 linkedin: 

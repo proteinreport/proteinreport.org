@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Highgate</span><br>
-<span class="locality">Dunedin</span> <span class="postal-code">9010</span><br>
-<span class="country">New Zealand</span></p>]
+country: "New Zealand"
+country_code: NZ
+city: "Dunedin"
+founded: 2019
+founders: ""
 featured_image: "otis.jpg"
 website: https://otisoatmilk.co.nz/
 linkedin: https://www.linkedin.com/company/otis-oat-milk

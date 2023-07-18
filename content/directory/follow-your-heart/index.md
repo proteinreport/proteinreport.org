@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy, Eggs]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Sherman Way</span><br>
-<span class="locality">Los Angeles</span>, <span class="postal-code">91303</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Los Angeles"
+founded: 1970
+founders: "Michael Besançon, Bob Goldberg, Paul Lewin, Spencer Windbiel"
 featured_image: "follow-your-heart_logo.png"
 website: http://followyourheart.com/
 linkedin: https://www.linkedin.com/company/follow-your-heart-products

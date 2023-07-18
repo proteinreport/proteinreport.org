@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Walnut Street</span><br>
-<span class="locality">Boulder</span>, <span class="postal-code">80301</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Boulder"
+founded: 2011
+founders: "Annie Ryu"
 featured_image: "the-jackfruit-company.png"
 website: http://thejackfruitcompany.com/
 linkedin: https://www.linkedin.com/company/the-jackfruit-company

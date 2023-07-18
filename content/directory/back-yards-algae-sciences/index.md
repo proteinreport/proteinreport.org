@@ -8,10 +8,11 @@ proteins: [Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">West 48th Street</span><br>
-<span class="locality">Chicago</span>, <span class="postal-code">60609</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Chicago"
+founded: 2018
+founders: "Leonard Lerer"
 featured_image: "Back of the Yards algae sciences Logo.png"
 website: https://www.algaesciences.com/
 linkedin: 

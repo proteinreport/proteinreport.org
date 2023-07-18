@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Drydock Avenue</span><br>
-<span class="locality">Boston</span>, <span class="postal-code">02210</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Boston"
+founded: 2018
+founders: ""
 featured_image: "motif-foodworks.png"
 website: http://madewithmotif.com/
 linkedin: 

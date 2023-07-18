@@ -8,10 +8,11 @@ proteins: [Fungi]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East 40th Avenue</span><br>
-<span class="locality">Aurora</span>, <span class="postal-code">80011</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Aurora"
+founded: 2013
+founders: "Alan Hahn, Brooks J. Kelly, James P. Langan, Peter Lubar"
 featured_image: "MycoTechnology-Logo.png"
 website: http://mycotechcorp.com/
 linkedin: https://www.linkedin.com/company/myco-technology-inc-

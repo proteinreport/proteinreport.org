@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Humboldtplatz</span><br>
-<span class="postal-code">48429</span> <span class="locality">Rheine</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Rheine"
+founded: 2018
+founders: "Frank Cordesmeyer, Jan Cordesmeyer"
 featured_image: "gsvlogo.png"
 website: https://goodseedventures.com/
 linkedin: https://www.linkedin.com/company/good-seed-ventures

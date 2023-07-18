@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">West Jackson Boulevard</span><br>
-<span class="locality">Chicago</span>, <span class="postal-code">60604</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Chicago"
+founded: 
+founders: ""
 featured_image: "Boca_Logo-min.png"
 website: https://www.bocaburger.com/
 linkedin: 

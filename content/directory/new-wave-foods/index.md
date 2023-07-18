@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Atlantic Street</span><br>
-<span class="locality">Stamford</span>, <span class="postal-code">06901</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Stamford"
+founded: 
+founders: ""
 featured_image: "nwf_logo_horiz_tag_tm.png"
 website: https://www.newwavefoods.com/
 linkedin: 

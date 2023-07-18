@@ -8,10 +8,11 @@ proteins: [Cell-Based, Microbial]
 products: [Meat, Ingredients, Scaffolding & Structure, Materials]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Indiana Street</span><br>
-<span class="locality">San Francisco</span>, <span class="postal-code">94107</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Francisco"
+founded: 2020
+founders: "Michalyn Andrews, Dr. Zev Gartner PhD, Dr. John Dueber, PhD, Christian Ewton"
 featured_image: "Provenance Bio logo icon.png"
 website: http://www.provenance.bio
 linkedin: https://www.linkedin.com/company/provenancebio/

@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Dairy, Seafood]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Tunwell Lane</span><br>
-<span class="locality">Corby</span><br>
-<span class="postal-code">NN17 1AR</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Corby"
+founded: 1993
+founders: ""
 featured_image: "VBites-2018-Logo_1000px.png"
 website: https://www.vbites.com/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Boulevard Robert-Bourassa</span><br>
-<span class="locality">Montréal</span> <span class="postal-code">H3B</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Montréal"
+founded: 2021
+founders: ""
 featured_image: "Screen Shot 2021-08-02 at 4.17.49 PM.png"
 website: https://www.another.fish/
 linkedin: https://www.linkedin.com/company/anotherfishinc/about/

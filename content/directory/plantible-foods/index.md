@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Fourth Avenue</span><br>
-<span class="locality">San Diego</span>, <span class="postal-code">92101</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Diego"
+founded: 2018
+founders: "Tony Martens, Maurits van de Ven"
 featured_image: "plantible-foods-inc-logo-vector.jpg"
 website: https://www.plantiblefoods.com/
 linkedin: https://www.linkedin.com/company/plantible

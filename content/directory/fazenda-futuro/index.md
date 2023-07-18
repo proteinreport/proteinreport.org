@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean]
-location: [<p class="address" translate="no"><span class="address-line1">Avenida Almirante Barroso</span><br>
-<span class="postal-code">20221-260</span><br>
-<span class="country">Brazil</span></p>]
+country: "Brazil"
+country_code: BR
+city: ""
+founded: 2019
+founders: "Marcos Leta"
 featured_image: "fazenda-futuro_logo.png"
 website: https://fazendafuturo.io/
 linkedin: 

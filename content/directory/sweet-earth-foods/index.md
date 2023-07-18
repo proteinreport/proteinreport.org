@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Hilltop Road</span><br>
-<span class="locality">Moss Landing</span>, <span class="postal-code">95039</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Moss Landing"
+founded: 1978
+founders: "Caren Hicks, Brian Swette, Kelly Swette"
 featured_image: "Sweet_Earth_Foods_Logo.png"
 website: https://www.sweetearthfoods.com/
 linkedin: 

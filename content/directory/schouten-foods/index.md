@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Burgstraat</span><br>
-<span class="postal-code">4283 GG</span> <span class="locality">Giessen</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Giessen"
+founded: 
+founders: ""
 featured_image: "Schouten logo.png"
 website: https://www.schoutenfood.com/
 linkedin: 

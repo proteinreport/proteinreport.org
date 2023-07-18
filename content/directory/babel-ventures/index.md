@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Geary Boulevard</span><br>
-<span class="locality">San Francisco</span>, <span class="postal-code">94118</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Francisco"
+founded: 2017
+founders: "Ba Minuzzi, Daniela Arruda"
 featured_image: "babelventures.jpg"
 website: https://www.babel.ventures/
 linkedin: https://www.linkedin.com/company/babel.ventures

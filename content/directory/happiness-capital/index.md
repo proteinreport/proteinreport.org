@@ -8,8 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="country">Hong Kong SAR China</span></p>]
+country: "Hong Kong SAR China"
+country_code: HK
+city: ""
+founded: 2017
+founders: ""
 featured_image: "logo.dcdb01bd.png"
 website: https://www.happinesscapital.com/
 linkedin: https://www.linkedin.com/company/happiness-capital-limited

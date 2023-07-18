@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">California 185</span><br>
-<span class="locality">Hayward</span>, <span class="postal-code">94541</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Hayward"
+founded: 
+founders: ""
 featured_image: "three trees logo.png"
 website: http://threetrees.com/
 linkedin: 

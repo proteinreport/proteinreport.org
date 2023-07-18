@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Anvilwood Court</span><br>
-<span class="locality">Sunnyvale</span>, <span class="postal-code">94089</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Sunnyvale"
+founded: 2009
+founders: "Brian Sefton"
 featured_image: "nn.png"
 website: https://www.novonutrients.com/
 linkedin: https://www.linkedin.com/company/novonutrients

@@ -8,11 +8,11 @@ proteins: [Cell-Based]
 products: [Meat, Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Saint Andrew's Street</span><br>
-<span class="locality">Cambridge</span><br>
-<span class="postal-code">CB2 3BU</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Cambridge"
+founded: 2020
+founders: "Clarisse Beurrier, Yash Mishra"
 featured_image: "1612454136801.jpg"
 website: https://www.animalalternativetechnologies.com/
 linkedin: https://www.linkedin.com/company/animal-alternative-technologies/

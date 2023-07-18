@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Charlottesville</span>,<br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Charlottesville"
+founded: 
+founders: "Crissanne Raymond, Heather Raymond, Elizabeth Raymond"
 featured_image: "No Bull burger logo.png"
 website: https://nobullburger.com/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Algae]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Hi-Park</span><br>
-<span class="postal-code">7400</span> <span class="locality">Herning</span><br>
-<span class="country">Denmark</span></p>]
+country: "Denmark"
+country_code: DK
+city: "Herning"
+founded: 1988
+founders: "Jens Møller"
 featured_image: "caviart-logo-retina.png"
 website: https://caviart.com/
 linkedin: 

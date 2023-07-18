@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Cochran Road</span><br>
-<span class="locality">Richmond</span>, <span class="postal-code">05477</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Richmond"
+founded: 2017
+founders: "Veronique Beittel"
 featured_image: "Green Slice food logo.jpg"
 website: http://www.greenslicefoods.com/
 linkedin: 

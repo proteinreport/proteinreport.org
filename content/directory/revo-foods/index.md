@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Stephansplatz</span><br>
-<span class="postal-code">1010</span> <span class="locality">Wien</span><br>
-<span class="country">Austria</span></p>]
+country: "Austria"
+country_code: AT
+city: "Wien"
+founded: 2020
+founders: "Robin Simsa, Theresa Rothenbücher, Manuel Lachmayr"
 featured_image: "1612354485736.jpg"
 website: https://revo-foods.com/
 linkedin: https://www.linkedin.com/company/legendary-vish/

@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Market Street</span><br>
-<span class="locality">San Francisco</span>, <span class="postal-code">94102</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Francisco"
+founded: 2016
+founders: "Aryé Elfenbein, Justin Kolbeck"
 featured_image: "logo.jpg"
 website: https://www.thewildtype.com/
 linkedin: https://www.linkedin.com/company/wildtype-foods/

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Clayton Road</span><br>
-<span class="locality">St. Louis</span>, <span class="postal-code">63131</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "St. Louis"
+founded: 2016
+founders: "Todd Boyman, Jody Boyman"
 featured_image: "hp-logo.png"
 website: https://hungryplanet.us/
 linkedin: https://www.linkedin.com/company/hungry-planet/

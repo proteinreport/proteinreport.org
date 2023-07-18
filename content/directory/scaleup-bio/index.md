@@ -8,9 +8,11 @@ proteins: [Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="postal-code">858877</span><br>
-<span class="country">Singapore</span></p>]
+country: "Singapore"
+country_code: SG
+city: "Singapore"
+founded: 2022
+founders: "ADM, Nurasa"
 featured_image: "scaleup.png"
 website: https://www.scaleupbio.com/
 linkedin: https://www.linkedin.com/company/scaleupbio

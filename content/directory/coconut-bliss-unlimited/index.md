@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">West 1st Avenue</span><br>
-<span class="locality">Eugene</span>, <span class="postal-code">97402</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Eugene"
+founded: 2004
+founders: "Luna Marcus, Larry Kaplowitz"
 featured_image: "coconut bliss logo-gold-400h.png"
 website: http://coconutbliss.com/
 linkedin: 

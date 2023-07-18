@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Elizabeth Street</span><br>
-<span class="locality">Melbourne</span> <span class="postal-code">3000</span><br>
-<span class="country">Australia</span></p>]
+country: "Australia"
+country_code: AU
+city: "Melbourne"
+founded: 2020
+founders: "Paul Bevan"
 featured_image: "download_1.jpg"
 website: https://magicvalley.com.au/
 linkedin: https://www.linkedin.com/company/magic-valley/

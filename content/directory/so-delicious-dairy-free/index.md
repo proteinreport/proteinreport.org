@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Denver</span>,<br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Denver"
+founded: 
+founders: ""
 featured_image: "SoDelicious_Logo.png"
 website: http://sodeliciousdairyfree.com/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Seafood]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Tai Seng Avenue</span><br>
-<span class="postal-code">534409</span><br>
-<span class="country">Singapore</span></p>]
+country: "Singapore"
+country_code: SG
+city: "Singapore"
+founded: 1989
+founders: ""
 featured_image: "growthwell_0.png"
 website: https://growthwellfoods.com/
 linkedin: https://www.linkedin.com/company/growthwell-group

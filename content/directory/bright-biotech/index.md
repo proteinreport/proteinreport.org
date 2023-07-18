@@ -8,11 +8,11 @@ proteins: [Cell-Based, Molecular Farming]
 products: [Ingredients, Cell Culture Media]
 business: [Production]
 finance_type: []
-regions: []
-location: [<p class="address" translate="no"><span class="address-line1">Pencroft Way 5</span><br>
-<span class="locality">Manchester</span><br>
-<span class="postal-code">M15 6GZ</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Manchester"
+founded: 2019
+founders: "Mohammad Khalil El Hajj"
 featured_image: "bright-biotech_logo-02@4x.png"
 website: https://www.brightbiotech.co.uk/
 linkedin: https://www.linkedin.com/company/brightbiotech

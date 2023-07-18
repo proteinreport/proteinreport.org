@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Graaf Engelbertlaan</span><br>
-<span class="postal-code">4819 BP</span> <span class="locality">Breda</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Breda"
+founded: 2019
+founders: "Katja Busser, Maiko van der Meer, Paul den Dulk"
 featured_image: "Novish-logo.png"
 website: https://www.novish.eu/
 linkedin: https://www.linkedin.com/company/nofish-b-v

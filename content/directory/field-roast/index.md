@@ -8,10 +8,11 @@ proteins: [Plant-Based, Fungi]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">7th Avenue South</span><br>
-<span class="locality">Seattle</span>, <span class="postal-code">98108</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Seattle"
+founded: 1997
+founders: ""
 featured_image: "Field Roast.png"
 website: https://fieldroast.com/
 linkedin: https://www.linkedin.com/company/fieldroast

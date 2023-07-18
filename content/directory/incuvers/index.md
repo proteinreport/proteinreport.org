@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Ottawa</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Ottawa"
+founded: 2018
+founders: "Sebastian Hadjiantoniou. Andrew Pelling"
 featured_image: "Incuvers logo.png"
 website: https://incuvers.com/
 linkedin: https://www.linkedin.com/company/incuvers/

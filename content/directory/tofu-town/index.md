@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Tofustraße</span><br>
-<span class="postal-code">54578</span> <span class="locality">Wiesbaum</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Wiesbaum"
+founded: 
+founders: ""
 featured_image: "Tofutown logo.png"
 website: https://www.tofutown.com/
 linkedin: 

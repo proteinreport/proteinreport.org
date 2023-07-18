@@ -8,11 +8,11 @@ proteins: [Cell-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [Africa]
-location: [<p class="address" translate="no"><span class="address-line1">Nelson Mandela Drive</span><br>
-<span class="locality">Pretoria</span><br>
-<span class="postal-code">1050</span><br>
-<span class="country">South Africa</span></p>]
+country: "South Africa"
+country_code: ZA
+city: "Pretoria"
+founded: 2021
+founders: ""
 featured_image: "WhatsApp-Image-2021-06-08-at-07.52.40.jpg"
 website: https://meatourfuture.org/
 linkedin: https://www.linkedin.com/company/meatourfuture/

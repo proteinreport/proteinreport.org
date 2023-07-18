@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Marina Avenue</span><br>
-<span class="locality">Petaluma</span>, <span class="postal-code">94954</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Petaluma"
+founded: 2014
+founders: "Miyoko Schinner"
 featured_image: "miyokos_creamery_360x_logo.png"
 website: https://miyokos.com/
 linkedin: 

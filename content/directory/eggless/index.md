@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Eggs]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean]
-location: [<p class="address" translate="no"><span class="address-line1">Virginia Opazo</span><br>
-<span class="locality">Santiago</span><br>
-<span class="country">Chile</span></p>]
+country: "Chile"
+country_code: CL
+city: "Santiago"
+founded: 2011
+founders: ""
 featured_image: "Eggless logo.PNG"
 website: http://www.eggless.cl/
 linkedin: 

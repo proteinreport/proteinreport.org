@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Sint-Michielsstraat</span><br>
-<span class="postal-code">9000</span> <span class="locality">Gent</span><br>
-<span class="country">Belgium</span></p>]
+country: "Belgium"
+country_code: BE
+city: "Gent"
+founded: 1980
+founders: ""
 featured_image: "alpro.png"
 website: https://www.alpro.com/
 linkedin: 

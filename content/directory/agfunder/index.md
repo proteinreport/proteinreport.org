@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Market Street 845</span><br>
-<span class="locality">San Francisco</span>, <span class="administrative-area">California</span> <span class="postal-code">94103</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Francisco"
+founded: 2013
+founders: "Michael Dean, Rob Leclerc"
 featured_image: "AgFunder-Resized.jpg"
 website: https://agfunder.com/
 linkedin: https://www.linkedin.com/company/agfunder

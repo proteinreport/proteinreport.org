@@ -8,8 +8,11 @@ proteins: [Plant-Based]
 products: [Eggs, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="country">Singapore</span></p>]
+country: "Singapore"
+country_code: SG
+city: "Singapore"
+founded: 2020
+founders: "Vinita Choolani"
 featured_image: "1592203205718.jpg"
 website: https://www.floatfoods.com/
 linkedin: https://www.linkedin.com/company/floatfoods/

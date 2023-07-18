@@ -8,11 +8,11 @@ proteins: [Algae]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Taylor's Lane</span><br>
-<span class="locality">Dublin 8</span><br>
-<span class="administrative-area">County Dublin</span><br>
-<span class="country">Ireland</span></p>]
+country: "Ireland"
+country_code: IE
+city: "Dublin 8"
+founded: 2019
+founders: "Jennifer O Brien"
 featured_image: "plantruption-logo.png"
 website: https://www.plantruption.com/
 linkedin: https://www.linkedin.com/company/seaandbelieve

@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Factory Lane</span><br>
-<span class="locality">Highbridge</span><br>
-<span class="postal-code">TA9 4RN</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Highbridge"
+founded: 2019
+founders: ""
 featured_image: "RGB Atura Logo INDIGO.jpg"
 website: https://aturaproteins.com/
 linkedin: https://www.linkedin.com/company/atura-proteins/

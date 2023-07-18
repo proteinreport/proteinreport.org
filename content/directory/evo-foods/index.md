@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="locality">Mumbai</span> <span class="postal-code">400070</span><br>
-<span class="country">India</span></p>]
+country: "India"
+country_code: IN
+city: "Mumbai"
+founded: 2019
+founders: "Kartik Dixit, Shraddha Bhansali"
 featured_image: "evo.png"
 website: http://www.evoworld.in
 linkedin: https://www.linkedin.com/company/evo-foods

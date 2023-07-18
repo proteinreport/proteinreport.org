@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Hollis Street</span><br>
-<span class="locality">Emeryville</span>, <span class="postal-code">94608</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Emeryville"
+founded: 
+founders: ""
 featured_image: "Finless_Foods.png"
 website: https://finlessfoods.com/
 linkedin: 

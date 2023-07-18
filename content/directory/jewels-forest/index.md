@@ -8,10 +8,11 @@ proteins: [Fungi]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Pleasant Hill Avenue North</span><br>
-<span class="locality">Sebastopol</span>, <span class="postal-code">95472</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Sebastopol"
+founded: 2016
+founders: "Darren Racusen"
 featured_image: "JewelsOfTheForestLogo.jpg"
 website: http://www.shroomjerky.com/
 linkedin: 

@@ -8,9 +8,11 @@ proteins: [Fungi]
 products: [Meat, Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Berkeley</span>,<br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Berkeley"
+founded: 2017
+founders: "Joshua Nixon, Kimberlie Le"
 featured_image: "Prime Roots logo.png"
 website: https://primeroots.com/
 linkedin: https://www.linkedin.com/company/primeroots

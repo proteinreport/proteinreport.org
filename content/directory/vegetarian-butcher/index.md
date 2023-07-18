@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Graaf Engelbertlaan</span><br>
-<span class="postal-code">4819 BP</span> <span class="locality">Breda</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Breda"
+founded: 2010
+founders: "Jaap Korteweg, Niko Koffeman"
 featured_image: "the vegetarian butcher.jpg"
 website: https://www.thevegetarianbutcher.com/
 linkedin: 

@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Eggs]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Durham Street</span><br>
-<span class="locality">London</span><br>
-<span class="postal-code">SE11 5JH</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 2018
+founders: "Hannah Carter"
 featured_image: "Oggs logo.png"
 website: https://www.loveoggs.com/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Rue de Rivoli</span><br>
-<span class="postal-code">75004</span> <span class="locality">Paris</span><br>
-<span class="country">France</span></p>]
+country: "France"
+country_code: FR
+city: "Paris"
+founded: 2019
+founders: "Nicolas Morin-Forest, Antoine Davydoff, Victor Sayous"
 featured_image: "Gourmey_logo.png"
 website: https://gourmey.com/en/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Rosenthaler Straße</span><br>
-<span class="postal-code">10119</span> <span class="locality">Berlin</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Berlin"
+founded: 2019
+founders: "Raffael Wohlgensinger"
 featured_image: "FORMO-LOGO-SPARK-MILK-1.png"
 website: https://formo.bio/
 linkedin: https://www.linkedin.com/company/eat-formo/

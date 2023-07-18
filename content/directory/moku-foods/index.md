@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Palisades Drive</span><br>
-<span class="locality">Los Angeles</span>, <span class="postal-code">90272</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Los Angeles"
+founded: 2018
+founders: "Matt Feldman"
 featured_image: "Moku foods logo.jpg"
 website: https://mokufoods.com/
 linkedin: https://www.linkedin.com/company/moku-foods

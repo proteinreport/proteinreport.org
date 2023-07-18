@@ -8,10 +8,11 @@ proteins: [Fungi]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Humboldtstraße 59</span><br>
-<span class="postal-code">22083</span> <span class="locality">Hamburg</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Hamburg"
+founded: 2018
+founders: "Mazen Rizk"
 featured_image: "Mushlabs Logo_Stacked.png"
 website: https://www.mushlabs.com/
 linkedin: https://www.linkedin.com/company/mushlabs

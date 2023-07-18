@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Eggs]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Stephansplatz</span><br>
-<span class="postal-code">1010</span> <span class="locality">Wien</span><br>
-<span class="country">Austria</span></p>]
+country: "Austria"
+country_code: AT
+city: "Wien"
+founded: 
+founders: ""
 featured_image: "My ey logo.jpg"
 website: https://myey.info
 linkedin: 

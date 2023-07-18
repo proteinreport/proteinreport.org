@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
-<span class="postal-code">75004</span> <span class="locality">Paris</span><br>
-<span class="country">France</span></p>]
+country: "France"
+country_code: FR
+city: "Paris"
+founded: 2019
+founders: "Tristan Maurel"
 featured_image: "1598452154913.jpg"
 website: https://www.umiami.com
 linkedin: https://www.linkedin.com/company/umiami/

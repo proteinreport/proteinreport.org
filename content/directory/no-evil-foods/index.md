@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="postal-code">28787</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: ""
+founded: 2014
+founders: "Sadrah Schadel, Mike Woliansky"
 featured_image: "NEF_Logo.jpg"
 website: https://www.noevilfoods.com/
 linkedin: 

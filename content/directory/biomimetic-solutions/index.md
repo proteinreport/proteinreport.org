@@ -8,8 +8,11 @@ proteins: [Cell-Based]
 products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean]
-location: [<p class="address" translate="no"><span class="country">Brazil</span></p>]
+country: "Brazil"
+country_code: BR
+city: ""
+founded: 2017
+founders: "Alana Santos Benz, Lorena Viana Souza, Aline Bruna da Silva, Roberta Ferreira Viana"
 featured_image: "Biomimetic Solutions logo.png"
 website: http://www.biomimeticsolutions.com.br/
 linkedin: https://www.linkedin.com/company/biomimetic-solutions/

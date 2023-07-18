@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Quietstream Lane</span><br>
-<span class="locality">Fontana</span>, <span class="postal-code">92336</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Fontana"
+founded: 2012
+founders: "Ryan Salomone, Laurice Do"
 featured_image: "Parmela Creamery logo.png"
 website: http://www.parmelacreamery.com/
 linkedin: 

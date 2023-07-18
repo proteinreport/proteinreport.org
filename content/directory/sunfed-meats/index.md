@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Leonard Isitt Drive</span><br>
-<span class="locality">Auckland</span> <span class="postal-code">2022</span><br>
-<span class="country">New Zealand</span></p>]
+country: "New Zealand"
+country_code: NZ
+city: "Auckland"
+founded: 2015
+founders: "Shama Sukul Lee"
 featured_image: "sunfed-logo-e1510805056521.jpg"
 website: https://sunfedfoods.com/
 linkedin: 

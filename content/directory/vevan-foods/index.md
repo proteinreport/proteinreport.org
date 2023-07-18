@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East Park Street</span><br>
-<span class="locality">Montfort</span>, <span class="postal-code">53569</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Montfort"
+founded: 2020
+founders: "Schuman Cheese"
 featured_image: "vevan-logo.png"
 website: https://vevanfoods.com/
 linkedin: https://www.linkedin.com/company/vevan-foods

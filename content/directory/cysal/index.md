@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients, Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Mendelstraße</span><br>
-<span class="postal-code">48149</span> <span class="locality">Münster</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Münster"
+founded: 2012
+founders: "Ahmed Sallam, Martin Krehenbrink"
 featured_image: "cysal logo.png"
 website: http://www.cysal.de/
 linkedin: 

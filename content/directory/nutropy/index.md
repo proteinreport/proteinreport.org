@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Autoroute du Soleil</span><br>
-<span class="postal-code">91080</span> <span class="locality">Évry-Courcouronnes</span><br>
-<span class="country">France</span></p>]
+country: "France"
+country_code: FR
+city: "Évry-Courcouronnes"
+founded: 2022
+founders: "Nathalie Rolland, Maya Bendifallah"
 featured_image: "Nutropy_logo-BLUE-1536x247.png"
 website: https://nutropy.com/
 linkedin: https://www.linkedin.com/company/nutropy

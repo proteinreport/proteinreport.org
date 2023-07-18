@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Rostock</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Rostock"
+founded: 2018
+founders: "Patrick Nonnenmacher, Laura Gertenbach, Philipp Wolters"
 featured_image: "innocent meat Logo_head.png"
 website: http://www.innocent-meat.com/
 linkedin: 

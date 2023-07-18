@@ -8,8 +8,11 @@ proteins: [Microbial]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: []
+country: ""
+country_code: 
+city: ""
+founded: 2021
+founders: "Lizanne Falsetto"
 featured_image: "betterland_logo_black-1920w.png"
 website: https://www.betterlandfoods.com/
 linkedin: https://www.linkedin.com/company/betterland-foods

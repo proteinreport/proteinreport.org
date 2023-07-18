@@ -8,10 +8,11 @@ proteins: [Fungi]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="locality">Jainapur</span> <span class="postal-code">416101</span><br>
-<span class="administrative-area">Maharashtra</span><br>
-<span class="country">India</span></p>]
+country: "India"
+country_code: IN
+city: "Jainapur"
+founded: 2018
+founders: "Parimal Ramesh Udgave"
 featured_image: "biobritte logo.png"
 website: https://www.biobritte.co.in
 linkedin: https://www.linkedin.com/company/biobritte-agro-solutions-private-limited

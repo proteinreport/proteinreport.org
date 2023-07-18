@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Marcus Avenue</span><br>
-<span class="locality">New Hyde Park</span>, <span class="postal-code">11042</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "New Hyde Park"
+founded: 
+founders: ""
 featured_image: "Dream logo-retina.png"
 website: http://www.dreamplantbased.com/
 linkedin: 

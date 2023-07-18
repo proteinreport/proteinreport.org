@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Research]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">5th Street</span><br>
-<span class="locality">San Francisco</span>, <span class="postal-code">94107</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Francisco"
+founded: 2017
+founders: "Jim Flatt, Sofia Elizondo, Lee Chae"
 featured_image: "brightseed_logo-1.png"
 website: https://brightseedbio.com/
 linkedin: https://www.linkedin.com/company/brightseedinc

@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Seafood, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">New Industrial Road 27</span><br>
-<span class="postal-code">536212</span><br>
-<span class="country">Singapore</span></p>]
+country: "Singapore"
+country_code: SG
+city: "Singapore"
+founded: 2021
+founders: "A*STAR Singapore"
 featured_image: "audra.png"
 website: https://www.audra-labs.com/
 linkedin: https://www.linkedin.com/company/audra-labs-pte-ltd

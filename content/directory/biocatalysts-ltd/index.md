@@ -8,11 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Cefn Coed</span><br>
-<span class="locality">Cardiff</span><br>
-<span class="postal-code">CF15 7QQ</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Cardiff"
+founded: 1983
+founders: "Anthony Godfrey, Tony Good, Stuart West"
 featured_image: "Biocatalysts-Ltd_500x400_proteinreport-1.jpg"
 website: https://www.biocatalysts.com
 linkedin: https://www.linkedin.com/company/biocatalysts-ltd

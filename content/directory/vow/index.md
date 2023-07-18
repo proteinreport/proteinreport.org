@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia, Oceania]
-location: [<p class="address" translate="no"><span class="locality">North Parramatta</span><br>
-<span class="country">Australia</span></p>]
+country: "Australia"
+country_code: AU
+city: "North Parramatta"
+founded: 2019
+founders: "George Peppou, Tim Noakesmith"
 featured_image: "logo-only-square.png"
 website: https://www.vowfood.com/
 linkedin: https://www.linkedin.com/company/vowfood

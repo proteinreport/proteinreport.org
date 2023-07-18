@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">Abba Eban Street</span><br>
-<span class="locality">Jerusalem</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Jerusalem"
+founded: 1986
+founders: ""
 featured_image: "Garden Gourmet - logo.png"
 website: https://www.gardengourmet.com/
 linkedin: 

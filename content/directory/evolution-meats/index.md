@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Molenstraat</span><br>
-<span class="postal-code">3882 AD</span> <span class="locality">Putten</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Putten"
+founded: 2018
+founders: ""
 featured_image: "Evolution meats logo.jpg"
 website: https://www.evolutionmeats.com/
 linkedin: 

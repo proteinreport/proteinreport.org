@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Pet Food]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Downley Road</span><br>
-<span class="locality">Havant</span><br>
-<span class="postal-code">PO9 2NJ</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Havant"
+founded: 1980
+founders: ""
 featured_image: "V-dog logo.png"
 website: https://www.v-dog.co.uk/
 linkedin: 

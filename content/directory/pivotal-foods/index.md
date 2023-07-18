@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Kingsbury Grade Road</span><br>
-<span class="locality">Stateline</span>, <span class="postal-code">89449</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Stateline"
+founded: 2016
+founders: "MJ Espiritu-Gerometta, Mark Garrison"
 featured_image: "Pivotal Foods logo.png"
 website: http://www.pivotalfoods.com/
 linkedin: 

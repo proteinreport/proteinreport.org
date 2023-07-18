@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Cell Culture Media]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean]
-location: [<p class="address" translate="no"><span class="address-line1">Virginia Opazo</span><br>
-<span class="locality">Santiago</span><br>
-<span class="country">Chile</span></p>]
+country: "Chile"
+country_code: CL
+city: "Santiago"
+founded: 2019
+founders: "Kris Blanchard Tapia, Maria Soledad Gutiérrez, Randall Cossio"
 featured_image: "LUYEF2 LOGO.jpg"
 website: https://www.luyef.com/
 linkedin: 

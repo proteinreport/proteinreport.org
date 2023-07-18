@@ -8,11 +8,11 @@ proteins: [Microbial]
 products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Main Road</span><br>
-<span class="locality">Nottingham</span><br>
-<span class="postal-code">NG9 1PG</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Nottingham"
+founded: 2018
+founders: "Peter Rowe, Rob Mansfield"
 featured_image: "Deep Branch download.png"
 website: https://deepbranchbio.com/
 linkedin: https://www.linkedin.com/company/deepbranchbio

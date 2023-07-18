@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Finance, Research, Nonprofit]
 finance_type: [Research Grants]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Broadway</span><br>
-<span class="locality">New York</span>, <span class="postal-code">10007</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "New York"
+founded: 2004
+founders: ""
 featured_image: "new harvest logo.png"
 website: https://www.new-harvest.org/
 linkedin: https://www.linkedin.com/company/new-harvest/

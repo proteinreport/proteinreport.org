@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Spencer Street</span><br>
-<span class="locality">St Albans</span><br>
-<span class="postal-code">AL3 5EG</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "St Albans"
+founded: 1979
+founders: ""
 featured_image: "Cauldron Foods - logo.png"
 website: https://www.cauldronfoods.co.uk/
 linkedin: 

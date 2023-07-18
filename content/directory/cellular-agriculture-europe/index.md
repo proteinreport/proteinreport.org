@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat, Dairy, Seafood]
 business: [Nonprofit]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Avenue de Tervueren 13A</span><br>
-<span class="postal-code">1040</span> <span class="locality">Etterbeek</span><br>
-<span class="country">Belgium</span></p>]
+country: "Belgium"
+country_code: BE
+city: "Etterbeek"
+founded: 2021
+founders: ""
 featured_image: "FF6c_EoX0AIoZwY.jpg"
 website: https://www.cellularagriculture.eu/
 linkedin: https://www.linkedin.com/company/cellageurope/about/

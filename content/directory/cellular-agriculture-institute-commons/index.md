@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="locality">Suginami City</span>,<br>
-<span class="postal-code">168-0063</span><br>
-<span class="country">Japan</span></p>]
+country: "Japan"
+country_code: JP
+city: "Suginami City"
+founded: 2020
+founders: ""
 featured_image: "cell.png"
 website: https://www.cellagri.org/
 linkedin: 

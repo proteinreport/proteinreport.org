@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Algae]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]
 business: [Research]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">South State Street</span><br>
-<span class="locality">Dover</span>, <span class="postal-code">19904</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Dover"
+founded: 2018
+founders: ""
 featured_image: "logo-stacked-inverted.png"
 website: https://www.proteinreport.org/
 linkedin: https://www.linkedin.com/company/proteinreport/

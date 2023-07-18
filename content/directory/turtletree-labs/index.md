@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
-<span class="country">Singapore</span></p>]
+country: "Singapore"
+country_code: SG
+city: "Singapore"
+founded: 2019
+founders: "Fengru Lin, Mkulima Britt, Max Rye"
 featured_image: "turtle free labs - logo.png"
 website: https://turtletreelabs.com/
 linkedin: https://www.linkedin.com/company/turtletreelabs/

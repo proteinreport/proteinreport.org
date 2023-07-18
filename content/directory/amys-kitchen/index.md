@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Corporate Circle</span><br>
-<span class="locality">Petaluma</span>, <span class="postal-code">94954</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Petaluma"
+founded: 1987
+founders: "Andy Berliner, Rachel Berliner"
 featured_image: "Amy's_Kitchen_logo.png"
 website: http://www.amys.com/
 linkedin: https://www.linkedin.com/company/amy's-kitchen

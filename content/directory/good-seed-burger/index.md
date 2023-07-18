@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Congress Avenue</span><br>
-<span class="locality">Austin</span>, <span class="postal-code">78701</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Austin"
+founded: 2009
+founders: "Erin Shotwell, Oliver Ponce"
 featured_image: "Good Seed logo.png"
 website: http://goodseedburger.com/
 linkedin: 

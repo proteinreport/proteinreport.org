@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">South Columbia Street</span><br>
-<span class="locality">Chapel Hill</span>, <span class="postal-code">27514</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Chapel Hill"
+founded: 2020
+founders: ""
 featured_image: "chapp.png"
 website: https://www.facebook.com/pg/chapelhillaltprotein/
 linkedin: https://www.linkedin.com/company/the-chapel-hill-alt-protein-project

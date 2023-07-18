@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Meat, Seafood]
 business: [Nonprofit]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Washington</span>, <span class="postal-code">20036</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Washington"
+founded: 2019
+founders: ""
 featured_image: "amps.png"
 website: https://ampsinnovation.org/
 linkedin: 

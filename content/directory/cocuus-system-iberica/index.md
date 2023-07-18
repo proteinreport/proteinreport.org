@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat, Scaffolding & Structure, Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Calle de la Fuente</span><br>
-<span class="postal-code">31190</span> <span class="locality">Cizur Menor</span><br>
-<span class="country">Spain</span></p>]
+country: "Spain"
+country_code: ES
+city: "Cizur Menor"
+founded: 2017
+founders: "Francisco Javier, Larumbe Beramendi, Daniel Rico Aldaz"
 featured_image: "Logo Coquus horizontal color.png"
 website: https://cocuus.com/
 linkedin: https://www.linkedin.com/company/28586611/admin/

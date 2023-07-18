@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Zhengyi Road</span><br>
-<span class="postal-code">100007</span><br>
-<span class="country">China</span></p>]
+country: "China"
+country_code: CN
+city: ""
+founded: 2020
+founders: "Ziliang Yang, Ran Liu"
 featured_image: "CellX_Logo_w1pt.png"
 website: https://cellx.tech/
 linkedin: https://www.linkedin.com/company/cellxtech

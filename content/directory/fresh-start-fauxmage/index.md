@@ -8,8 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: ""
+founded: 2016
+founders: "Julain Molnar"
 featured_image: "Fresh Start Fauxmage logo.png"
 website: https://freshstartfauxmage.ca/
 linkedin: 

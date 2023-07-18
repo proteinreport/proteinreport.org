@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Tal</span><br>
-<span class="postal-code">80331</span> <span class="locality">München</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "München"
+founded: 2019
+founders: "Robin Drummond, Julian Hallet"
 featured_image: "happyoceanlogo.jpg"
 website: https://www.happyoceanfoods.com/
 linkedin: https://www.linkedin.com/company/happy-ocean-foods

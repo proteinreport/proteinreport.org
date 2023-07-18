@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Krogshøjvej</span><br>
-<span class="postal-code">2880</span> <span class="locality">Bagsværd</span><br>
-<span class="country">Denmark</span></p>]
+country: "Denmark"
+country_code: DK
+city: "Bagsværd"
+founded: 2000
+founders: ""
 featured_image: "novozymes_logo_purple.png"
 website: https://www.novozymes.com
 linkedin: https://www.linkedin.com/company/novozymes

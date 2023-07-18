@@ -8,8 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="country">China</span></p>]
+country: "China"
+country_code: CN
+city: ""
+founded: 2019
+founders: "Liqin Lu"
 featured_image: "logo_1.png"
 website: http://www.youkuaifood.com/
 linkedin: https://www.linkedin.com/company/youkuai-group

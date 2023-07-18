@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">McCreary's Ridge Road</span><br>
-<span class="locality">Cameron</span>, <span class="postal-code">26033</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Cameron"
+founded: 2001
+founders: ""
 featured_image: "Primal Spirit Foods logo.png"
 website: http://www.primalspiritfoods.com/
 linkedin: 

@@ -8,11 +8,11 @@ proteins: [Cell-Based]
 products: [Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Hills Road 59A</span><br>
-<span class="locality">Cambridge</span><br>
-<span class="postal-code">CB2 1NT</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Cambridge"
+founded: 2020
+founders: "Jack Reid, Adam Glen"
 featured_image: "unicorn.jpg"
 website: https://www.unicornb.io/
 linkedin: https://www.linkedin.com/company/unicorn-biotechnologies

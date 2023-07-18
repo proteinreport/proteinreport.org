@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">Avraham Rozenman Street</span><br>
-<span class="locality">Netivot</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Netivot"
+founded: 2019
+founders: ""
 featured_image: "Hinoman logo.jpg"
 website: http://www.hinoman.com/
 linkedin: 

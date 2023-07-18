@@ -8,10 +8,11 @@ proteins: [Cell-Based, Microbial]
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">West Pender Street 789</span><br>
-<span class="locality">Vancouver</span> <span class="administrative-area">British Columbia</span> <span class="postal-code">V6C 1H2</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Vancouver"
+founded: 2021
+founders: "Dorian Banks"
 featured_image: "cult.png"
 website: https://www.cultfoodscience.com/
 linkedin: https://www.linkedin.com/company/cult-food-science

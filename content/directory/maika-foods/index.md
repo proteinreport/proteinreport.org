@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Lacy Street</span><br>
-<span class="locality">Los Angeles</span>, <span class="postal-code">90031</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Los Angeles"
+founded: 2015
+founders: ""
 featured_image: "Maika logo2.png"
 website: http://maikafoods.com
 linkedin: 

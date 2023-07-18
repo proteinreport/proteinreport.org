@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Bråvallavägen</span><br>
-<span class="postal-code">131 47</span> <span class="locality">Nacka</span><br>
-<span class="country">Sweden</span></p>]
+country: "Sweden"
+country_code: SE
+city: "Nacka"
+founded: 2019
+founders: "Tom Johansson, Emil Wasteson, Zhihao Liu"
 featured_image: "hooked.jpg"
 website: https://www.hookedfoods.com/
 linkedin: https://www.linkedin.com/company/hooked-seafood-ab

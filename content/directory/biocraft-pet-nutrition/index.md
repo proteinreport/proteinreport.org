@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat, Pet Food]
 business: [Production]
 finance_type: []
-regions: [Europe, US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Cobb-Cheek Road 1171</span><br>
-<span class="locality">Cobb</span>, <span class="administrative-area">Georgia</span> <span class="postal-code">31735</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Cobb"
+founded: 2016
+founders: "Shannon Falconer, Joshua Errett"
 featured_image: "BioCraft Logo - Black.png"
 website: https://www.biocraftpet.com/
 linkedin: https://www.linkedin.com/company/biocraftpet/

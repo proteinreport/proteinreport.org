@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Incubator]
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Genthiner Straße</span><br>
-<span class="postal-code">10785</span> <span class="locality">Berlin</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Berlin"
+founded: 2018
+founders: "ProVeg International"
 featured_image: "pv.jpg"
 website: https://provegincubator.com/
 linkedin: https://www.linkedin.com/company/proveg-incubator

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Capital Avenue Northeast</span><br>
-<span class="locality">Battle Creek</span>, <span class="postal-code">49017</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Battle Creek"
+founded: 
+founders: ""
 featured_image: "msf_logo_desktop.png"
 website: https://www.morningstarfarms.com/
 linkedin: 

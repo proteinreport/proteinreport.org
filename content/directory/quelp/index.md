@@ -8,11 +8,11 @@ proteins: [Algae]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean]
-location: [<p class="address" translate="no"><span class="address-line1">Virginia Opazo 23</span><br>
-<span class="locality">Santiago</span><br>
-<span class="administrative-area">Región Metropolitana</span><br>
-<span class="country">Chile</span></p>]
+country: "Chile"
+country_code: CL
+city: "Santiago"
+founded: 2016
+founders: "Alejandra Allendes, Alonso Rodrigo Díaz Delgado"
 featured_image: "logo-web-2.png"
 website: https://quelp.cl/
 linkedin: https://www.linkedin.com/company/quelp

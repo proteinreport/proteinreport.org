@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital, Accelerator]
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Collins Street</span><br>
-<span class="locality">Docklands</span> <span class="postal-code">3008</span><br>
-<span class="country">Australia</span></p>]
+country: "Australia"
+country_code: AU
+city: "Docklands"
+founded: 2011
+founders: "Niki Scevak"
 featured_image: "startmate.jpg"
 website: https://www.startmate.com.au/
 linkedin: https://www.linkedin.com/company/startmate/

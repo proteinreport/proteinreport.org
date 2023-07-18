@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Union Street</span><br>
-<span class="postal-code">11215</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: ""
+founded: 2015
+founders: "Helena Lumme, Mika Manninen"
 featured_image: "Halsa foods logo.jpg"
 website: https://halsafoods.com/
 linkedin: 

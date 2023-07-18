@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy, Eggs]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean]
-location: [<p class="address" translate="no"><span class="address-line1">Market Street</span><br>
-<span class="locality">San Francisco</span>, <span class="postal-code">94102</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Francisco"
+founded: 2015
+founders: "Karim Pichara Baksai, Matias Muchnick, Palbo Zamora"
 featured_image: "NotCo logo.jpg"
 website: http://www.notco.com/
 linkedin: https://www.linkedin.com/company/the-not-co-/

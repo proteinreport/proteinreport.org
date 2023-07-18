@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Newbury Street</span><br>
-<span class="locality">Boston</span>, <span class="postal-code">02116</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Boston"
+founded: 2005
+founders: "Santo Politi, Todd Dagres"
 featured_image: "spark logo.jpg"
 website: https://www.sparkcapital.com
 linkedin: https://www.linkedin.com/company/spark-capital-llc

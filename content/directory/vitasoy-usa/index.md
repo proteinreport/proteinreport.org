@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">New England Way</span><br>
-<span class="locality">Ayer</span>, <span class="postal-code">01432</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Ayer"
+founded: 
+founders: ""
 featured_image: "vitasoy logo.png"
 website: http://www.vitasoy-na.com/
 linkedin: 

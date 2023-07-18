@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based]
 products: [Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Saint Patrick's Street</span><br>
-<span class="locality">Cork</span><br>
-<span class="country">Ireland</span></p>]
+country: "Ireland"
+country_code: IE
+city: "Cork"
+founded: 
+founders: "Chidananda Nagamangala, Ok-jae Koo"
 featured_image: "plantedit.png"
 website: http://plantedit.com/
 linkedin: https://www.linkedin.com/company/plantedit/

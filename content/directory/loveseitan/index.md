@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Highbridge Road</span><br>
-<span class="locality">Aylesbury</span><br>
-<span class="postal-code">HP21 7SE</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Aylesbury"
+founded: 2017
+founders: ""
 featured_image: "love seitan logo.jpg"
 website: https://www.loveseitan.com/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Meeting House Hill Road</span><br>
-<span class="locality">Franklin</span>, <span class="postal-code">06254</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Franklin"
+founded: 1994
+founders: ""
 featured_image: "Franklin-Farms-Logo-Final.png"
 website: https://www.franklinfarms.com/
 linkedin: 

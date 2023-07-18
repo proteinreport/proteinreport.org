@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Hermosa Avenue</span><br>
-<span class="locality">Hermosa Beach</span>, <span class="postal-code">90254</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Hermosa Beach"
+founded: 2015
+founders: "Mark Rampolla, Kevin Boylan, T.K. Pillan"
 featured_image: "Powerplant ventures logo.png"
 website: http://powerplantvc.com/
 linkedin: https://www.linkedin.com/company/powerplant-ventures

@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Paseo de Miramón</span><br>
-<span class="postal-code">20014</span> <span class="locality">San Sebastián</span><br>
-<span class="country">Spain</span></p>]
+country: "Spain"
+country_code: ES
+city: "San Sebastián"
+founded: 2017
+founders: "Mercedes Vila Juárez, Iñigo Charola"
 featured_image: "BioTechFoods_logo_XXS.png"
 website: https://www.biotech-foods.com/
 linkedin: https://www.linkedin.com/company/biotech-foods-sl

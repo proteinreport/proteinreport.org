@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Broadway 142B</span><br>
-<span class="locality">Auckland</span> <span class="postal-code">1023</span><br>
-<span class="country">New Zealand</span></p>]
+country: "New Zealand"
+country_code: NZ
+city: "Auckland"
+founded: 2022
+founders: "Olivia Ogilvie, Laura Domigan, Vaughan Feisst"
 featured_image: "Opo-Bio-Logo-Full.png"
 website: https://www.opobio.com/
 linkedin: https://www.linkedin.com/company/opo-bio

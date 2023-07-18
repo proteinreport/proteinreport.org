@@ -8,11 +8,11 @@ proteins: [Microbial, Fungi]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean]
-location: [<p class="address" translate="no"><span class="address-line1">Arenales 1635</span><br>
-<span class="postal-code">C1061</span> <span class="locality">AAS</span><br>
-<span class="administrative-area">Buenos Aires</span><br>
-<span class="country">Argentina</span></p>]
+country: "Argentina"
+country_code: AR
+city: "AAS"
+founded: 2019
+founders: "Horacio Acerbo"
 featured_image: "dZWRdv0A_400x400.jpg"
 website: https://www.eternal.bio/
 linkedin: https://www.linkedin.com/company/eternalbio

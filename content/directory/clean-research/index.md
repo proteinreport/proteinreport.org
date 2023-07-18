@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Seafood]
 business: [Research]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Madison Street</span><br>
-<span class="locality">Seattle</span>, <span class="postal-code">98164</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Seattle"
+founded: 2019
+founders: ""
 featured_image: "CR_Logo_Tagline_Lockup_RGB_Horizontal.png"
 website: https://cleanresearch.org/
 linkedin: https://www.linkedin.com/company/clean-research

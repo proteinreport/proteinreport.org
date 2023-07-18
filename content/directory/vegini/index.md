@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Dokapark</span><br>
-<span class="postal-code">3304</span><br>
-<span class="country">Austria</span></p>]
+country: "Austria"
+country_code: AT
+city: ""
+founded: 
+founders: "Dipl.-Ing. (FH) Andreas Gebhart, Johann Tanzer"
 featured_image: "vegini-logo_0.png"
 website: https://www.vegini.at/en/
 linkedin: 

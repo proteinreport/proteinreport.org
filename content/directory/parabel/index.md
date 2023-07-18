@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">South Harbor City Boulevard</span><br>
-<span class="locality">Melbourne</span>, <span class="postal-code">32901</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Melbourne"
+founded: 2011
+founders: ""
 featured_image: "cropped-Parabel-Color-Logo-1024x172.png"
 website: https://www.parabel.com/
 linkedin: https://www.linkedin.com/company/parabel-inc-

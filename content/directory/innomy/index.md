@@ -8,10 +8,11 @@ proteins: [Fungi]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Zubiaurrealde Auzoa</span><br>
-<span class="postal-code">48130</span> <span class="locality">Bakio</span><br>
-<span class="country">Spain</span></p>]
+country: "Spain"
+country_code: ES
+city: "Bakio"
+founded: 2018
+founders: "Juan Pablo de Giacomi, Pablo Sanchez Rey"
 featured_image: "1531680176088.jpg"
 website: http://innomylabs.com/#!/-inicio/
 linkedin: https://www.linkedin.com/company/innomy/

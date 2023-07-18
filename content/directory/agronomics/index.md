@@ -8,11 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Paternoster Square</span><br>
-<span class="locality">London</span><br>
-<span class="postal-code">EC4M 7LS</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 2019
+founders: "Jim Mellon"
 featured_image: "cropped-AGRONOMICS-LOGO-300x0-c-default.png"
 website: https://agronomics.im/
 linkedin: https://www.linkedin.com/company/agronomics-limited

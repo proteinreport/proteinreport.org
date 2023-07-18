@@ -8,10 +8,11 @@ proteins: [Microbial, Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Barrington Street</span><br>
-<span class="locality">Halifax</span> <span class="postal-code">B3J 1Z6</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Halifax"
+founded: 2018
+founders: "Marc St-Onge"
 featured_image: "Smallfood_Inc__Smallfood_Is_Unearthing_The_Potential_Of_Microbes.jpg"
 website: https://www.smallfood.com/
 linkedin: https://www.linkedin.com/company/smallfood-inc

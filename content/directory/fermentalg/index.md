@@ -8,9 +8,11 @@ proteins: [Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Libourne</span><br>
-<span class="country">France</span></p>]
+country: "France"
+country_code: FR
+city: "Libourne"
+founded: 2014
+founders: ""
 featured_image: "Fermentalg.png"
 website: https://www.fermentalg.com/solutions/alternative-proteins/
 linkedin: 

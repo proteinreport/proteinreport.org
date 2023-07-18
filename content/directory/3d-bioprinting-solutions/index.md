@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Moskva</span><br>
-<span class="country">Russia</span></p>]
+country: "Russia"
+country_code: RU
+city: "Moskva"
+founded: 2013
+founders: "Alexander Ostrovsky, Yusef Hesuani"
 featured_image: "logo.png"
 website: https://bioprinting.ru/en/
 linkedin: https://www.linkedin.com/company/3d-bioprinting-solutions/

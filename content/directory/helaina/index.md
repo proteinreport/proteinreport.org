@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Broadway</span><br>
-<span class="locality">New York</span>, <span class="postal-code">10007</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "New York"
+founded: 2019
+founders: "Laura Katz"
 featured_image: "Helaina_Logo-04_0.png"
 website: https://www.myhelaina.com/
 linkedin: https://www.linkedin.com/company/helaina

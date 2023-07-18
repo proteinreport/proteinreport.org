@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Langenlebarner Straße 10</span><br>
-<span class="postal-code">3430</span> <span class="locality">Tulln an der Donau</span><br>
-<span class="country">Austria</span></p>]
+country: "Austria"
+country_code: AT
+city: "Tulln an der Donau"
+founded: 2021
+founders: "Simon Rittman, Guenther Bochmann, Gregor Tegl"
 featured_image: "Logo - 3-Symbol - black.png"
 website: https://arkeon.bio/
 linkedin: https://www.linkedin.com/company/arkeon-bio/

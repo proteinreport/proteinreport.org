@@ -8,8 +8,11 @@ proteins: [Cell-Based]
 products: [Scaffolding & Structure, Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="country">Singapore</span></p>]
+country: "Singapore"
+country_code: SG
+city: "Singapore"
+founded: 2019
+founders: "Viknish Krishnan-Kutty"
 featured_image: "static1.squarespace.jpg"
 website: https://www.cellivate.xyz/
 linkedin: https://www.linkedin.com/company/cellivate-technologies/

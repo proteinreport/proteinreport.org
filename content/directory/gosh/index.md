@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Milton Keynes</span><br>
-<span class="postal-code">MK10 0BY</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Milton Keynes"
+founded: 2002
+founders: "Jane Rayner"
 featured_image: "Gosh logo.jpg"
 website: https://www.goshfood.com/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Eggs]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Old Country Road</span><br>
-<span class="locality">Carle Place</span>, <span class="postal-code">11514</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Carle Place"
+founded: 2012
+founders: "Rocky Shepheard"
 featured_image: "Vegg logo.jpg"
 website: https://thevegg.com/
 linkedin: 

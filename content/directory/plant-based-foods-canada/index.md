@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Duke of York Boulevard</span><br>
-<span class="locality">Mississauga</span> <span class="postal-code">L5B 3C9</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Mississauga"
+founded: 2018
+founders: ""
 featured_image: "pbfc.jpg"
 website: https://www.plantbasedfoodscanada.ca/
 linkedin: https://www.linkedin.com/company/plant-based-foods-of-canada

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Southeast Lafayette Street 2131</span><br>
-<span class="locality">Portland</span>, <span class="administrative-area">Oregon</span> <span class="postal-code">97202</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Portland"
+founded: 2015
+founders: ""
 featured_image: "Tofuna fysh logo.png"
 website: http://tofunafysh.com/
 linkedin: https://www.linkedin.com/company/tofuna-fish-llc

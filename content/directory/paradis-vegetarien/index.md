@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Rue Saint-Denis</span><br>
-<span class="locality">Montréal</span> <span class="postal-code">H2J 2L1</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Montréal"
+founded: 2000
+founders: ""
 featured_image: "Paradis Vegetarien logo.png"
 website: https://www.paradisvegetarien.com/
 linkedin: 

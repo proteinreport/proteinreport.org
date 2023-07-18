@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Herrengasse</span><br>
-<span class="postal-code">8010</span> <span class="locality">Graz</span><br>
-<span class="country">Austria</span></p>]
+country: "Austria"
+country_code: AT
+city: "Graz"
+founded: 2020
+founders: "Helmut Schwab"
 featured_image: "picture.jpg"
 website: https://trellicell.com/
 linkedin: https://www.linkedin.com/company/trellicell/

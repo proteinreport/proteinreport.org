@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean]
-location: [<p class="address" translate="no"><span class="address-line1">Rua do Prensista</span><br>
-<span class="postal-code">37200-000</span><br>
-<span class="country">Brazil</span></p>]
+country: "Brazil"
+country_code: BR
+city: ""
+founded: 
+founders: ""
 featured_image: "vida veg. logo.png"
 website: http://www.vidaveg.com.br/
 linkedin: https://www.linkedin.com/company/vidaveg/about/

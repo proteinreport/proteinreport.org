@@ -8,9 +8,11 @@ proteins: [Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: ""
+founded: 2017
+founders: "Amikam Bar-gil, Erez Ashkenazi, Moshe Avron"
 featured_image: "yemoja-grn.png"
 website: https://yemojaltd.com/
 linkedin: https://www.linkedin.com/company/yemoja

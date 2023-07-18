@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">Rambam Street</span><br>
-<span class="locality">Ashdod</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Ashdod"
+founded: 2017
+founders: "Barak Melamed"
 featured_image: "Rilbite logo_0.png"
 website: https://www.rilbite.com/
 linkedin: 

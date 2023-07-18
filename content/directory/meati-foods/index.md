@@ -8,10 +8,11 @@ proteins: [Plant-Based, Fungi]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Canyon Boulevard</span><br>
-<span class="locality">Boulder</span>, <span class="postal-code">80302</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Boulder"
+founded: 
+founders: ""
 featured_image: "Meati_Logo_Revised_Final_V3_Clean.png"
 website: https://www.meati.com/
 linkedin: 

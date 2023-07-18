@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Research]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">Ha-Agasim Street 12</span><br>
-<span class="locality">Binyamina-Giv'at Ada</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Binyamina-Giv'at Ada"
+founded: 2022
+founders: "Ori Zakin, Yaron David"
 featured_image: "Bioraptor Logo.png"
 website: https://www.bioraptor.ai/
 linkedin: https://www.linkedin.com/company/bioraptor

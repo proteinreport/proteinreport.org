@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Kazan</span><br>
-<span class="country">Russia</span></p>]
+country: "Russia"
+country_code: RU
+city: "Kazan"
+founded: 2019
+founders: "Askar Latyshev, Albert Rizvanov, Elena Zakirova"
 featured_image: "artmeat logo.jpg"
 website: http://artmeat.pro/
 linkedin: 

@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="locality">Delhi</span> <span class="postal-code">110041</span><br>
-<span class="country">India</span></p>]
+country: "India"
+country_code: IN
+city: "Delhi"
+founded: 2018
+founders: "Pawan Dhar, Kartik Dixit, Siddharth Manvati"
 featured_image: "ClearMeat-logo_0.png"
 website: http://www.clearmeat.com/
 linkedin: 

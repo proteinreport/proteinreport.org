@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">3rd Street 615</span><br>
-<span class="locality">Davis</span>, <span class="administrative-area">California</span> <span class="postal-code">95616</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Davis"
+founded: 2019
+founders: "Kathryn Cook, Douglas Cook"
 featured_image: "NucicerLogo_0.png"
 website: https://nucicer.com/
 linkedin: https://www.linkedin.com/company/nucicer

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Portland Street</span><br>
-<span class="locality">Toronto</span> <span class="postal-code">M5V 2M7</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Toronto"
+founded: 2016
+founders: "David Orr Gaucher"
 featured_image: "wv.jpg"
 website: https://www.whollyveggie.com/
 linkedin: 

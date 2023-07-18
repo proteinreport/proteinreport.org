@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Cordelia Street</span><br>
-<span class="locality">South Brisbane</span> <span class="postal-code">4101</span><br>
-<span class="country">Australia</span></p>]
+country: "Australia"
+country_code: AU
+city: "South Brisbane"
+founded: 2017
+founders: "Nick Beaumont"
 featured_image: "Heuros logo_0.jpg"
 website: https://www.heuros.com/
 linkedin: 

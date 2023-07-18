@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Moravské náměstí 13</span><br>
-<span class="postal-code">602 00</span><br>
-<span class="country">Czechia</span></p>]
+country: "Czechia"
+country_code: CZ
+city: ""
+founded: 2020
+founders: "Roman Laus"
 featured_image: "2h1JT-9m_400x400.jpg"
 website: https://www.mewery.io/
 linkedin: https://www.linkedin.com/company/mewery

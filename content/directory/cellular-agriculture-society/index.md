@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Brickell Avenue</span><br>
-<span class="locality">Miami</span>, <span class="postal-code">33131</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Miami"
+founded: 2018
+founders: "Kristopher Gasteratos"
 featured_image: "cas.png"
 website: https://www.cellag.org/
 linkedin: https://www.linkedin.com/company/cas-cellular-agriculture-society

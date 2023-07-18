@@ -8,11 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Africa]
-location: [<p class="address" translate="no"><span class="address-line1">Nelson Mandela Drive</span><br>
-<span class="locality">Pretoria</span><br>
-<span class="postal-code">1050</span><br>
-<span class="country">South Africa</span></p>]
+country: "South Africa"
+country_code: ZA
+city: "Pretoria"
+founded: 2020
+founders: "Paul Bartels, Dr. Elize Venter"
 featured_image: "mmc.png"
 website: https://mogalemeat.com/
 linkedin: https://www.linkedin.com/company/mogalemeat

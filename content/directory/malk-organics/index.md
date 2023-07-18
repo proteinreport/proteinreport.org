@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Kirby Drive</span><br>
-<span class="locality">Houston</span>, <span class="postal-code">77098</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Houston"
+founded: 2014
+founders: "August Vega"
 featured_image: "Malk logo.jpg"
 website: http://malkorganics.com/
 linkedin: 

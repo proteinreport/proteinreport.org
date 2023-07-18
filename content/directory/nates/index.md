@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
-<span class="locality">Malegaon</span> <span class="postal-code">422113</span><br>
-<span class="country">India</span></p>]
+country: "India"
+country_code: IN
+city: "Malegaon"
+founded: 
+founders: ""
 featured_image: "nate's logo.jpg"
 website: http://www.adf-foods.com/brand/nates
 linkedin: 

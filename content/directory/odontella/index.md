@@ -8,10 +8,11 @@ proteins: [Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Rue Saint-Siméon</span><br>
-<span class="postal-code">33000</span> <span class="locality">Bordeaux</span><br>
-<span class="country">France</span></p>]
+country: "France"
+country_code: FR
+city: "Bordeaux"
+founded: 2016
+founders: "Pierre Calleja"
 featured_image: "Odontella-1-330x114.png"
 website: https://www.odontella.com/
 linkedin: https://www.linkedin.com/company/odontella?trk=public_profile_topcard_current_company

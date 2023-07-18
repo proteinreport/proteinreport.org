@@ -6,6 +6,7 @@ library(stringr)
 library(urltools)
 library(rlist)
 library(rvest)
+library(tidyverse)
 
 # set working directory
 setwd(here("content/directory"))
@@ -13,7 +14,10 @@ setwd(here("content/directory"))
 # read drupal data export into dataframe
 import_data <- read_csv("directory.csv") %>%
   as_tibble()
-import_data[is.na(import_data)] = ""
+# remove NA values
+import_data$founded <- as.character(import_data$founded)
+import_data <- replace(import_data, is.na(import_data), "")
+# import_data[is.na(import_data)] = ""
 # fix date formatting
 import_data$date <- as.character(import_data$date)
 # decode apostrophe across entire data frame
@@ -53,8 +57,11 @@ for (row in 1:nrow(import_data)) {
   if (!is.na(import_data[row,]$finance_type)) {
     write(paste("finance_type: [",import_data[row,]$finance_type, "]", sep = ""), file_path, append = T)
   }
-  write(paste("regions: [",import_data[row,]$regions, "]", sep = ""), file_path, append = T)
-  write(paste("location: [",import_data[row,]$location, "]", sep = ""), file_path, append = T)
+  write(paste("country: ",shQuote(import_data[row,]$country), sep = ""), file_path, append = T)
+  write(paste("country_code: ",shQuote(import_data[row,]$country_code), sep = ""), file_path, append = T)
+  write(paste("city: ",shQuote(import_data[row,]$city), sep = ""), file_path, append = T)
+  write(paste("founded: ",import_data[row,]$founded, sep = ""), file_path, append = T)
+  write(paste("founders: ",shQuote(import_data[row,]$founders), sep = ""), file_path, append = T)
   # write(paste("flags: [",import_data[row,]$flags, "]", sep = ""), file_path, append = T)
   # write(paste("directory: [",import_data[row,]$directory, "]", sep = ""), file_path, append = T)
   # write(paste("company: ", shQuote(import_data[row,]$company), sep = ""), file_path, append = T)

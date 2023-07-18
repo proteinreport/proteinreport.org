@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Quezon Boulevard</span><br>
-<span class="locality">Manila</span><br>
-<span class="postal-code">1001</span><br>
-<span class="country">Philippines</span></p>]
+country: "Philippines"
+country_code: PH
+city: "Manila"
+founded: 2019
+founders: "Stephen Michael Co, Carissa Jane Lim, Carlo Antonio Ng"
 featured_image: "wth.jpg"
 website: https://www.wthfoods.ph/
 linkedin: https://www.linkedin.com/company/wthfoods

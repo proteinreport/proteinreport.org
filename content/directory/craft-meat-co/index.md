@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Kaikorai Valley Road</span><br>
-<span class="locality">Dunedin</span> <span class="postal-code">9011</span><br>
-<span class="country">New Zealand</span></p>]
+country: "New Zealand"
+country_code: NZ
+city: "Dunedin"
+founded: 
+founders: ""
 featured_image: "the craft meat co logo.png"
 website: https://www.craftmeat.co.nz/
 linkedin: 

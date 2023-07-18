@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Providence</span>,<br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Providence"
+founded: 
+founders: "Jacob Conway, Kevin Eve"
 featured_image: "Uproot milk logo.jpg"
 website: https://uprootmilk.com/
 linkedin: https://www.linkedin.com/company/uprootmilk/about/

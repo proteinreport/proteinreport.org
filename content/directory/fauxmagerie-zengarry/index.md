@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Main Street North 209</span><br>
-<span class="locality">Alexandria</span> <span class="administrative-area">Ontario</span> <span class="postal-code">K0C 1A0</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Alexandria"
+founded: 2013
+founders: "Lynda Turner"
 featured_image: "Fauxmagerie Zengarry cheese logo.png"
 website: https://www.zengarry.com/
 linkedin: https://www.linkedin.com/company/fauxmagerie-zengarry

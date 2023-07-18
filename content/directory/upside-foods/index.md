@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Heinz Avenue</span><br>
-<span class="locality">Berkeley</span>, <span class="postal-code">94710</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Berkeley"
+founded: 2015
+founders: "Uma Valeti, Nicholas Genovese, Will Clem"
 featured_image: "static1.squarespace.png"
 website: https://www.upsidefoods.com/
 linkedin: https://www.linkedin.com/company/upsidefoods/

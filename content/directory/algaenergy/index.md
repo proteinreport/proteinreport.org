@@ -8,10 +8,11 @@ proteins: [Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Avenida de Europa</span><br>
-<span class="postal-code">28108</span> <span class="locality">Alcobendas</span><br>
-<span class="country">Spain</span></p>]
+country: "Spain"
+country_code: ES
+city: "Alcobendas"
+founded: 
+founders: ""
 featured_image: "alga-energy logo.png"
 website: https://www.algaenergy.com/
 linkedin: https://www.linkedin.com/company/algaenergy/

@@ -8,8 +8,11 @@ proteins: [Cell-Based, Plant-Based]
 products: []
 business: [Research, Nonprofit]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="country">China</span></p>]
+country: "China"
+country_code: CN
+city: ""
+founded: 2019
+founders: ""
 featured_image: "gfic.png"
 website: https://www.gficonsultancy.com/
 linkedin: https://www.linkedin.com/company/gficonsultancy

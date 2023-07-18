@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Southeast Eastgate Way</span><br>
-<span class="locality">Bellevue</span>, <span class="postal-code">98008</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Bellevue"
+founded: 2013
+founders: "Madeline Haydon"
 featured_image: "nutpods logo.png"
 website: http://www.nutpods.com/
 linkedin: 

@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Africa]
-location: [<p class="address" translate="no"><span class="address-line1">Field Street 73-75</span><br>
-<span class="locality">Durban</span><br>
-<span class="postal-code">4001</span><br>
-<span class="country">South Africa</span></p>]
+country: "South Africa"
+country_code: ZA
+city: "Durban"
+founded: 1991
+founders: "Debbie Fry, Wally Fry"
 featured_image: "Fry's logo.png"
 website: https://www.fryfamilyfood.com/
 linkedin: https://www.linkedin.com/company/fry's-family-foods

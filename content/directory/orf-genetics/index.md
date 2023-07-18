@@ -8,10 +8,11 @@ proteins: [Cell-Based, Molecular Farming]
 products: [Ingredients, Cell Culture Media]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Víkurhvarf</span><br>
-<span class="locality">Kópavogur</span><br>
-<span class="country">Iceland</span></p>]
+country: "Iceland"
+country_code: IS
+city: "Kópavogur"
+founded: 2001
+founders: "Björn Lárus Örvar, Ph.D."
 featured_image: "ORF Genetics.png"
 website: https://orfgenetics.com/
 linkedin: 

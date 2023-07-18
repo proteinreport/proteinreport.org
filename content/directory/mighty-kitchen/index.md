@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Larnaca</span><br>
-<span class="country">Cyprus</span></p>]
+country: "Cyprus"
+country_code: CY
+city: "Larnaca"
+founded: 2018
+founders: "George Vou, Louiza Sophocleous"
 featured_image: "mightykitchen.jpg"
 website: https://themightykitchen.com/
 linkedin: https://www.linkedin.com/company/themightykitchen/

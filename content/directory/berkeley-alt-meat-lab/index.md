@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Algae]
 products: []
 business: [Research, Nonprofit]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Piedmont Avenue</span><br>
-<span class="locality">Berkeley</span>, <span class="postal-code">94720</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Berkeley"
+founded: 
+founders: ""
 featured_image: "Alt.MeatLogo2.0.png"
 website: https://altmeatlab.berkeley.edu/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">West Bowery Street</span><br>
-<span class="locality">Akron</span>, <span class="postal-code">44308</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Akron"
+founded: 
+founders: "David Dellosa, Scott Kessler"
 featured_image: "Fawe some logo.png"
 website: http://eatfawesome.com/
 linkedin: 

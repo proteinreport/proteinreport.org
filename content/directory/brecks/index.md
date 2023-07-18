@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
-<span class="locality">Selby</span><br>
-<span class="postal-code">YO8 6DJ</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Selby"
+founded: 1992
+founders: ""
 featured_image: "brecks_logo.png"
 website: http://www.brecksfood.com/
 linkedin: 

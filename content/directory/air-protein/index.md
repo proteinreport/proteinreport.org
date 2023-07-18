@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Quarry Lane 1252</span><br>
-<span class="locality">Pleasanton</span>, <span class="administrative-area">California</span> <span class="postal-code">94566</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Pleasanton"
+founded: 2019
+founders: "Lisa Dyson"
 featured_image: "airprotein.jpg"
 website: https://www.airprotein.com/
 linkedin: https://www.linkedin.com/company/air-protein

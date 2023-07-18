@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Bamberger Straße</span><br>
-<span class="postal-code">96135</span> <span class="locality">Stegaurach</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Stegaurach"
+founded: 
+founders: ""
 featured_image: "amidori-logo2.jpg"
 website: https://www.amidori.com/
 linkedin: 

@@ -8,9 +8,11 @@ proteins: [Microbial, Fungi]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Chicago</span>,<br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Chicago"
+founded: 2014
+founders: "Thomas Jonas, Matthew Strongin"
 featured_image: "Natures Fynd Logo Square Transparent.png"
 website: https://www.naturesfynd.com/
 linkedin: https://www.linkedin.com/company/sustainable-bioproducts-llc/about/

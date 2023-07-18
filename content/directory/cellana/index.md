@@ -8,10 +8,11 @@ proteins: [Algae]
 products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Kahilihili Street</span><br>
-<span class="locality">Kailua-Kona</span>, <span class="postal-code">96740</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Kailua-Kona"
+founded: 
+founders: ""
 featured_image: "cellana.png"
 website: http://cellana.com/
 linkedin: 

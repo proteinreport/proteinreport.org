@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Hollis Street</span><br>
-<span class="locality">Emeryville</span>, <span class="postal-code">94608</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Emeryville"
+founded: 2012
+founders: "David Batstone"
 featured_image: "rebble logo.png"
 website: https://rebbl.co/
 linkedin: 

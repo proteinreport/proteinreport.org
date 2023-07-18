@@ -8,9 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Accelerator]
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Aberdeen Street</span><br>
-<span class="country">Hong Kong SAR China</span></p>]
+country: "Hong Kong SAR China"
+country_code: HK
+city: ""
+founded: 2014
+founders: "Manav Gupta, Bay McLaughlin, Bashar Aboudaoud"
 featured_image: "brinc_logo_final+(1).png"
 website: https://www.brinc.io/
 linkedin: https://www.linkedin.com/company/brinc-io

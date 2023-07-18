@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">Ha-Mekasher Street</span><br>
-<span class="locality">Hod Hasharon</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Hod Hasharon"
+founded: 2018
+founders: "Yohai Ben Zikri"
 featured_image: "BioFoods Systems_0.png"
 website: https://www.biofood-systems.com/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">London</span><br>
-<span class="postal-code">of Freedom#8573311~!#</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 
+founders: ""
 featured_image: "CPTCapital_FullLockUp_Identity_0.png"
 website: https://cptcap.com/
 linkedin: https://www.linkedin.com/company/cpt-capital

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">London</span><br>
-<span class="postal-code">of Freedom#8573311~!#</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 
+founders: ""
 featured_image: "JBR_Logo_Black_RGB_100mm-sml.jpg"
 website: https://www.jackandbry.com/
 linkedin: 

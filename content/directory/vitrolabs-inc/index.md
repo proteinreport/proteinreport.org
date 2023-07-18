@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Materials]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">U.S. 101</span><br>
-<span class="locality">San Francisco</span>, <span class="postal-code">94103</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Francisco"
+founded: 2016
+founders: "Ingvar Helgason, Dr. Dusko Ilic"
 featured_image: "VITROLABS_FAVICON_V1.png"
 website: https://www.vitrolabsinc.com/
 linkedin: https://www.linkedin.com/company/vitrolabs/

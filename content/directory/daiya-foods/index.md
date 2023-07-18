@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Rupert Street</span><br>
-<span class="locality">Vancouver</span> <span class="postal-code">V5M 3T7</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Vancouver"
+founded: 2008
+founders: "Greg Blake, Andre Kroecher"
 featured_image: "nav-logo.png"
 website: https://daiyafoods.com/
 linkedin: 

@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Daiwangshan Gongye 1st Road</span><br>
-<span class="locality">Shenzhen Shi</span><br>
-<span class="postal-code">518125</span><br>
-<span class="country">China</span></p>]
+country: "China"
+country_code: CN
+city: "Shenzhen Shi"
+founded: 1993
+founders: ""
 featured_image: "Whole Perfect Foods logo.jpg"
 website: http://www.qishanfoods.com/
 linkedin: 

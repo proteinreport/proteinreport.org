@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Research, Nonprofit]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="postal-code">95616</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: ""
+founded: 2019
+founders: "David Block, Denneal Jamison-McClung"
 featured_image: "biotech-logo_0.jpg"
 website: https://biotech.ucdavis.edu/cultivated-meat-consortium-cmc
 linkedin: 

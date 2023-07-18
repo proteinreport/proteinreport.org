@@ -8,9 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Amsterdam</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Amsterdam"
+founded: 2012
+founders: ""
 featured_image: "Photanol logo.jpg"
 website: https://www.photanol.com/
 linkedin: https://www.linkedin.com/company/photanol

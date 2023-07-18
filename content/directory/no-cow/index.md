@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Blake Street</span><br>
-<span class="locality">Denver</span>, <span class="postal-code">80202</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Denver"
+founded: 2015
+founders: "Daniel Katz"
 featured_image: "No Cow Logos_Web-02_170x@2x.png"
 website: https://nocow.com/
 linkedin: https://www.linkedin.com/company/nocow/

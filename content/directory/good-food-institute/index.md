@@ -8,9 +8,11 @@ proteins: [Cell-Based, Plant-Based]
 products: []
 business: [Finance, Research, Nonprofit]
 finance_type: [Research Grants]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Washington</span>, <span class="postal-code">20036</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Washington"
+founded: 2016
+founders: "Bruce Friedrich, Nick Cooney"
 featured_image: "gfi logo_0.png"
 website: https://www.gfi.org/
 linkedin: https://www.linkedin.com/company/the-good-food-institute

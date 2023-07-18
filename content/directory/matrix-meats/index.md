@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat, Scaffolding & Structure]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East Capital Street</span><br>
-<span class="locality">Columbus</span>, <span class="postal-code">43215</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Columbus"
+founded: 2019
+founders: "Eric Jenkusky, Ross Kayuha, Flavio Lobato"
 featured_image: "MatrixMeats+Logo-08.png"
 website: https://www.matrixmeats.com/
 linkedin: https://www.linkedin.com/company/matrix-meats

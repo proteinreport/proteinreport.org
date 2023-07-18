@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">Beit Eshel Street</span><br>
-<span class="locality">Tel Aviv-Yafo</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Tel Aviv-Yafo"
+founded: 2019
+founders: "Aviv Wolff, Ori Cohavi"
 featured_image: "remilk.png"
 website: https://www.re-milk.com/
 linkedin: https://www.linkedin.com/company/remilk

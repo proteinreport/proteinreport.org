@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Berlin</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Berlin"
+founded: 2014
+founders: "Jan Saam"
 featured_image: "ospin-logo-500.png"
 website: https://ospin.de/
 linkedin: 

@@ -8,8 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="country">China</span></p>]
+country: "China"
+country_code: CN
+city: ""
+founded: 2020
+founders: "Astrid Prajogo"
 featured_image: "Screen Shot 2021-04-08 at 1.16.23 PM.png"
 website: https://www.haofood.co/
 linkedin: https://www.linkedin.com/company/haofood/

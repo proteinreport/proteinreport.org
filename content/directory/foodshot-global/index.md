@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Broadway</span><br>
-<span class="locality">New York</span>, <span class="postal-code">10007</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "New York"
+founded: 2017
+founders: "Victor E. Friedberg"
 featured_image: "foodshot.png"
 website: http://www.foodshot.org/
 linkedin: https://www.linkedin.com/company/foodshot-global

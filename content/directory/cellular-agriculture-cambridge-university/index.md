@@ -8,11 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Nonprofit]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Saint Andrew's Street</span><br>
-<span class="locality">Cambridge</span><br>
-<span class="postal-code">CB2 3BJ</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Cambridge"
+founded: 2019
+founders: "Will Saunter, Sil Bonestroo, Robert Ryan"
 featured_image: "cropped-logo.png"
 website: https://cellagcam.com/
 linkedin: https://www.linkedin.com/company/cellular-agriculture-cambridge-university

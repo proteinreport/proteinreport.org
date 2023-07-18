@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Martin Luther King Junior Way</span><br>
-<span class="locality">Berkeley</span>, <span class="postal-code">94704</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Berkeley"
+founded: 2020
+founders: ""
 featured_image: "bapp_0.png"
 website: http://www.berkeleyap.org/
 linkedin: https://www.linkedin.com/company/berkeleyap

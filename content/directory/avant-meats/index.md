@@ -8,8 +8,11 @@ proteins: [Cell-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="country">Hong Kong SAR China</span></p>]
+country: "Hong Kong SAR China"
+country_code: HK
+city: ""
+founded: 2018
+founders: "Carrie Chan, Mario Chin"
 featured_image: "Avant-Meats logo_0.png"
 website: https://www.avantmeats.com/
 linkedin: https://www.linkedin.com/company/avant-meats/

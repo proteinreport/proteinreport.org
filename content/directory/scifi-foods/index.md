@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East 14th Street 1199</span><br>
-<span class="locality">San Leandro</span>, <span class="administrative-area">California</span> <span class="postal-code">94577</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Leandro"
+founded: 2019
+founders: "Jessica Krieger, Joshua Marsh"
 featured_image: "svgviewer-png-output.png"
 website: https://scififoods.com
 linkedin: https://www.linkedin.com/company/scififoods

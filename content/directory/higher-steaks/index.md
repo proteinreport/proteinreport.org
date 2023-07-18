@@ -8,11 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Upper Richmond Road</span><br>
-<span class="locality">London</span><br>
-<span class="postal-code">SW15 2SP</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 2018
+founders: "Benjamina Bollag, Stephanie Wallis"
 featured_image: "higher_steaks_logo_0.jpg"
 website: https://www.highersteaks.com/
 linkedin: 

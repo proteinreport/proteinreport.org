@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: []
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Kölsumer Weg</span><br>
-<span class="postal-code">41334</span> <span class="locality">Nettetal</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Nettetal"
+founded: 1998
+founders: "Peter Welters"
 featured_image: "phytowelt logo.png"
 website: https://www.phytowelt.com/en/
 linkedin: https://www.linkedin.com/company/phytowelt-greentechnologies-gmbh

@@ -8,11 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Africa]
-location: [<p class="address" translate="no"><span class="address-line1">Albert Road 66</span><br>
-<span class="locality">Cape Town</span><br>
-<span class="postal-code">7925</span><br>
-<span class="country">South Africa</span></p>]
+country: "South Africa"
+country_code: ZA
+city: "Cape Town"
+founded: 2020
+founders: "Brett Thompson, Tasneem Karodia"
 featured_image: "Mzansi logo 1.jpg"
 website: http://mzansimeat.co/
 linkedin: https://www.linkedin.com/company/mzansimeatco

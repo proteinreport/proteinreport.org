@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients, Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="postal-code">90-057</span> <span class="locality">Łódź</span><br>
-<span class="country">Poland</span></p>]
+country: "Poland"
+country_code: PL
+city: "Łódź"
+founded: 2014
+founders: "Magdalena Kozłowska, Piotr Wnukowski"
 featured_image: "Zasób 2@4x.png"
 website: http://www.napiferyn.pl/
 linkedin: https://www.linkedin.com/company/napiferyn-biotech/

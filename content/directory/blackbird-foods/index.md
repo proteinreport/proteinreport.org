@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="postal-code">11101</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: ""
+founded: 
+founders: "Emanuel Storch"
 featured_image: "Ck5aVj58_400x400.jpg"
 website: https://www.blackbirdfoods.com/
 linkedin: https://www.linkedin.com/company/blackbird-foods

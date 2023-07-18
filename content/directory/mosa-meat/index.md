@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Oxfordlaan</span><br>
-<span class="postal-code">6229 EV</span> <span class="locality">Maastricht</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Maastricht"
+founded: 2015
+founders: "Peter Verstrate, Mark Post"
 featured_image: "logo-horizontal-def_0.png"
 website: https://www.mosameat.com/
 linkedin: https://www.linkedin.com/company/mosameat/

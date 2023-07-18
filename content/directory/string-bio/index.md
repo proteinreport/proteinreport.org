@@ -8,9 +8,11 @@ proteins: [Microbial]
 products: [Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="locality">Bengaluru</span> <span class="postal-code">560001</span><br>
-<span class="country">India</span></p>]
+country: "India"
+country_code: IN
+city: "Bengaluru"
+founded: 2013
+founders: "Ezhil Subbian"
 featured_image: "String Bio logo.png"
 website: http://www.stringbio.com/
 linkedin: https://www.linkedin.com/company/string-bio-pvt-ltd/

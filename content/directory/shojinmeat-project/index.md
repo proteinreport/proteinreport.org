@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="locality">Chiyoda City</span>,<br>
-<span class="postal-code">100-0005</span><br>
-<span class="country">Japan</span></p>]
+country: "Japan"
+country_code: JP
+city: "Chiyoda City"
+founded: 2017
+founders: "Yuki Hanyu"
 featured_image: "shojinmeat-project.png"
 website: https://shojinmeat.com/
 linkedin: 

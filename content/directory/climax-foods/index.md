@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Research]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Seventh Street</span><br>
-<span class="locality">Berkeley</span>, <span class="postal-code">94710</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Berkeley"
+founded: 2019
+founders: "Oliver Zahn, Caroline Love"
 featured_image: "Logo+with+Safezone+Black.png"
 website: https://www.climaxfoods.com/
 linkedin: https://www.linkedin.com/company/climaxfoods

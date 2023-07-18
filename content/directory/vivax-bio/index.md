@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Technology & Equipment]
 business: []
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">New York</span>,<br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "New York"
+founded: 2018
+founders: "Yakov Balahovsky"
 featured_image: "Vivax bio logo.png"
 website: http://www.vivaxbio.com/
 linkedin: 

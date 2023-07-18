@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Ulitsa Kalinina</span><br>
-<span class="locality">Maloyaroslavets</span><br>
-<span class="postal-code">249096</span><br>
-<span class="country">Russia</span></p>]
+country: "Russia"
+country_code: RU
+city: "Maloyaroslavets"
+founded: 
+founders: ""
 featured_image: "Greenwise logo2.png"
 website: https://en.greenwise.ru/
 linkedin: 

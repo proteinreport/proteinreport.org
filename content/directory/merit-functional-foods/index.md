@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Main Street</span><br>
-<span class="locality">Winnipeg</span> <span class="postal-code">R3C 4T3</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Winnipeg"
+founded: 2019
+founders: "Ryan Bracken, Barry Tomiski"
 featured_image: "Merit_Logo_Full-Color_highres.jpg"
 website: https://www.meritfoods.com/
 linkedin: https://www.linkedin.com/company/merit-functional-foods

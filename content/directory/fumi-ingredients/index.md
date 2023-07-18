@@ -8,9 +8,11 @@ proteins: [Microbial, Algae]
 products: [Eggs]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">Wageningen</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Wageningen"
+founded: 2019
+founders: "Edgar Suarez Garcia, Corjan Van den Berg"
 featured_image: "Fumi ingredients logo.png"
 website: https://www.fumiingredients.com/
 linkedin: https://www.linkedin.com/company/fumi-ingredients/

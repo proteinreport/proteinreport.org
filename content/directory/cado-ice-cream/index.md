@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East Broadway Avenue</span><br>
-<span class="locality">Fairfield</span>, <span class="postal-code">52556</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Fairfield"
+founded: 2015
+founders: ""
 featured_image: "cado icecream.jpg"
 website: http://cadoicecream.com/
 linkedin: 

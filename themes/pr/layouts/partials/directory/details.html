@@ -1,7 +1,7 @@
-<div class="w-full flex flex-row flex-wrap divide-x-2 pb-2">
-  <div class="flex flex-col md:w-1/3">
+<div class="w-full grid grid-cols-2 md:grid-cols-3 gap-4 pb-2">
+  <div class="flex flex-col w-full">
     {{ if .Params.proteins -}}
-      <h3 class="text-xl text-medium border-b-2">Protein:</h3>
+      <h3 class="text-xl text-medium border-b-2">Protein</h3>
       <div class="flex flex-row flex-wrap gap-2 pt-2">
         {{ range $index, $proteins := .Params.proteins -}}
         <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
@@ -9,55 +9,45 @@
       </div>
     {{ end -}}
   </div>
-  <div class="flex flex-col md:w-1/3">
+  <div class="flex flex-col w-full">
     {{ if .Params.products -}}
-      <h3 class="text-xl text-medium border-b-2 pl-2">Products:</h3>
-      <div class="flex flex-row flex-wrap gap-2 pt-2 pl-2">
-        {{ range $index, $products := .Params.products -}}
-          <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
-        {{ end -}}
-      </div>
-    {{ end -}}
-  </div>
-  <div class="flex flex-col md:w-1/3">
-    {{ if .Params.regions -}}
-      <h3 class="text-xl text-medium border-b-2 pl-2">Region:</h3>
-      <div class="flex flex-row flex-wrap gap-2 pt-2 pl-2">
-        {{ range $index, $regions := .Params.regions -}}
-          <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
-        {{ end -}}
-      </div>
-    {{ end -}}
-  </div>
-</div>
-<div class="w-full flex flex-row flex-wrap divide-x-2 pb-2">
-  <div class="flex flex-col md:w-1/3">
-    {{ if .Params.proteins -}}
-      <h3 class="text-xl text-medium border-b-2">Protein:</h3>
+      <h3 class="text-xl text-medium border-b-2">Products</h3>
       <div class="flex flex-row flex-wrap gap-2 pt-2">
-        {{ range $index, $proteins := .Params.proteins -}}
-        <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
-      {{ end -}}
-      </div>
-    {{ end -}}
-  </div>
-  <div class="flex flex-col md:w-1/3">
-    {{ if .Params.products -}}
-      <h3 class="text-xl text-medium border-b-2 pl-2">Products:</h3>
-      <div class="flex flex-row flex-wrap gap-2 pt-2 pl-2">
         {{ range $index, $products := .Params.products -}}
           <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
         {{ end -}}
       </div>
     {{ end -}}
   </div>
-  <div class="flex flex-col md:w-1/3">
-    {{ if .Params.regions -}}
-      <h3 class="text-xl text-medium border-b-2 pl-2">Region:</h3>
-      <div class="flex flex-row flex-wrap gap-2 pt-2 pl-2">
-        {{ range $index, $regions := .Params.regions -}}
+  <div class="flex flex-col w-full">
+    {{ if .Params.business -}}
+      <h3 class="text-xl text-medium border-b-2">Business</h3>
+      <div class="flex flex-row flex-wrap gap-2 pt-2">
+        {{ range $index, $business := .Params.business -}}
           <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
         {{ end -}}
+      </div>
+    {{ end -}}
+  </div>
+  <div class="flex flex-col w-full">
+    <h3 class="text-xl text-medium border-b-2">Location</h3>
+    <div class="flex flex-row flex-wrap gap-2 pt-2">
+      <p class="">{{ if .Params.city -}}{{ .Params.city }}, {{ end -}}{{ if .Params.country -}}{{ .Params.country }}{{ end -}}</p>
+    </div>
+  </div>
+  <div class="flex flex-col w-full">
+    {{ if .Params.founded -}}
+      <h3 class="text-xl text-medium border-b-2">Founded</h3>
+      <div class="flex flex-row flex-wrap gap-2 pt-2">
+          <p class="">{{ .Params.founded }}</p>
+      </div>
+    {{ end -}}
+  </div>
+  <div class="flex flex-col w-full">
+    {{ if .Params.founders -}}
+      <h3 class="text-xl text-medium border-b-2">Founders</h3>
+      <div class="flex flex-row flex-wrap gap-2 pt-2">
+        <p class="">{{ .Params.founders }}</p>
       </div>
     {{ end -}}
   </div>

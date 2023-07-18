@@ -8,10 +8,11 @@ proteins: [Microbial, Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Science Park Road</span><br>
-<span class="postal-code">117610</span><br>
-<span class="country">Singapore</span></p>]
+country: "Singapore"
+country_code: SG
+city: "Singapore"
+founded: 2017
+founders: "Eugene Wang, Kirin Tsuei, Barnabas Chan"
 featured_image: "lg-sophie-biox2.png"
 website: https://sophiesbionutrients.com/
 linkedin: https://www.linkedin.com/company/sophie-s-bionutrients

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">South Arthur Avenue</span><br>
-<span class="locality">Louisville</span>, <span class="postal-code">80027</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Louisville"
+founded: 2014
+founders: "Jeremy Day, Alexandra Carone"
 featured_image: "The honest stand logo.png"
 website: http://www.thehoneststand.com/
 linkedin: 

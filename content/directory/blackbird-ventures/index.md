@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Albion Street</span><br>
-<span class="locality">Surry Hills</span> <span class="postal-code">2010</span><br>
-<span class="country">Australia</span></p>]
+country: "Australia"
+country_code: AU
+city: "Surry Hills"
+founded: 2012
+founders: "Bill Bartee, Larry Marshall, Niki Scevak, Richard Baker"
 featured_image: "blackbird.png"
 website: https://blackbird.vc/
 linkedin: https://www.linkedin.com/company/blackbirdvc/

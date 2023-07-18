@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Ceely Road</span><br>
-<span class="locality">Aylesbury</span><br>
-<span class="postal-code">HP21 8JA</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Aylesbury"
+founded: 
+founders: ""
 featured_image: "The coconut cow.png"
 website: https://www.thecoconutcow.com/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">HaKidma Street</span><br>
-<span class="locality">Yokne'am Illit</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Yokne'am Illit"
+founded: 2013
+founders: "Boaz Noy, Tzafra Cohen"
 featured_image: "NextFerm logo.png"
 website: https://www.nextferm.com/
 linkedin: 

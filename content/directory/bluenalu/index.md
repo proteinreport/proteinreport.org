@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Cornerstone Court East</span><br>
-<span class="locality">San Diego</span>, <span class="postal-code">92121</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Diego"
+founded: 2017
+founders: "Lou Cooperhouse, Chris Somogyi, Chris Dammann"
 featured_image: "BlueNalu_Logo_Long_Transparent_FNL_Long+Logo (1).png"
 website: https://www.bluenalu.com/
 linkedin: https://www.linkedin.com/company/bluenalu

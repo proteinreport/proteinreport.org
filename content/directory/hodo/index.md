@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Eggs]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Adeline Street</span><br>
-<span class="locality">Oakland</span>, <span class="postal-code">94608</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Oakland"
+founded: 2006
+founders: "John Notz, Minh Tsai"
 featured_image: "HodoFoods-Logo-Filled-1218x728.png"
 website: http://hodosoy.com/
 linkedin: 

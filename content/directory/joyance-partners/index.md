@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">London</span><br>
-<span class="postal-code">of Freedom#8573311~!#</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 2017
+founders: "William Lohse"
 featured_image: "JoyanceLogos-03.png"
 website: https://www.joyancepartners.com/
 linkedin: https://www.linkedin.com/company/joyance-partners/

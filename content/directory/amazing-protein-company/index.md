@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Chestnut Street</span><br>
-<span class="locality">Santa Cruz</span>, <span class="postal-code">95060</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Santa Cruz"
+founded: 
+founders: ""
 featured_image: "Lovelika logo.png"
 website: https://lovelika.com/
 linkedin: 

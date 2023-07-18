@@ -8,11 +8,11 @@ proteins: [Fungi]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Brompton Road 220</span><br>
-<span class="locality">London</span><br>
-<span class="postal-code">SW3 2BB</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 2022
+founders: "Pierre Dupuis"
 featured_image: "Adamo logo - transparent.png"
 website: https://www.adamofoods.com/
 linkedin: https://www.linkedin.com/company/adamo-foods

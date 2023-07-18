@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Kalyan - Bhiwandi Road</span><br>
-<span class="locality">Kongaon</span> <span class="postal-code">421302</span><br>
-<span class="country">India</span></p>]
+country: "India"
+country_code: IN
+city: "Kongaon"
+founded: 2017
+founders: "Nihal Singh, Shubhankar Takle"
 featured_image: "logo.jpg"
 website: https://www.myoworks.in/
 linkedin: https://www.linkedin.com/company/myoworkspvtltd/about/

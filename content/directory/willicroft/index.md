@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Spiegelgracht</span><br>
-<span class="postal-code">1017 JS</span> <span class="locality">Amsterdam</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Amsterdam"
+founded: 2018
+founders: "Brad Vanstone"
 featured_image: "willicroft.jpg"
 website: https://willicroft.com/
 linkedin: https://www.linkedin.com/company/plantbasecheese/

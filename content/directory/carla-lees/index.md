@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">San Miguel Drive</span><br>
-<span class="locality">Newport Beach</span>, <span class="postal-code">92660</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Newport Beach"
+founded: 2013
+founders: "Carla Lee"
 featured_image: "Carla Lee's nutburgers.png"
 website: https://nutburgers.com
 linkedin: 

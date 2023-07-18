@@ -8,10 +8,11 @@ proteins: [Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Vandværksvej 12</span><br>
-<span class="postal-code">9800</span> <span class="locality">Hjørring</span><br>
-<span class="country">Denmark</span></p>]
+country: "Denmark"
+country_code: DK
+city: "Hjørring"
+founded: 2016
+founders: "David Erlandsson"
 featured_image: "Aliga_logo_mail_NY_4.jpg"
 website: https://www.aliga.dk/
 linkedin: https://www.linkedin.com/company/aliga-microalgae

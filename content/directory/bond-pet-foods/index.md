@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Meat, Pet Food]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">19th Street</span><br>
-<span class="locality">Boulder</span>, <span class="postal-code">80302</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Boulder"
+founded: 2015
+founders: "Rich Kelleman, Pernilla Turner Audibert"
 featured_image: "bond pets.png"
 website: https://www.bondpets.com/
 linkedin: https://www.linkedin.com/company/bondpetsllc/

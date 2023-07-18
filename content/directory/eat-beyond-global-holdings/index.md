@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Robson Street</span><br>
-<span class="locality">Vancouver</span> <span class="postal-code">V6Z 2E7</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Vancouver"
+founded: 2020
+founders: "Don Robinson, Patrick Morris"
 featured_image: "EB_logo.jpg"
 website: https://eatbeyondglobal.com/
 linkedin: https://www.linkedin.com/company/eat-beyond-global-holdings

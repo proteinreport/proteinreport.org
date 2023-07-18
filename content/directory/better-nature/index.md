@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="locality">London</span><br>
-<span class="postal-code">of Freedom#8573311~!#</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 2018
+founders: "Christopher Kong, Amadeus Driando Ahnan, Fabio Rinaldo, Elin Roberts"
 featured_image: "bn.jpg"
 website: https://www.betternaturetempeh.co/
 linkedin: https://www.linkedin.com/company/betternature

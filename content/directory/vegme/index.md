@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Eggs]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Gustav Adolfs torg</span><br>
-<span class="postal-code">111 52</span> <span class="locality">Stockholm</span><br>
-<span class="country">Sweden</span></p>]
+country: "Sweden"
+country_code: SE
+city: "Stockholm"
+founded: 2014
+founders: ""
 featured_image: "VegMe logo.png"
 website: http://www.vegme.se/
 linkedin: 

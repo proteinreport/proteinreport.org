@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East Colfax Avenue</span><br>
-<span class="locality">Denver</span>, <span class="postal-code">80220</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Denver"
+founded: 
+founders: ""
 featured_image: "nuggs logo.jpg"
 website: https://eatnuggs.com/
 linkedin: 

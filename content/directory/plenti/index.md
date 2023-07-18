@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Cuneraweg</span><br>
-<span class="postal-code">4051 CE</span> <span class="locality">Ochten</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Ochten"
+founded: 2009
+founders: ""
 featured_image: "Plenti_logo.png"
 website: http://plenti.eu/
 linkedin: 

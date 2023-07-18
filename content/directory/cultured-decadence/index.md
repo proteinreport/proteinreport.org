@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Madison</span>, <span class="postal-code">53715</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Madison"
+founded: 2020
+founders: "John Pattison, Ian Johnson"
 featured_image: "_DDfmz_V_400x400.jpg"
 website: https://www.cultureddecadence.com/
 linkedin: https://www.linkedin.com/company/cultured-decadence

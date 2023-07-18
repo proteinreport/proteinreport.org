@@ -8,11 +8,11 @@ proteins: [Cell-Based]
 products: [Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Neville Street</span><br>
-<span class="locality">Newcastle upon Tyne</span><br>
-<span class="postal-code">NE1 5DP</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Newcastle upon Tyne"
+founded: 2019
+founders: "Leo Groenewegen, Martina Niotto, Che Cannon"
 featured_image: "1653034072700.jpg"
 website: https://www.cellrev.co.uk/
 linkedin: https://www.linkedin.com/company/cellrev/

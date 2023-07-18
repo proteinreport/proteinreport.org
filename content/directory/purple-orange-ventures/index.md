@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Schönhauser Allee</span><br>
-<span class="postal-code">10119</span> <span class="locality">Berlin</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Berlin"
+founded: 2012
+founders: "Gary Lin"
 featured_image: "POV+logo+light.png"
 website: https://www.purpleorange.com/
 linkedin: https://www.linkedin.com/company/purpleorange

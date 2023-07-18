@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Philadelphia</span>,<br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Philadelphia"
+founded: 2019
+founders: "Andrew Pelling, Orkan Telhan, Grace Knight"
 featured_image: "ouro chef logo-150x150.png"
 website: https://www.ourochef.com/
 linkedin: 

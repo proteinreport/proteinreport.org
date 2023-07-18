@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Crossroads Drive</span><br>
-<span class="locality">Redding</span>, <span class="postal-code">96003</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Redding"
+founded: 
+founders: ""
 featured_image: "all Y'alls logo.png"
 website: https://itsjerkyyall.com/
 linkedin: 

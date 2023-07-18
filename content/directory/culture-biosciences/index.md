@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East Grand Avenue</span><br>
-<span class="locality">South San Francisco</span>, <span class="postal-code">94080</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "South San Francisco"
+founded: 2016
+founders: "Will Patrick, Matt Ball"
 featured_image: "culture biosciences logo.png"
 website: https://www.culturebiosciences.com/
 linkedin: 

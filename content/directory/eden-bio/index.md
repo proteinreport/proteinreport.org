@@ -8,11 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Research]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Wood Lane 58</span><br>
-<span class="locality">London</span><br>
-<span class="postal-code">W12 7RZ</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 2022
+founders: "Christopher Reynolds"
 featured_image: "edenbio.png"
 website: https://eden.bio/
 linkedin: https://www.linkedin.com/company/eden-bio-ltd

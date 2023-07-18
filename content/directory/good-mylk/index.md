@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">4th C Main Road</span><br>
-<span class="locality">Bengaluru</span> <span class="postal-code">560043</span><br>
-<span class="country">India</span></p>]
+country: "India"
+country_code: IN
+city: "Bengaluru"
+founded: 
+founders: ""
 featured_image: "Good mylk logo.png"
 website: https://goodmylk.in/
 linkedin: 

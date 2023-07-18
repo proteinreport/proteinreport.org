@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="address-line1">Victoria Street</span><br>
-<span class="locality">North Melbourne</span> <span class="postal-code">3051</span><br>
-<span class="country">Australia</span></p>]
+country: "Australia"
+country_code: AU
+city: "North Melbourne"
+founded: 2017
+founders: "Thomas King"
 featured_image: "fflogo.png"
 website: https://www.foodfrontier.org/
 linkedin: https://www.linkedin.com/company/foodfrontier

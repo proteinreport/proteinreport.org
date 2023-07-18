@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Smedevænget</span><br>
-<span class="postal-code">8920</span> <span class="locality">Randers</span><br>
-<span class="country">Denmark</span></p>]
+country: "Denmark"
+country_code: DK
+city: "Randers"
+founded: 1988
+founders: ""
 featured_image: "logo-blue.png"
 website: https://www.naturli-foods.com/
 linkedin: https://www.linkedin.com/company/naturli-foods

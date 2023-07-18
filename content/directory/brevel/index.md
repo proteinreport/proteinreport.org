@@ -8,9 +8,11 @@ proteins: [Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="locality">Lachish</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Lachish"
+founded: 2017
+founders: "Yonatan Golan, Ido Golan, Matan Golan"
 featured_image: "Brevel-LOGO.png"
 website: https://brevel.co.il/
 linkedin: https://www.linkedin.com/company/brevel

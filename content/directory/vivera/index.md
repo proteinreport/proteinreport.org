@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Seafood]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Handelsweg</span><br>
-<span class="postal-code">7451 PJ</span> <span class="locality">Holten</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Holten"
+founded: 1990
+founders: ""
 featured_image: "vivera.png"
 website: https://vivera.com/
 linkedin: https://www.linkedin.com/company/vivera-b-v-

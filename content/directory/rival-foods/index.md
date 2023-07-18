@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Nieuwe Kazernelaan</span><br>
-<span class="postal-code">6711 JC</span> <span class="locality">Ede</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Ede"
+founded: 2019
+founders: "Birgit Dekkers, Ernst Bree"
 featured_image: "Rival foods logo.jpg"
 website: https://rival-foods.com/
 linkedin: https://www.linkedin.com/company/rival-foods/

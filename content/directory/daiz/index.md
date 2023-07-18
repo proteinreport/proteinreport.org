@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="locality">Kumamoto</span>,<br>
-<span class="postal-code">860-0812</span><br>
-<span class="country">Japan</span></p>]
+country: "Japan"
+country_code: JP
+city: "Kumamoto"
+founded: 
+founders: ""
 featured_image: "daiz.png"
 website: https://www.daiz.inc/
 linkedin: 

@@ -8,9 +8,11 @@ proteins: [Cell-Based, Molecular Farming]
 products: [Ingredients, Cell Culture Media]
 business: [Production]
 finance_type: []
-regions: [Europe, US & Canada]
-location: [<p class="address" translate="no"><span class="locality">Durham</span>, <span class="administrative-area">North Carolina</span> <span class="postal-code">27701</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Durham"
+founded: 2019
+founders: "France-Emmanuelle Adil, Clément Carlier"
 featured_image: "tiamat.jpg"
 website: https://www.tiamat-sciences.com/
 linkedin: https://www.linkedin.com/company/14069270

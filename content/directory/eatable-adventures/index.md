@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Accelerator]
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Calle Saturnino Calleja 16</span><br>
-<span class="postal-code">28002</span> <span class="locality">Madrid</span> <span class="administrative-area">Comunidad de Madrid</span><br>
-<span class="country">Spain</span></p>]
+country: "Spain"
+country_code: ES
+city: "Madrid"
+founded: 2015
+founders: "José Luis Cabañero"
 featured_image: "ea.png"
 website: https://eatableadventures.com/
 linkedin: https://www.linkedin.com/company/eatable-adventures

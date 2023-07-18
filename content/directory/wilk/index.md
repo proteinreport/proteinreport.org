@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">Bnei Moshe Street</span><br>
-<span class="locality">Rehovot</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Rehovot"
+founded: 2018
+founders: "Arik Kaufman, Yaron Kaiser"
 featured_image: "Logo white_0.jpg"
 website: https://wilkismilk.com/
 linkedin: https://www.linkedin.com/company/wilkismilk

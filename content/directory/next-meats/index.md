@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="locality">Chiyoda City</span>,<br>
-<span class="postal-code">100-0005</span><br>
-<span class="country">Japan</span></p>]
+country: "Japan"
+country_code: JP
+city: "Chiyoda City"
+founded: 2020
+founders: "Hideyuki Sasaki"
 featured_image: "zmnwhypkb2y6jtg2r1rx.jpg"
 website: https://nextmeats.co.jp/
 linkedin: https://www.linkedin.com/company/next-meats-co-ltd/

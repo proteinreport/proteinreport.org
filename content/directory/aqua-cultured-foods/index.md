@@ -8,10 +8,11 @@ proteins: [Microbial, Fungi]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">South Federal Street 399-301</span><br>
-<span class="locality">Chicago</span>, <span class="administrative-area">Illinois</span> <span class="postal-code">60604</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Chicago"
+founded: 2021
+founders: "Anne Palermo, Brittany Chibe"
 featured_image: "Aqua Cultured Foods logo.png"
 website: https://www.aquaculturedfoods.com/
 linkedin: https://www.linkedin.com/company/aquacultured-foods

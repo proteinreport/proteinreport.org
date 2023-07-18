@@ -8,8 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean]
-location: [<p class="address" translate="no"><span class="country">Argentina</span></p>]
+country: "Argentina"
+country_code: AR
+city: ""
+founded: 2019
+founders: "Sofia Giampaoli"
 featured_image: "Cell Farm_0.png"
 website: https://cellfarmfoodtech.com/
 linkedin: 

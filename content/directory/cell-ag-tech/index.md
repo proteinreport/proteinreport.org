@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat, Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Kennedy Avenue</span><br>
-<span class="locality">Toronto</span> <span class="postal-code">M6R 2L2</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Toronto"
+founded: 2018
+founders: "Josh Pollack, Valentin Fulga"
 featured_image: "CAT Cell Ag Tech logo.jpg"
 website: https://cellagtech.com/
 linkedin: https://www.linkedin.com/company/cellagtech/

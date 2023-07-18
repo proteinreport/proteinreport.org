@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">West Mountain Street</span><br>
-<span class="locality">Glendale</span>, <span class="postal-code">91201</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Glendale"
+founded: 2015
+founders: "Loren Wallis, Cole Orobetz"
 featured_image: "Alpha foods logo.jpg"
 website: http://alphaplantbased.com/
 linkedin: 

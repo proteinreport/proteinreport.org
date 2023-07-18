@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [Middle East, US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">West Jackson Boulevard</span><br>
-<span class="locality">Chicago</span>, <span class="postal-code">60604</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Chicago"
+founded: 2017
+founders: "Michael Lavin"
 featured_image: "Germin8-logo-fnl-xlarge.jpg"
 website: http://germin8ventures.com/
 linkedin: https://www.linkedin.com/company/germin8-ventures

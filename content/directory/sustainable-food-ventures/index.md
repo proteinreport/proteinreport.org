@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East Institute Drive</span><br>
-<span class="locality">Durham</span>, <span class="postal-code">27703</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Durham"
+founded: 2020
+founders: "Mariliis Holm, Ryan Bethencourt"
 featured_image: "Sustainable.png"
 website: https://www.sustainablefoodventures.com/
 linkedin: https://www.linkedin.com/company/sustainable-food-ventures/

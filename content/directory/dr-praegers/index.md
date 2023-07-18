@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Boumar Place</span><br>
-<span class="locality">Elmwood Park</span>, <span class="postal-code">07407</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Elmwood Park"
+founded: 1992
+founders: "Peter Praeger, Eric Somberg"
 featured_image: "dr-praegers-logo.png"
 website: https://drpraegers.com/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Old Ferry Road</span><br>
-<span class="locality">Gwynn</span>, <span class="postal-code">23064</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Gwynn"
+founded: 2020
+founders: "Monica Talbert"
 featured_image: "VC_PBFC_logo_stacked_1000x_0.jpg"
 website: https://plantbasedseafoodco.com/
 linkedin: https://www.linkedin.com/company/the-plant-based-seafood-corp

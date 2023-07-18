@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">Ha-Prakhim Street</span><br>
-<span class="locality">Rishpon</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Rishpon"
+founded: 2013
+founders: ""
 featured_image: "InnovoPro-logo.png"
 website: https://innovopro.com/
 linkedin: https://www.linkedin.com/company/innovopro

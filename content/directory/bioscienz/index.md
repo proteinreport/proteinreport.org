@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Meat, Eggs]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Loopschansstraat</span><br>
-<span class="postal-code">4817 KW</span> <span class="locality">Breda</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Breda"
+founded: 2010
+founders: "Wim de Laat"
 featured_image: "BioscienZ logo.png"
 website: https://www.bioscienz.nl/foodproject1
 linkedin: 

@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">20th Street</span><br>
-<span class="locality">Vero Beach</span>, <span class="postal-code">32960</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Vero Beach"
+founded: 2017
+founders: ""
 featured_image: "ccc.png"
 website: https://clearcurrentcapital.com/
 linkedin: https://www.linkedin.com/company/clear-current-capital

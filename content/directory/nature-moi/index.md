@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="postal-code">44600</span> <span class="locality">Saint-Nazaire</span><br>
-<span class="country">France</span></p>]
+country: "France"
+country_code: FR
+city: "Saint-Nazaire"
+founded: 2015
+founders: "Bertrand Jouault"
 featured_image: "nature-et-moi logo.png"
 website: http://www.nature-moi.fr/
 linkedin: 

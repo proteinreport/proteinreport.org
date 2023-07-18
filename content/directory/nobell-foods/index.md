@@ -8,10 +8,11 @@ proteins: [Molecular Farming]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Shoreline Court</span><br>
-<span class="locality">South San Francisco</span>, <span class="postal-code">94080</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "South San Francisco"
+founded: 2016
+founders: "Magi Richani"
 featured_image: "ObOvG2ld_400x400.jpg"
 website: https://www.nobellfoods.com/
 linkedin: https://www.linkedin.com/company/nobellfoods

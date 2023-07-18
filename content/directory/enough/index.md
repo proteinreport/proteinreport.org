@@ -8,11 +8,11 @@ proteins: [Fungi]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">West George Street</span><br>
-<span class="locality">Glasgow</span><br>
-<span class="postal-code">G2 1PP</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Glasgow"
+founded: 2015
+founders: "Craig Johnson, David Ritchie, Jim Laird"
 featured_image: "1619696571057-1.jpg"
 website: https://www.enough-food.com/
 linkedin: https://www.linkedin.com/company/enough-food/

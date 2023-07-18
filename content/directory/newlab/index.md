@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Morris Avenue 19</span><br>
-<span class="administrative-area">New York</span> <span class="postal-code">11205</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: ""
+founded: 2016
+founders: ""
 featured_image: "newlab.jpg"
 website: https://newlab.com/
 linkedin: https://www.linkedin.com/company/newlabnyc

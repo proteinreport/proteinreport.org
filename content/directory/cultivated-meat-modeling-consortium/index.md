@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Research, Nonprofit]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Madison Street</span><br>
-<span class="locality">Seattle</span>, <span class="postal-code">98164</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Seattle"
+founded: 2019
+founders: ""
 featured_image: "cmmc.png"
 website: https://thecmmc.org/
 linkedin: https://www.linkedin.com/company/thecmmc

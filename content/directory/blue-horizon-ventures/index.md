@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Tödistrasse</span><br>
-<span class="postal-code">8002</span> <span class="locality">Zürich</span><br>
-<span class="country">Switzerland</span></p>]
+country: "Switzerland"
+country_code: CH
+city: "Zürich"
+founded: 2018
+founders: "Roger Lienhard, Michael Kleindl"
 featured_image: "bhv_logo-blue.png"
 website: https://www.bluehorizonventures.com/
 linkedin: https://www.linkedin.com/company/bluehorizonventures/

@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">North Claiborne Avenue</span><br>
-<span class="locality">New Orleans</span>, <span class="postal-code">70112</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "New Orleans"
+founded: 2020
+founders: "Corey Jones, Stephanie Dorsey"
 featured_image: "E2JDJ LOGO.jpg"
 website: https://www.e2jdj.com/
 linkedin: https://www.linkedin.com/company/e%C2%B2jdj/

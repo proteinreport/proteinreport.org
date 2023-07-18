@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [Asia, Oceania]
-location: [<p class="address" translate="no"><span class="locality">Mumbai</span> <span class="postal-code">400070</span><br>
-<span class="country">India</span></p>]
+country: "India"
+country_code: IN
+city: "Mumbai"
+founded: 2021
+founders: "Varun Gadodia, Shantanu Dhangar"
 featured_image: "seaspireimg.png"
 website: http://seaspire.in/
 linkedin: https://www.linkedin.com/company/seaspire/

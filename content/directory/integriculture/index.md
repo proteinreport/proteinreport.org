@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat, Ingredients, Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="locality">Shinjuku City</span>,<br>
-<span class="postal-code">162-0056</span><br>
-<span class="country">Japan</span></p>]
+country: "Japan"
+country_code: JP
+city: "Shinjuku City"
+founded: 2015
+founders: "Yuki Hanyu"
 featured_image: "Integriculture - logo.png"
 website: http://integriculture.jp/?lang=en
 linkedin: https://www.linkedin.com/company/integriculture/

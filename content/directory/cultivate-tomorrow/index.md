@@ -8,10 +8,11 @@ proteins: [Cell-Based, Microbial]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">City Hall Square 2</span><br>
-<span class="locality">Boston</span>, <span class="administrative-area">Massachusetts</span> <span class="postal-code">02203</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Boston"
+founded: 2021
+founders: "Jasmin Kern"
 featured_image: "ctlogo.jpg"
 website: https://www.cultivate-tmrw.com
 linkedin: https://www.linkedin.com/company/cultivate-tomorrow/

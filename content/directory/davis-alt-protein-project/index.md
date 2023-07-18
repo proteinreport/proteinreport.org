@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">3rd Street</span><br>
-<span class="locality">Davis</span>, <span class="postal-code">95616</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Davis"
+founded: 2020
+founders: ""
 featured_image: "dapp_0.png"
 website: https://aggielife.ucdavis.edu/organization/alt-protein-project
 linkedin: 

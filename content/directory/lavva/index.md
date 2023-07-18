@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Azalea Place Southeast</span><br>
-<span class="locality">Aiken</span>, <span class="postal-code">29801</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Aiken"
+founded: 2016
+founders: "Elizabeth Fisher"
 featured_image: "lavva logo.jpg"
 website: https://lovvelavva.com/
 linkedin: 

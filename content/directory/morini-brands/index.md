@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">West South Street</span><br>
-<span class="locality">Orlando</span>, <span class="postal-code">32801</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Orlando"
+founded: 1919
+founders: "Christopher Morini, Albert Morini"
 featured_image: "morini brands logo.png"
 website: https://www.morinibrands.com/
 linkedin: 

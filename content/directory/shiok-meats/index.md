@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Meat, Seafood]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Unnamed Road</span><br>
-<span class="country">Singapore</span></p>]
+country: "Singapore"
+country_code: SG
+city: "Singapore"
+founded: 2018
+founders: "Sandhya Sriram, Ka Yi Ling"
 featured_image: "Shiok.png"
 website: https://shiokmeats.com/
 linkedin: https://www.linkedin.com/company/shiokmeats/

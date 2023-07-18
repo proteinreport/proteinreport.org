@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Palmetto Street</span><br>
-<span class="locality">Los Angeles</span>, <span class="postal-code">90013</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Los Angeles"
+founded: 2010
+founders: "Greg Steltenpohl"
 featured_image: "califia-logo-brown_2x_.png"
 website: https://www.califiafarms.com/
 linkedin: 

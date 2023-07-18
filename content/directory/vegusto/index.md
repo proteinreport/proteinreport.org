@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Bahnhofstrasse</span><br>
-<span class="postal-code">9315</span> <span class="locality">Egnach</span><br>
-<span class="country">Switzerland</span></p>]
+country: "Switzerland"
+country_code: CH
+city: "Egnach"
+founded: 1997
+founders: ""
 featured_image: "Vegusto-Logo-300-dpi_copy_550x.png"
 website: https://www.vegusto.ch/en
 linkedin: 

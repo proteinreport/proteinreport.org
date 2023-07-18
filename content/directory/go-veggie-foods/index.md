@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Whitecap Drive</span><br>
-<span class="locality">North Kingstown</span>, <span class="postal-code">02852</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "North Kingstown"
+founded: 1980
+founders: ""
 featured_image: "Go Veggie logo.jpg"
 website: http://www.goveggiefoods.com/
 linkedin: 

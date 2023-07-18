@@ -8,9 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Oceania]
-location: [<p class="address" translate="no"><span class="locality">Maxwelton</span> <span class="postal-code">4822</span><br>
-<span class="country">Australia</span></p>]
+country: "Australia"
+country_code: AU
+city: "Maxwelton"
+founded: 2015
+founders: "Alejandro Cancino, Paola Moro"
 featured_image: "fenn-logo.png"
 website: http://fennfoods.com/
 linkedin: https://www.linkedin.com/company/fennfoods-limited

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Agiou Dimitriou</span><br>
-<span class="postal-code">546 31</span> <span class="locality">Thessaloniki</span><br>
-<span class="country">Greece</span></p>]
+country: "Greece"
+country_code: GR
+city: "Thessaloniki"
+founded: 
+founders: ""
 featured_image: "violife.jpg"
 website: https://violifefoods.com
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Cell-Based, Plant-Based, Microbial, Fungi]
 products: [Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Bothoekweg</span><br>
-<span class="postal-code">7115 AK</span> <span class="locality">Winterswijk Brinkheurne</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Winterswijk Brinkheurne"
+founded: 2015
+founders: "Nico Oosterhuis"
 featured_image: "celltrainer-logo.png"
 website: https://celltainer.com/
 linkedin: https://www.linkedin.com/company/celltainer.com

@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">South Wilmington Street</span><br>
-<span class="locality">Raleigh</span>, <span class="postal-code">27601</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Raleigh"
+founded: 2020
+founders: "Stephanie Michelsen, Kylie Hesp"
 featured_image: "1603305692988.jpg"
 website: https://www.jellatech.com/
 linkedin: https://www.linkedin.com/company/jellatech/

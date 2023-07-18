@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Wilshire Boulevard</span><br>
-<span class="locality">Los Angeles</span>, <span class="postal-code">90025</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Los Angeles"
+founded: 2016
+founders: "Sarah Bonham"
 featured_image: "Perennial logo.png"
 website: https://liveperennial.com/
 linkedin: 

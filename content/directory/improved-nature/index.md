@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Vandora Springs Road</span><br>
-<span class="locality">Garner</span>, <span class="postal-code">27529</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Garner"
+founded: 2015
+founders: "Rody Hawkins"
 featured_image: "logo_improvedNature_R.png"
 website: https://www.improvednature.com/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Northlake Boulevard</span><br>
-<span class="locality">Palm Beach Gardens</span>, <span class="postal-code">33403</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Palm Beach Gardens"
+founded: 
+founders: "Fabian Breisinger, Nicole Breisinger, Oliver Schnekmann"
 featured_image: "sunflower family logo.jpg"
 website: https://www.sunflowerfamily.us/
 linkedin: 

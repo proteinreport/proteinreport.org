@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Avenida Encinas</span><br>
-<span class="locality">Carlsbad</span>, <span class="postal-code">92008</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Carlsbad"
+founded: 2009
+founders: "Janie Hoffman"
 featured_image: "Mamma-Chia-Full-logo-LG.jpg"
 website: https://www.mammachia.com/
 linkedin: https://www.linkedin.com/company/mamma-chia

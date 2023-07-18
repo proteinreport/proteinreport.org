@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Massachusetts Avenue</span><br>
-<span class="locality">Cambridge</span>, <span class="postal-code">02138</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Cambridge"
+founded: 2011
+founders: "Gregory Stephanopoulos, Ajikumar Parayil"
 featured_image: "Manus Bio logo.png"
 website: http://www.manusbio.com/what-we-do.php
 linkedin: https://in.linkedin.com/company/manus-biosynthesis

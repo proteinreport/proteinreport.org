@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: []
 business: [Nonprofit]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Rue de Rivoli</span><br>
-<span class="postal-code">75004</span> <span class="locality">Paris</span><br>
-<span class="country">France</span></p>]
+country: "France"
+country_code: FR
+city: "Paris"
+founded: 2019
+founders: ""
 featured_image: "new logo.PNG"
 website: https://agriculturecellulaire.fr
 linkedin: https://www.linkedin.com/company/37835209/

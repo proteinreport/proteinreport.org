@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat, Seafood]
 business: [Production]
 finance_type: []
-regions: [Latin America & Caribbean]
-location: [<p class="address" translate="no"><span class="address-line1">Parque Dom Pedro II</span><br>
-<span class="postal-code">01022-050</span><br>
-<span class="country">Brazil</span></p>]
+country: "Brazil"
+country_code: BR
+city: ""
+founded: 2019
+founders: "Bruno Fonseca, Mariana Nakaie, Nessim Abadi"
 featured_image: "Logo-1.png"
 website: https://thenewfoods.com.br/
 linkedin: https://www.linkedin.com/company/thenewfoods/

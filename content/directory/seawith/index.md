@@ -8,10 +8,11 @@ proteins: [Cell-Based, Algae]
 products: [Meat, Cell Culture Media, Scaffolding & Structure]
 business: [Production]
 finance_type: []
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="locality">Muju</span><br>
-<span class="postal-code">568-810</span><br>
-<span class="country">South Korea</span></p>]
+country: "South Korea"
+country_code: KR
+city: "Muju"
+founded: 
+founders: "Joonho Keum"
 featured_image: "logo.png"
 website: http://seawith.net/en/index.html
 linkedin: https://www.linkedin.com/company/seawith-inc/about/

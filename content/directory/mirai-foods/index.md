@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Einsiedlerstrasse</span><br>
-<span class="postal-code">8820</span> <span class="locality">Wädenswil</span><br>
-<span class="country">Switzerland</span></p>]
+country: "Switzerland"
+country_code: CH
+city: "Wädenswil"
+founded: 2019
+founders: "Christoph Mayr"
 featured_image: "mirai logo.jpg"
 website: https://www.miraifoods.com/
 linkedin: https://www.linkedin.com/company/miraifoods/about/

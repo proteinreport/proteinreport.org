@@ -8,9 +8,11 @@ proteins: [Microbial]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="postal-code">00100</span> <span class="locality">Helsinki</span><br>
-<span class="country">Finland</span></p>]
+country: "Finland"
+country_code: FI
+city: "Helsinki"
+founded: 2017
+founders: "Pasi Vainikk, Juha-Pekka Pitkanen"
 featured_image: "Solar Foods logo.png"
 website: https://solarfoods.fi/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Eggs, Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Tower Place</span><br>
-<span class="locality">South San Francisco</span>, <span class="postal-code">94080</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "South San Francisco"
+founded: 2014
+founders: "Arturo Elizondo, David Anchel"
 featured_image: "EVERY_LOGO_BLACK_0.png"
 website: https://www.theeverycompany.com/
 linkedin: https://www.linkedin.com/company/clara-foods/

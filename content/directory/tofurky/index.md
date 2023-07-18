@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Industrial Street</span><br>
-<span class="locality">Hood River</span>, <span class="postal-code">97031</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Hood River"
+founded: 1980
+founders: "Seth Tibbot"
 featured_image: "tofurky-logo-e1516381934369.jpeg"
 website: http://www.tofurky.com/
 linkedin: 

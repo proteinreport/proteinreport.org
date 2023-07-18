@@ -8,10 +8,11 @@ proteins: [Algae]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Rue Pierre Fontaine</span><br>
-<span class="postal-code">91000</span> <span class="locality">Évry</span><br>
-<span class="country">France</span></p>]
+country: "France"
+country_code: FR
+city: "Évry"
+founded: 2013
+founders: "Alvyn Severien, Gaëtan Gohin"
 featured_image: "algama.png"
 website: https://algamafoods.com/
 linkedin: https://www.linkedin.com/company/algama

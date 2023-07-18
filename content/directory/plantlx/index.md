@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Research]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">B2</span><br>
-<span class="postal-code">10178</span> <span class="locality">Berlin</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Berlin"
+founded: 2017
+founders: "Arndt Grossmann, Karim Hamdi"
 featured_image: "PlantLX-winning-logo-design-e1503494794204.jpeg"
 website: http://plantlx.com/
 linkedin: https://www.linkedin.com/company/plantlx/

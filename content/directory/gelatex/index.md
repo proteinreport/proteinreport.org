@@ -8,9 +8,11 @@ proteins: [Cell-Based]
 products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="postal-code">10111</span> <span class="locality">Kesklinna</span><br>
-<span class="country">Estonia</span></p>]
+country: "Estonia"
+country_code: EE
+city: "Kesklinna"
+founded: 2016
+founders: "Mari-Ann Meigo Fonseca, Märt-Erik Martens"
 featured_image: "2578462_original.jpg"
 website: https://www.gelatex.com/
 linkedin: https://www.linkedin.com/company/gelatex/

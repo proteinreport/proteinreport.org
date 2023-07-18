@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Passatge de Gaiolà</span><br>
-<span class="postal-code">08013</span> <span class="locality">Barcelona</span><br>
-<span class="country">Spain</span></p>]
+country: "Spain"
+country_code: ES
+city: "Barcelona"
+founded: 2017
+founders: "Marc Coloma"
 featured_image: "heura logo.png"
 website: https://www.heurafoods.com/
 linkedin: https://www.linkedin.com/company/heura-foods/

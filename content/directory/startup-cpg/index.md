@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Accelerator]
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">U.S. 101</span><br>
-<span class="locality">San Francisco</span>, <span class="postal-code">94103</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "San Francisco"
+founded: 2019
+founders: "Daniel Scharff"
 featured_image: "startupcpg.jpg"
 website: https://startupcpg.com/
 linkedin: https://www.linkedin.com/company/startupcpg/

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Gravenstein Highway North</span><br>
-<span class="locality">Sebastopol</span>, <span class="postal-code">95472</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Sebastopol"
+founded: 2010
+founders: "Eugene Wang"
 featured_image: "Sophie's Kitchen.png"
 website: http://sophieskitchen.com/
 linkedin: 

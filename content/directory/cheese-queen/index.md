@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">bulevard &quot;Vitosha&quot;</span><br>
-<span class="postal-code">1408</span> <span class="locality">Sofia</span><br>
-<span class="country">Bulgaria</span></p>]
+country: "Bulgaria"
+country_code: BG
+city: "Sofia"
+founded: 2017
+founders: "Vera Tinkova, Hristina Tancheva, Boyan Tanchev"
 featured_image: "cheese the queen logo.png"
 website: http://cheesethequeen.com/en/
 linkedin: 

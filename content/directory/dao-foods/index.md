@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital, Incubator]
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Spadina Avenue</span><br>
-<span class="locality">Toronto</span> <span class="postal-code">M5T 2G6</span><br>
-<span class="country">Canada</span></p>]
+country: "Canada"
+country_code: CA
+city: "Toronto"
+founded: 2017
+founders: "Albert Tseng, Tao Zhang"
 featured_image: "dao foods logo.png"
 website: https://www.daofoods.com/
 linkedin: 

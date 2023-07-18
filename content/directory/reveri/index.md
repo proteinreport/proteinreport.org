@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East De La Guerra Street</span><br>
-<span class="locality">Santa Barbara</span>, <span class="postal-code">93101</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Santa Barbara"
+founded: 2017
+founders: "Karen Waddell"
 featured_image: "reveriLogo-pink_onTransp.png"
 website: https://www.reveri.com/
 linkedin: 

@@ -8,9 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Wang Yuen Street</span><br>
-<span class="country">Hong Kong SAR China</span></p>]
+country: "Hong Kong SAR China"
+country_code: HK
+city: ""
+founded: 2012
+founders: "David Yeung"
 featured_image: "green-monday-logo-2.png"
 website: https://greenmonday.org/en/ventures/
 linkedin: https://www.linkedin.com/company/green-monday-official

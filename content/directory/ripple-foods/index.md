@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Gilman Street</span><br>
-<span class="locality">Berkeley</span>, <span class="postal-code">94710</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Berkeley"
+founded: 2014
+founders: "Adam Lowry, Neil Renninger"
 featured_image: "ripple-logo-568x320.jpg"
 website: https://www.ripplefoods.com/
 linkedin: 

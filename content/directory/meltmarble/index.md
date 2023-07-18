@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Burggrevegatan 2</span><br>
-<span class="postal-code">411 03</span> <span class="locality">Göteborg</span><br>
-<span class="country">Sweden</span></p>]
+country: "Sweden"
+country_code: SE
+city: "Göteborg"
+founded: 2014
+founders: "Anastasia Krivoruchko, Florian David, Jens Nielsen"
 featured_image: "mm.png"
 website: https://www.meltandmarble.com/
 linkedin: https://www.linkedin.com/company/meltandmarble

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Sunset Boulevard</span><br>
-<span class="locality">Los Angeles</span>, <span class="postal-code">90046</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Los Angeles"
+founded: 2009
+founders: "Youssef Fahouri"
 featured_image: "Vromage logo.png"
 website: https://www.vromage.com
 linkedin: 

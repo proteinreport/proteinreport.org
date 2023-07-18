@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Georgiou 'A</span><br>
-<span class="locality">Limassol</span><br>
-<span class="country">Cyprus</span></p>]
+country: "Cyprus"
+country_code: CY
+city: "Limassol"
+founded: 
+founders: ""
 featured_image: "Green Vie logo.png"
 website: http://www.greenviefoods.com/
 linkedin: 

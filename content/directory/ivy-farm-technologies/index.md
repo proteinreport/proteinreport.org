@@ -8,11 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Cornmarket Street</span><br>
-<span class="locality">Oxford</span><br>
-<span class="postal-code">OX1</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "Oxford"
+founded: 2019
+founders: "Cathy Ye, Russ Tucker"
 featured_image: "1621008975071.jpg"
 website: http://www.ivy.farm
 linkedin: https://www.linkedin.com/company/ivyfarm/about/

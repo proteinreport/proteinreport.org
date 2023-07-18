@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Staverenstraat</span><br>
-<span class="postal-code">7418 CJ</span> <span class="locality">Deventer</span><br>
-<span class="country">Netherlands</span></p>]
+country: "Netherlands"
+country_code: NL
+city: "Deventer"
+founded: 
+founders: ""
 featured_image: "Vegafit logo.png"
 website: https://vegafit.com/products/
 linkedin: 

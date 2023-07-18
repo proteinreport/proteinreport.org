@@ -8,11 +8,11 @@ proteins: [Plant-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Africa]
-location: [<p class="address" translate="no"><span class="address-line1">Machine Street</span><br>
-<span class="locality">Germiston</span><br>
-<span class="postal-code">1407</span><br>
-<span class="country">South Africa</span></p>]
+country: "South Africa"
+country_code: ZA
+city: "Germiston"
+founded: 2020
+founders: "Feinschmecker Deli Meats"
 featured_image: "Gudness-Logo.png"
 website: https://gudness.co.za/
 linkedin: 

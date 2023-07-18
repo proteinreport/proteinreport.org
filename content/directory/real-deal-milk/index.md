@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">Ronda de Sant Pere 16</span><br>
-<span class="postal-code">08010</span> <span class="locality">Barcelona</span> <span class="administrative-area">Catalunya</span><br>
-<span class="country">Spain</span></p>]
+country: "Spain"
+country_code: ES
+city: "Barcelona"
+founded: 2021
+founders: "Zoltan Toth-Czifra"
 featured_image: "blue-transparent-logo.png"
 website: https://www.realdealmilk.com/
 linkedin: https://www.linkedin.com/company/real-deal-milk

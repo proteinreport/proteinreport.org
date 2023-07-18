@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Ingredients, Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">East Roanoke Street</span><br>
-<span class="locality">Seattle</span>, <span class="postal-code">98112</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Seattle"
+founded: 2013
+founders: "Simon Kahan"
 featured_image: "biocellion logo.png"
 website: https://biocellion.com/
 linkedin: https://www.linkedin.com/company/biocellion-spc

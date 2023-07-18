@@ -8,10 +8,11 @@ proteins: [Algae]
 products: [Ingredients, Feed]
 business: [Research, Nonprofit]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">BV-1424</span><br>
-<span class="postal-code">08140</span> <span class="locality">Caldes de Montbui</span><br>
-<span class="country">Spain</span></p>]
+country: "Spain"
+country_code: ES
+city: "Caldes de Montbui"
+founded: 2019
+founders: "EU Horizon"
 featured_image: "profuture.jpg"
 website: https://www.pro-future.eu/
 linkedin: https://www.linkedin.com/groups/8984763/

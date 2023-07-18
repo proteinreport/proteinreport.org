@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Martin Luther King Junior Way</span><br>
-<span class="locality">Berkeley</span>, <span class="postal-code">94704</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Berkeley"
+founded: 2019
+founders: "Aylon Steinhart"
 featured_image: "eclipse.jpg"
 website: https://www.eclipsefoods.com/
 linkedin: 

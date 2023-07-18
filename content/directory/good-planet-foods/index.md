@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">115th Avenue Northeast</span><br>
-<span class="locality">Bellevue</span>, <span class="postal-code">98004</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Bellevue"
+founded: 2017
+founders: "Sachin Ajith"
 featured_image: "Artboard-1@2x.png"
 website: http://goodplanetfoods.com/
 linkedin: https://www.linkedin.com/company/good-planet-foods/

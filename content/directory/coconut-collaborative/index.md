@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [Europe, US & Canada]
-location: [<p class="address" translate="no"><span class="locality">London</span><br>
-<span class="postal-code">of Freedom#8573311~!#</span><br>
-<span class="country">United Kingdom</span></p>]
+country: "United Kingdom"
+country_code: GB
+city: "London"
+founded: 2014
+founders: "James Averdieck"
 featured_image: "coconut collaborative_0.jpg"
 website: https://coconutcollaborative.com/
 linkedin: https://www.linkedin.com/company/bessant-&-drury-ltd-the-coconut-collaborative-

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Brooklyn Avenue</span><br>
-<span class="postal-code">11216</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: ""
+founded: 2013
+founders: "Anita Shepherd"
 featured_image: "anita's yogurt logo.jpg"
 website: http://anitas.com/
 linkedin: 

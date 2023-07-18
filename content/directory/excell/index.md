@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Cohoes Avenue</span><br>
-<span class="locality">Green Island</span>, <span class="postal-code">12183</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Green Island"
+founded: 
+founders: "Ecovative Design"
 featured_image: "excell-cap-white.png"
 website: https://www.excell.bio/
 linkedin: 

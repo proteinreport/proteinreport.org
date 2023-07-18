@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Dairy]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Tremont Street</span><br>
-<span class="locality">Boston</span>, <span class="postal-code">02118</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Boston"
+founded: 
+founders: ""
 featured_image: "fomu logo.png"
 website: http://www.fomuicecream.com/
 linkedin: 

@@ -8,10 +8,11 @@ proteins: [Cell-Based]
 products: [Meat]
 business: [Production]
 finance_type: []
-regions: [Middle East]
-location: [<p class="address" translate="no"><span class="address-line1">Prof. Menakhem Plaut Street</span><br>
-<span class="locality">Rehovot</span><br>
-<span class="country">Israel</span></p>]
+country: "Israel"
+country_code: IL
+city: "Rehovot"
+founded: 2017
+founders: "Strauss Group, Technion – Israel Institute of Technology"
 featured_image: "mark-1.png"
 website: https://www.aleph-farms.com/
 linkedin: https://www.linkedin.com/company/aleph-farms/

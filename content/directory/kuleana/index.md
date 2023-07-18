@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Seafood]
 business: [Production]
 finance_type: []
-regions: [Europe]
-location: [<p class="address" translate="no"><span class="address-line1">B2</span><br>
-<span class="postal-code">10178</span> <span class="locality">Berlin</span><br>
-<span class="country">Germany</span></p>]
+country: "Germany"
+country_code: DE
+city: "Berlin"
+founded: 2019
+founders: "Jacek Prus"
 featured_image: "kuleana black.png"
 website: https://www.kuleana.co/
 linkedin: https://www.linkedin.com/company/kuleanafood

@@ -8,10 +8,11 @@ proteins: [Plant-Based]
 products: [Ingredients]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Bergen Street</span><br>
-<span class="postal-code">11201</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: ""
+founded: 2014
+founders: "Camille Delebecque, Sophie Deterre"
 featured_image: "Afineur logo.png"
 website: https://www.afineur.com/
 linkedin: https://www.linkedin.com/company/afineur

@@ -8,10 +8,11 @@ proteins: []
 products: []
 business: [Finance]
 finance_type: [Venture Capital]
-regions: [Asia]
-location: [<p class="address" translate="no"><span class="address-line1">Amoy Street</span><br>
-<span class="postal-code">069930</span><br>
-<span class="country">Singapore</span></p>]
+country: "Singapore"
+country_code: SG
+city: "Singapore"
+founded: 2013
+founders: "Matthieu Vermersch"
 featured_image: "vvnp.png"
 website: https://www.visviresnewprotein.com/
 linkedin: https://www.linkedin.com/company/new-protein-capital

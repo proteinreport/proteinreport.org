@@ -8,10 +8,11 @@ proteins: [Microbial]
 products: [Technology & Equipment]
 business: [Production]
 finance_type: []
-regions: [US & Canada]
-location: [<p class="address" translate="no"><span class="address-line1">Grays Ferry Avenue</span><br>
-<span class="locality">Philadelphia</span>, <span class="postal-code">19146</span><br>
-<span class="country">United States</span></p>]
+country: "United States"
+country_code: US
+city: "Philadelphia"
+founded: 2015
+founders: "Orkan Telhan, Michael Hogan, Karen Hogan"
 featured_image: "biorealize_logo.png"
 website: http://www.biorealize.com/food
 linkedin: https://www.linkedin.com/company/biorealize
