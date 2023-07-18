@@ -1,0 +1,27 @@
+<section class="items-center w-full mx-auto 2xl:max-w-7xl">
+    {{ $company_name := .Title }}
+    {{ $company_uuid := .Params.uuid }}
+    {{ $pressreleases := where site.RegularPages "Type" "newswire" }}
+    {{ with where $pressreleases ".Params.company" $company_uuid }}
+    <div class="flex flex-wrap items-center divide-y-0 2xl:border-x-2 divide-t-0 md:divide-x-4">
+        <h2 class="md:w-1/3 lg:text-7xl p-10">Newswire</h2>
+        <p class="md:w-2/3 p-10 lg:text-2xl">Press releases from {{ $company_name }}</p>
+    </div>
+    <div class="flex flex-col w-full divide-y-4 border-y-4 2xl:border-x-2">
+        {{ range . }}
+            {{ if .Params.featured_image }}
+                {{ $image := .Resources.GetMatch .Params.featured_image }}
+                <div class="flex flex-row items-center">
+                    <div class="w-1/4 md:w-1/3 border-r-4">
+                        <img src="{{ $image.RelPermalink }}" alt="" class="aspect-video w-full object-cover">
+                    </div>
+                    <div class="w-3/4 md:w-2/3 gap-12 p-2 lg:px-6">
+                        <a class="p-6 w-full" href="{{ .RelPermalink }}"><h2 class="text-4xl">{{ .Params.title }}</h2></a>
+                    </div>
+                </div>
+            {{ end }}
+        {{ end }}
+    {{ end }}
+    </div>
+</section>
+

@@ -10,7 +10,7 @@
     {{ if $image -}}
     <div class="w-full md:max-w-[50%] flex items-center">
       <div class="m-auto p-6">
-        <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid w-80">
+        <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid max-h-80 max-w-80 object-cover">
       </div>
     </div>
     {{ end -}}
@@ -27,4 +27,7 @@
     </div>
   </div>
 </article>
+<aside>
+  {{ partial "directory/newswire.html" . }}
+</aside>
 {{ end }}
