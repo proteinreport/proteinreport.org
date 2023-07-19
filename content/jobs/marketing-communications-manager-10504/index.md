@@ -8,10 +8,17 @@ description: "About Roslin Technologies Roslin Technologies is an ambitious, cu
 excerpt: "About Roslin Technologies Roslin Technologies is an ambitious, cutting‐edge biotech company focused on food and agriculture. Our mission is to advance disruptive biotechnologies to improve how we produce proteins. We envision a world where everyone has access to affordable, nutritious and responsibly produced protein. Alternative proteins are key to addressing the need for more food. "
 proteins: [Cell-Based]
 products: [Ingredients]
-topics: [NA]
+topics: []
 regions: [Europe]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "Edinburgh"
+country: 
+country_code: 
+how_to_apply: "<p>To apply, please send a CV and cover letter explaining why you have applied for the post to <a href=\"mailto:careers@roslintech.com\">careers@roslintech.com</a>. Closing date 31st March 2022 however applications will be reviewed as they come in. </p>"
 images: []
 draft: false
 pinned: false

@@ -8,10 +8,17 @@ description: "Job Title: Full Stack Data ScientistReports to: Director of Data S
 excerpt: "Job Title: Full Stack Data ScientistReports to: Director of Data Science & TechnologiesFLSA Status: Exempt, Full TimeLocation: South San Francisco (Fully remote until further notice)______________________________________________________Overview:"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: ""
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/VdQyTMzX6B/Full-Stack-Data-Scientist\">https://clarafoods.applytojob.com/apply/VdQyTMzX6B/Full-Stack-Data-Scie…</a></p>"
 images: []
 draft: false
 pinned: false

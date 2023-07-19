@@ -8,10 +8,17 @@ description: "A growing syn-biotechnology company is seeking an experienced Huma
 excerpt: "A growing syn-biotechnology company is seeking an experienced Human Resources Manager to join their South San Francisco-based team. The HR Manager will act as an employee champion able to assess and anticipate HR-related needs and will work closely with leadership to develop solutions. In this position, you will support the leadership team with all issues related to human resources. You should be a proactive communicator and change agent, someone who can successfully balance employee needs with business objectives to create integrated solutions."
 proteins: [Cell-Based]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/gkSeFMrNkY/Human-Resources-Manager?source=proteinreport\">https://clarafoods.applytojob.com/apply/gkSeFMrNkY/Human-Resources-Mana…</a></p>"
 images: []
 draft: false
 pinned: false

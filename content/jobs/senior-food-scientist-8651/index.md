@@ -8,10 +8,17 @@ description: "We are looking for a passionate and experienced food scientist to 
 excerpt: "We are looking for a passionate and experienced food scientist to join our New Product Development team. Candidates who understand food chemistry, ingredient functionalities (preferably proteins), processing principals and evaluation tools (texture, sensory, etc.) and who are not hesitant to make, tweak and demo various food concepts/products are encouraged to apply.Location: South San Francisco, CAFLSA Status: Full Time, ExemptReports to: Director of New Product DevelopmentRole and Responsibilities"
 proteins: [Cell-Based]
 products: [Eggs]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/fjXrX0jqlA/Senior-Food-Scientist?source=proteinreport\">https://clarafoods.applytojob.com/apply/fjXrX0jqlA/Senior-Food-Scientis…</a></p>"
 images: []
 draft: false
 pinned: false

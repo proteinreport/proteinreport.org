@@ -8,10 +8,17 @@ description: "Ever heard of a concept called “cultured meat?” Kinda a big de
 excerpt: "Ever heard of a concept called “cultured meat?” Kinda a big deal these days…  We hope to succeed in bringing to people healthy and cruelty-free meat as soon as possible. If you can help us do it, check us out and apply."
 proteins: [Cell-Based, Algae]
 products: [Meat, Cell Culture Media, Scaffolding & Structure]
-topics: [NA]
+topics: []
 regions: [Europe]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "Brno"
+country: 
+country_code: 
+how_to_apply: "<p>Send us your CV at <a href=\"mailto:hr@mewery.io\">hr@mewery.io</a> and let’s have a first informal chat.</p>"
 images: []
 draft: false
 pinned: false

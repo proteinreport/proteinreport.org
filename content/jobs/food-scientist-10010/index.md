@@ -8,10 +8,17 @@ description: "Under the direction of the VP of Product Development, the Food Sci
 excerpt: "Under the direction of the VP of Product Development, the Food Scientist is responsible for innovating new animal-free meat applications and improving existing ones. With a strong food science background and knowledge of alternative proteins, the Food Scientist will also help execute production runs, interface with ingredient suppliers, co-manufacturers, and customers.  Duties and Responsibilities include:"
 proteins: [Fungi]
 products: [Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Factory, Laboratory]
+work_hours: [Full-Time]
+city: "West Sacramento"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://www.linkedin.com/jobs/view/2779850786/?refId=rEQkgnkhR12zBtTxEokMQw%3D%3D\">https://www.linkedin.com/jobs/view/2779850786/?refId=rEQkgnkhR12zBtTxEo…</a></p>"
 images: []
 draft: false
 pinned: false

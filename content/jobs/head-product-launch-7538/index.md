@@ -8,10 +8,17 @@ description: "The Head of Product Launch will be responsible to guide the new pr
 excerpt: "The Head of Product Launch will be responsible to guide the new product development and implementation of the business plan for launch of new proteins from Clara Foods.  This individual will develop value propositions for the new proteins in order to establish performance standards for new products as well as identify the most attractive target categories/customers for the products.Reports to: Chief Operating Officer  FLSA Status: Exempt, Full TimeRole and Responsibilities:"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Field, Office]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

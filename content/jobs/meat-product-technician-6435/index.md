@@ -8,10 +8,17 @@ description: "The Meat Product Technician will join a growing Food Production an
 excerpt: "The Meat Product Technician will join a growing Food Production and Development team to characterize meat food product quality parameters and optimize product quality on existing and new product streams. The role will spend a majority of time hands on in our research and development facility performing original and analytical operations within the Product Formulations and Performance team. Experience in texture focused product development is a strong plus."
 proteins: [Cell-Based]
 products: [Meat]
-topics: [NA]
-regions: [NA]
+topics: []
+regions: []
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Mixed]
+work_hours: [Full-Time]
+city: "Berkely"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

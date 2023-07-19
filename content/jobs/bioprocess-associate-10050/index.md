@@ -8,10 +8,17 @@ description: "Job Title: BioProcess Associate Reporting to: Head of BioProcess 
 excerpt: "Job Title: BioProcess Associate Reporting to: Head of BioProcess Development Location: Onsite, South San Francisco, CAFLSA Status: Exempt, Full-Time _____________________________________________________"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/AjZQHrWNPg/BioProcess-Associate\">https://clarafoods.applytojob.com/apply/AjZQHrWNPg/BioProcess-Associate</a></p>"
 images: []
 draft: false
 pinned: false

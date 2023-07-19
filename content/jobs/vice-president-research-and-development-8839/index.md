@@ -8,10 +8,17 @@ description: "The VP R&D is a driving force in establishing Smallfood as a leade
 excerpt: "The VP R&D is a driving force in establishing Smallfood as a leader in scientific innovation and expertise.  The successful candidate will provide leadership to Smallfood’s research and development team, propose and develop strategies for all aspects of microbial-based fermentation, down-stream processing, production of innovative nutritional ingredients, efficient scale-up of new technologies and operational excellence for the company’s fermentation platform. "
 proteins: [Algae, Microbial]
 products: [Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "Dartmouth"
+country: 
+country_code: 
+how_to_apply: "<p>Please email your cover letter and resume to <a href=\"mailto:careers@smallfood.com\">careers@smallfood.com</a> to apply. </p>"
 images: []
 draft: false
 pinned: false

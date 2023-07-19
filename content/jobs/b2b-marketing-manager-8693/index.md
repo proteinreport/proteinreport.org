@@ -8,10 +8,17 @@ description: "The Marketing Manager for Clara Foods will be responsible for deve
 excerpt: "The Marketing Manager for Clara Foods will be responsible for developing the business plans for the launch as well as the sustained commercialization of new non-animal proteins. This individual will establish value propositions for the new proteins, track consumer trends, spot new potential applications/opportunities, identify target customers for the products, and partner with the sales team to qualify targets and establish plans for attaining business with identified customers."
 proteins: [Microbial]
 products: [Eggs]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/5g30VtTvel/B2B-Marketing-Manager?source=ProteinReport\">https://clarafoods.applytojob.com/apply/5g30VtTvel/B2B-Marketing-Manage…</a></p>"
 images: []
 draft: false
 pinned: false

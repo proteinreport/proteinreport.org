@@ -8,10 +8,17 @@ description: "We are an ambitious, growing, independent FMCG company, focused on
 excerpt: "We are an ambitious, growing, independent FMCG company, focused on creating the world’s leading meat-alternative business, through our market leading Quorn and Cauldron brands. We are a global business that designs, manufactures and sells our healthy protein products in the UK and internationally with annual sales turnover in excess of £200 million across 17 territories."
 proteins: [Fungi]
 products: [Meat]
-topics: [NA]
-regions: [NA]
+topics: []
+regions: []
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "Chicago"
+country: 
+country_code: 
+how_to_apply: "<p>Interested applicants should email their CV and covering letter to <a href=\"mailto:HR@quornfoods.com\">HR@quornfoods.com</a></p>"
 images: []
 draft: false
 pinned: false

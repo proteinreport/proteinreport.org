@@ -8,10 +8,17 @@ description: "Balletic Foods is seeking a Business Development Manager to suppor
 excerpt: "Balletic Foods is seeking a Business Development Manager to support business strategies in our collaborative and fast-paced start-up environment.About UsBalletic Foods is a California based company working towards a sustainable food system by combining science and technology to create new sources of animal-free protein. If you are passionate about using biotechnology to build sustainable new sources of animal-free protein, join our team of entrepreneurs and scientists.Qualifications"
 proteins: [Microbial]
 products: [Meat, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed, Office]
+work_hours: [Full-Time]
+city: "Sacramento"
+country: 
+country_code: 
+how_to_apply: "<p>If you are interested in this position, please contact <a href=\"mailto:careers@balleticfoods.com\">careers@balleticfoods.com</a>.</p>"
 images: []
 draft: false
 pinned: false

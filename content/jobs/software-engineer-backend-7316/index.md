@@ -8,10 +8,17 @@ description: "Vow is a food company -- a very different one. We’re creating re
 excerpt: "Vow is a food company -- a very different one. We’re creating real meat products from animal cells, instead of the animal itself. We’re bringing together cutting edge innovations in science, technology, culinary and design to make sustainable food that’s both irresistible and accessible for billions of people worldwide."
 proteins: [Cell-Based]
 products: [Meat]
-topics: [NA]
+topics: []
 regions: [Asia, Oceania]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Office]
+work_hours: [Full-Time]
+city: "North Parramatta"
+country: 
+country_code: 
+how_to_apply: "<p>See <a href=\"https://www.vowfood.com/jobs/software-engineer-backend\">here</a>.</p>"
 images: []
 draft: false
 pinned: false

@@ -8,10 +8,17 @@ description: "Clara’s data team brings together scientists, engineers, and des
 excerpt: "Clara’s data team brings together scientists, engineers, and designers to craft tailor made data tools and models that accelerate and inform every part of the organization. We are excited to welcome a new Full Stack Data Scientist who will co-design and build unique applications with almost every other domain in the company. This team is weaving data products into the fabric of the organization from machine learning in genomics data to process optimization and mining on flavor. We are looking for folks eager to learn about and collaborate with many different disciplines."
 proteins: [Cell-Based]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: []
+work_hours: [Full-Time]
+city: ""
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/fVr3LmNAuJ/Full-Stack-Data-Scientist?source=ProteinReport\">https://clarafoods.applytojob.com/apply/fVr3LmNAuJ/Full-Stack-Data-Scie…</a></p>"
 images: []
 draft: false
 pinned: false

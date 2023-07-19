@@ -8,10 +8,17 @@ description: "Clara Foods is a San Francisco based company working towards a dis
 excerpt: "Clara Foods is a San Francisco based company working towards a disruptive advance in the food ingredients business by creating a world leading fermentation & synthetic biology platform. We are manufacturing animal free animal proteins with novel functionalities. Following a successful Series B raise in 2019, and with major technology advancements in 2020, the organization is accelerating commercialization of the world’s first animal-free egg protein and expanding its research and development & manufacturing capabilities to support its product pipeline."
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Mixed, Office]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/CdTqG4svlL/Sr-Director-Process-Development-Manufacturing?source=proteinreport\">https://clarafoods.applytojob.com/apply/CdTqG4svlL/Sr-Director-Process-…</a></p>"
 images: []
 draft: false
 pinned: false

@@ -8,10 +8,17 @@ description: "Job Title: Human Resources Generalist Reports to: Associate Direc
 excerpt: "Job Title: Human Resources Generalist Reports to: Associate Director of People OperationsFLSA Status:   Exempt, Full TimeLocation:  South San Francisco, CA* This role requires 3 or 4 days days of being on-site at the office ______________________________________________________Overview:"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed, Office]
+work_hours: [Full-Time]
+city: ""
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/BweY6iyPyA/Human-Resources-Generalist\">https://clarafoods.applytojob.com/apply/BweY6iyPyA/Human-Resources-Gene…</a></p>"
 images: []
 draft: false
 pinned: false

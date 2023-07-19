@@ -8,10 +8,17 @@ description: "Duration: 12 weeksAbout UsBalletic Foods™ is a California based
 excerpt: "Duration: 12 weeksAbout UsBalletic Foods™ is a California based company working towards a sustainable food system by combining science and technology to create new sources of animal-free protein. If you are passionate about using biotechnology to build sustainable new sources of protein, join our team of scientists and entrepreneurs to change the world’s food system.Qualifications"
 proteins: [Microbial]
 products: [Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Internship]
+remote: Internship
+work_environment: [Mixed]
+work_hours: [Part-Time]
+city: "Davis"
+country: 
+country_code: 
+how_to_apply: "<p><strong>If you are interested in this position, please contact <a href=\"mailto:careers@balleticfoods.com\">careers@balleticfoods.com</a></strong></p>"
 images: []
 draft: false
 pinned: false

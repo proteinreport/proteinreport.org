@@ -8,10 +8,17 @@ description: "Clara Foods is currently seeking a talented and innovative Process
 excerpt: "Clara Foods is currently seeking a talented and innovative Process Engineer to join our R&D Manufacturing department located at our South San Francisco, CA. As a process engineer, you will have the opportunity to participate in activities directly related to different aspects of downstream process development and industrialization of animal free animal proteins. You will be a key figure to work on purifying transformative ingredients and change the existing food system.Reports to: Senior Process EngineerFLSA Status: Exempt, Full Time"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/Bd7G9eOUYn/BioProcess-Engineer?source=proteinreport\">https://clarafoods.applytojob.com/apply/Bd7G9eOUYn/BioProcess-Engineer?…</a></p>"
 images: []
 draft: false
 pinned: false

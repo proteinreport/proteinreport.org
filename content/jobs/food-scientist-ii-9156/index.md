@@ -8,10 +8,17 @@ description: "OverviewIf you are…"
 excerpt: "OverviewIf you are…"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Mixed]
+work_hours: [Full-Time]
+city: "SOUTH SAN FRANCISCO"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/w2hbNoIJwJ/Food-Scientist-II?source=proteinreport\">https://clarafoods.applytojob.com/apply/w2hbNoIJwJ/Food-Scientist-II?so…</a></p>"
 images: []
 draft: false
 pinned: false

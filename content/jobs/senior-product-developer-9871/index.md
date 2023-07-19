@@ -8,10 +8,17 @@ description: "The Better Meat Co. (BMC) is an innovative protein ingredient comp
 excerpt: "The Better Meat Co. (BMC) is an innovative protein ingredient company based in Sacramento, California. At the forefront of protein technology, we’re pioneering mycelium ingredient formulations to create the most sustainable food future for our planet.Essential FunctionsUnder the supervision and direction of the Vice President of Product Development, the Senior Product Developer is responsible for supporting the company’s product development efforts with creation of new products and improvement on current products through proper formulation and experimentation."
 proteins: [Fungi]
 products: [Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Factory, Kitchen, Laboratory]
+work_hours: [Full-Time]
+city: "Sacramento"
+country: 
+country_code: 
+how_to_apply: "<p>Email resume to: <a href=\"mailto:doni.curkendall@bettermeat.co\">doni.curkendall@bettermeat.co</a></p>"
 images: []
 draft: false
 pinned: false

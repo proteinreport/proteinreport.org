@@ -6,12 +6,19 @@ slug: controller-7664
 company: 1299
 description: "Clara Foods is looking for a results-driven and confident Controller to manage and improve our organization's financial performance and direct our accounting operations. Duties for the Controller will include managing accounting records, evaluating and managing risk, ensuring compliance with regulations, publishing financial statements, overseeing accounting operations, analyzing financial data, monitoring expenditure, forecasting revenue, coordinating auditing processes, and ensuring the accuracy of financial information."
 excerpt: "Clara Foods is looking for a results-driven and confident Controller to manage and improve our organization's financial performance and direct our accounting operations. Duties for the Controller will include managing accounting records, evaluating and managing risk, ensuring compliance with regulations, publishing financial statements, overseeing accounting operations, analyzing financial data, monitoring expenditure, forecasting revenue, coordinating auditing processes, and ensuring the accuracy of financial information."
-proteins: [NA]
-products: [NA]
-topics: [NA]
+proteins: []
+products: []
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/ESb3idmXms/Controller?source=proteinreport\">https://clarafoods.applytojob.com/apply/ESb3idmXms/Controller?source=pr…</a></p>"
 images: []
 draft: false
 pinned: false

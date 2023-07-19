@@ -8,10 +8,17 @@ description: "About Cultivated BiosciencesOur mission is to empower plant-based 
 excerpt: "About Cultivated BiosciencesOur mission is to empower plant-based dairy to give it the creaminess and mouthfeel consumers strive for. To do this we are developing creamy fat ingredients from non-GMO yeast to be sold as B2B ingredients.Your missionAs Food Science Intern, you will be responsible of developing some of the first applications for our cream. You will work withthe Senior Food Scientist to improve the functional properties and taste of our ingredients.What you need to succeed"
 proteins: [Microbial]
 products: [Dairy, Ingredients]
-topics: [NA]
+topics: []
 regions: [Europe]
 flags: []
-directory: []
+job_type: [Internship]
+remote: Internship
+work_environment: [Laboratory, Mixed]
+work_hours: [Full-Time]
+city: "Zurich"
+country: 
+country_code: 
+how_to_apply: "<p>Use the google form link</p>"
 images: []
 draft: false
 pinned: false

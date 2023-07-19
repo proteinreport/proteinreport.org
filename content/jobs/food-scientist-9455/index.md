@@ -8,10 +8,17 @@ description: "We are looking for an experienced food scientist to join our Produ
 excerpt: "We are looking for an experienced food scientist to join our Product Innovation team at KitchenTown! This group works directly with the most promising food startups, entrepreneurs, scientists, and legacy companies to develop new food and beverage products. The most innovative food startups in the world—from alternative proteins to automated restaurants to functional products—come to KitchenTown to launch their companies. Your job is to create new products in collaboration with those brands. KitchenTown is an energetic food hub teeming with entrepreneurs defining the future of food."
 proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Pet Food, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "San Mateo"
+country: 
+country_code: 
+how_to_apply: "<p>Submit resume and why you think you’d be a good fit for this role to <a href=\"mailto:info@kitchentowncentral.com\"><strong>info@kitchentowncentral.com</strong></a> <em><strong>with the subject line: Food Scientist</strong></em>. Thank you! </p>"
 images: []
 draft: false
 pinned: false

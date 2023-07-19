@@ -7,11 +7,18 @@ company: 5825
 description: "Balletic Foods is seeking a motivated scientist to lead our Strain Engineering team. The ideal candidate will be curious, open-minded, motivated, detail-oriented, organized & a team player with a proactive approach to research & development."
 excerpt: "Balletic Foods is seeking a motivated scientist to lead our Strain Engineering team. The ideal candidate will be curious, open-minded, motivated, detail-oriented, organized & a team player with a proactive approach to research & development."
 proteins: [Microbial]
-products: [NA]
-topics: [NA]
+products: []
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Mixed, Office]
+work_hours: [Full-Time]
+city: "Davis"
+country: 
+country_code: 
+how_to_apply: "<p>If you are interested in this position, please contact <a href=\"mailto:careers@balleticfoods.com\">careers@balleticfoods.com</a>.</p>"
 images: []
 draft: false
 pinned: false

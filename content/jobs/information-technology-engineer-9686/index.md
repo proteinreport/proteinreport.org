@@ -8,10 +8,17 @@ description: "Clara Foods is a San Francisco based start-up creating animal-free
 excerpt: "Clara Foods is a San Francisco based start-up creating animal-free food ingredients for a more sustainable food system. Following a successful Series B raise in 2019 and with major technology advancements in 2020, the organization is accelerating commercialization of the world's first animal-free egg protein, working with industry collaborators to produce products with higher levels of protein and unique functionalities."
 proteins: [Microbial]
 products: [Eggs, Ingredients, Technology & Equipment]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Office]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

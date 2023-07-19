@@ -8,10 +8,17 @@ description: "The Head of Product Development will be responsible to guide the t
 excerpt: "The Head of Product Development will be responsible to guide the technical aspects of new product development at Clara Foods. This individual will work closely with the Marketing, R&D and our partners to develop value propositions for the new proteins in order to establish performance standards for new products as well as identify the most attractive target categories/customers for the products.Job Title: Head of New Product DevelopmentReports to: Chief Operating OfficerFLSA Status: Exempt, Full Time"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

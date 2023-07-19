@@ -6,12 +6,19 @@ slug: quality-assurance-manager-remote-or-onsite-11050
 company: 1299
 description: " "
 excerpt: " "
-proteins: [NA]
+proteins: []
 products: [Eggs, Ingredients, Technology & Equipment]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: []
+work_hours: [Full-Time]
+city: "San Francisco"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

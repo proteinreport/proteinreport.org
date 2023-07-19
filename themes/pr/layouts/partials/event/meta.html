@@ -13,12 +13,16 @@
         <small>         
             <strong>
                 {{ if .Params.city }}
-                    {{ if ne .Params.city .Params.country }}
-                        {{ .Params.city }}, {{ .Params.country }}
+                    {{ if .Params.country }}
+                        {{ if ne .Params.city .Params.country }}
+                            {{ .Params.city }}, {{ .Params.country }}
+                        {{ else }}
+                            {{ .Params.city }}
+                        {{ end }}
                     {{ else }}
                         {{ .Params.city }}
                     {{ end }}
-                {{ else }}
+                {{ else if .Params.country }}
                     {{ .Params.country }}
                 {{ end }}
             </strong>

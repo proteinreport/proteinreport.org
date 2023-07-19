@@ -8,10 +8,17 @@ description: "Clara Foods is currently seeking a talented and innovative Senior 
 excerpt: "Clara Foods is currently seeking a talented and innovative Senior BioProcess Associate to join our BioProcess Development team located at our South San Francisco, CA. As a Senior BioProcess Associate, you will have the opportunity to participate in activities directly related to different aspects of process development and industrialization of animal free animal proteins. You will be a key figure to work on manufacture of transformative ingredients and change the existing food system.Reports to: Head of BioProcess DevelopmentFLSA Status: Exempt, Full Time"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "SOUTH SAN FRANCISCO"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/IPJapdxAQc/Senior-BioProcess-Associate?source=proteinreport\">https://clarafoods.applytojob.com/apply/IPJapdxAQc/Senior-BioProcess-As…</a></p>"
 images: []
 draft: false
 pinned: false

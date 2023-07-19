@@ -8,10 +8,17 @@ description: "ABOUT USAt New School Foods, our mission is to accelerate the tran
 excerpt: "ABOUT USAt New School Foods, our mission is to accelerate the transition to a kinder, healthier, alt-protein-first food system. Using plant-based ingredients & our proprietary production technologies, we create zero-compromise seafood alternatives designed for the average consumer. Our healthy, whole-muscle, plant-based filets are made to look, cook, taste and flake just like fish. All with a lower carbon footprint, and without harming the ocean."
 proteins: [Plant-Based]
 products: [Seafood, Scaffolding & Structure]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "Toronto"
+country: 
+country_code: 
+how_to_apply: "<p>Submit your application here: <a href=\"https://secure.collage.co/jobs/newschoolfoods/28254\">https://secure.collage.co/jobs/newschoolfoods/28254</a></p>"
 images: []
 draft: false
 pinned: false

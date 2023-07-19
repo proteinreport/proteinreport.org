@@ -8,10 +8,17 @@ description: "ABOUT AIR PROTEINAt Air Protein, we’re passionate about creating
 excerpt: "ABOUT AIR PROTEINAt Air Protein, we’re passionate about creating a new food system–one that pushes the boundaries of what anyone thought was possible and builds a healthy relationship between our food and our planet. This is a new era of sustainable production; we can use less and make more. We can feed the growing global population without destroying rainforests or warming the planet. Join our diverse team of passionate scientists, engineers, and business leaders working to create the future of food—meat made from elements of the air."
 proteins: [Cell-Based, Microbial]
 products: [Ingredients, Cell Culture Media, Technology & Equipment]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Factory, Laboratory, Mixed]
+work_hours: [Full-Time]
+city: "SF/Bay Area"
+country: 
+country_code: 
+how_to_apply: "<p>Please Click On Link Below To Apply</p>"
 images: []
 draft: false
 pinned: false

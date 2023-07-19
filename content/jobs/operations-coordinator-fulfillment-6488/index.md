@@ -8,10 +8,17 @@ description: "GOOD PLANeT Foods, the fastest growing plant-based cheese brand, i
 excerpt: "GOOD PLANeT Foods, the fastest growing plant-based cheese brand, is adding to the team! The Operations Coordinator is directly responsible for ensuring we consistently meet our customers’ needs & exceed their expectations... Join us!"
 proteins: [Plant-Based]
 products: [Dairy]
-topics: [NA]
-regions: [NA]
+topics: []
+regions: []
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "Seattle"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

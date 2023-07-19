@@ -8,10 +8,17 @@ description: "We are Planted and we have big things in store – and for that we
 excerpt: "We are Planted and we have big things in store – and for that we need YOU!After years of research, Planted was founded in July 2019 as a spin-off from ETH Zurich. Our revolutionary plan will make the world a better place. We structure meats from plants that is no way inferior to animal meat, scores with unique taste, and authentic texture, and is miles ahead in terms of sustainability and health!"
 proteins: [Plant-Based]
 products: [Ingredients, Technology & Equipment, Materials]
-topics: [NA]
+topics: []
 regions: [Europe]
 flags: []
-directory: []
+job_type: []
+remote: 
+work_environment: [Factory, Kitchen, Laboratory, Mixed]
+work_hours: [Full-Time]
+city: ""
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://careers.eatplanted.com/jobs/1938906-food-application-scientist-f-m-d\">https://careers.eatplanted.com/jobs/1938906-food-application-scientist-…</a></p>"
 images: []
 draft: false
 pinned: false

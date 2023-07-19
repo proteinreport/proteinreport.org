@@ -8,10 +8,17 @@ description: "Do you enjoying trying different foods and have a good sense of sm
 excerpt: "Do you enjoying trying different foods and have a good sense of smell? If so apply now!We have an exciting opportunity to join our Sensory Panel at Quorn Foods, Stokesley. We are looking for people, who are prepared to taste a wide range of foods, including meat and who enjoy working as part of a team. No experience is necessary as full training will be given.Working hours are Tuesday to Friday, 9.20am to 13.20pm (16 hours a week)"
 proteins: [Fungi]
 products: [Meat]
-topics: [NA]
-regions: [NA]
+topics: []
+regions: []
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed]
+work_hours: [Part-Time]
+city: "Stokesley"
+country: 
+country_code: 
+how_to_apply: "<p>Interested applicants should contact <a href=\"mailto:hr@quornfoods.com\">hr@quornfoods.com</a> to request an application form. Shortlisted candidates will be then invited to an interview/screening session which will take place in our facilities.</p>"
 images: []
 draft: false
 pinned: false

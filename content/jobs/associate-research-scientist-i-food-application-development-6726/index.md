@@ -8,10 +8,17 @@ description: "Perfect Day is close to commercializing its first animal-free dair
 excerpt: "Perfect Day is close to commercializing its first animal-free dairy protein products and we are seeking an intelligent, motivated, enthusiastic scientist to join our Food Development team. The ideal candidate will be driven and will do what it takes to contribute to a small team in a fast paced, startup environment."
 proteins: [Cell-Based]
 products: [Dairy]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Kitchen, Laboratory, Mixed]
+work_hours: [Full-Time]
+city: "Emeryville"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

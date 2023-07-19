@@ -7,11 +7,18 @@ company: 5791
 description: "We are Planted. After years of research, founded in July 2019 as a spin-off from ETH Zurich, it is our very aim to make the world better. With a revolutionary plan: Meat from plants.Planted is more than a delicious product – it’s also an attitude. We want to radically change the way people consume and perceive meat. And to trigger a switch from eating animal- to plant-based proteins.We are making a change. Not only because we can but because we have to. Be part of our journey and join our Science Team as an Industrial Biotechnologist."
 excerpt: "We are Planted. After years of research, founded in July 2019 as a spin-off from ETH Zurich, it is our very aim to make the world better. With a revolutionary plan: Meat from plants.Planted is more than a delicious product – it’s also an attitude. We want to radically change the way people consume and perceive meat. And to trigger a switch from eating animal- to plant-based proteins.We are making a change. Not only because we can but because we have to. Be part of our journey and join our Science Team as an Industrial Biotechnologist."
 proteins: [Plant-Based, Microbial]
-products: [NA]
-topics: [NA]
+products: []
+topics: []
 regions: [Europe]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time, Part-Time]
+city: "Zurich (Kemptthal)"
+country: 
+country_code: 
+how_to_apply: "<p>Please apply with your complete application documents. Valid work permit for Switzerland is mandatory.</p>"
 images: []
 draft: false
 pinned: false

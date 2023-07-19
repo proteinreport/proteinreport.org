@@ -8,10 +8,17 @@ description: "Location: HybridCompensation: £32,000- £38,000Start date: Jan 20
 excerpt: "Location: HybridCompensation: £32,000- £38,000Start date: Jan 2023Frequency: Full time"
 proteins: [Fungi, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients, Feed, Cell Culture Media, Technology & Equipment, Materials]
-topics: [NA]
+topics: []
 regions: [Europe]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed, Office]
+work_hours: [Full-Time]
+city: "London"
+country: 
+country_code: 
+how_to_apply: "<p>Please email your resume (Word or PDF) and short cover letter outlining your reasons for applying and what you hope to gain from the role to: <a href=\"mailto:hiring@eden.bio\"><u>hiring@eden.bio</u></a>. Be sure to highlight any relevant experience as well as your availability (when you can start).</p>"
 images: []
 draft: false
 pinned: false

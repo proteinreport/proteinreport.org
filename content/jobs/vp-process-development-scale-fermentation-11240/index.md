@@ -8,10 +8,17 @@ description: "The Role:The VP of Process Development & Scale Up will lead Air 
 excerpt: "The Role:The VP of Process Development & Scale Up will lead Air Protein’s Fermentation and Recovery Bioprocess to make novel ingredients from bench to pilot to commercial production. Reporting to the CEO, this person will lead and manage a team of engineers, chemists and fermentation scientists that work within and across functions to support the development and scale up of AIr Protein’s fermentation products to serve in a range of applications and markets.  "
 proteins: [Cell-Based, Microbial]
 products: [Ingredients, Cell Culture Media, Technology & Equipment]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Mixed, Office]
+work_hours: [Full-Time]
+city: "Pleasanton"
+country: 
+country_code: 
+how_to_apply: "<p>Please Click Link To Apply</p>"
 images: []
 draft: false
 pinned: false

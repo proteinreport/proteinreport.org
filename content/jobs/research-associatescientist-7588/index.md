@@ -8,10 +8,18 @@ description: "Clara Foods is bringing an egg white to the table that is produced
 excerpt: "Clara Foods is bringing an egg white to the table that is produced completely animal-free using fermentation technology, that uses less land and water inputs, while matching the taste, nutritional value, and unique culinary properties of hen-borne egg whites.We are looking for a candidate with an interest and experience in food applications development, ingredient validation and protein chemistry. Experience in manufacturing liquid / dry egg as an ingredient and use of eggs in end use applications would be highly desirable."
 proteins: [Microbial]
 products: [Eggs]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Office]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p>Visit:</p>
+<p><a href=\"https://clarafoods.applytojob.com/apply/Mh2s3Hp4Hl/Research-AssociateScientist?source=proteinreport\">https://clarafoods.applytojob.com/apply/Mh2s3Hp4Hl/Research-AssociateSc…</a></p>"
 images: []
 draft: false
 pinned: false

@@ -8,10 +8,17 @@ description: "We're Califia Farms (Califia, pronounced like California), the pla
 excerpt: "We're Califia Farms (Califia, pronounced like California), the plant-powered food and beverage company of the future. Our mission is to innovate delicious plant-powered foods for mindful nourishment. We're led by beverage visionary Greg Steltenpohl, crafting, concocting and cold-brewing beautifully bottled goodness from the San Joaquin Valley. Our name comes from the Spanish legend of warrior Queen Califia, the goddess of bounty and abundance who ruled over the mythical island of California."
 proteins: [Plant-Based]
 products: [Dairy]
-topics: [NA]
-regions: [NA]
+topics: []
+regions: []
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed]
+work_hours: [Full-Time]
+city: ""
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

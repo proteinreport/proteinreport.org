@@ -8,10 +8,17 @@ description: "Job Title: Senior Process EngineerReports to: Senior Director, Eng
 excerpt: "Job Title: Senior Process EngineerReports to: Senior Director, Engineering & ManufacturingFLSA Status: Exempt, Full TimeLocation: South San Francisco, CA; or remote______________________________________________________Overview:"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/z4K0iLpwvD/Senior-Process-Engineer\">https://clarafoods.applytojob.com/apply/z4K0iLpwvD/Senior-Process-Engin…</a></p>"
 images: []
 draft: false
 pinned: false

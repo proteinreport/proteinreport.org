@@ -8,10 +8,17 @@ description: "As Head of Operations and Supply Chain, you will be accountable fo
 excerpt: "As Head of Operations and Supply Chain, you will be accountable for consistent and flawless execution of our CMO Manufacturing Operations and Supply Chain. You will be leading all aspects of manufacturing at our Contract Manufacturing Organization (CMO) partners. This includes oversight of the production scheduling of one current make-to-order product line and 2 new products to be launched in 2021, as well as the Supply Chain for this global business.RESPONSIBILITIES"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

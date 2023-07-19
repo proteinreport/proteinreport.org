@@ -8,10 +8,18 @@ description: "Oatly was founded back in the 1990s and is based on Swedish resear
 excerpt: "Oatly was founded back in the 1990s and is based on Swedish research from Lund University. The company’s patented enzyme technology copies nature’s own process and turns fiber-rich oats into nutritional liquid food that is perfectly designed for humans. Today, the Swedish company remains independent and dedicated to upgrading the lives of individuals and the general wellbeing of the planet through a lineup of original oat products.THE OATLY WAY"
 proteins: [Plant-Based]
 products: [Dairy]
-topics: [NA]
+topics: []
 regions: [Europe]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed]
+work_hours: [Full-Time]
+city: "Landskrona"
+country: 
+country_code: 
+how_to_apply: "<p>If you wish to be a part of our newly created product life cycle team, helping our consumers to make more sustainable choices, send us your details through the application below and we’ll take it from there. This is going to be fun!</p>
+<p>In this recruitment process, Oatly is collaborating with Randstad Life Sciences & Engineering. If you have any questions regarding this position you are welcome to contact Camilla Wern at <a href=\"mailto:camilla.wern@randstad.se\">camilla.wern@randstad.se</a> 0733-43 60 98 or Emelie Lanner 072-973 33 82.</p>"
 images: []
 draft: false
 pinned: false

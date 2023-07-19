@@ -8,10 +8,17 @@ description: "Perfect Day is working to commercialize its first animal-free dair
 excerpt: "Perfect Day is working to commercialize its first animal-free dairy protein products. We are seeking a highly skilled Senior Financial Analyst to act as a trusted financial and business partner to Perfect Day’s senior management. The ideal candidate will have strong technical and interpersonal skills and be driven to do what it takes to contribute to a small cross-functional team in a fast paced, collaborative, start-up environment.YOUR CONTRIBUTIONS:"
 proteins: [Cell-Based]
 products: [Dairy]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "Emeryville"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

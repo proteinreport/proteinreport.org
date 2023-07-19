@@ -8,10 +8,18 @@ description: "JOB INFORMATIONPosition: Laboratory TechnicianProgramme Area: Cell
 excerpt: "JOB INFORMATIONPosition: Laboratory TechnicianProgramme Area: Cell Banking"
 proteins: [Cell-Based]
 products: [Ingredients]
-topics: [NA]
+topics: []
 regions: [Europe]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "Edinburgh"
+country: 
+country_code: 
+how_to_apply: "<p>For informal enquiries, please contact Dr Britt Tye (<a href=\"mailto:britt.tye@roslintech.com\">britt.tye@roslintech.com</a>). To apply, please send a CV and cover letter explaining why you have applied for the post to <a href=\"mailto:careers@roslintech.com\">careers@roslintech.com</a>.</p>
+<p>Closing date: 30 April 2022</p>"
 images: []
 draft: false
 pinned: false

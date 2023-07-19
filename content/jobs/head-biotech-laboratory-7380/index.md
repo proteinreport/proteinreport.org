@@ -8,10 +8,17 @@ description: "VIVAX BIO, LLC, based in New York, NY, and its Moscow, Russia, R&D
 excerpt: "VIVAX BIO, LLC, based in New York, NY, and its Moscow, Russia, R&D subsidiary, 3D Bioprinting Solutions, focus on 3D bioprinting and work on the whole range of the hardware, materials, technologies, and products comprising the 3D bioprinting industry. We are opening a new lab in New York and adapt our existing platform technologies for cellular agriculture applications focusing primarily on cell-based cultured meat/fish project."
 proteins: [Cell-Based]
 products: [Meat, Cell Culture Media, Scaffolding & Structure, Technology & Equipment]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "New York"
+country: 
+country_code: 
+how_to_apply: "<p><u>Please contact:</u> <strong>Anton Elemoso at </strong><a href=\"mailto:ae@vivaxbio.com\"><strong>ae@vivaxbio.com</strong></a></p>"
 images: []
 draft: false
 pinned: false

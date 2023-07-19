@@ -8,10 +8,17 @@ description: "Do you want to be part of an exciting company dedicated to solving
 excerpt: "Do you want to be part of an exciting company dedicated to solving the greatest challenge humanity faces? Then Impossible Foods is the place for you. Impossible Foods was founded in 2011 to create a truly sustainable global food system by inventing an efficient, sustainable way to transform plants into irresistibly delicious, nutritious food -- food that delivers all the pleasures and nutritional benefits consumers demand, without the destructive environmental impact."
 proteins: [Plant-Based]
 products: [Meat]
-topics: [NA]
-regions: [NA]
+topics: []
+regions: []
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed]
+work_hours: [Full-Time]
+city: "Redwood City"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

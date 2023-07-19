@@ -8,10 +8,17 @@ description: "Balletic Foods is looking for an experienced Protein Scientist to 
 excerpt: "Balletic Foods is looking for an experienced Protein Scientist to join our R&D team in a fast-paced start-up work environment.About UsBalletic Foods is a California based company working towards a sustainable food system by combining science and technology to create new sources of animal-free protein. If you are passionate about using biotechnology to build sustainable new sources of protein, join our team of scientists and entrepreneurs to change the world’s food system.Qualifications"
 proteins: [Microbial]
 products: [Meat, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Mixed]
+work_hours: [Full-Time]
+city: "Davis"
+country: 
+country_code: 
+how_to_apply: "<p>If you are interested in this position, please contact <a href=\"mailto:careers@balleticfoods.com\">careers@balleticfoods.com</a>.</p>"
 images: []
 draft: false
 pinned: false

@@ -8,10 +8,17 @@ description: "Research Associate, Strain EngineeringDo you have a passion for us
 excerpt: "Research Associate, Strain EngineeringDo you have a passion for using biotechnology to build sustainable new sources of animal-free protein?  Then we are looking for you.   Do you want to join a new community of entrepreneurs, activists and scientists who recognize that the decades old factory farm model cannot sustain the dietary needs of 7 billion people – and that biotechnology may hold a solution. You will love our mission of using innovative robotics and synthetic DNA technology to create novel sources of protein for human nutrition.If you are…"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "SOUTH SAN FRANCISCO"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/LPsAG5QHPO/Research-Associate-Strain-Engineering?source=proteinreport\">https://clarafoods.applytojob.com/apply/LPsAG5QHPO/Research-Associate-S…</a></p>"
 images: []
 draft: false
 pinned: false

@@ -8,10 +8,17 @@ description: "Clara Foods is bringing an egg white to the table that is produced
 excerpt: "Clara Foods is bringing an egg white to the table that is produced completely animal-free using fermentation technology, that uses less land and water inputs, while matching the taste, nutritional value, and unique culinary properties of hen-borne egg whites.We are looking for a candidate with experience in quality assurance and food safety management in the food industry.Reports to: Associate Director, ProductLocation: South San Francisco, CAFLSA Status: Exempt, Full-Time "
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Kitchen, Laboratory, Mixed]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/JrD5owiePY/Quality-Assurance-Associate?source=proteinreport\">https://clarafoods.applytojob.com/apply/JrD5owiePY/Quality-Assurance-As…</a></p>"
 images: []
 draft: false
 pinned: false

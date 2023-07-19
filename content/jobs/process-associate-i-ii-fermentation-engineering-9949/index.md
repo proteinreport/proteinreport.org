@@ -8,10 +8,17 @@ description: "Process Associate I-II, Fermentation Engineering"
 excerpt: "Process Associate I-II, Fermentation Engineering"
 proteins: [Microbial]
 products: [Eggs, Ingredients, Technology & Equipment]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: ""
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/DT5d4xhG3E/Process-Associate-III-Fermentation-Engineering\">https://clarafoods.applytojob.com/apply/DT5d4xhG3E/Process-Associate-II…</a></p>"
 images: []
 draft: false
 pinned: false

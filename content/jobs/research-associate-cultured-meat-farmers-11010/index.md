@@ -3,16 +3,22 @@ title: "Research Associate - Cultured Meat & Farmers"
 date: 2022-06-16 10:34:20
 lastmod: 2022-06-16 10:34:20
 slug: research-associate-cultured-meat-farmers-11010
-company_name: "Royal Agricultural University"
-company_link: "http://www.rau.ac.uk"
+company: 
 description: "We are looking for a dynamic Research Associate to coordinate an innovative project that will explore the potential impact on UK agriculture of cultured meat, a technology with possibly profound and uncertain implications for the future of food and farming.The project team brings together social and natural scientists from diverse disciplines, with farming organisations, cultured meat businesses, NGOs and other stakeholders. The work is designed to influence investment and policy. It is funded by UKRI through the Strategic Priorities Fund call on ‘Transforming UK Food Systems’."
 excerpt: "We are looking for a dynamic Research Associate to coordinate an innovative project that will explore the potential impact on UK agriculture of cultured meat, a technology with possibly profound and uncertain implications for the future of food and farming.The project team brings together social and natural scientists from diverse disciplines, with farming organisations, cultured meat businesses, NGOs and other stakeholders. The work is designed to influence investment and policy. It is funded by UKRI through the Strategic Priorities Fund call on ‘Transforming UK Food Systems’."
 proteins: [Cell-Based]
 products: [Meat, Technology & Equipment]
-topics: [NA]
+topics: []
 regions: [Europe]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "Cirencester"
+country: 
+country_code: 
+how_to_apply: "<p>For a full job description and details on how to apply please visit: <a href=\"https://www.rau.ac.uk/about-us/jobs\">https://www.rau.ac.uk/about-us/jobs</a></p>"
 images: []
 draft: false
 pinned: false

@@ -8,10 +8,17 @@ description: "Clara Foods is looking for a Process Associate I-II who is passion
 excerpt: "Clara Foods is looking for a Process Associate I-II who is passionate about changing the food space to join the Fermentation Engineering team. As a Process Associate, you will help implement novel upstream processes to improve recombinant protein production rate, titer, yield and purity. You will primarily be running bioreactors and gathering data to evaluate and optimize key fermentation process parameters. The ideal candidate has strong organization and communication skills and is comfortable working within a small, collaborative team."
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/7u1Qcrx6NJ/Process-Associate?source=proteinreport\">https://clarafoods.applytojob.com/apply/7u1Qcrx6NJ/Process-Associate?so…</a></p>"
 images: []
 draft: false
 pinned: false

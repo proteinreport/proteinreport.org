@@ -8,10 +8,17 @@ description: "Shiru rapidly and efficiently identifies high value functional foo
 excerpt: "Shiru rapidly and efficiently identifies high value functional food proteins via an innovative computational platform that integrates machine learning and molecular modeling and creates them through precision biology.As the assay development scientist at Shiru you will develop the workflows associated with protein production and characterization creatively and effectively using biochemistry and materials science techniques. "
 proteins: [Cell-Based, Plant-Based, Fungi]
 products: [Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "Berkeley"
+country: 
+country_code: 
+how_to_apply: "<p>Please apply via this link: <a href=\"https://jobs.lever.co/shiru/5cd6e731-3ffb-4f3e-a31b-d9f23669ca72\">https://jobs.lever.co/shiru/5cd6e731-3ffb-4f3e-a31b-d9f23669ca72</a></p>"
 images: []
 draft: false
 pinned: false

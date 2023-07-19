@@ -8,10 +8,17 @@ description: "Interested in making an impact on the way meat is produced?  We a
 excerpt: "Interested in making an impact on the way meat is produced?  We are looking for a Senior Software Engineer to join Memphis Meats as the first member of our software engineering team.  As the founding member of this team, you will play a key role in helping Memphis Meats build, from the ground up, the team, software, and data systems that will run our R&D, Process Development, and Manufacturing operations.  We are looking for someone with hands-on experience building software that interacts with the physical world in a lab or manufacturing environment.  You should be service-oriented, se"
 proteins: [Cell-Based]
 products: [Meat]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "Berkeley"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

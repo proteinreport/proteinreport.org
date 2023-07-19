@@ -8,10 +8,17 @@ description: "Clara Foods™ is a venture capital-backed company working towards
 excerpt: "Clara Foods™ is a venture capital-backed company working towards a disruptive advance in food technology by producing animal proteins using fermentation --- without the animal. We join a new generation of entrepreneurs, activists and scientists who recognize that the decades-old factory farm model cannot sustain the dietary needs of 7 billion people and counting - and that technology may hold a solution. "
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: ""
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

@@ -8,10 +8,17 @@ description: "The EVERY Company, based in South San Francisco, is a leading VC-b
 excerpt: "The EVERY Company, based in South San Francisco, is a leading VC-backed food tech ingredient company using precision fermentation to create animal proteins without the animal for the global food and beverage industry. Originally founded as Clara Foods in 2014, EVERY™ rebranded in 2021 to better convey its vision to bring animal-free proteins to everyone, everywhere. EVERY™ is a team of passionate change makers who are reimagining the factory farm model with a kinder, more sustainable alternative."
 proteins: [Cell-Based, Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
-regions: [NA]
+topics: []
+regions: []
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed, Office]
+work_hours: [Full-Time]
+city: ""
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

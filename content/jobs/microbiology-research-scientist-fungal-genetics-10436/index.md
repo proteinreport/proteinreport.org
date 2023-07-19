@@ -8,10 +8,18 @@ description: "Aqua Cultured Foods is an innovative food technology company disru
 excerpt: "Aqua Cultured Foods is an innovative food technology company disrupting the alternative protein space with the world’s first whole-muscle cut seafood alternative created through the process of microbial fermentation. Our novel technology produces a sustainable complete protein source using only a fraction of the resources required by traditional agriculture. As our global challenges with overfishing, climate change and feeding the world’s expanding population grows, our mission is to create delicious, nutrient-rich foods to feed our growing population and protect our oceans."
 proteins: [Fungi, Microbial]
 products: [Seafood]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Office]
+work_hours: [Full-Time]
+city: "Chicago"
+country: 
+country_code: 
+how_to_apply: "<p>To express your interest, please provide a short cover letter telling us why you’re perfect for this role, along with a resume detailing your experience.</p>
+<p>Qualified Applicants must be legally authorized for employment in the United States. Qualified Applicants will not require employer sponsored work authorization now or in the future for employment in the United States.</p>"
 images: []
 draft: false
 pinned: false

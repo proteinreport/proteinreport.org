@@ -8,10 +8,17 @@ description: "Memphis Meats is building novel cultivation systems to enable mass
 excerpt: "Memphis Meats is building novel cultivation systems to enable massive scalability of cell-based meat production.  We are seeking an experienced mechanical engineering team leader with both technical depth and creative vision to build a team and facility capable of rapid ideation, design, fabrication and testing of novel cultivator prototypes."
 proteins: [Cell-Based]
 products: [Meat]
-topics: [NA]
-regions: [NA]
+topics: []
+regions: []
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed, Office]
+work_hours: [Full-Time]
+city: "Berkely"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

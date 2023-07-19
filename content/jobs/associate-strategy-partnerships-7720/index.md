@@ -8,10 +8,17 @@ description: "Clara Foods is looking for a dynamic, results-driven individual th
 excerpt: "Clara Foods is looking for a dynamic, results-driven individual that thrives in a high-change environment to join the Strategy & Partnerships team. Key qualities include a demonstrated ability to work independently, logically frame a problem, communicate recommendation-oriented analyses, and drive towards a desired outcome. Must also have experience leading cross-functional collaborations and show a deep commitment to accelerating Clara’s mission.Reports to: Head of Strategy & Partnerships FLSA Status: Exempt, Full Time"
 proteins: [Microbial]
 products: [Eggs]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/uyLLtcadOU/Associate-Strategy-Partnerships?source=proteinreport\">https://clarafoods.applytojob.com/apply/uyLLtcadOU/Associate-Strategy-P…</a></p>"
 images: []
 draft: false
 pinned: false

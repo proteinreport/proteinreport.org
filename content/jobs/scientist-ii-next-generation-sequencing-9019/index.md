@@ -8,10 +8,17 @@ description: "Job Title: Scientist II, Next Generation SequencingReports to: VP 
 excerpt: "Job Title: Scientist II, Next Generation SequencingReports to: VP of R&DFLSA Status: Exempt, Full TimeLocation:  South San Francisco, CA_______________________________________________________"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/QiYyHdYost/Scientist-II-Next-Generation-Sequencing?source=proteinreport\">https://clarafoods.applytojob.com/apply/QiYyHdYost/Scientist-II-Next-Ge…</a></p>"
 images: []
 draft: false
 pinned: false

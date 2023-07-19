@@ -8,10 +8,17 @@ description: "Senior Scientist Protein Function"
 excerpt: "Senior Scientist Protein Function"
 proteins: [Cell-Based]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/NBI1PYt1BX/Senior-Scientist-Protein-Function?source=proteinreport\">https://clarafoods.applytojob.com/apply/NBI1PYt1BX/Senior-Scientist-Pro…</a></p>"
 images: []
 draft: false
 pinned: false

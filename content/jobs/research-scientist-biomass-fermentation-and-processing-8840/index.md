@@ -8,10 +8,17 @@ description: "The Research Scientist position is a high impact role helping Smal
 excerpt: "The Research Scientist position is a high impact role helping Smallfood advance as a leader in scientific innovation and expertise.  The successful candidate will support a broad range of functions in the R&D team encompassing microbial-based fermentation, upstream and down-stream processing, production of innovative nutritional ingredients and assisting with scale-up studies for new technologies within the research laboratory and pilot plant facilities.  The successful candidate will bring technical experience and competence to the Smallfood R&D team."
 proteins: [Algae, Microbial]
 products: [Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "Dartmouth"
+country: 
+country_code: 
+how_to_apply: "<p>Please forward your cover letter and resume to <a href=\"mailto:careers@smallfood.com\">careers@smallfood.com</a> to apply. </p>"
 images: []
 draft: false
 pinned: false

@@ -8,10 +8,17 @@ description: "Clara Foods is seeking a mission-driven professional to join the S
 excerpt: "Clara Foods is seeking a mission-driven professional to join the Strategy & Partnerships team. Key qualities include a demonstrated ability to work independently, logically frame a problem, communicate recommendation-oriented analyses, and drive towards a desired outcome. The Strategy & Partnerships Extern will help craft and execute Clara Foods’ strategic vision. This position directly reports to the Manager, Strategy & Partnerships."
 proteins: [Cell-Based, Microbial]
 products: [Eggs]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Internship]
+remote: Internship
+work_environment: []
+work_hours: [Full-Time]
+city: ""
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

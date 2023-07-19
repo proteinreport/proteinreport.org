@@ -8,10 +8,18 @@ description: "BACKGROUND:Roslin Technologies is an ambitious, cutting‐edge bio
 excerpt: "BACKGROUND:Roslin Technologies is an ambitious, cutting‐edge biotech company focused on food and agriculture. Our mission is to advance disruptive biotechnologies to improve how we produce proteins. Alternative proteins are key for a more sustainable food system. We envision a world where we can produce animal proteins without harming our health, the planet, or animals and ensure everyone has access to affordable, nutritious proteins."
 proteins: [Cell-Based]
 products: [Meat, Seafood, Cell Culture Media]
-topics: [NA]
+topics: []
 regions: [Europe]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Office]
+work_hours: [Full-Time]
+city: "Roslin"
+country: 
+country_code: 
+how_to_apply: "<p>This role is for a permanent full-time contract.<strong> </strong>We will offer a competitive and attractive compensation package.</p>
+<p>For enquiries, please contact Dr Sheena Fraser (<a href=\"mailto:sheena.fraser@roslintech.com\">sheena.fraser@roslintech.com)</a>. To apply, please send a CV and cover letter explaining why you have applied for the post to <a href=\"mailto:careers@roslintech.com\">careers@roslintech.com</a>.</p>"
 images: []
 draft: false
 pinned: false

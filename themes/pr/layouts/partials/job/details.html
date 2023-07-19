@@ -1,0 +1,44 @@
+<div class="flex flex-col gap-2 m-2">
+  {{ if .Params.proteins -}}
+    <h3 class="border-b-2 w-1/2 font-bold">Protein focus</h3>
+    <div class="flex flex-row flex-wrap gap-2">
+      {{ range $index, $proteins := .Params.proteins -}}
+        <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{ end -}}
+    </div>
+  {{ end -}}
+
+  {{ if .Params.products -}}
+    <h3 class="border-b-2 w-1/2 font-bold">Product focus</h3>
+    <div class="flex flex-row flex-wrap gap-2">
+      {{ range $index, $products := .Params.products -}}
+        <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{ end -}}
+    </div>
+  {{ end -}}
+
+  {{ if .Params.city }}
+    <h3 class="border-b-2 w-1/2 font-bold">Location</h3>
+    {{ if .Params.country }}
+      {{ if ne .Params.city .Params.country }}
+        {{ .Params.city }}, {{ .Params.country }}
+      {{ else }}
+        {{ .Params.city }}
+      {{ end }}
+    {{ else }}
+      {{ .Params.city }}
+    {{ end }}
+  {{ else if .Params.country }}
+    <h3 class="border-b-2 w-1/2 font-bold">Location</h3>
+    {{ .Params.country }}
+  {{ end }}
+
+  {{ if .Params.regions -}}
+  <h3 class="border-b-2 w-1/2 font-bold">Region focus</h3>
+  <div class="flex flex-row flex-wrap gap-2">
+      {{ range $index, $regions := .Params.regions -}}
+        <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{ end -}}
+  </div>
+  {{ end -}}
+</div>

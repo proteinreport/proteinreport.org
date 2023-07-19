@@ -8,10 +8,17 @@ description: "Do you have a passion for using biotechnology to build sustainable
 excerpt: "Do you have a passion for using biotechnology to build sustainable new sources of animal-free protein? Do you want to join a new community of entrepreneurs, activists and scientists who recognize that the decades old factory farm model cannot sustain the dietary needs of 7 billion people? Then we are looking for you. You will love our mission of using innovative strain technology and advanced fermentation processes to create novel sources of protein for human nutrition."
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "South San Francisco"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

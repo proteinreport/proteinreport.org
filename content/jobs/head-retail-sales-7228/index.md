@@ -8,10 +8,17 @@ description: "Planterra Foods is a fully funded plant-based protein start-up. It
 excerpt: "Planterra Foods is a fully funded plant-based protein start-up. It’s an investment by the JBS Company, the second largest global food company and the world’s largest protein producer.We are building our team and looking for talented and driven professionals for a Head of Retail Sales role based in Lafayette, CO who will help us create the best plant-based protein company in the world.RESPONSIBILITIES:"
 proteins: [Plant-Based]
 products: [Meat]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "Lafayette"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

@@ -8,10 +8,17 @@ description: "Balletic Foods is seeking a highly motivated nutritionist to lead 
 excerpt: "Balletic Foods is seeking a highly motivated nutritionist to lead research on specialized nutrition solutions. The ideal candidate will be open-minded, detail-oriented, organized & a team player with a passion for solving nutritional challenges of today and tomorrow.About Us"
 proteins: [Microbial]
 products: [Meat, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed]
+work_hours: [Full-Time]
+city: "Davis"
+country: 
+country_code: 
+how_to_apply: "<p>If you are interested in this position, please contact <a href=\"mailto:careers@balleticfoods.com\"><u>careers@balleticfoods.com</u></a>. </p>"
 images: []
 draft: false
 pinned: false

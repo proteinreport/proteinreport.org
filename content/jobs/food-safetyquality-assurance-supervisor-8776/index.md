@@ -8,10 +8,17 @@ description: "The Better Meat Co. (BMC) is an innovative protein ingredient comp
 excerpt: "The Better Meat Co. (BMC) is an innovative protein ingredient company based in West Sacramento, California. Our approach is simple: bring the conventional meat industry and the emerging plant-based protein movement together to create hybrid meat products that leave a much lighter footprint than those that are solely meat. We produce plant-protein ingredients designed to seamlessly blend into conventional meat, thereby enhancing taste, nutrition, and sustainability."
 proteins: [Plant-Based]
 products: [Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed]
+work_hours: [Full-Time]
+city: "West Sacramento"
+country: 
+country_code: 
+how_to_apply: "<p>Please email resume and cover letter to: <a href=\"mailto:doni.curkendall@bettermeat.co\">doni.curkendall@bettermeat.co</a> or apply on Indeed:</p>"
 images: []
 draft: false
 pinned: false

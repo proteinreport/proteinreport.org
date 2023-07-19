@@ -8,10 +8,17 @@ description: "The Better Meat Co. (BMC) is a sustainable food tech startup based
 excerpt: "The Better Meat Co. (BMC) is a sustainable food tech startup based in Sacramento, California. Well-funded and partnered with major food companies like Hormel Foods, we’ve built and are operating North America’s largest mycelium biomass fermentation facility, advancing our patented technology to create the most sustainable food future for our planet. ________________________________________________"
 proteins: [Fungi]
 products: [Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Factory]
+work_hours: [Full-Time]
+city: "West Sacramento"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://www.linkedin.com/jobs/view/2813089854/\">https://www.linkedin.com/jobs/view/2813089854/</a> or email resume to <a href=\"mailto:doni.curkendall@bettermeat.co\">doni.curkendall@bettermeat.co</a></p>"
 images: []
 draft: false
 pinned: false

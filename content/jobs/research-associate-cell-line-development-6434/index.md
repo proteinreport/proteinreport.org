@@ -8,10 +8,17 @@ description: "At the forefront of farming and food, Memphis Meats is innovating 
 excerpt: "At the forefront of farming and food, Memphis Meats is innovating new ways to produce real meat, without the need to breed, feed and slaughter animals. Our process begins with an animal cell, which is cultivated and harvested as meat. Memphis Meats is a mission-driven company focused on bringing to meat lovers an authentic product that is truly humane, sustainably produced, nutritious and delicious! We are now expanding our team of dedicated professionals across disciplines to make better meat for a better world."
 proteins: [Cell-Based]
 products: [Meat]
-topics: [NA]
-regions: [NA]
+topics: []
+regions: []
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "Berkely"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

@@ -8,10 +8,17 @@ description: "About Cultivated BiosciencesOur mission is to empower plant-based 
 excerpt: "About Cultivated BiosciencesOur mission is to empower plant-based dairy to give it the creaminess and mouthfeel consumers strive for. To do this we are developing creamy fat ingredients from non-GMO yeast to be sold as B2B ingredients.Your missionAs Founder Associate you will be responsible for supporting the founders in their day to day tasks. The activities can vary and can include supporting applications to grant and prizes, preparation of slides, social media communication and other tasks.  "
 proteins: [Microbial]
 products: [Dairy, Ingredients]
-topics: [NA]
+topics: []
 regions: [Europe]
 flags: []
-directory: []
+job_type: [Internship]
+remote: Internship
+work_environment: [Mixed, Office]
+work_hours: [Full-Time]
+city: "Zurich"
+country: 
+country_code: 
+how_to_apply: "<p>Apply using the google form link</p>"
 images: []
 draft: false
 pinned: false

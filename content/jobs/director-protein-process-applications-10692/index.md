@@ -8,10 +8,17 @@ description: "ABOUT AIR PROTEINImagine a meat company unlike anything that has c
 excerpt: "ABOUT AIR PROTEINImagine a meat company unlike anything that has come before! Air Protein™ is on a mission to impact climate change by revolutionizing how we make meat. Founded in 2019, we make protein from elements of the air."
 proteins: [Cell-Based, Microbial]
 products: [Meat, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Mixed]
+work_hours: [Full-Time]
+city: "San Leandro"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

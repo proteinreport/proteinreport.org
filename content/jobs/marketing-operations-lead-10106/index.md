@@ -6,12 +6,19 @@ slug: marketing-operations-lead-10106
 company: 7022
 description: "Helaina is a team brought together by the belief that health and developmental outcomes of all infants can be improved through nutritional options closest to breast milk. Our team is revolutionizing the infant nutrition space by developing a food product meant to uniquely support babies in their earliest stages. Helaina’s R&D ecosystem harnesses the power of naturally occurring biological processes in tandem with modern advances in the space of synthetic biology, fermentation, and improved industrial processing. "
 excerpt: "Helaina is a team brought together by the belief that health and developmental outcomes of all infants can be improved through nutritional options closest to breast milk. Our team is revolutionizing the infant nutrition space by developing a food product meant to uniquely support babies in their earliest stages. Helaina’s R&D ecosystem harnesses the power of naturally occurring biological processes in tandem with modern advances in the space of synthetic biology, fermentation, and improved industrial processing. "
-proteins: [NA]
-products: [NA]
-topics: [NA]
+proteins: []
+products: []
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "New York"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

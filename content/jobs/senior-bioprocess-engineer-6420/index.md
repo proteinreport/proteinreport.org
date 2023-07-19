@@ -8,10 +8,17 @@ description: "BlueNalu, Inc. is a fast-growing, San Diego-based company that is 
 excerpt: "BlueNalu, Inc. is a fast-growing, San Diego-based company that is pioneering the production of seafood products derived directly from fish cells. Using proprietary cell biology techniques and engineering processes, BlueNalu’s platform technology can produce a wide array of value-added seafood products, that are healthy for people, humane for animals, and sustainable for the planet. Our products will contain no mercury, microplastics or other contaminants, and do not require genetic modification.Position Overview"
 proteins: [Cell-Based]
 products: [Seafood, Cell Culture Media]
-topics: [NA]
-regions: [NA]
+topics: []
+regions: []
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Mixed]
+work_hours: [Full-Time]
+city: "San Diego"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

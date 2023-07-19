@@ -8,10 +8,17 @@ description: "Bond Pet Foods, one of the hottest startups in biotech and pet car
 excerpt: "Bond Pet Foods, one of the hottest startups in biotech and pet care, is looking to round out its core team with a Brand Manager. This is a rare opportunity for the right person to help steer a business that is radically changing the pet food industry by disrupting the outdated, unsustainable model of conventional agriculture."
 proteins: [Cell-Based]
 products: [Pet Food]
-topics: [NA]
-regions: [NA]
+topics: []
+regions: []
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Office]
+work_hours: [Full-Time]
+city: "Boulder"
+country: 
+country_code: 
+how_to_apply: "<p>Please send your resume and cover letter to <a href=\"mailto:jobs@bondpets.com\">jobs@bondpets.com</a></p>"
 images: []
 draft: false
 pinned: false

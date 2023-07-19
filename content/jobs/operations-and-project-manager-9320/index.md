@@ -8,10 +8,17 @@ description: "Helaina is a team brought together by the belief that the health a
 excerpt: "Helaina is a team brought together by the belief that the health and developmental outcomes of all infants can be improved through nutritional options closest to breast milk. Our team is revolutionizing the infant nutrition space by developing a food product meant to uniquely support babies in their earliest stages. Helaina’s R&D ecosystem harnesses the power of naturally-occurring biological processes in tandem with modern advances in the space of synthetic biology, fermentation, and improved industrial processing."
 proteins: [Microbial]
 products: [Dairy]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Office]
+work_hours: [Full-Time]
+city: "New York"
+country: 
+country_code: 
+how_to_apply: "<p><strong>Send CV/Resume to <a href=\"mailto:careers@myhelaina.com\">careers@myhelaina.com</a></strong></p>"
 images: []
 draft: false
 pinned: false

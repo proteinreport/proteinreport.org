@@ -8,10 +8,17 @@ description: "Full Time Lab Assistant, Strain Engineering/Lab Operations"
 excerpt: "Full Time Lab Assistant, Strain Engineering/Lab Operations"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "SOUTH SAN FRANCISCO"
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/5NbaFaGkfC/Lab-Assistant-Strain-EngineeringLab-Operations?source=proteinreport\">https://clarafoods.applytojob.com/apply/5NbaFaGkfC/Lab-Assistant-Strain…</a></p>"
 images: []
 draft: false
 pinned: false

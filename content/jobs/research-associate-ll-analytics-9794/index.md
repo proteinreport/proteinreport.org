@@ -8,10 +8,17 @@ description: "Job Title: Research Associate ll - Analytics Reports to: Analytic
 excerpt: "Job Title: Research Associate ll - Analytics Reports to: Analytical ManagerFLSA Status: Exempt, full-timeLocation: South San Francisco, CA; or remote______________________________________________________Overview:"
 proteins: [Microbial]
 products: [Eggs, Ingredients]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Mixed, Office]
+work_hours: [Full-Time]
+city: ""
+country: 
+country_code: 
+how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/Bks38ydsWA/Research-Associate-Ll-Analytics\">https://clarafoods.applytojob.com/apply/Bks38ydsWA/Research-Associate-L…</a></p>"
 images: []
 draft: false
 pinned: false

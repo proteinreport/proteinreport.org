@@ -12,7 +12,9 @@ setwd(here("content/jobs"))
 # read drupal data export into dataframe
 import_data <- read_csv("jobs.csv") %>%
   as_tibble()
-#import_data[is.na(import_data)] = ""
+# remove NA values
+import_data$company <- as.character(import_data$company)
+import_data <- replace(import_data, is.na(import_data), "")
 # fix date formatting
 import_data$date <- as.character(import_data$date)
 # decode apostrophe across entire data frame
@@ -61,7 +63,14 @@ for (row in 1:nrow(import_data)) {
   write(paste("topics: [",import_data[row,]$topics, "]", sep = ""), file_path, append = T)
   write(paste("regions: [",import_data[row,]$regions, "]", sep = ""), file_path, append = T)
   write(paste("flags: [",import_data[row,]$flags, "]", sep = ""), file_path, append = T)
-  write(paste("directory: [",import_data[row,]$directory, "]", sep = ""), file_path, append = T)
+  write(paste("job_type: [",import_data[row,]$job_type, "]", sep = ""), file_path, append = T)
+  write(paste("remote: ",import_data[row,]$job_type, sep = ""), file_path, append = T)
+  write(paste("work_environment: [",import_data[row,]$work_environment, "]", sep = ""), file_path, append = T)
+  write(paste("work_hours: [",import_data[row,]$work_hours, "]", sep = ""), file_path, append = T)
+  write(paste("city: ",shQuote(import_data[row,]$city), sep = ""), file_path, append = T)
+  write(paste("country: ",shQuote(import_data[row,]$country), sep = ""), file_path, append = T)
+  write(paste("country_code: ",shQuote(import_data[row,]$country_code), sep = ""), file_path, append = T)
+  write(paste("how_to_apply: ",shQuote(import_data[row,]$how_to_apply), sep = ""), file_path, append = T)
   #write(paste("contributors: [",import_data[row,]$contributors, "]", sep = ""), file_path, append = T)
   write(paste("images: [", "]", sep = ""), file_path, append = T)
   #write(paste("additional_images: [",import_data[row,]$additional_images, "]", sep = ""), file_path, append = T)

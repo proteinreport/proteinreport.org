@@ -7,11 +7,18 @@ company: 234
 description: "JUST is looking for a highly motivated, hands-on Scientist to be a part of our Protein and Analytical Chemistry team. You will play a key role in our ongoing product development and research projects, working closely with other departments in R&D. This position will primarily be responsible for protein characterization and method development of protein analyses to support our current products and to assist in the development of new products. Responsibilities Perform analysis and characterization of proteins and protein mixtures "
 excerpt: "JUST is looking for a highly motivated, hands-on Scientist to be a part of our Protein and Analytical Chemistry team. You will play a key role in our ongoing product development and research projects, working closely with other departments in R&D. This position will primarily be responsible for protein characterization and method development of protein analyses to support our current products and to assist in the development of new products. Responsibilities Perform analysis and characterization of proteins and protein mixtures "
 proteins: [Plant-Based]
-products: [NA]
-topics: [NA]
+products: []
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory]
+work_hours: [Full-Time]
+city: "San Francisco"
+country: 
+country_code: 
+how_to_apply: ""
 images: []
 draft: false
 pinned: false

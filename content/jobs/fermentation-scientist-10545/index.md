@@ -8,10 +8,17 @@ description: "About Cultivated BiosciencesOur mission is to empower plant-based 
 excerpt: "About Cultivated BiosciencesOur mission is to empower plant-based dairy to give it the creaminess and mouthfeel consumers strive for. To do this we are developing creamy fat ingredients from non-GMO yeast to be sold as B2B ingredients.Your mission"
 proteins: [Fungi, Microbial]
 products: [Dairy, Ingredients]
-topics: [NA]
+topics: []
 regions: [Europe]
 flags: []
-directory: []
+job_type: [Employment]
+remote: Employment
+work_environment: [Laboratory, Office]
+work_hours: [Full-Time]
+city: "Zurich"
+country: 
+country_code: 
+how_to_apply: "<p>Fill the form in the link</p>"
 images: []
 draft: false
 pinned: false

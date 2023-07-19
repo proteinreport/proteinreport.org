@@ -8,10 +8,17 @@ description: "Note: these are unpaid, volunteer opportunities for students."
 excerpt: "Note: these are unpaid, volunteer opportunities for students."
 proteins: [Cell-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients, Cell Culture Media, Scaffolding & Structure, Technology & Equipment, Materials]
-topics: [NA]
+topics: []
 regions: [US & Canada]
 flags: []
-directory: []
+job_type: [Internship, Volunteer]
+remote: Internship, Volunteer
+work_environment: [Laboratory, Mixed, Office]
+work_hours: [Part-Time]
+city: ""
+country: 
+country_code: 
+how_to_apply: "<p>Please reach out to Jasmin Kern (<a href=\"mailto:jkern@mit.edu\">jkern@mit.edu</a>) or Sean Baker (<a href=\"mailto:sbaker8@wisc.edu\">sbaker8@wisc.edu</a>) with any questions/queries regarding the application process.</p>"
 images: []
 draft: false
 pinned: false
