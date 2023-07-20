@@ -35,10 +35,56 @@ pinned: false
 homepage: false
 uuid: 8980
 ---
-<p><em>Shanghai-based HERO Protein adds new CEO Vicky Lee, former senior executive at McDonald’s and other leading restaurant brands</em></p>
-<p><strong>Shanghai</strong> — Plant-based meat company HERO Protein announced today that Vicky Lee, former CMO of McDonald’s Taiwan and former Group Vice President at major restaurant brand Xiabu Xiabu, has joined as CEO to help accelerate the company’s growth. HERO Protein’s plant-based chicken and beef products, which are created with cutting edge high moisture extrusion technology to mimic real meat texture, launched on the market in January and have already landed at a range of top restaurants and corporate and school dining facilities in Shanghai.</p>
-<p>"I am very excited to join the team at HERO Protein, where we share the mission to create healthier and more sustainable alternatives for Chinese consumers,” said HERO Protein CEO Vicky Lee. “With growing concerns on health, food safety and sustainability in China, I believe the development of plant-based foods is a key part of the solution, and we have the right technology and people at HERO Protein to bring the best offerings to the market."</p>
-<p>Lee joins HERO Protein with more than 20 years of experience in the food industry, including 15 years at McDonald’s Corporation where she last served as CMO of McDonald’s Taiwan, leading the company to ten consecutive years of positive same-store growth. She also served as Group Vice President of Xiabu Xiabu Catering Management (China) Holdings Co., China’s second largest hotpot restaurant chain, and Group Vice President and General Manager at Better Me Precision Nutrition.</p>
-<p>In addition to the appointment of Lee as CEO, HERO Protein also announced the re-branding of its Chinese name to better emphasize its mission and vision. The new name, 植物家, can be translated as both “plant-based pioneer” and “plant-based powerhouse,” demonstrating the company’s ambition to lead the development of the new protein industry in China and make plant-based foods a daily staple of Chinese households. The company, which has already received financial backing from leading food corporates and investors in the alternative protein space, will be opening a Seed fundraising round this month.</p>
-<p>HERO Protein is the first domestic company in China to sell plant-based meat products produced using high moisture extrusion. Founded in 2020 and based in Shanghai, HERO Protein has combined the formulation expertise of R&D experts who crafted products for leading global plant-based brands Beyond Meat and Impossible Foods with a local leadership team that has deep expertise in the restaurant, food service and grocery sectors in China. HERO aims to become the leading plant-based meat brand delivering best-in-class plant-based products formulated specifically for the Chinese market. The company was named to the International Future Agrifood 2020 Alternative Protein Top 20 list, and was a winner of TechNode Global’s 2020 ORIGIN Innovation Awards in the Food & AgriTech category.</p>
-<p>For more information on HERO Protein, visit: <a href="http://www.heroprotein.cn/en">http://www.heroprotein.cn/en</a></p>
+*Shanghai-based HERO Protein adds new CEO Vicky Lee, former senior
+executive at McDonald's and other leading restaurant brands*
+
+**Shanghai** --- Plant-based meat company HERO Protein announced today
+that Vicky Lee, former CMO of McDonald's Taiwan and former Group Vice
+President at major restaurant brand Xiabu Xiabu, has joined as CEO to
+help accelerate the company's growth. HERO Protein's plant-based chicken
+and beef products, which are created with cutting edge high moisture
+extrusion technology to mimic real meat texture, launched on the market
+in January and have already landed at a range of top restaurants and
+corporate and school dining facilities in Shanghai.
+
+\"I am very excited to join the team at HERO Protein, where we share the
+mission to create healthier and more sustainable alternatives for
+Chinese consumers," said HERO Protein CEO Vicky Lee. "With growing
+concerns on health, food safety and sustainability in China, I believe
+the development of plant-based foods is a key part of the solution, and
+we have the right technology and people at HERO Protein to bring the
+best offerings to the market.\"
+
+Lee joins HERO Protein with more than 20 years of experience in the food
+industry, including 15 years at McDonald's Corporation where she last
+served as CMO of McDonald's Taiwan, leading the company to ten
+consecutive years of positive same-store growth. She also served as
+Group Vice President of Xiabu Xiabu Catering Management (China) Holdings
+Co., China's second largest hotpot restaurant chain, and Group Vice
+President and General Manager at Better Me Precision Nutrition.
+
+In addition to the appointment of Lee as CEO, HERO Protein also
+announced the re-branding of its Chinese name to better emphasize its
+mission and vision. The new name, 植物家, can be translated as both
+"plant-based pioneer" and "plant-based powerhouse," demonstrating the
+company's ambition to lead the development of the new protein industry
+in China and make plant-based foods a daily staple of Chinese
+households. The company, which has already received financial backing
+from leading food corporates and investors in the alternative protein
+space, will be opening a Seed fundraising round this month.
+
+HERO Protein is the first domestic company in China to sell plant-based
+meat products produced using high moisture extrusion. Founded in 2020
+and based in Shanghai, HERO Protein has combined the formulation
+expertise of R&D experts who crafted products for leading global
+plant-based brands Beyond Meat and Impossible Foods with a local
+leadership team that has deep expertise in the restaurant, food service
+and grocery sectors in China. HERO aims to become the leading
+plant-based meat brand delivering best-in-class plant-based products
+formulated specifically for the Chinese market. The company was named to
+the International Future Agrifood 2020 Alternative Protein Top 20 list,
+and was a winner of TechNode Global's 2020 ORIGIN Innovation Awards in
+the Food & AgriTech category.
+
+For more information on HERO Protein, visit:
+<http://www.heroprotein.cn/en>
