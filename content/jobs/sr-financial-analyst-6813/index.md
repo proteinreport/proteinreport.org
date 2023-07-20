@@ -26,33 +26,56 @@ pinned: false
 homepage: false
 uuid: 6813
 ---
-<p>Perfect Day is working to commercialize its first animal-free dairy protein products. We are seeking a highly skilled Senior Financial Analyst to act as a trusted financial and business partner to Perfect Day’s senior management. The ideal candidate will have strong technical and interpersonal skills and be driven to do what it takes to contribute to a small cross-functional team in a fast paced, collaborative, start-up environment.</p>
-<p><strong>YOUR CONTRIBUTIONS:</strong></p>
-<ul>
-<li>Prepare quarterly budget vs actual reporting and analysis.</li>
-<li>Recommend benchmarks against which to measure the performance of company operations.</li>
-<li>Provide insightful information and expectations to senior executives to aid in long-term and short-term decision making</li>
-<li>Prepares the development and communication of the budget and forecast, financial reporting, operational analysis and executive reviews.</li>
-<li>Evaluate business results and serve as a functional expert to the business client to provide strategic guidance and insights during the analysis process.</li>
-<li>Interpret and evaluate monthly analyses of business trends, including budget variance of financial results and Key Performance Indicators to identify areas of risk and opportunities and provide recommendations.</li>
-<li>Use financial modeling to simulate financial scenarios</li>
-<li>Present potential scenarios and outcomes to management team</li>
-<li>Partner with the business to develop costing/profitability models and reports.</li>
-<li>Prepare the impact of strategic financial decisions and present recommendations to leadership.</li>
-<li>Assess capital requirements, develop capital plan and provide recommendations on capital allocation.</li>
-<li>Present and communicate to all levels of the business.</li>
-<li>Work closely with broader sales team to provide timely and accurate updates to senior leadership and articulate business insights.</li>
-<li>Provide ad hoc analysis to enable insightful color of business performances and support decision making.</li>
-<li>Build strong partnership with a broad range of cross-functional and global teams.</li>
-</ul>
-<p><strong>QUALIFICATIONS</strong></p>
-<ul>
-<li>BS or BA in Accounting, Finance, or Economics; MBA preferred.</li>
-<li>2-4 years of relevant experience.</li>
-<li>Highly proficient in Excel and modeling required. </li>
-<li>Dependable, hardworking, organized and a self-starter.</li>
-<li>This position requires meticulous attention to detail and accuracy.</li>
-<li>Organization, prioritization and being exceptional at managing multiple projects and meeting deadlines while maintaining high customer service are keys to success in this position.</li>
-<li>Excellent written and verbal communication skills.</li>
-<li>Strong team spirit.</li>
-</ul>
+Perfect Day is working to commercialize its first animal-free dairy
+protein products. We are seeking a highly skilled Senior Financial
+Analyst to act as a trusted financial and business partner to Perfect
+Day's senior management. The ideal candidate will have strong technical
+and interpersonal skills and be driven to do what it takes to contribute
+to a small cross-functional team in a fast paced, collaborative,
+start-up environment.
+
+**YOUR CONTRIBUTIONS:**
+
+-   Prepare quarterly budget vs actual reporting and analysis.
+-   Recommend benchmarks against which to measure the performance of
+    company operations.
+-   Provide insightful information and expectations to senior executives
+    to aid in long-term and short-term decision making
+-   Prepares the development and communication of the budget and
+    forecast, financial reporting, operational analysis and executive
+    reviews.
+-   Evaluate business results and serve as a functional expert to the
+    business client to provide strategic guidance and insights during
+    the analysis process.
+-   Interpret and evaluate monthly analyses of business trends,
+    including budget variance of financial results and Key Performance
+    Indicators to identify areas of risk and opportunities and provide
+    recommendations.
+-   Use financial modeling to simulate financial scenarios
+-   Present potential scenarios and outcomes to management team
+-   Partner with the business to develop costing/profitability models
+    and reports.
+-   Prepare the impact of strategic financial decisions and present
+    recommendations to leadership.
+-   Assess capital requirements, develop capital plan and provide
+    recommendations on capital allocation.
+-   Present and communicate to all levels of the business.
+-   Work closely with broader sales team to provide timely and accurate
+    updates to senior leadership and articulate business insights.
+-   Provide ad hoc analysis to enable insightful color of business
+    performances and support decision making.
+-   Build strong partnership with a broad range of cross-functional and
+    global teams.
+
+**QUALIFICATIONS**
+
+-   BS or BA in Accounting, Finance, or Economics; MBA preferred.
+-   2-4 years of relevant experience.
+-   Highly proficient in Excel and modeling required. 
+-   Dependable, hardworking, organized and a self-starter.
+-   This position requires meticulous attention to detail and accuracy.
+-   Organization, prioritization and being exceptional at managing
+    multiple projects and meeting deadlines while maintaining high
+    customer service are keys to success in this position.
+-   Excellent written and verbal communication skills.
+-   Strong team spirit.

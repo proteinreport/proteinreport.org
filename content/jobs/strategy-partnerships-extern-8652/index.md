@@ -26,34 +26,62 @@ pinned: false
 homepage: false
 uuid: 8652
 ---
-<p>Clara Foods is seeking a mission-driven professional to join the Strategy & Partnerships team. Key qualities include a demonstrated ability to work independently, logically frame a problem, communicate recommendation-oriented analyses, and drive towards a desired outcome. The Strategy & Partnerships Extern will help craft and execute Clara Foods’ strategic vision. This position directly reports to the <em>Manager, Strategy & Partnerships</em>.</p>
-<p>In lieu of a cover letter, please email <a href="mailto:lance.lively@clarafoods.com">lance.lively@clarafoods.com</a> with two to three sentences addressing <strong>each</strong> of the following questions:</p>
-<ol>
-<li>Why are you interested in the alternative protein / synthetic biology industry?</li>
-<li>Why are you interested in the Strategy & Partnerships Extern role?</li>
-<li>What is your proudest professional accomplishment?</li>
-<li>What is a compelling corp dev / partnership opportunity Clara Foods should consider? Why?</li>
-</ol>
-<p><em>FLSA Status</em>: Non-Exempt </p>
-<p><em>Duration</em>: 6 to 9 months</p>
-<p><em>Location</em>: 100% remote</p>
-<p><strong><u>RESPONSIBILITIES </u></strong></p>
-<ul>
-<li><strong>Strategic Roadmap</strong> – help develop and execute a comprehensive, company-wide technology and commercial strategy plans</li>
-<li><strong>Corp Dev </strong>& <strong>Partnerships</strong> – source, diligence, and help close complex deals to accelerate R&D, manufacturing, and commercialization</li>
-<li><strong>Licensing</strong> – contribute to out-licensing strategy, business case creation, and deal structuring</li>
-<li><strong>Go-to-Market</strong> – build the strategy and go-to-market framework for new product launches</li>
-<li><strong>Fundraising</strong> – create data room and support due diligence for Series C fundraise</li>
-<li><strong>Special Projects</strong> – identify gaps, propose solutions, and deliver outcomes that create outsized value</li>
-</ul>
-<p><strong><u>QUALIFICATIONS </u></strong></p>
-<ul>
-<li>2+ years of experience in management consulting, corporate strategy, and/or startup operations</li>
-<li>Experience at a high-growth biotech, food, and/or agribusiness startup preferred, but not required</li>
-<li>Bachelor’s degree in business, life sciences, or engineering preferred, but not required</li>
-<li>Experience working with cross-functional teams to enable decision-making</li>
-<li>Capacity to handle ambiguity and adapt to changing business needs with a bias for action</li>
-<li>Strong organizational and prioritization skills under tight and competing deadlines</li>
-<li>Excellent project management, problem solving, analytical, and interpersonal skills</li>
-<li>Mission-driven, resourceful, team-oriented, and low-ego with a positive attitude</li>
-</ul>
+Clara Foods is seeking a mission-driven professional to join the
+Strategy & Partnerships team. Key qualities include a demonstrated
+ability to work independently, logically frame a problem, communicate
+recommendation-oriented analyses, and drive towards a desired outcome.
+The Strategy & Partnerships Extern will help craft and execute Clara
+Foods' strategic vision. This position directly reports to the *Manager,
+Strategy & Partnerships*.
+
+In lieu of a cover letter, please email <lance.lively@clarafoods.com>
+with two to three sentences addressing **each** of the following
+questions:
+
+1.  Why are you interested in the alternative protein / synthetic
+    biology industry?
+2.  Why are you interested in the Strategy & Partnerships Extern role?
+3.  What is your proudest professional accomplishment?
+4.  What is a compelling corp dev / partnership opportunity Clara Foods
+    should consider? Why?
+
+*FLSA Status*: Non-Exempt 
+
+*Duration*: 6 to 9 months
+
+*Location*: 100% remote
+
+**[RESPONSIBILITIES]{.underline}**
+
+-   **Strategic Roadmap** -- help develop and execute a comprehensive,
+    company-wide technology and commercial strategy plans
+-   **Corp Dev** & **Partnerships** -- source, diligence, and help close
+    complex deals to accelerate R&D, manufacturing, and
+    commercialization
+-   **Licensing** -- contribute to out-licensing strategy, business case
+    creation, and deal structuring
+-   **Go-to-Market** -- build the strategy and go-to-market framework
+    for new product launches
+-   **Fundraising** -- create data room and support due diligence for
+    Series C fundraise
+-   **Special Projects** -- identify gaps, propose solutions, and
+    deliver outcomes that create outsized value
+
+**[QUALIFICATIONS]{.underline}**
+
+-   2+ years of experience in management consulting, corporate strategy,
+    and/or startup operations
+-   Experience at a high-growth biotech, food, and/or agribusiness
+    startup preferred, but not required
+-   Bachelor's degree in business, life sciences, or engineering
+    preferred, but not required
+-   Experience working with cross-functional teams to enable
+    decision-making
+-   Capacity to handle ambiguity and adapt to changing business needs
+    with a bias for action
+-   Strong organizational and prioritization skills under tight and
+    competing deadlines
+-   Excellent project management, problem solving, analytical, and
+    interpersonal skills
+-   Mission-driven, resourceful, team-oriented, and low-ego with a
+    positive attitude

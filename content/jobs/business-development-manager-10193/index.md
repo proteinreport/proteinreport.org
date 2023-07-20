@@ -26,31 +26,52 @@ pinned: false
 homepage: false
 uuid: 10193
 ---
-<p>Balletic Foods is seeking a Business Development Manager to support business strategies in our collaborative and fast-paced start-up environment.</p>
-<p><strong>About Us</strong><br />
-Balletic Foods is a California based company working towards a sustainable food system by combining science and technology to create new sources of animal-free protein. If you are passionate about using biotechnology to build sustainable new sources of animal-free protein, join our team of entrepreneurs and scientists.</p>
-<p><strong>Qualifications</strong></p>
-<ul>
-<li>A self-starter with excellent organizational skills including prioritizing, scheduling, time management, and meeting deadlines</li>
-<li>A positive and inclusive team player with the ability to communicate effectively in oral presentations and written communications</li>
-<li>Able to work autonomously and not afraid to speak up and ask questions</li>
-<li>Passionate about changing the world’s food system and able to work under tight deadlines</li>
-</ul>
-<p><strong>Responsibilities</strong></p>
-<ul>
-<li>Supporting functions of corporate strategy and business development</li>
-<li>Track record of end-to-end ownership of strategic projects – from defining goals and objectives, to due diligence and analysis, to delivering final business plans and roadmaps</li>
-<li>Work closely with the executive team to define the strategic direction of the company</li>
-<li>Lead deep-dive analysis on various topics to evaluate business opportunities and partnerships</li>
-<li>Analyze and leverage external and internal data to identify potential business improvements and propose business expansion areas</li>
-<li>Assists in the development of strategic plans for existing, new or proposed business operations</li>
-</ul>
-<p><strong>Requirements</strong></p>
-<ul>
-<li>Bachelor’s or Master’s Degree with 2+ years relevant experience working in strategy and or business development roles</li>
-<li>Knowledge of CRM systems such as Salesforce</li>
-<li>Excellent oral, written, and presentation skills</li>
-<li>Entrepreneurial and self-starting, able to proactively managing opportunities, but also working with the team to move strategy and business development initiatives forward</li>
-<li>Strong analytical skill set and the ability to build and articulate strategic business cases</li>
-<li>Science communication and marketing experience are a plus </li>
-</ul>
+Balletic Foods is seeking a Business Development Manager to support
+business strategies in our collaborative and fast-paced start-up
+environment.
+
+**About Us**\
+Balletic Foods is a California based company working towards a
+sustainable food system by combining science and technology to create
+new sources of animal-free protein. If you are passionate about using
+biotechnology to build sustainable new sources of animal-free protein,
+join our team of entrepreneurs and scientists.
+
+**Qualifications**
+
+-   A self-starter with excellent organizational skills including
+    prioritizing, scheduling, time management, and meeting deadlines
+-   A positive and inclusive team player with the ability to communicate
+    effectively in oral presentations and written communications
+-   Able to work autonomously and not afraid to speak up and ask
+    questions
+-   Passionate about changing the world's food system and able to work
+    under tight deadlines
+
+**Responsibilities**
+
+-   Supporting functions of corporate strategy and business development
+-   Track record of end-to-end ownership of strategic projects -- from
+    defining goals and objectives, to due diligence and analysis, to
+    delivering final business plans and roadmaps
+-   Work closely with the executive team to define the strategic
+    direction of the company
+-   Lead deep-dive analysis on various topics to evaluate business
+    opportunities and partnerships
+-   Analyze and leverage external and internal data to identify
+    potential business improvements and propose business expansion areas
+-   Assists in the development of strategic plans for existing, new or
+    proposed business operations
+
+**Requirements**
+
+-   Bachelor's or Master's Degree with 2+ years relevant experience
+    working in strategy and or business development roles
+-   Knowledge of CRM systems such as Salesforce
+-   Excellent oral, written, and presentation skills
+-   Entrepreneurial and self-starting, able to proactively managing
+    opportunities, but also working with the team to move strategy and
+    business development initiatives forward
+-   Strong analytical skill set and the ability to build and articulate
+    strategic business cases
+-   Science communication and marketing experience are a plus 

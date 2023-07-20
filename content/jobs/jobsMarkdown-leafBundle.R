@@ -42,6 +42,7 @@ for (row in 1:nrow(import_data)) {
   # get body
   content <- select(import_data[row,], body) %>%
     as.character()
+  content <- pandoc::pandoc_convert(text = content, from="html", to="markdown")
   # write to file
   write("---", file_path)
   #write(fm, file_path, append = T)

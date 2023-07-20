@@ -26,17 +26,31 @@ pinned: false
 homepage: false
 uuid: 11008
 ---
-<p><strong>Duration:</strong> 12 weeks</p>
-<p><strong>About Us</strong></p>
-<p>Balletic Foods™ is a California based company working towards a sustainable food system by combining science and technology to create new sources of animal-free protein. If you are passionate about using biotechnology to build sustainable new sources of protein, join our team of scientists and entrepreneurs to change the world’s food system.</p>
-<p><strong>Qualifications</strong></p>
-<p>– Motivated and able to work under tight deadlines<br />
-– Highly effective at planning and problem-solving<br />
-– Ability to pay close attention to detail<br />
-– Taking ownership and prioritize responsibilities</p>
-<p><strong>Responsibilities</strong></p>
-<p>– Manage assigned projects while meeting project timelines<br />
-– Research information related to product development goals and protocols<br />
-– Design, conduct, and analyze production trials and in-home usage tests<br />
-– Maintain a clean and safe environment following approved regulations under necessary state certifications<br />
-– Work with Product Development team to come up with creative approaches to ongoing challenges</p>
+**Duration:** 12 weeks
+
+**About Us**
+
+Balletic Foods™ is a California based company working towards a
+sustainable food system by combining science and technology to create
+new sources of animal-free protein. If you are passionate about using
+biotechnology to build sustainable new sources of protein, join our team
+of scientists and entrepreneurs to change the world's food system.
+
+**Qualifications**
+
+-- Motivated and able to work under tight deadlines\
+-- Highly effective at planning and problem-solving\
+-- Ability to pay close attention to detail\
+-- Taking ownership and prioritize responsibilities
+
+**Responsibilities**
+
+-- Manage assigned projects while meeting project timelines\
+-- Research information related to product development goals and
+protocols\
+-- Design, conduct, and analyze production trials and in-home usage
+tests\
+-- Maintain a clean and safe environment following approved regulations
+under necessary state certifications\
+-- Work with Product Development team to come up with creative
+approaches to ongoing challenges

@@ -26,19 +26,33 @@ pinned: false
 homepage: false
 uuid: 11007
 ---
-<p><strong>Duration:</strong> 12 weeks</p>
-<p><strong>About Us</strong></p>
-<p>Balletic Foods™ is a California based company working towards a sustainable food system by combining science and technology to create new sources of animal-free protein. If you are passionate about using biotechnology to build sustainable new sources of protein, join our team of scientists and entrepreneurs to change the world’s food system.</p>
-<p><strong>Qualifications</strong></p>
-<p>– Motivated and able to work under tight deadlines<br />
-– Highly effective at planning and problem-solving<br />
-– Ability to pay close attention to detail<br />
-– Taking ownership and prioritize responsibilities<br />
-– Familiarity with Python, Github, AWS, and React<br />
-– Familiarity with other JS libraries and frameworks a plus</p>
-<p><strong>Responsibilities</strong></p>
-<p>– Understanding the basics of system architecture for a suite of mobile and web applications<br />
-– Design and management of features and functionality of on-prem systems<br />
-– Interest in learning mobile software development for purposes of tooling and automation<br />
-– Participating in sprint planning through an agile work environment<br />
-– Working closely with team of researchers during phases of high throughput R&D</p>
+**Duration:** 12 weeks
+
+**About Us**
+
+Balletic Foods™ is a California based company working towards a
+sustainable food system by combining science and technology to create
+new sources of animal-free protein. If you are passionate about using
+biotechnology to build sustainable new sources of protein, join our team
+of scientists and entrepreneurs to change the world's food system.
+
+**Qualifications**
+
+-- Motivated and able to work under tight deadlines\
+-- Highly effective at planning and problem-solving\
+-- Ability to pay close attention to detail\
+-- Taking ownership and prioritize responsibilities\
+-- Familiarity with Python, Github, AWS, and React\
+-- Familiarity with other JS libraries and frameworks a plus
+
+**Responsibilities**
+
+-- Understanding the basics of system architecture for a suite of mobile
+and web applications\
+-- Design and management of features and functionality of on-prem
+systems\
+-- Interest in learning mobile software development for purposes of
+tooling and automation\
+-- Participating in sprint planning through an agile work environment\
+-- Working closely with team of researchers during phases of high
+throughput R&D
