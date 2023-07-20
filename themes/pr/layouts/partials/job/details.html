@@ -41,4 +41,52 @@
       {{ end -}}
   </div>
   {{ end -}}
+
+  {{ if .Params.job_type -}}
+  <h3 class="border-b-2 w-1/2 font-bold">Job type</h3>
+  <div class="flex flex-row flex-wrap gap-2">
+      {{ range $index, $job_type := .Params.job_type -}}
+        <p class="border-2 p-2">{{ . }}</p>
+      {{ end -}}
+  </div>
+  {{ end -}}
+
+  {{ if .Params.career_category -}}
+  <h3 class="border-b-2 w-1/2 font-bold">Career category</h3>
+  <div class="flex flex-row flex-wrap gap-2">
+      {{ range $index, $career_category := .Params.career_category -}}
+        <p class="border-2 p-2">{{ . }}</p>
+      {{ end -}}
+  </div>
+  {{ end -}}
+
+  {{ with .Params.remote -}}
+    <h3 class="border-b-2 w-1/2 font-bold">Remote</h3>
+    <div class="flex flex-row flex-wrap gap-2">
+        <p class="border-2 p-2">Yes</p>
+    </div>
+  {{ else }}
+    <h3 class="border-b-2 w-1/2 font-bold">Remote</h3>
+    <div class="flex flex-row flex-wrap gap-2">
+        <p class="border-2 p-2">No</p>
+    </div>
+  {{ end }}
+
+  {{ if .Params.work_environment -}}
+  <h3 class="border-b-2 w-1/2 font-bold">Work environment</h3>
+  <div class="flex flex-row flex-wrap gap-2">
+      {{ range $index, $work_environment := .Params.work_environment -}}
+        <p class="border-2 p-2">{{ . }}</p>
+      {{ end -}}
+  </div>
+  {{ end -}}
+
+  {{ if .Params.work_hours -}}
+  <h3 class="border-b-2 w-1/2 font-bold">Work hours</h3>
+  <div class="flex flex-row flex-wrap gap-2">
+      {{ range $index, $work_hours := .Params.work_hours -}}
+        <p class="border-2 p-2">{{ . }}</p>
+      {{ end -}}
+  </div>
+  {{ end -}}
 </div>

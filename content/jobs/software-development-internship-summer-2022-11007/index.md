@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Internship]
-remote: Internship
+remote: FALSE
 work_environment: [Mixed]
 work_hours: [Part-Time]
+career_category: [Engineering, Information Technology]
 city: "Davis"
 country: 
 country_code: 

@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Kitchen, Laboratory, Mixed]
 work_hours: [Full-Time]
+career_category: [Quality & Safety]
 city: "South San Francisco"
 country: 
 country_code: 

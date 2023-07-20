@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Laboratory]
 work_hours: [Full-Time]
+career_category: [Management & Coordination, Operations, Quality & Safety, Research]
 city: "New York"
 country: 
 country_code: 

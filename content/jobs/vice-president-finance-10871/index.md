@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Mixed, Office]
 work_hours: [Full-Time]
+career_category: [Finance & Accounting]
 city: ""
 country: 
 country_code: 

@@ -12,9 +12,10 @@ topics: []
 regions: [Europe]
 flags: []
 job_type: [Internship]
-remote: Internship
+remote: FALSE
 work_environment: [Laboratory, Mixed]
 work_hours: [Full-Time]
+career_category: [Product Development, Research]
 city: "Zurich"
 country: 
 country_code: 

@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: TRUE
 work_environment: [Office]
 work_hours: [Full-Time]
+career_category: [Finance & Accounting]
 city: "South San Francisco"
 country: 
 country_code: 

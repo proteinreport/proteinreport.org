@@ -12,9 +12,10 @@ topics: []
 regions: [Europe]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Mixed]
 work_hours: [Full-Time]
+career_category: [Engineering, Operations]
 city: "Landskrona"
 country: 
 country_code: 

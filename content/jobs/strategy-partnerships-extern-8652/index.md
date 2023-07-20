@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Internship]
-remote: Internship
+remote: TRUE
 work_environment: []
 work_hours: [Full-Time]
+career_category: [Business Development, Management & Coordination]
 city: ""
 country: 
 country_code: 

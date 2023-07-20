@@ -12,9 +12,10 @@ topics: []
 regions: []
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Laboratory, Mixed]
 work_hours: [Full-Time]
+career_category: [Engineering, Product Development]
 city: "San Diego"
 country: 
 country_code: 

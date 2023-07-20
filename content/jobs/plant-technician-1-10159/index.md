@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Factory]
 work_hours: [Full-Time]
+career_category: [Manufacturing, Operations]
 city: "West Sacramento"
 country: 
 country_code: 

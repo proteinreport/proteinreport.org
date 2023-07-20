@@ -12,9 +12,10 @@ topics: []
 regions: [Europe]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Factory, Laboratory, Mixed, Office]
 work_hours: [Full-Time]
+career_category: [Research]
 city: ""
 country: 
 country_code: 

@@ -12,9 +12,10 @@ topics: []
 regions: [Europe]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Laboratory, Office]
 work_hours: [Full-Time]
+career_category: [Product Development, Research]
 city: "Roslin"
 country: 
 country_code: 

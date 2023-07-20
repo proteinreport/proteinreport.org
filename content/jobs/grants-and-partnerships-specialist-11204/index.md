@@ -12,9 +12,10 @@ topics: []
 regions: [Europe]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Mixed, Office]
 work_hours: [Full-Time]
+career_category: [Creative, Management & Coordination, Marketing & Communications, Operations, Research]
 city: "London"
 country: 
 country_code: 

@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Field, Laboratory, Mixed, Office]
 work_hours: [Full-Time]
+career_category: [Engineering, Senior Management]
 city: "SF Bay Area"
 country: 
 country_code: 

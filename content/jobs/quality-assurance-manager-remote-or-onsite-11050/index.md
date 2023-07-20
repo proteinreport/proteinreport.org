@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: TRUE
 work_environment: []
 work_hours: [Full-Time]
+career_category: [Quality & Safety]
 city: "San Francisco"
 country: 
 country_code: 

@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: TRUE
 work_environment: [Field, Mixed, Office]
 work_hours: [Full-Time]
+career_category: [Business Development, Senior Management]
 city: "SF Bay Area"
 country: 
 country_code: 

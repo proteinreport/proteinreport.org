@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Field, Office]
 work_hours: [Full-Time]
+career_category: [Marketing & Communications]
 city: "South San Francisco"
 country: 
 country_code: 

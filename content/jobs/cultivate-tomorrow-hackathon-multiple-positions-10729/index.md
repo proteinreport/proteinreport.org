@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Internship, Volunteer]
-remote: Internship, Volunteer
+remote: FALSE
 work_environment: [Laboratory, Mixed, Office]
 work_hours: [Part-Time]
+career_category: [Business Development, Creative, Engineering, Finance & Accounting, Management & Coordination, Marketing & Communications, Operations, Product Development, Research]
 city: ""
 country: 
 country_code: 

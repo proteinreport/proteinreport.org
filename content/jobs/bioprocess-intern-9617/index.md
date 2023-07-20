@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Internship]
-remote: Internship
+remote: FALSE
 work_environment: [Laboratory]
 work_hours: [Part-Time]
+career_category: [Research]
 city: ""
 country: 
 country_code: 

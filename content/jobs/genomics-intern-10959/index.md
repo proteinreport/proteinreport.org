@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Internship]
-remote: Internship
+remote: FALSE
 work_environment: [Laboratory, Mixed]
 work_hours: [Full-Time]
+career_category: [Product Development, Quality & Safety, Research]
 city: "South San Francisco"
 country: 
 country_code: 

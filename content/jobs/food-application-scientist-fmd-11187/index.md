@@ -12,9 +12,10 @@ topics: []
 regions: [Europe]
 flags: []
 job_type: []
-remote: 
+remote: FALSE
 work_environment: [Factory, Kitchen, Laboratory, Mixed]
 work_hours: [Full-Time]
+career_category: [Product Development, Research]
 city: ""
 country: 
 country_code: 

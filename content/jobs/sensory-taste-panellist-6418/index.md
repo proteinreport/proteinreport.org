@@ -12,9 +12,10 @@ topics: []
 regions: []
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Mixed]
 work_hours: [Part-Time]
+career_category: [Quality & Safety]
 city: "Stokesley"
 country: 
 country_code: 

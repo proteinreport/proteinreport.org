@@ -12,9 +12,10 @@ topics: []
 regions: [Europe]
 flags: []
 job_type: [Internship]
-remote: Internship
+remote: FALSE
 work_environment: [Mixed, Office]
 work_hours: [Full-Time]
+career_category: [Operations]
 city: "Zurich"
 country: 
 country_code: 

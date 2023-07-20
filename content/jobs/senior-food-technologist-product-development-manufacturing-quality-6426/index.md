@@ -12,9 +12,10 @@ topics: []
 regions: []
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Mixed]
 work_hours: [Full-Time]
+career_category: [Product Development]
 city: "Redwood City"
 country: 
 country_code: 

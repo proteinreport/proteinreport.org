@@ -12,9 +12,10 @@ topics: []
 regions: [Europe]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Office]
 work_hours: [Full-Time]
+career_category: [Engineering, Product Development, Research]
 city: "Zurich"
 country: 
 country_code: 

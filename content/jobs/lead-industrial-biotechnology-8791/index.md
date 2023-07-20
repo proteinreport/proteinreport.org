@@ -12,9 +12,10 @@ topics: []
 regions: [Europe]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Laboratory]
 work_hours: [Full-Time, Part-Time]
+career_category: [Research]
 city: "Zurich (Kemptthal)"
 country: 
 country_code: 

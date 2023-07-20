@@ -12,9 +12,10 @@ topics: []
 regions: [Asia, Oceania]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Laboratory, Office]
 work_hours: [Full-Time]
+career_category: [Engineering]
 city: "North Parramatta"
 country: 
 country_code: 

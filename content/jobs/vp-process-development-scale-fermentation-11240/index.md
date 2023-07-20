@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Laboratory, Mixed, Office]
 work_hours: [Full-Time]
+career_category: [Manufacturing, Operations, Product Development, Senior Management]
 city: "Pleasanton"
 country: 
 country_code: 

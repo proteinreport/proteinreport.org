@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Laboratory]
 work_hours: [Full-Time]
+career_category: [Research]
 city: "Dartmouth"
 country: 
 country_code: 

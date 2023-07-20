@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Office]
 work_hours: [Full-Time]
+career_category: [Information Technology]
 city: "Berkeley"
 country: 
 country_code: 

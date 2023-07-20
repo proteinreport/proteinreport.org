@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Laboratory, Office]
 work_hours: [Full-Time]
+career_category: [Business Development]
 city: "San Francisco"
 country: 
 country_code: 

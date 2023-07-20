@@ -12,9 +12,10 @@ topics: []
 regions: []
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: FALSE
 work_environment: [Office]
 work_hours: [Full-Time]
+career_category: [Management & Coordination, Operations, Supply Chain]
 city: "Seattle"
 country: 
 country_code: 

@@ -12,9 +12,10 @@ topics: []
 regions: [Europe]
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: TRUE
 work_environment: [Office]
 work_hours: [Full-Time]
+career_category: [Marketing & Communications]
 city: ""
 country: 
 country_code: 

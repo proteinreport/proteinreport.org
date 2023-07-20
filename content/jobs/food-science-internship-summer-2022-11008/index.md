@@ -12,9 +12,10 @@ topics: []
 regions: [US & Canada]
 flags: []
 job_type: [Internship]
-remote: Internship
+remote: FALSE
 work_environment: [Kitchen, Laboratory, Office]
 work_hours: [Part-Time]
+career_category: [Product Development]
 city: "Davis"
 country: 
 country_code: 

@@ -12,9 +12,10 @@ topics: []
 regions: []
 flags: []
 job_type: [Employment]
-remote: Employment
+remote: TRUE
 work_environment: [Mixed]
 work_hours: [Full-Time]
+career_category: [Business Development, Management & Coordination]
 city: ""
 country: 
 country_code: 
