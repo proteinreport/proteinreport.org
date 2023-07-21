@@ -6,15 +6,9 @@
       {{ if .Params.featured_image }}
           {{ $image := .Resources.GetMatch .Params.featured_image }}
           <img class="object-contain aspect-video w-1/2 py-2 lazyload blur-up" src="{{ $image.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
-      {{ else if .Params.company_name }}
-          <p>{{ .Params.company_name }}</p>
       {{ end }}
     {{ end }}
   {{ end }}
 {{ else if .Params.company_name }}
-  <div class="flex flex-row flex-wrap border-y-4 m-2">
-    <a href="{{ .Params.company_link }}" target="_blank" class="flex flex-row sm:w-full md:max-w-1/2 lg:w-full items-center">
-      <p class="text-xl pl-4">{{ .Params.company_name }}</p>
-    </a>
-  </div>
+  <p class="text-4xl font-bold pl-4">{{ .Params.company_name }}</p>
 {{ end }}
