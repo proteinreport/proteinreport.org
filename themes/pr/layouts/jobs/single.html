@@ -13,9 +13,13 @@
       <div class="prose prose-xl">
         {{ .Content }}
       </div>
-      <h3 class="border-b-2 text-xl font-bold mb-2 pb-2">How to apply</h3>
-      <p class="text-xl">{{ .Params.how_to_apply | markdownify }}</p>
-      <a href="{{ .Params.application_link }}" class="p-4 mt-4 text-center border-2 w-full">Apply</a>
+      {{ with .Params.how_to_apply }}
+        <h3 class="border-b-2 text-xl font-bold mb-2 pb-2">How to apply</h3>
+        <p class="text-xl">{{ . | markdownify }}</p>
+      {{ end }}
+      {{ with .Params.application_link }}
+        <a href="{{ . }}" class="p-4 mt-4 text-center border-2 w-full">Apply</a>
+      {{ end }}
     </div>
     <aside class="w-full md:w-1/3">
       {{ partial "job/company.html" . }}
