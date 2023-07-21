@@ -1,0 +1,13 @@
+{{ if .Params.city }}
+    {{ if .Params.country }}
+        {{ if ne .Params.city .Params.country }}
+            {{ .Params.city }}, {{ .Params.country }}
+        {{ else }}
+            {{ .Params.city }}
+        {{ end }}
+    {{ else }}
+        {{ .Params.city }}
+    {{ end }}
+{{ else if .Params.country }}
+    {{ .Params.country }}
+{{ end }}
