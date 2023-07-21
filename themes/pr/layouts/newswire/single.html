@@ -8,8 +8,8 @@
       </div>
     </div>
   </div>
-  <div class="flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-x-4 border-black">
-    <div class="w-full flex flex-col md:max-w-[66.6%] border-black relative">
+  <div class="flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-x-4">
+    <div class="w-full flex flex-col md:max-w-[66.6%] relative">
       {{ $image := .Resources.GetMatch .Params.featured_image -}}
       {{ if $image -}}
         <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video w-full object-cover">
