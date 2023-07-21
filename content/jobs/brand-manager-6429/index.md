@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Business Development, Management & Coordination, Marketing & Communications]
 city: "Boulder"
-country: 
-country_code: 
-how_to_apply: "Please send your resume and cover letter to <jobs@bondpets.com>"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: ""
 images: []
 draft: false
@@ -121,3 +121,9 @@ For more information on Bond's technology and team - visit
 [Instagram](https://www.instagram.com/bondpetfoods/),
 [Facebook](https://www.facebook.com/bondpetfoods/), and
 [Twitter](https://twitter.com/bondpetfoods).
+
+
+**How to apply**
+
+
+Please send your resume and cover letter to <jobs@bondpets.com>

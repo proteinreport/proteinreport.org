@@ -18,9 +18,9 @@ work_environment: [Field, Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Business Development, Senior Management]
 city: "SF Bay Area"
-country: 
-country_code: 
-how_to_apply: "Please click the application link below:"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://airprotein.bamboohr.com/jobs/view.php?id=124&source=bamboohr"
 images: []
 draft: false
@@ -152,3 +152,9 @@ application.*
 #healthylifestyle #foodscienceandnutrition #foodchemistry #technology
 #nutritionist #cooking #foodquality #foodlover #foodnutrition
 #foodproduction #sales #businessdevelopment #CRM
+
+
+**How to apply**
+
+
+Please click the application link below:

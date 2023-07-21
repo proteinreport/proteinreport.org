@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Human Resources]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/gkSeFMrNkY/Human-Resources-Mana...](https://clarafoods.applytojob.com/apply/gkSeFMrNkY/Human-Resources-Manager?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/gkSeFMrNkY/Human-Resources-Manager?source=proteinreport"
 images: []
 draft: false
@@ -105,3 +105,9 @@ will work from that office.
 -   Ability to take risks to achieve desired results
 -   Ability to adapt and support others through change, ambiguity and
     complexity
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/gkSeFMrNkY/Human-Resources-Mana...](https://clarafoods.applytojob.com/apply/gkSeFMrNkY/Human-Resources-Manager?source=proteinreport)

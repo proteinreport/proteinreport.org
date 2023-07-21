@@ -18,9 +18,9 @@ work_environment: [Laboratory, Mixed]
 work_hours: [Full-Time]
 career_category: [Culinary, Research]
 city: "SOUTH SAN FRANCISCO"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/w2hbNoIJwJ/Food-Scientist-II?so...](https://clarafoods.applytojob.com/apply/w2hbNoIJwJ/Food-Scientist-II?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/w2hbNoIJwJ/Food-Scientist-II?source=proteinreport"
 images: []
 draft: false
@@ -111,3 +111,9 @@ fermentation \-\-- without the animal. We join a new generation of
 entrepreneurs, activists and scientists who recognize that the
 decades-old factory farm model cannot sustain the dietary needs of 7
 billion people and counting - and that technology may hold a solution. 
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/w2hbNoIJwJ/Food-Scientist-II?so...](https://clarafoods.applytojob.com/apply/w2hbNoIJwJ/Food-Scientist-II?source=proteinreport)

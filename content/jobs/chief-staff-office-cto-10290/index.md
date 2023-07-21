@@ -18,9 +18,9 @@ work_environment: [Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Business Development, Management & Coordination]
 city: ""
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://boards.greenhouse.io/theeverycompany/jobs/4168971004"
 images: []
 draft: false
@@ -119,3 +119,9 @@ childbirth, or related medical conditions), sexual orientation, gender
 identity, gender expression, age, status as a protected veteran, status
 as an individual with a disability, or other applicable legally
 protected characteristics.
+
+
+**How to apply**
+
+
+

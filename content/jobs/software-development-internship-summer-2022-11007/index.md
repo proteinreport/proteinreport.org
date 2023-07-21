@@ -18,10 +18,9 @@ work_environment: [Mixed]
 work_hours: [Part-Time]
 career_category: [Engineering, Information Technology]
 city: "Davis"
-country: 
-country_code: 
-how_to_apply: "**If you are interested in this position, please contact"
-how_to_apply: "<careers@balleticfoods.com>**"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://balleticfoods.com/careers/software-development-internship/"
 images: []
 draft: false
@@ -59,3 +58,10 @@ tooling and automation\
 -- Participating in sprint planning through an agile work environment\
 -- Working closely with team of researchers during phases of high
 throughput R&D
+
+
+**How to apply**
+
+
+**If you are interested in this position, please contact
+<careers@balleticfoods.com>**

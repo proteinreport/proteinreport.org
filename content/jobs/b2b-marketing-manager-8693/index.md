@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Business Development, Marketing & Communications]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/5g30VtTvel/B2B-Marketing-Manage...](https://clarafoods.applytojob.com/apply/5g30VtTvel/B2B-Marketing-Manager?source=ProteinReport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/5g30VtTvel/B2B-Marketing-Manager?source=ProteinReport"
 images: []
 draft: false
@@ -136,3 +136,9 @@ back to office  **
 -   Monthly all-hands meetings and 1:1 with CEO and leadership
 -   Close to South San Francisco BART and Cal Train stations, including
     free shuttle service
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/5g30VtTvel/B2B-Marketing-Manage...](https://clarafoods.applytojob.com/apply/5g30VtTvel/B2B-Marketing-Manager?source=ProteinReport)

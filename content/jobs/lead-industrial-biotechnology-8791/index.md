@@ -18,10 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time, Part-Time]
 career_category: [Research]
 city: "Zurich (Kemptthal)"
-country: 
-country_code: 
-how_to_apply: "Please apply with your complete application documents. Valid work permit"
-how_to_apply: "for Switzerland is mandatory."
+country: "Switzerland"
+country_code: "CH"
+how_to_apply: 
 application_link: "https://careers.eatplanted.com/jobs/1140809-lead-industrial-biotechnology?promotion=227179-trackable-share-link-protein-report"
 images: []
 draft: false
@@ -92,3 +91,10 @@ even more sustainable, healthy and tasty. 
 -   have excellent communication skills.
 -   are fluent in German and English.
 -   are allowed to work in Switzerland (valid work permit).
+
+
+**How to apply**
+
+
+Please apply with your complete application documents. Valid work permit
+for Switzerland is mandatory.

@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Business Development, Management & Coordination]
 city: "Chicago"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://careers-califiafarms.icims.com/jobs/1203/regional-sales-manager---grocery-central/job"
 images: []
 draft: false
@@ -99,3 +99,9 @@ JOB DUTIES
     use it as a customer management tool
 -   Excellent communication and presentation skills (written and verbal)
 -   Ability to travel 50-75%
+
+
+**How to apply**
+
+
+

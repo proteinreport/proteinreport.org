@@ -18,14 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Product Development, Quality & Safety]
 city: "Edinburgh"
-country: 
-country_code: 
-how_to_apply: "For informal enquiries, please contact Dr Britt Tye"
-how_to_apply: "(<britt.tye@roslintech.com>). To apply, please send a CV and cover"
-how_to_apply: "letter explaining why you have applied for the post to"
-how_to_apply: "<careers@roslintech.com>."
-how_to_apply: ""
-how_to_apply: "Closing date: 30 April 2022"
+country: "United Kingdom"
+country_code: "GB"
+how_to_apply: 
 application_link: "https://roslintech.com/laboratory-technician-cell-banking/"
 images: []
 draft: false
@@ -92,3 +87,14 @@ attractive compensation package.
 -   Strong emphasis on team performance, scientific rigour, and personal
     development
 -   Regular company events to foster our culture
+
+
+**How to apply**
+
+
+For informal enquiries, please contact Dr Britt Tye
+(<britt.tye@roslintech.com>). To apply, please send a CV and cover
+letter explaining why you have applied for the post to
+<careers@roslintech.com>.
+
+Closing date: 30 April 2022

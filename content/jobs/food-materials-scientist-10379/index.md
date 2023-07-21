@@ -18,10 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Product Development]
 city: "Toronto"
-country: 
-country_code: 
-how_to_apply: "Submit your application"
-how_to_apply: "here: <https://secure.collage.co/jobs/newschoolfoods/28254>"
+country: "Canada"
+country_code: "CA"
+how_to_apply: 
 application_link: "https://secure.collage.co/jobs/newschoolfoods/28254"
 images: []
 draft: false
@@ -145,3 +144,10 @@ inclusive culture as we know that diverse teams build better products
 and generate better ideas. We strongly encourage applications from
 everyone regardless of race, religion, colour, national origin, gender,
 sexual orientation, age, marital status, or disability status.*
+
+
+**How to apply**
+
+
+Submit your application
+here: <https://secure.collage.co/jobs/newschoolfoods/28254>

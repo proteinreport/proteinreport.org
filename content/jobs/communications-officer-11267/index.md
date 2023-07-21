@@ -19,11 +19,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Marketing & Communications]
 city: ""
-country: 
-country_code: 
-how_to_apply: "Send your resume (without photo) and a brief introduction explaining who"
-how_to_apply: "you are and your interest in this position to"
-how_to_apply: "<meetings@bridge2food.com>."
+country: ""
+country_code: ""
+how_to_apply: 
 application_link: ""
 images: []
 draft: false
@@ -136,3 +134,11 @@ Bridge2Food is an equal opportunity employer and does not discriminate
 on the basis of race, color, national origin, gender, religion, age,
 disability, political beliefs, sexual orientation, or marital/familial
 status.
+
+
+**How to apply**
+
+
+Send your resume (without photo) and a brief introduction explaining who
+you are and your interest in this position to
+<meetings@bridge2food.com>.

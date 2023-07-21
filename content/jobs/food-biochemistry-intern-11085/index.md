@@ -18,9 +18,9 @@ work_environment: [Laboratory, Mixed]
 work_hours: [Full-Time]
 career_category: [Product Development, Research]
 city: "Zurich"
-country: 
-country_code: 
-how_to_apply: "Use the google form link"
+country: "Switzerland"
+country_code: "CH"
+how_to_apply: 
 application_link: "https://forms.gle/9kGfKQXb4B4WjgnK8"
 images: []
 draft: false
@@ -76,3 +76,9 @@ individuals from groups traditionally underrepresented in tech to apply.
 
 We are unfortunately not able to sponsor visa applications for this
 position.
+
+
+**How to apply**
+
+
+Use the google form link

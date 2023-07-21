@@ -18,10 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "Dartmouth"
-country: 
-country_code: 
-how_to_apply: "Please forward your cover letter and resume to <careers@smallfood.com>"
-how_to_apply: "to apply. "
+country: "Canada"
+country_code: "CA"
+how_to_apply: 
 application_link: "https://www.smallfood.com/careers/"
 images: []
 draft: false
@@ -147,3 +146,10 @@ Wondering what it\'s like to live in Nova Scotia? Check out this recent
 article from MacLeans Magazine:
 
 [https://www.macleans.ca/economy/realestateeconomy/best-communities-in-c...](https://www.macleans.ca/economy/realestateeconomy/best-communities-in-canada-why-atlantic-canada-comes-out-on-top/)
+
+
+**How to apply**
+
+
+Please forward your cover letter and resume to <careers@smallfood.com>
+to apply. 

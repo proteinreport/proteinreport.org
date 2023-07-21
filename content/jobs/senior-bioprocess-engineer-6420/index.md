@@ -18,9 +18,9 @@ work_environment: [Laboratory, Mixed]
 work_hours: [Full-Time]
 career_category: [Engineering, Product Development]
 city: "San Diego"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://www.indeedjobs.com/blue-nalu-inc/jobs/2c68ce333243b5478897"
 images: []
 draft: false
@@ -107,3 +107,9 @@ team members that enjoy and thrive in the atmosphere of a very
 fast-paced entrepreneurial environment, have a good sense of humor, and
 are personally motivated to make a difference to humanity and our
 planet.
+
+
+**How to apply**
+
+
+

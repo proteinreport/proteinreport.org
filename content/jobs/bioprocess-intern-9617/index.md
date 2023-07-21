@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Part-Time]
 career_category: [Research]
 city: ""
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/wpBKEZcUDl/BioProcess-Intern"
 images: []
 draft: false
@@ -107,3 +107,9 @@ childbirth, or related medical conditions), sexual orientation, gender
 identity, gender expression, age, status as a protected veteran, status
 as an individual with a disability, or other applicable legally
 protected characteristics.
+
+
+**How to apply**
+
+
+

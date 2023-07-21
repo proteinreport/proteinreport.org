@@ -18,10 +18,9 @@ work_environment: [Laboratory, Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "Davis"
-country: 
-country_code: 
-how_to_apply: "**If you are interested in this position, please contact"
-how_to_apply: "<careers@balleticfoods.com>**"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://balleticfoods.com/careers/microbial-genetic-engineer/"
 images: []
 draft: false
@@ -74,3 +73,10 @@ KPI's\
 -- Bioinformatics skills a plus\
 -- Ability to effectively prioritize and manage challenging
 projects/workload
+
+
+**How to apply**
+
+
+**If you are interested in this position, please contact
+<careers@balleticfoods.com>**

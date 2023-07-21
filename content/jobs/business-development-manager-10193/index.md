@@ -18,10 +18,9 @@ work_environment: [Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Business Development, Management & Coordination, Operations]
 city: "Sacramento"
-country: 
-country_code: 
-how_to_apply: "If you are interested in this position, please contact"
-how_to_apply: "<careers@balleticfoods.com>."
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://balleticfoods.com/files/bf_bdm.pdf"
 images: []
 draft: false
@@ -78,3 +77,10 @@ join our team of entrepreneurs and scientists.
 -   Strong analytical skill set and the ability to build and articulate
     strategic business cases
 -   Science communication and marketing experience are a plus 
+
+
+**How to apply**
+
+
+If you are interested in this position, please contact
+<careers@balleticfoods.com>.

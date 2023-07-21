@@ -18,10 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Legal]
 city: "Leeds"
-country: 
-country_code: 
-how_to_apply: "Interested applicants should forward their CV & Covering Letter to"
-how_to_apply: "<hr@quornfoods.com>"
+country: "United Kingdom"
+country_code: "GB"
+how_to_apply: 
 application_link: "https://www.quorn.co.uk/company/careers/compliance-officer"
 images: []
 draft: false
@@ -126,3 +125,10 @@ sustainable business we also offer:
 
 Please visit our website: [www.quorn.com](http://www.quorn.com) for more
 information about our company and brand.
+
+
+**How to apply**
+
+
+Interested applicants should forward their CV & Covering Letter to
+<hr@quornfoods.com>

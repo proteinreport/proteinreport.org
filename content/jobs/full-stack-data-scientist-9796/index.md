@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Information Technology]
 city: ""
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/VdQyTMzX6B/Full-Stack-Data-Scie...](https://clarafoods.applytojob.com/apply/VdQyTMzX6B/Full-Stack-Data-Scientist)"
+country: ""
+country_code: ""
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/VdQyTMzX6B/Full-Stack-Data-Scientist"
 images: []
 draft: false
@@ -153,3 +153,9 @@ as an individual with a disability, or other applicable legally
 protected characteristics.
 
  
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/VdQyTMzX6B/Full-Stack-Data-Scie...](https://clarafoods.applytojob.com/apply/VdQyTMzX6B/Full-Stack-Data-Scientist)

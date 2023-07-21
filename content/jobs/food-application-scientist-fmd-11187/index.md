@@ -18,9 +18,9 @@ work_environment: [Factory, Kitchen, Laboratory, Mixed]
 work_hours: [Full-Time]
 career_category: [Product Development, Research]
 city: ""
-country: 
-country_code: 
-how_to_apply: "[https://careers.eatplanted.com/jobs/1938906-food-application-scientist-...](https://careers.eatplanted.com/jobs/1938906-food-application-scientist-f-m-d)"
+country: ""
+country_code: ""
+how_to_apply: 
 application_link: "https://careers.eatplanted.com/jobs/1938906-food-application-scientist-f-m-d"
 images: []
 draft: false
@@ -82,3 +82,9 @@ level by advancing our plant-based food formulations!\
 -   Have excellent English skills in written and oral, German is a plus
 
  
+
+
+**How to apply**
+
+
+[https://careers.eatplanted.com/jobs/1938906-food-application-scientist-...](https://careers.eatplanted.com/jobs/1938906-food-application-scientist-f-m-d)

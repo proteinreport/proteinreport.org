@@ -18,10 +18,9 @@ work_environment: [Mixed]
 work_hours: [Full-Time]
 career_category: []
 city: "Davis"
-country: 
-country_code: 
-how_to_apply: "If you are interested in this position, please contact"
-how_to_apply: "<careers@balleticfoods.com>."
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://www.balleticfoods.com/files/bf_nutritionist.pdf"
 images: []
 draft: false
@@ -75,3 +74,10 @@ management and interpersonal skills\
 regulatory landscape for applied food science\
 - Experience with nutritional research methodologies and clinical
 research and nutrition regulations is a plus
+
+
+**How to apply**
+
+
+If you are interested in this position, please contact
+<careers@balleticfoods.com>.

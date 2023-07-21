@@ -18,9 +18,9 @@ work_environment: [Laboratory, Mixed]
 work_hours: [Full-Time]
 career_category: [Engineering, Management & Coordination]
 city: ""
-country: 
-country_code: 
-how_to_apply: ""
+country: ""
+country_code: ""
+how_to_apply: 
 application_link: "https://grnh.se/d98026d84us"
 images: []
 draft: false
@@ -125,3 +125,9 @@ to sponsor individuals for employment visas for this job. In compliance
 with federal law, all persons hired will be required to verify identity
 and eligibility to work in the United States and to complete the
 required employment eligibility verification form upon hire.*
+
+
+**How to apply**
+
+
+

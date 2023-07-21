@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: []
 city: ""
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/DT5d4xhG3E/Process-Associate-II...](https://clarafoods.applytojob.com/apply/DT5d4xhG3E/Process-Associate-III-Fermentation-Engineering)"
+country: ""
+country_code: ""
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/DT5d4xhG3E/Process-Associate-III-Fermentation-Engineering"
 images: []
 draft: false
@@ -119,3 +119,9 @@ without regard to race, religion, color, national origin, gender
 orientation, gender identity, gender expression, age, status as a
 protected veteran, status as an individual with a disability, or other
 applicable legally protected characteristics.
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/DT5d4xhG3E/Process-Associate-II...](https://clarafoods.applytojob.com/apply/DT5d4xhG3E/Process-Associate-III-Fermentation-Engineering)

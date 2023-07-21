@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Management & Coordination, Operations, Supply Chain]
 city: "Seattle"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://forcebrands.com/jobs/good-planet-foods-66/operations-coordinator-fulfillment"
 images: []
 draft: false
@@ -139,3 +139,9 @@ things to the next level.)
 -   Opportunity for advancement within a fast-growing start-up
 -   Opportunity to help build a large and very successful company, and
     learn a ton in the process.
+
+
+**How to apply**
+
+
+

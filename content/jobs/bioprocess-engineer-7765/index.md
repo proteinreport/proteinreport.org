@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Engineering, Research]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/Bd7G9eOUYn/BioProcess-Engineer?...](https://clarafoods.applytojob.com/apply/Bd7G9eOUYn/BioProcess-Engineer?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/Bd7G9eOUYn/BioProcess-Engineer?source=proteinreport"
 images: []
 draft: false
@@ -85,3 +85,9 @@ transformative ingredients and change the existing food system.
 -   Must be a good communicator and be comfortable with handling
     simultaneous tasks.
 -   Must be authorized to work in the United States for Clara Foods
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/Bd7G9eOUYn/BioProcess-Engineer?...](https://clarafoods.applytojob.com/apply/Bd7G9eOUYn/BioProcess-Engineer?source=proteinreport)

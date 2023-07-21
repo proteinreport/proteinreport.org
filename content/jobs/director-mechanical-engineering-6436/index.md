@@ -18,9 +18,9 @@ work_environment: [Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Engineering]
 city: "Berkely"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://jobs.lever.co/memphismeats/4b3f1f25-7558-4e93-a17e-ef80233a2363"
 images: []
 draft: false
@@ -114,3 +114,9 @@ Memphis Meats is an equal opportunity employer and we value diversity at
 our company. We do not discriminate on the basis of race, religion,
 color, national origin, gender, sexual orientation, age, marital status,
 veteran status, or disability status.
+
+
+**How to apply**
+
+
+

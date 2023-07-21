@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Management & Coordination, Marketing & Communications, Product Development]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/I0aRUjwflA/Head-Of-New-Product-Development?source=proteinreport"
 images: []
 draft: false
@@ -141,3 +141,9 @@ the animal out of the equation. We're bringing products to the table
 that are produced completely animal-free, use less land and water
 inputs, while matching the taste, nutritional value, and unique culinary
 properties of animal proteins.
+
+
+**How to apply**
+
+
+

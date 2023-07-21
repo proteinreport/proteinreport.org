@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Engineering, Manufacturing, Research]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/7u1Qcrx6NJ/Process-Associate?so...](https://clarafoods.applytojob.com/apply/7u1Qcrx6NJ/Process-Associate?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/7u1Qcrx6NJ/Process-Associate?source=proteinreport"
 images: []
 draft: false
@@ -96,3 +96,9 @@ coffee and tea
 
 • Close to South San Francisco BART and Cal Train stations, including
 free shuttle service
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/7u1Qcrx6NJ/Process-Associate?so...](https://clarafoods.applytojob.com/apply/7u1Qcrx6NJ/Process-Associate?source=proteinreport)

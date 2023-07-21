@@ -18,9 +18,9 @@ work_environment: [Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Human Resources]
 city: ""
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/BweY6iyPyA/Human-Resources-Gene...](https://clarafoods.applytojob.com/apply/BweY6iyPyA/Human-Resources-Generalist)"
+country: ""
+country_code: ""
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/BweY6iyPyA/Human-Resources-Generalist"
 images: []
 draft: false
@@ -180,3 +180,9 @@ childbirth, or related medical conditions), sexual orientation, gender
 identity, gender expression, age, status as a protected veteran, status
 as an individual with a disability, or other applicable legally
 protected characteristics.
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/BweY6iyPyA/Human-Resources-Gene...](https://clarafoods.applytojob.com/apply/BweY6iyPyA/Human-Resources-Generalist)

@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Engineering]
 city: ""
-country: 
-country_code: 
-how_to_apply: "Send CV/resume to **<careers@myhelaina.com>**"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: ""
 images: []
 draft: false
@@ -93,3 +93,9 @@ following: **
  
 
 **Helaina is an Equal Opportunity Employer**
+
+
+**How to apply**
+
+
+Send CV/resume to **<careers@myhelaina.com>**

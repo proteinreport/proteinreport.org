@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/erEzNCf6ME/Research-Associate-III-Automation-And-Analytics?source=proteinreport"
 images: []
 draft: false
@@ -70,3 +70,9 @@ optimization, and protein characterization.
     stimulate progress
 -   Using liquid handlers and other automation equipment to improve
     efficiency and throughput
+
+
+**How to apply**
+
+
+

@@ -18,9 +18,9 @@ work_environment: [Laboratory, Mixed]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "SOUTH SAN FRANCISCO"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/JpoKtOMnkU/Analytical-Scientist...](https://clarafoods.applytojob.com/apply/JpoKtOMnkU/Analytical-Scientist-Lead?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/JpoKtOMnkU/Analytical-Scientist-Lead?source=proteinreport"
 images: []
 draft: false
@@ -95,3 +95,9 @@ What Clara Foods can offer:
 -   Monthly all-hands meetings and 1:1 with CEO and leadership
 -   Close to South San Francisco BART and Cal Train stations, including
     free shuttle service
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/JpoKtOMnkU/Analytical-Scientist...](https://clarafoods.applytojob.com/apply/JpoKtOMnkU/Analytical-Scientist-Lead?source=proteinreport)

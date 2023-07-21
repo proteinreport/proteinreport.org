@@ -18,9 +18,9 @@ work_environment: []
 work_hours: [Full-Time]
 career_category: [Human Resources, Senior Management]
 city: "San Francisco"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://grnh.se/ed748fec4us"
 images: []
 draft: false
@@ -152,3 +152,9 @@ to sponsor individuals for employment visas for this job. In compliance
 with federal law, all persons hired will be required to verify identity
 and eligibility to work in the United States and to complete the
 required employment eligibility verification form upon hire.*
+
+
+**How to apply**
+
+
+

@@ -19,10 +19,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "Cirencester"
-country: 
-country_code: 
-how_to_apply: "For a full job description and details on how to apply please visit:"
-how_to_apply: "<https://www.rau.ac.uk/about-us/jobs>"
+country: "United Kingdom"
+country_code: "GB"
+how_to_apply: 
 application_link: "https://www.rau.ac.uk/about-us/jobs"
 images: []
 draft: false
@@ -65,3 +64,10 @@ range of staff benefits available can be found on our
 
 Informal enquiries can be made to Prof Tom MacMillan, Elizabeth Creak
 Chair in Rural Policy & Strategy -- <tom.macmillan@rau.ac.uk>
+
+
+**How to apply**
+
+
+For a full job description and details on how to apply please visit:
+<https://www.rau.ac.uk/about-us/jobs>

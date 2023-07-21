@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "SOUTH SAN FRANCISCO"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/5NbaFaGkfC/Lab-Assistant-Strain...](https://clarafoods.applytojob.com/apply/5NbaFaGkfC/Lab-Assistant-Strain-EngineeringLab-Operations?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/5NbaFaGkfC/Lab-Assistant-Strain-EngineeringLab-Operations?source=proteinreport"
 images: []
 draft: false
@@ -87,3 +87,9 @@ As a key member of the Strain Engineering team, you will:
 -   Monthly all-hands meetings and 1:1 with CEO and leadership
 -   Close to South San Francisco BART and Cal Train stations, including
     free shuttle service
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/5NbaFaGkfC/Lab-Assistant-Strain...](https://clarafoods.applytojob.com/apply/5NbaFaGkfC/Lab-Assistant-Strain-EngineeringLab-Operations?source=proteinreport)

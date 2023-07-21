@@ -18,10 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Product Development, Research, Senior Management]
 city: "New York"
-country: 
-country_code: 
-how_to_apply: "[Please contact:]{.underline} **Anton Elemoso at**"
-how_to_apply: "[**ae@vivaxbio.com**](mailto:ae@vivaxbio.com)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: ""
 images: []
 draft: false
@@ -83,3 +82,10 @@ communicate the results promptly.
  
 
 Please note: ***Work visa sponsorship will not be provided.***
+
+
+**How to apply**
+
+
+[Please contact:]{.underline} **Anton Elemoso at**
+[**ae@vivaxbio.com**](mailto:ae@vivaxbio.com)

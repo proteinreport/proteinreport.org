@@ -18,10 +18,9 @@ work_environment: [Laboratory, Office]
 work_hours: [Full-Time]
 career_category: [Business Development]
 city: "San Francisco"
-country: 
-country_code: 
-how_to_apply: "Apply directly"
-how_to_apply: "@ <https://boards.greenhouse.io/theeverycompany/jobs/4906040004>"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://boards.greenhouse.io/theeverycompany/jobs/4906040004"
 images: []
 draft: false
@@ -177,3 +176,10 @@ to accommodation as required by law. CDC defines fully vaccinated as: 2
 weeks after your second dose in a 2-dose series, such as the Pfzier or
 Moderna vaccines, or 2 weeks after a single-dose vaccine, such as
 Johnson & Johnson\'s Janssen vaccine.
+
+
+**How to apply**
+
+
+Apply directly
+@ <https://boards.greenhouse.io/theeverycompany/jobs/4906040004>

@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "Brno"
-country: 
-country_code: 
-how_to_apply: "Send us your CV at <hr@mewery.io> and let's have a first informal chat."
+country: "Czechia"
+country_code: "CZ"
+how_to_apply: 
 application_link: "https://mewery.io/careers.html"
 images: []
 draft: false
@@ -88,3 +88,9 @@ individuals** working at **newly equipped 120 m2 premises**, with **team
 events** now and then, and an opportunity to build a company from the
 early stages. Oh, and there will be **ESOP options for the key
 employees**. **So let's Meat UP!**🤙🏻
+
+
+**How to apply**
+
+
+Send us your CV at <hr@mewery.io> and let's have a first informal chat.

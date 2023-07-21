@@ -17,21 +17,7 @@
     </div>
   {{ end -}}
 
-  {{ if .Params.city }}
-    <h3 class="border-b-2 w-1/2 font-bold">Location</h3>
-    {{ if .Params.country }}
-      {{ if ne .Params.city .Params.country }}
-        {{ .Params.city }}, {{ .Params.country }}
-      {{ else }}
-        {{ .Params.city }}
-      {{ end }}
-    {{ else }}
-      {{ .Params.city }}
-    {{ end }}
-  {{ else if .Params.country }}
-    <h3 class="border-b-2 w-1/2 font-bold">Location</h3>
-    {{ .Params.country }}
-  {{ end }}
+  {{ partial "job/city_country.html" . }}
 
   {{ if .Params.regions -}}
   <h3 class="border-b-2 w-1/2 font-bold">Region focus</h3>

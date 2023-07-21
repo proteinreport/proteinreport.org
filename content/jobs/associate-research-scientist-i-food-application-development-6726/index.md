@@ -18,9 +18,9 @@ work_environment: [Kitchen, Laboratory, Mixed]
 work_hours: [Full-Time]
 career_category: [Product Development, Research]
 city: "Emeryville"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://jobs.lever.co/perfectday/bb59da48-c837-43f6-80eb-618823f9d3ec"
 images: []
 draft: false
@@ -90,3 +90,9 @@ small team in a fast paced, startup environment.
     kitchen environments, and requires a tolerance for high worker
     traffic, close quarters, noise, odors, dust, and varying room
     temperatures and lighting. 
+
+
+**How to apply**
+
+
+

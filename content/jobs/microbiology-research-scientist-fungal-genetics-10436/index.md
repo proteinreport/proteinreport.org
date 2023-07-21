@@ -18,16 +18,9 @@ work_environment: [Laboratory, Office]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "Chicago"
-country: 
-country_code: 
-how_to_apply: "To express your interest, please provide a short cover letter telling us"
-how_to_apply: "why you're perfect for this role, along with a resume detailing your"
-how_to_apply: "experience."
-how_to_apply: ""
-how_to_apply: "Qualified Applicants must be legally authorized for employment in the"
-how_to_apply: "United States. Qualified Applicants will not require employer sponsored"
-how_to_apply: "work authorization now or in the future for employment in the United"
-how_to_apply: "States."
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://www.linkedin.com/jobs/view/2884864516"
 images: []
 draft: false
@@ -134,3 +127,16 @@ seafood products from concept through commercialization. 
 
 -   We offer a robust benefits package including paid time off, medical,
     dental and vision benefits
+
+
+**How to apply**
+
+
+To express your interest, please provide a short cover letter telling us
+why you're perfect for this role, along with a resume detailing your
+experience.
+
+Qualified Applicants must be legally authorized for employment in the
+United States. Qualified Applicants will not require employer sponsored
+work authorization now or in the future for employment in the United
+States.

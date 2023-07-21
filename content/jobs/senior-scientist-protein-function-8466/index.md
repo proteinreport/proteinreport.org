@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/NBI1PYt1BX/Senior-Scientist-Pro...](https://clarafoods.applytojob.com/apply/NBI1PYt1BX/Senior-Scientist-Protein-Function?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/NBI1PYt1BX/Senior-Scientist-Protein-Function?source=proteinreport"
 images: []
 draft: false
@@ -45,3 +45,9 @@ uuid: 8466
 -   The organization is looking for a Senior Scientist, reporting to the
     VP of Discovery and Research, to lead studies on structure-function
     relationships of novel proteins coming from our discovery platform. 
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/NBI1PYt1BX/Senior-Scientist-Pro...](https://clarafoods.applytojob.com/apply/NBI1PYt1BX/Senior-Scientist-Protein-Function?source=proteinreport)

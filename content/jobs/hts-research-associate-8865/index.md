@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "SOUTH SAN FRANCISCO"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/XEzm5GS2ki/HTS-Research-Associa...](https://clarafoods.applytojob.com/apply/XEzm5GS2ki/HTS-Research-Associate?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/XEzm5GS2ki/HTS-Research-Associate?source=proteinreport"
 images: []
 draft: false
@@ -85,3 +85,9 @@ create novel sources of protein for human nutrition.
     tea
 -   Weekly happy hours with fun themes and quarterly company outings
 -   Monthly all-hands meetings; 1:1 time with CEO and leadership team
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/XEzm5GS2ki/HTS-Research-Associa...](https://clarafoods.applytojob.com/apply/XEzm5GS2ki/HTS-Research-Associate?source=proteinreport)

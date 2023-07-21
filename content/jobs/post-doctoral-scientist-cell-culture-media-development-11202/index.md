@@ -18,16 +18,9 @@ work_environment: [Laboratory, Office]
 work_hours: [Full-Time]
 career_category: [Product Development, Research]
 city: ""
-country: 
-country_code: 
-how_to_apply: "This role is for a permanent full-time contract. We will offer a"
-how_to_apply: "competitive and attractive compensation package."
-how_to_apply: ""
-how_to_apply: "For informal enquiries, please contact Dr Sheena Fraser, VP Product"
-how_to_apply: "Development (<sheena.fraser@roslintech.com>)."
-how_to_apply: ""
-how_to_apply: "To apply, please send a CV and cover letter explaining why you have"
-how_to_apply: "applied for the post to <careers@roslintech.com>."
+country: "United Kingdom"
+country_code: "GB"
+how_to_apply: 
 application_link: "https://roslintech.com/post-doc-media-development/"
 images: []
 draft: false
@@ -97,3 +90,16 @@ solutions fit-for-purpose media for our various cell lines. 
     ground-breaking stem cell technologies 
 -   Strong emphasis on team performance and personal development 
 -   Regular company events to foster our culture
+
+
+**How to apply**
+
+
+This role is for a permanent full-time contract. We will offer a
+competitive and attractive compensation package.
+
+For informal enquiries, please contact Dr Sheena Fraser, VP Product
+Development (<sheena.fraser@roslintech.com>).
+
+To apply, please send a CV and cover letter explaining why you have
+applied for the post to <careers@roslintech.com>.

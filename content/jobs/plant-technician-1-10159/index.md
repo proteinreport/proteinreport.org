@@ -18,10 +18,9 @@ work_environment: [Factory]
 work_hours: [Full-Time]
 career_category: [Manufacturing, Operations]
 city: "West Sacramento"
-country: 
-country_code: 
-how_to_apply: "<https://www.linkedin.com/jobs/view/2813089854/> or email resume to"
-how_to_apply: "<doni.curkendall@bettermeat.co>"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://www.linkedin.com/jobs/view/2813089854/"
 images: []
 draft: false
@@ -114,3 +113,10 @@ as an individual with a disability, or other applicable legally
 protected characteristics.
 
  
+
+
+**How to apply**
+
+
+<https://www.linkedin.com/jobs/view/2813089854/> or email resume to
+<doni.curkendall@bettermeat.co>

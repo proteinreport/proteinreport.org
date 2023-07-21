@@ -18,9 +18,9 @@ work_environment: [Laboratory, Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/YEQcuACmAS/Research-Associate-II"
 images: []
 draft: false
@@ -97,3 +97,9 @@ Requirements:
 -   Comfortable working within a small, collaborative team, passionate
     about changing the world of food
 -   Must be Authorized to work in the United States for Clara Foods
+
+
+**How to apply**
+
+
+

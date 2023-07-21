@@ -18,11 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Product Development]
 city: "San Mateo"
-country: 
-country_code: 
-how_to_apply: "Submit resume and why you think you'd be a good fit for this role"
-how_to_apply: "to [**info@kitchentowncentral.com**](mailto:info@kitchentowncentral.com) ***with"
-how_to_apply: "the subject line: Food Scientist***. Thank you! "
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://kitchentowncentral.com/join-our-team/"
 images: []
 draft: false
@@ -96,3 +94,11 @@ collaboration to pursue end-to-end innovation for multiple clients.
 **Benefits:** This is a full time position. Benefits include Healthcare,
 PTO, VTO, Stock Options. Ample opportunity for career advancement as the
 company grows.
+
+
+**How to apply**
+
+
+Submit resume and why you think you'd be a good fit for this role
+to [**info@kitchentowncentral.com**](mailto:info@kitchentowncentral.com) ***with
+the subject line: Food Scientist***. Thank you! 

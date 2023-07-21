@@ -18,9 +18,9 @@ work_environment: [Kitchen, Laboratory, Office]
 work_hours: [Full-Time]
 career_category: [Culinary, Product Development]
 city: "North Parramatta"
-country: 
-country_code: 
-how_to_apply: "See [here](https://www.vowfood.com/jobs/senior-food-scientist)."
+country: "Australia"
+country_code: "AU"
+how_to_apply: 
 application_link: "https://www.vowfood.com/jobs/senior-food-scientist"
 images: []
 draft: false
@@ -158,3 +158,9 @@ the people we serve. We celebrate multiple approaches and points of
 view, we are inclusive and we believe diversity drives innovation - so
 we're building a culture to match. Uniqueness is powerful - be yourself
 and come as you are.**
+
+
+**How to apply**
+
+
+See [here](https://www.vowfood.com/jobs/senior-food-scientist).

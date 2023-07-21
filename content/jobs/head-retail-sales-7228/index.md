@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Business Development, Management & Coordination]
 city: "Lafayette"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://www.planterrafoods.com/careers/?p=job/ofeXcfwm"
 images: []
 draft: false
@@ -72,3 +72,9 @@ QUALIFICATIONS:
 -   Bachelor's degree in a related field; however additional related
     work experience will be considered in lieu of the education
     requirement.
+
+
+**How to apply**
+
+
+

@@ -18,9 +18,9 @@ work_environment: [Mixed]
 work_hours: [Full-Time]
 career_category: [Engineering, Manufacturing, Research]
 city: "San Leandro"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://airprotein.bamboohr.com/jobs/view.php?id=29&source=aWQ9MzE%3D"
 images: []
 draft: false
@@ -122,3 +122,9 @@ general nature and level of work performed, and it is not intended to
 contain or be interpreted as a comprehensive inventory of all duties,
 responsibilities and qualifications required of employees assigned to
 this job.*
+
+
+**How to apply**
+
+
+

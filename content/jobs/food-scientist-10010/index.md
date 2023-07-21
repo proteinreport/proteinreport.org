@@ -18,9 +18,9 @@ work_environment: [Factory, Laboratory]
 work_hours: [Full-Time]
 career_category: [Product Development, Research]
 city: "West Sacramento"
-country: 
-country_code: 
-how_to_apply: "[https://www.linkedin.com/jobs/view/2779850786/?refId=rEQkgnkhR12zBtTxEo...](https://www.linkedin.com/jobs/view/2779850786/?refId=rEQkgnkhR12zBtTxEokMQw%3D%3D)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://www.linkedin.com/jobs/view/2779850786/?refId=rEQkgnkhR12zBtTxEokMQw%3D%3D"
 images: []
 draft: false
@@ -125,3 +125,9 @@ childbirth, or related medical conditions), sexual orientation, gender
 identity, gender expression, age, status as a protected veteran, status
 as an individual with a disability, or other applicable legally
 protected characteristics.
+
+
+**How to apply**
+
+
+[https://www.linkedin.com/jobs/view/2779850786/?refId=rEQkgnkhR12zBtTxEo...](https://www.linkedin.com/jobs/view/2779850786/?refId=rEQkgnkhR12zBtTxEokMQw%3D%3D)

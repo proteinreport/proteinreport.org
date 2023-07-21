@@ -18,9 +18,9 @@ work_environment: [Laboratory, Office]
 work_hours: [Full-Time]
 career_category: [Engineering, Product Development, Research]
 city: "Zurich"
-country: 
-country_code: 
-how_to_apply: "Fill the form in the link"
+country: "Switzerland"
+country_code: "CH"
+how_to_apply: 
 application_link: "https://forms.gle/sPyaqy3aMRJE83Kh7"
 images: []
 draft: false
@@ -92,3 +92,9 @@ individuals from groups traditionally underrepresented in tech to apply.
 Location: Zurich, Switzerland
 
 Application deadline: 6th of April
+
+
+**How to apply**
+
+
+Fill the form in the link

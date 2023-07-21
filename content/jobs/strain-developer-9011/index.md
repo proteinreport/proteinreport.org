@@ -18,10 +18,9 @@ work_environment: [Laboratory, Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "Davis"
-country: 
-country_code: 
-how_to_apply: "If you are interested in this position, please contact"
-how_to_apply: "<careers@balleticfoods.com>."
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://www.balleticfoods.com/files/bf_strain_developer.pdf"
 images: []
 draft: false
@@ -75,3 +74,10 @@ system.
     prokaryotic or eukaryotic hosts
 -   Molecular biology skills, and demonstrated experience in microbial
     host engineering is a plus
+
+
+**How to apply**
+
+
+If you are interested in this position, please contact
+<careers@balleticfoods.com>.

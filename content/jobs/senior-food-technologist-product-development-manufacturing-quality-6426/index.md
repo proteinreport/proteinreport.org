@@ -18,9 +18,9 @@ work_environment: [Mixed]
 work_hours: [Full-Time]
 career_category: [Product Development]
 city: "Redwood City"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://impossiblefoods.com/job-details/?id=d3d98e76-4d52-47f5-b8f6-b1394cd0a0a7&team=Product%20Development&title=Senior%20Food%20Technologist%20-%20Product%20Development%20Manufacturing%20Quality"
 images: []
 draft: false
@@ -72,3 +72,9 @@ and abroad.
 -   Demonstration of leadership ability through organization of small
     teams or projects.
 -   Comfortable presenting complex data to scientists & leaders.
+
+
+**How to apply**
+
+
+

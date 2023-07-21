@@ -18,15 +18,9 @@ work_environment: [Laboratory, Office]
 work_hours: [Full-Time]
 career_category: [Engineering, Product Development, Research]
 city: "Roslin"
-country: 
-country_code: 
-how_to_apply: "This role is for a permanent full-time contract. We will offer a"
-how_to_apply: "competitive and attractive compensation package."
-how_to_apply: ""
-how_to_apply: "For enquiries, please contact Dr Sheena Fraser"
-how_to_apply: "([sheena.fraser@roslintech.com)](mailto:sheena.fraser@roslintech.com)."
-how_to_apply: "To apply, please send a CV and cover letter explaining why you have"
-how_to_apply: "applied for the post to <careers@roslintech.com>."
+country: "United Kingdom"
+country_code: "GB"
+how_to_apply: 
 application_link: "https://roslintech.com/post-doc-bioprocessengineer/"
 images: []
 draft: false
@@ -102,3 +96,15 @@ bioprocessing of our various cell lines.
 -   Strong emphasis on team performance, scientific rigour, and personal
     development
 -   Regular company events to foster our culture
+
+
+**How to apply**
+
+
+This role is for a permanent full-time contract. We will offer a
+competitive and attractive compensation package.
+
+For enquiries, please contact Dr Sheena Fraser
+([sheena.fraser@roslintech.com)](mailto:sheena.fraser@roslintech.com).
+To apply, please send a CV and cover letter explaining why you have
+applied for the post to <careers@roslintech.com>.

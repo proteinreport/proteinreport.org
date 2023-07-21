@@ -18,11 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Marketing & Communications]
 city: "Edinburgh"
-country: 
-country_code: 
-how_to_apply: "To apply, please send a CV and cover letter explaining why you have"
-how_to_apply: "applied for the post to <careers@roslintech.com>. Closing date 31st"
-how_to_apply: "March 2022 however applications will be reviewed as they come in. "
+country: "United Kingdom"
+country_code: "GB"
+how_to_apply: 
 application_link: "https://roslintech.com/marketing-communications-manager/"
 images: []
 draft: false
@@ -119,3 +117,11 @@ business. 
     ground-breaking stem cell technologies 
 -   Strong emphasis on team performance and personal development 
 -   Regular company events to foster our culture 
+
+
+**How to apply**
+
+
+To apply, please send a CV and cover letter explaining why you have
+applied for the post to <careers@roslintech.com>. Closing date 31st
+March 2022 however applications will be reviewed as they come in. 

@@ -18,9 +18,9 @@ work_environment: [Laboratory, Office]
 work_hours: [Full-Time]
 career_category: [Management & Coordination]
 city: "New York"
-country: 
-country_code: 
-how_to_apply: "**Send CV/Resume to <careers@myhelaina.com>**"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: ""
 images: []
 draft: false
@@ -99,3 +99,9 @@ effective manner. The Operations and Project Assistant will be:
     persons hired will be required to verify identity and eligibility to
     work in the United States and to complete the required employment
     eligibility verification form upon hire. 
+
+
+**How to apply**
+
+
+**Send CV/Resume to <careers@myhelaina.com>**

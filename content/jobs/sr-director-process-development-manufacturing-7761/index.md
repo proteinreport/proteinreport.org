@@ -18,9 +18,9 @@ work_environment: [Laboratory, Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Engineering, Manufacturing, Senior Management]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/CdTqG4svlL/Sr-Director-Process-...](https://clarafoods.applytojob.com/apply/CdTqG4svlL/Sr-Director-Process-Development-Manufacturing?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/CdTqG4svlL/Sr-Director-Process-Development-Manufacturing?source=proteinreport"
 images: []
 draft: false
@@ -100,3 +100,9 @@ third protein product. 
 -   Strong influencing and negotiation skills. 
 -   Ability to deal well with uncertainty and ambiguity.
 -   Energetic with a hands-on approach to management.  
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/CdTqG4svlL/Sr-Director-Process-...](https://clarafoods.applytojob.com/apply/CdTqG4svlL/Sr-Director-Process-Development-Manufacturing?source=proteinreport)

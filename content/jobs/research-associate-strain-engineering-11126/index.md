@@ -18,9 +18,9 @@ work_environment: [Laboratory, Mixed]
 work_hours: [Full-Time]
 career_category: [Product Development, Research]
 city: "Pleasanton"
-country: 
-country_code: 
-how_to_apply: "Please apply directly to the link below:"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://airprotein.bamboohr.com/jobs/view.php?id=122"
 images: []
 draft: false
@@ -127,3 +127,9 @@ consider relocation will be considered.
     team skills.
 -   Highly organized with a strong attention to detail and able to
     uphold a high degree of scientific rigor.
+
+
+**How to apply**
+
+
+Please apply directly to the link below:

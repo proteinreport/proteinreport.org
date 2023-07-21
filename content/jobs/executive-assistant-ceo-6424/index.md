@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Management & Coordination]
 city: "San Diego"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://www.indeedjobs.com/blue-nalu-inc/jobs/1747ab2b1a65b772e8f3"
 images: []
 draft: false
@@ -142,3 +142,9 @@ team members that enjoy and thrive in the atmosphere of a very
 fast-paced entrepreneurial environment, have a good sense of humor, and
 are personally motivated to make a difference to humanity and our
 planet.
+
+
+**How to apply**
+
+
+

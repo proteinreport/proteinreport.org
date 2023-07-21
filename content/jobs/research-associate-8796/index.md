@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Research]
 city: ""
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/XCUf2K7Kq2/Research-Associate-I...](https://clarafoods.applytojob.com/apply/XCUf2K7Kq2/Research-Associate-III?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/XCUf2K7Kq2/Research-Associate-III?source=proteinreport"
 images: []
 draft: false
@@ -114,3 +114,9 @@ the animal out of the equation. We're bringing products to the table
 that are produced completely animal-free, use less land and water
 inputs, while matching the taste, nutritional value, and unique culinary
 properties of animal proteins.
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/XCUf2K7Kq2/Research-Associate-I...](https://clarafoods.applytojob.com/apply/XCUf2K7Kq2/Research-Associate-III?source=proteinreport)

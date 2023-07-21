@@ -78,7 +78,8 @@ for (row in 1:nrow(import_data)) {
   write(paste("city: ",shQuote(import_data[row,]$city), sep = ""), file_path, append = T)
   write(paste("country: ",shQuote(import_data[row,]$country), sep = ""), file_path, append = T)
   write(paste("country_code: ",shQuote(import_data[row,]$country_code), sep = ""), file_path, append = T)
-  write(paste("how_to_apply: ",shQuote(how_to_apply), sep = ""), file_path, append = T)
+  write(paste("how_to_apply: ", "", sep = ""), file_path, append = T)
+  #write(paste("how_to_apply: ",shQuote(import_data[row,]$how_to_apply), sep = ""), file_path, append = T)
   write(paste("application_link: ",shQuote(import_data[row,]$application_link), sep = ""), file_path, append = T)
   #write(paste("contributors: [",import_data[row,]$contributors, "]", sep = ""), file_path, append = T)
   write(paste("images: [", "]", sep = ""), file_path, append = T)
@@ -93,4 +94,8 @@ for (row in 1:nrow(import_data)) {
   #write(import_data[row,]$images, file_path, append = T)
   write("---", file_path, append = T)
   write(content, file_path, append = T)
+  write("\n", file_path, append = T)
+  write("**How to apply**", file_path, append = T)
+  write("\n", file_path, append = T)
+  write(how_to_apply, file_path, append = T)
 }

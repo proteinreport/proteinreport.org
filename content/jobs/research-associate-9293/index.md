@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Research]
 city: ""
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/ezLaLIruXP/Research-Associate-D...](https://clarafoods.applytojob.com/apply/ezLaLIruXP/Research-Associate-Discovery-And-Research?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/ezLaLIruXP/Research-Associate-Discovery-And-Research?source=proteinreport"
 images: []
 draft: false
@@ -92,3 +92,9 @@ What Clara Foods can offer:
 -   Monthly all-hands meetings and 1:1 with CEO and leadership
 -   Close to South San Francisco BART and Cal Train stations, including
     free shuttle service
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/ezLaLIruXP/Research-Associate-D...](https://clarafoods.applytojob.com/apply/ezLaLIruXP/Research-Associate-Discovery-And-Research?source=proteinreport)

@@ -18,10 +18,9 @@ work_environment: [Kitchen, Laboratory, Office]
 work_hours: [Part-Time]
 career_category: [Product Development]
 city: "Davis"
-country: 
-country_code: 
-how_to_apply: "**If you are interested in this position, please contact"
-how_to_apply: "<careers@balleticfoods.com>**"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://balleticfoods.com/careers/food-science-internship/"
 images: []
 draft: false
@@ -57,3 +56,10 @@ tests\
 under necessary state certifications\
 -- Work with Product Development team to come up with creative
 approaches to ongoing challenges
+
+
+**How to apply**
+
+
+**If you are interested in this position, please contact
+<careers@balleticfoods.com>**

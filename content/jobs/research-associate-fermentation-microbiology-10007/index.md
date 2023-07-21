@@ -18,11 +18,9 @@ work_environment: [Factory, Laboratory]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "West Sacramento"
-country: 
-country_code: 
-how_to_apply: "<https://www.linkedin.com/jobs/view/2787839872/>"
-how_to_apply: ""
-how_to_apply: " "
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://www.linkedin.com/jobs/view/2787839872/"
 images: []
 draft: false
@@ -114,3 +112,11 @@ childbirth, or related medical conditions), sexual orientation, gender
 identity, gender expression, age, status as a protected veteran, status
 as an individual with a disability, or other applicable legally
 protected characteristics.
+
+
+**How to apply**
+
+
+<https://www.linkedin.com/jobs/view/2787839872/>
+
+ 

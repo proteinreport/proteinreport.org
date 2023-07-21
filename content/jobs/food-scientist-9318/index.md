@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Culinary, Manufacturing, Product Development, Research]
 city: "New York"
-country: 
-country_code: 
-how_to_apply: "Please send your CV/resume to **<careers@myhelaina.com>**"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: ""
 images: []
 draft: false
@@ -105,3 +105,9 @@ Primary responsibilities include but are not limited to the following: 
 **Helaina is an Equal Opportunity Employer **
 
  
+
+
+**How to apply**
+
+
+Please send your CV/resume to **<careers@myhelaina.com>**

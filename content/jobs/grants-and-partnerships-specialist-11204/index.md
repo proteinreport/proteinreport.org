@@ -18,13 +18,9 @@ work_environment: [Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Creative, Management & Coordination, Marketing & Communications, Operations, Research]
 city: "London"
-country: 
-country_code: 
-how_to_apply: "Please email your resume (Word or PDF) and short cover letter outlining"
-how_to_apply: "your reasons for applying and what you hope to gain from the role to:"
-how_to_apply: "[[hiring@eden.bio]{.underline}](mailto:hiring@eden.bio). Be sure to"
-how_to_apply: "highlight any relevant experience as well as your availability (when you"
-how_to_apply: "can start)."
+country: "United Kingdom"
+country_code: "GB"
+how_to_apply: 
 application_link: "https://www.linkedin.com/jobs/view/3367158595/?refId=Ni6HcnCXq3YRozII8d1vjA%3D%3D"
 images: []
 draft: false
@@ -104,3 +100,13 @@ competitive salary, stock options, and benefits package commensurate
 with qualifications and experience.
 
  
+
+
+**How to apply**
+
+
+Please email your resume (Word or PDF) and short cover letter outlining
+your reasons for applying and what you hope to gain from the role to:
+[[hiring@eden.bio]{.underline}](mailto:hiring@eden.bio). Be sure to
+highlight any relevant experience as well as your availability (when you
+can start).

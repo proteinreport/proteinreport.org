@@ -18,9 +18,9 @@ work_environment: [Field, Office]
 work_hours: [Full-Time]
 career_category: [Marketing & Communications]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/C8ehdcq6Jc/Head-Of-Product-Launch?source=proteinreport"
 images: []
 draft: false
@@ -116,3 +116,9 @@ What Clara can offer:
 -   Monthly all-hands meetings and 1:1 with CEO and leadership
 -   Close to South San Francisco BART and Cal Train stations, including
     free shuttle service
+
+
+**How to apply**
+
+
+

@@ -18,9 +18,9 @@ work_environment: [Field, Laboratory, Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Engineering, Senior Management]
 city: "SF Bay Area"
-country: 
-country_code: 
-how_to_apply: "**Please Apply Directly To The Link Below**"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://airprotein.bamboohr.com/jobs/view.php?id=132&source=bamboohr"
 images: []
 draft: false
@@ -150,3 +150,9 @@ may not apply for a role if they aren\'t a 100% match. Please don\'t
 hold back. If you think you will excel in this role, but perhaps you
 don't tick every box, we\'d appreciate the opportunity to consider your
 application.*
+
+
+**How to apply**
+
+
+**Please Apply Directly To The Link Below**

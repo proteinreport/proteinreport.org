@@ -18,9 +18,9 @@ work_environment: [Factory, Laboratory, Mixed]
 work_hours: [Full-Time]
 career_category: [Product Development, Research, Senior Management]
 city: "SF/Bay Area"
-country: 
-country_code: 
-how_to_apply: "Please Click On Link Below To Apply"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://jobs.lever.co/airprotein/0cb20877-71cf-449c-b8b2-b542d17f0f2a"
 images: []
 draft: false
@@ -160,3 +160,9 @@ not apply for a role if they aren\'t a 100% match.  Please don\'t hold
 back.  If you think you will excel in this role, but perhaps you don't
 tick every box, we\'d appreciate the opportunity to consider your
 application.
+
+
+**How to apply**
+
+
+Please Click On Link Below To Apply

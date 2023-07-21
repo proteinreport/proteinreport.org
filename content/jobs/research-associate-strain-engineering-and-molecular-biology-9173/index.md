@@ -18,11 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "New York"
-country: 
-country_code: 
-how_to_apply: "Reach out to Pamela Botero Besada-Lombana at"
-how_to_apply: "[<pamela@myhelaina.com>]{.underline} or Paola Delgado at"
-how_to_apply: "[<paola@myhelaina.com>]{.underline}"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: ""
 images: []
 draft: false
@@ -93,3 +91,11 @@ Primary responsibilities include but are not limited to the following:
 -   Has an "anything is possible" attitude and no ego
 
 **Helaina is an Equal Opportunity Employer**
+
+
+**How to apply**
+
+
+Reach out to Pamela Botero Besada-Lombana at
+[<pamela@myhelaina.com>]{.underline} or Paola Delgado at
+[<paola@myhelaina.com>]{.underline}

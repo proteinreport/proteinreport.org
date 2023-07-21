@@ -18,9 +18,9 @@ work_environment: [Laboratory, Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Manufacturing, Operations, Product Development, Senior Management]
 city: "Pleasanton"
-country: 
-country_code: 
-how_to_apply: "Please Click Link To Apply"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://jobs.lever.co/airprotein/57101693-b651-4b02-a447-7653e12d21af"
 images: []
 draft: false
@@ -136,3 +136,9 @@ not apply for a role if they aren\'t a 100% match.  Please don\'t hold
 back.  If you think you will excel in this role, but perhaps you don't
 tick every box, we\'d appreciate the opportunity to consider your
 application.
+
+
+**How to apply**
+
+
+Please Click Link To Apply

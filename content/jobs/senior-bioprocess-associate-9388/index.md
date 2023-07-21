@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Engineering, Research]
 city: "SOUTH SAN FRANCISCO"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/IPJapdxAQc/Senior-BioProcess-As...](https://clarafoods.applytojob.com/apply/IPJapdxAQc/Senior-BioProcess-Associate?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/IPJapdxAQc/Senior-BioProcess-Associate?source=proteinreport"
 images: []
 draft: false
@@ -106,3 +106,9 @@ the equation. We're bringing an egg white to the table that is produced
 completely animal-free, uses less land and water inputs, while matching
 the taste, nutritional value, and unique culinary properties of
 hen-borne egg whites.
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/IPJapdxAQc/Senior-BioProcess-As...](https://clarafoods.applytojob.com/apply/IPJapdxAQc/Senior-BioProcess-Associate?source=proteinreport)

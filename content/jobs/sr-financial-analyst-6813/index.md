@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Finance & Accounting]
 city: "Emeryville"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://jobs.lever.co/perfectday/d1a68f66-c760-4d5d-8bae-22a524aeb881"
 images: []
 draft: false
@@ -81,3 +81,9 @@ start-up environment.
     customer service are keys to success in this position.
 -   Excellent written and verbal communication skills.
 -   Strong team spirit.
+
+
+**How to apply**
+
+
+

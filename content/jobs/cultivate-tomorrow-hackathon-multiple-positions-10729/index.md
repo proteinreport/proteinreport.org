@@ -18,11 +18,9 @@ work_environment: [Laboratory, Mixed, Office]
 work_hours: [Part-Time]
 career_category: [Business Development, Creative, Engineering, Finance & Accounting, Management & Coordination, Marketing & Communications, Operations, Product Development, Research]
 city: ""
-country: 
-country_code: 
-how_to_apply: "Please reach out to Jasmin Kern (<jkern@mit.edu>) or Sean Baker"
-how_to_apply: "(<sbaker8@wisc.edu>) with any questions/queries regarding the"
-how_to_apply: "application process."
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://www.cultivate-tmrw.com/jobs"
 images: []
 draft: false
@@ -72,3 +70,11 @@ We look forward to reviewing your applications and seeing what ideas you
 have for advancing Cultivate into the future. Following application
 submission, expect to hear back within the next couple weeks regarding
 interviews and next steps.
+
+
+**How to apply**
+
+
+Please reach out to Jasmin Kern (<jkern@mit.edu>) or Sean Baker
+(<sbaker8@wisc.edu>) with any questions/queries regarding the
+application process.

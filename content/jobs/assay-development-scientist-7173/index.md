@@ -18,10 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "Berkeley"
-country: 
-country_code: 
-how_to_apply: "Please apply via this"
-how_to_apply: "link: <https://jobs.lever.co/shiru/5cd6e731-3ffb-4f3e-a31b-d9f23669ca72>"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://jobs.lever.co/shiru/5cd6e731-3ffb-4f3e-a31b-d9f23669ca72"
 images: []
 draft: false
@@ -38,3 +37,10 @@ As the assay development scientist at Shiru you will develop the
 workflows associated with protein production and characterization
 creatively and effectively using biochemistry and materials science
 techniques. 
+
+
+**How to apply**
+
+
+Please apply via this
+link: <https://jobs.lever.co/shiru/5cd6e731-3ffb-4f3e-a31b-d9f23669ca72>

@@ -18,9 +18,9 @@ work_environment: []
 work_hours: [Full-Time]
 career_category: [Business Development, Management & Coordination]
 city: ""
-country: 
-country_code: 
-how_to_apply: ""
+country: ""
+country_code: ""
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/b0fqOBlBUr/Strategy-Partnerships-Extern?source=proteinreport"
 images: []
 draft: false
@@ -87,3 +87,9 @@ questions:
     interpersonal skills
 -   Mission-driven, resourceful, team-oriented, and low-ego with a
     positive attitude
+
+
+**How to apply**
+
+
+

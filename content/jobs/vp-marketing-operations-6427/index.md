@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Marketing & Communications]
 city: "Los Angeles"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://careers-califiafarms.icims.com/jobs/1191/vp-of-marketing-operations/job"
 images: []
 draft: false
@@ -99,3 +99,9 @@ In a snapshot:
     success, i.e. new product launches, consumer or market segmentation
 -   Comfortable in a fast-paced, dynamic, yet lean organization
 -   Team player and motivational leader
+
+
+**How to apply**
+
+
+

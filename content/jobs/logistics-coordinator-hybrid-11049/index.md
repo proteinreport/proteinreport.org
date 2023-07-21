@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Supply Chain]
 city: "San Francisco"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://grnh.se/d432bd774us"
 images: []
 draft: false
@@ -146,3 +146,9 @@ to sponsor individuals for employment visas for this job. In compliance
 with federal law, all persons hired will be required to verify identity
 and eligibility to work in the United States and to complete the
 required employment eligibility verification form upon hire.*
+
+
+**How to apply**
+
+
+

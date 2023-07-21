@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: []
 city: ""
-country: 
-country_code: 
-how_to_apply: "<https://grnh.se/b5b482384us>"
+country: ""
+country_code: ""
+how_to_apply: 
 application_link: "https://grnh.se/b5b482384us"
 images: []
 draft: false
@@ -114,3 +114,9 @@ childbirth, or related medical conditions), sexual orientation, gender
 identity, gender expression, age, status as a protected veteran, status
 as an individual with a disability, or other applicable legally
 protected characteristics.
+
+
+**How to apply**
+
+
+<https://grnh.se/b5b482384us>

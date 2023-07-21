@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Finance & Accounting]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/ESb3idmXms/Controller?source=pr...](https://clarafoods.applytojob.com/apply/ESb3idmXms/Controller?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/ESb3idmXms/Controller?source=proteinreport"
 images: []
 draft: false
@@ -93,3 +93,9 @@ Preferred Skills & Abilities:
 -   Familiarity with cost accounting principles;
 -   Experience with startups or fast-growing small companies.
 -   Must be authorized to work in the United States for Clara Foods
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/ESb3idmXms/Controller?source=pr...](https://clarafoods.applytojob.com/apply/ESb3idmXms/Controller?source=proteinreport)

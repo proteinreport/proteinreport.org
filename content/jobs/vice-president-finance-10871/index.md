@@ -18,9 +18,9 @@ work_environment: [Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Finance & Accounting]
 city: ""
-country: 
-country_code: 
-how_to_apply: "LinkedIn or [www.bettermeat.co](http://www.bettermeat.co)"
+country: ""
+country_code: ""
+how_to_apply: 
 application_link: "https://www.linkedin.com/jobs/view/3075746807/?refId=GNiY5OCCT8KHVAf6a91jsQ%3D%3D"
 images: []
 draft: false
@@ -102,3 +102,9 @@ company, The Better Meat Co. offers valuable benefits, including:
 -   8 paid floating holidays
 -   Ancillary Benefits: Adoption Assistance, Commuter Benefits
 -   Employee discounts for eligible vendors
+
+
+**How to apply**
+
+
+LinkedIn or [www.bettermeat.co](http://www.bettermeat.co)

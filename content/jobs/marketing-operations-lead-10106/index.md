@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Marketing & Communications]
 city: "New York"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://jobs.lever.co/Helaina/091a1922-63d0-46d8-b050-fcb7bb9d6b86"
 images: []
 draft: false
@@ -108,3 +108,9 @@ Come grow with us!
 **Helaina is an Equal Opportunity Employer **
 
 For more information, please contact <careers@myhelaina.com>
+
+
+**How to apply**
+
+
+

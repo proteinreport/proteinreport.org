@@ -18,11 +18,9 @@ work_environment: [Laboratory, Office]
 work_hours: [Full-Time]
 career_category: [Product Development, Research]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: "Visit:"
-how_to_apply: ""
-how_to_apply: "[https://clarafoods.applytojob.com/apply/Mh2s3Hp4Hl/Research-AssociateSc...](https://clarafoods.applytojob.com/apply/Mh2s3Hp4Hl/Research-AssociateScientist?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/Mh2s3Hp4Hl/Research-AssociateScientist?source=proteinreport"
 images: []
 draft: false
@@ -128,3 +126,11 @@ coffee and tea
 
 • Close to South San Francisco BART and Cal Train stations, including
 free shuttle service
+
+
+**How to apply**
+
+
+Visit:
+
+[https://clarafoods.applytojob.com/apply/Mh2s3Hp4Hl/Research-AssociateSc...](https://clarafoods.applytojob.com/apply/Mh2s3Hp4Hl/Research-AssociateScientist?source=proteinreport)

@@ -18,10 +18,9 @@ work_environment: [Mixed]
 work_hours: [Full-Time]
 career_category: [Quality & Safety]
 city: "West Sacramento"
-country: 
-country_code: 
-how_to_apply: "Please email resume and cover letter to: <doni.curkendall@bettermeat.co>"
-how_to_apply: "or apply on Indeed:"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://www.indeed.com/job/food-safetyquality-assurance-supervisor-7476a716c6a6486f"
 images: []
 draft: false
@@ -142,3 +141,10 @@ race, religion, color, national origin, gender\
 orientation, gender identity, gender expression, age, status as a
 protected veteran, status as an individual with a disability, or other
 applicable legally protected characteristics.
+
+
+**How to apply**
+
+
+Please email resume and cover letter to: <doni.curkendall@bettermeat.co>
+or apply on Indeed:

@@ -18,9 +18,9 @@ work_environment: []
 work_hours: [Full-Time]
 career_category: [Engineering, Research]
 city: ""
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/fVr3LmNAuJ/Full-Stack-Data-Scie...](https://clarafoods.applytojob.com/apply/fVr3LmNAuJ/Full-Stack-Data-Scientist?source=ProteinReport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/fVr3LmNAuJ/Full-Stack-Data-Scientist?source=ProteinReport"
 images: []
 draft: false
@@ -38,3 +38,9 @@ genomics data to process optimization and mining on flavor. We are
 looking for folks eager to learn about and collaborate with many
 different disciplines. Ideal candidates are ready to work with others to
 build solutions from conception to release
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/fVr3LmNAuJ/Full-Stack-Data-Scie...](https://clarafoods.applytojob.com/apply/fVr3LmNAuJ/Full-Stack-Data-Scientist?source=ProteinReport)

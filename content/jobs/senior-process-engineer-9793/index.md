@@ -18,9 +18,9 @@ work_environment: [Mixed]
 work_hours: [Full-Time]
 career_category: [Engineering]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/z4K0iLpwvD/Senior-Process-Engin...](https://clarafoods.applytojob.com/apply/z4K0iLpwvD/Senior-Process-Engineer)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/z4K0iLpwvD/Senior-Process-Engineer"
 images: []
 draft: false
@@ -133,3 +133,9 @@ childbirth, or related medical conditions), sexual orientation, gender
 identity, gender expression, age, status as a protected veteran, status
 as an individual with a disability, or other applicable legally
 protected characteristics.
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/z4K0iLpwvD/Senior-Process-Engin...](https://clarafoods.applytojob.com/apply/z4K0iLpwvD/Senior-Process-Engineer)

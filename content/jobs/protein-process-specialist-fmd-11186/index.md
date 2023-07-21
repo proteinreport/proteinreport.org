@@ -18,9 +18,9 @@ work_environment: [Factory, Laboratory, Mixed, Office]
 work_hours: [Full-Time]
 career_category: [Research]
 city: ""
-country: 
-country_code: 
-how_to_apply: "[https://careers.eatplanted.com/jobs/1938927-protein-process-specialist-...](https://careers.eatplanted.com/jobs/1938927-protein-process-specialist-f-m-d)"
+country: ""
+country_code: ""
+how_to_apply: 
 application_link: "https://careers.eatplanted.com/jobs/1938927-protein-process-specialist-f-m-d"
 images: []
 draft: false
@@ -85,3 +85,9 @@ and actively shape Planted\'s future!
     and oral English, German is a plus
 
  
+
+
+**How to apply**
+
+
+[https://careers.eatplanted.com/jobs/1938927-protein-process-specialist-...](https://careers.eatplanted.com/jobs/1938927-protein-process-specialist-f-m-d)

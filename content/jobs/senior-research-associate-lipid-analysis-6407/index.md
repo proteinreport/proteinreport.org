@@ -18,9 +18,9 @@ work_environment: [Laboratory]
 work_hours: [Full-Time]
 career_category: [Research]
 city: "Redwood City"
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://impossiblefoods.com/job-details/?id=b679404c-b0fa-49c1-bb50-20354f787e80&team=Research&title=Senior%20Research%20Associate%20-%20Lipid%20Analysis"
 images: []
 draft: false
@@ -83,3 +83,9 @@ and abroad.
     recording complete and accurate information into lab notebook.
 -   Excellent oral and written communication skills.
 -   A hard-working, independent, proactive, and self-driven personality.
+
+
+**How to apply**
+
+
+

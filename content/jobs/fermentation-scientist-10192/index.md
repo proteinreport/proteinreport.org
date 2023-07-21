@@ -18,10 +18,9 @@ work_environment: [Laboratory, Mixed]
 work_hours: [Full-Time]
 career_category: [Engineering, Manufacturing, Product Development, Quality & Safety, Research, Supply Chain]
 city: "Davis"
-country: 
-country_code: 
-how_to_apply: "If you are interested in this position, please contact"
-how_to_apply: "[[careers@balleticfoods.com]{.underline}](mailto:careers@balleticfoods.com)."
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://balleticfoods.com/files/bf_fermentation_scientist.pdf"
 images: []
 draft: false
@@ -71,3 +70,10 @@ system.
 -   Experience working on lab scale fermentation implementation and
     process development
 -   Familiarity with downstream processing is a plus
+
+
+**How to apply**
+
+
+If you are interested in this position, please contact
+[[careers@balleticfoods.com]{.underline}](mailto:careers@balleticfoods.com).

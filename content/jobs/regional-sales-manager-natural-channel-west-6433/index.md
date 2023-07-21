@@ -18,9 +18,9 @@ work_environment: [Mixed]
 work_hours: [Full-Time]
 career_category: [Business Development, Management & Coordination]
 city: ""
-country: 
-country_code: 
-how_to_apply: ""
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://careers-califiafarms.icims.com/jobs/1204/regional-sales-manager---natural-channel-west/job"
 images: []
 draft: false
@@ -163,3 +163,9 @@ and will not be influenced in any manner by race, color, religion,
 gender, national origin/ethnicity, veteran status, disability status,
 age, sexual orientation, marital status, mental or physical disability
 or any other legally protected status.
+
+
+**How to apply**
+
+
+

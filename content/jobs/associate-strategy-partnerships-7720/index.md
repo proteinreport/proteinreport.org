@@ -18,9 +18,9 @@ work_environment: [Office]
 work_hours: [Full-Time]
 career_category: [Business Development, Finance & Accounting, Management & Coordination, Product Development]
 city: "South San Francisco"
-country: 
-country_code: 
-how_to_apply: "[https://clarafoods.applytojob.com/apply/uyLLtcadOU/Associate-Strategy-P...](https://clarafoods.applytojob.com/apply/uyLLtcadOU/Associate-Strategy-Partnerships?source=proteinreport)"
+country: "United States"
+country_code: "US"
+how_to_apply: 
 application_link: "https://clarafoods.applytojob.com/apply/uyLLtcadOU/Associate-Strategy-Partnerships?source=proteinreport"
 images: []
 draft: false
@@ -81,3 +81,9 @@ show a deep commitment to accelerating Clara's mission.
     positive attitude
 
  
+
+
+**How to apply**
+
+
+[https://clarafoods.applytojob.com/apply/uyLLtcadOU/Associate-Strategy-P...](https://clarafoods.applytojob.com/apply/uyLLtcadOU/Associate-Strategy-Partnerships?source=proteinreport)
