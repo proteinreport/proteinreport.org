@@ -20,6 +20,7 @@ city: "South San Francisco"
 country: 
 country_code: 
 how_to_apply: ""
+application_link: "https://clarafoods.applytojob.com/apply/erEzNCf6ME/Research-Associate-III-Automation-And-Analytics?source=proteinreport"
 images: []
 draft: false
 pinned: false

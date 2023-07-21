@@ -19,7 +19,8 @@ career_category: [Manufacturing, Operations, Product Development, Senior Managem
 city: "Pleasanton"
 country: 
 country_code: 
-how_to_apply: "<p>Please Click Link To Apply</p>"
+how_to_apply: "Please Click Link To Apply"
+application_link: "https://jobs.lever.co/airprotein/57101693-b651-4b02-a447-7653e12d21af"
 images: []
 draft: false
 pinned: false

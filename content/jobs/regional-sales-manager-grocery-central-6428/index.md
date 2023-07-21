@@ -20,6 +20,7 @@ city: "Chicago"
 country: 
 country_code: 
 how_to_apply: ""
+application_link: "https://careers-califiafarms.icims.com/jobs/1203/regional-sales-manager---grocery-central/job"
 images: []
 draft: false
 pinned: false

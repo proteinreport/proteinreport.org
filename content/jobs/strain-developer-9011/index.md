@@ -19,7 +19,9 @@ career_category: [Research]
 city: "Davis"
 country: 
 country_code: 
-how_to_apply: "<p>If you are interested in this position, please contact <a href=\"mailto:careers@balleticfoods.com\">careers@balleticfoods.com</a>.</p>"
+how_to_apply: "If you are interested in this position, please contact"
+how_to_apply: "<careers@balleticfoods.com>."
+application_link: "https://www.balleticfoods.com/files/bf_strain_developer.pdf"
 images: []
 draft: false
 pinned: false

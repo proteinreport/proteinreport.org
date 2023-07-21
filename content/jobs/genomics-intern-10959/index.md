@@ -19,7 +19,8 @@ career_category: [Product Development, Quality & Safety, Research]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://grnh.se/8824422d4us\">https://grnh.se/8824422d4us</a></p>"
+how_to_apply: "<https://grnh.se/8824422d4us>"
+application_link: "https://grnh.se/8824422d4us"
 images: []
 draft: false
 pinned: false

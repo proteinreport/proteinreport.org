@@ -19,7 +19,8 @@ career_category: []
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://grnh.se/b5b482384us\">https://grnh.se/b5b482384us</a></p>"
+how_to_apply: "<https://grnh.se/b5b482384us>"
+application_link: "https://grnh.se/b5b482384us"
 images: []
 draft: false
 pinned: false

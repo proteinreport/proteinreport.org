@@ -19,7 +19,8 @@ career_category: [Product Development, Research]
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://careers.eatplanted.com/jobs/1938906-food-application-scientist-f-m-d\">https://careers.eatplanted.com/jobs/1938906-food-application-scientist-…</a></p>"
+how_to_apply: "[https://careers.eatplanted.com/jobs/1938906-food-application-scientist-...](https://careers.eatplanted.com/jobs/1938906-food-application-scientist-f-m-d)"
+application_link: "https://careers.eatplanted.com/jobs/1938906-food-application-scientist-f-m-d"
 images: []
 draft: false
 pinned: false

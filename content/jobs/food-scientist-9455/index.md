@@ -19,7 +19,10 @@ career_category: [Product Development]
 city: "San Mateo"
 country: 
 country_code: 
-how_to_apply: "<p>Submit resume and why you think you’d be a good fit for this role to <a href=\"mailto:info@kitchentowncentral.com\"><strong>info@kitchentowncentral.com</strong></a> <em><strong>with the subject line: Food Scientist</strong></em>. Thank you! </p>"
+how_to_apply: "Submit resume and why you think you'd be a good fit for this role"
+how_to_apply: "to [**info@kitchentowncentral.com**](mailto:info@kitchentowncentral.com) ***with"
+how_to_apply: "the subject line: Food Scientist***. Thank you! "
+application_link: "https://kitchentowncentral.com/join-our-team/"
 images: []
 draft: false
 pinned: false

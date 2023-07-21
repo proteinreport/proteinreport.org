@@ -19,7 +19,8 @@ career_category: [Quality & Safety]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/JrD5owiePY/Quality-Assurance-Associate?source=proteinreport\">https://clarafoods.applytojob.com/apply/JrD5owiePY/Quality-Assurance-As…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/JrD5owiePY/Quality-Assurance-As...](https://clarafoods.applytojob.com/apply/JrD5owiePY/Quality-Assurance-Associate?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/JrD5owiePY/Quality-Assurance-Associate?source=proteinreport"
 images: []
 draft: false
 pinned: false

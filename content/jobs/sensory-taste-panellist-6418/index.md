@@ -19,7 +19,10 @@ career_category: [Quality & Safety]
 city: "Stokesley"
 country: 
 country_code: 
-how_to_apply: "<p>Interested applicants should contact <a href=\"mailto:hr@quornfoods.com\">hr@quornfoods.com</a> to request an application form. Shortlisted candidates will be then invited to an interview/screening session which will take place in our facilities.</p>"
+how_to_apply: "Interested applicants should contact <hr@quornfoods.com> to request an"
+how_to_apply: "application form. Shortlisted candidates will be then invited to an"
+how_to_apply: "interview/screening session which will take place in our facilities."
+application_link: "https://www.quorn.co.uk/company/careers/sensory-taste-panellist"
 images: []
 draft: false
 pinned: false

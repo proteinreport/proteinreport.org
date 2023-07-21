@@ -39,10 +39,14 @@ for (row in 1:nrow(import_data)) {
   file_path <- paste(dir_path,"/index.md",sep = "")
   # decode image url
   #import_data[row,]$images <- url_decode(basename(import_data[row,]$images))
-  # get body
+  # get body and convert html to markdown
   content <- select(import_data[row,], body) %>%
     as.character()
   content <- pandoc::pandoc_convert(text = content, from="html", to="markdown")
+  # get how to apply and convert html to markdown
+  how_to_apply <- select(import_data[row,], how_to_apply) %>%
+    as.character()
+  how_to_apply <- pandoc::pandoc_convert(text = how_to_apply, from="html", to="markdown")
   # write to file
   write("---", file_path)
   #write(fm, file_path, append = T)
@@ -72,7 +76,8 @@ for (row in 1:nrow(import_data)) {
   write(paste("city: ",shQuote(import_data[row,]$city), sep = ""), file_path, append = T)
   write(paste("country: ",shQuote(import_data[row,]$country), sep = ""), file_path, append = T)
   write(paste("country_code: ",shQuote(import_data[row,]$country_code), sep = ""), file_path, append = T)
-  write(paste("how_to_apply: ",shQuote(import_data[row,]$how_to_apply), sep = ""), file_path, append = T)
+  write(paste("how_to_apply: ",shQuote(how_to_apply), sep = ""), file_path, append = T)
+  write(paste("application_link: ",shQuote(import_data[row,]$application_link), sep = ""), file_path, append = T)
   #write(paste("contributors: [",import_data[row,]$contributors, "]", sep = ""), file_path, append = T)
   write(paste("images: [", "]", sep = ""), file_path, append = T)
   #write(paste("additional_images: [",import_data[row,]$additional_images, "]", sep = ""), file_path, append = T)

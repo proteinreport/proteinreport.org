@@ -19,7 +19,8 @@ career_category: [Finance & Accounting]
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p>LinkedIn or <a href=\"http://www.bettermeat.co\">www.bettermeat.co</a></p>"
+how_to_apply: "LinkedIn or [www.bettermeat.co](http://www.bettermeat.co)"
+application_link: "https://www.linkedin.com/jobs/view/3075746807/?refId=GNiY5OCCT8KHVAf6a91jsQ%3D%3D"
 images: []
 draft: false
 pinned: false

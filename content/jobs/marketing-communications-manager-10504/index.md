@@ -19,7 +19,10 @@ career_category: [Marketing & Communications]
 city: "Edinburgh"
 country: 
 country_code: 
-how_to_apply: "<p>To apply, please send a CV and cover letter explaining why you have applied for the post to <a href=\"mailto:careers@roslintech.com\">careers@roslintech.com</a>. Closing date 31st March 2022 however applications will be reviewed as they come in. </p>"
+how_to_apply: "To apply, please send a CV and cover letter explaining why you have"
+how_to_apply: "applied for the post to <careers@roslintech.com>. Closing date 31st"
+how_to_apply: "March 2022 however applications will be reviewed as they come in. "
+application_link: "https://roslintech.com/marketing-communications-manager/"
 images: []
 draft: false
 pinned: false

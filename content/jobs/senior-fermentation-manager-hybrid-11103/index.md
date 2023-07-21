@@ -20,6 +20,7 @@ city: ""
 country: 
 country_code: 
 how_to_apply: ""
+application_link: "https://grnh.se/d98026d84us"
 images: []
 draft: false
 pinned: false

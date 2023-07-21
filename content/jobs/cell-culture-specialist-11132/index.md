@@ -19,7 +19,8 @@ career_category: [Research]
 city: "Brno"
 country: 
 country_code: 
-how_to_apply: "<p>Send us your CV at <a href=\"mailto:hr@mewery.io\">hr@mewery.io</a> and let’s have a first informal chat.</p>"
+how_to_apply: "Send us your CV at <hr@mewery.io> and let's have a first informal chat."
+application_link: "https://mewery.io/careers.html"
 images: []
 draft: false
 pinned: false

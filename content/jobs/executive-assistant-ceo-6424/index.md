@@ -20,6 +20,7 @@ city: "San Diego"
 country: 
 country_code: 
 how_to_apply: ""
+application_link: "https://www.indeedjobs.com/blue-nalu-inc/jobs/1747ab2b1a65b772e8f3"
 images: []
 draft: false
 pinned: false

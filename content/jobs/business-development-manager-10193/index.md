@@ -19,7 +19,9 @@ career_category: [Business Development, Management & Coordination, Operations]
 city: "Sacramento"
 country: 
 country_code: 
-how_to_apply: "<p>If you are interested in this position, please contact <a href=\"mailto:careers@balleticfoods.com\">careers@balleticfoods.com</a>.</p>"
+how_to_apply: "If you are interested in this position, please contact"
+how_to_apply: "<careers@balleticfoods.com>."
+application_link: "https://balleticfoods.com/files/bf_bdm.pdf"
 images: []
 draft: false
 pinned: false

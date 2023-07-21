@@ -19,7 +19,9 @@ career_category: [Engineering, Manufacturing, Product Development, Quality & Saf
 city: "Davis"
 country: 
 country_code: 
-how_to_apply: "<p>If you are interested in this position, please contact <a href=\"mailto:careers@balleticfoods.com\"><u>careers@balleticfoods.com</u></a>.</p>"
+how_to_apply: "If you are interested in this position, please contact"
+how_to_apply: "[[careers@balleticfoods.com]{.underline}](mailto:careers@balleticfoods.com)."
+application_link: "https://balleticfoods.com/files/bf_fermentation_scientist.pdf"
 images: []
 draft: false
 pinned: false

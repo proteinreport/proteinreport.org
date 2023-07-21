@@ -19,7 +19,9 @@ career_category: [Legal]
 city: "Leeds"
 country: 
 country_code: 
-how_to_apply: "<p>Interested applicants should forward their CV & Covering Letter to <a href=\"mailto:hr@quornfoods.com\">hr@quornfoods.com</a></p>"
+how_to_apply: "Interested applicants should forward their CV & Covering Letter to"
+how_to_apply: "<hr@quornfoods.com>"
+application_link: "https://www.quorn.co.uk/company/careers/compliance-officer"
 images: []
 draft: false
 pinned: false

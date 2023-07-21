@@ -19,7 +19,9 @@ career_category: [Product Development, Research, Senior Management]
 city: "New York"
 country: 
 country_code: 
-how_to_apply: "<p><u>Please contact:</u> <strong>Anton Elemoso at </strong><a href=\"mailto:ae@vivaxbio.com\"><strong>ae@vivaxbio.com</strong></a></p>"
+how_to_apply: "[Please contact:]{.underline} **Anton Elemoso at**"
+how_to_apply: "[**ae@vivaxbio.com**](mailto:ae@vivaxbio.com)"
+application_link: ""
 images: []
 draft: false
 pinned: false

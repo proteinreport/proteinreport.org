@@ -19,7 +19,9 @@ career_category: [Research]
 city: "Zurich (Kemptthal)"
 country: 
 country_code: 
-how_to_apply: "<p>Please apply with your complete application documents. Valid work permit for Switzerland is mandatory.</p>"
+how_to_apply: "Please apply with your complete application documents. Valid work permit"
+how_to_apply: "for Switzerland is mandatory."
+application_link: "https://careers.eatplanted.com/jobs/1140809-lead-industrial-biotechnology?promotion=227179-trackable-share-link-protein-report"
 images: []
 draft: false
 pinned: false

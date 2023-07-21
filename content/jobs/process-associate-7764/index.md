@@ -19,7 +19,8 @@ career_category: [Engineering, Manufacturing, Research]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/7u1Qcrx6NJ/Process-Associate?source=proteinreport\">https://clarafoods.applytojob.com/apply/7u1Qcrx6NJ/Process-Associate?so…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/7u1Qcrx6NJ/Process-Associate?so...](https://clarafoods.applytojob.com/apply/7u1Qcrx6NJ/Process-Associate?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/7u1Qcrx6NJ/Process-Associate?source=proteinreport"
 images: []
 draft: false
 pinned: false

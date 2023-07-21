@@ -19,7 +19,8 @@ career_category: [Business Development, Senior Management]
 city: "SF Bay Area"
 country: 
 country_code: 
-how_to_apply: "<p>Please click the application link below:</p>"
+how_to_apply: "Please click the application link below:"
+application_link: "https://airprotein.bamboohr.com/jobs/view.php?id=124&source=bamboohr"
 images: []
 draft: false
 pinned: false

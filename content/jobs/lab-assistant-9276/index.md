@@ -19,7 +19,8 @@ career_category: [Research]
 city: "SOUTH SAN FRANCISCO"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/5NbaFaGkfC/Lab-Assistant-Strain-EngineeringLab-Operations?source=proteinreport\">https://clarafoods.applytojob.com/apply/5NbaFaGkfC/Lab-Assistant-Strain…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/5NbaFaGkfC/Lab-Assistant-Strain...](https://clarafoods.applytojob.com/apply/5NbaFaGkfC/Lab-Assistant-Strain-EngineeringLab-Operations?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/5NbaFaGkfC/Lab-Assistant-Strain-EngineeringLab-Operations?source=proteinreport"
 images: []
 draft: false
 pinned: false

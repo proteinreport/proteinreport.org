@@ -19,7 +19,8 @@ career_category: [Engineering, Research]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/Bd7G9eOUYn/BioProcess-Engineer?source=proteinreport\">https://clarafoods.applytojob.com/apply/Bd7G9eOUYn/BioProcess-Engineer?…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/Bd7G9eOUYn/BioProcess-Engineer?...](https://clarafoods.applytojob.com/apply/Bd7G9eOUYn/BioProcess-Engineer?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/Bd7G9eOUYn/BioProcess-Engineer?source=proteinreport"
 images: []
 draft: false
 pinned: false

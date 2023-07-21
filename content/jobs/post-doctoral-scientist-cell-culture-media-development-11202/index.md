@@ -19,9 +19,15 @@ career_category: [Product Development, Research]
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p>This role is for a permanent full-time contract. We will offer a competitive and attractive compensation package.</p>
-<p>For informal enquiries, please contact Dr Sheena Fraser, VP Product Development (<a href=\"mailto:sheena.fraser@roslintech.com\">sheena.fraser@roslintech.com</a>).</p>
-<p>To apply, please send a CV and cover letter explaining why you have applied for the post to <a href=\"mailto:careers@roslintech.com\">careers@roslintech.com</a>.</p>"
+how_to_apply: "This role is for a permanent full-time contract. We will offer a"
+how_to_apply: "competitive and attractive compensation package."
+how_to_apply: ""
+how_to_apply: "For informal enquiries, please contact Dr Sheena Fraser, VP Product"
+how_to_apply: "Development (<sheena.fraser@roslintech.com>)."
+how_to_apply: ""
+how_to_apply: "To apply, please send a CV and cover letter explaining why you have"
+how_to_apply: "applied for the post to <careers@roslintech.com>."
+application_link: "https://roslintech.com/post-doc-media-development/"
 images: []
 draft: false
 pinned: false

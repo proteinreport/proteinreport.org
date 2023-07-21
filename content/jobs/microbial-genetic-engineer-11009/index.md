@@ -19,7 +19,9 @@ career_category: [Research]
 city: "Davis"
 country: 
 country_code: 
-how_to_apply: "<p><strong>If you are interested in this position, please contact <a href=\"mailto:careers@balleticfoods.com\">careers@balleticfoods.com</a></strong></p>"
+how_to_apply: "**If you are interested in this position, please contact"
+how_to_apply: "<careers@balleticfoods.com>**"
+application_link: "https://balleticfoods.com/careers/microbial-genetic-engineer/"
 images: []
 draft: false
 pinned: false

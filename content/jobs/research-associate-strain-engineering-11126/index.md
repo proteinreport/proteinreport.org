@@ -19,7 +19,8 @@ career_category: [Product Development, Research]
 city: "Pleasanton"
 country: 
 country_code: 
-how_to_apply: "<p>Please apply directly to the link below:</p>"
+how_to_apply: "Please apply directly to the link below:"
+application_link: "https://airprotein.bamboohr.com/jobs/view.php?id=122"
 images: []
 draft: false
 pinned: false

@@ -19,7 +19,8 @@ career_category: [Research]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/NBI1PYt1BX/Senior-Scientist-Protein-Function?source=proteinreport\">https://clarafoods.applytojob.com/apply/NBI1PYt1BX/Senior-Scientist-Pro…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/NBI1PYt1BX/Senior-Scientist-Pro...](https://clarafoods.applytojob.com/apply/NBI1PYt1BX/Senior-Scientist-Protein-Function?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/NBI1PYt1BX/Senior-Scientist-Protein-Function?source=proteinreport"
 images: []
 draft: false
 pinned: false

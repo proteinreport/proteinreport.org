@@ -19,7 +19,9 @@ career_category: [Business Development]
 city: "San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p>Apply directly @ <a href=\"https://boards.greenhouse.io/theeverycompany/jobs/4906040004\">https://boards.greenhouse.io/theeverycompany/jobs/4906040004</a></p>"
+how_to_apply: "Apply directly"
+how_to_apply: "@ <https://boards.greenhouse.io/theeverycompany/jobs/4906040004>"
+application_link: "https://boards.greenhouse.io/theeverycompany/jobs/4906040004"
 images: []
 draft: false
 pinned: false

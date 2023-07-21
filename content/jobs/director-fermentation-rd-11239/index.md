@@ -19,7 +19,8 @@ career_category: [Product Development, Research, Senior Management]
 city: "SF/Bay Area"
 country: 
 country_code: 
-how_to_apply: "<p>Please Click On Link Below To Apply</p>"
+how_to_apply: "Please Click On Link Below To Apply"
+application_link: "https://jobs.lever.co/airprotein/0cb20877-71cf-449c-b8b2-b542d17f0f2a"
 images: []
 draft: false
 pinned: false

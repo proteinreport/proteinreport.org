@@ -19,7 +19,8 @@ career_category: [Engineering]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/z4K0iLpwvD/Senior-Process-Engineer\">https://clarafoods.applytojob.com/apply/z4K0iLpwvD/Senior-Process-Engin…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/z4K0iLpwvD/Senior-Process-Engin...](https://clarafoods.applytojob.com/apply/z4K0iLpwvD/Senior-Process-Engineer)"
+application_link: "https://clarafoods.applytojob.com/apply/z4K0iLpwvD/Senior-Process-Engineer"
 images: []
 draft: false
 pinned: false

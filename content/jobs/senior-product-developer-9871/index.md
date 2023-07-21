@@ -19,7 +19,8 @@ career_category: [Culinary, Product Development]
 city: "Sacramento"
 country: 
 country_code: 
-how_to_apply: "<p>Email resume to: <a href=\"mailto:doni.curkendall@bettermeat.co\">doni.curkendall@bettermeat.co</a></p>"
+how_to_apply: "Email resume to: <doni.curkendall@bettermeat.co>"
+application_link: "https://www.indeed.com/job/senior-product-developer-eced207e27b205cc"
 images: []
 draft: false
 pinned: false

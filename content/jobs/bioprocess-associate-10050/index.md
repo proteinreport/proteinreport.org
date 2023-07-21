@@ -19,7 +19,8 @@ career_category: [Engineering, Manufacturing]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/AjZQHrWNPg/BioProcess-Associate\">https://clarafoods.applytojob.com/apply/AjZQHrWNPg/BioProcess-Associate</a></p>"
+how_to_apply: "<https://clarafoods.applytojob.com/apply/AjZQHrWNPg/BioProcess-Associate>"
+application_link: "https://clarafoods.applytojob.com/apply/AjZQHrWNPg/BioProcess-Associate"
 images: []
 draft: false
 pinned: false

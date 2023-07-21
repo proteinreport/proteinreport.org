@@ -19,8 +19,17 @@ career_category: [Engineering, Operations]
 city: "Landskrona"
 country: 
 country_code: 
-how_to_apply: "<p>If you wish to be a part of our newly created product life cycle team, helping our consumers to make more sustainable choices, send us your details through the application below and we’ll take it from there. This is going to be fun!</p>
-<p>In this recruitment process, Oatly is collaborating with Randstad Life Sciences & Engineering. If you have any questions regarding this position you are welcome to contact Camilla Wern at <a href=\"mailto:camilla.wern@randstad.se\">camilla.wern@randstad.se</a> 0733-43 60 98 or Emelie Lanner 072-973 33 82.</p>"
+how_to_apply: "If you wish to be a part of our newly created product life cycle team,"
+how_to_apply: "helping our consumers to make more sustainable choices, send us your"
+how_to_apply: "details through the application below and we'll take it from there. This"
+how_to_apply: "is going to be fun!"
+how_to_apply: ""
+how_to_apply: "In this recruitment process, Oatly is collaborating with Randstad Life"
+how_to_apply: "Sciences & Engineering. If you have any questions regarding this"
+how_to_apply: "position you are welcome to contact Camilla Wern"
+how_to_apply: "at <camilla.wern@randstad.se> 0733-43 60 98 or Emelie Lanner 072-973 33"
+how_to_apply: "82."
+application_link: "https://www.oatly.com/se/jobs/senior-product-life-cycle-engineer"
 images: []
 draft: false
 pinned: false

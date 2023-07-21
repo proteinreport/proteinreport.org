@@ -19,7 +19,9 @@ career_category: [Research]
 city: "Berkeley"
 country: 
 country_code: 
-how_to_apply: "<p>Please apply via this link: <a href=\"https://jobs.lever.co/shiru/5cd6e731-3ffb-4f3e-a31b-d9f23669ca72\">https://jobs.lever.co/shiru/5cd6e731-3ffb-4f3e-a31b-d9f23669ca72</a></p>"
+how_to_apply: "Please apply via this"
+how_to_apply: "link: <https://jobs.lever.co/shiru/5cd6e731-3ffb-4f3e-a31b-d9f23669ca72>"
+application_link: "https://jobs.lever.co/shiru/5cd6e731-3ffb-4f3e-a31b-d9f23669ca72"
 images: []
 draft: false
 pinned: false

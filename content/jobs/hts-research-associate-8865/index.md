@@ -19,7 +19,8 @@ career_category: [Research]
 city: "SOUTH SAN FRANCISCO"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/XEzm5GS2ki/HTS-Research-Associate?source=proteinreport\">https://clarafoods.applytojob.com/apply/XEzm5GS2ki/HTS-Research-Associa…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/XEzm5GS2ki/HTS-Research-Associa...](https://clarafoods.applytojob.com/apply/XEzm5GS2ki/HTS-Research-Associate?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/XEzm5GS2ki/HTS-Research-Associate?source=proteinreport"
 images: []
 draft: false
 pinned: false

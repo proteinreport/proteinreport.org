@@ -19,7 +19,8 @@ career_category: [Engineering]
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p>Send CV/resume to <strong><a href=\"mailto:careers@myhelaina.com\">careers@myhelaina.com</a></strong></p>"
+how_to_apply: "Send CV/resume to **<careers@myhelaina.com>**"
+application_link: ""
 images: []
 draft: false
 pinned: false

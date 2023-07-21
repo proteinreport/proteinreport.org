@@ -19,7 +19,8 @@ career_category: [Product Development]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/cisyvfXFqD/Quality-Assurance-Technician\">https://clarafoods.applytojob.com/apply/cisyvfXFqD/Quality-Assurance-Te…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/cisyvfXFqD/Quality-Assurance-Te...](https://clarafoods.applytojob.com/apply/cisyvfXFqD/Quality-Assurance-Technician)"
+application_link: "https://clarafoods.applytojob.com/apply/cisyvfXFqD/Quality-Assurance-Technician"
 images: []
 draft: false
 pinned: false

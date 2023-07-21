@@ -19,7 +19,8 @@ career_category: [Business Development, Management & Coordination, Marketing & C
 city: "Boulder"
 country: 
 country_code: 
-how_to_apply: "<p>Please send your resume and cover letter to <a href=\"mailto:jobs@bondpets.com\">jobs@bondpets.com</a></p>"
+how_to_apply: "Please send your resume and cover letter to <jobs@bondpets.com>"
+application_link: ""
 images: []
 draft: false
 pinned: false

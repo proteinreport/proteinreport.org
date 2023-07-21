@@ -19,7 +19,8 @@ career_category: [Operations]
 city: "Zurich"
 country: 
 country_code: 
-how_to_apply: "<p>Apply using the google form link</p>"
+how_to_apply: "Apply using the google form link"
+application_link: "https://forms.gle/9kGfKQXb4B4WjgnK8"
 images: []
 draft: false
 pinned: false

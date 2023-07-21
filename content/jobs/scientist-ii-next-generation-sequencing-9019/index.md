@@ -19,7 +19,8 @@ career_category: [Research]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/QiYyHdYost/Scientist-II-Next-Generation-Sequencing?source=proteinreport\">https://clarafoods.applytojob.com/apply/QiYyHdYost/Scientist-II-Next-Ge…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/QiYyHdYost/Scientist-II-Next-Ge...](https://clarafoods.applytojob.com/apply/QiYyHdYost/Scientist-II-Next-Generation-Sequencing?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/QiYyHdYost/Scientist-II-Next-Generation-Sequencing?source=proteinreport"
 images: []
 draft: false
 pinned: false

@@ -19,7 +19,8 @@ career_category: [Research]
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/XCUf2K7Kq2/Research-Associate-III?source=proteinreport\">https://clarafoods.applytojob.com/apply/XCUf2K7Kq2/Research-Associate-I…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/XCUf2K7Kq2/Research-Associate-I...](https://clarafoods.applytojob.com/apply/XCUf2K7Kq2/Research-Associate-III?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/XCUf2K7Kq2/Research-Associate-III?source=proteinreport"
 images: []
 draft: false
 pinned: false

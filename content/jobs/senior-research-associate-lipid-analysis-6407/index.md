@@ -20,6 +20,7 @@ city: "Redwood City"
 country: 
 country_code: 
 how_to_apply: ""
+application_link: "https://impossiblefoods.com/job-details/?id=b679404c-b0fa-49c1-bb50-20354f787e80&team=Research&title=Senior%20Research%20Associate%20-%20Lipid%20Analysis"
 images: []
 draft: false
 pinned: false

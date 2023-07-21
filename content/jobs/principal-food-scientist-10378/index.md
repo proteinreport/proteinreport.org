@@ -19,7 +19,9 @@ career_category: [Product Development]
 city: "Toronto"
 country: 
 country_code: 
-how_to_apply: "<p>Submit your application here: <a href=\"https://secure.collage.co/jobs/newschoolfoods/28251\">https://secure.collage.co/jobs/newschoolfoods/28251</a></p>"
+how_to_apply: "Submit your application"
+how_to_apply: "here: <https://secure.collage.co/jobs/newschoolfoods/28251>"
+application_link: "https://secure.collage.co/jobs/newschoolfoods/28251"
 images: []
 draft: false
 pinned: false

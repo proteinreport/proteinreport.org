@@ -19,7 +19,8 @@ career_category: [Culinary, Quality & Safety]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://grnh.se/c8ad343b4us\">https://grnh.se/c8ad343b4us</a></p>"
+how_to_apply: "<https://grnh.se/c8ad343b4us>"
+application_link: "https://grnh.se/c8ad343b4us"
 images: []
 draft: false
 pinned: false

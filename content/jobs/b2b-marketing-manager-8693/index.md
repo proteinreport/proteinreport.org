@@ -19,7 +19,8 @@ career_category: [Business Development, Marketing & Communications]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/5g30VtTvel/B2B-Marketing-Manager?source=ProteinReport\">https://clarafoods.applytojob.com/apply/5g30VtTvel/B2B-Marketing-Manage…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/5g30VtTvel/B2B-Marketing-Manage...](https://clarafoods.applytojob.com/apply/5g30VtTvel/B2B-Marketing-Manager?source=ProteinReport)"
+application_link: "https://clarafoods.applytojob.com/apply/5g30VtTvel/B2B-Marketing-Manager?source=ProteinReport"
 images: []
 draft: false
 pinned: false

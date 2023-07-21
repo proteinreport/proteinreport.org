@@ -19,7 +19,8 @@ career_category: [Business Development, Management & Coordination]
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://boards.greenhouse.io/theeverycompany/jobs/4278195004\">https://boards.greenhouse.io/theeverycompany/jobs/4278195004</a></p>"
+how_to_apply: "<https://boards.greenhouse.io/theeverycompany/jobs/4278195004>"
+application_link: "https://boards.greenhouse.io/theeverycompany/jobs/4278195004"
 images: []
 draft: false
 pinned: false

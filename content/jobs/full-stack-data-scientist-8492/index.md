@@ -19,7 +19,8 @@ career_category: [Engineering, Research]
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/fVr3LmNAuJ/Full-Stack-Data-Scientist?source=ProteinReport\">https://clarafoods.applytojob.com/apply/fVr3LmNAuJ/Full-Stack-Data-Scie…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/fVr3LmNAuJ/Full-Stack-Data-Scie...](https://clarafoods.applytojob.com/apply/fVr3LmNAuJ/Full-Stack-Data-Scientist?source=ProteinReport)"
+application_link: "https://clarafoods.applytojob.com/apply/fVr3LmNAuJ/Full-Stack-Data-Scientist?source=ProteinReport"
 images: []
 draft: false
 pinned: false

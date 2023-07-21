@@ -19,7 +19,8 @@ career_category: [Engineering, Manufacturing, Senior Management]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/CdTqG4svlL/Sr-Director-Process-Development-Manufacturing?source=proteinreport\">https://clarafoods.applytojob.com/apply/CdTqG4svlL/Sr-Director-Process-…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/CdTqG4svlL/Sr-Director-Process-...](https://clarafoods.applytojob.com/apply/CdTqG4svlL/Sr-Director-Process-Development-Manufacturing?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/CdTqG4svlL/Sr-Director-Process-Development-Manufacturing?source=proteinreport"
 images: []
 draft: false
 pinned: false

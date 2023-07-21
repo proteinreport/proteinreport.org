@@ -20,6 +20,7 @@ city: "Lafayette"
 country: 
 country_code: 
 how_to_apply: ""
+application_link: "https://www.planterrafoods.com/careers/?p=job/ofeXcfwm"
 images: []
 draft: false
 pinned: false

@@ -20,6 +20,7 @@ city: "Los Angeles"
 country: 
 country_code: 
 how_to_apply: ""
+application_link: "https://careers-califiafarms.icims.com/jobs/1191/vp-of-marketing-operations/job"
 images: []
 draft: false
 pinned: false

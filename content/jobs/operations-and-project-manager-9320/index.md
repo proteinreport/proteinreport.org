@@ -19,7 +19,8 @@ career_category: [Management & Coordination]
 city: "New York"
 country: 
 country_code: 
-how_to_apply: "<p><strong>Send CV/Resume to <a href=\"mailto:careers@myhelaina.com\">careers@myhelaina.com</a></strong></p>"
+how_to_apply: "**Send CV/Resume to <careers@myhelaina.com>**"
+application_link: ""
 images: []
 draft: false
 pinned: false

@@ -19,7 +19,8 @@ career_category: [Product Development, Research]
 city: "West Sacramento"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://www.linkedin.com/jobs/view/2779850786/?refId=rEQkgnkhR12zBtTxEokMQw%3D%3D\">https://www.linkedin.com/jobs/view/2779850786/?refId=rEQkgnkhR12zBtTxEo…</a></p>"
+how_to_apply: "[https://www.linkedin.com/jobs/view/2779850786/?refId=rEQkgnkhR12zBtTxEo...](https://www.linkedin.com/jobs/view/2779850786/?refId=rEQkgnkhR12zBtTxEokMQw%3D%3D)"
+application_link: "https://www.linkedin.com/jobs/view/2779850786/?refId=rEQkgnkhR12zBtTxEokMQw%3D%3D"
 images: []
 draft: false
 pinned: false

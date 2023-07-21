@@ -19,7 +19,8 @@ career_category: [Information Technology]
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/VdQyTMzX6B/Full-Stack-Data-Scientist\">https://clarafoods.applytojob.com/apply/VdQyTMzX6B/Full-Stack-Data-Scie…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/VdQyTMzX6B/Full-Stack-Data-Scie...](https://clarafoods.applytojob.com/apply/VdQyTMzX6B/Full-Stack-Data-Scientist)"
+application_link: "https://clarafoods.applytojob.com/apply/VdQyTMzX6B/Full-Stack-Data-Scientist"
 images: []
 draft: false
 pinned: false

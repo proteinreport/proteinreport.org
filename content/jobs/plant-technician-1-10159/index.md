@@ -19,7 +19,9 @@ career_category: [Manufacturing, Operations]
 city: "West Sacramento"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://www.linkedin.com/jobs/view/2813089854/\">https://www.linkedin.com/jobs/view/2813089854/</a> or email resume to <a href=\"mailto:doni.curkendall@bettermeat.co\">doni.curkendall@bettermeat.co</a></p>"
+how_to_apply: "<https://www.linkedin.com/jobs/view/2813089854/> or email resume to"
+how_to_apply: "<doni.curkendall@bettermeat.co>"
+application_link: "https://www.linkedin.com/jobs/view/2813089854/"
 images: []
 draft: false
 pinned: false

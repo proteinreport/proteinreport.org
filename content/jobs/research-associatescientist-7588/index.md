@@ -19,8 +19,10 @@ career_category: [Product Development, Research]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p>Visit:</p>
-<p><a href=\"https://clarafoods.applytojob.com/apply/Mh2s3Hp4Hl/Research-AssociateScientist?source=proteinreport\">https://clarafoods.applytojob.com/apply/Mh2s3Hp4Hl/Research-AssociateSc…</a></p>"
+how_to_apply: "Visit:"
+how_to_apply: ""
+how_to_apply: "[https://clarafoods.applytojob.com/apply/Mh2s3Hp4Hl/Research-AssociateSc...](https://clarafoods.applytojob.com/apply/Mh2s3Hp4Hl/Research-AssociateScientist?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/Mh2s3Hp4Hl/Research-AssociateScientist?source=proteinreport"
 images: []
 draft: false
 pinned: false

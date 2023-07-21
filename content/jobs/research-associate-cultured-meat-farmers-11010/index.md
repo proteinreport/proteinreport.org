@@ -19,7 +19,9 @@ career_category: [Research]
 city: "Cirencester"
 country: 
 country_code: 
-how_to_apply: "<p>For a full job description and details on how to apply please visit: <a href=\"https://www.rau.ac.uk/about-us/jobs\">https://www.rau.ac.uk/about-us/jobs</a></p>"
+how_to_apply: "For a full job description and details on how to apply please visit:"
+how_to_apply: "<https://www.rau.ac.uk/about-us/jobs>"
+application_link: "https://www.rau.ac.uk/about-us/jobs"
 images: []
 draft: false
 pinned: false

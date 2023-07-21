@@ -9,10 +9,13 @@
     </div>
   </div>
   <div class="flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-x-4 border-b-4 border-black">
-    <div class="w-full md:w-2/3 px-4 py-4 md:px-24">
+    <div class="w-full flex flex-col md:w-2/3 px-4 py-4 md:px-24">
       <div class="prose prose-xl">
         {{ .Content }}
       </div>
+      <h3 class="border-b-2 text-xl font-bold mb-2 pb-2">How to apply</h3>
+      <p class="text-xl">{{ .Params.how_to_apply | markdownify }}</p>
+      <a href="{{ .Params.application_link }}" class="p-4 mt-4 text-center border-2 w-full">Apply</a>
     </div>
     <aside class="w-full md:w-1/3">
       {{ partial "job/company.html" . }}

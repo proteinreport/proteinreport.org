@@ -19,7 +19,8 @@ career_category: [Engineering]
 city: "North Parramatta"
 country: 
 country_code: 
-how_to_apply: "<p>See <a href=\"https://www.vowfood.com/jobs/software-engineer-backend\">here</a>.</p>"
+how_to_apply: "See [here](https://www.vowfood.com/jobs/software-engineer-backend)."
+application_link: "https://www.vowfood.com/jobs/software-engineer-backend"
 images: []
 draft: false
 pinned: false

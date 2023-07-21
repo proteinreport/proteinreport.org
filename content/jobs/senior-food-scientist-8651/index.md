@@ -19,7 +19,8 @@ career_category: [Product Development, Research]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/fjXrX0jqlA/Senior-Food-Scientist?source=proteinreport\">https://clarafoods.applytojob.com/apply/fjXrX0jqlA/Senior-Food-Scientis…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/fjXrX0jqlA/Senior-Food-Scientis...](https://clarafoods.applytojob.com/apply/fjXrX0jqlA/Senior-Food-Scientist?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/fjXrX0jqlA/Senior-Food-Scientist?source=proteinreport"
 images: []
 draft: false
 pinned: false

@@ -19,7 +19,12 @@ career_category: [Creative, Management & Coordination, Marketing & Communication
 city: "London"
 country: 
 country_code: 
-how_to_apply: "<p>Please email your resume (Word or PDF) and short cover letter outlining your reasons for applying and what you hope to gain from the role to: <a href=\"mailto:hiring@eden.bio\"><u>hiring@eden.bio</u></a>. Be sure to highlight any relevant experience as well as your availability (when you can start).</p>"
+how_to_apply: "Please email your resume (Word or PDF) and short cover letter outlining"
+how_to_apply: "your reasons for applying and what you hope to gain from the role to:"
+how_to_apply: "[[hiring@eden.bio]{.underline}](mailto:hiring@eden.bio). Be sure to"
+how_to_apply: "highlight any relevant experience as well as your availability (when you"
+how_to_apply: "can start)."
+application_link: "https://www.linkedin.com/jobs/view/3367158595/?refId=Ni6HcnCXq3YRozII8d1vjA%3D%3D"
 images: []
 draft: false
 pinned: false

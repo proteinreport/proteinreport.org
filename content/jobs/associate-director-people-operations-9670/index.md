@@ -19,7 +19,8 @@ career_category: [Human Resources, Legal]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/hri7j8qvTZ/Associate-Director-People-Operations\">https://clarafoods.applytojob.com/apply/hri7j8qvTZ/Associate-Director-P…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/hri7j8qvTZ/Associate-Director-P...](https://clarafoods.applytojob.com/apply/hri7j8qvTZ/Associate-Director-People-Operations)"
+application_link: "https://clarafoods.applytojob.com/apply/hri7j8qvTZ/Associate-Director-People-Operations"
 images: []
 draft: false
 pinned: false

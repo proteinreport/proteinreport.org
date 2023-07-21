@@ -19,7 +19,8 @@ career_category: [Engineering, Product Development, Research]
 city: "Zurich"
 country: 
 country_code: 
-how_to_apply: "<p>Fill the form at the link below</p>"
+how_to_apply: "Fill the form at the link below"
+application_link: "https://forms.gle/RuC8hJQtLzpX3pfQ7"
 images: []
 draft: false
 pinned: false

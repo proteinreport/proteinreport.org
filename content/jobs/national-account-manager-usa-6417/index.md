@@ -19,7 +19,9 @@ career_category: [Business Development]
 city: "Chicago"
 country: 
 country_code: 
-how_to_apply: "<p>Interested applicants should email their CV and covering letter to <a href=\"mailto:HR@quornfoods.com\">HR@quornfoods.com</a></p>"
+how_to_apply: "Interested applicants should email their CV and covering letter to"
+how_to_apply: "<HR@quornfoods.com>"
+application_link: "https://www.quorn.co.uk/company/careers/national-account-manager-usa"
 images: []
 draft: false
 pinned: false

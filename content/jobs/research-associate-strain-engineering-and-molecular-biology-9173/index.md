@@ -19,7 +19,10 @@ career_category: [Research]
 city: "New York"
 country: 
 country_code: 
-how_to_apply: "<p>Reach out to Pamela Botero Besada-Lombana at <u><a href=\"mailto:pamela@myhelaina.com\">pamela@myhelaina.com</a></u> or Paola Delgado at <u><a href=\"mailto:paola@myhelaina.com\">paola@myhelaina.com</a></u></p>"
+how_to_apply: "Reach out to Pamela Botero Besada-Lombana at"
+how_to_apply: "[<pamela@myhelaina.com>]{.underline} or Paola Delgado at"
+how_to_apply: "[<paola@myhelaina.com>]{.underline}"
+application_link: ""
 images: []
 draft: false
 pinned: false

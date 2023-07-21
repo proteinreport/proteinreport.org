@@ -19,8 +19,14 @@ career_category: [Engineering, Product Development, Research]
 city: "Roslin"
 country: 
 country_code: 
-how_to_apply: "<p>This role is for a permanent full-time contract.<strong> </strong>We will offer a competitive and attractive compensation package.</p>
-<p>For enquiries, please contact Dr Sheena Fraser (<a href=\"mailto:sheena.fraser@roslintech.com\">sheena.fraser@roslintech.com)</a>. To apply, please send a CV and cover letter explaining why you have applied for the post to <a href=\"mailto:careers@roslintech.com\">careers@roslintech.com</a>.</p>"
+how_to_apply: "This role is for a permanent full-time contract. We will offer a"
+how_to_apply: "competitive and attractive compensation package."
+how_to_apply: ""
+how_to_apply: "For enquiries, please contact Dr Sheena Fraser"
+how_to_apply: "([sheena.fraser@roslintech.com)](mailto:sheena.fraser@roslintech.com)."
+how_to_apply: "To apply, please send a CV and cover letter explaining why you have"
+how_to_apply: "applied for the post to <careers@roslintech.com>."
+application_link: "https://roslintech.com/post-doc-bioprocessengineer/"
 images: []
 draft: false
 pinned: false

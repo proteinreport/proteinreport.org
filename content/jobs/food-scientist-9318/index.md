@@ -19,7 +19,8 @@ career_category: [Culinary, Manufacturing, Product Development, Research]
 city: "New York"
 country: 
 country_code: 
-how_to_apply: "<p>Please send your CV/resume to <strong><a href=\"mailto:careers@myhelaina.com\">careers@myhelaina.com</a></strong></p>"
+how_to_apply: "Please send your CV/resume to **<careers@myhelaina.com>**"
+application_link: ""
 images: []
 draft: false
 pinned: false

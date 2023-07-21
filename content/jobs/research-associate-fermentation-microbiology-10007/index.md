@@ -19,8 +19,10 @@ career_category: [Research]
 city: "West Sacramento"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://www.linkedin.com/jobs/view/2787839872/\">https://www.linkedin.com/jobs/view/2787839872/</a></p>
-<p> </p>"
+how_to_apply: "<https://www.linkedin.com/jobs/view/2787839872/>"
+how_to_apply: ""
+how_to_apply: " "
+application_link: "https://www.linkedin.com/jobs/view/2787839872/"
 images: []
 draft: false
 pinned: false

@@ -19,7 +19,8 @@ career_category: [Engineering, Senior Management]
 city: "SF Bay Area"
 country: 
 country_code: 
-how_to_apply: "<p><strong>Please Apply Directly To The Link Below</strong></p>"
+how_to_apply: "**Please Apply Directly To The Link Below**"
+application_link: "https://airprotein.bamboohr.com/jobs/view.php?id=132&source=bamboohr"
 images: []
 draft: false
 pinned: false

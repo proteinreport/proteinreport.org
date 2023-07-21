@@ -19,7 +19,9 @@ career_category: [Research]
 city: "Dartmouth"
 country: 
 country_code: 
-how_to_apply: "<p>Please forward your cover letter and resume to <a href=\"mailto:careers@smallfood.com\">careers@smallfood.com</a> to apply. </p>"
+how_to_apply: "Please forward your cover letter and resume to <careers@smallfood.com>"
+how_to_apply: "to apply. "
+application_link: "https://www.smallfood.com/careers/"
 images: []
 draft: false
 pinned: false

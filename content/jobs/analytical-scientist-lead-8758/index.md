@@ -19,7 +19,8 @@ career_category: [Research]
 city: "SOUTH SAN FRANCISCO"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/JpoKtOMnkU/Analytical-Scientist-Lead?source=proteinreport\">https://clarafoods.applytojob.com/apply/JpoKtOMnkU/Analytical-Scientist…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/JpoKtOMnkU/Analytical-Scientist...](https://clarafoods.applytojob.com/apply/JpoKtOMnkU/Analytical-Scientist-Lead?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/JpoKtOMnkU/Analytical-Scientist-Lead?source=proteinreport"
 images: []
 draft: false
 pinned: false

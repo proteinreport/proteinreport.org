@@ -19,7 +19,8 @@ career_category: [Research]
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://careers.eatplanted.com/jobs/1938927-protein-process-specialist-f-m-d\">https://careers.eatplanted.com/jobs/1938927-protein-process-specialist-…</a></p>"
+how_to_apply: "[https://careers.eatplanted.com/jobs/1938927-protein-process-specialist-...](https://careers.eatplanted.com/jobs/1938927-protein-process-specialist-f-m-d)"
+application_link: "https://careers.eatplanted.com/jobs/1938927-protein-process-specialist-f-m-d"
 images: []
 draft: false
 pinned: false

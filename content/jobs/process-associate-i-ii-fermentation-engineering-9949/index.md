@@ -19,7 +19,8 @@ career_category: []
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/DT5d4xhG3E/Process-Associate-III-Fermentation-Engineering\">https://clarafoods.applytojob.com/apply/DT5d4xhG3E/Process-Associate-II…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/DT5d4xhG3E/Process-Associate-II...](https://clarafoods.applytojob.com/apply/DT5d4xhG3E/Process-Associate-III-Fermentation-Engineering)"
+application_link: "https://clarafoods.applytojob.com/apply/DT5d4xhG3E/Process-Associate-III-Fermentation-Engineering"
 images: []
 draft: false
 pinned: false

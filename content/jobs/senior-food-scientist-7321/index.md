@@ -19,7 +19,8 @@ career_category: [Culinary, Product Development]
 city: "North Parramatta"
 country: 
 country_code: 
-how_to_apply: "<p>See <a href=\"https://www.vowfood.com/jobs/senior-food-scientist\">here</a>.</p>"
+how_to_apply: "See [here](https://www.vowfood.com/jobs/senior-food-scientist)."
+application_link: "https://www.vowfood.com/jobs/senior-food-scientist"
 images: []
 draft: false
 pinned: false

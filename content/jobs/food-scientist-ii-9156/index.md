@@ -19,7 +19,8 @@ career_category: [Culinary, Research]
 city: "SOUTH SAN FRANCISCO"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/w2hbNoIJwJ/Food-Scientist-II?source=proteinreport\">https://clarafoods.applytojob.com/apply/w2hbNoIJwJ/Food-Scientist-II?so…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/w2hbNoIJwJ/Food-Scientist-II?so...](https://clarafoods.applytojob.com/apply/w2hbNoIJwJ/Food-Scientist-II?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/w2hbNoIJwJ/Food-Scientist-II?source=proteinreport"
 images: []
 draft: false
 pinned: false

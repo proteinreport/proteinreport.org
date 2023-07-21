@@ -19,7 +19,8 @@ career_category: [Finance & Accounting]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/ESb3idmXms/Controller?source=proteinreport\">https://clarafoods.applytojob.com/apply/ESb3idmXms/Controller?source=pr…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/ESb3idmXms/Controller?source=pr...](https://clarafoods.applytojob.com/apply/ESb3idmXms/Controller?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/ESb3idmXms/Controller?source=proteinreport"
 images: []
 draft: false
 pinned: false

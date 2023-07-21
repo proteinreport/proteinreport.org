@@ -19,7 +19,8 @@ career_category: [Business Development, Finance & Accounting, Management & Coord
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/uyLLtcadOU/Associate-Strategy-Partnerships?source=proteinreport\">https://clarafoods.applytojob.com/apply/uyLLtcadOU/Associate-Strategy-P…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/uyLLtcadOU/Associate-Strategy-P...](https://clarafoods.applytojob.com/apply/uyLLtcadOU/Associate-Strategy-Partnerships?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/uyLLtcadOU/Associate-Strategy-Partnerships?source=proteinreport"
 images: []
 draft: false
 pinned: false

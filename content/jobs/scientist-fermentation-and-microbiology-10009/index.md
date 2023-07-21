@@ -19,7 +19,8 @@ career_category: [Research]
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://www.linkedin.com/jobs/view/2787842474/\">https://www.linkedin.com/jobs/view/2787842474/</a></p>"
+how_to_apply: "<https://www.linkedin.com/jobs/view/2787842474/>"
+application_link: "https://www.linkedin.com/jobs/view/2787842474/"
 images: []
 draft: false
 pinned: false

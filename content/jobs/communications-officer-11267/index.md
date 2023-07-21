@@ -19,7 +19,10 @@ career_category: [Marketing & Communications]
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p>Send your resume (without photo) and a brief introduction explaining who you are and your interest in this position to <a href=\"mailto:meetings@bridge2food.com\">meetings@bridge2food.com</a>.</p>"
+how_to_apply: "Send your resume (without photo) and a brief introduction explaining who"
+how_to_apply: "you are and your interest in this position to"
+how_to_apply: "<meetings@bridge2food.com>."
+application_link: ""
 images: []
 draft: false
 pinned: false

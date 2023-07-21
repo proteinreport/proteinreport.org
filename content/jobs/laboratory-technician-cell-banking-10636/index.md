@@ -19,8 +19,13 @@ career_category: [Product Development, Quality & Safety]
 city: "Edinburgh"
 country: 
 country_code: 
-how_to_apply: "<p>For informal enquiries, please contact Dr Britt Tye (<a href=\"mailto:britt.tye@roslintech.com\">britt.tye@roslintech.com</a>). To apply, please send a CV and cover letter explaining why you have applied for the post to <a href=\"mailto:careers@roslintech.com\">careers@roslintech.com</a>.</p>
-<p>Closing date: 30 April 2022</p>"
+how_to_apply: "For informal enquiries, please contact Dr Britt Tye"
+how_to_apply: "(<britt.tye@roslintech.com>). To apply, please send a CV and cover"
+how_to_apply: "letter explaining why you have applied for the post to"
+how_to_apply: "<careers@roslintech.com>."
+how_to_apply: ""
+how_to_apply: "Closing date: 30 April 2022"
+application_link: "https://roslintech.com/laboratory-technician-cell-banking/"
 images: []
 draft: false
 pinned: false

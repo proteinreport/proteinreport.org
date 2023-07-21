@@ -19,7 +19,9 @@ career_category: [Quality & Safety]
 city: "West Sacramento"
 country: 
 country_code: 
-how_to_apply: "<p>Please email resume and cover letter to: <a href=\"mailto:doni.curkendall@bettermeat.co\">doni.curkendall@bettermeat.co</a> or apply on Indeed:</p>"
+how_to_apply: "Please email resume and cover letter to: <doni.curkendall@bettermeat.co>"
+how_to_apply: "or apply on Indeed:"
+application_link: "https://www.indeed.com/job/food-safetyquality-assurance-supervisor-7476a716c6a6486f"
 images: []
 draft: false
 pinned: false

@@ -20,6 +20,7 @@ city: ""
 country: 
 country_code: 
 how_to_apply: ""
+application_link: "https://clarafoods.applytojob.com/apply/wpBKEZcUDl/BioProcess-Intern"
 images: []
 draft: false
 pinned: false

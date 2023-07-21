@@ -20,6 +20,7 @@ city: ""
 country: 
 country_code: 
 how_to_apply: ""
+application_link: "https://careers-califiafarms.icims.com/jobs/1204/regional-sales-manager---natural-channel-west/job"
 images: []
 draft: false
 pinned: false

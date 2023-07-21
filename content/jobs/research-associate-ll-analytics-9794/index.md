@@ -19,7 +19,8 @@ career_category: [Research]
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/Bks38ydsWA/Research-Associate-Ll-Analytics\">https://clarafoods.applytojob.com/apply/Bks38ydsWA/Research-Associate-L…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/Bks38ydsWA/Research-Associate-L...](https://clarafoods.applytojob.com/apply/Bks38ydsWA/Research-Associate-Ll-Analytics)"
+application_link: "https://clarafoods.applytojob.com/apply/Bks38ydsWA/Research-Associate-Ll-Analytics"
 images: []
 draft: false
 pinned: false

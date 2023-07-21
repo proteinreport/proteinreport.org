@@ -19,7 +19,8 @@ career_category: [Human Resources]
 city: "South San Francisco"
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/gkSeFMrNkY/Human-Resources-Manager?source=proteinreport\">https://clarafoods.applytojob.com/apply/gkSeFMrNkY/Human-Resources-Mana…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/gkSeFMrNkY/Human-Resources-Mana...](https://clarafoods.applytojob.com/apply/gkSeFMrNkY/Human-Resources-Manager?source=proteinreport)"
+application_link: "https://clarafoods.applytojob.com/apply/gkSeFMrNkY/Human-Resources-Manager?source=proteinreport"
 images: []
 draft: false
 pinned: false

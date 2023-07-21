@@ -19,7 +19,10 @@ career_category: [Business Development, Creative, Engineering, Finance & Account
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p>Please reach out to Jasmin Kern (<a href=\"mailto:jkern@mit.edu\">jkern@mit.edu</a>) or Sean Baker (<a href=\"mailto:sbaker8@wisc.edu\">sbaker8@wisc.edu</a>) with any questions/queries regarding the application process.</p>"
+how_to_apply: "Please reach out to Jasmin Kern (<jkern@mit.edu>) or Sean Baker"
+how_to_apply: "(<sbaker8@wisc.edu>) with any questions/queries regarding the"
+how_to_apply: "application process."
+application_link: "https://www.cultivate-tmrw.com/jobs"
 images: []
 draft: false
 pinned: false

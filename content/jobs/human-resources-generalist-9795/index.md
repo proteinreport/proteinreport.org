@@ -19,7 +19,8 @@ career_category: [Human Resources]
 city: ""
 country: 
 country_code: 
-how_to_apply: "<p><a href=\"https://clarafoods.applytojob.com/apply/BweY6iyPyA/Human-Resources-Generalist\">https://clarafoods.applytojob.com/apply/BweY6iyPyA/Human-Resources-Gene…</a></p>"
+how_to_apply: "[https://clarafoods.applytojob.com/apply/BweY6iyPyA/Human-Resources-Gene...](https://clarafoods.applytojob.com/apply/BweY6iyPyA/Human-Resources-Generalist)"
+application_link: "https://clarafoods.applytojob.com/apply/BweY6iyPyA/Human-Resources-Generalist"
 images: []
 draft: false
 pinned: false
