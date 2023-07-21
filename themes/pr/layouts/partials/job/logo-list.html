@@ -5,7 +5,9 @@
     {{ with index . 0 }}
       {{ if .Params.featured_image }}
           {{ $image := .Resources.GetMatch .Params.featured_image }}
-          <img class="object-cover lazyload blur-up" src="{{ $image.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
+          <img class="object-contain aspect-video w-1/2 py-2 lazyload blur-up" src="{{ $image.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
+      {{ else if .Params.company_name }}
+          <p>{{ .Params.company_name }}</p>
       {{ end }}
     {{ end }}
   {{ end }}

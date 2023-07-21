@@ -56,10 +56,10 @@ for (row in 1:nrow(import_data)) {
   write(paste("closing_date: ", import_data[row,]$closing_date, sep = ""), file_path, append = T)
   write(paste("lastmod: ", import_data[row,]$date, sep = ""), file_path, append = T)
   write(paste("slug: ", import_data[row,]$slug_new, sep = ""), file_path, append = T)
-  if (!(is.na(import_data[row,]$company))) {
+  if (import_data[row,]$company != "") {
     write(paste("company: ", import_data[row,]$company, sep = ""), file_path, append = T)
   }
-  else if (!(is.na(import_data[row,]$company_name))) {
+  else if (import_data[row,]$company_name != "") {
     write(paste("company_name: ", shQuote(import_data[row,]$company_name), sep = ""), file_path, append = T)
     write(paste("company_link: ", shQuote(import_data[row,]$company_link), sep = ""), file_path, append = T)
   }

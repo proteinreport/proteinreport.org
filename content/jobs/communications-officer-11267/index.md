@@ -4,7 +4,8 @@ date: 2023-02-23 13:53:07
 closing_date: 
 lastmod: 2023-02-23 13:53:07
 slug: communications-officer-11267
-company: 
+company_name: "Bridge2Food"
+company_link: "https://bridge2food.com/"
 description: "About Bridge2FoodBridge2Food is a Netherlands-based organizer of global conferences, professional training courses, and collaborative industry meetings focused on emerging food technologies and food system sustainability. We are also the communications partner for four EU-funded research projects exploring different protein sources, how they may be utilized, and their potential impacts on human and planetary health. Bridge2Food was founded in 2002 and is currently active in Europe, the Americas, and Asia.About you"
 excerpt: "About Bridge2FoodBridge2Food is a Netherlands-based organizer of global conferences, professional training courses, and collaborative industry meetings focused on emerging food technologies and food system sustainability. We are also the communications partner for four EU-funded research projects exploring different protein sources, how they may be utilized, and their potential impacts on human and planetary health. Bridge2Food was founded in 2002 and is currently active in Europe, the Americas, and Asia.About you"
 proteins: [Cell-Based, Plant-Based, Algae, Fungi, Microbial]

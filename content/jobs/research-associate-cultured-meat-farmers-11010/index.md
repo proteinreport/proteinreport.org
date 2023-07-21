@@ -4,7 +4,8 @@ date: 2022-06-16 10:34:20
 closing_date: 2022-07-05 12:00:00
 lastmod: 2022-06-16 10:34:20
 slug: research-associate-cultured-meat-farmers-11010
-company: 
+company_name: "Royal Agricultural University"
+company_link: "http://www.rau.ac.uk"
 description: "We are looking for a dynamic Research Associate to coordinate an innovative project that will explore the potential impact on UK agriculture of cultured meat, a technology with possibly profound and uncertain implications for the future of food and farming.The project team brings together social and natural scientists from diverse disciplines, with farming organisations, cultured meat businesses, NGOs and other stakeholders. The work is designed to influence investment and policy. It is funded by UKRI through the Strategic Priorities Fund call on ‘Transforming UK Food Systems’."
 excerpt: "We are looking for a dynamic Research Associate to coordinate an innovative project that will explore the potential impact on UK agriculture of cultured meat, a technology with possibly profound and uncertain implications for the future of food and farming.The project team brings together social and natural scientists from diverse disciplines, with farming organisations, cultured meat businesses, NGOs and other stakeholders. The work is designed to influence investment and policy. It is funded by UKRI through the Strategic Priorities Fund call on ‘Transforming UK Food Systems’."
 proteins: [Cell-Based]
