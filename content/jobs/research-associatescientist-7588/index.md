@@ -1,6 +1,7 @@
 ---
 title: "Research Associate/Scientist"
 date: 2020-09-01 01:17:40
+closing_date: 2020-10-07 12:00:00
 lastmod: 2020-09-01 01:17:40
 slug: research-associatescientist-7588
 company: 1299

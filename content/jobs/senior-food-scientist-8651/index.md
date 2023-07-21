@@ -1,6 +1,7 @@
 ---
 title: "Senior Food Scientist"
 date: 2021-03-24 21:02:54
+closing_date: 2021-04-30 12:00:00
 lastmod: 2021-03-24 21:02:54
 slug: senior-food-scientist-8651
 company: 1299

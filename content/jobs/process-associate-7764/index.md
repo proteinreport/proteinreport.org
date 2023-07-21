@@ -1,6 +1,7 @@
 ---
 title: "Process Associate"
 date: 2020-10-06 03:27:23
+closing_date: 2020-12-31 12:00:00
 lastmod: 2020-10-06 03:27:23
 slug: process-associate-7764
 company: 1299

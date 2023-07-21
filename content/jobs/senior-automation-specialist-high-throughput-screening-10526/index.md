@@ -1,6 +1,7 @@
 ---
 title: "Senior Automation Specialist, High Throughput Screening"
 date: 2022-03-06 03:16:54
+closing_date: 
 lastmod: 2022-03-06 03:16:54
 slug: senior-automation-specialist-high-throughput-screening-10526
 company: 1299

@@ -1,6 +1,7 @@
 ---
 title: "Food & Biochemistry Intern"
 date: 2022-07-18 09:33:38
+closing_date: 2022-08-08 12:00:00
 lastmod: 2022-07-18 09:33:38
 slug: food-biochemistry-intern-11085
 company: 10547

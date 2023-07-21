@@ -1,6 +1,7 @@
 ---
 title: "Laboratory Technician - Cell Banking"
 date: 2022-03-28 09:46:23
+closing_date: 2022-04-30 12:00:00
 lastmod: 2022-03-28 09:46:23
 slug: laboratory-technician-cell-banking-10636
 company: 9900

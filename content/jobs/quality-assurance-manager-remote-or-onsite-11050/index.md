@@ -1,6 +1,7 @@
 ---
 title: "Quality Assurance Manager (remote or onsite)"
 date: 2022-06-29 20:41:21
+closing_date: 
 lastmod: 2022-06-29 20:41:21
 slug: quality-assurance-manager-remote-or-onsite-11050
 company: 1299

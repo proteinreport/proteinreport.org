@@ -1,6 +1,7 @@
 ---
 title: "Marketing Operations Lead"
 date: 2021-12-01 02:19:00
+closing_date: 2022-02-28 12:00:00
 lastmod: 2021-12-01 02:19:00
 slug: marketing-operations-lead-10106
 company: 7022

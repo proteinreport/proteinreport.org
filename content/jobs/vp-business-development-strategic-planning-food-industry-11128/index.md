@@ -1,6 +1,7 @@
 ---
 title: "VP Business Development & Strategic Planning - Food Industry"
 date: 2022-08-18 18:36:16
+closing_date: 2022-10-30 12:00:00
 lastmod: 2022-08-18 18:36:16
 slug: vp-business-development-strategic-planning-food-industry-11128
 company: 1262

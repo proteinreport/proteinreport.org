@@ -1,6 +1,7 @@
 ---
 title: "Post doctoral bioprocess engineer"
 date: 2022-11-25 15:17:30
+closing_date: 2022-12-23 12:00:00
 lastmod: 2022-11-25 15:17:30
 slug: post-doctoral-bioprocess-engineer-11201
 company: 9900

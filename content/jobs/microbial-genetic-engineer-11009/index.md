@@ -1,6 +1,7 @@
 ---
 title: "Microbial Genetic Engineer"
 date: 2022-06-15 17:54:14
+closing_date: 2022-08-01 12:00:00
 lastmod: 2022-06-15 17:54:14
 slug: microbial-genetic-engineer-11009
 company: 5825

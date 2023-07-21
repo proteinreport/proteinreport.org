@@ -1,6 +1,7 @@
 ---
 title: "Regional Sales Manager - Natural Channel West"
 date: 2020-03-08 15:15:25
+closing_date: 
 lastmod: 2020-03-08 15:15:25
 slug: regional-sales-manager-natural-channel-west-6433
 company: 1331

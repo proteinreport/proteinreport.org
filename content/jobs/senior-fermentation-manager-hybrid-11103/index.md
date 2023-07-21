@@ -1,6 +1,7 @@
 ---
 title: "Senior Fermentation Manager (Hybrid)"
 date: 2022-07-27 17:10:42
+closing_date: 2022-10-27 12:00:00
 lastmod: 2022-07-27 17:10:42
 slug: senior-fermentation-manager-hybrid-11103
 company: 1299

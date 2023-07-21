@@ -1,6 +1,7 @@
 ---
 title: "Research Associate II"
 date: 2021-08-09 19:53:53
+closing_date: 2021-09-30 12:00:00
 lastmod: 2021-08-09 19:53:53
 slug: research-associate-ii-9469
 company: 1299

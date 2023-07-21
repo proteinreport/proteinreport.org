@@ -1,6 +1,7 @@
 ---
 title: "Vice President of People"
 date: 2022-01-15 18:35:08
+closing_date: 
 lastmod: 2022-01-15 18:35:08
 slug: vice-president-people-10284
 company: 1299

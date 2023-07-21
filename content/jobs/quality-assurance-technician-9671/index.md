@@ -1,6 +1,7 @@
 ---
 title: "Quality Assurance Technician"
 date: 2021-09-10 23:18:52
+closing_date: 2021-12-01 12:00:00
 lastmod: 2021-09-10 23:18:52
 slug: quality-assurance-technician-9671
 company: 1299

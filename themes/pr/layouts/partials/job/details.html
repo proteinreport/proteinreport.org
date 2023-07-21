@@ -89,4 +89,8 @@
       {{ end -}}
   </div>
   {{ end -}}
+
+  {{ with .Params.application_link }}
+    <a href="{{ . }}" class="p-4 mt-4 text-center border-2 w-full">Apply</a>
+  {{ end }}
 </div>

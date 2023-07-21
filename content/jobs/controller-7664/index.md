@@ -1,6 +1,7 @@
 ---
 title: "Controller"
 date: 2020-09-15 23:22:05
+closing_date: 2020-10-29 12:00:00
 lastmod: 2020-09-15 23:22:05
 slug: controller-7664
 company: 1299

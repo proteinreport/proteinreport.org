@@ -1,6 +1,7 @@
 ---
 title: "Laboratory Technician - Strain Engineering and Molecular Biology"
 date: 2021-07-14 14:11:33
+closing_date: 2021-09-15 12:00:00
 lastmod: 2021-07-14 14:11:33
 slug: laboratory-technician-strain-engineering-and-molecular-biology-9319
 company: 7022

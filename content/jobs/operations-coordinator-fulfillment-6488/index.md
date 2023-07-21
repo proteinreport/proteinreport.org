@@ -1,6 +1,7 @@
 ---
 title: "Operations Coordinator - Fulfillment"
 date: 2020-03-17 22:09:14
+closing_date: 
 lastmod: 2020-03-17 22:09:14
 slug: operations-coordinator-fulfillment-6488
 company: 6196

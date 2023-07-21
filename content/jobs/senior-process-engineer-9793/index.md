@@ -1,6 +1,7 @@
 ---
 title: "Senior Process Engineer"
 date: 2021-10-05 17:52:04
+closing_date: 2022-01-08 12:00:00
 lastmod: 2021-10-05 17:52:04
 slug: senior-process-engineer-9793
 company: 1299

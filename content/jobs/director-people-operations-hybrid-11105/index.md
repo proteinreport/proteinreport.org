@@ -1,6 +1,7 @@
 ---
 title: "Director, People Operations (Hybrid)"
 date: 2022-07-27 22:20:44
+closing_date: 2022-10-27 12:00:00
 lastmod: 2022-07-27 22:20:44
 slug: director-people-operations-hybrid-11105
 company: 1299

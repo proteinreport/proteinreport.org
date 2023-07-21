@@ -1,6 +1,7 @@
 ---
 title: "Human Resources Manager"
 date: 2021-03-03 07:40:22
+closing_date: 2021-04-30 12:00:00
 lastmod: 2021-03-03 07:40:22
 slug: human-resources-manager-8508
 company: 1299

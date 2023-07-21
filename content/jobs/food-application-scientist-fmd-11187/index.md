@@ -1,6 +1,7 @@
 ---
 title: "Food Application Scientist (f/m/d)"
 date: 2022-11-09 13:34:35
+closing_date: 2023-01-01 12:00:00
 lastmod: 2022-11-09 13:34:35
 slug: food-application-scientist-fmd-11187
 company: 5791

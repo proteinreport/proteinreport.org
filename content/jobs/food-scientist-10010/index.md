@@ -1,6 +1,7 @@
 ---
 title: "Food Scientist"
 date: 2021-11-12 01:00:00
+closing_date: 2021-12-31 12:00:00
 lastmod: 2021-11-12 01:00:00
 slug: food-scientist-10010
 company: 1170

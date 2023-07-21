@@ -1,6 +1,7 @@
 ---
 title: "Process Engineer I-II, Fermentation"
 date: 2022-06-29 20:55:49
+closing_date: 
 lastmod: 2022-06-29 20:55:49
 slug: process-engineer-i-ii-fermentation-11051
 company: 1299

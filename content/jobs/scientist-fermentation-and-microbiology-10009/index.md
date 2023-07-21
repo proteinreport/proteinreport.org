@@ -1,6 +1,7 @@
 ---
 title: "Scientist, Fermentation and Microbiology"
 date: 2021-11-12 00:57:59
+closing_date: 2021-12-31 12:00:00
 lastmod: 2021-11-12 00:57:59
 slug: scientist-fermentation-and-microbiology-10009
 company: 1170

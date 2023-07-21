@@ -1,6 +1,7 @@
 ---
 title: "Vice President of Finance"
 date: 2022-05-18 23:43:18
+closing_date: 2022-08-31 12:00:00
 lastmod: 2022-05-18 23:43:18
 slug: vice-president-finance-10871
 company: 1170

@@ -1,6 +1,7 @@
 ---
 title: "Analytical Scientist Lead"
 date: 2021-04-09 03:45:58
+closing_date: 2021-05-14 12:00:00
 lastmod: 2021-04-09 03:45:58
 slug: analytical-scientist-lead-8758
 company: 1299

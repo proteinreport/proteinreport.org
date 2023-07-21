@@ -1,6 +1,7 @@
 ---
 title: "Sr. Director Process Development & Manufacturing"
 date: 2020-10-06 02:44:00
+closing_date: 2021-04-30 12:00:00
 lastmod: 2020-10-06 02:44:00
 slug: sr-director-process-development-manufacturing-7761
 company: 1299

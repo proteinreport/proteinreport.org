@@ -1,6 +1,7 @@
 ---
 title: "Manager Strategic Finance"
 date: 2022-01-15 18:38:58
+closing_date: 
 lastmod: 2022-01-15 18:38:58
 slug: manager-strategic-finance-10287
 company: 1299

@@ -1,6 +1,7 @@
 ---
 title: "Process Associate I-II, Fermentation Engineering"
 date: 2021-11-01 21:07:29
+closing_date: 2022-01-29 12:00:00
 lastmod: 2021-11-01 21:07:29
 slug: process-associate-i-ii-fermentation-engineering-9949
 company: 1299

@@ -1,6 +1,7 @@
 ---
 title: "Meat Product Technician"
 date: 2020-03-13 15:36:27
+closing_date: 
 lastmod: 2020-03-13 15:36:27
 slug: meat-product-technician-6435
 company: 5831

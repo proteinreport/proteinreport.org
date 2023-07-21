@@ -1,6 +1,7 @@
 ---
 title: "Lab Operations Manager"
 date: 2022-01-15 18:30:08
+closing_date: 
 lastmod: 2022-01-15 18:30:08
 slug: lab-operations-manager-10281
 company: 1299

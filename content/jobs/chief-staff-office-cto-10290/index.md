@@ -1,6 +1,7 @@
 ---
 title: "Chief of Staff, Office of the CTO"
 date: 2022-01-15 18:42:21
+closing_date: 
 lastmod: 2022-01-15 18:42:21
 slug: chief-staff-office-cto-10290
 company: 1299

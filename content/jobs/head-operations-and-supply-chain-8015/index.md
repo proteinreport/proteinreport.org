@@ -1,6 +1,7 @@
 ---
 title: "Head of Operations and Supply Chain"
 date: 2020-11-24 05:03:33
+closing_date: 2021-01-29 12:00:00
 lastmod: 2020-11-24 05:03:33
 slug: head-operations-and-supply-chain-8015
 company: 1299

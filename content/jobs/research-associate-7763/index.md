@@ -1,6 +1,7 @@
 ---
 title: "Research Associate"
 date: 2020-10-06 03:26:53
+closing_date: 2020-12-31 12:00:00
 lastmod: 2020-10-06 03:26:53
 slug: research-associate-7763
 company: 1299

@@ -1,6 +1,7 @@
 ---
 title: "Software Engineer (Hybrid)"
 date: 2022-07-27 22:38:55
+closing_date: 2022-10-27 12:00:00
 lastmod: 2022-07-27 22:38:55
 slug: software-engineer-hybrid-11108
 company: 1299

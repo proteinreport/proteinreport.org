@@ -1,6 +1,7 @@
 ---
 title: "Strategy & Partnerships Extern"
 date: 2021-03-25 05:07:20
+closing_date: 2021-04-21 12:00:00
 lastmod: 2021-03-25 05:07:20
 slug: strategy-partnerships-extern-8652
 company: 1299

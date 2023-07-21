@@ -1,6 +1,7 @@
 ---
 title: "Food Science Internship (Summer 2022)"
 date: 2022-06-15 17:51:47
+closing_date: 2022-07-01 12:00:00
 lastmod: 2022-06-15 17:51:47
 slug: food-science-internship-summer-2022-11008
 company: 5825

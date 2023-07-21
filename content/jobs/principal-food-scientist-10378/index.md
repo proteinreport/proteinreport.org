@@ -1,6 +1,7 @@
 ---
 title: "Principal Food Scientist"
 date: 2022-02-04 01:26:07
+closing_date: 2022-03-31 12:00:00
 lastmod: 2022-02-04 01:26:07
 slug: principal-food-scientist-10378
 company: 10387

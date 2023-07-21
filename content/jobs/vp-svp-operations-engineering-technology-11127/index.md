@@ -1,6 +1,7 @@
 ---
 title: "VP / SVP of Operations, Engineering & Technology"
 date: 2022-08-18 18:33:13
+closing_date: 2022-10-31 12:00:00
 lastmod: 2022-08-18 18:33:13
 slug: vp-svp-operations-engineering-technology-11127
 company: 1262

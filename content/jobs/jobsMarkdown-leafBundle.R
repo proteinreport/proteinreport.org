@@ -12,11 +12,12 @@ setwd(here("content/jobs"))
 # read drupal data export into dataframe
 import_data <- read_csv("jobs.csv") %>%
   as_tibble()
+# fix date formatting
+import_data$date <- as.character(import_data$date)
+import_data$closing_date <- as.character(import_data$closing_date)
 # remove NA values
 import_data$company <- as.character(import_data$company)
 import_data <- replace(import_data, is.na(import_data), "")
-# fix date formatting
-import_data$date <- as.character(import_data$date)
 # decode apostrophe across entire data frame
 import_data <- data.frame(lapply(import_data, function(x){gsub("&#039;", "'", x)}))
 # decode ampersand across entire data frame
@@ -52,6 +53,7 @@ for (row in 1:nrow(import_data)) {
   #write(fm, file_path, append = T)
   write(paste("title: ", shQuote(import_data[row,]$title), sep = ""), file_path, append = T)
   write(paste("date: ", import_data[row,]$date, sep = ""), file_path, append = T)
+  write(paste("closing_date: ", import_data[row,]$closing_date, sep = ""), file_path, append = T)
   write(paste("lastmod: ", import_data[row,]$date, sep = ""), file_path, append = T)
   write(paste("slug: ", import_data[row,]$slug_new, sep = ""), file_path, append = T)
   if (!(is.na(import_data[row,]$company))) {

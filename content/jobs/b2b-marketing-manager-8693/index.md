@@ -1,6 +1,7 @@
 ---
 title: "B2B Marketing Manager"
 date: 2021-04-01 22:38:14
+closing_date: 2021-04-30 12:00:00
 lastmod: 2021-04-01 22:38:14
 slug: b2b-marketing-manager-8693
 company: 1299

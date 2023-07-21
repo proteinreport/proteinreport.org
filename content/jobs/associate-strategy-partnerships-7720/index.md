@@ -1,6 +1,7 @@
 ---
 title: "Associate, Strategy & Partnerships"
 date: 2020-09-25 16:53:52
+closing_date: 2020-11-25 12:00:00
 lastmod: 2020-09-25 16:53:52
 slug: associate-strategy-partnerships-7720
 company: 1299

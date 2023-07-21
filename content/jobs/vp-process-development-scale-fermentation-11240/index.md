@@ -1,6 +1,7 @@
 ---
 title: "VP of Process Development & Scale Up (Fermentation)"
 date: 2023-01-17 20:53:34
+closing_date: 2023-04-01 12:00:00
 lastmod: 2023-01-17 20:53:34
 slug: vp-process-development-scale-fermentation-11240
 company: 1262

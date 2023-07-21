@@ -1,6 +1,7 @@
 ---
 title: "Associate Scientist, Protein Sciences"
 date: 2021-12-20 21:23:08
+closing_date: 2022-02-28 12:00:00
 lastmod: 2021-12-20 21:23:08
 slug: associate-scientist-protein-sciences-10191
 company: 5825

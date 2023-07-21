@@ -1,6 +1,7 @@
 ---
 title: "BioProcess Associate"
 date: 2021-11-18 17:56:14
+closing_date: 2022-02-18 12:00:00
 lastmod: 2021-11-18 17:56:14
 slug: bioprocess-associate-10050
 company: 1299

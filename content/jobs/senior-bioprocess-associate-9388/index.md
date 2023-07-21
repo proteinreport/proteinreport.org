@@ -1,6 +1,7 @@
 ---
 title: "Senior BioProcess Associate"
 date: 2021-07-27 23:53:46
+closing_date: 2021-09-30 12:00:00
 lastmod: 2021-07-27 23:53:46
 slug: senior-bioprocess-associate-9388
 company: 1299

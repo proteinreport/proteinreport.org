@@ -1,6 +1,7 @@
 ---
 title: "Fermentation scientist"
 date: 2022-03-13 10:14:08
+closing_date: 2022-04-06 12:00:00
 lastmod: 2022-03-13 10:14:08
 slug: fermentation-scientist-10545
 company: 10547

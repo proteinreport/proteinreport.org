@@ -1,6 +1,7 @@
 ---
 title: "Food Safety/Quality Assurance Supervisor"
 date: 2021-04-12 15:09:32
+closing_date: 2021-05-31 12:00:00
 lastmod: 2021-04-12 15:09:32
 slug: food-safetyquality-assurance-supervisor-8776
 company: 1170

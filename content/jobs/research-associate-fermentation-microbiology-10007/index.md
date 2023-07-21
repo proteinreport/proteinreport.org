@@ -1,6 +1,7 @@
 ---
 title: "Research Associate, Fermentation & Microbiology"
 date: 2021-11-12 00:25:50
+closing_date: 2021-12-31 12:00:00
 lastmod: 2021-11-12 00:25:50
 slug: research-associate-fermentation-microbiology-10007
 company: 1170

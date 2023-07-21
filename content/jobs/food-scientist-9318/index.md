@@ -1,6 +1,7 @@
 ---
 title: "Food Scientist"
 date: 2021-07-14 14:01:01
+closing_date: 2021-09-15 12:00:00
 lastmod: 2021-07-14 14:01:01
 slug: food-scientist-9318
 company: 7022

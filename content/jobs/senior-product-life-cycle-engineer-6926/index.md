@@ -1,6 +1,7 @@
 ---
 title: "Senior Product Life Cycle Engineer"
 date: 2020-05-10 12:31:38
+closing_date: 2020-06-08 12:00:00
 lastmod: 2020-05-10 12:31:38
 slug: senior-product-life-cycle-engineer-6926
 company: 5663

@@ -1,6 +1,7 @@
 ---
 title: "Operations Program Manager"
 date: 2021-09-07 21:27:19
+closing_date: 2021-11-30 12:00:00
 lastmod: 2021-09-07 21:27:19
 slug: operations-program-manager-9638
 company: 1299

@@ -1,6 +1,7 @@
 ---
 title: "Food Scientist"
 date: 2021-08-06 22:46:48
+closing_date: 
 lastmod: 2021-08-06 22:46:48
 slug: food-scientist-9455
 company: 9472

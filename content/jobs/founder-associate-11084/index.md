@@ -1,6 +1,7 @@
 ---
 title: "Founder Associate"
 date: 2022-07-18 09:31:46
+closing_date: 2022-08-08 12:00:00
 lastmod: 2022-07-18 09:31:46
 slug: founder-associate-11084
 company: 10547

@@ -1,6 +1,7 @@
 ---
 title: "BioProcess Intern"
 date: 2021-09-03 16:17:54
+closing_date: 2021-11-01 12:00:00
 lastmod: 2021-09-03 16:17:54
 slug: bioprocess-intern-9617
 company: 1299

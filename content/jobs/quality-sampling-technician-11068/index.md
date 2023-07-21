@@ -1,6 +1,7 @@
 ---
 title: "Quality & Sampling Technician"
 date: 2022-07-05 23:21:43
+closing_date: 2022-10-05 12:00:00
 lastmod: 2022-07-05 23:21:43
 slug: quality-sampling-technician-11068
 company: 1299

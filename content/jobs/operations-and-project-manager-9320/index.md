@@ -1,6 +1,7 @@
 ---
 title: "Operations and Project Manager"
 date: 2021-07-14 14:21:37
+closing_date: 2021-08-31 12:00:00
 lastmod: 2021-07-14 14:21:37
 slug: operations-and-project-manager-9320
 company: 7022

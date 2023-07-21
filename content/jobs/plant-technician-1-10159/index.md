@@ -1,6 +1,7 @@
 ---
 title: "Plant Technician 1"
 date: 2021-12-10 16:10:50
+closing_date: 2022-01-31 12:00:00
 lastmod: 2021-12-10 16:10:50
 slug: plant-technician-1-10159
 company: 1170

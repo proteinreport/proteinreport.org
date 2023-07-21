@@ -1,6 +1,7 @@
 ---
 title: "Research Associate - Cultured Meat & Farmers"
 date: 2022-06-16 10:34:20
+closing_date: 2022-07-05 12:00:00
 lastmod: 2022-06-16 10:34:20
 slug: research-associate-cultured-meat-farmers-11010
 company: 

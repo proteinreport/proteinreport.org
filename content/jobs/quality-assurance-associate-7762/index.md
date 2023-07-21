@@ -1,6 +1,7 @@
 ---
 title: "Quality Assurance Associate"
 date: 2020-10-06 02:47:25
+closing_date: 2020-12-31 12:00:00
 lastmod: 2020-10-06 02:47:25
 slug: quality-assurance-associate-7762
 company: 1299

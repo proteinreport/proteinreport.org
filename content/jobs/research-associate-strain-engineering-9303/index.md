@@ -1,6 +1,7 @@
 ---
 title: "Research Associate, Strain Engineering"
 date: 2021-07-12 15:13:33
+closing_date: 2021-08-30 12:00:00
 lastmod: 2021-07-12 15:13:33
 slug: research-associate-strain-engineering-9303
 company: 1299

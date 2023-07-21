@@ -1,6 +1,7 @@
 ---
 title: "Head of Biotech Laboratory"
 date: 2020-07-29 19:53:53
+closing_date: 
 lastmod: 2020-07-29 19:53:53
 slug: head-biotech-laboratory-7380
 company: 5857

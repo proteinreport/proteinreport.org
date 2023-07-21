@@ -1,6 +1,7 @@
 ---
 title: "Research Associate ll - Analytics"
 date: 2021-10-05 17:55:19
+closing_date: 2022-01-08 12:00:00
 lastmod: 2021-10-05 17:55:19
 slug: research-associate-ll-analytics-9794
 company: 1299

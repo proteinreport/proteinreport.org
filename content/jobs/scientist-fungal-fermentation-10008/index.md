@@ -1,6 +1,7 @@
 ---
 title: "Scientist, Fungal Fermentation"
 date: 2021-11-12 00:53:15
+closing_date: 2021-12-31 12:00:00
 lastmod: 2021-11-12 00:53:15
 slug: scientist-fungal-fermentation-10008
 company: 1170

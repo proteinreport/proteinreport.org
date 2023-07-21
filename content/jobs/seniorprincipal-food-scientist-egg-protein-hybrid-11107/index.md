@@ -1,6 +1,7 @@
 ---
 title: "Senior/Principal Food Scientist - Egg Protein (hybrid)"
 date: 2022-07-27 22:33:14
+closing_date: 2022-10-27 12:00:00
 lastmod: 2022-07-27 22:33:14
 slug: seniorprincipal-food-scientist-egg-protein-hybrid-11107
 company: 1299

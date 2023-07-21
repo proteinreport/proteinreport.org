@@ -1,6 +1,7 @@
 ---
 title: "Associate Research Scientist I, Food Application Development"
 date: 2020-04-24 12:41:40
+closing_date: 
 lastmod: 2020-04-24 12:41:40
 slug: associate-research-scientist-i-food-application-development-6726
 company: 699

@@ -1,6 +1,7 @@
 ---
 title: "Food Scientist II"
 date: 2021-06-15 23:33:49
+closing_date: 2021-07-30 12:00:00
 lastmod: 2021-06-15 23:33:49
 slug: food-scientist-ii-9156
 company: 1299

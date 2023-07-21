@@ -1,6 +1,7 @@
 ---
 title: "Creative Director / Sr. Designer"
 date: 2022-01-15 18:36:24
+closing_date: 
 lastmod: 2022-01-15 18:36:24
 slug: creative-director-sr-designer-10285
 company: 1299

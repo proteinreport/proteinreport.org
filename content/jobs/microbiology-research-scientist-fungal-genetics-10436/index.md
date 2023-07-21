@@ -1,6 +1,7 @@
 ---
 title: "Microbiology Research Scientist - Fungal Genetics"
 date: 2022-02-17 16:27:46
+closing_date: 2022-03-31 12:00:00
 lastmod: 2022-02-17 16:27:46
 slug: microbiology-research-scientist-fungal-genetics-10436
 company: 10437

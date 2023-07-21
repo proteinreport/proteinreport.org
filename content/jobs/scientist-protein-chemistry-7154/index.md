@@ -1,6 +1,7 @@
 ---
 title: "Scientist, Protein Chemistry"
 date: 2020-06-19 13:45:43
+closing_date: 
 lastmod: 2020-06-19 13:45:43
 slug: scientist-protein-chemistry-7154
 company: 234

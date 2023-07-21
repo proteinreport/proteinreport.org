@@ -1,6 +1,7 @@
 ---
 title: "Manager, Strategy & Partnerships (Technology)"
 date: 2022-01-15 18:41:18
+closing_date: 
 lastmod: 2022-01-15 18:41:18
 slug: manager-strategy-partnerships-technology-10289
 company: 1299

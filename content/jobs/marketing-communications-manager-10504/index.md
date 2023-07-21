@@ -1,6 +1,7 @@
 ---
 title: "Marketing & Communications Manager"
 date: 2022-03-01 11:03:09
+closing_date: 2022-03-31 12:00:00
 lastmod: 2022-03-01 11:03:09
 slug: marketing-communications-manager-10504
 company: 9900

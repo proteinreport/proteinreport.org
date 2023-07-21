@@ -1,6 +1,7 @@
 ---
 title: "Software Development Internship (Summer 2022)"
 date: 2022-06-15 17:49:04
+closing_date: 2022-07-01 12:00:00
 lastmod: 2022-06-15 17:49:04
 slug: software-development-internship-summer-2022-11007
 company: 5825

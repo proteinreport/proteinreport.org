@@ -1,6 +1,7 @@
 ---
 title: "Protein Process Specialist (f/m/d)"
 date: 2022-11-09 13:32:39
+closing_date: 2023-01-01 12:00:00
 lastmod: 2022-11-09 13:32:39
 slug: protein-process-specialist-fmd-11186
 company: 5791

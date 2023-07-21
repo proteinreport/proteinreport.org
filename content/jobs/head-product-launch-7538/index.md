@@ -1,6 +1,7 @@
 ---
 title: "Head of Product Launch"
 date: 2020-08-19 23:13:19
+closing_date: 2020-10-07 12:00:00
 lastmod: 2020-08-19 23:13:19
 slug: head-product-launch-7538
 company: 1299

@@ -1,6 +1,7 @@
 ---
 title: "Associate Director, People Operations"
 date: 2021-09-10 21:17:08
+closing_date: 2021-12-11 12:00:00
 lastmod: 2021-09-10 21:17:08
 slug: associate-director-people-operations-9670
 company: 1299

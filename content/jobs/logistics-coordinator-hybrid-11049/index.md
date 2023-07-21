@@ -1,6 +1,7 @@
 ---
 title: "Logistics Coordinator (Hybrid)"
 date: 2022-06-29 19:45:11
+closing_date: 
 lastmod: 2022-06-29 19:45:11
 slug: logistics-coordinator-hybrid-11049
 company: 1299

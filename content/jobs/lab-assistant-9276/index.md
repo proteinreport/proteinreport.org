@@ -1,6 +1,7 @@
 ---
 title: "Lab Assistant"
 date: 2021-07-08 05:19:15
+closing_date: 2021-08-18 12:00:00
 lastmod: 2021-07-08 05:19:15
 slug: lab-assistant-9276
 company: 1299

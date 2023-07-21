@@ -1,6 +1,7 @@
 ---
 title: "Brand Manager"
 date: 2020-03-12 13:56:01
+closing_date: 
 lastmod: 2020-03-12 13:56:01
 slug: brand-manager-6429
 company: 1269

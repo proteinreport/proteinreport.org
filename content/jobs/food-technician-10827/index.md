@@ -1,6 +1,7 @@
 ---
 title: "Food Technician"
 date: 2022-05-09 17:07:52
+closing_date: 
 lastmod: 2022-05-09 17:07:52
 slug: food-technician-10827
 company: 1299

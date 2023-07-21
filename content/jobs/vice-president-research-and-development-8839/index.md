@@ -1,6 +1,7 @@
 ---
 title: "Vice President Research and Development"
 date: 2021-04-21 14:16:47
+closing_date: 2021-05-26 12:00:00
 lastmod: 2021-04-21 14:16:47
 slug: vice-president-research-and-development-8839
 company: 8841

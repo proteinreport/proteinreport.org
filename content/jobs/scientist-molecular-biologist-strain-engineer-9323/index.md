@@ -1,6 +1,7 @@
 ---
 title: "Scientist - Molecular Biologist Strain Engineer"
 date: 2021-07-14 14:28:00
+closing_date: 2021-09-15 12:00:00
 lastmod: 2021-07-14 14:28:00
 slug: scientist-molecular-biologist-strain-engineer-9323
 company: 7022

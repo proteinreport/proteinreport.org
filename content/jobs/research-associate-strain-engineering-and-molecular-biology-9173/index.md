@@ -1,6 +1,7 @@
 ---
 title: "Research Associate - Strain Engineering and Molecular Biology"
 date: 2021-06-17 20:24:19
+closing_date: 2021-07-15 12:00:00
 lastmod: 2021-06-17 20:24:19
 slug: research-associate-strain-engineering-and-molecular-biology-9173
 company: 7022

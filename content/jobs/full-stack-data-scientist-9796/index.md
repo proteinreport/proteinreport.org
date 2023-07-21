@@ -1,6 +1,7 @@
 ---
 title: "Full Stack Data Scientist"
 date: 2021-10-05 17:58:37
+closing_date: 2022-01-08 12:00:00
 lastmod: 2021-10-05 17:58:37
 slug: full-stack-data-scientist-9796
 company: 1299

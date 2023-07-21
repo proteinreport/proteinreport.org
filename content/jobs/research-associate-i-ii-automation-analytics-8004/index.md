@@ -1,6 +1,7 @@
 ---
 title: "Research Associate I-II, Automation & Analytics"
 date: 2020-11-19 19:18:12
+closing_date: 2021-01-09 12:00:00
 lastmod: 2020-11-19 19:18:12
 slug: research-associate-i-ii-automation-analytics-8004
 company: 1299

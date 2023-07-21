@@ -1,6 +1,7 @@
 ---
 title: "SENIOR FOOD TECHNOLOGIST - PRODUCT DEVELOPMENT MANUFACTURING QUALITY"
 date: 2020-03-11 11:28:14
+closing_date: 
 lastmod: 2020-03-11 11:28:14
 slug: senior-food-technologist-product-development-manufacturing-quality-6426
 company: 695

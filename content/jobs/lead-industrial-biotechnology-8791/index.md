@@ -1,6 +1,7 @@
 ---
 title: "Lead Industrial Biotechnology"
 date: 2021-04-15 14:28:54
+closing_date: 2021-07-31 12:00:00
 lastmod: 2021-04-15 14:28:54
 slug: lead-industrial-biotechnology-8791
 company: 5791

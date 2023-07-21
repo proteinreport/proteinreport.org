@@ -1,6 +1,7 @@
 ---
 title: "Director of Fermentation R&D"
 date: 2023-01-17 20:45:00
+closing_date: 
 lastmod: 2023-01-17 20:45:00
 slug: director-fermentation-rd-11239
 company: 1262

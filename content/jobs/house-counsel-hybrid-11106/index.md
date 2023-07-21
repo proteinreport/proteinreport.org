@@ -1,6 +1,7 @@
 ---
 title: "In-House Counsel (Hybrid)"
 date: 2022-07-27 22:25:36
+closing_date: 2022-10-27 12:00:00
 lastmod: 2022-07-27 22:25:36
 slug: house-counsel-hybrid-11106
 company: 1299

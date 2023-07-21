@@ -1,6 +1,7 @@
 ---
 title: "Grants and Partnerships Specialist"
 date: 2022-11-28 15:00:57
+closing_date: 2022-12-16 12:00:00
 lastmod: 2022-11-28 15:00:57
 slug: grants-and-partnerships-specialist-11204
 company: 11189

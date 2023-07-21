@@ -1,6 +1,7 @@
 ---
 title: "Manager, Strategy & Partnerships (Commercial)"
 date: 2022-01-15 18:40:12
+closing_date: 
 lastmod: 2022-01-15 18:40:12
 slug: manager-strategy-partnerships-commercial-10288
 company: 1299

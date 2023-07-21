@@ -1,6 +1,7 @@
 ---
 title: "Director of Mechanical Engineering"
 date: 2020-03-13 15:39:36
+closing_date: 
 lastmod: 2020-03-13 15:39:36
 slug: director-mechanical-engineering-6436
 company: 5831

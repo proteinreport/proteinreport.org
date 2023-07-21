@@ -1,6 +1,7 @@
 ---
 title: "Cell Culture Specialist"
 date: 2022-08-24 13:48:05
+closing_date: 2022-09-20 12:00:00
 lastmod: 2022-08-24 13:48:05
 slug: cell-culture-specialist-11132
 company: 10908

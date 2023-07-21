@@ -1,6 +1,7 @@
 ---
 title: "VP of Marketing Operations"
 date: 2020-03-08 13:39:30
+closing_date: 
 lastmod: 2020-03-08 13:39:30
 slug: vp-marketing-operations-6427
 company: 1331

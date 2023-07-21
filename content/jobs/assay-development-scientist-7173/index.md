@@ -1,6 +1,7 @@
 ---
 title: "Assay development scientist"
 date: 2020-06-24 14:05:56
+closing_date: 
 lastmod: 2020-06-24 14:05:56
 slug: assay-development-scientist-7173
 company: 7174

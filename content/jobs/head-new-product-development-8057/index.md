@@ -1,6 +1,7 @@
 ---
 title: "Head of New Product Development"
 date: 2020-12-04 00:41:08
+closing_date: 2021-03-31 12:00:00
 lastmod: 2020-12-04 00:41:08
 slug: head-new-product-development-8057
 company: 1299

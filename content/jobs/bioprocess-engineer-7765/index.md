@@ -1,6 +1,7 @@
 ---
 title: "BioProcess Engineer"
 date: 2020-10-06 03:30:28
+closing_date: 2020-12-31 12:00:00
 lastmod: 2020-10-06 03:30:28
 slug: bioprocess-engineer-7765
 company: 1299

@@ -1,6 +1,7 @@
 ---
 title: "Human Resources Generalist"
 date: 2021-10-05 17:57:20
+closing_date: 2022-01-08 12:00:00
 lastmod: 2021-10-05 17:57:20
 slug: human-resources-generalist-9795
 company: 1299
