@@ -13,11 +13,8 @@ regions: [Middle East]
 flags: [Press Release]
 directory: [7627]
 featured_image: "Change Foods - KEZAD Signing.jpeg"
+featured_image_caption: ""
 additional_images:
-  - src: "Change Foods - KEZAD Signing.jpeg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release]
 directory: [5660]
 featured_image: "Mushlabs_Fermenter.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Mushlabs_Fermenter.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

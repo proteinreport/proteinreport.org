@@ -14,11 +14,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [10527, 11176]
 featured_image: "HackCapital Founders.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "HackCapital Founders.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

@@ -13,11 +13,8 @@ regions: [Asia, Europe]
 flags: [Press Release, Investments]
 directory: [9900]
 featured_image: "IMG_2752-1479x1536.jpeg"
+featured_image_caption: "Professor Andy Porter (Chair, Roslin Tech), Minette Navarrete (President and CoFounder, Kickstart Ventures), Ernst Van Orsouw (CEO, Roslin Tech), John Clinkenbeard (COO, Roslin Tech)"
 additional_images:
-  - src: "IMG_2752-1479x1536.jpeg"
-    caption: "Professor Andy Porter (Chair, Roslin Tech), Minette Navarrete (President and CoFounder, Kickstart Ventures), Ernst Van Orsouw (CEO, Roslin Tech), John Clinkenbeard (COO, Roslin Tech)"
-    alt: "Professor Andy Porter (Chair, Roslin Tech), Minette Navarrete (President and CoFounder, Kickstart Ventures), Ernst Van Orsouw (CEO, Roslin Tech), John Clinkenbeard (COO, Roslin Tech)"
-    title: "Professor Andy Porter (Chair, Roslin Tech), Minette Navarrete (President and CoFounder, Kickstart Ventures), Ernst Van Orsouw (CEO, Roslin Tech), John Clinkenbeard (COO, Roslin Tech)"
 draft: false
 pinned: false
 homepage: false

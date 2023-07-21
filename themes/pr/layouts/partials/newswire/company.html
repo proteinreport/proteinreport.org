@@ -1,4 +1,4 @@
-<p class="text-lg m-2">News provided by:</p>
+<h3 class="text-lg m-2 font-bold">News provided by:</h3>
 {{ if .Params.company}}
   {{ $company_uuid := .Params.company }}
   {{ $companies := where site.RegularPages "Type" "directory" }}

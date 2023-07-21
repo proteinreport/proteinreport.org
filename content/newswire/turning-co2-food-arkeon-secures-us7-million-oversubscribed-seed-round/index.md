@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [10527]
 featured_image: "Arkeon_core team_web.jpg"
+featured_image_caption: "Arkeon core team"
 additional_images:
-  - src: "Arkeon_core team_web.jpg"
-    caption: "Arkeon core team"
-    alt: "Arkeon core team"
-    title: "Arkeon core team"
   - src: "Arkeon_founders_web.jpg"
     caption: "Arkeon founders"
     alt: "Arkeon founders"

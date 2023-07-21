@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, New Products]
 directory: [5842]
 featured_image: "Food4.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Food4.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

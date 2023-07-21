@@ -14,11 +14,8 @@ regions: [International, US & Canada]
 flags: [Press Release]
 directory: [NA]
 featured_image: "just_launched.png"
+featured_image_caption: ""
 additional_images:
-  - src: "just_launched.png"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "illustration.png"
     caption: ""
     alt: ""

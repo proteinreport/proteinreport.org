@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [1212, 1299, 5791, 6600, 10547]
 featured_image: "Cultivated Co-founders.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Cultivated Co-founders.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Cultivated cream 1.jpg"
     caption: ""
     alt: ""

@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [7856]
 featured_image: "founders.jpg"
+featured_image_caption: "From left, Dr. Sebastian Rakers and Simon Fabich, Founders und Managing Directors of Bluu Biosciences. Copyright Bluu Biosciences"
 additional_images:
-  - src: "founders.jpg"
-    caption: "From left, Dr. Sebastian Rakers and Simon Fabich, Founders und Managing Directors of Bluu Biosciences. Copyright Bluu Biosciences"
-    alt: "From left, Dr. Sebastian Rakers and Simon Fabich, Founders und Managing Directors of Bluu Biosciences. Copyright Bluu Biosciences"
-    title: "From left, Dr. Sebastian Rakers and Simon Fabich, Founders und Managing Directors of Bluu Biosciences. Copyright Bluu Biosciences"
   - src: "R&D for cell-based fish_copyright Bluu Biosciences_0.jpg"
     caption: "R&amp;D for cell-based fish. Copyright Bluu Biosciences."
     alt: "R&amp;D for cell-based fish. Copyright Bluu Biosciences."

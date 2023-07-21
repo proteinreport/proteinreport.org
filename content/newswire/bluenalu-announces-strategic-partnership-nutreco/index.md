@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [5829]
 featured_image: "iStock-534127796_super.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "iStock-534127796_super.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [6916, 11189]
 featured_image: "Eden Bio Team_0.jpg"
+featured_image_caption: "Eden Bio team, from left: Dr Evgenia Markova (VP of Science), Dr Jack Ho (Strain Engineer), Jake Bowden (Lead Bioinformatician), Dr Rachel Shaw (COO), and Dr Chris Reynolds (CEO)."
 additional_images:
-  - src: "Eden Bio Team_0.jpg"
-    caption: "Eden Bio team, from left: Dr Evgenia Markova (VP of Science), Dr Jack Ho (Strain Engineer), Jake Bowden (Lead Bioinformatician), Dr Rachel Shaw (COO), and Dr Chris Reynolds (CEO)."
-    alt: "Eden Bio team, from left: Dr Evgenia Markova (VP of Science), Dr Jack Ho (Strain Engineer), Jake Bowden (Lead Bioinformatician), Dr Rachel Shaw (COO), and Dr Chris Reynolds (CEO)."
-    title: "Eden Bio team, from left: Dr Evgenia Markova (VP of Science), Dr Jack Ho (Strain Engineer), Jake Bowden (Lead Bioinformatician), Dr Rachel Shaw (COO), and Dr Chris Reynolds (CEO)."
 draft: false
 pinned: false
 homepage: false

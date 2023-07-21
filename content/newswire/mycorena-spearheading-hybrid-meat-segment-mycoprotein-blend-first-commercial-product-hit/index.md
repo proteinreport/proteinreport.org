@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, New Products]
 directory: [5899]
 featured_image: "hybrid-cow-final.jpg"
+featured_image_caption: "mycorena hybrid solution"
 additional_images:
-  - src: "hybrid-cow-final.jpg"
-    caption: "mycorena hybrid solution"
-    alt: "mycorena hybrid solution"
-    title: "mycorena hybrid solution"
   - src: "promyc.jpg"
     caption: "mycoprotein Promyc"
     alt: "mycoprotein Promyc"

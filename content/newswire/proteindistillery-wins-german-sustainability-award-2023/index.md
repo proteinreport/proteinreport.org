@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release]
 directory: [11222]
 featured_image: "StageTwo Sieger Foto.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "StageTwo Sieger Foto.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Sieger Dt. Nachhaltigkeitspreis_Ries_Pitter-v2.jpg"
     caption: ""
     alt: ""

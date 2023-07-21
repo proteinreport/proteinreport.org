@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release]
 directory: [10527]
 featured_image: "Groundbreaking-Ceremony- tz3.jpg"
+featured_image_caption: "Groundbreaking Ceremony of the tz3 Technology Centre in Vienna's Seestadt Innovation Hub. Copyright: David Bohmann."
 additional_images:
-  - src: "Groundbreaking-Ceremony- tz3.jpg"
-    caption: "Groundbreaking Ceremony of the tz3 Technology Centre in Vienna's Seestadt Innovation Hub. Copyright: David Bohmann."
-    alt: "Groundbreaking Ceremony of the tz3 Technology Centre in Vienna's Seestadt Innovation Hub. Copyright: David Bohmann."
-    title: "Groundbreaking Ceremony of the tz3 Technology Centre in Vienna's Seestadt Innovation Hub. Copyright: David Bohmann."
   - src: "Arkeon-Bioreactor-150L.jpg"
     caption: "Arkeon, Pilot Facility, 150 L Bioreactor System. Copyright: Arkeon."
     alt: "Arkeon, Pilot Facility, 150 L Bioreactor System. Copyright: Arkeon."

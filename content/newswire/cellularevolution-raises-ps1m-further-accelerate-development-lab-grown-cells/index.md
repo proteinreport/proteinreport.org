@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [5816, 5829, 5831, 5855, 6280]
 featured_image: "M Miotto in the lab 3.JPG"
+featured_image_caption: "CellulaREvolution CSO Martina Miotto in the lab"
 additional_images:
-  - src: "M Miotto in the lab 3.JPG"
-    caption: "CellulaREvolution CSO Martina Miotto in the lab"
-    alt: "CellulaREvolution CSO Martina Miotto in the lab"
-    title: "CellulaREvolution CSO Martina Miotto in the lab"
 draft: false
 pinned: false
 homepage: false

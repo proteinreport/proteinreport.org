@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release, New Products]
 directory: [8756]
 featured_image: "Wrap & Roll - Wrap 2.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Wrap & Roll - Wrap 2.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Pawon - Sate Ayam 2.jpg"
     caption: ""
     alt: ""

@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [694, 695, 1294, 1332, 10251]
 featured_image: "Tiba Tempeh Range.jpg"
+featured_image_caption: "Tiba Tempeh Range"
 additional_images:
-  - src: "Tiba Tempeh Range.jpg"
-    caption: "Tiba Tempeh Range"
-    alt: "Tiba Tempeh Range"
-    title: "Tiba Tempeh Range"
   - src: "Tiba Tempeh BBQ Burgers.jpg"
     caption: "Tiba Tempeh BBQ Burgers"
     alt: "Tiba Tempeh BBQ Burgers"

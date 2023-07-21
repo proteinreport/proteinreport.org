@@ -14,11 +14,8 @@ regions: [Latin America & Caribbean, US & Canada]
 flags: [Press Release]
 directory: [685, 6139]
 featured_image: "Moonshot panel members .png"
+featured_image_caption: "Members of a moonshot panel agreed it is essential that all sectors of the food system be involved for a healthy, sustainable future: Prof. David Julian McClements, Michael Natale of Ingredion, Jo Raven of FAIRR Initiative, Nicole Negowetti of Plant Based Foods Association, Gerard Klein Essink of Bridge2Food, and Sara Eckhouse of Foodshot."
 additional_images:
-  - src: "Moonshot panel members .png"
-    caption: "Members of a moonshot panel agreed it is essential that all sectors of the food system be involved for a healthy, sustainable future: Prof. David Julian McClements, Michael Natale of Ingredion, Jo Raven of FAIRR Initiative, Nicole Negowetti of Plant Based Foods Association, Gerard Klein Essink of Bridge2Food, and Sara Eckhouse of Foodshot."
-    alt: "Members of a moonshot panel agreed it is essential that all sectors of the food system be involved for a healthy, sustainable future: Prof. David Julian McClements, Michael Natale of Ingredion, Jo Raven of FAIRR Initiative, Nicole Negowetti of Plant Based Foods Association, Gerard Klein Essink of Bridge2Food, and Sara Eckhouse of Foodshot."
-    title: "Members of a moonshot panel agreed it is essential that all sectors of the food system be involved for a healthy, sustainable future: Prof. David Julian McClements, Michael Natale of Ingredion, Jo Raven of FAIRR Initiative, Nicole Negowetti of Plant Based Foods Association, Gerard Klein Essink of Bridge2Food, and Sara Eckhouse of Foodshot."
 draft: false
 pinned: false
 homepage: false

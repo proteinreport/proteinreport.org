@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release]
 directory: [7856]
 featured_image: "Logo Bluu Seafood_bluu.darkblue_0.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Logo Bluu Seafood_bluu.darkblue_0.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Executive Team Bluu Seafood.jpg"
     caption: "Bluu Seafood executive team. From left, COO Chris Dammann, Co-Founder and Managing Director Dr Sebastian Rakers, Co-Founder and Managing Director Simon Fabich. Ccopyright Bluu GmbH."
     alt: "Bluu Seafood executive team. From left, COO Chris Dammann, Co-Founder and Managing Director Dr Sebastian Rakers, Co-Founder and Managing Director Simon Fabich. Ccopyright Bluu GmbH."

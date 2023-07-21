@@ -14,11 +14,8 @@ regions: [Asia, US & Canada]
 flags: [Press Release, Investments]
 directory: [5839]
 featured_image: "lab 20.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "lab 20.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

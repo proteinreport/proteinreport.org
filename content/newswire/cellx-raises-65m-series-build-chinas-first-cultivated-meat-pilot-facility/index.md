@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release, Investments]
 directory: [8329]
 featured_image: "CellX培养鸡胸肉.png"
+featured_image_caption: "Cultivated chicken breast from CellX"
 additional_images:
-  - src: "CellX培养鸡胸肉.png"
-    caption: "Cultivated chicken breast from CellX"
-    alt: "Cultivated chicken breast from CellX"
-    title: "Cultivated chicken breast from CellX"
   - src: "图片1.png"
     caption: "CellX R&amp;D team"
     alt: "CellX R&amp;D team"

@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release]
 directory: [5810]
 featured_image: "20210615_WEF Tech Pioneers.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "20210615_WEF Tech Pioneers.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Avant VHC joint annoucement Jan 2021 Photo 2.jpg"
     caption: ""
     alt: ""

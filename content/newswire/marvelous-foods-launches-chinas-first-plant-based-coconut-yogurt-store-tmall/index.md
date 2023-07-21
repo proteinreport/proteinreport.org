@@ -14,11 +14,8 @@ regions: [Asia]
 flags: [Press Release]
 directory: [NA]
 featured_image: "marvelous.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "marvelous.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "marvelous2.jpg"
     caption: ""
     alt: ""

@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [703, 6600, 10437]
 featured_image: "Sliced sea bass filets.jpg"
+featured_image_caption: "Aqua Cultured Foods sliced sea bass filets."
 additional_images:
-  - src: "Sliced sea bass filets.jpg"
-    caption: "Aqua Cultured Foods sliced sea bass filets."
-    alt: "Aqua Cultured Foods sliced sea bass filets."
-    title: "Aqua Cultured Foods sliced sea bass filets."
   - src: "IMG_2558_0.jpg"
     caption: "Aqua Cultured Foods team."
     alt: "Aqua Cultured Foods team."

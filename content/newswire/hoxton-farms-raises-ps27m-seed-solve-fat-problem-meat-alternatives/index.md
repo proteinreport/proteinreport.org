@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [1294, 1303, 6280, 8229, 8360]
 featured_image: "IMG_4682_0.jpg"
+featured_image_caption: "Hoxton Farms Co-Founders Ed Steele (R) and Dr Max Jamilly (L)"
 additional_images:
-  - src: "IMG_4682_0.jpg"
-    caption: "Hoxton Farms Co-Founders Ed Steele (R) and Dr Max Jamilly (L)"
-    alt: "Hoxton Farms Co-Founders Ed Steele (R) and Dr Max Jamilly (L)"
-    title: "Hoxton Farms Co-Founders Ed Steele (R) and Dr Max Jamilly (L)"
 draft: false
 pinned: false
 homepage: false

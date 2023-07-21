@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release]
 directory: [7873]
 featured_image: "profuture.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "profuture.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

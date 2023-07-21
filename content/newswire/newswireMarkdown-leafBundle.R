@@ -80,13 +80,14 @@ for (row in 1:nrow(import_data)) {
   write(paste("directory: [",import_data[row,]$directory, "]", sep = ""), file_path, append = T)
   #write(paste("contributors: [",import_data[row,]$contributors, "]", sep = ""), file_path, append = T)
   write(paste("featured_image: ", shQuote(import_data[row,]$images), sep = ""), file_path, append = T)
+  write(paste("featured_image_caption: ", shQuote(import_data[row,]$image_caption), sep = ""), file_path, append = T)
   #write(paste("additional_images: [",import_data[row,]$additional_images, "]", sep = ""), file_path, append = T)
   write(paste("additional_images:", sep=""), file_path, append = T)
-  write(paste("  - src: ", shQuote(import_data[row,]$images),
-              "\n    caption: ", shQuote(import_data[row,]$image_caption),
-              "\n    alt: ", shQuote(import_data[row,]$image_caption),
-              "\n    title: ", shQuote(import_data[row,]$image_caption),
-              sep = ""), file_path, append = T)
+  #write(paste("  - src: ", shQuote(import_data[row,]$images),
+  #            "\n    caption: ", shQuote(import_data[row,]$image_caption),
+  #            "\n    alt: ", shQuote(import_data[row,]$image_caption),
+  #            "\n    title: ", shQuote(import_data[row,]$image_caption),
+  #            sep = ""), file_path, append = T)
   if (!(is.na(import_data[row,]$additional_images))) {
     for (item in 1:length(img_urls[[1]])) {
       write(paste("  - src: ", img_urls[[1]][item],

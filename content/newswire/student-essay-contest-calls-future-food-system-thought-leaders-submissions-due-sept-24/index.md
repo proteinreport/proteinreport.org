@@ -13,11 +13,8 @@ regions: [International]
 flags: [Press Release]
 directory: [234, 685, 697, 5816, 7131]
 featured_image: "banner3.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "banner3.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release]
 directory: [7933]
 featured_image: "Moolec Science 1.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Moolec Science 1.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Moolec Science 2.jpg"
     caption: ""
     alt: ""

@@ -14,11 +14,8 @@ regions: [International, US & Canada]
 flags: [Press Release]
 directory: [5816, 5897, 8550]
 featured_image: "astro_teaser.png"
+featured_image_caption: ""
 additional_images:
-  - src: "astro_teaser.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

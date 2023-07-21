@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release]
 directory: [5810]
 featured_image: "20210308_Quacell facility_2.jpg"
+featured_image_caption: "QuaCell’s facility in Zhongshan, Guangdong, China"
 additional_images:
-  - src: "20210308_Quacell facility_2.jpg"
-    caption: "QuaCell’s facility in Zhongshan, Guangdong, China"
-    alt: "QuaCell’s facility in Zhongshan, Guangdong, China"
-    title: "QuaCell’s facility in Zhongshan, Guangdong, China"
 draft: false
 pinned: false
 homepage: false

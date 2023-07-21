@@ -14,11 +14,8 @@ regions: [International]
 flags: [Press Release]
 directory: [1143, 5703, 5893, 5948, 6861, 9258]
 featured_image: "Innovation Challenge Winner -_0.png"
+featured_image_caption: ""
 additional_images:
-  - src: "Innovation Challenge Winner -_0.png"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Innovation Challenge Winner.png"
     caption: ""
     alt: ""

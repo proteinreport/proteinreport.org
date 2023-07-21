@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release]
 directory: [234]
 featured_image: "GOOD Meat groundbreaking for press release 1_0.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "GOOD Meat groundbreaking for press release 1_0.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "GOOD Meat groundbreaking for press release 2.jpg"
     caption: ""
     alt: ""

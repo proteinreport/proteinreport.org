@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [698, 700, 5660, 7553, 11296]
 featured_image: "MicroHarvest team at their new Lisbon office.jpg"
+featured_image_caption: "MicroHarvest team at their new Lisbon office."
 additional_images:
-  - src: "MicroHarvest team at their new Lisbon office.jpg"
-    caption: "MicroHarvest team at their new Lisbon office."
-    alt: "MicroHarvest team at their new Lisbon office."
-    title: "MicroHarvest team at their new Lisbon office."
 draft: false
 pinned: false
 homepage: false

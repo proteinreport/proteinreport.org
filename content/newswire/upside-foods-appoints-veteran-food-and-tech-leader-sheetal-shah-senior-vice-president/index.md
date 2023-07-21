@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [695, 5831, 8327]
 featured_image: "Sheetal Picture_0.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Sheetal Picture_0.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

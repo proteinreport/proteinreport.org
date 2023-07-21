@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [6139, 7964]
 featured_image: "eb banner.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "eb banner.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

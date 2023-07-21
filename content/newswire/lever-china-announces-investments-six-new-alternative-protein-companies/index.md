@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release, Investments]
 directory: [1332, 5810, 8329, 8412, 8756, 10474]
 featured_image: "Lever-China-full-logo.png"
+featured_image_caption: ""
 additional_images:
-  - src: "Lever-China-full-logo.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

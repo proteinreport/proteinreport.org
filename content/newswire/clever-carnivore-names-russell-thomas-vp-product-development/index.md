@@ -14,11 +14,8 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [NA]
 featured_image: "Russell Thomas Headshot.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Russell Thomas Headshot.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Russell Thomas Headshot.png"
     caption: "Russell Thomas, VP of product development, Clever Carnivore"
     alt: "Russell Thomas, VP of product development, Clever Carnivore"

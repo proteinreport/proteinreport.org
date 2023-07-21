@@ -14,11 +14,8 @@ regions: [Asia, International]
 flags: [Press Release]
 directory: [1328]
 featured_image: "FEYRiIoWYAQI0CK.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "FEYRiIoWYAQI0CK.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "FEYMfYFWUAEA6K_.jpg"
     caption: ""
     alt: ""

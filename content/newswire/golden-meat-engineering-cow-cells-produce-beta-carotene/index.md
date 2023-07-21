@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Featured, Press Release]
 directory: [697]
 featured_image: "Andrew_headshot.jpg"
+featured_image_caption: "Andrew Stout, PhD candidate in biomedical engineering at Tufts University"
 additional_images:
-  - src: "Andrew_headshot.jpg"
-    caption: "Andrew Stout, PhD candidate in biomedical engineering at Tufts University"
-    alt: "Andrew Stout, PhD candidate in biomedical engineering at Tufts University"
-    title: "Andrew Stout, PhD candidate in biomedical engineering at Tufts University"
   - src: "Andrew presenting his research at the 2019 international cultured meat symposium in Maastrichtt.jpg"
     caption: "Andrew presenting his research at the 5th International Conference on Cultured Meat"
     alt: "Andrew presenting his research at the 5th International Conference on Cultured Meat"

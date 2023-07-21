@@ -14,11 +14,8 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [234, 696, 699, 1176, 5577, 5703, 5800, 5861, 6617, 6832, 6885, 7174, 7627, 7705, 7933, 8332, 8333, 8981, 9366, 9408, 10453, 10454]
 featured_image: "FFTSF22 - NEWs (2).png"
+featured_image_caption: ""
 additional_images:
-  - src: "FFTSF22 - NEWs (2).png"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "FFSF22 - Meet the start-ups.png"
     caption: ""
     alt: ""

@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [1153]
 featured_image: "Slices_-_Hydrated_and_PRIME_2048x2048.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Slices_-_Hydrated_and_PRIME_2048x2048.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "NGPV_full_color.jpg"
     caption: ""
     alt: ""

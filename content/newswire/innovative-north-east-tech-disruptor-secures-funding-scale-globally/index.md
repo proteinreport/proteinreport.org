@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [5855]
 featured_image: "tpcg-D_d.jpg"
+featured_image_caption: "Leo Groenewegen"
 additional_images:
-  - src: "tpcg-D_d.jpg"
-    caption: "Leo Groenewegen"
-    alt: "Leo Groenewegen"
-    title: "Leo Groenewegen"
 draft: false
 pinned: false
 homepage: false

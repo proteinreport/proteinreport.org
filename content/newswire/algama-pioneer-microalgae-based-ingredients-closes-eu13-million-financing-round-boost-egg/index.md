@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [706, 7072]
 featured_image: "algama.png"
+featured_image_caption: ""
 additional_images:
-  - src: "algama.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

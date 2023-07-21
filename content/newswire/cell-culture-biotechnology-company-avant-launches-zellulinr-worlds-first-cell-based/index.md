@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release, New Products]
 directory: [5810]
 featured_image: "ZELLULIN ANTI-OXIDATION 01_s.jpg"
+featured_image_caption: "Zellulin® contains multi-functional marine protein peptides that promote anti-oxidation, regeneration, and repairing of skin."
 additional_images:
-  - src: "ZELLULIN ANTI-OXIDATION 01_s.jpg"
-    caption: "Zellulin® contains multi-functional marine protein peptides that promote anti-oxidation, regeneration, and repairing of skin."
-    alt: "Zellulin® contains multi-functional marine protein peptides that promote anti-oxidation, regeneration, and repairing of skin."
-    title: "Zellulin® contains multi-functional marine protein peptides that promote anti-oxidation, regeneration, and repairing of skin."
   - src: "more than collagen.png"
     caption: "More than collagen"
     alt: "More than collagen"

@@ -14,11 +14,8 @@ regions: [International]
 flags: [Press Release]
 directory: [695, 699]
 featured_image: "report cover.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "report cover.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [8981]
 featured_image: "Gelatex co-founder and CEO Märt-Erik Martens (by Gelatex).jpg"
+featured_image_caption: "Gelatex co-founder and CEO Märt-Erik Martens (by Gelatex)"
 additional_images:
-  - src: "Gelatex co-founder and CEO Märt-Erik Martens (by Gelatex).jpg"
-    caption: "Gelatex co-founder and CEO Märt-Erik Martens (by Gelatex)"
-    alt: "Gelatex co-founder and CEO Märt-Erik Martens (by Gelatex)"
-    title: "Gelatex co-founder and CEO Märt-Erik Martens (by Gelatex)"
   - src: "Gelatex microcarriers (by Gelatex).jpg"
     caption: "Gelatex microcarriers (by Gelatex)"
     alt: "Gelatex microcarriers (by Gelatex)"

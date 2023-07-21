@@ -13,11 +13,8 @@ regions: [Oceania]
 flags: [Press Release, Investments]
 directory: [7627]
 featured_image: "Photo 2 Change R&D Team_0_0.jpg"
+featured_image_caption: "Change Foods Australia-based research and development team (from left): Prof. Junior Te’o, Change Foods Co-Founder and CTO; Dr. Nayana Pathiraja, Team Leader, Research Scientist; Dr. Nida Murtaza, Research Scientist; Dr. Tuan Tu, Researcher, Research Scientist."
 additional_images:
-  - src: "Photo 2 Change R&D Team_0_0.jpg"
-    caption: "Change Foods Australia-based research and development team (from left): Prof. Junior Te’o, Change Foods Co-Founder and CTO; Dr. Nayana Pathiraja, Team Leader, Research Scientist; Dr. Nida Murtaza, Research Scientist; Dr. Tuan Tu, Researcher, Research Scientist."
-    alt: "Change Foods Australia-based research and development team (from left): Prof. Junior Te’o, Change Foods Co-Founder and CTO; Dr. Nayana Pathiraja, Team Leader, Research Scientist; Dr. Nida Murtaza, Research Scientist; Dr. Tuan Tu, Researcher, Research Scientist."
-    title: "Change Foods Australia-based research and development team (from left): Prof. Junior Te’o, Change Foods Co-Founder and CTO; Dr. Nayana Pathiraja, Team Leader, Research Scientist; Dr. Nida Murtaza, Research Scientist; Dr. Tuan Tu, Researcher, Research Scientist."
 draft: false
 pinned: false
 homepage: false

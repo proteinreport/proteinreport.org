@@ -13,11 +13,8 @@ regions: [Africa, Asia, Europe, International, US & Canada]
 flags: [Press Release, Investments]
 directory: [5852, 6600, 8333, 10449, 10450, 10451, 10452, 10453, 10454, 10455]
 featured_image: "Big Idea Ventures Black Logo.png"
+featured_image_caption: ""
 additional_images:
-  - src: "Big Idea Ventures Black Logo.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

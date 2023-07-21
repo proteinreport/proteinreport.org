@@ -14,11 +14,8 @@ regions: [Europe]
 flags: [Press Release]
 directory: [NA]
 featured_image: "fava.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "fava.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

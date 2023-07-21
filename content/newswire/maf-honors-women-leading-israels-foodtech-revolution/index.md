@@ -13,11 +13,8 @@ regions: [Middle East]
 flags: [Press Release]
 directory: [5740, 5816, 7654]
 featured_image: "MAFwomen_0.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "MAFwomen_0.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "MAF Levana Shifman.jpg"
     caption: "MAF Strategic Advisor Levana Shifman"
     alt: "MAF Strategic Advisor Levana Shifman"

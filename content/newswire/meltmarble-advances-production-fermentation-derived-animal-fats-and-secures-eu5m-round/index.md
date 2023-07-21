@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [1332, 10458]
 featured_image: "Florian David-Anastasia Krivoruchko_0.jpg"
+featured_image_caption: "Melt&amp;Marble co-founders Florian David and Anastasia Krivoruchko"
 additional_images:
-  - src: "Florian David-Anastasia Krivoruchko_0.jpg"
-    caption: "Melt&amp;Marble co-founders Florian David and Anastasia Krivoruchko"
-    alt: "Melt&amp;Marble co-founders Florian David and Anastasia Krivoruchko"
-    title: "Melt&amp;Marble co-founders Florian David and Anastasia Krivoruchko"
   - src: "Melt&Marble beef fat (4)_0.jpg"
     caption: "Melt&amp;Marble beef fat"
     alt: "Melt&amp;Marble beef fat"

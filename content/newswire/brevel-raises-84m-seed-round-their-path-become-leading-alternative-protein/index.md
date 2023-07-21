@@ -13,11 +13,8 @@ regions: [Middle East]
 flags: [Press Release, Investments]
 directory: [10918]
 featured_image: "Brevel.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Brevel.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "BREVEL CO-FOUNDERS, BROTHERS. R-L MATAN GOLAN (COO), YONATAN GOLAN (CEO), MOTHER, IDO GOLAN (CTO).jpg"
     caption: "Brevel co-founding brothers and mother. From left, Matan Golan (COO), Yonatan Golan (CEO), Mother, and Ido Golan (CTO)."
     alt: "Brevel co-founding brothers and mother. From left, Matan Golan (COO), Yonatan Golan (CEO), Mother, and Ido Golan (CTO)."

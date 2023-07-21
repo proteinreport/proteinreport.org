@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release]
 directory: [8329]
 featured_image: "CellX_01_0.jpg"
+featured_image_caption: "CellX &amp; Tofflon announce strategic partnership"
 additional_images:
-  - src: "CellX_01_0.jpg"
-    caption: "CellX &amp; Tofflon announce strategic partnership"
-    alt: "CellX &amp; Tofflon announce strategic partnership"
-    title: "CellX &amp; Tofflon announce strategic partnership"
   - src: "CellX_02.jpg"
     caption: "Rendering of China's first pilot facility for cultivated meat"
     alt: "Rendering of China's first pilot facility for cultivated meat"

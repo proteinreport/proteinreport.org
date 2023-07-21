@@ -13,11 +13,8 @@ regions: [Asia, Europe]
 flags: [Press Release]
 directory: [7856, 8329, 10129]
 featured_image: "bluu_cellx.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "bluu_cellx.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

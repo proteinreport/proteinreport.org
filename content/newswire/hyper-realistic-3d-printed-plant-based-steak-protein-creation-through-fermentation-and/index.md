@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release]
 directory: [8457, 9233, 10963]
 featured_image: "Cocuus Steak.jpg"
+featured_image_caption: "Cocuus Steak"
 additional_images:
-  - src: "Cocuus Steak.jpg"
-    caption: "Cocuus Steak"
-    alt: "Cocuus Steak"
-    title: "Cocuus Steak"
   - src: "Cocuus Bacon.jpeg"
     caption: "Cocuus Bacon"
     alt: "Cocuus Bacon"

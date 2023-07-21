@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release]
 directory: [234, 698, 6139]
 featured_image: "bean-to-plate_highres.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "bean-to-plate_highres.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

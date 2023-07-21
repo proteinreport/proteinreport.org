@@ -14,11 +14,8 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [694, 695, 698]
 featured_image: "Homepage-SEO.png"
+featured_image_caption: ""
 additional_images:
-  - src: "Homepage-SEO.png"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "bti1.jpg"
     caption: ""
     alt: ""

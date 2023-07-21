@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [8550]
 featured_image: "LabShot.jpg"
+featured_image_caption: "From left, Shayne Giuliano, CEO and Emma Skoog, PhD, Cell Biologist. 108Labs."
 additional_images:
-  - src: "LabShot.jpg"
-    caption: "From left, Shayne Giuliano, CEO and Emma Skoog, PhD, Cell Biologist. 108Labs."
-    alt: "From left, Shayne Giuliano, CEO and Emma Skoog, PhD, Cell Biologist. 108Labs."
-    title: "From left, Shayne Giuliano, CEO and Emma Skoog, PhD, Cell Biologist. 108Labs."
   - src: "108LabsCellufacturingFacility.jpg"
     caption: "108Labs Cellfacturing facility in Hillsborough, NC"
     alt: "108Labs Cellfacturing facility in Hillsborough, NC"

@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [234]
 featured_image: "Cultured_Chicken_Lifestyle2330_Dark plate and Bckg salad and whole chicken CROP_1.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Cultured_Chicken_Lifestyle2330_Dark plate and Bckg salad and whole chicken CROP_1.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "0L2A9495.jpg"
     caption: ""
     alt: ""

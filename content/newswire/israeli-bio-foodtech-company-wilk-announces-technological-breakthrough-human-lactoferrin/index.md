@@ -13,11 +13,8 @@ regions: [Middle East]
 flags: [Press Release]
 directory: [8844]
 featured_image: "DSC_9879.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "DSC_9879.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Wilk 2.jpg"
     caption: ""
     alt: ""

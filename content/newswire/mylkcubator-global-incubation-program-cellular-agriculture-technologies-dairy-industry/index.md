@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [10963]
 featured_image: "Mylkcubator (1).png"
+featured_image_caption: ""
 additional_images:
-  - src: "Mylkcubator (1).png"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Gabriel Torres Pascual (1).jpg"
     caption: ""
     alt: ""

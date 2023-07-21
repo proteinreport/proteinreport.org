@@ -13,11 +13,8 @@ regions: [Oceania]
 flags: [Press Release]
 directory: [7131]
 featured_image: "caa_pathways_0.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "caa_pathways_0.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

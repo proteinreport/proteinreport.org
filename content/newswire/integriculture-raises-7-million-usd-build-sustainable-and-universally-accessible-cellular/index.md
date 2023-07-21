@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release, Investments]
 directory: [705, 5818]
 featured_image: "培養foie gra1.JPG"
+featured_image_caption: ""
 additional_images:
-  - src: "培養foie gra1.JPG"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "integriculture.jpg"
     caption: ""
     alt: ""

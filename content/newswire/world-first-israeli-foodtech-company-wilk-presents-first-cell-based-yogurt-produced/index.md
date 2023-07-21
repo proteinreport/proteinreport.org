@@ -13,11 +13,8 @@ regions: [Middle East]
 flags: [Press Release]
 directory: [8844]
 featured_image: "DSC00266.jpg"
+featured_image_caption: "Wilk CEO Tomer Aizen"
 additional_images:
-  - src: "DSC00266.jpg"
-    caption: "Wilk CEO Tomer Aizen"
-    alt: "Wilk CEO Tomer Aizen"
-    title: "Wilk CEO Tomer Aizen"
   - src: "DSC00104.jpg"
     caption: ""
     alt: ""

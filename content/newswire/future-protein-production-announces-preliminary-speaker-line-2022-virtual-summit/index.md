@@ -14,11 +14,8 @@ regions: [International]
 flags: [Press Release]
 directory: [1143, 1170, 6600, 7131]
 featured_image: "616ff936a33c36820618fbae_Future of Protein Production Summit Dates - White - PNG-p-800.png"
+featured_image_caption: ""
 additional_images:
-  - src: "616ff936a33c36820618fbae_Future of Protein Production Summit Dates - White - PNG-p-800.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

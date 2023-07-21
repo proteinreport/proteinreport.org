@@ -13,11 +13,8 @@ regions: [Middle East]
 flags: [Press Release]
 directory: [1310]
 featured_image: "Believer_Meats_Logo.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Believer_Meats_Logo.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

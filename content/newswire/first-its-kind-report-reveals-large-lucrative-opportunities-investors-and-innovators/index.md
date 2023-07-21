@@ -14,11 +14,8 @@ regions: [International]
 flags: [Press Release]
 directory: [NA]
 featured_image: "reportlogos.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "reportlogos.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "fabrica.png"
     caption: ""
     alt: ""

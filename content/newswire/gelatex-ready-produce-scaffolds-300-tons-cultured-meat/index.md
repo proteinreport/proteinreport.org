@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release]
 directory: [836, 5831, 8327, 8981, 9257]
 featured_image: "Fiber inspection_photoby_Siiri Kumari.jpg.jpeg"
+featured_image_caption: ""
 additional_images:
-  - src: "Fiber inspection_photoby_Siiri Kumari.jpg.jpeg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "CEO_cofounder_Märt-Erik Martens_photoby_Siiri Kumari.jpg"
     caption: "CEO and cofounder Märt-Erik Martens"
     alt: "CEO and cofounder Märt-Erik Martens"

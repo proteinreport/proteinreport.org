@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release]
 directory: [694, 695, 8412]
 featured_image: "HEROPROTEIN_04_Burger_with-logo.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "HEROPROTEIN_04_Burger_with-logo.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "HEROPROTEIN_02_Vicky-Lee_cropped.jpg"
     caption: ""
     alt: ""

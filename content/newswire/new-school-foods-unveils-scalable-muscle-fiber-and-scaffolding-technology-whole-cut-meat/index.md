@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [1212, 1332, 7110, 7552, 10387]
 featured_image: "Raw_filet_5_covershot.jpg"
+featured_image_caption: "Plant-based, whole cut salmon filet from New School Foods"
 additional_images:
-  - src: "Raw_filet_5_covershot.jpg"
-    caption: "Plant-based, whole cut salmon filet from New School Foods"
-    alt: "Plant-based, whole cut salmon filet from New School Foods"
-    title: "Plant-based, whole cut salmon filet from New School Foods"
   - src: "Cooked_filet_3.jpg"
     caption: "New School Foods salmon looks, cooks, tastes, and flakes like ordinary fish"
     alt: "New School Foods salmon looks, cooks, tastes, and flakes like ordinary fish"

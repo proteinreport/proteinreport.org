@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [1269, 1332, 6149, 6281]
 featured_image: "HERO_Bond_Pre-Dried_Chicken Protein_V1.jpg"
+featured_image_caption: "Bond's cultured chicken protein chunks (after filtration, before drying). Bond Pet Foods."
 additional_images:
-  - src: "HERO_Bond_Pre-Dried_Chicken Protein_V1.jpg"
-    caption: "Bond's cultured chicken protein chunks (after filtration, before drying). Bond Pet Foods."
-    alt: "Bond's cultured chicken protein chunks (after filtration, before drying). Bond Pet Foods."
-    title: "Bond's cultured chicken protein chunks (after filtration, before drying). Bond Pet Foods."
   - src: "Bond_Inga.jpg"
     caption: "Inga is alive and well at a farm in Lindsborg, Kansas. Bond Pet Foods."
     alt: "Inga is alive and well at a farm in Lindsborg, Kansas. Bond Pet Foods."

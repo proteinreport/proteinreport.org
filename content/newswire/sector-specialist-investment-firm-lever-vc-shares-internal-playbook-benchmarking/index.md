@@ -13,11 +13,8 @@ regions: [International]
 flags: [Press Release]
 directory: [1332]
 featured_image: "lvervc_whitepaper.JPG"
+featured_image_caption: ""
 additional_images:
-  - src: "lvervc_whitepaper.JPG"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

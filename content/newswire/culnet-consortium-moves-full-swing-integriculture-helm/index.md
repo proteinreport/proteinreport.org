@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release]
 directory: [5818]
 featured_image: "logos_0.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "logos_0.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "CulNet.jpg"
     caption: ""
     alt: ""

@@ -13,11 +13,8 @@ regions: [Oceania]
 flags: [Press Release]
 directory: [698, 7131]
 featured_image: "Screen Shot 2022-08-01 at 11.47.05 am.png"
+featured_image_caption: ""
 additional_images:
-  - src: "Screen Shot 2022-08-01 at 11.47.05 am.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

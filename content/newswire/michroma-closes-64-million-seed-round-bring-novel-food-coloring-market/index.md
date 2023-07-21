@@ -13,11 +13,8 @@ regions: [Latin America & Caribbean, US & Canada]
 flags: [Press Release, Investments]
 directory: [11244]
 featured_image: "Michroma - Red 2.jpg"
+featured_image_caption: "Michroma - Red"
 additional_images:
-  - src: "Michroma - Red 2.jpg"
-    caption: "Michroma - Red"
-    alt: "Michroma - Red"
-    title: "Michroma - Red"
   - src: "Michroma - Fungal Colonies.jpg"
     caption: "Michroma - Fungal Colonies"
     alt: "Michroma - Fungal Colonies"

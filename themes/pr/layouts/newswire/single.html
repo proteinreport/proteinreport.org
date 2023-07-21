@@ -9,25 +9,20 @@
     </div>
   </div>
   <div class="flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-x-4 border-black">
-    {{ $image := .Resources.GetMatch .Params.featured_image -}}
-    {{ if $image -}}
-    <div class="w-full md:max-w-[66.6%] border-black relative">
-      <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video w-full object-cover">
+    <div class="w-full flex flex-col md:max-w-[66.6%] border-black relative">
+      {{ $image := .Resources.GetMatch .Params.featured_image -}}
+      {{ if $image -}}
+        <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video w-full object-cover">
+      {{ end -}}
       {{ partial "newswire/flags.html" . }}
-    </div>
-    {{ end -}}
-    <aside class="w-full md:max-w-[33.3%]">
-      {{ partial "newswire/company.html" . }}
-      {{ partial "newswire/categories.html" . }}
-    </aside>
-  </div>
-  <div class="flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-x-4 border-b-4 border-black">
-    <div class="w-full md:w-2/3 px-4 py-4 md:px-24">
-      <div class="prose prose-xl">
+      <div class="w-full px-4 py-4 md:px-24 prose-xl">
         {{ .Content }}
       </div>
     </div>
-    <aside class="w-full md:w-1/3 md:h-screen md:sticky md:top-0">
+    <aside class="w-full md:max-w-[33.3%]">
+      {{ partial "newswire/company.html" . }}
+      {{ partial "newswire/categories.html" . }}
+      {{ partial "newswire/additional_images.html" . }}
       {{ partial "newswire/latest.html" . }}
     </aside>
   </div>

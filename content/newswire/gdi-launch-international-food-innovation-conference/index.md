@@ -14,11 +14,8 @@ regions: [Europe, International]
 flags: [Press Release]
 directory: [1170, 1212, 6280]
 featured_image: "synthetic-meat_cooke_1.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "synthetic-meat_cooke_1.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

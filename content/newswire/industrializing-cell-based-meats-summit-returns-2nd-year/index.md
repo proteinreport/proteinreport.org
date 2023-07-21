@@ -12,11 +12,8 @@ regions: [NA]
 flags: [Press Release]
 directory: [700, 1170, 1268, 5828, 5829, 5853]
 featured_image: "brochure.png"
+featured_image_caption: ""
 additional_images:
-  - src: "brochure.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release]
 directory: [8967]
 featured_image: "Biocatalysts-Ltd_Apr-21_EMP-Full-Facility.jpg"
+featured_image_caption: "Biocatalysts Ltd Enzyme Manufacturing Facility"
 additional_images:
-  - src: "Biocatalysts-Ltd_Apr-21_EMP-Full-Facility.jpg"
-    caption: "Biocatalysts Ltd Enzyme Manufacturing Facility"
-    alt: "Biocatalysts Ltd Enzyme Manufacturing Facility"
-    title: "Biocatalysts Ltd Enzyme Manufacturing Facility"
 draft: false
 pinned: false
 homepage: false

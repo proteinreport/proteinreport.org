@@ -13,11 +13,8 @@ regions: [Middle East]
 flags: [Video, Press Release]
 directory: [5817]
 featured_image: "Production-To-Fork Cultured Meat Manufacturing Facility.jpg.jpg"
+featured_image_caption: "Production-To-Fork Cultured Meat Manufacturing Facility"
 additional_images:
-  - src: "Production-To-Fork Cultured Meat Manufacturing Facility.jpg.jpg"
-    caption: "Production-To-Fork Cultured Meat Manufacturing Facility"
-    alt: "Production-To-Fork Cultured Meat Manufacturing Facility"
-    title: "Production-To-Fork Cultured Meat Manufacturing Facility"
   - src: "Vietnamese Cultured Chicken Spring Rolls_0.jpg"
     caption: "Vietnamese Cultured Chicken Spring Rolls"
     alt: "Vietnamese Cultured Chicken Spring Rolls"

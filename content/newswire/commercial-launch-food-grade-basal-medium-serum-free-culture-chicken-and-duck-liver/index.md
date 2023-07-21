@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release]
 directory: [5818]
 featured_image: "integriculture.png"
+featured_image_caption: ""
 additional_images:
-  - src: "integriculture.png"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "liver_cell_growth_curve.JPG"
     caption: "Growth curve of liver cells"
     alt: "Growth curve of liver cells"

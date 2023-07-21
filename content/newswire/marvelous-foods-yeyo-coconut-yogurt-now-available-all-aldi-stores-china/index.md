@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release]
 directory: [10474]
 featured_image: "Yeyo_ALDI_shelf.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Yeyo_ALDI_shelf.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "three_flavors_of_yeyo.jpg"
     caption: ""
     alt: ""

@@ -13,11 +13,8 @@ regions: [Asia, US & Canada]
 flags: [Press Release]
 directory: [7556, 7964]
 featured_image: "PRplaceholder.png"
+featured_image_caption: ""
 additional_images:
-  - src: "PRplaceholder.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

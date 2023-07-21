@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [1262]
 featured_image: "admap.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "admap.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

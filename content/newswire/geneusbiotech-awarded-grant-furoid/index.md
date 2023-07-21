@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [10726]
 featured_image: "geneus_0.png"
+featured_image_caption: ""
 additional_images:
-  - src: "geneus_0.png"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "IMG_3287.jpg"
     caption: "MARIYA ZAKURNAEVA-KUNZ , CEO FUROID™️ and Aristotle FUROID™️ CeO (with minor e) aka. Chief entertainment Officer- both wearing fur in 2016"
     alt: "MARIYA ZAKURNAEVA-KUNZ , CEO FUROID™️ and Aristotle FUROID™️ CeO (with minor e) aka. Chief entertainment Officer- both wearing fur in 2016"

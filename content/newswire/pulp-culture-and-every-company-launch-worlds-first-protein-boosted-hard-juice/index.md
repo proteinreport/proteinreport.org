@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [1299]
 featured_image: "TDAVIS_Every072 copy.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "TDAVIS_Every072 copy.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

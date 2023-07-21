@@ -13,11 +13,8 @@ regions: [Europe, US & Canada]
 flags: [Press Release]
 directory: [5842]
 featured_image: "Team2.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Team2.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Scientists at hoods.jpg"
     caption: ""
     alt: ""

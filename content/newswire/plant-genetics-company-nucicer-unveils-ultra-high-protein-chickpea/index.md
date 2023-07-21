@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release, New Products]
 directory: [10188]
 featured_image: "Diverse Chickpea Material - NuCicer.JPG"
+featured_image_caption: "Diverse Chickpea Material - NuCicer"
 additional_images:
-  - src: "Diverse Chickpea Material - NuCicer.JPG"
-    caption: "Diverse Chickpea Material - NuCicer"
-    alt: "Diverse Chickpea Material - NuCicer"
-    title: "Diverse Chickpea Material - NuCicer"
   - src: "KathrynCook - NuCicer CEO_0.jpeg"
     caption: "Kathryn Cook - NuCicer CEO"
     alt: "Kathryn Cook - NuCicer CEO"

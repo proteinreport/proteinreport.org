@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release]
 directory: [234]
 featured_image: "Future Food Studio 植物料理创意厨房 by JUST-Logo-Horizontal-01.png"
+featured_image_caption: ""
 additional_images:
-  - src: "Future Food Studio 植物料理创意厨房 by JUST-Logo-Horizontal-01.png"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "JUST Egg 植物蛋 Omelet 蛋饼 by Chris Zhu 朱诲.jpeg"
     caption: "JUST Egg 植物蛋 Omelet 蛋饼 by Chris Zhu 朱诲"
     alt: "JUST Egg 植物蛋 Omelet 蛋饼 by Chris Zhu 朱诲"

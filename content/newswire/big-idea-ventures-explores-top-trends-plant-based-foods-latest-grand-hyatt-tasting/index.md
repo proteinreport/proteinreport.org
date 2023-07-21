@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release]
 directory: [234, 5812, 6600, 8756]
 featured_image: "DSC00441.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "DSC00441.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "DSC00508.jpg"
     caption: ""
     alt: ""

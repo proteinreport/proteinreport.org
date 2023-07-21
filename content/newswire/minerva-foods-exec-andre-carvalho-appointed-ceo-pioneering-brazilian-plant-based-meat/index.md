@@ -13,11 +13,8 @@ regions: [Latin America & Caribbean]
 flags: [Press Release]
 directory: [694, 695, 1332, 8602]
 featured_image: "André.jpeg"
+featured_image_caption: ""
 additional_images:
-  - src: "André.jpeg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

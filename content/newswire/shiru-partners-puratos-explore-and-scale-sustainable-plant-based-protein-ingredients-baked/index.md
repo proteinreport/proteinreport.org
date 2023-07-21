@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [7174]
 featured_image: "Shiru partners with Puratos.png"
+featured_image_caption: "Baked bread with veggies, shown with Shiru and Puratos logos"
 additional_images:
-  - src: "Shiru partners with Puratos.png"
-    caption: "Baked bread with veggies, shown with Shiru and Puratos logos"
-    alt: "Baked bread with veggies, shown with Shiru and Puratos logos"
-    title: "Baked bread with veggies, shown with Shiru and Puratos logos"
   - src: "shiru logo 1200 x 628.png"
     caption: "Shiru logo"
     alt: "Shiru logo"

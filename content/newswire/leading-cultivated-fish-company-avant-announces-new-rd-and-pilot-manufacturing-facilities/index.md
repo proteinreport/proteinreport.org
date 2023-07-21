@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release]
 directory: [5810]
 featured_image: "SG_HK_edit_2.jpg"
+featured_image_caption: "Avant will operate in Singapore and Hong Kong"
 additional_images:
-  - src: "SG_HK_edit_2.jpg"
-    caption: "Avant will operate in Singapore and Hong Kong"
-    alt: "Avant will operate in Singapore and Hong Kong"
-    title: "Avant will operate in Singapore and Hong Kong"
 draft: false
 pinned: false
 homepage: false

@@ -13,11 +13,8 @@ regions: [International]
 flags: [Press Release]
 directory: [10963]
 featured_image: "Mylkcubator Image.png"
+featured_image_caption: ""
 additional_images:
-  - src: "Mylkcubator Image.png"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

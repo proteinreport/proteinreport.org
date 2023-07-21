@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [234, 5831, 7679, 7856]
 featured_image: "Atlantic salmon in Petri dish_copyright_Bluu GmbH 2023_photo_Anna Brauns.jpg"
+featured_image_caption: "Atlantic salmon in Petri dish. Copyright Bluu GmbH 2023. Photo_Anna Brauns."
 additional_images:
-  - src: "Atlantic salmon in Petri dish_copyright_Bluu GmbH 2023_photo_Anna Brauns.jpg"
-    caption: "Atlantic salmon in Petri dish. Copyright Bluu GmbH 2023. Photo_Anna Brauns."
-    alt: "Atlantic salmon in Petri dish. Copyright Bluu GmbH 2023. Photo_Anna Brauns."
-    title: "Atlantic salmon in Petri dish. Copyright Bluu GmbH 2023. Photo_Anna Brauns."
   - src: "BLUU’s cultivated fish balls made from trout cells_copyright_Bluu GmbH 2023_photo_Anna Brauns.jpg"
     caption: "BLUU’s cultivated fish balls made from trout cells. Copyright Bluu GmbH 2023. Photo by Anna Brauns."
     alt: "BLUU’s cultivated fish balls made from trout cells. Copyright Bluu GmbH 2023. Photo by Anna Brauns."

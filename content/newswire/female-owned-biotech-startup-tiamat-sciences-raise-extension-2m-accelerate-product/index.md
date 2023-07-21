@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [700, 7241, 8229]
 featured_image: "Tiamat_team.jpg"
+featured_image_caption: "Tiamat Sciences team."
 additional_images:
-  - src: "Tiamat_team.jpg"
-    caption: "Tiamat Sciences team."
-    alt: "Tiamat Sciences team."
-    title: "Tiamat Sciences team."
   - src: "DWP00397.jpg"
     caption: "N. benthamiana, growth factor factory."
     alt: "N. benthamiana, growth factor factory."

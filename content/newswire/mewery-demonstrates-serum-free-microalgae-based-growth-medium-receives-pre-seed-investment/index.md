@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [6600, 10908]
 featured_image: "future_product_line.jpg"
+featured_image_caption: "Mewery future product design mockup"
 additional_images:
-  - src: "future_product_line.jpg"
-    caption: "Mewery future product design mockup"
-    alt: "Mewery future product design mockup"
-    title: "Mewery future product design mockup"
   - src: "Mewery 1.jpg"
     caption: ""
     alt: ""

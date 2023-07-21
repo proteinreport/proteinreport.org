@@ -14,11 +14,8 @@ regions: [International]
 flags: [Press Release]
 directory: [NA]
 featured_image: "Future Food-Tech - Innovation Challenge - Kraft Heinz -.png"
+featured_image_caption: ""
 additional_images:
-  - src: "Future Food-Tech - Innovation Challenge - Kraft Heinz -.png"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Future Food-Tech - Innovation Challenge - Kraft Heinz - Webinar -.png"
     caption: ""
     alt: ""

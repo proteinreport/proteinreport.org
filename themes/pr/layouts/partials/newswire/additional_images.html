@@ -1,0 +1,12 @@
+{{ $i := "" }}
+{{ with .Params.additional_images }}
+    <h3 class="text-lg m-2 font-bold">Additional images:</h3>
+    <div class="grid grid-cols-2 gap-2 mx-2 mb-2">
+    {{ range index . }}
+        {{ $i = $.Resources.Get .src }}
+        {{ with $i }}
+            <img src="{{ .RelPermalink }}" class="w-full aspect-video object-cover" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        {{ end }}
+    {{ end }}
+    </div>
+{{ end }}

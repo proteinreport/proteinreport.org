@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [694, 695, 705, 6280, 8229, 8360]
 featured_image: "Hoxton Farms 1.jpg"
+featured_image_caption: "Ciara Cronin-Albert (left) Max Jamilly (middle-left) Katherine Uhlman (middle-right) Ed Steele (right). Photo credit Donna Ford."
 additional_images:
-  - src: "Hoxton Farms 1.jpg"
-    caption: "Ciara Cronin-Albert (left) Max Jamilly (middle-left) Katherine Uhlman (middle-right) Ed Steele (right). Photo credit Donna Ford."
-    alt: "Ciara Cronin-Albert (left) Max Jamilly (middle-left) Katherine Uhlman (middle-right) Ed Steele (right). Photo credit Donna Ford."
-    title: "Ciara Cronin-Albert (left) Max Jamilly (middle-left) Katherine Uhlman (middle-right) Ed Steele (right). Photo credit Donna Ford."
   - src: "Hoxton Farms 2.jpg"
     caption: "Hoxton Farms Chief of Staff Ciara Cronin-Albert (left) Co-Founders Ed Steele (middle) Max Jamilly (right). Photo credit Donna Ford."
     alt: "Hoxton Farms Chief of Staff Ciara Cronin-Albert (left) Co-Founders Ed Steele (middle) Max Jamilly (right). Photo credit Donna Ford."

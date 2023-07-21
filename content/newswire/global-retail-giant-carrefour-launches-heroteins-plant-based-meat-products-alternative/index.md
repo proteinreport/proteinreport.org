@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release, New Products]
 directory: [8412]
 featured_image: "1.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "1.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "2.jpg"
     caption: ""
     alt: ""

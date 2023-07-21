@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release]
 directory: [7856]
 featured_image: "Bluu Seafood.jpg"
+featured_image_caption: "Dr Duong T. Nguyen, Bluu’s Director of Research and Bioprocess Innovation, and Dr. Karen Wohlers, Scientist Process Development, cultivating fish cells in one of the company’s stirred-tank bioreactors. Source: Bluu GmbH / Anna Krampitz."
 additional_images:
-  - src: "Bluu Seafood.jpg"
-    caption: "Dr Duong T. Nguyen, Bluu’s Director of Research and Bioprocess Innovation, and Dr. Karen Wohlers, Scientist Process Development, cultivating fish cells in one of the company’s stirred-tank bioreactors. Source: Bluu GmbH / Anna Krampitz."
-    alt: "Dr Duong T. Nguyen, Bluu’s Director of Research and Bioprocess Innovation, and Dr. Karen Wohlers, Scientist Process Development, cultivating fish cells in one of the company’s stirred-tank bioreactors. Source: Bluu GmbH / Anna Krampitz."
-    title: "Dr Duong T. Nguyen, Bluu’s Director of Research and Bioprocess Innovation, and Dr. Karen Wohlers, Scientist Process Development, cultivating fish cells in one of the company’s stirred-tank bioreactors. Source: Bluu GmbH / Anna Krampitz."
 draft: false
 pinned: false
 homepage: false

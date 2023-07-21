@@ -13,11 +13,8 @@ regions: [Middle East]
 flags: [Press Release]
 directory: [7654]
 featured_image: "20220720_2006411.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "20220720_2006411.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "20220721_0034571.jpg"
     caption: ""
     alt: ""

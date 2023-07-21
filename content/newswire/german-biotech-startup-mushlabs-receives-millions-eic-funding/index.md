@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [5660]
 featured_image: "Mushlabs Founders_Mazen Rizk_Cathy Preißer_Thibault Godard (1).jpg"
+featured_image_caption: "Mushlabs founders (from left): Mazen Rizk, Cathy Preißer, Thibault Godard."
 additional_images:
-  - src: "Mushlabs Founders_Mazen Rizk_Cathy Preißer_Thibault Godard (1).jpg"
-    caption: "Mushlabs founders (from left): Mazen Rizk, Cathy Preißer, Thibault Godard."
-    alt: "Mushlabs founders (from left): Mazen Rizk, Cathy Preißer, Thibault Godard."
-    title: "Mushlabs founders (from left): Mazen Rizk, Cathy Preißer, Thibault Godard."
   - src: "Mushlabs CEO and Founder_Dr. Mazen Rizk.jpg"
     caption: "Mushlabs CEO and founder, Dr. Mazen Rizk"
     alt: "Mushlabs CEO and founder, Dr. Mazen Rizk"

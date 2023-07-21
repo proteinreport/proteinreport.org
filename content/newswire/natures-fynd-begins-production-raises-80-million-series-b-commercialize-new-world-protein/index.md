@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release, Investments]
 directory: [5861]
 featured_image: "CEO Thomas Jonas 1.jpg"
+featured_image_caption: "Nature's Fynd CEO Thomas Jonas"
 additional_images:
-  - src: "CEO Thomas Jonas 1.jpg"
-    caption: "Nature's Fynd CEO Thomas Jonas"
-    alt: "Nature's Fynd CEO Thomas Jonas"
-    title: "Nature's Fynd CEO Thomas Jonas"
 draft: false
 pinned: false
 homepage: false

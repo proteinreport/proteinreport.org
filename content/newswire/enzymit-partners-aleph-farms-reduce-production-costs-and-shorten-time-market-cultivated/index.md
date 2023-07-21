@@ -14,11 +14,8 @@ regions: [Middle East]
 flags: [Press Release]
 directory: [5816]
 featured_image: "Aleph Cuts.jpg"
+featured_image_caption: "Image credit: Aleph Cuts"
 additional_images:
-  - src: "Aleph Cuts.jpg"
-    caption: "Image credit: Aleph Cuts"
-    alt: "Image credit: Aleph Cuts"
-    title: "Image credit: Aleph Cuts"
   - src: "Aleph Cuts (5).jpg"
     caption: "Image credit: Aleph Cuts"
     alt: "Image credit: Aleph Cuts"

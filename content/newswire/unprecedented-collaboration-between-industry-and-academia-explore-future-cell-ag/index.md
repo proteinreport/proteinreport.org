@@ -13,11 +13,8 @@ regions: [US & Canada]
 flags: [Press Release]
 directory: [697, 699, 836, 1249, 1299, 5824, 5827, 6178, 10023]
 featured_image: "ct.png"
+featured_image_caption: ""
 additional_images:
-  - src: "ct.png"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "2_0.png"
     caption: ""
     alt: ""

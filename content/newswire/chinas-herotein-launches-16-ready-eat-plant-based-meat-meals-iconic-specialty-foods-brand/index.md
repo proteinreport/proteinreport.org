@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release, New Products]
 directory: [5827, 8412]
 featured_image: "HEROTEIN_Logo_Square_White-bg.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "HEROTEIN_Logo_Square_White-bg.jpg"
-    caption: ""
-    alt: ""
-    title: ""
 draft: false
 pinned: false
 homepage: false

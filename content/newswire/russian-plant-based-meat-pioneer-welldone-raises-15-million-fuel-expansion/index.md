@@ -13,11 +13,8 @@ regions: [Europe]
 flags: [Press Release, Investments]
 directory: [1332, 9334]
 featured_image: "Patty with mashed potato.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Patty with mashed potato.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Patty and mash 2.jpg"
     caption: ""
     alt: ""

@@ -14,11 +14,8 @@ regions: [International]
 flags: [Press Release]
 directory: [1298, 5703, 5791, 5842, 5893, 5948, 6861, 6916, 7119, 8802]
 featured_image: "FFTP21 -  Meet The Start-Ups Headshots_0.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "FFTP21 -  Meet The Start-Ups Headshots_0.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "FFTP21 - Meet the Start-Ups_0.png"
     caption: ""
     alt: ""

@@ -13,11 +13,8 @@ regions: [Asia]
 flags: [Press Release]
 directory: [234]
 featured_image: "Just-Egg-Jiangbing-Day-1-33.jpg"
+featured_image_caption: ""
 additional_images:
-  - src: "Just-Egg-Jiangbing-Day-1-33.jpg"
-    caption: ""
-    alt: ""
-    title: ""
   - src: "Just-Egg-Tour-5.jpg"
     caption: ""
     alt: ""
