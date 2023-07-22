@@ -10,7 +10,7 @@ topics: [Business]
 regions: [Asia]
 featured_image: "AFTEA_Logo.png"
 banner_image: "aftea.jpg"
-online: FALSE
+online: true
 start_date: 2023-10-31
 end_date: 2023-11-02
 country: Singapore

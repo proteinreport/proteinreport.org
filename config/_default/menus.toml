@@ -1,7 +1,31 @@
+#[[main]]
+#  name = "GitHub"
+#  url = "https://github.com/h-enk/hyas"
+#  weight = 10
+
 [[main]]
-  name = "GitHub"
-  url = "https://github.com/h-enk/hyas"
+  name = "Agriculture & Plant Protein"
   weight = 10
+
+[[main]]
+  name = "Fungiculture & Mycoprotein"
+  weight = 20
+
+[[main]]
+  name = "Algaculture & Algal Protein"
+  weight = 30
+
+[[main]]
+  name = "Microbial & Recombinant Protein"
+  weight = 40
+
+[[main]]
+  name = "Cell Culture & Tissue Engineering"
+  weight = 50
+
+[[main]]
+  name = "Livestock & Animals"
+  weight = 60
 
 [[social]]
   name = "LinkedIn"
