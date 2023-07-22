@@ -22,9 +22,9 @@
           </div>
       {{ end }}
   </div>
-  <div class="flex flex-wrap  justify-center">
+  <div class="w-full">
     <div class="md:w-full pr-4 pl-4 lg:w-3/4 pr-4 pl-4">
-      {{ template "_internal/pagination.html" . }}    
+      {{ partial "main/pagination.html" (dict "page" . "format" "terse") }}    
     </div>
   </div>
 </section>
