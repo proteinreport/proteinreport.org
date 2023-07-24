@@ -12,7 +12,7 @@ regions: [US & Canada]
 flags: [Interview, Video, Featured]
 directory: [234, 694, 695, 5816, 7964]
 contributors: [8172]
-featured_image: "NA"
+featured_image: ""
 cover_image: "NA"
 draft: false
 pinned: false

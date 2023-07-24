@@ -1,0 +1,25 @@
+<div class="w-full flex flex-col flex-wrap gap-4 pb-2 p-2">
+  {{ $url := .Params.website }}
+  {{ $u := urls.Parse $url }}
+  <a href="{{ .Params.website }}" target="_blank" class="w-full p-4 border-2 text-2xl text-center">{{ $u.Hostname }}</a>
+  <div class="flex flex-row gap-2 w-full">
+    {{ if .Params.linkedin -}}
+      <a class="border-2 p-2" target="_blank" href="{{ .Params.linkedin }}">LinkedIn</a>
+    {{ end -}}
+    {{ if .Params.twitter -}}
+      <a class="border-2 p-2" target="_blank" href="{{ .Params.twitter }}">Twitter</a>
+    {{ end -}}
+    {{ if .Params.instagram -}}
+      <a class="border-2 p-2" target="_blank" href="{{ .Params.instagram }}">Instagram</a>
+    {{ end -}}
+    {{ if .Params.facebook -}}
+      <a class="border-2 p-2" target="_blank" href="{{ .Params.facebook }}">Facebook</a>
+    {{ end -}}
+    {{ if .Params.youtube -}}
+      <a class="border-2 p-2" target="_blank" href="{{ .Params.youtube }}">Youtube</a>
+    {{ end -}}
+    {{ if .Params.crunchbase -}}
+      <a class="border-2 p-2" target="_blank" href="{{ .Params.crunchbase }}">Crunchbase</a>
+    {{ end -}}
+  </div>
+</div>
