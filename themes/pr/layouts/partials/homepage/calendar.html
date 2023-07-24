@@ -10,7 +10,10 @@
                     <p class="text-xl border-b-2">{{ .Params.start_date | time.Format "Jan" | upper }}</p>
                     <p class="text-6xl font-bold">{{ .Params.start_date | time.Format "2" }}</p>
                 </div>
-                {{ partial "event/location.html" . }}
+                <div class="flex flex-col w-full md:w-2/3 gap-4 p-4">
+                    <a class="w-full" href="{{ .RelPermalink }}"><h2 class="text-3xl">{{ .Params.title }}</h2></a>
+                    {{ partial "event/location.html" . }}
+                </div>
                 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
                 <div class="flex items-center w-full md:w-1/6">
                     <img src="{{ $image.RelPermalink }}" alt="" class="aspect-video w-full p-2 object-contain">
