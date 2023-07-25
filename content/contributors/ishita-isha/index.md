@@ -13,6 +13,7 @@ instagram:
 facebook: 
 youtube: 
 spotify: 
+flags: [Exclude, Rising Talent, Student Essay Contest]
 draft: false
 pinned: false
 homepage: false

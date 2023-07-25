@@ -13,6 +13,7 @@ instagram: https://www.instagram.com/proteinreport/
 facebook: https://www.facebook.com/proteinreport
 youtube: https://www.youtube.com/channel/UCBmV_m6k_2Vft6yx39NIGFg
 spotify: 
+flags: [Exclude]
 draft: false
 pinned: false
 homepage: false

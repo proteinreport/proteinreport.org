@@ -57,6 +57,7 @@ for (row in 1:nrow(import_data)) {
   write(paste("facebook: ",import_data[row,]$facebook, sep = ""), file_path, append = T)
   write(paste("youtube: ",import_data[row,]$youtube, sep = ""), file_path, append = T)
   write(paste("spotify: ",import_data[row,]$spotify, sep = ""), file_path, append = T)
+  write(paste("flags: [",import_data[row,]$flags, "]", sep = ""), file_path, append = T)
   #write(paste("images:", sep=""), file_path, append = T)
   #write(paste("  - src: ", shQuote(import_data[row,]$images),
   #            "\n    caption: ", shQuote(import_data[row,]$image_caption),

@@ -13,6 +13,7 @@ instagram: https://www.instagram.com/emiliano.bio/
 facebook: 
 youtube: 
 spotify: 
+flags: []
 draft: false
 pinned: false
 homepage: false

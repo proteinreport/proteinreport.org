@@ -13,6 +13,7 @@ instagram:
 facebook: 
 youtube: 
 spotify: https://open.spotify.com/show/0CAm21xCJyUD1fi8kfCb8D?si=Mp2JqrnDQDyCW5O_ApX4-w
+flags: []
 draft: false
 pinned: false
 homepage: false

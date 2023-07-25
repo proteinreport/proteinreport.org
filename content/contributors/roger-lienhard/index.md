@@ -13,6 +13,7 @@ instagram:
 facebook: 
 youtube: 
 spotify: 
+flags: [Exclude]
 draft: false
 pinned: false
 homepage: false

@@ -13,6 +13,7 @@ instagram:
 facebook: https://www.facebook.com/yeastgenomix/
 youtube: 
 spotify: 
+flags: []
 draft: false
 pinned: false
 homepage: false

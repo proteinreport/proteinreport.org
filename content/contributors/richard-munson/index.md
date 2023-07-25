@@ -13,6 +13,7 @@ instagram:
 facebook: https://www.facebook.com/dick.munson.9
 youtube: 
 spotify: 
+flags: []
 draft: false
 pinned: false
 homepage: false
