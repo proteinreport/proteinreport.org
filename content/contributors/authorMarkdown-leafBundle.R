@@ -12,7 +12,9 @@ setwd(here("content/contributors"))
 # read drupal data export into dataframe
 import_data <- read_csv("authors.csv") %>%
   as_tibble()
-#import_data[is.na(import_data)] = ""
+# remove missing values
+#import_data <- replace(import_data, is.na(import_data), "")
+import_data[is.na(import_data)] = ""
 # fix date formatting
 import_data$date <- as.character(import_data$date)
 # decode apostrophe across entire data frame
@@ -37,6 +39,7 @@ for (row in 1:nrow(import_data)) {
   # get body
   content <- select(import_data[row,], body) %>%
     as.character()
+  content <- pandoc::pandoc_convert(text = content, from="html", to="markdown")
   # write to file
   write("---", file_path)
   #write(fm, file_path, append = T)
@@ -47,6 +50,13 @@ for (row in 1:nrow(import_data)) {
   write(paste("description: ", shQuote(import_data[row,]$description), sep = ""), file_path, append = T)
   write(paste("excerpt: ", shQuote(import_data[row,]$description), sep = ""), file_path, append = T)
   write(paste("featured_image: ", shQuote(import_data[row,]$images), sep = ""), file_path, append = T)
+  write(paste("website: ",import_data[row,]$website, sep = ""), file_path, append = T)
+  write(paste("linkedin: ",import_data[row,]$linkedin, sep = ""), file_path, append = T)
+  write(paste("twitter: ",import_data[row,]$twitter, sep = ""), file_path, append = T)
+  write(paste("instagram: ",import_data[row,]$instagram, sep = ""), file_path, append = T)
+  write(paste("facebook: ",import_data[row,]$facebook, sep = ""), file_path, append = T)
+  write(paste("youtube: ",import_data[row,]$youtube, sep = ""), file_path, append = T)
+  write(paste("spotify: ",import_data[row,]$spotify, sep = ""), file_path, append = T)
   #write(paste("images:", sep=""), file_path, append = T)
   #write(paste("  - src: ", shQuote(import_data[row,]$images),
   #            "\n    caption: ", shQuote(import_data[row,]$image_caption),

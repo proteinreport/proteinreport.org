@@ -6,9 +6,18 @@ slug: /jim-mellon
 description: "Jim Mellon is a British investor and entrepreneur. He holds significant assets in a variety of sectors including life sciences and cellular agriculture through his private investment company, the Burnbrae Group."
 excerpt: "Jim Mellon is a British investor and entrepreneur. He holds significant assets in a variety of sectors including life sciences and cellular agriculture through his private investment company, the Burnbrae Group."
 featured_image: "jim mellon.jpg"
+website: 
+linkedin: https://www.linkedin.com/company/jim-mellon-books/
+twitter: https://twitter.com/JimMellonBooks
+instagram: 
+facebook: 
+youtube: 
+spotify: 
 draft: false
 pinned: false
 homepage: false
 uuid: 8280
 ---
-<p>Jim Mellon is a British investor and entrepreneur. He holds significant assets in a variety of sectors including life sciences and cellular agriculture through his private investment company, the Burnbrae Group.</p>
+Jim Mellon is a British investor and entrepreneur. He holds significant
+assets in a variety of sectors including life sciences and cellular
+agriculture through his private investment company, the Burnbrae Group.

@@ -6,9 +6,17 @@ slug: /clement-carlier
 description: "Clément Carlier is the COO and co-founder of Tiamat Sciences."
 excerpt: "Clément Carlier is the COO and co-founder of Tiamat Sciences."
 featured_image: "cc.jpg"
+website: 
+linkedin: https://www.linkedin.com/in/clement-carlier/
+twitter: https://twitter.com/ClemenTruc
+instagram: 
+facebook: 
+youtube: 
+spotify: 
 draft: false
 pinned: false
 homepage: false
 uuid: 8108
 ---
-<p>Clément Carlier is the COO and co-founder of <a href="https://www.proteinreport.org/directory/tiamat-sciences">Tiamat Sciences</a>.</p>
+Clément Carlier is the COO and co-founder of [Tiamat
+Sciences](https://www.proteinreport.org/directory/tiamat-sciences).
