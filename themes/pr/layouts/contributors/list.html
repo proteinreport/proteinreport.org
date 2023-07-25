@@ -7,13 +7,13 @@
     <div class="grid grid-cols-4 gap-4 p-4 w-full 2xl:border-x-2">
       {{ range .Data.Pages -}}
         {{ if not (in .Params.flags "Exclude")}}
-          <div class="w-full flex flex-col justify-center items-center">
+          <a href="{{ .RelPermalink }}" class="w-full flex flex-col justify-center items-center">
             {{ $image := .Resources.GetMatch .Params.featured_image -}}
             {{ if $image -}}
               <img src="{{ $image.RelPermalink }}" alt="" class="aspect-square w-full border-4 object-contain">
             {{ end -}}
-            <a class="w-full text-center" href="{{ .RelPermalink }}"><h2 class="text-2xl">{{ .Params.title }}</h2></a>
-          </div>
+            <h2 class="text-2xl">{{ .Params.title }}</h2>
+          </a>
         {{ end }}
       {{ end }}
     </div>
