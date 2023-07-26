@@ -13,6 +13,7 @@ flags: []
 featured_image: "ipcc.JPG"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/
 draft: false
 pinned: false
 homepage: false

@@ -13,6 +13,7 @@ flags: []
 featured_image: "cover_1.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: https://eiuperspectives.economist.com/plantbasedproteins
 draft: false
 pinned: false
 homepage: false

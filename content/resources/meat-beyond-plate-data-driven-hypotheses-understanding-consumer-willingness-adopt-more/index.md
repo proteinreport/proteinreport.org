@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.mendeley.com/catalogue/meat-beyond-plate-datadriven-hypotheses-understanding-consumer-willingness-adopt-more-plantbased-die/
 draft: false
 pinned: false
 homepage: false

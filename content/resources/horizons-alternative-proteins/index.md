@@ -13,6 +13,7 @@ flags: []
 featured_image: "Horizons - Alt Proteins Cover photo (1920x1080 ratio)-1.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: https://go.crbgroup.com/horizons-alt-protein
 draft: false
 pinned: false
 homepage: false

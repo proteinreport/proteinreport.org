@@ -13,6 +13,7 @@ flags: []
 featured_image: "report cover.jpg"
 featured_image_caption: "Asia Cropportunities report cover"
 resource_type: [industry]
+link: https://www.gfi-apac.org/resources/asian-cropportunities/
 draft: false
 pinned: false
 homepage: false

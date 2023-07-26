@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.frontiersin.org/articles/10.3389/fsufs.2023.1023057/full
 draft: false
 pinned: false
 homepage: false

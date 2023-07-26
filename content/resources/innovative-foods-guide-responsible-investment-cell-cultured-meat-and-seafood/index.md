@@ -13,6 +13,7 @@ flags: []
 featured_image: "Food_featured_0.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: https://business.edf.org/insights/innovative-foods-a-guide-to-responsible-investment-in-cell-cultured-meat-and-seafood/
 draft: false
 pinned: false
 homepage: false

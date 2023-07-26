@@ -13,6 +13,7 @@ flags: []
 featured_image: "rabobank.JPG"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: https://research.rabobank.com/far/en/sectors/animal-protein/world-seafood-map-2022-seafood-trade-keeps-growing-from-strength-to-strength.html
 draft: false
 pinned: false
 homepage: false

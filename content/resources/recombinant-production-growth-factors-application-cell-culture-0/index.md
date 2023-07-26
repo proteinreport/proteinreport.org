@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.cell.com/iscience/fulltext/S2589-0042(22)01326-8
 draft: false
 pinned: false
 homepage: false

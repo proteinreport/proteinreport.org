@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.mendeley.com/catalogue/reducing-meat-consumption-developed-transition-countries-counter-climate-change-biodiversity-loss-re-1/
 draft: false
 pinned: false
 homepage: false

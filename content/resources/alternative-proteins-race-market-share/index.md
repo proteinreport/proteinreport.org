@@ -13,6 +13,7 @@ flags: []
 featured_image: "Alternative-proteins-1536x1536_0.jpg"
 featured_image_caption: "alt proteins"
 resource_type: [industry]
+link: https://www.mckinsey.com/industries/agriculture/our-insights/alternative-proteins-the-race-for-market-share-is-on
 draft: false
 pinned: false
 homepage: false

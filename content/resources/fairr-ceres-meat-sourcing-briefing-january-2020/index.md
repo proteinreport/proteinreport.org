@@ -13,6 +13,7 @@ flags: []
 featured_image: "fairr.jpg"
 featured_image_caption: "fair image"
 resource_type: [industry]
+link: https://www.fairr.org/article/global-investor-engagement-on-meat-sourcing/
 draft: false
 pinned: false
 homepage: false

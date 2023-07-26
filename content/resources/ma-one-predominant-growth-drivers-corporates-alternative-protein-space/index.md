@@ -13,6 +13,7 @@ flags: []
 featured_image: "cover.png"
 featured_image_caption: "Report cover"
 resource_type: [industry]
+link: https://brightgreenpartners.com/resource/ma-corporates-alt-protein/
 draft: false
 pinned: false
 homepage: false

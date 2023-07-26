@@ -13,6 +13,7 @@ flags: []
 featured_image: "thumbnail_image001.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: https://www.edisongroup.com/investment-themes/meat-alternatives-an-investment-analysis/28097/
 draft: false
 pinned: false
 homepage: false

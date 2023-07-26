@@ -13,6 +13,7 @@ flags: []
 featured_image: "cover_0.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: https://www.ey.com/en_us/food-system-reimagined/protein-reimagined-challenges-and-opportunities-in-the-alternative-meat-industry
 draft: false
 pinned: false
 homepage: false

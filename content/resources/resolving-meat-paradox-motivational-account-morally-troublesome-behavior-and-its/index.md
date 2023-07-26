@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://journals.sagepub.com/doi/10.1177/1088868316647562
 draft: false
 pinned: false
 homepage: false

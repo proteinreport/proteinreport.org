@@ -13,6 +13,7 @@ flags: []
 featured_image: "dairy-consumers.png"
 featured_image_caption: "cover"
 resource_type: [industry]
+link: https://foodinsight.org/consumer-research-dairy/
 draft: false
 pinned: false
 homepage: false

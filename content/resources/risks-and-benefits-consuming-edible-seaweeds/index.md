@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6551690/
 draft: false
 pinned: false
 homepage: false

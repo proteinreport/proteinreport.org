@@ -13,6 +13,7 @@ flags: []
 featured_image: "cover.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: https://www.gfi.org/industry
 draft: false
 pinned: false
 homepage: false

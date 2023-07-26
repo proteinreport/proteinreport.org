@@ -13,6 +13,7 @@ flags: []
 featured_image: "home_hero_1000x600_bd.png"
 featured_image_caption: "null"
 resource_type: [industry]
+link: https://wrr-food.wri.org/home
 draft: false
 pinned: false
 homepage: false

@@ -13,6 +13,7 @@ flags: []
 featured_image: "Fermentation-Tanks.jpg"
 featured_image_caption: "null"
 resource_type: [industry]
+link: https://www.rethinkx.com/food-and-agriculture
 draft: false
 pinned: false
 homepage: false

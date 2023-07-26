@@ -13,6 +13,7 @@ flags: []
 featured_image: "Annotation 2020-02-25 165509.png"
 featured_image_caption: "GFI 2019 year in review report cover"
 resource_type: [industry]
+link: https://www.gfi.org/2019
 draft: false
 pinned: false
 homepage: false

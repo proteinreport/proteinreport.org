@@ -13,6 +13,7 @@ flags: []
 featured_image: "Cells-in-tube-1920x600_0.jpg"
 featured_image_caption: "Report cover"
 resource_type: [industry]
+link: https://www.cast-science.org/publication/producing-food-products-from-cultured-animal-tissues/
 draft: false
 pinned: false
 homepage: false

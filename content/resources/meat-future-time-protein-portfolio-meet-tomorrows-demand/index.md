@@ -13,6 +13,7 @@ flags: []
 featured_image: "medium_mNhPZA6GMJwWDuBraICqBSTDZ-F4SlMDrr935xlxIXU.JPG"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: https://www.weforum.org/whitepapers/meat-the-future-time-for-a-protein-portfolio-to-meet-tomorrow-s-demand/
 draft: false
 pinned: false
 homepage: false

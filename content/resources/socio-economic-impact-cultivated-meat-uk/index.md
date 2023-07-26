@@ -13,6 +13,7 @@ flags: []
 featured_image: "cover.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: https://www.oxfordeconomics.com/recent-releases/The-socio-economic-impact-of-cultivated-meat-in-the-UK
 draft: false
 pinned: false
 homepage: false

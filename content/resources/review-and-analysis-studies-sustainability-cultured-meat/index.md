@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://research.wur.nl/en/publications/review-and-analysis-of-studies-on-sustainability-of-cultured-meat
 draft: false
 pinned: false
 homepage: false

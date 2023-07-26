@@ -13,6 +13,7 @@ flags: []
 featured_image: "dinner-party-grey.jpg"
 featured_image_caption: "dinner party"
 resource_type: [industry]
+link: https://www.ipaustralia.gov.au/tools-resources/publications-reports/meat-expectations-innovation-trends-substitute-meat
 draft: false
 pinned: false
 homepage: false

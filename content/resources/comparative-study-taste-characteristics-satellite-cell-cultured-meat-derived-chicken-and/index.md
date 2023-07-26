@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.kosfaj.org/archive/view_article?pid=kosfa-42-1-175
 draft: false
 pinned: false
 homepage: false

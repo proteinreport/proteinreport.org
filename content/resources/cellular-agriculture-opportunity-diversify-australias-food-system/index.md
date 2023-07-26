@@ -13,6 +13,7 @@ flags: []
 featured_image: "caa_white_paper.JPG"
 featured_image_caption: "caa white paper cover"
 resource_type: [industry]
+link: https://cellularagricultureaustralia.org/advocacy/
 draft: false
 pinned: false
 homepage: false

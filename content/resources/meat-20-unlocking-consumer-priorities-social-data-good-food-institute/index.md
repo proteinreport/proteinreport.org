@@ -13,6 +13,7 @@ flags: []
 featured_image: "meat-alternatives-case-study.jpg"
 featured_image_caption: "cover image"
 resource_type: [industry]
+link: https://www.brandwatch.com/case-studies/good-food-institute/
 draft: false
 pinned: false
 homepage: false

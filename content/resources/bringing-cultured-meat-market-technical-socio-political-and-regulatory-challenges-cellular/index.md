@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.mendeley.com/catalogue/bringing-cultured-meat-market-technical-sociopolitical-regulatory-challenges-cellular-agriculture/
 draft: false
 pinned: false
 homepage: false

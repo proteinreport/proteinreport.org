@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.mendeley.com/catalogue/world-meat-consumption-patterns-overview-last-fifty-years-19612011/
 draft: false
 pinned: false
 homepage: false

@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://onlinelibrary.wiley.com/doi/10.1002/advs.202102908
 draft: false
 pinned: false
 homepage: false

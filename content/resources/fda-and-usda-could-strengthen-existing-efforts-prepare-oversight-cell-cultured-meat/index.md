@@ -13,6 +13,7 @@ flags: []
 featured_image: "cover.png"
 featured_image_caption: "report image"
 resource_type: [industry]
+link: https://www.gao.gov/products/GAO-20-325
 draft: false
 pinned: false
 homepage: false

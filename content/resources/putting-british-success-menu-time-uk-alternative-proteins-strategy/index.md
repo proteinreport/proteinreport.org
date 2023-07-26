@@ -13,6 +13,7 @@ flags: []
 featured_image: "ukap.JPG"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: https://www.smf.co.uk/publications/putting-british-success-on-the-menu/
 draft: false
 pinned: false
 homepage: false

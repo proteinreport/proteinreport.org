@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.ernaehrungs-umschau.de/print-artikel/15-01-2018-in-vitro-fleisch-eine-loesung-der-probleme-der-fleischproduktion-und-des-fleischkonsums/
 draft: false
 pinned: false
 homepage: false

@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.sciencedirect.com/science/article/abs/pii/S0924224422000358
 draft: false
 pinned: false
 homepage: false

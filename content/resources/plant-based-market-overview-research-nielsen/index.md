@@ -13,6 +13,7 @@ flags: []
 featured_image: "HeaderImage2.jpg"
 featured_image_caption: "Plant-based meat sandwich"
 resource_type: [industry]
+link: https://www.gfi.org/marketresearch
 draft: false
 pinned: false
 homepage: false

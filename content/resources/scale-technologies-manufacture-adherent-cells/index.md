@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.frontiersin.org/article/10.3389/fnut.2020.575146/full
 draft: false
 pinned: false
 homepage: false

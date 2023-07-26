@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(20)30056-1
 draft: false
 pinned: false
 homepage: false

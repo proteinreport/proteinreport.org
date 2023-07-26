@@ -60,6 +60,7 @@ for (row in 1:nrow(import_data)) {
   write(paste("featured_image: ", shQuote(import_data[row,]$images), sep = ""), file_path, append = T)
   write(paste("featured_image_caption: ", shQuote(import_data[row,]$image_caption), sep = ""), file_path, append = T)
   write(paste("resource_type: [",import_data[row,]$resource_type, "]", sep = ""), file_path, append = T)
+  write(paste("link: ",import_data[row,]$link, sep = ""), file_path, append = T)
   write("draft: false", file_path, append = T)
   write("pinned: false", file_path, append = T)
   write("homepage: false", file_path, append = T)

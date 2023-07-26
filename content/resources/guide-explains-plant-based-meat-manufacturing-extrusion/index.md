@@ -13,6 +13,7 @@ flags: []
 featured_image: "GettyImages-1145276336-2.jpg"
 featured_image_caption: "lab"
 resource_type: [industry]
+link: https://www.gfi.org/blog-plant-based-manufacturing-guide
 draft: false
 pinned: false
 homepage: false

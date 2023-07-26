@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3506296
 draft: false
 pinned: false
 homepage: false

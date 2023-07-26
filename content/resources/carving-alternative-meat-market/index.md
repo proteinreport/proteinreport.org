@@ -13,6 +13,7 @@ flags: []
 featured_image: "8896_Barclays_Alt Meat_Hero mage_1024x576.jpg"
 featured_image_caption: "burgers"
 resource_type: [industry]
+link: https://www.investmentbank.barclays.com/our-insights/carving-up-the-alternative-meat-market.html
 draft: false
 pinned: false
 homepage: false

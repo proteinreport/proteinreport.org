@@ -13,6 +13,7 @@ flags: []
 featured_image: "cpver.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: http://www.fao.org/documents/card/en/c/cb6562en
 draft: false
 pinned: false
 homepage: false

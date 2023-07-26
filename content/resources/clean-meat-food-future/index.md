@@ -13,6 +13,7 @@ flags: []
 featured_image: "191113_MKG_ET_CH1_Clean_Meat_Website_PromoIMG_800x600.png"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: https://www.emdgroup.com/en/research/science-space/envisioning-tomorrow/scarcity-of-resources/cleanmeat.html
 draft: false
 pinned: false
 homepage: false

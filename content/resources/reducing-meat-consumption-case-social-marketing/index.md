@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.emerald.com/insight/content/doi/10.1108/APJML-08-2016-0139/full/html
 draft: false
 pinned: false
 homepage: false

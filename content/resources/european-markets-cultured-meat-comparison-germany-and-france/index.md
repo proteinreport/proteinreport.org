@@ -13,6 +13,7 @@ flags: []
 featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
+link: https://www.mdpi.com/2304-8158/9/9/1152
 draft: false
 pinned: false
 homepage: false

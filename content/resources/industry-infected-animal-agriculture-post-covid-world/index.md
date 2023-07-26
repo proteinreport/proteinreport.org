@@ -13,6 +13,7 @@ flags: []
 featured_image: "cover.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
+link: https://www.fairr.org/article/industry-infected/
 draft: false
 pinned: false
 homepage: false
