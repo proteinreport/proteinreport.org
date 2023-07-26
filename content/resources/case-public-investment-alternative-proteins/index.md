@@ -1,0 +1,24 @@
+---
+title: "The Case for Public Investment in Alternative Proteins"
+date: 2021-04-04 12:04:53
+lastmod: 2021-04-04 12:04:53
+slug: /case-public-investment-alternative-proteins
+description: "This report makes a comprehensive case for robust public investment in research and development for alternative proteins. It also provides a framework for how to spend these funds and maximize their benefit for reducing the environmental and health costs of meat consumption."
+excerpt: "This report makes a comprehensive case for robust public investment in research and development for alternative proteins. It also provides a framework for how to spend these funds and maximize their benefit for reducing the environmental and health costs of meat consumption."
+proteins: [Cell-Based, Plant-Based, Microbial]
+products: [Meat]
+topics: [Business, Policy]
+regions: [US & Canada]
+flags: []
+featured_image: "cover.jpg"
+featured_image_caption: "Report cover"
+resource_type: [industry]
+draft: false
+pinned: false
+homepage: false
+uuid: 8709
+---
+This report makes a comprehensive case for robust public investment in
+research and development for alternative proteins. It also provides a
+framework for how to spend these funds and maximize their benefit for
+reducing the environmental and health costs of meat consumption.
