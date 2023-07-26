@@ -179,6 +179,7 @@
       "md:divide-x-reverse",
       "md:flex-col",
       "md:grid-cols-3",
+      "md:grid-cols-4",
       "md:h-screen",
       "md:max-w-1/2",
       "md:max-w-[33.3%]",
