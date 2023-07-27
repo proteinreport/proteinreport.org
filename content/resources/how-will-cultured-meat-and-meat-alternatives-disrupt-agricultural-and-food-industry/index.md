@@ -14,6 +14,7 @@ featured_image: "report cover.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
 link: https://www.kearney.com/documents/20152/2795757/How+Will+Cultured+Meat+and+Meat+Alternatives+Disrupt+the+Agricultural+and+Food+Industry.pdf/06ec385b-63a1-71d2-c081-51c07ab88ad1
+source: kearney.com
 draft: false
 pinned: false
 homepage: false

@@ -14,6 +14,7 @@ featured_image: "cover.jpg"
 featured_image_caption: "Report cover"
 resource_type: [industry]
 link: https://thebreakthrough.org/issues/food/case-for-public-investment-in-alt-proteins
+source: 
 draft: false
 pinned: false
 homepage: false

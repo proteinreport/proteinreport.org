@@ -14,6 +14,7 @@ featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
 link: https://www.oecd-ilibrary.org/agriculture-and-food/meat-protein-alternatives_387d30cf-en
+source: 
 draft: false
 pinned: false
 homepage: false

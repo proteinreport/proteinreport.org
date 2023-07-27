@@ -14,6 +14,7 @@ featured_image: "report cover.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
 link: https://www.candesyne.ca/cellular-agriculture
+source: candesyne.ca
 draft: false
 pinned: false
 homepage: false

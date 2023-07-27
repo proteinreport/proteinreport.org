@@ -14,6 +14,7 @@ featured_image: "Voorkant_studie.jpg"
 featured_image_caption: "report image"
 resource_type: [industry]
 link: https://think.ing.com/reports/the-protein-shift-will-europeans-change-their-diet/
+source: 
 draft: false
 pinned: false
 homepage: false

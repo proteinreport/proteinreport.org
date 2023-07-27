@@ -14,6 +14,7 @@ featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
 link: https://scholarlycommons.law.wlu.edu/wlulr/vol78/iss5/4/
+source: 
 draft: false
 pinned: false
 homepage: false

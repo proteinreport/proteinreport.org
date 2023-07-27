@@ -14,6 +14,7 @@ featured_image: "futureproteins.jpg"
 featured_image_caption: "our future proteins book cover"
 resource_type: [industry]
 link: https://www.wur.nl/en/news-wur/show/book-launch-our-future-proteins-a-diversity-of-perspectives.htm
+source: wur.nl
 draft: false
 pinned: false
 homepage: false

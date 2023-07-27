@@ -14,6 +14,7 @@ featured_image: "90 reasons.png"
 featured_image_caption: "90 Reasons report cover"
 resource_type: [industry]
 link: https://dash.harvard.edu/handle/1/38573490
+source: harvard.edu
 draft: false
 pinned: false
 homepage: false

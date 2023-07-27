@@ -14,6 +14,7 @@ featured_image: "report cover.jpg"
 featured_image_caption: "cover"
 resource_type: [industry]
 link: https://www.unep.org/resources/report/preventing-future-zoonotic-disease-outbreaks-protecting-environment-animals-and
+source: unep.org
 draft: false
 pinned: false
 homepage: false

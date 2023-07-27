@@ -14,6 +14,7 @@ featured_image: "fao report cover.JPG"
 featured_image_caption: "fao report cover"
 resource_type: [industry]
 link: https://www.fao.org/documents/card/en/c/cb8667en
+source: fao.org
 draft: false
 pinned: false
 homepage: false

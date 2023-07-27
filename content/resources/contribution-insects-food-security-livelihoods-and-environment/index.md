@@ -14,6 +14,7 @@ featured_image: "insects.jpg"
 featured_image_caption: "edible insects"
 resource_type: [industry]
 link: http://www.fao.org/docrep/018/i3264e/i3264e00.pdf
+source: 
 draft: false
 pinned: false
 homepage: false

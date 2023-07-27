@@ -14,6 +14,7 @@ featured_image: "090224_logo_CE-Delft_RGB_kleur.png"
 featured_image_caption: "cover"
 resource_type: [industry]
 link: https://www.cedelft.eu/en/publications/2610/lca-of-cultivated-meat-future-projections-for-different-scenarios
+source: cedelft.eu
 draft: false
 pinned: false
 homepage: false

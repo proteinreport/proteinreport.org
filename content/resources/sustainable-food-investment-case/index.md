@@ -14,6 +14,7 @@ featured_image: "image.revampimg.1200.high.jpg"
 featured_image_caption: "cover"
 resource_type: [industry]
 link: https://www.credit-suisse.com/about-us-news/en/articles/news-and-expertise/sustainable-food-as-an-investment-opportunity-202106.html
+source: credit-suisse.com
 draft: false
 pinned: false
 homepage: false

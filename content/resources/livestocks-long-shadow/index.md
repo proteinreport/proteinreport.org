@@ -14,6 +14,7 @@ featured_image: "livestock's long shadow.jpg"
 featured_image_caption: "livestock's long shadow"
 resource_type: [industry]
 link: http://www.fao.org/docrep/010/a0701e/a0701e00.HTM
+source: fao.org
 draft: false
 pinned: false
 homepage: false

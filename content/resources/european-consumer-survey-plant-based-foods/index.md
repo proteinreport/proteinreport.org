@@ -14,6 +14,7 @@ featured_image: "cover_0.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
 link: https://proveg.com/what-we-do/corporate-engagement/proveg-consumer-survey-report-download/
+source: proveg.com
 draft: false
 pinned: false
 homepage: false

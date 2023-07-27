@@ -14,6 +14,7 @@ featured_image: "cell-based food safety.JPG"
 featured_image_caption: "report cover"
 resource_type: [industry]
 link: https://www.fao.org/documents/card/en/c/cc4855en
+source: fao.org
 draft: false
 pinned: false
 homepage: false

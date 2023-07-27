@@ -14,6 +14,7 @@ featured_image: "ff.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
 link: https://www.foodfrontier.org/reports
+source: foodfrontier.org
 draft: false
 pinned: false
 homepage: false

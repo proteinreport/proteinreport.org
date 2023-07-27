@@ -14,6 +14,7 @@ featured_image: "deloitte-uk-plant-based-alternatives-700_0.jpg"
 featured_image_caption: "report image"
 resource_type: [industry]
 link: https://www2.deloitte.com/uk/en/pages/consumer-industrial-products/articles/plant-based-alternatives.html
+source: www2.deloitte.com
 draft: false
 pinned: false
 homepage: false

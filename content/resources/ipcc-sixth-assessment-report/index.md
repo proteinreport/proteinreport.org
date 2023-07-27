@@ -14,6 +14,7 @@ featured_image: "ipcc.jpg"
 featured_image_caption: "ipcc report cover"
 resource_type: [industry]
 link: https://www.ipcc.ch/report/ar6/wg2/
+source: ipcc.ch
 draft: false
 pinned: false
 homepage: false

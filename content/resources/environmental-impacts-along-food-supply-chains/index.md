@@ -14,6 +14,7 @@ featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
 link: https://www.oecd-ilibrary.org/agriculture-and-food/environmental-impacts-along-food-supply-chains_48232173-en
+source: 
 draft: false
 pinned: false
 homepage: false

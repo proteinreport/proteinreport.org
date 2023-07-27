@@ -14,6 +14,7 @@ featured_image: "reportcover.JPG"
 featured_image_caption: "bcg report cover"
 resource_type: [industry]
 link: https://www.bcg.com/publications/2022/combating-climate-crisis-with-alternative-protein
+source: bcg.com
 draft: false
 pinned: false
 homepage: false

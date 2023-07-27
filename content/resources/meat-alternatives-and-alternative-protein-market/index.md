@@ -14,6 +14,7 @@ featured_image: "sustainable-proteins_0.png"
 featured_image_caption: "flower illustration"
 resource_type: [industry]
 link: https://www.fairr.org/article/alternative-protein-market/
+source: fairr.org
 draft: false
 pinned: false
 homepage: false

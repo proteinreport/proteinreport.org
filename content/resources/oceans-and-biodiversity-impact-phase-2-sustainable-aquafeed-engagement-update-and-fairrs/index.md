@@ -14,6 +14,7 @@ featured_image: "aquaculture.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
 link: https://www.fairr.org/article/oceans-and-biodiversity-impact
+source: fairr.org
 draft: false
 pinned: false
 homepage: false

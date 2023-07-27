@@ -14,6 +14,7 @@ featured_image: "intake-fao-report.jpg"
 featured_image_caption: "intake-fao-report"
 resource_type: [industry]
 link: https://www.intake.org/news/global-report-state-dietary-data
+source: intake.org
 draft: false
 pinned: false
 homepage: false

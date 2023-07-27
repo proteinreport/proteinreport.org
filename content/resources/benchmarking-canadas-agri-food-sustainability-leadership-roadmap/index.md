@@ -14,6 +14,7 @@ featured_image: "social.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
 link: https://www.proteinindustriescanada.ca/news/report-champions-a-new-sustainability-index-for-canadas-agri-food-sector
+source: proteinindustriescanada.ca
 draft: false
 pinned: false
 homepage: false

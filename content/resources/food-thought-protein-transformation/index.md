@@ -14,6 +14,7 @@ featured_image: "cover.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
 link: https://www.bcg.com/publications/2021/the-benefits-of-plant-based-meats
+source: bcg.com
 draft: false
 pinned: false
 homepage: false

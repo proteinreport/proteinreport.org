@@ -14,6 +14,7 @@ featured_image: "cover.jpg"
 featured_image_caption: "report cover"
 resource_type: [industry]
 link: https://phyconomy.net/state-of-the-industry-2022/
+source: phyconomy.net
 draft: false
 pinned: false
 homepage: false

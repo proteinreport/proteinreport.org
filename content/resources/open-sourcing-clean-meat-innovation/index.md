@@ -14,6 +14,7 @@ featured_image: "chopped-clean-chicken.jpg"
 featured_image_caption: "report image"
 resource_type: [industry]
 link: http://www.gfi.org/mapping-the-clean-meat-industry
+source: gfi.org
 draft: false
 pinned: false
 homepage: false

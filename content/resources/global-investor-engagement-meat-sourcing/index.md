@@ -14,6 +14,7 @@ featured_image: "image.jpg"
 featured_image_caption: "image"
 resource_type: [industry]
 link: https://www.fairr.org/article/global-investor-engagement-on-meat-sourcing-progress-briefing/
+source: fairr.org
 draft: false
 pinned: false
 homepage: false

@@ -14,6 +14,7 @@ featured_image: "Background-image_algae.png"
 featured_image_caption: "report cover"
 resource_type: [industry]
 link: https://www.gfi.org.in/microalgae-and-seaweed-proteins-as-alternative-proteins/
+source: gfi.org.in
 draft: false
 pinned: false
 homepage: false

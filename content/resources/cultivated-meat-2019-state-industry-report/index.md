@@ -14,6 +14,7 @@ featured_image: "cover_1.png"
 featured_image_caption: "report cover"
 resource_type: [industry]
 link: https://www.gfi.org/industry
+source: gfi.org
 draft: false
 pinned: false
 homepage: false

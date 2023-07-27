@@ -14,6 +14,7 @@ featured_image: "AdobeStock_326209485.jpeg"
 featured_image_caption: "report image"
 resource_type: [industry]
 link: https://thebreakthrough.org/articles/federal-support-for-alt-protein
+source: thebreakthrough.org
 draft: false
 pinned: false
 homepage: false

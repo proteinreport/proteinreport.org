@@ -14,6 +14,7 @@ featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
 link: https://www.cambridge.org/core/journals/journal-of-agricultural-and-applied-economics/article/are-plantbased-analogues-replacing-cows-milk-in-the-american-diet/F78AE2E32B77214BD3D26A060EC70451
+source: 
 draft: false
 pinned: false
 homepage: false

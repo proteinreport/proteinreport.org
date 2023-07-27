@@ -14,6 +14,7 @@ featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
 link: https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000010
+source: 
 draft: false
 pinned: false
 homepage: false

@@ -14,6 +14,7 @@ featured_image: "report cover.jpg"
 featured_image_caption: "Asia Cropportunities report cover"
 resource_type: [industry]
 link: https://www.gfi-apac.org/resources/asian-cropportunities/
+source: gfi-apac.org
 draft: false
 pinned: false
 homepage: false

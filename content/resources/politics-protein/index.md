@@ -14,6 +14,7 @@ featured_image: "politicsofprotein_0.jpg"
 featured_image_caption: "politics of protein report cover"
 resource_type: [industry]
 link: https://www.ipes-food.org/pages/politicsofprotein
+source: ipes-food.org
 draft: false
 pinned: false
 homepage: false

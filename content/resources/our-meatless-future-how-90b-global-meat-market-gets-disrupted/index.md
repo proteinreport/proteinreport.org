@@ -14,6 +14,7 @@ featured_image: "large-Meatless_Future_no-title_Artboard-3-copy-291-572x364.png"
 featured_image_caption: "food"
 resource_type: [industry]
 link: https://www.cbinsights.com/research/future-of-meat-industrial-farming/
+source: cbinsights.com
 draft: false
 pinned: false
 homepage: false

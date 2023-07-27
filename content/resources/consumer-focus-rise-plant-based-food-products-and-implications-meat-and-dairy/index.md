@@ -14,6 +14,7 @@ featured_image: "maxresdefault_0.jpg"
 featured_image_caption: "youtube image"
 resource_type: [industry]
 link: https://ahdb.org.uk/knowledge-library/consumer-insight-consumer-focus-the-rise-of-plant-based-food-products-and-implications-for-meat-and-dairy
+source: ahdb.org.uk
 draft: false
 pinned: false
 homepage: false

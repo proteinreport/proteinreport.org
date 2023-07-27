@@ -14,6 +14,7 @@ featured_image: "aquaculture.JPG"
 featured_image_caption: "report cover"
 resource_type: [industry]
 link: https://www.fao.org/3/cc0461en/online/cc0461en.html
+source: fao.org
 draft: false
 pinned: false
 homepage: false

@@ -14,6 +14,7 @@ featured_image: "Untitled design (12).jpg"
 featured_image_caption: "report"
 resource_type: [industry]
 link: https://ipbes.net/pandemics
+source: ipbes.net
 draft: false
 pinned: false
 homepage: false

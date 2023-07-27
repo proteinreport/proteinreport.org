@@ -14,6 +14,7 @@ featured_image: "shaping future livestock.png"
 featured_image_caption: "Shaping the future of livestock"
 resource_type: [industry]
 link: http://www.fao.org/publications/card/en/c/I8384EN/
+source: 
 draft: false
 pinned: false
 homepage: false

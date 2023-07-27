@@ -14,6 +14,7 @@ featured_image: "map.png"
 featured_image_caption: "farm animal map"
 resource_type: [industry]
 link: https://storymaps.arcgis.com/stories/58ae71f58fd7418294f34c4f841895d8
+source: arcgis.com
 draft: false
 pinned: false
 homepage: false

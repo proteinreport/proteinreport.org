@@ -14,6 +14,7 @@ featured_image: "capacitor report_0.JPG"
 featured_image_caption: "State of Global Fermentation Capacity report cover"
 resource_type: [industry]
 link: https://www.capacitor.bio/trends
+source: capacitor.bio
 draft: false
 pinned: false
 homepage: false

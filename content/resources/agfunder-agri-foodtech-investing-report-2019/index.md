@@ -14,6 +14,7 @@ featured_image: "Screenshot_2020-02-25_07.09.33.png"
 featured_image_caption: "agfunder 2019 report cover"
 resource_type: [industry]
 link: https://agfunder.com/research/agfunder-agrifood-tech-investing-report-2019/
+source: agfunder.com
 draft: false
 pinned: false
 homepage: false

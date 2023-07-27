@@ -14,6 +14,7 @@ featured_image: "COR-RetailReport-LandingPage_CoverThumbnail_Stars.png"
 featured_image_caption: "report cover"
 resource_type: [industry]
 link: https://www.gfi.org/blog-retail-report-2020
+source: gfi.org
 draft: false
 pinned: false
 homepage: false

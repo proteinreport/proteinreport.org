@@ -14,6 +14,7 @@ featured_image: ""
 featured_image_caption: ""
 resource_type: [academic]
 link: https://www.semanticscholar.org/paper/Eating-like-there's-no-tomorrow%3A-Public-awareness-a-Macdiarmid-Douglas/568a9200d50b4ba225486849b601824c94be92ba
+source: 
 draft: false
 pinned: false
 homepage: false

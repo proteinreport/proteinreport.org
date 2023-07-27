@@ -14,6 +14,7 @@ featured_image: "report cover_0.jpg"
 featured_image_caption: "fao seaweed report cover"
 resource_type: [industry]
 link: http://www.fao.org/in-action/globefish/publications/details-publication/en/c/1154074/
+source: fao.org
 draft: false
 pinned: false
 homepage: false
