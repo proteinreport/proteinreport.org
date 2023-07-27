@@ -5,10 +5,12 @@
     {{ with index . 0 }}
       {{ if .Params.featured_image }}
           {{ $image := .Resources.GetMatch .Params.featured_image }}
-          <img class="object-contain aspect-video w-1/2 py-2 lazyload blur-up" src="{{ $image.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
+          <img class="object-contain aspect-video w-full p-4 lazyload blur-up" src="{{ $image.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
       {{ end }}
     {{ end }}
   {{ end }}
 {{ else if .Params.company_name }}
-  <p class="text-4xl font-bold pl-4">{{ .Params.company_name }}</p>
+  <div class="aspect-video w-full flex items-center justify-center">
+    <p class="text-4xl w-min p-4 font-bold">{{ .Params.company_name }}</p>
+  </div>
 {{ end }}
