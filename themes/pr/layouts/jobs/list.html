@@ -11,8 +11,9 @@
       <a href="{{ .RelPermalink }}" class="w-1/4">
         {{ partial "job/logo-list.html" . }}
       </a>
-      <div class="w-full md:w-3/4 gap-12 p-2 lg:px-6">
-          <a class="p-6 w-full" href="{{ .RelPermalink }}"><h2 class="text-4xl">{{ .Params.title }}</h2></a>
+      <div class="w-full flex flex-col gap-4 md:w-3/4 gap-2 p-2 lg:px-6">
+          <a class="w-full" href="{{ .RelPermalink }}"><h2 class="text-4xl">{{ .Params.title }}</h2></a>
+          {{ partial "job/location-list.html" . }}
       </div>
     </div>
     {{ end }}
