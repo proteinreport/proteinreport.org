@@ -8,21 +8,21 @@
       </div>
     </div>
   </div>
-  <div class="flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-x-4 border-black">
+  <div class="flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-x-4">
     {{ $image := .Resources.GetMatch .Params.featured_image -}}
     {{ if $image -}}
-    <div class="w-full md:max-w-[66.6%] border-black relative">
+    <div class="w-full md:w-2/3 relative">
       <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video object-cover w-full">
       {{ partial "article/flags.html" . }}
     </div>
     {{ end -}}
-    <aside class="w-full md:max-w-[33.3%]">
+    <aside class="w-full md:w-1/3">
       {{ partial "article/contributors.html" . }}
       {{ partial "article/categories.html" . }}
     </aside>
   </div>
-  <div class="flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-x-4 border-b-4 border-black">
-    <div class="w-full md:w-2/3 px-4 py-4 md:px-24 text-xl leading-normal">
+  <div class="flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-x-4">
+    <div class="w-full md:w-2/3 px-4 py-4 md:px-24 text-xl leading-normal border-t-4">
       {{ .Content }}
     </div>
     <aside class="w-full md:w-1/3 md:h-screen md:sticky md:top-0">
