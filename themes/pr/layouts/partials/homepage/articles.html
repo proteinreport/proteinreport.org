@@ -28,7 +28,7 @@
                 <div class="w-full lg:mt-0">
                     <img src="{{ $image.RelPermalink }}" alt="" class="aspect-video w-full object-cover">
                 </div>
-                <div class="md:w-5/6 absolute p-4 bg-white/95 border-t-4 border-r-4 bottom-0 lg:px-6">
+                <div class="md:w-5/6 h-2/5 flex items-center absolute p-4 bg-white/95 border-t-4 border-r-4 bottom-0 lg:px-6">
                     <a class="w-full group" href="{{ .RelPermalink }}">
                         <h2 class="text-4xl font-semibold">{{ .Params.title }}</h2>
                         <p class="text-2xl hidden">{{ .Params.excerpt | safeHTML | truncate 100 }}</p>
@@ -51,7 +51,7 @@
                 <div class="w-full lg:mt-0">
                     <img src="{{ $image.RelPermalink }}" alt="" class="aspect-video w-full object-cover">
                 </div>
-                <div class="md:w-5/6 absolute p-4 bg-white/95 border-t-4 border-r-4 bottom-0 lg:px-6">
+                <div class="md:w-5/6 h-2/5 flex items-center absolute p-4 bg-white/95 border-t-4 border-r-4 bottom-0 lg:px-6">
                     <a class="w-full group" href="{{ .RelPermalink }}">
                         <h2 class="text-2xl font-semibold">{{ .Params.title }}</h2>
                         <p class="text-lg hidden">{{ .Params.excerpt | safeHTML | truncate 100 }}</p>
