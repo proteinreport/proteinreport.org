@@ -75,6 +75,37 @@
 
 
 
+/* scrollbar for Chrome, Safari and Opera */
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+/* Disable scrolling on body when nav overlay is open */
+body.hide { overflow: hidden; }
+
+
 
 /* ––––––––––––––––––––––––––––––––––––––––––––––––––
   Based on: https://codepen.io/nickelse/pen/YGPJQG
