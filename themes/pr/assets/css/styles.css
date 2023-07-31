@@ -149,3 +149,23 @@
 }
 
 
+/* #toggle dark mode
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+[data-theme="light"] body button .toggle-dark {
+  display: block;
+}
+
+[data-theme="light"] body button .toggle-light {
+  display: none;
+}
+
+[data-theme="dark"] body button .toggle-light {
+  display: block;
+}
+
+[data-theme="dark"] body button .toggle-dark {
+  display: none;
+}
+
+
