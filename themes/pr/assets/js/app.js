@@ -4,4 +4,3 @@
 
 // import core.js
 import '@hyas/core/assets/js/core.js';
-

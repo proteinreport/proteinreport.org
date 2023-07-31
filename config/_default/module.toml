@@ -46,3 +46,7 @@
 [[mounts]]
   source = "hugo_stats.json"
   target = "assets/watching/hugo_stats.json"
+
+[[mounts]]
+  source = "node_modules/daisyui/dist"
+  target = "assets"

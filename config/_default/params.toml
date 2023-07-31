@@ -4,3 +4,6 @@
 title = "Hyas"
 titleSeparator = "-"
 titleAddition = "The all-in-one Hugo-npm framework"
+
+[options]
+darkMode = true
