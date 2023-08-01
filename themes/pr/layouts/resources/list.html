@@ -11,9 +11,10 @@
       <div class="relative w-full md:w-1/3">
         {{ $image := .Resources.GetMatch .Params.featured_image -}}
         {{ if $image -}}
-        <img src="{{ $image.RelPermalink }}" alt="" class="aspect-video w-full object-contain">
+        <img src="{{ $image.RelPermalink }}" alt="" class="aspect-video w-full object-contain lazyload blur-up">
         {{ else }}
-        <img src="/images/article_placeholder.png" alt="" class="rotate-12 p-12 aspect-video w-full object-contain">
+        <img src="/images/article_placeholder.png" alt=""
+          class="rotate-12 p-12 aspect-video w-full object-contain lazyload blur-up">
         {{ end -}}
         {{ if in .Params.resource_type "academic" }}
         <p class="border-2 border-l-0 p-2 absolute top-4 left-0">Academic Article</p>
