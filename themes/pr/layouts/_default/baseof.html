@@ -2,9 +2,11 @@
 <html lang="{{ .Site.LanguageCode | default "en" }}" data-theme="light">
   {{ partial "head/head.html" . }}
   {{ partial "head/body-class.html" . }}
-  <body class="{{ delimit (.Scratch.Get "class") " " }}">
+  <body class="{{ delimit (.Scratch.Get "class") " " }}" >
     {{ partial "header/header.html" . }}
-    {{ block "main" . }}{{ end }}
+    <div id="swup" class="transition-fade">
+      {{ block "main" . }}{{ end }}
+    </div>
     {{ partial "footer/footer.html" . }}
     {{ if templates.Exists "partials/footer/script-footer.html" -}}
       {{ partial "footer/script-footer.html" . }}
