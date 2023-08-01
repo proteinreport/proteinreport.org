@@ -21,7 +21,9 @@ const swup = new Swup({
             initialValue: 0.25,
             finishAnimation: true
         }), */
-        new SwupHeadPlugin()
+        new SwupHeadPlugin({
+            awaitAssets: true
+        })
     ]
  });
 
