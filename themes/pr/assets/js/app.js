@@ -11,7 +11,15 @@ import Swup from 'swup';
 import SwupProgressPlugin from '@swup/progress-plugin';
 // initiate swup
 const swup = new Swup({
-    plugins: [new SwupProgressPlugin()]
+    plugins: [new SwupProgressPlugin(
+        {
+            className: 'swup-progress-bar',
+            transition: 300,
+            delay: 0,
+            initialValue: 0.25,
+            finishAnimation: true
+          }
+    )]
   });
 
 // main navigation 
