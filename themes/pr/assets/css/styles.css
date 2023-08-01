@@ -209,3 +209,7 @@ html.is-changing .transition-fade {
 html.is-animating .transition-fade {
   opacity: 0;
 }
+.swup-progress-bar {
+  height: 4px;
+  background-color: rgb(255, 132, 0);
+}

@@ -7,7 +7,12 @@ import '@hyas/core/assets/js/core.js';
 
 // swup page transitions
 import Swup from 'swup';
-const swup = new Swup();
+// swup progress plugin
+import SwupProgressPlugin from '@swup/progress-plugin';
+// initiate swup
+const swup = new Swup({
+    plugins: [new SwupProgressPlugin()]
+  });
 
 // main navigation 
 
