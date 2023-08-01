@@ -6,14 +6,14 @@
 import '@hyas/core/assets/js/core.js';
 
 // swup page transitions
-import Swup from 'swup';
+//import Swup from 'swup';
 // swup progress plugin
 //import SwupProgressPlugin from '@swup/progress-plugin';
 // swup head plugin
-import SwupHeadPlugin from '@swup/head-plugin';
+//import SwupHeadPlugin from '@swup/head-plugin';
 // initiate swup
-const swup = new Swup({
-    plugins: [
+//const swup = new Swup({
+ //   plugins: [
      /*   new SwupProgressPlugin({
             className: 'swup-progress-bar',
             transition: 300,
@@ -21,11 +21,11 @@ const swup = new Swup({
             initialValue: 0.25,
             finishAnimation: true
         }), */
-        new SwupHeadPlugin({
-            awaitAssets: true
-        })
-    ]
- });
+ //       new SwupHeadPlugin({
+ //           awaitAssets: true
+ //       })
+ //   ]
+ //});
 
 // main navigation 
 
