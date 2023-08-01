@@ -1,5 +1,5 @@
-<h3 class="text-2xl bold p-2 border-t-4 border-r-4 w-fit mt-8">Latest Press Releases</h3>
-<div class="flex flex-col w-full divide-y-4 border-t-4 md:h-screen md:sticky md:top-0">
+<h3 class="text-2xl bold p-2 border-t-4 border-r-4 w-fit mt-12">Latest Press Releases</h3>
+<div class="flex flex-col w-full divide-y-4 border-t-4 lg:h-screen lg:sticky lg:top-0">
     {{ range first 5 ( where .FirstSection.RegularPages "Permalink" "ne" .Permalink ) }}
     {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
     <div class="flex flex-row w-full gap-2 items-center">
