@@ -47,6 +47,7 @@
       "ul"
     ],
     "classes": [
+      "-full",
       "2xl:border-x-2",
       "2xl:max-w-7xl",
       "about",
@@ -208,6 +209,9 @@
       "media__icon",
       "media__icon--litebox",
       "media__image",
+      "min-w-full",
+      "min-w-max",
+      "min-w-min",
       "ml-2",
       "ml-auto",
       "mr-auto",
@@ -297,6 +301,7 @@
       "w-1/4",
       "w-1/5",
       "w-1/6",
+      "w-16",
       "w-3/4",
       "w-4",
       "w-5/6",
@@ -304,6 +309,7 @@
       "w-auto",
       "w-fit",
       "w-full",
+      "w-max",
       "w-min",
       "youtube-video",
       "z-10",
