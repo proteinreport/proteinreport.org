@@ -4,14 +4,14 @@
     <h2 class="text-center md:w-1/3 lg:text-7xl p-10">Newswire</h2>
     <p class="md:w-2/3 p-10 lg:text-2xl">Press releases from companies and organizations</p>
   </div>
-  <div class="flex flex-col w-full border-t-4 divide-y-4 2xl:border-x-2">
+  <div class="flex flex-col w-full border-y-4 divide-y-4 2xl:border-x-2">
     {{ $paginator := .Paginate (.Data.Pages) -}}
     {{ range $paginator.Pages -}}
     <div class="w-full flex flex-row flex-wrap items-center">
       <div class="w-full md:w-1/3">
         {{ $image := .Resources.GetMatch .Params.featured_image -}}
         {{ if $image -}}
-        <img src="{{ $image.RelPermalink }}" alt="" class="aspect-video w-full object-cover">
+        <img src="{{ $image.RelPermalink }}" alt="" class="aspect-video lazyload blur-up object-cover border-r-4">
         {{ end -}}
       </div>
       <div class="w-full md:w-2/3 gap-12 p-2 lg:px-6">
