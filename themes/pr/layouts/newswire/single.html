@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article>
+<article class="flex flex-col">
   <div class="border-black mx-auto 2xl:max-w-7xl 2xl:border-x-2 border-y-4 bg-gray-100">
     <div class="py-12 px-2 text-center">
       <h1 class="text-6xl">{{ .Title }}</h1>
@@ -15,7 +15,7 @@
         <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video w-full object-cover border-b-4">
       {{ end -}}
       {{ partial "newswire/flags.html" . }}
-      <div class="w-full px-4 py-4 md:px-24 prose-xl">
+      <div class="w-full px-4 py-4 md:px-12 lg:px-24 prose-xl">
         {{ .Content }}
       </div>
     </div>
@@ -26,5 +26,6 @@
       {{ partial "newswire/latest.html" . }}
     </aside>
   </div>
+  <div class="py-8"></div>
 </article>
 {{ end }}
