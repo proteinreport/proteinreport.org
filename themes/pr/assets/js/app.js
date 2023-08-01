@@ -5,6 +5,10 @@
 // import core.js
 import '@hyas/core/assets/js/core.js';
 
+// swup page transitions
+import Swup from 'swup';
+const swup = new Swup();
+
 // main navigation 
 
 // JavaScript

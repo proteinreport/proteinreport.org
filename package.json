@@ -32,5 +32,9 @@
   },
   "engines": {
     "node": ">=16.12.0"
+  },
+  "dependencies": {
+    "flexsearch": "^0.7.31",
+    "swup": "^4.1.0"
   }
 }
