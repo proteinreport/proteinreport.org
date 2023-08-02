@@ -13,7 +13,7 @@
       {{ $image := .Resources.GetMatch .Params.banner_image -}}
       {{ if $image -}}
         <a href="{{ .Params.website }}" target="_blank">
-          <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid object-cover">
+          <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid w-full aspect-[4/1] object-cover">
         </a>
       {{ end -}}
       {{ partial "event/flags.html" . }}
