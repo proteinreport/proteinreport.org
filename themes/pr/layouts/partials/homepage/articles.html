@@ -1,19 +1,19 @@
 <section class="items-center relative w-full">
-    <div class="items-center relative w-full border-b-4 mx-auto 2xl:max-w-7xl">
+    <div class="items-center relative w-full mx-auto 2xl:max-w-7xl">
         <div class="flex flex-col p-4 items-center md:flex-row md:flex-wrap 2xl:border-x-2">
             <h2 class="text-6xl py-2 md:w-1/3 lg:text-8xl">Articles</h2>
             <p class="md:w-2/3 md:pl-4 lg:text-2xl">Opinion, analysis, and explainers from subject-matter experts</p>
         </div>
         {{ range first 1 ( where .Site.RegularPages "Section" "articles" )}}
         {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
-        <div class="flex flex-col w-full divide-y-4 border-4 md:divide-x-4 md:divide-x-reverse 2xl:border-x-2 ">
+        <div class="flex flex-col w-full divide-y-4 border-4 md:divide-x-4 md:divide-x-reverse 2xl:border-x-2">
             <div class="w-full md:w-1/2 md:order-2 lg:order-2 lg:w-2/3 lg:mt-0">
                 <img src="{{ $image.RelPermalink }}" alt="" class="aspect-video w-full object-cover">
             </div>
             <a class="lg:absolute lg:bottom-2 lg:z-10 lg:w-5/6" href="{{ .RelPermalink }}"><h2 class="font-bold p-4 lg:bg-white/95 lg:text-5xl">{{ .Params.title }}</h2></a>
             <div class="hidden relative w-full gap-12 p-2 md:w-1/2 lg:flex lg:w-1/3 lg:px-6 lg:order-1">
                 <p class="text-lg pt-4">{{ .Params.excerpt | safeHTML }}</p>
-                <button class="float-right flex flex-row items-center border-4 p-4 mt-4"><a href="{{ .RelPermalink }}">read more</a><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                <button class="float-right flex flex-row items-center p-4 mt-4"><a href="{{ .RelPermalink }}">read more</a><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
                 </svg></button>                  
             </div>
