@@ -6,15 +6,15 @@ library(stringr)
 library(urltools)
 
 # set working directory
-setwd(here("content/en/articles/"))
+setwd(here("content/articles/"))
 
 # read drupal data export into dataframe
-import_data <- read_csv("featured.csv") 
+import_data <- read_csv("articles.csv") 
 
 # loop through rows creating hugo leaf bundle directories with images for each news item
 for (row in 1:nrow(import_data)) {
   # create directory based on slug
-  dir_path <- paste(here("content/en/articles/"),import_data[row,]$slug,sep = "")
+  dir_path <- paste(here("content/articles/"),import_data[row,]$slug,sep = "")
   dir.create(dir_path)
   #get images
   if (!is.na(import_data[row,]$images)) {

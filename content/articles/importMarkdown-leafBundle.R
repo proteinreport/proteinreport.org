@@ -10,7 +10,7 @@ library(rlist)
 setwd(here("content/articles"))
 
 # read drupal data export into dataframe
-import_data <- read_csv("featured.csv") %>%
+import_data <- read_csv("articles.csv") %>%
   as_tibble()
 #import_data[is.na(import_data)] = ""
 # fix date formatting
