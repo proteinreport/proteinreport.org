@@ -1,24 +1,24 @@
 ---
 title: "Nature’s Fynd Begins Production, Raises $80 Million Series B to Commercialize a New-to-the-World Protein"
-date: 2020-03-24 12:08:01
-lastmod: 2020-03-24 12:08:01
+date: 2020-03-24 10:31:53
+lastmod: 2020-03-24 10:31:53
 slug: /natures-fynd-begins-production-raises-80-million-series-b-commercialize-new-world-protein
 company: 5861
-description: "Nature’s Fynd, a food tech company producing a protein from a microbe originally discovered in the geothermal springs of Yellowstone’s ancient volcano, has raised $80 million in new funding."
-excerpt: "Nature’s Fynd, a food tech company producing a protein from a microbe originally discovered in the geothermal springs of Yellowstone’s ancient volcano, has raised $80 million in new funding."
-proteins: [Microbial]
-products: [Meat, Ingredients]
+description: "Generation Investment Management and Breakthrough Energy Ventures co-lead investment in alternative meat and dairy company"
+excerpt: "Generation Investment Management and Breakthrough Energy Ventures co-lead investment in alternative meat and dairy company"
+proteins: [Microbial, Fungi]
+products: [Meat, Dairy, Ingredients]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release, Investments]
-directory: [5861]
+directory: [5861, 7125]
 featured_image: "CEO Thomas Jonas 1.jpg"
 featured_image_caption: "Nature's Fynd CEO Thomas Jonas"
 additional_images:
 draft: false
 pinned: false
 homepage: false
-uuid: 6527
+uuid: 11351
 ---
 *Generation Investment Management and Breakthrough Energy Ventures
 co-lead investment in alternative meat and dairy company*
@@ -90,8 +90,8 @@ nurturing the planet. Born out of research conducted for NASA on
 microbes in Yellowstone National Park, the company's technology produces
 a complete protein using only a fraction of the resources required by
 traditional agriculture. The company previously raised \$33 million in
-Series A funding in 2018. For more information visit
-[www.naturesfynd.com](http://www.naturesfynd.com).
+Series A funding in 2018. For more information
+visit [www.naturesfynd.com](http://www.naturesfynd.com/).
 
 **About Generation Investment Management**
 
@@ -100,8 +100,8 @@ investing, integrated sustainability research, and client alignment. It
 is an independent, private, owner-managed partnership established in
 2004 and headquartered in London, with a US office in San Francisco.
 Generation Investment Management LLP is authorized and regulated in the
-United Kingdom by the Financial Conduct Authority.
-[www.generationim.com](http://www.generationim.com)
+United Kingdom by the Financial Conduct
+Authority. [www.generationim.com](http://www.generationim.com/)
 
 **About Breakthrough Energy Ventures**
 
@@ -111,5 +111,5 @@ of the world's top business leaders, BEV has more than \$1 billion in
 committed capital to support bold entrepreneurs building companies that
 can significantly reduce emissions from agriculture, buildings,
 electricity, manufacturing, and transportation. The fund was created in
-2016 by the Breakthrough Energy Coalition. Visit
-[www.b-t.energy](http://www.b-t.energy) to learn more.
+2016 by the Breakthrough Energy Coalition.
+Visit [www.b-t.energy](http://www.b-t.energy/) to learn more.

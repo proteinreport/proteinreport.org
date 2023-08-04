@@ -1,13 +1,13 @@
 ---
 title: "Improved Nature Receives Safe Quality Food Certification"
-date: 2020-05-19 16:12:01
-lastmod: 2020-05-19 16:12:01
+date: 2020-05-19 10:49:02
+lastmod: 2020-05-19 10:49:02
 slug: /improved-nature-receives-safe-quality-food-certification
 company: 1153
-description: "GARNER, N.C. – May 19, 2020––Improved Nature, a plant-based protein company, is proud to share that it has earned the Safe Quality Food Certification for its Nature’s PRIME™ products. The SQF Certification is a food quality and safety program that is globally recognized in the food industry. The SQF food safety and quality codes are designed to meet industry, consumer, and regulatory requirements for all sectors of the food supply chain."
-excerpt: "GARNER, N.C. – May 19, 2020––Improved Nature, a plant-based protein company, is proud to share that it has earned the Safe Quality Food Certification for its Nature’s PRIME™ products. The SQF Certification is a food quality and safety program that is globally recognized in the food industry. The SQF food safety and quality codes are designed to meet industry, consumer, and regulatory requirements for all sectors of the food supply chain."
+description: "Improved Nature, a plant-based protein company, is proud to share that it has earned the Safe Quality Food Certification for its Nature’s PRIME™ products."
+excerpt: "Improved Nature, a plant-based protein company, is proud to share that it has earned the Safe Quality Food Certification for its Nature’s PRIME™ products."
 proteins: [Plant-Based]
-products: [Meat, Ingredients]
+products: [Meat]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
@@ -18,7 +18,7 @@ additional_images:
 draft: false
 pinned: false
 homepage: false
-uuid: 6928
+uuid: 11354
 ---
 GARNER, N.C. -- May 19, 2020----[Improved
 Nature](https://improvednature.com/), a plant-based protein company, is
@@ -57,9 +57,9 @@ With poultry and beef shortages occurring nationwide due to the
 pandemic, Nielsen reported that meat alternative sales as a result
 increased 255% in the last week of March. Due to the increased demand
 for protein during the pandemic, Improved Nature has made its Nature's
-PRIME™ products available [online](https://improvednaturedirect.com/)
-for consumers and is offering free shipping in the U.S. for orders over
-\$15.
+PRIME™ products
+available [online](https://improvednaturedirect.com/) for consumers and
+is offering free shipping in the U.S. for orders over \$15.
 
 Furthermore, a representative at Good Food Institute said that
 plant-based meat alternatives provide not only a great increase in food
@@ -73,14 +73,12 @@ nutrition with no artificial ingredients.
 Improved Nature is committed to providing Better Protein for a Better
 Planet™.
 
-To learn more about Improved Nature, visit
-[ImprovedNature.com](https://improvednature.com/). Shop Improved Nature
-products online by visiting
-[ImprovedNatureDirect.com](http://www.improvednaturedirect.com/) and
-follow Improved Nature on [Twitter](https://twitter.com/ImprovedNature),
-[Instagram](https://www.instagram.com/improvednature/)
-(@ImprovedNature), [Facebook](https://www.facebook.com/ImprovedNature/)
-and [LinkedIn](https://www.linkedin.com/company/improved-nature/).
+To learn more about Improved Nature,
+visit [ImprovedNature.com](https://improvednature.com/). Shop Improved
+Nature products online by
+visiting [ImprovedNatureDirect.com](http://www.improvednaturedirect.com/) and
+follow Improved Nature
+on [Twitter](https://twitter.com/ImprovedNature), [Instagram](https://www.instagram.com/improvednature/) (@ImprovedNature), [Facebook](https://www.facebook.com/ImprovedNature/) and [LinkedIn](https://www.linkedin.com/company/improved-nature/).
 
 **About Improved Nature:**
 
@@ -90,5 +88,5 @@ and simple all-natural list of ingredients. The best-in-class flavor
 will have consumers choosing healthy plant-based proteins not just
 sometimes, but more of the time. Improved Nature is addressing the
 social and environmental pressures of population growth by feeding the
-world with tastily sustainable protein. To learn more, visit
-[www.ImprovedNature.com](http://www.ImprovedNature.com).
+world with tastily sustainable protein. To learn more,
+visit [www.ImprovedNature.com](http://www.improvednature.com/).

@@ -1,29 +1,31 @@
 ---
 title: "Industrializing Cell-Based Meats Summit Returns for 2nd Year"
-date: 2020-02-04 20:22:12
-lastmod: 2020-02-04 20:22:12
+date: 2020-02-04 12:10:59
+lastmod: 2020-02-04 12:10:59
 slug: /industrializing-cell-based-meats-summit-returns-2nd-year
-description: "The Industrializing Cell-Based Meats Summit returns for the 2nd year to unite the world’s leading minds from industry, academia and regulation to share the latest scientific progress in the field."
-excerpt: "The Industrializing Cell-Based Meats Summit returns for the 2nd year to unite the world’s leading minds from industry, academia and regulation to share the latest scientific progress in the field."
+company_name: "Hanson Wade"
+company_link: "https://hansonwade.com"
+description: "The Industrializing Cell-Based Meats Summit returns for the 2nd year to unite the world’s leading minds from industry, academia and regulation to share the latest scientific progress in the field."
+excerpt: "The Industrializing Cell-Based Meats Summit returns for the 2nd year to unite the world’s leading minds from industry, academia and regulation to share the latest scientific progress in the field."
 proteins: [Cell-Based]
 products: [Meat]
-topics: [Business, Sci-Tech]
-regions: [NA]
+topics: [Business]
+regions: [US & Canada]
 flags: [Press Release]
 directory: [700, 1170, 1268, 5828, 5829, 5853]
-featured_image: "brochure.png"
+featured_image: "brochure.jpg"
 featured_image_caption: ""
 additional_images:
 draft: false
 pinned: false
 homepage: false
-uuid: 6054
+uuid: 11357
 ---
-The [Industrializing Cell-Based Meats
-Summit](https://industrializingcellbasedmeats.com/?utm_source=external-protein-report&utm_medium=press-release&utm_campaign=14821-icbm-protein-report-press-release)
-returns for the 2nd year to unite the world's leading minds from
-industry, academia and regulation to share the latest scientific
-progress in the field.
+The [Industrializing Cell-Based Meats
+Summit](https://industrializingcellbasedmeats.com/?utm_source=external-protein-report&utm_medium=press-release&utm_campaign=14821-icbm-protein-report-press-release) returns
+for the 2nd year to unite the world's leading minds from industry,
+academia and regulation to share the latest scientific progress in
+the field.
 
 This industry-led forum joins key opinion leaders in the cellular
 agricultural space to have an open, honest and science-based discussion
@@ -32,8 +34,8 @@ overcome crucial bottlenecks, from scaling up complex processes to
 producing sustainable, real-tasting meat.
 
 You can download the complete agenda and expert speaker faculty in the
-Event Guide
-[here](https://industrializingcellbasedmeats.com/program/full-event-guide/?utm_source=external-protein-report&utm_medium=press-release&utm_campaign=14821-icbm-protein-report-press-release).
+Event
+Guide [here](https://industrializingcellbasedmeats.com/program/full-event-guide/?utm_source=external-protein-report&utm_medium=press-release&utm_campaign=14821-icbm-protein-report-press-release).
 
 Cell-based meat, poultry and seafood is being put forward as a solution
 that will help fulfil the increased demand for meat as the global
@@ -54,9 +56,9 @@ tasting of its first prototype of lab-grown pork by summer 2020.
 
 As well as investment progress and huge technological leaps, there has
 also been strides made on the regulatory front. In 2018, the U.S.
-Department of Agriculture (USDA) and the U.S. Food [&]{.amp} Drug
-Administration (FDA) agreed to a joint regulatory framework, providing
-cell-based meat with a much clearer path to market in the United States.
+Department of Agriculture (USDA) and the U.S. Food & Drug Administration
+(FDA) agreed to a joint regulatory framework, providing cell-based meat
+with a much clearer path to market in the United States.
 
 A more recent bill, the Food Safety Modernization for Innovative
 Technologies Act, looks to formalize the agreement between FDA and USDA
@@ -73,18 +75,16 @@ food safety to labeling and more!
 
 Expert speakers from across the industry include:
 
--   Paul Shapiro, Chief Executive Officer [&]{.amp} Co founder, The
-    Better Meat Co.
--   Lou Cooperhouse, President [&]{.amp} Chief Executive Officer,
-    Blue Nalu
--   Jeremiah Fasano, Consumer Safety Officer, US Food [&]{.amp} Drug
+-   Paul Shapiro, Chief Executive Officer & Co founder, The Better
+    Meat Co.
+-   Lou Cooperhouse, President & Chief Executive Officer, Blue Nalu
+-   Jeremiah Fasano, Consumer Safety Officer, US Food & Drug
     Administration (FDA)
--   Isaac Emery, Principal Consutant [&]{.amp} Founder, Informed
+-   Isaac Emery, Principal Consutant & Founder, Informed
     Sustainability Consulting
--   Mercedes Vila, CTO [&]{.amp} Co-Founder, Biotech Foods
--   Brian P. Sylvester, Special Counsel, Foley [&]{.amp} Lardner LLP
--   Brian Spears, Founder [&]{.amp} Chief Executive Officer, New
-    Age Meats
+-   Mercedes Vila, CTO & Co-Founder, Biotech Foods
+-   Brian P. Sylvester, Special Counsel, Foley & Lardner LLP
+-   Brian Spears, Founder & Chief Executive Officer, New Age Meats
 -   Dirk von Heinrichshorst, CEO, Peace of Meat
 -   Ryan Bethencourt, Chief Executive Officer, Wild Earth
 
@@ -93,7 +93,7 @@ Join these expert speakers and:
 -   Delve into the technical details behind producing meat that tastes
     and feels as close to real meat as possible
 -   Define and future-proof your strategy to ensure scalability and
-    affordability of clean and cultured cell [&]{.amp} plant-based meat
+    affordability of clean and cultured cell & plant-based meat
 -   Rival any traditional products in the marketplace and provide
     consumers with better alternatives and more choice
 -   Gain a deeper understanding of the current cell-based meat landscape
@@ -101,6 +101,6 @@ Join these expert speakers and:
     steps for cell-based meat production
 
 [Download the full event guide
-here](https://industrializingcellbasedmeats.com/program/full-event-guide/?utm_source=external-protein-report&utm_medium=press-release&utm_campaign=14821-icbm-protein-report-press-release)
-for the complete expert speaker faculty and cutting-edge case studies
+here](https://industrializingcellbasedmeats.com/program/full-event-guide/?utm_source=external-protein-report&utm_medium=press-release&utm_campaign=14821-icbm-protein-report-press-release) for
+the complete expert speaker faculty and cutting-edge case studies
 being presented.

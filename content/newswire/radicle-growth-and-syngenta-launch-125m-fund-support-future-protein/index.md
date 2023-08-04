@@ -1,23 +1,25 @@
 ---
 title: "Radicle Growth and Syngenta Launch $1.25m Fund to Support the Future of Protein"
-date: 2020-05-14 13:09:12
-lastmod: 2020-05-14 13:09:12
+date: 2020-05-14 10:26:15
+lastmod: 2020-05-14 10:26:15
 slug: /radicle-growth-and-syngenta-launch-125m-fund-support-future-protein
-description: "Application Period Open Through May 29; Calls on Companies of All Stages Solving Protein Challenges from Plant-Based to Regenerative Ag to Apply for Funding"
-excerpt: "Application Period Open Through May 29; Calls on Companies of All Stages Solving Protein Challenges from Plant-Based to Regenerative Ag to Apply for Funding"
-proteins: [Cell-Based, Plant-Based, Fungi, Algae]
-products: [Meat, Dairy, Ingredients]
+company_name: "Radicle Growth"
+company_link: "https://radicle.vc/"
+description: "Radicle Growth, an acceleration fund, and Syngenta, a leading agriculture company helping to improve global food security, today announced the launch of The Radicle Protein Challenge by Syngenta."
+excerpt: "Radicle Growth, an acceleration fund, and Syngenta, a leading agriculture company helping to improve global food security, today announced the launch of The Radicle Protein Challenge by Syngenta."
+proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
+products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 topics: [Business]
 regions: [International]
-flags: [Press Release]
+flags: [Press Release, Investments]
 directory: [NA]
-featured_image: "radicle-syngenta.png"
+featured_image: "radicle-syngenta.jpg"
 featured_image_caption: ""
 additional_images:
 draft: false
 pinned: false
 homepage: false
-uuid: 6892
+uuid: 11350
 ---
 *Application Period Open Through May 29; Calls on Companies of All
 Stages Solving Protein Challenges from Plant-Based to Regenerative Ag to

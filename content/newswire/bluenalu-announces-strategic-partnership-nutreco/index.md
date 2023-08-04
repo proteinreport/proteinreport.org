@@ -1,11 +1,11 @@
 ---
 title: "BlueNalu Announces Strategic Partnership with Nutreco"
-date: 2020-01-16 16:15:29
-lastmod: 2020-01-16 16:15:29
+date: 2020-01-16 11:58:58
+lastmod: 2020-01-16 11:58:58
 slug: /bluenalu-announces-strategic-partnership-nutreco
 company: 5829
-description: "Collaboration accelerates plans to commercialize cellular aquaculture globally San Diego, Calif. (January 16, 2020) – BlueNalu, a leading innovative food company developing seafood products directly from fish cells, today announced a strategic partnership with Nutreco, a global leader in animal nutrition and aquafeed. Nutreco’s aquafeed company, Skretting, is a world leader in the manufacture and supply of aquaculture feeds and an important link in the feed-to-food chain. "
-excerpt: "Collaboration accelerates plans to commercialize cellular aquaculture globally San Diego, Calif. (January 16, 2020) – BlueNalu, a leading innovative food company developing seafood products directly from fish cells, today announced a strategic partnership with Nutreco, a global leader in animal nutrition and aquafeed. Nutreco’s aquafeed company, Skretting, is a world leader in the manufacture and supply of aquaculture feeds and an important link in the feed-to-food chain. "
+description: "BlueNalu, a leading innovative food company developing seafood products directly from fish cells, today announced a strategic partnership with Nutreco, a global leader in animal nutrition and aquafeed."
+excerpt: "BlueNalu, a leading innovative food company developing seafood products directly from fish cells, today announced a strategic partnership with Nutreco, a global leader in animal nutrition and aquafeed."
 proteins: [Cell-Based]
 products: [Seafood]
 topics: [Business]
@@ -18,7 +18,7 @@ additional_images:
 draft: false
 pinned: false
 homepage: false
-uuid: 1329
+uuid: 11356
 ---
 *Collaboration accelerates plans to commercialize cellular aquaculture
 globally**** ***
@@ -40,14 +40,14 @@ nutrition, raw materials expertise and ingredient procurement at
 competitive costs. Both companies' technologies are well aligned to
 advance sustainable solutions to feed the world.  
 
-Lou Cooperhouse, President [&]{.amp} CEO of BlueNalu, said, "The
-partnership with Nutreco is another significant milestone for BlueNalu,
-which will enable our team to accelerate our journey toward
-commercialization, while also securing a global supply chain partner. 
-We expect this will provide significant value to our company, as it is
-our objective to introduce our seafood products in a test market during
-the next two years, and launch our products in several global markets by
-the end of this decade." 
+Lou Cooperhouse, President & CEO of BlueNalu, said, "The partnership
+with Nutreco is another significant milestone for BlueNalu, which will
+enable our team to accelerate our journey toward commercialization,
+while also securing a global supply chain partner.  We expect this will
+provide significant value to our company, as it is our objective to
+introduce our seafood products in a test market during the next two
+years, and launch our products in several global markets by the end of
+this decade." 
 
 The demand for protein, including seafood, will increase as the global
 population is expected to rise to almost 10 billion by 2050. Innovations
@@ -64,11 +64,11 @@ solutions. Nutreco's strategic partnership with BlueNalu is very
 exciting as it opens the opportunity to up-scale real seafood production
 in a highly sustainable way."
 
-For more information about BlueNalu, please visit
-[www.BlueNalu.com](http://www.bluenalu.com/).
+For more information about BlueNalu, please
+visit[ www.BlueNalu.com](http://www.bluenalu.com/).
 
-For more information about Nutreco, please visit
-[www.nutreco.com](https://www.nutreco.com/).
+For more information about Nutreco, please
+visit [www.nutreco.com](https://www.nutreco.com/).
 
 **About BlueNalu**\
 BlueNalu's mission is to be the global leader in cellular aquaculture,
@@ -82,8 +82,8 @@ product, in which its yellowtail product performed the same as a
 conventional fish fillet in all cooking applications, with the ability
 to be prepared in the raw form, cooked form (seared, grilled, boiled,
 fried, and microwaved), and prepared via acidification (e.g. in ceviche,
-poke, and kimchi applications). Read more
-[here](https://www.bluenalu.com/pr-121719).
+poke, and kimchi applications). Read
+more [here](https://www.bluenalu.com/pr-121719).
 
 **About Nutreco**\
 Nutreco is a global leader in animal nutrition and aquafeed. Their

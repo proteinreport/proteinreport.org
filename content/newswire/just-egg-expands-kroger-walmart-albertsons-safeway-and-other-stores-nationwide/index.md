@@ -1,24 +1,24 @@
 ---
 title: "JUST Egg Expands at Kroger, Walmart, Albertsons, Safeway and other stores nationwide"
-date: 2020-09-02 17:07:31
-lastmod: 2020-09-02 17:07:31
+date: 2020-09-02 10:38:01
+lastmod: 2020-09-02 10:38:01
 slug: /just-egg-expands-kroger-walmart-albertsons-safeway-and-other-stores-nationwide
 company: 234
-description: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the largest expansion yet for its award-winning plant-based egg. By the end of the month, JUST Egg will be available at more than 17,000 points of retail distribution in the United States, a 40% increase and a testament to the breakout success of the pioneering product that launched nationwide last year."
-excerpt: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the largest expansion yet for its award-winning plant-based egg. By the end of the month, JUST Egg will be available at more than 17,000 points of retail distribution in the United States, a 40% increase and a testament to the breakout success of the pioneering product that launched nationwide last year."
+description: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the largest expansion yet for its award-winning plant-based egg."
+excerpt: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the largest expansion yet for its award-winning plant-based egg."
 proteins: [Plant-Based]
 products: [Eggs]
 topics: [Business]
 regions: [US & Canada]
 flags: [Press Release]
-directory: [234, 698]
+directory: [234]
 featured_image: "Egg_LQ_FLD_Box_Bottle_FrenchToastPrep_vert_bestCrop.jpg"
 featured_image_caption: "JUST Egg"
 additional_images:
 draft: false
 pinned: false
 homepage: false
-uuid: 7609
+uuid: 11352
 ---
 SAN FRANCISCO (September 2, 2020) -- Eat Just, Inc., a company that
 applies cutting-edge science and technology to create healthier, more
@@ -97,7 +97,7 @@ of the category.
 
 **About Eat Just, Inc.**
 
-*[Eat Just,
+[Eat Just,
 Inc.](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fju.st%2F&esheet=52277930&newsitemid=20200902005368&lan=en-US&anchor=Eat+Just%2C+Inc.&index=2&md5=d0abf24b4d13c387d80b4a331b202076) is
 on a mission to build a food system where everyone eats well. The
 company's world-class team of scientists and researchers leverage a
@@ -112,10 +112,4 @@ company's flagship plant-based egg was named among Popular Science's
 most recently, its new folded plant-based egg won "Best New Frozen
 Product" at Expo West's NEXTY Awards and Delicious Living's "Best Bite
 Awards." For more information,
-visit [http://ju.st](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fju.st%2F&esheet=52277930&newsitemid=20200902005368&lan=en-US&anchor=http%3A%2F%2Fju.st&index=3&md5=b07a98438919aa1aa6919ee0e7f345b6).*
-
-**Contacts**
-
-Eat Just, Inc.\
-Andrew Noyes\
-<press@ju.st>
+visit [http://ju.st](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fju.st%2F&esheet=52277930&newsitemid=20200902005368&lan=en-US&anchor=http%3A%2F%2Fju.st&index=3&md5=b07a98438919aa1aa6919ee0e7f345b6).

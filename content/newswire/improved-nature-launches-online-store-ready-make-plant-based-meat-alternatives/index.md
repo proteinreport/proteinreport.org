@@ -1,11 +1,11 @@
 ---
 title: "Improved Nature Launches Online Store with Ready-to-Make Plant-Based Meat Alternatives"
-date: 2020-01-15 16:39:49
-lastmod: 2020-01-15 16:39:49
+date: 2020-01-15 11:53:52
+lastmod: 2020-01-15 11:53:52
 slug: /improved-nature-launches-online-store-ready-make-plant-based-meat-alternatives
 company: 1153
-description: "Improved Nature, a plant-based protein company, is excited to introduce its e-commerce website, ImprovedNatureDirect.com."
-excerpt: "Improved Nature, a plant-based protein company, is excited to introduce its e-commerce website, ImprovedNatureDirect.com."
+description: "Improved Nature, a plant-based protein company, is excited to introduce its e-commerce website."
+excerpt: "Improved Nature, a plant-based protein company, is excited to introduce its e-commerce website."
 proteins: [Plant-Based]
 products: [Meat]
 topics: [Business]
@@ -18,11 +18,11 @@ additional_images:
 draft: false
 pinned: false
 homepage: false
-uuid: 1307
+uuid: 11355
 ---
 Improved Nature, a plant-based protein company, is excited to introduce
-its e-commerce website,
-[ImprovedNatureDirect.com](https://improvednaturedirect.com/).
+its e-commerce
+website, [ImprovedNatureDirect.com](https://improvednaturedirect.com/).
 
 The new online shop exclusively features the company's dehydrated
 Nature's PRIME plant-based meat alternative product line. The
@@ -71,10 +71,8 @@ to produce.
 To learn more about Improved Nature,
 visit [ImprovedNature.com](https://improvednature.com/).
 
-Follow Improved Nature on [Twitter](https://twitter.com/ImprovedNature),
-[Instagram](https://www.instagram.com/improvednature/)
-(@ImprovedNature), [Facebook](https://www.facebook.com/ImprovedNature/)
-and [LinkedIn](https://www.linkedin.com/company/improved-nature/).
+Follow Improved Nature
+on [Twitter](https://twitter.com/ImprovedNature), [Instagram](https://www.instagram.com/improvednature/) (@ImprovedNature), [Facebook](https://www.facebook.com/ImprovedNature/) and [LinkedIn](https://www.linkedin.com/company/improved-nature/).
 
 **About Improved Nature:**
 
@@ -84,5 +82,5 @@ and simple all-natural list of ingredients. The best-in-class flavor
 will have consumers choosing healthy plant-based proteins not just
 sometimes, but more of the time. Improved Nature is addressing the
 social and environmental pressures of population growth by feeding the
-world with tastily sustainable protein. To learn more, visit
-[www.ImprovedNature.com](http://www.ImprovedNature.com).
+world with tastily sustainable protein. To learn more,
+visit [www.ImprovedNature.com](http://www.improvednature.com/).
