@@ -3,7 +3,7 @@
         <h2 class="md:w-1/3 text-center md:border-r-4 lg:text-7xl">Directory</h2>
         <p class="md:w-2/3 p-10 lg:text-2xl">Companies and organizations</p>
     </div>
-    <div class="grid grid-cols-3 border-y-4 gap-4 p-4 w-full 2xl:border-x-2">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 auto-rows-fr border-y-4 gap-4 p-4 w-full 2xl:border-x-2">
         {{ $directory:= shuffle ( where .Site.RegularPages "Section" "directory" ) }}
         {{ range first 9 $directory }}
             <div class="flex flex-row gap-2 p-2 items-center border-4">

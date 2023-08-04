@@ -3,14 +3,14 @@
         <h2 class="md:w-1/3 text-center md:border-r-4 lg:text-7xl">Jobs</h2>
         <p class="md:w-2/3 p-10 lg:text-2xl">Career and consulting opportunities</p>
     </div>
-    <div class="gird auto-rows-fr w-full divide-y-4 border-y-4 2xl:border-x-2">
+    <div class="grid auto-rows-fr auto-cols-fr w-full divide-y-4 border-y-4 2xl:border-x-2">
         {{ range first 5 ( where .Site.RegularPages "Section" "jobs" ) }}
             <div class="flex flex-row items-center">
                 <a href="{{ .RelPermalink }}" class="w-full flex items-center border-r-4 justify-center md:w-1/4">
                     {{ partial "job/logo-list" . }}
                 </a>
                 <div class="flex flex-col w-full md:w-2/3 gap-4 p-4">
-                    <a class="w-full" href="{{ .RelPermalink }}"><h2 class="text-3xl">{{ .Params.title }}</h2></a>
+                    <a class="w-full" href="{{ .RelPermalink }}"><h2 class="md:text-3xl">{{ .Params.title }}</h2></a>
                     {{ partial "job/location-list.html" . }}
                 </div>
                 <div class="md:w-1/6 flex flex-col items-center justify-center border-r-4">
