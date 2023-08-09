@@ -4,9 +4,9 @@
   {{ partial "head/body-class.html" . }}
   <body class="{{ delimit (.Scratch.Get "class") " " }}" >
     {{ partial "header/header.html" . }}
-    <div>
+    <main class="flex-auto">
       {{ block "main" . }}{{ end }}
-    </div>
+    </main>
     {{ partial "footer/footer.html" . }}
     {{ if templates.Exists "partials/footer/script-footer.html" -}}
       {{ partial "footer/script-footer.html" . }}
