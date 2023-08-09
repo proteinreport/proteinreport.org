@@ -3,13 +3,13 @@
     {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
     <article class="flex flex-row w-full bg-white transition hover:shadow-xl border">
 
-        <div class="hidden w-1/4 sm:block sm:basis-56">
+        <div class="w-1/3">
           {{ if $image }}
           <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-cover" />
           {{ end }}
         </div>
 
-        <div class="flex w-3/4 flex-col justify-between">
+        <div class="flex w-2/3 flex-col justify-between">
           <div class="border-s border-gray-900/10 p-4 sm:border-l-transparent sm:p-6">
             <a href="{{ .RelPermalink }}">
               <h3 class="font-bold uppercase text-gray-900">
@@ -22,7 +22,7 @@
             </p>
           </div>
 
-          <div class="sm:flex sm:items-end sm:justify-end">
+          <div class="hidden sm:items-end sm:justify-end">
             <a href="{{ .RelPermalink }}"
               class="block bg-yellow-300 px-5 py-3 text-center text-xs font-bold uppercase text-gray-900 transition hover:bg-yellow-400">
               Read more
