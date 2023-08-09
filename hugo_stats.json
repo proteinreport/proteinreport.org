@@ -57,6 +57,7 @@
     ],
     "classes": [
       "2xl:border-x-2",
+      "2xl:border-x-4",
       "2xl:max-w-7xl",
       "MsoListParagraphCxSpFirst",
       "MsoListParagraphCxSpLast",
@@ -175,7 +176,6 @@
       "img-fluid",
       "inline-block",
       "inset-0",
-      "invisible",
       "items-center",
       "items-stretch",
       "jobs",
