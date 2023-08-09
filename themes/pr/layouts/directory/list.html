@@ -1,32 +1,50 @@
 {{ define "main" }}
-<section class="flex flex-col items-center relative w-full border-b-4 mx-auto 2xl:max-w-7xl">
-  <div class="flex flex-row flex-wrap w-full items-center 2xl:border-x-2 md:divide-x-4">
-    <h2 class="text-center md:w-1/3 lg:text-7xl p-10">Directory</h2>
-    <p class="md:w-2/3 p-10 lg:text-2xl">Companies and organizations addressing protein industry challenges</p>
-  </div>
-  <div class="flex flex-col w-full border-t-4 divide-y-4 2xl:border-x-2">
-    {{ $paginator := .Paginate (.Data.Pages) -}}
-    {{ range $paginator.Pages -}}
-    <div class="w-full flex flex-row flex-wrap items-center">
-      <div class="w-full md:w-1/3">
-        {{ $image := .Resources.GetMatch .Params.featured_image -}}
-        {{ if $image -}}
-        <img src="{{ $image.RelPermalink }}" alt="" class="aspect-video w-full lazyload blur-up object-contain p-4 border-r-4">
-        {{ end -}}
-      </div>
-      <div class="w-full md:w-2/3 gap-12 p-2 lg:px-6">
-        <a class="p-6 w-full" href="{{ .RelPermalink }}">
-          <h2 class="text-4xl">{{ .Params.title }}</h2>
-        </a>
-      </div>
+
+<section id="events" class="w-full">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <div class="w-full py-12">
+      <h2 class="text-7xl">Directory</h2>
+      <p>Companies and organizations</p>
     </div>
-    {{ end }}
+
+    <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 sm:grid-cols-2 md:grid-cols-3">
+      {{ $paginator := .Paginate (.Data.Pages) -}}
+      {{ range $paginator.Pages -}}
+      {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+      <article class="flex items-center w-full bg-white transition hover:shadow-xl border">
+
+        <div class="p-4 w-1/3">
+          {{ if $image }}
+          <img alt="" src="{{ $image.RelPermalink }}" class="aspect-video w-full object-contain" />
+          {{ end }}
+        </div>
+
+        <div class="flex flex-col justify-between w-2/3">
+          <div class="border-s border-gray-900/10 p-4 sm:border-l-transparent sm:p-6">
+            <a href="{{ .RelPermalink }}">
+              <h3 class="font-bold uppercase text-gray-900">
+                {{ .Params.title }}
+              </h3>
+            </a>
+
+            <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-700">
+              {{ partial "directory/location.html" . }}
+            </p>
+
+            <p class="hidden mt-2 line-clamp-3 text-sm/relaxed text-gray-700">
+              {{ .Params.excerpt | safeHTML | truncate 100 }}
+            </p>
+          </div>
+        </div>
+      </article>
+      {{ end }}
+    </div>
   </div>
   <div class="flex flex-wrap  justify-center">
     <div class="md:w-full pr-4 pl-4 lg:w-3/4 pr-4 pl-4">
       {{ template "_internal/pagination.html" . }}
     </div>
   </div>
-  </div>
 </section>
+
 {{ end }}
