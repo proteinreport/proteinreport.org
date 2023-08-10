@@ -1,4 +1,4 @@
-<div class="flex flex-col w-full gap-6">
+<div class="flex flex-col w-full gap-4">
     {{ range first 5 ( where .FirstSection.RegularPages "Permalink" "ne" .Permalink ) }}
     {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
     <article class="flex flex-row w-full bg-white transition hover:shadow-xl border">
