@@ -1,16 +1,16 @@
 {{ define "main" }}
 <article>
-  <div class="border-black mx-auto 2xl:max-w-7xl 2xl:border-x-2 border-y-4 bg-gray-100">
-    <div class="py-12 px-2 text-center">
-      <h1 class="text-6xl">{{ .Title }}</h1>
-      <div class="pt-4 text-2xl">
+  <div class="mx-auto w-full border-y-4 mt-12">
+    <div class="py-12 px-2 mx-auto text-center max-w-7xl 2xl:border-x-4">
+      <h1 class="text-4xl md:text-6xl">{{ .Title }}</h1>
+      <div class="flex pt-4 text-2xl justify-center">
         {{ partial "job/meta.html" . }}
       </div>
     </div>
   </div>
-  <div class="flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-x-4 border-b-4 border-black">
-    <div class="w-full flex flex-col md:w-2/3 px-4 py-4 md:px-24">
-      <div class="prose prose-xl">
+  <div class="grid grid-cols-1 gap-6 mx-auto mt-6 max-w-7xl md:grid-cols-3 2xl:border-x-4">
+    <div class="flex flex-col w-full md:col-span-2 break-words px-2 md:border-r-2 md:px-12 lg:px-24">
+      <div class="w-full prose-xl py-4">
         {{ .Content }}
       </div>
       {{ with .Params.how_to_apply }}
@@ -18,13 +18,20 @@
         <p class="text-xl">{{ . | markdownify }}</p>
       {{ end }}
       {{ with .Params.application_link }}
-        <a href="{{ . }}" class="p-4 mt-4 text-center border-2 w-full">Apply</a>
+        <a href="{{ . }}" class="px-2 py-4 text-center border-2 w-full">Apply</a>
       {{ end }}
     </div>
-    <aside class="w-full md:w-1/3">
-      {{ partial "job/company.html" . }}
-      {{ partial "job/details.html" . }}
-    </aside>
+    <div class="flex flex-col w-full gap-6 md:col-span-1">
+      <aside class="flex flex-col gap-4 w-full mt-2 px-2 md:pl-0">
+        <div>
+          <h3 class="text-lg font-bold">Job posted by:</h3>
+          {{ partial "job/company.html" . }}
+        </div>
+        <div>
+          {{ partial "job/details.html" . }}
+        </div>
+      </aside>
+    </div>
   </div>
 </article>
 {{ end }}
