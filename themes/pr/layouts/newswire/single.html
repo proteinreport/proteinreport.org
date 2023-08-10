@@ -1,31 +1,46 @@
 {{ define "main" }}
-<article class="flex flex-col pb-12">
-  <div class="border-black mx-auto 2xl:max-w-7xl 2xl:border-x-2 border-y-4 bg-gray-100">
-    <div class="py-12 px-2 text-center">
-      <h1 class="text-6xl">{{ .Title }}</h1>
+<article>
+  <div class="mx-auto w-full border-y-4 mt-12">
+    <div class="py-12 px-2 mx-auto text-center max-w-7xl 2xl:border-x-4">
+      <h1 class="text-4xl md:text-6xl">{{ .Title }}</h1>
       <div class="pt-4 text-2xl">
         {{ partial "newswire/meta.html" . }}
       </div>
     </div>
   </div>
-  <div class="flex flex-row flex-wrap mx-auto 2xl:max-w-7xl divide-x-4">
-    <div class="w-full flex flex-col md:max-w-[66.6%] relative">
+  <div class="grid grid-cols-1 gap-6 mx-auto max-w-7xl md:grid-cols-3 2xl:border-x-4">
+    <div class="flex flex-col w-full md:col-span-2">
       {{ $image := .Resources.GetMatch .Params.featured_image -}}
       {{ if $image -}}
-        <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video w-full object-cover border-b-4">
+      <div class="w-full relative">
+        <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video object-cover w-full">
+        {{ partial "newswire/flags.html" . }}
       {{ end -}}
-      {{ partial "newswire/flags.html" . }}
-      <div class="w-full px-4 py-4 md:px-12 lg:px-24 prose-xl">
+      </div>
+      <div class="w-full prose-xl px-2 py-4 md:px-12 lg:px-24 ">
         {{ .Content }}
       </div>
     </div>
-    <aside class="w-full md:max-w-[33.3%]">
-      {{ partial "newswire/company.html" . }}
-      {{ partial "newswire/categories.html" . }}
-      {{ partial "newswire/additional_images.html" . }}
-      {{ partial "newswire/latest.html" . }}
-    </aside>
+    <div class="flex flex-col w-full gap-6 md:col-span-1">
+      <aside class="flex flex-col gap-4 w-full mt-2 px-2 md:pl-0">
+        <div>
+          <h3 class="text-lg  font-bold">News provided by:</h3>
+          {{ partial "newswire/company.html" . }}
+        </div>
+        <div>
+          <h3 class="text-lg font-bold">Categories:</h3>
+          {{ partial "newswire/categories.html" . }}
+        </div>
+        <div>
+          <h3 class="text-lg font-bold">Additional images:</h3>
+          {{ partial "newswire/additional_images.html" . }}
+        </div>
+      </aside>
+      <aside class="w-full mt-12 px-2 md:pl-0 md:h-fit md:sticky md:top-0">
+        <h3 class="text-3xl my-2 border-b-2">Latest Press Releases</h3>
+        {{ partial "newswire/latest.html" . }}
+      </aside>
+    </div>
   </div>
-  <div class="py-8"></div>
 </article>
 {{ end }}
