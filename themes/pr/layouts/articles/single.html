@@ -12,10 +12,10 @@
     <div class="flex flex-col w-full md:col-span-2">
       {{ $image := .Resources.GetMatch .Params.featured_image -}}
       {{ if $image -}}
-      <div class="w-full relative">
-        <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video object-cover w-full">
-        {{ partial "article/flags.html" . }}
-      </div>
+        <div class="w-full relative">
+          <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video object-cover w-full">
+          {{ partial "article/flags.html" . }}
+        </div>
       {{ end -}}
       <div class="w-full px-2 py-4 text-xl leading-normal md:px-24">
         {{ .Content }}

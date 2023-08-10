@@ -12,19 +12,19 @@
     <div class="flex flex-col w-full md:col-span-2">
       {{ $image := .Resources.GetMatch .Params.featured_image -}}
       {{ if $image -}}
-      <div class="w-full relative">
-        <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video object-cover w-full">
-        {{ partial "newswire/flags.html" . }}
+        <div class="w-full relative">
+          <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video object-cover w-full">
+          {{ partial "newswire/flags.html" . }}
+        </div>
       {{ end -}}
-      </div>
-      <div class="w-full prose-xl px-2 py-4 md:px-12 lg:px-24 ">
+      <div class="w-full prose-xl px-2 py-4 md:px-12 lg:px-24">
         {{ .Content }}
       </div>
     </div>
     <div class="flex flex-col w-full gap-6 md:col-span-1">
       <aside class="flex flex-col gap-4 w-full mt-2 px-2 md:pl-0">
         <div>
-          <h3 class="text-lg  font-bold">News provided by:</h3>
+          <h3 class="text-lg font-bold">News provided by:</h3>
           {{ partial "newswire/company.html" . }}
         </div>
         <div>
