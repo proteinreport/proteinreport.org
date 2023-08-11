@@ -1,0 +1,239 @@
+{{ define "main" }}
+<article>
+  <div class="mx-auto w-full border-y-4 mt-12">
+    <div class="py-12 px-2 mx-auto text-center max-w-7xl 2xl:border-x-4">
+      <h1 class="text-4xl md:text-6xl">{{ .Title }}</h1>
+    </div>
+  </div>
+  <div class="grid grid-cols-1 gap-6 mx-auto max-w-7xl 2xl:border-x-4">
+    <div class="flex flex-col w-full">
+      {{ $image := .Resources.GetMatch .Params.featured_image -}} {{ if $image
+      -}}
+      <div class="w-full relative">
+        <img
+          src="{{ $image.RelPermalink }}"
+          alt=""
+          class="lazyload blur-up img-fluid w-full"
+        />
+      </div>
+      {{ end -}}
+    </div>
+  </div>
+  <div
+    class="grid grid-cols-1 gap-6 mt-6 mx-auto px-2 max-w-7xl md:px-6 md:grid-cols-3 2xl:border-x-4"
+  >
+    <div class="flex flex-col gap-6 w-full text-xl col-span-1 md:col-span-2">
+      <div class="w-full mx-auto px-2 md:px-24">
+        <p class="text-2xl font-medium italic text-center">
+          Celebrating emerging thought leadership and excellence in
+          communication around the world's most complex food system challenges
+        </p>
+      </div>
+      <div id="overview" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Overview
+        </h2>
+        <h3 class="font-medium">What</h3>
+        <p>
+          An essay contest for undergraduate and graduate students — with BIG
+          prizes!
+        </p>
+        <ul class="list-disc list-inside pl-4">
+          <li>First place: $1500</li>
+          <li>Second place: $1000</li>
+          <li>Third place: $500</li>
+          <li>Runners-up: Exciting non-cash prizes</li>
+          <li>
+            Winning and runner-up essays to be announced and published on
+            Protein Report
+          </li>
+        </ul>
+        <h3 class="font-medium">Who</h3>
+        <p>
+          Any university student or recent graduate from anywhere in the world
+          can participate.
+        </p>
+        <h3 class="font-medium">When</h3>
+        <p>
+          Submissions must be received by <strong>September 24, 2021</strong>.
+          Results will be announced in October 2021.
+        </p>
+        <h3 class="font-medium">How</h3>
+        <p>To participate, carefully read the sections below.</p>
+        <h3 class="font-medium">Why</h3>
+        <p>
+          To encourage, support, and reward emerging thought leadership and
+          excellence in communication.
+        </p>
+      </div>
+      <div id="prompt" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Prompt
+        </h2>
+        <p>
+          Protein industry challenges are numerous, multifaceted, and
+          interconnected. From deforestation and biodiversity loss to pandemic
+          risk and antimicrobial resistance — to name just a few — the threats
+          presented by inaction are nothing short of existential. But who is
+          responsible for initiating and implementing solutions? It seems unfair
+          and impractical to place all the burden on consumers. And yet,
+          consumer preferences, beliefs, opinions, and behaviors are key to the
+          success of any public- or private-sector interventions. Against the
+          complexity and uncertainty of this situation, one thing remains clear:
+          Time to find a solution is running out.
+        </p>
+
+        <p>
+          The rapidly evolving science of cellular agriculture offers the
+          possibility to solve many of the world's protein-related dilemmas
+          within a timeframe not otherwise on the table. But realizing its
+          promise will require overcoming barriers at the technical, policy,
+          economic, and sociocultural levels. As a potentially transformative
+          new technology, cellular agriculture also brings its own set of risks
+          regarding how it is ultimately utilized and distributed.
+        </p>
+
+        <p>
+          In this context, what issue does your general field of study or your
+          particular research interest address, and how does it contribute
+          toward a solution?
+        </p>
+      </div>
+      <div id="rules" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Rules & Requirements
+        </h2>
+        <p>
+          <strong>Eligibility</strong>: In order to participate, you must be a
+          full-time undergraduate or graduate student or have completed your
+          degree within the past three months at the time of submission.
+        </p>
+
+        <p>
+          <strong>Multiple authors</strong>: Submissions with multiple authors
+          may be accepted, however, all authors must meet the contest’s
+          eligibility requirements, and only one representative may be
+          responsible for submitting the essay and receiving prizes if selected
+          as a winner.
+        </p>
+
+        <p>
+          <strong>Exclusivity</strong>: The essay must not have already been
+          published or submitted for publication elsewhere at the time of
+          submission.
+        </p>
+
+        <p><strong>Essay length</strong>: No minimum. Maximum 4000 words.</p>
+      </div>
+      <div id="selection" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Selection Process
+        </h2>
+        <p>
+          Protein Report editors will shortlist up to 10 finalist essays to
+          present to the judges. In order to be considered for shortlisting,
+          submissions must follow guidance from the Language and Sources
+          sections of Protein Report's Code of Practice, as well as the code's
+          general principles and overall spirit. Initial review and shortlisting
+          will also focus on quality of writing, reasoning, and originality.
+        </p>
+
+        <p>
+          Finalist essays will be shared with the panel of judges, who will
+          evaluate and rank each according to the following criteria:
+        </p>
+
+        <ol class="list-decimal list-inside pl-4">
+          <li>
+            <em>Thought, vision, and conceptual scope</em>: Does the essay
+            elevate the reader's thinking or understanding?
+          </li>
+          <li>
+            <em>Writing quality</em>: Flow, style, focus, and clarity — is it a
+            good read?
+          </li>
+          <li>
+            <em>Analytical and/or creative depth</em>: How effectively and
+            accurately does the essay cover its subject matter?
+          </li>
+          <li>
+            <em>Good practice</em>: Is it balanced in approach, language, tone,
+            and target audience?
+          </li>
+        </ol>
+        <p>Read about how final scores will be calculated.</p>
+      </div>
+      <div id="instructions" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Instructions
+        </h2>
+        <p>
+          Submit your essay by <strong>September 24, 2021</strong> using the
+          following link:
+        </p>
+        <p>ESSAY SUBMISSION FORM</p>
+
+        <p>
+          <strong>Note</strong>: For security purposes, you will need to be
+          logged in to a Google account in order to access the form and upload
+          your document.
+        </p>
+
+        <p>
+          <strong>Important</strong>: Essay documents must begin directly with
+          the essay title. Your essay's title must NOT include your name or the
+          name of your university. The essay document must NOT include a cover
+          page and must NOT include any headers or footers containing your name
+          or the name of your university. Submissions failing to follow these
+          instructions will not be accepted.
+        </p>
+
+        <p>
+          <strong>Sources and citations</strong>: There is no requirement to use
+          a specific style guide, however, all sources must be referenced using
+          parenthetical citations and included in a list of works or
+          bibliography at the end of the essay document. Citations in footnote
+          form will not be accepted.
+        </p>
+      </div>
+      <div id="terms" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Terms & Conditions
+        </h2>
+        <p>By submitting an entry you agree to the following:</p>
+        <ul class="list-disc list-inside pl-4">
+          <li>
+            To surrender full ownership and copyright of the essay to Protein
+            Report — it may not be published elsewhere, in whole or in part,
+            without Protein Report’s explicit permission, including modified
+            versions of the work.
+          </li>
+          <li>
+            To guarantee the essay was written entirely by yourself (or listed
+            team members if a multiple-author submission), and no part of the
+            essay has been plagiarized, copied, or paraphrased from any other
+            author without giving explicit credit to the original.
+          </li>
+          <li>
+            Protein Report may edit essays it chooses to publish for style,
+            content, and to conform to Protein Report’s editorial standards.
+          </li>
+          <li>
+            Protein Report reserves the right to cancel the contest or change
+            its rules, terms, conditions, or prizes at any time for any reason
+            at its sole discretion.
+          </li>
+        </ul>
+      </div>
+      <div id="judges" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Judges
+        </h2>
+      </div>
+    </div>
+    <div class="col-span-1 md:col-span-1">
+      <p>Menu</p>
+    </div>
+  </div>
+</article>
+{{ end }}
