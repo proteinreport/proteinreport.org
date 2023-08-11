@@ -10,6 +10,7 @@ products: [Meat]
 topics: [Business, Culture, Policy]
 regions: [Europe, International]
 flags: [NA]
+essay_contest: [First Place]
 directory: [NA]
 contributors: [9832]
 featured_image: "eva_0.jpg"

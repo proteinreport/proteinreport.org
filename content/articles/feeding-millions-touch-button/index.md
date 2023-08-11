@@ -10,6 +10,7 @@ products: [Meat]
 topics: [Health, Sci-Tech]
 regions: [International]
 flags: [NA]
+essay_contest: [Runner-up]
 directory: [NA]
 contributors: [9836]
 featured_image: "KR_0.jpeg"
@@ -37,7 +38,7 @@ uuid: 9835
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig1.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1276,&quot;height&quot;:670,&quot;rel&quot;:&quot;blazy-filter-buh6kjs0clc-18-export-data-export-1&quot;}">      <div style="padding-bottom: 52.51%;" data-ratio="52.51" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig1.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1276,&quot;height&quot;:670,&quot;rel&quot;:&quot;blazy-filter-k1hmlfrfjfw-18-export-data-export-1&quot;}">      <div style="padding-bottom: 52.51%;" data-ratio="52.51" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="figure one" title="fig1.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="17d523f4-1e34-4433-ac1b-842c1109f60d" data-src="/sites/default/files/inline-images/fig1.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201276%20670'%2F%3E" width="1276" height="670" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
@@ -69,7 +70,7 @@ population that remains hungry at a particular location [1,2,4]</div>
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig2.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1381,&quot;height&quot;:651,&quot;rel&quot;:&quot;blazy-filter-buh6kjs0clc-18-export-data-export-1&quot;}">      <div style="padding-bottom: 47.14%;" data-ratio="47.14" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig2.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1381,&quot;height&quot;:651,&quot;rel&quot;:&quot;blazy-filter-k1hmlfrfjfw-18-export-data-export-1&quot;}">      <div style="padding-bottom: 47.14%;" data-ratio="47.14" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Figure two" title="fig2.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="45287ad4-3c7e-43e9-9493-7aeb1d5721ec" data-src="/sites/default/files/inline-images/fig2.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201381%20651'%2F%3E" width="1381" height="651" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

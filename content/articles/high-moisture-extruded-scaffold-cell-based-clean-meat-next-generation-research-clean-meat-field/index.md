@@ -10,6 +10,7 @@ products: [Meat]
 topics: [Sci-Tech]
 regions: [Asia, International]
 flags: [NA]
+essay_contest: [Runner-up]
 directory: [NA]
 contributors: [9841, 9893]
 featured_image: "hzxm.jpg"

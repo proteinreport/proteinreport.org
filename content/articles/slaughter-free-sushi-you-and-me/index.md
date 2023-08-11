@@ -10,6 +10,7 @@ products: [Seafood]
 topics: [Culture]
 regions: [US & Canada]
 flags: [NA]
+essay_contest: [Runner-up]
 directory: [NA]
 contributors: [9845]
 featured_image: "Jake Marko_0.png"

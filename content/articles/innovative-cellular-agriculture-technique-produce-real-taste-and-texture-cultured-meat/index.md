@@ -10,6 +10,7 @@ products: [Meat]
 topics: [Sci-Tech]
 regions: [International, Oceania]
 flags: [NA]
+essay_contest: [Third Place]
 directory: [NA]
 contributors: [9843]
 featured_image: "rahul_0.jpg"
@@ -53,7 +54,7 @@ growth of healthy tissues. A lack of blood vessels hinders the efficient transfe
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig1_1.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:3338,&quot;height&quot;:2352,&quot;rel&quot;:&quot;blazy-filter-zfadvldx-uy-16-export-data-export-1&quot;}">      <div style="padding-bottom: 70.46%;" data-ratio="70.46" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig1_1.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:3338,&quot;height&quot;:2352,&quot;rel&quot;:&quot;blazy-filter-ipxkd9r43si-16-export-data-export-1&quot;}">      <div style="padding-bottom: 70.46%;" data-ratio="70.46" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="figure one" title="fig1_1.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="5c2a41c7-c2c0-4d01-93d8-602ae89ebe3f" data-src="/sites/default/files/inline-images/fig1_1.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%203338%202352'%2F%3E" width="3338" height="2352" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
@@ -92,7 +93,7 @@ growth of healthy tissues. A lack of blood vessels hinders the efficient transfe
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig2_1.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1338,&quot;height&quot;:813,&quot;rel&quot;:&quot;blazy-filter-zfadvldx-uy-16-export-data-export-1&quot;}">      <div style="padding-bottom: 60.76%;" data-ratio="60.76" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig2_1.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1338,&quot;height&quot;:813,&quot;rel&quot;:&quot;blazy-filter-ipxkd9r43si-16-export-data-export-1&quot;}">      <div style="padding-bottom: 60.76%;" data-ratio="60.76" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="figure two" title="fig2_1.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="c7aee8ee-3ad3-4fb8-a691-7b374cf3d310" data-src="/sites/default/files/inline-images/fig2_1.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201338%20813'%2F%3E" width="1338" height="813" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
@@ -128,7 +129,7 @@ growth of healthy tissues. A lack of blood vessels hinders the efficient transfe
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig4.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1037,&quot;height&quot;:794,&quot;rel&quot;:&quot;blazy-filter-zfadvldx-uy-16-export-data-export-1&quot;}">      <div style="padding-bottom: 76.57%;" data-ratio="76.57" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig4.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1037,&quot;height&quot;:794,&quot;rel&quot;:&quot;blazy-filter-ipxkd9r43si-16-export-data-export-1&quot;}">      <div style="padding-bottom: 76.57%;" data-ratio="76.57" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="figure four" title="fig4.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="8a0f1907-19d1-4993-a8e1-2f2d600283d1" data-src="/sites/default/files/inline-images/fig4.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201037%20794'%2F%3E" width="1037" height="794" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

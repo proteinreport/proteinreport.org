@@ -48,6 +48,9 @@ for (row in 1:nrow(import_data)) {
   write(paste("topics: [",import_data[row,]$topics, "]", sep = ""), file_path, append = T)
   write(paste("regions: [",import_data[row,]$regions, "]", sep = ""), file_path, append = T)
   write(paste("flags: [",import_data[row,]$flags, "]", sep = ""), file_path, append = T)
+  if (!(is.na(import_data[row,]$essay_contest))) {
+    write(paste("essay_contest: [",import_data[row,]$essay_contest, "]", sep = ""), file_path, append = T)
+  }
   write(paste("directory: [",import_data[row,]$directory, "]", sep = ""), file_path, append = T)
   write(paste("contributors: [",import_data[row,]$contributors, "]", sep = ""), file_path, append = T)
   write(paste("featured_image: ",shQuote(import_data[row,]$images), sep = ""), file_path, append = T)

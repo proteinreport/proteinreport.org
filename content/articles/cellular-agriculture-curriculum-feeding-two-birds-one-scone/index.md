@@ -10,6 +10,7 @@ products: [Meat]
 topics: [Culture]
 regions: [International, US & Canada]
 flags: [NA]
+essay_contest: [Runner-up]
 directory: [NA]
 contributors: [9834]
 featured_image: "mollyg.jpg"

@@ -10,6 +10,7 @@ products: [Meat]
 topics: [Sci-Tech]
 regions: [International, Oceania]
 flags: [NA]
+essay_contest: [Runner-up]
 directory: [NA]
 contributors: [9839]
 featured_image: "namtran_0.jpeg"
@@ -31,7 +32,7 @@ uuid: 9840
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig1_0.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:997,&quot;height&quot;:766,&quot;rel&quot;:&quot;blazy-filter-cyaqmoodzoc-20-export-data-export-1&quot;}">      <div style="padding-bottom: 76.83%;" data-ratio="76.83" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig1_0.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:997,&quot;height&quot;:766,&quot;rel&quot;:&quot;blazy-filter-eufwcwot4hk-20-export-data-export-1&quot;}">      <div style="padding-bottom: 76.83%;" data-ratio="76.83" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Figure one" title="fig1_0.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="cd0ef356-1456-4543-8fa7-12d1107f3374" data-src="/sites/default/files/inline-images/fig1_0.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20997%20766'%2F%3E" width="997" height="766" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>
@@ -55,7 +56,7 @@ uuid: 9840
 
 
 
-      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig2_0.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1609,&quot;height&quot;:619,&quot;rel&quot;:&quot;blazy-filter-cyaqmoodzoc-20-export-data-export-1&quot;}">      <div style="padding-bottom: 38.47%;" data-ratio="38.47" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
+      <div class="media-wrapper media-wrapper--blazy figure-img img-fluid media-wrapper--image">              <a href="/sites/default/files/inline-images/fig2_0.jpg" class="blazy__colorbox litebox" data-colorbox-trigger="" data-media="{&quot;id&quot;:&quot;colorbox&quot;,&quot;type&quot;:&quot;image&quot;,&quot;width&quot;:1609,&quot;height&quot;:619,&quot;rel&quot;:&quot;blazy-filter-eufwcwot4hk-20-export-data-export-1&quot;}">      <div style="padding-bottom: 38.47%;" data-ratio="38.47" class="media media--blazy media--loading is-b-loading media--switch media--switch--colorbox media--ratio media--ratio--fluid media--image">
 <img alt="Figure two" title="fig2_0.jpg" class="media__image media__element b-lazy img-fluid" data-entity-uuid="c19fe584-b274-4489-b395-09d2c0434fae" data-src="/sites/default/files/inline-images/fig2_0.jpg" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201609%20619'%2F%3E" width="1609" height="619" loading="lazy" typeof="foaf:Image" />
         <span class="media__icon media__icon--litebox"></span></div>
   </a>

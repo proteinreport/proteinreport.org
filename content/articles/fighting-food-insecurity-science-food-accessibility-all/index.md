@@ -10,6 +10,7 @@ products: [Meat]
 topics: [Health, Sci-Tech]
 regions: [International]
 flags: [NA]
+essay_contest: [Second Place]
 directory: [NA]
 contributors: [9837]
 featured_image: "eileen_0.jpg"

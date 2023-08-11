@@ -10,6 +10,7 @@ products: [Meat]
 topics: [Health]
 regions: [International, Latin America & Caribbean]
 flags: [NA]
+essay_contest: [Honorable Mention]
 directory: [NA]
 contributors: [9862]
 featured_image: "roka_0.jpg"
