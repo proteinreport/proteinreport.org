@@ -18,7 +18,7 @@ cover_image: "eileen_0.jpg"
 draft: false
 pinned: false
 homepage: false
-weight: 5000
+weight: 2000
 uuid: 9838
 ---
 <p><em><strong>This essay is second-place winner of the <a href="https://www.proteinreport.org/student-essay-contest-2021">Student Essay Contest 2021</a>. Eileen McNamara is a Neuroscience PhD Candidate Researcher at the Uniformed Services University of the Health Sciences and a Cellular Agriculture Society Fellow.</strong></em></p>

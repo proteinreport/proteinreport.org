@@ -18,7 +18,7 @@ cover_image: "eva_0.jpg"
 draft: false
 pinned: false
 homepage: false
-weight: 5000
+weight: 1000
 uuid: 9831
 ---
 <p><em><strong>This essay is first-place winner of the <a href="https://www.proteinreport.org/student-essay-contest-2021">Student Essay Contest 2021</a>. Eva Koffeman graduated from the University of Amsterdam in August 2021 with an MBA in Consumer Marketing.</strong></em></p>

@@ -18,7 +18,7 @@ cover_image: "namtran_0.jpeg"
 draft: false
 pinned: false
 homepage: false
-weight: 5000
+weight: 2000
 uuid: 9840
 ---
 <p><em><strong>This is a <a href="https://www.proteinreport.org/student-essay-contest-2021">Student Essay Contest 2021</a> runner-up. Nam Tran is a Biophysics PhD candidate in the Department of Physics and Astronomy at Swinburne University of Technology.</strong></em></p>

@@ -18,7 +18,7 @@ cover_image: "rahul_0.jpg"
 draft: false
 pinned: false
 homepage: false
-weight: 5000
+weight: 3000
 uuid: 9844
 ---
 <p><em><strong>This essay is third-place winner of the <a href="https://www.proteinreport.org/student-essay-contest-2021">Student Essay Contest 2021</a>. Rahul Harshath Elangovan is a master’s degree student in the Department of Food Science at the University of Melbourne.</strong></em></p>
