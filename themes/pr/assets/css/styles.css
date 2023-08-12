@@ -56,6 +56,9 @@
   .blur-up.lazyloaded {
     filter: unset;
   }
+  p > a {
+    @apply special-underline;
+  }
 }
 
 @layer components {
@@ -70,6 +73,14 @@
   }
   .filter-grayscale {
     filter: grayscale(100%);
+  }
+  .special-underline {
+    @apply bg-gradient-to-r from-yellow-200 to-yellow-200
+      bg-no-repeat [background-position:0_88%]
+      [background-size:100%_0.2em]
+      motion-safe:transition-all motion-safe:duration-200
+      hover:[background-size:100%_80%]
+      focus:[background-size:100%_100%];
   }
 }
 
@@ -213,3 +224,4 @@ html.is-animating .transition-fade {
   height: 4px;
   background-color: rgb(192, 99, 0);
 }
+

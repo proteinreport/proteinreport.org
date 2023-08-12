@@ -12,7 +12,9 @@
             </div>
 
             <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 md:grid-cols-2">
-                {{ range first 3 ( where .Site.RegularPages "Section" "articles" ) }}
+                {{ $places := slice "First Place" "Second Place" "Third Place" }}
+                {{ $winners := where ( where .Site.RegularPages "Section" "articles" ) "Params.essay_contest" "intersect" $places }}
+                {{ range $winners }}
                 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
                 <article class="flex bg-white transition hover:shadow-xl border">
                     <div class="rotate-180 p-2 [writing-mode:_vertical-lr]">
@@ -57,7 +59,8 @@
             </div>
 
             <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 md:grid-cols-2">
-                {{ range first 5 ( where .Site.RegularPages "Section" "articles" ) }}
+                {{ $runners_up := where ( where .Site.RegularPages "Section" "articles" ) "Params.essay_contest" "intersect" (slice "Runner-up") }}
+                {{ range $runners_up }}
                 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
                 <article class="flex bg-white transition hover:shadow-xl border">
                     <div class="rotate-180 p-2 [writing-mode:_vertical-lr]">
@@ -102,7 +105,8 @@
             </div>
 
             <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 md:grid-cols-2">
-                {{ range first 1 ( where .Site.RegularPages "Section" "articles" ) }}
+                {{ $honorable_mention := where ( where .Site.RegularPages "Section" "articles" ) "Params.essay_contest" "intersect" (slice "Honorable Mention") }}
+                {{ range $honorable_mention }}
                 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
                 <article class="flex bg-white transition hover:shadow-xl border">
                     <div class="rotate-180 p-2 [writing-mode:_vertical-lr]">
@@ -144,6 +148,23 @@
 
             <div class="w-full py-12">
                 <h2 class="text-7xl">Rising Talent</h2>
+            </div>
+            <div class="grid grid-cols-2 gap-4 text-center text-base md:grid-cols-3 lg:grid-cols-4">
+                <a href="https://www.linkedin.com/in/ishita-isha-b81937183/" target="_blank" class="flex flex-col">
+                  <img src="ishita.jpg" alt="Ishita Isha"
+                    class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+                  <p>
+                    <strong>Ishita Isha</strong>
+                  </p>
+                </a>
+      
+                <a href="https://www.linkedin.com/in/carmen-nobre/" target="_blank" class="flex flex-col">
+                  <img src="carmen.jpg" alt="Carmen Bezerra"
+                    class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+                  <p>
+                    <strong>Carmen Bezerra</strong>
+                  </p>
+                </a>
             </div>
 
         </div>
