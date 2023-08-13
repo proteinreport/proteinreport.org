@@ -1,0 +1,35 @@
+{{ define "main" }}
+<article>
+  <div class="mx-auto w-full border-y-4 mt-12">
+    <div class="py-12 px-2 mx-auto text-center max-w-7xl 2xl:border-x-4">
+      <h1 class="text-4xl md:text-6xl">{{ .Title }}</h1>
+    </div>
+  </div>
+  <div class="grid grid-cols-1 gap-6 mx-auto max-w-7xl 2xl:border-x-4">
+    <div class="flex flex-col w-full">
+      {{ $image := .Resources.GetMatch .Params.featured_image -}} {{ if $image
+      -}}
+      <div class="w-full relative">
+        <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid w-full" />
+      </div>
+      {{ end -}}
+    </div>
+  </div>
+  <div class="grid grid-cols-1 gap-6 mt-6 mx-auto px-2 max-w-7xl md:px-6 md:grid-cols-3 2xl:border-x-4">
+    <div class="flex flex-col gap-6 w-full text-xl col-span-1 md:col-span-2">
+      <div class="prose prose-xl leading-normal">
+        {{ .Content }}
+      </div>
+    </div>
+    <div class="flex flex-col w-full gap-6 text-lg md:col-span-1 md:h-fit md:sticky md:top-0">
+      <nav class="w-full flex flex-col gap-1">
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="/terms">Terms of Use</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="/privacy">Privacy Policy</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="/independence">Editorial Independence</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="/equity-and-inclusion">Equity & Inclusion</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="/advertising-acceptability">Advertising Acceptability</a>
+      </nav>
+    </div>
+  </div>
+</article>
+{{ end }}
