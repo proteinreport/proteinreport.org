@@ -9,7 +9,10 @@
 
     <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 md:grid-cols-2">
       {{ $paginator := .Paginate (.Data.Pages) -}}
-      {{ range $paginator.Pages -}}
+      {{ $essay_contest_cats := slice "First Place" "Second Place" "Third Place" "Runner-up" "Honorable Mention"}}
+      {{ $essay_contest_articles := where $paginator.Pages ".Params.essay_contest" "intersect" $essay_contest_cats }}
+      {{ $articles := $paginator.Pages | symdiff $essay_contest_articles }}
+      {{ range $articles -}}
       {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
       <article class="flex bg-white transition hover:shadow-xl border">
         <div class="rotate-180 p-2 [writing-mode:_vertical-lr]">
