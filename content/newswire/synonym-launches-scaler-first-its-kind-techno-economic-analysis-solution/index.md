@@ -57,17 +57,16 @@ founders of prominent synthetic biology companies and industry experts,
 who emphasize its value in providing key insights into unit economics as
 they scale.
 
-The tool complements
-[[Capacitor.bio]{.underline}](https://capacitor.bio/), the most
+The tool complements [Capacitor.bio](https://capacitor.bio/), the most
 comprehensive, free directory of global fermentation capacity that
 Synonym launched last fall. Together, Capacitor and Scaler provide the
 synthetic biology ecosystem with a powerful, accessible suite of tools
 to guide companies along their biomanufacturing scale up journey.
 
 To start utilizing or to learn more about Scaler, please visit
-[[www.scaler.bio]{.underline}](http://www.scaler.bio).
+[www.scaler.bio](http://www.scaler.bio).
 
-**[About Synonym]{.underline}**
+**About Synonym**
 
 Based in New York City, Synonym
 ([www.synonym.bio](http://www.synonym.bio)) designs, develops, finances

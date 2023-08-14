@@ -123,7 +123,7 @@ regulatory
 approval](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20201201006251%2Fen%2FEat-Just-Granted-World%25E2%2580%2599s-First-Regulatory-Approval-for-Cultured-Meat&esheet=52431244&newsitemid=20210518005385&lan=en-US&anchor=first-in-the-world+regulatory+approval&index=2&md5=1e35b6bac2adbe5e4fb82b73468a67d0) of
 cultivated meat. Since then, through a partnership with [partnership
 with
-foodpanda](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20210419005973%2Fen%2FEat-Just-and-Foodpanda-Partner-on-World%25E2%2580%2599s-First-Home-Delivery-of-Cultured-Meat&esheet=52431244&newsitemid=20210518005385&lan=en-US&anchor=pioneering+partnership+with+foodpanda&index=4&md5=7739cf324aeac48c91984f996cb5e4cf)[, ]{.underline}Asia\'s
+foodpanda](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20210419005973%2Fen%2FEat-Just-and-Foodpanda-Partner-on-World%25E2%2580%2599s-First-Home-Delivery-of-Cultured-Meat&esheet=52431244&newsitemid=20210518005385&lan=en-US&anchor=pioneering+partnership+with+foodpanda&index=4&md5=7739cf324aeac48c91984f996cb5e4cf), Asia\'s
 leading food and grocery delivery platform, hundreds of customers have
 enjoyed GOOD Meat's chicken. 
 

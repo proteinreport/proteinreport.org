@@ -20,9 +20,8 @@ pinned: false
 homepage: false
 uuid: 10265
 ---
-[Market report from Lever China and Chinese media outlet FoodPlus also
-finds the term \"customized meat\" resonates best with Chinese
-consumers]{.underline}
+Market report from Lever China and Chinese media outlet FoodPlus also
+finds the term \"customized meat\" resonates best with Chinese consumers
 
 **Shanghai --** A new study of over 2,000 consumers across China finds
 90% say they would eat cultivated meat, and 30% would make it their main

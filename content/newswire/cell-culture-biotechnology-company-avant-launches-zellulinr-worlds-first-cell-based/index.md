@@ -63,7 +63,7 @@ technology, Zellulin® brings cell culture technology into the US\$52.5
 billion global anti-aging product market with expectations to reach
 US\$83.2 billion by 2027\[1\]. For more information regarding the
 product and partnership opportunities, please visit
-[[zellulin.tech]{.underline}](https://zellulin.tech/).  
+[zellulin.tech](https://zellulin.tech/).  
 
 **About Avant **
 
@@ -80,9 +80,9 @@ contained environment. It has been named on CleanTech Group's *2020 APAC
 *Reuters,* *Forbes, The Telegraph, South China Morning Post, and CCTV*.
 Avant was founded in 2018 and is based in Hong Kong Science Park. For
 more information, please visit
-[[www.avantmeats.com](http://www.avantmeats.com)]{.underline}. 
+[www.avantmeats.com](http://www.avantmeats.com). 
 
 For interview requests or media inquiries, please contact
-[<press@avantmeats.com>]{.underline}.  
+<press@avantmeats.com>.  
 
  

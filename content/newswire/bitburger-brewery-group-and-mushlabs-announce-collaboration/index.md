@@ -37,7 +37,7 @@ Hamburg, July 13, 2022. Bitburger Ventures, the venture investment arm
 of the Bitburger Group of Companies, invested in Mushlabs in 2019. Now
 the companies are launching their strategic collaboration, with the goal
 of rapidly developing innovative production processes that could save
-millions of tons of CO~2~.
+millions of tons of CO2.
 
 Utilizing high-value byproducts from the local agri-food industry, and
 thus returning valuable nutrients to the food economy, are integral
@@ -52,7 +52,7 @@ has been working intensively on sustainability issues along the value
 chain for years and already recycles its residual materials to the
 agricultural sector. In cooperation with Mushlabs, these residual
 materials will be used for mycelial fermentation, among other things, in
-order to reduce transport distances and further improve the CO~2~
+order to reduce transport distances and further improve the CO2
 footprint.
 
 **Quote from Dr. Thibault Godard, CSO at Mushlabs:**\

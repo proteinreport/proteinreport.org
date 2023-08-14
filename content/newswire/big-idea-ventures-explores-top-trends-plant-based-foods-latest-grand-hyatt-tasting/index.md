@@ -76,8 +76,7 @@ think what we can create with that",* said Chef Gottfried.
 
 *Top trends to come out of the Tasting Event:*
 
-1.  [Fermentation drives more options for alternative
-    protein]{.underline}
+1.  Fermentation drives more options for alternative protein
 
 Fermentation can develop everything from seafood and sustainable oils,
 and innovations will rise in these areas in 2021.
@@ -91,8 +90,7 @@ seafood alternative created through microbial fermentation and
 fermentation process delivers sustainable alternatives to tropical oils
 and animal fats for diverse applications..
 
-2.  [Alternative protein dine-in and take-out options
-    growing]{.underline}
+2.  Alternative protein dine-in and take-out options growing
 
 Plant-based options have thrived despite the pandemic, and many products
 have launched throughout the world. [Angie\'s Tempeh,
@@ -112,7 +110,7 @@ Ideas 2021* and 2020 offered a virtual tasting option where guests could
 opt to have a tasting kit delivered to enjoy in the comfort of their
 homes or offices.
 
-3.  [Improving Taste and Texture for Alternative Protein]{.underline}
+3.  Improving Taste and Texture for Alternative Protein
 
 As more consumers adopt a plant-based diet, we need plant-based foods to
 have not only the right taste, smell and price but also the right
@@ -121,8 +119,8 @@ companies such as [Meat. The End](https://www.meattheend.tech/) which
 will allow plant-based foods to be indistinguishable from the
 traditional meats they can and will replace.
 
-4.  [Cell-based products futuristic concept overseas but a growing trend
-    in Singapore]{.underline}
+4.  Cell-based products futuristic concept overseas but a growing trend
+    in Singapore
 
 Singapore was the first country in the world to give approval to the
 commercialisation of cell-based meat. In late 2020 the Singapore Food
@@ -136,8 +134,8 @@ Technologies](https://www.animalalternativetechnologies.com/) and
 provide end-to-end solutions to scale production of cell-based meat in a
 cost efficient manner.
 
-5.  [Big Idea Ventures is a major supporter of female-founded companies
-    and women founders of colour]{.underline}
+5.  Big Idea Ventures is a major supporter of female-founded companies
+    and women founders of colour
 
 According to [Vegan Women
 Summit](https://veganwomensummit.com/pathfinder), less than 3% of all

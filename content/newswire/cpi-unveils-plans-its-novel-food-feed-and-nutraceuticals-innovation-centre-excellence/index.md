@@ -80,7 +80,7 @@ and even the world to Wilton. Ultimately, this new centre will enable
 businesses to demonstrate technologies and develop products that could
 transform our food, feed and nutraceuticals."
 
-### About CPI
+About CPI
 
 CPI works with partners to translate inventions into products and
 processes that enhance health and wellbeing, protect and improve our
@@ -100,7 +100,7 @@ chemicals, food and drink, electronics and transportation.
 
 [www.uk-cpi.com](http://www.uk-cpi.com)
 
-### Editorial enquiries:
+Editorial enquiries:
 
 Gabrielle Walker, Notch Communications
 

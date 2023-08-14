@@ -56,7 +56,8 @@ pinned: false
 homepage: false
 uuid: 8615
 ---
-## ***SuperMeat showcases production-to-fork meat manufacturing model for the first time, enabling transparency for meat consumers***
+***SuperMeat showcases production-to-fork meat manufacturing model for
+the first time, enabling transparency for meat consumers***
 
 **Tel Aviv, Israel (March 18, 2021)** Food tech company
 [SuperMeat](https://supermeat.com/) has launched the world's first

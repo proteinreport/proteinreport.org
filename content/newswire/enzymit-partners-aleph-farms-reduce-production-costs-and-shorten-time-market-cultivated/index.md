@@ -32,9 +32,9 @@ uuid: 11315
 [Enzymit](https://www.enzymit.com/), a bioproduction platform company
 developing enzymatic manufacturing technology, today announced the
 successful development of insulin substituents, in partnership with food
-technology company [Aleph
-Farms](https://www.aleph-farms.com/)[,]{.underline} that can reduce the
-cost and development time for producing cultivated meat at scale.
+technology company [Aleph Farms](https://www.aleph-farms.com/), that can
+reduce the cost and development time for producing cultivated meat at
+scale.
 
 One of the most prohibitive expenses in scaling up cultivated meat
 production is developing non-animal-derived serum protein mimetics that

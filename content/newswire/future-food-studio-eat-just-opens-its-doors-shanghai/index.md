@@ -157,4 +157,5 @@ press inquiries and special requests.
 For a list of classes and times, visit the Future Food Studio WeChat
 Mini Program.
 
-~\*Free\ Jianbing\ giveaways\ will\ be\ offered\ from\ 8AM-10AM\ every\ Mon-Fri,\ while\ supplies\ last.~
+\*Free Jianbing giveaways will be offered from 8AM-10AM every Mon-Fri,
+while supplies last.

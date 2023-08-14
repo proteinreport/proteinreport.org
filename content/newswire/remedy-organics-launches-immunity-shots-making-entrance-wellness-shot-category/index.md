@@ -21,7 +21,8 @@ pinned: false
 homepage: false
 uuid: 8250
 ---
-## Formulated with functional, organic ingredients, Remedy Organics Immunity+ Shots debut with four immune-boosting SKUs
+Formulated with functional, organic ingredients, Remedy Organics
+Immunity+ Shots debut with four immune-boosting SKUs
 
 (January 12, 2021) -- Today, [Remedy
 Organics](https://www.remedyorganics.com/), a leading producer of

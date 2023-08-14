@@ -100,8 +100,8 @@ Economic Development Board.
 At the groundbreaking, Singapore Minister for Sustainability and the
 Environment Grace Fu also shared her excitement about how GOOD Meat's
 new facility will enhance the vibrancy of Singapore's agri-food
-ecosystem. [[Click
-here](https://storage-us-gcs.bfldr.com/q3h9z962v633vhbsvjng6w5/v/1045613109/original/Ministers%20speech%20for%20Good%20Meat%20Groundbreaking%20on%2010%20June.pdf?Expires=1654957271&KeyName=gcs-bfldr-prod&Signature=q_6VJCRTXmXtlLsy3eF_I47rnU0=)]{.underline} to
+ecosystem. [Click
+here](https://storage-us-gcs.bfldr.com/q3h9z962v633vhbsvjng6w5/v/1045613109/original/Ministers%20speech%20for%20Good%20Meat%20Groundbreaking%20on%2010%20June.pdf?Expires=1654957271&KeyName=gcs-bfldr-prod&Signature=q_6VJCRTXmXtlLsy3eF_I47rnU0=) to
 read her prepared remarks.
 
 Today's event comes on the heels of GOOD Meat's [partnership

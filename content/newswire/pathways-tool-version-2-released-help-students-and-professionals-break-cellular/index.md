@@ -61,16 +61,16 @@ the wonderfully diverse range of talent opportunities available to
 passionate individuals looking to make a difference in our food system."
 
 The update comes at a timely stage in the development of the industry.
-There are currently over [[100
-startups]{.underline}](https://gfi.org/resource/alternative-protein-company-database/)
+There are currently over [100
+startups](https://gfi.org/resource/alternative-protein-company-database/)
 in the space globally, with some companies opening the first of various
 pilot production facilities for cellular agriculture products.
 Governments around the world including the Dutch, Israeli and United
 States are starting to invest in the development of the technology,  and
 begin mapping a path towards regulatory approval and commercialisation.
 Here in Australia, Food Standards Australia New Zealand (FSANZ)
-[[anticipates an application from a cultivated meat
-company]{.underline}](https://futurealternative.com.au/cultivated-meat-could-be-on-australian-shelves-next-year/)
+[anticipates an application from a cultivated meat
+company](https://futurealternative.com.au/cultivated-meat-could-be-on-australian-shelves-next-year/)
 in the next few weeks, meaning we could see cultivated meat on
 Australian shelves next year. 
 
@@ -88,10 +88,10 @@ cellular agriculture. Although designed for Australian-based users, this
 tool could be replicated in many countries. CAA welcomes queries from
 any interested parties in developing a similar tool.
 
-[[Cellular Agriculture
-Australia]{.underline}](https://cellularagricultureaustralia.org/) is a
-nonprofit organisation dedicated to accelerating the cellular
-agriculture sector in Australia. Their initiatives are focused on
-developing talent pipelines into cellular agriculture, creating a
-connected and collaborative community within the sector, and promoting
-positive awareness of cellular agriculture.
+[Cellular Agriculture
+Australia](https://cellularagricultureaustralia.org/) is a nonprofit
+organisation dedicated to accelerating the cellular agriculture sector
+in Australia. Their initiatives are focused on developing talent
+pipelines into cellular agriculture, creating a connected and
+collaborative community within the sector, and promoting positive
+awareness of cellular agriculture.

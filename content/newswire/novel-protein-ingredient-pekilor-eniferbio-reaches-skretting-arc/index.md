@@ -47,30 +47,28 @@ The process of eniferBio allows the efficient conversion of dilute side
 streams such as vinasse into a valuable protein ingredient for
 aquaculture feed.
 
-> "This is a very important step for us as company as we re-establish
-> the Pekilo production process, now as a major source of aquafeed
-> protein," says Simo Ellilä, CEO of eniferBio. "We believe the process
-> is unique in offering a cost-competitive, sustainable alternative to
-> soy protein concentrate. The process is very scalable, and Pekilo can
-> be produced close to the end users -- promising to decrease dependence
-> on imported protein. This pilot trial is an excellent example of
-> bringing together the whole value chain in Europe. It has been an
-> absolute pleasure making this happen with the great teams at Tereos
-> and Skretting."
->
-> The Pekilo protein now continues onto salmon feeding trials at
-> Skretting ARC, in Stavanger, Norway.
->
-> Last year, eniferBio was crowned the winner in the [Nutreco Feed &
-> Food Tech
-> Challenge](https://www.nutreco.com/en/innovation-and-investments/competition-nftc/).
-> The competition acknowledges the best breakthrough innovations within
-> livestock farming, aquaculture and alternative food proteins, and is
-> hosted by Nutreco, Skretting's parent company. The grand prize
-> included a scientific validation trial, and Skretting is excited to
-> run the first tests with this product with the ultimate aim of
-> commercialisation.
->
-> As part of Nutreco's ambitious Sustainability RoadMap launched earlier
-> this year, Skretting has committed to an inclusion of 5-10%
-> ingredients from alternative novel sources by 2025.
+"This is a very important step for us as company as we re-establish the
+Pekilo production process, now as a major source of aquafeed protein,"
+says Simo Ellilä, CEO of eniferBio. "We believe the process is unique in
+offering a cost-competitive, sustainable alternative to soy protein
+concentrate. The process is very scalable, and Pekilo can be produced
+close to the end users -- promising to decrease dependence on imported
+protein. This pilot trial is an excellent example of bringing together
+the whole value chain in Europe. It has been an absolute pleasure making
+this happen with the great teams at Tereos and Skretting."
+
+The Pekilo protein now continues onto salmon feeding trials at Skretting
+ARC, in Stavanger, Norway.
+
+Last year, eniferBio was crowned the winner in the [Nutreco Feed & Food
+Tech
+Challenge](https://www.nutreco.com/en/innovation-and-investments/competition-nftc/).
+The competition acknowledges the best breakthrough innovations within
+livestock farming, aquaculture and alternative food proteins, and is
+hosted by Nutreco, Skretting's parent company. The grand prize included
+a scientific validation trial, and Skretting is excited to run the first
+tests with this product with the ultimate aim of commercialisation.
+
+As part of Nutreco's ambitious Sustainability RoadMap launched earlier
+this year, Skretting has committed to an inclusion of 5-10% ingredients
+from alternative novel sources by 2025.

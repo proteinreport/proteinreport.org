@@ -20,7 +20,9 @@ pinned: false
 homepage: false
 uuid: 8778
 ---
-## Lever VC's portfolio of fourteen fast-growing alternative protein companies has grown in value 2.33x in the first seven quarters, based on valuation at most recent funding round
+Lever VC's portfolio of fourteen fast-growing alternative protein
+companies has grown in value 2.33x in the first seven quarters, based on
+valuation at most recent funding round
 
 **New York** --- Global alternative protein venture capital fund Lever
 VC announced today the recent completion of a \$46 million fourth close

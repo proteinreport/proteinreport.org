@@ -114,8 +114,8 @@ EST), Lever China Fund will host an English-language Zoom webinar to
 brief international investors on opportunities in China's alternative
 protein sector, with short presentations from several alternative
 protein startups. To register,
-visit <https://us02web.zoom.us/meeting/register/tZ0pc--vrTotHtSNmaeKs6Jz8qkcwvHaEPV2>[ ]{.underline}**
+visit <https://us02web.zoom.us/meeting/register/tZ0pc--vrTotHtSNmaeKs6Jz8qkcwvHaEPV2> **
 
 **Media Contact:** 
 
-Lily Chen -- [<lily@leverfoods.com>]{.underline} , +86 13685917838
+Lily Chen -- <lily@leverfoods.com> , +86 13685917838

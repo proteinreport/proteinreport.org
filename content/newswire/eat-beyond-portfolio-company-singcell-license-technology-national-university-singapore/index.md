@@ -57,18 +57,18 @@ suppliers. SingCell is well positioned to leverage these programs to
 develop its technology and manufacturing infrastructure in Singapore.
 
 Learn more about SingCell online
-at [[https://www.singcell.com/](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=2993155546&u=https%3A%2F%2Fwww.singcell.com%2F&a=https%3A%2F%2Fwww.singcell.com%2F)]{.underline}
+at [https://www.singcell.com/](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=2993155546&u=https%3A%2F%2Fwww.singcell.com%2F&a=https%3A%2F%2Fwww.singcell.com%2F)
 
 **About Eat Beyond Global Holdings**
 
-[[Eat Beyond Global Holdings
-Inc.](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=1018765622&u=https%3A%2F%2Featbeyondglobal.com%2F&a=Eat+Beyond+Global+Holdings+Inc.)]{.underline} (\"Eat
-Beyond\") ([[CSE:
-EATS](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=2118152569&u=https%3A%2F%2Fthecse.com%2Fen%2Flistings%2Fdiversified-industries%2Feat-beyond-global-holdings-inc&a=CSE%3A+EATS)]{.underline})
-([[OTCPK:
-EATBF](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=50680842&u=https%3A%2F%2Fwww.otcmarkets.com%2Fstock%2FEATBF%2Foverview&a=OTCPK%3A+EATBF)]{.underline})
-([[FSE:
-988](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=2984056927&u=https%3A%2F%2Fwww.boerse-frankfurt.de%2Fequity%2Feat-beyond-global-hldgs&a=FSE%3A+988)]{.underline})
+[Eat Beyond Global Holdings
+Inc.](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=1018765622&u=https%3A%2F%2Featbeyondglobal.com%2F&a=Eat+Beyond+Global+Holdings+Inc.) (\"Eat
+Beyond\") ([CSE:
+EATS](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=2118152569&u=https%3A%2F%2Fthecse.com%2Fen%2Flistings%2Fdiversified-industries%2Feat-beyond-global-holdings-inc&a=CSE%3A+EATS))
+([OTCPK:
+EATBF](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=50680842&u=https%3A%2F%2Fwww.otcmarkets.com%2Fstock%2FEATBF%2Foverview&a=OTCPK%3A+EATBF))
+([FSE:
+988](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=2984056927&u=https%3A%2F%2Fwww.boerse-frankfurt.de%2Fequity%2Feat-beyond-global-hldgs&a=FSE%3A+988))
 is an investment issuer that makes it easy to invest in the future of
 food. Eat Beyond identifies and makes equity investments in global
 companies that are developing and commercializing innovative food tech
@@ -78,7 +78,7 @@ in Canada, providing retail investors with the unique opportunity to
 participate in the growth of a broad cross-section of opportunities in
 the alternative food sector, and access companies that are leading the
 charge toward a smarter, more secure food supply. Learn
-more:[ ](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=854373701&u=https%3A%2F%2Featbeyondglobal.com%2F&a=%C2%A0)[[https://eatbeyondglobal.com/](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=3195221824&u=https%3A%2F%2Featbeyondglobal.com%2F&a=https%3A%2F%2Featbeyondglobal.com%2F)]{.underline}
+more:[ ](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=854373701&u=https%3A%2F%2Featbeyondglobal.com%2F&a=%C2%A0)[https://eatbeyondglobal.com/](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=3195221824&u=https%3A%2F%2Featbeyondglobal.com%2F&a=https%3A%2F%2Featbeyondglobal.com%2F)
 
 Find Eat Beyond on Social Media
-on[ ](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=2805300121&u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Feat-beyond-global-holdings&a=%C2%A0)[[LinkedIn](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=3215237632&u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Feat-beyond-global-holdings&a=LinkedIn)]{.underline},[ ](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=2425602188&u=https%3A%2F%2Fwww.instagram.com%2Featbeyondglobal%2F&a=%C2%A0)[[Instagram](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=2006026105&u=https%3A%2F%2Fwww.instagram.com%2Featbeyondglobal%2F&a=Instagram)]{.underline},[ ](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=828160226&u=http%3A%2F%2Ftwitter.com%2Featbeyondglobal&a=%C2%A0)[[Twitter](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=160080030&u=http%3A%2F%2Ftwitter.com%2Featbeyondglobal&a=Twitter)]{.underline} and[ ](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=3704196117&u=https%3A%2F%2Fwww.facebook.com%2Featbeyondglobal&a=%C2%A0)[[Facebook](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=825791857&u=https%3A%2F%2Fwww.facebook.com%2Featbeyondglobal&a=Facebook)]{.underline}
+on[ ](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=2805300121&u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Feat-beyond-global-holdings&a=%C2%A0)[LinkedIn](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=3215237632&u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Feat-beyond-global-holdings&a=LinkedIn),[ ](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=2425602188&u=https%3A%2F%2Fwww.instagram.com%2Featbeyondglobal%2F&a=%C2%A0)[Instagram](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=2006026105&u=https%3A%2F%2Fwww.instagram.com%2Featbeyondglobal%2F&a=Instagram),[ ](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=828160226&u=http%3A%2F%2Ftwitter.com%2Featbeyondglobal&a=%C2%A0)[Twitter](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=160080030&u=http%3A%2F%2Ftwitter.com%2Featbeyondglobal&a=Twitter) and[ ](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=3704196117&u=https%3A%2F%2Fwww.facebook.com%2Featbeyondglobal&a=%C2%A0)[Facebook](https://c212.net/c/link/?t=0&l=en&o=3119553-1&h=825791857&u=https%3A%2F%2Fwww.facebook.com%2Featbeyondglobal&a=Facebook)

@@ -85,8 +85,8 @@ PoLoPo has won the Coller startup competition FoodTech track, which took
 place in July 2022, thus securing its first investment from CPT
 Capital. 
 
-In October 2022, PoLoPo were crowned winners of the [[FoodHack Demo
-Day]{.underline}](https://foodhack.global/articles/meet-the-winners-of-the-foodhack-demo-day)
+In October 2022, PoLoPo were crowned winners of the [FoodHack Demo
+Day](https://foodhack.global/articles/meet-the-winners-of-the-foodhack-demo-day)
 as the startup with the most impact potential. 
 
 **About PoLoPo**

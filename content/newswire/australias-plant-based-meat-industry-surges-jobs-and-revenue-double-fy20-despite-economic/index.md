@@ -35,11 +35,11 @@ alternative proteins, further reveals that national retailers doubled
 the number of plant-based meat products on Australian grocery shelves
 last year to more than 200. This expansion of plant-based meat product
 ranges caters to growing consumer interest, as evidenced by the
-one-third of Australians who are limiting their meat consumption.^i^
+one-third of Australians who are limiting their meat consumption.i
 
 Growing demand for meat alternatives being driven foremost by health
 concerns, which the report notes are expected to rise further
-post-pandemic.^ii^
+post-pandemic.ii
 
 At the same time, global investment in plant-based meat in 2020
 reflected this rising demand, with US\$1.5 billion pouring in from
@@ -61,14 +61,14 @@ businesses and farmers to capitalise on fast-growing global demand for
 alternative proteins."
 
 Plant-based meats are forecast to command 10 percent of the US\$1.4
-trillion global meat market by 2029 according to Barclays,^iii^ as the
+trillion global meat market by 2029 according to Barclays,iii as the
 growing category of consumers dubbed 'flexitarians' choose meat
 alternatives more often.
 
 According to recent reports, much of that growth will be in Asia --
 where consumer demand for alternatives like plant-based mince,
 poultry-style and pork-style products is expected to grow 200 percent
-over the next five years in China and Thailand alone.^iv^
+over the next five years in China and Thailand alone.iv
 
 "Australia's plant-based meat companies are eyeing export opportunities
 and will be watching demand trends overseas closely, while some,
@@ -134,7 +134,16 @@ For more information, interviews or images, contact Head of
 Communications Jennifer Weber, 0413 418 820, <jennifer@foodfrontier.org>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-^i.\ Kalocsay\ K,\ King\ T,\ Lichtenstein\ T,\ Weber\ J.\ Plant-based\ meat:\ A\ healthier\ choice?\ \[Internet\].\ Melbourne:\ Food\ Frontier;\ 2020\ Aug\ 12\ \[cited\ 2021\ Feb\ 17\].\ Available\ from:\ <https://www.foodfrontier.org/reports>\
-ii.\ Firmenich\ Global\ Covid\ 19\ Food\ [&]{.amp}\ Beverage\ Tracking\ Study.\ \[Company\ presentation\]\ Firmenich:\ Switzerland;\ 2020\ Jun\ (cited\ 2021\ Feb\ 19)\
-iii.\ Carving\ up\ the\ alternative\ meat\ market\ \[Internet\].\ London:\ Barclays;\ 2019\ Aug\ 11\ \[cited\ 2021\ Feb\ 17\]\ Available\ from:\ [https://www.investmentbank.barclays.com/our-insights/carving-up-the-alt...](https://www.investmentbank.barclays.com/our-insights/carving-up-the-alternative-meat-market.html)\
-iv.\ Plant-based\ meat\ alternatives\ set\ to\ thrive\ in\ the\ next\ five\ years\ \[Internet\].\ UK:\ DuPont\ Nutrition\ [&]{.amp}\ Biosciences;\ 2020\ Dec\ 16\ \[cited\ 2021\ Feb\ 18\].\ Available\ from:\ [https://www.dupontnutritionandbiosciences.com/news/plant-based-meat-alt...](https://www.dupontnutritionandbiosciences.com/news/plant-based-meat-alternatives-set-to-thrive-in-the-next-five-years.html)^
+i. Kalocsay K, King T, Lichtenstein T, Weber J. Plant-based meat: A
+healthier choice? \[Internet\]. Melbourne: Food Frontier; 2020 Aug 12
+\[cited 2021 Feb 17\]. Available from:
+<https://www.foodfrontier.org/reports>\
+ii. Firmenich Global Covid 19 Food & Beverage Tracking Study. \[Company
+presentation\] Firmenich: Switzerland; 2020 Jun (cited 2021 Feb 19)\
+iii. Carving up the alternative meat market \[Internet\]. London:
+Barclays; 2019 Aug 11 \[cited 2021 Feb 17\] Available from:
+[https://www.investmentbank.barclays.com/our-insights/carving-up-the-alt...](https://www.investmentbank.barclays.com/our-insights/carving-up-the-alternative-meat-market.html)\
+iv. Plant-based meat alternatives set to thrive in the next five years
+\[Internet\]. UK: DuPont Nutrition & Biosciences; 2020 Dec 16 \[cited
+2021 Feb 18\]. Available from:
+[https://www.dupontnutritionandbiosciences.com/news/plant-based-meat-alt...](https://www.dupontnutritionandbiosciences.com/news/plant-based-meat-alternatives-set-to-thrive-in-the-next-five-years.html)

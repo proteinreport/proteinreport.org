@@ -116,20 +116,19 @@ combination, allowing for integrated solutions for companies. 
 
 The \$2.6B food colorants market continues to trend toward natural
 ingredients. According to a
-[[poll]{.underline}](https://www.foodnavigator.com/Article/2011/10/06/Nielsen-poll-indicates-global-preference-for-natural-food-colours),
+[poll](https://www.foodnavigator.com/Article/2011/10/06/Nielsen-poll-indicates-global-preference-for-natural-food-colours),
 92% of people are concerned about artificial colors and large food
 manufacturers (BurgerKing, Nestle, Kraft, Mars, General Mills, etc.) are
 transitioning away from artificial colors to meet health-conscious
 consumers' demand for natural ingredient alternatives. Leading research
 underscores the detrimental effects of artificial colorant consumption,
 with the Office of Environmental Health Hazard Assessment (OEHHA)
-[[concluding]{.underline}](https://oehha.ca.gov/risk-assessment/press-release/report-links-synthetic-food-dyes-hyperactivity-and-other)
+[concluding](https://oehha.ca.gov/risk-assessment/press-release/report-links-synthetic-food-dyes-hyperactivity-and-other)
 in 2021 that artificial food dyes impact neurobehavior in some children.
 More recently the U.S. Food and Drug Administration (FDA) received a
-[[petition]{.underline}](https://www.cspinet.org/resource/red-3-petition)
-from The Center for Science in the Public Interest and 23 other
-organizations and prominent scientists​​ to ban the use of Red No. 3
-colorant in food.
+[petition](https://www.cspinet.org/resource/red-3-petition) from The
+Center for Science in the Public Interest and 23 other organizations and
+prominent scientists​​ to ban the use of Red No. 3 colorant in food.
 
 New investors in Michroma include FEN Ventures, Boro Capital, The Mills
 Fabrica, Portfolia's Food & Ag Tech Fund, New Luna Ventures, Siddhi
@@ -158,7 +157,7 @@ producing additional high-value-added ingredients such as flavors and
 fragrances in a sustainable and cost-efficient way to replace
 petroleum-based ingredients, which are harmful to humans and the
 planet\'s health. For more information, please visit
-[[www.michroma.co]{.underline}](http://www.michroma.co)
+[www.michroma.co](http://www.michroma.co)
 
 **About Supply Change Capital**
 
@@ -174,5 +173,5 @@ over 75 investments between them. They support founders post-investment
 via their signature Supercharge III program which helps elevate
 individual and organizational awareness for more effective leadership in
 fast-growing organizations. Learn more at
-[[www.supplychange.fund]{.underline}](http://www.supplychangecapital.fund),
-and on Twitter (@supplychangecap) and Instagram (@supplychangecapital).
+[www.supplychange.fund](http://www.supplychangecapital.fund), and on
+Twitter (@supplychangecap) and Instagram (@supplychangecapital).

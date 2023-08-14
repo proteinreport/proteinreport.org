@@ -67,8 +67,7 @@ Founded in 2018, Avant now has presences in Singapore and Greater China.
 Avant has also been named on CleanTech Group's 2020 APAC 25 list of most
 innovative sustainable companies and featured in Reuters, Forbes, The
 Telegraph, South China Morning Post, and CCTV. For more information,
-please visit
-[[www.avantmeats.com]{.underline}](http://www.avantmeats.com).
+please visit [www.avantmeats.com](http://www.avantmeats.com).
 
 For interview requests or media inquiries, please contact
-[<press@avantmeats.com>]{.underline}.
+<press@avantmeats.com>.

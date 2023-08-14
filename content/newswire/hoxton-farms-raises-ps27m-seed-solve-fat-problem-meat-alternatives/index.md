@@ -31,12 +31,12 @@ uuid: 8414
     used to develop its scalable production platform and build key
     talent in its research and development team.
 
-**London, UK 9th February 2021**: [[Hoxton
-Farms]{.underline}](https://hoxtonfarms.com/) has announced a £2.7
-million seed round to cultivate animal fat and solve an urgent issue for
-the rapidly growing meat alternatives market. Its approach delivers the
-missing ingredient necessary to make meat alternatives delicious,
-realistic and versatile: fat.
+**London, UK 9th February 2021**: [Hoxton
+Farms](https://hoxtonfarms.com/) has announced a £2.7 million seed round
+to cultivate animal fat and solve an urgent issue for the rapidly
+growing meat alternatives market. Its approach delivers the missing
+ingredient necessary to make meat alternatives delicious, realistic and
+versatile: fat.
 
 For decades, the food industry has faced the challenge of finding
 effective, low-cost and sustainable replacements for traditional animal
@@ -122,8 +122,7 @@ been out of reach for many other players in the space, but also provide
 the flexibility to deliver unique cellular and sensory characteristics
 at speed."
 
-For more information go to
-[[https://hoxtonfarms.com/]{.underline}](https://hoxtonfarms.com/)
+For more information go to <https://hoxtonfarms.com/>
 
 ENDS
 
@@ -133,14 +132,13 @@ Hoxton Farms is hiring for roles that include Scientist, Senior
 Scientist, Computational Biologist, Senior Computational Biologist, and
 Bioprocess Engineer.
 
-[**[Press Kit
-Here]{.underline}**](https://drive.google.com/drive/folders/1DTJi1F9J4_1phALXNoCUnTV5AZEE-f29?usp=sharing)
+[**Press Kit
+Here**](https://drive.google.com/drive/folders/1DTJi1F9J4_1phALXNoCUnTV5AZEE-f29?usp=sharing)
 
 **Press Contact**
 
 CEW Communications for Hoxton Farms, Cathy White,
-[[cathy@cewcommunications.com]{.underline}](mailto:cathy@cewcommunications.com),
-+(44)07791 232834
+<cathy@cewcommunications.com>, +(44)07791 232834
 
 **About Hoxton Farms**
 
@@ -180,7 +178,7 @@ founders and early funders of companies including PayPal, SpaceX,
 Palantir, Airbnb, Stripe and Facebook. Founders Fund pursues a
 founder-friendly investment strategy, providing maximum support with
 minimum interference. More information is available at
-[[www.foundersfund.com]{.underline}](http://www.foundersfund.com/).
+[www.foundersfund.com](http://www.foundersfund.com/).
 
 **About BACKED**
 

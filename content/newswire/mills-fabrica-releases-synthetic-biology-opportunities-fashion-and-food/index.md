@@ -54,7 +54,7 @@ key insights in three focus areas:
 If you are interested to learn more, download the full report
 [here](https://www.themillsfabrica.com/platform/reports/).
 
-[For media enquires, please contact]{.underline}:
+For media enquires, please contact:
 
 Jenna Chow
 

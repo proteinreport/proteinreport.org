@@ -89,7 +89,7 @@ continue to revolutionize the field."
 If you are interested to learn more, download the full report
 [here](http://www.themillsfabrica.com/platform/reports/).
 
-**[For media enquires, please contact]{.underline}:**
+**For media enquires, please contact:**
 
 The Mills Fabrica
 
@@ -99,7 +99,7 @@ Bolt Threads
 
 <press@boltthreads.com>
 
-**[About The Mills Fabrica]{.underline}**
+**About The Mills Fabrica**
 
 The Mills Fabrica is an open platform for technology and lifestyle
 ("Techstyle") innovations in industries like apparel/textiles and
@@ -110,7 +110,7 @@ sustainable future through innovation and to become a "go-to" platform
 for Techstyle innovation. For additional information, please visit
 <http://www.themillsfabrica.com>.
 
-**[About Bolt Threads]{.underline}**
+**About Bolt Threads**
 
 Bolt Threads is on a mission to create way better materials for a way
 better world, developing sustainable solutions for the apparel and
@@ -121,7 +121,7 @@ was a Fast Company Most Innovative company in 2019 and 2018. For
 additional information, please visit
 [www.boltthreads.com](http://www.boltthreads.com).
 
-**[Blog]{.underline}**
+**Blog**
 
 [Synbio Playbook for Techstyle Startups -- A Complete Guide for
 Founders](http://www.themillsfabrica.com/news/synbioplaybook/)

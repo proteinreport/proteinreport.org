@@ -90,8 +90,7 @@ vitamins, and minerals from the bottom up.
 Farmless' mission is to free food production from animals and
 agricultural land. The company's goal is to build a fermentation
 platform which can turn renewable electricity into food. Farmless was
-founded by [[Adnan
-Oner]{.underline}](https://www.linkedin.com/in/adnanoner/), a physicist
-and serial entrepreneur with a mission to create a future worth getting
-excited about. \
-Visit our website: [*[farmless.com]{.underline}*](https://farmless.com/)
+founded by [Adnan Oner](https://www.linkedin.com/in/adnanoner/), a
+physicist and serial entrepreneur with a mission to create a future
+worth getting excited about. \
+Visit our website: [*farmless.com*](https://farmless.com/)

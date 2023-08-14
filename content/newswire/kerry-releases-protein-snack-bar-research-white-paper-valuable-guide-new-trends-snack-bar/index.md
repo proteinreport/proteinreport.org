@@ -100,7 +100,7 @@ high sugar content or those that have been highly processed. Brands are
 now being pressured to reformulate with simpler ingredients, and to be
 more transparent about on-pack information. The white paper is available
 for download at
-<https://kerry.com/insights/resources/protein-snack-bar-whitepaper-download>[.]{.underline}
+<https://kerry.com/insights/resources/protein-snack-bar-whitepaper-download>.
 
 **About** **Kerry**
 
@@ -113,4 +113,4 @@ scientists. We bring to the table our strong food heritage, coupled with
 over 40 years of experience, global insights and market knowledge,
 culinary and applications expertise, as well as a range of unique
 solutions that anticipate and address our customers' needs. For more
-information, visit [Kerry.com](http://www.kerry.com)[.]{.underline}
+information, visit [Kerry.com](http://www.kerry.com).

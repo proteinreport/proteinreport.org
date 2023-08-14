@@ -100,8 +100,8 @@ CEO and founder of Eatable Adventures. 
 
 Spain Foodtech program is run annually, the applications for the next
 cohort are open for the 2022 edition on
-[[spainfoodtech.es]{.underline}](http://spainfoodtech.es). Applications'
-deadline is September 30th. 
+[spainfoodtech.es](http://spainfoodtech.es). Applications' deadline is
+September 30th. 
 
 **About Eatable Adventures **
 

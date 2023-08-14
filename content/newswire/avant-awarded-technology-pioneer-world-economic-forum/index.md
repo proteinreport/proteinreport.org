@@ -34,23 +34,23 @@ uuid: 9167
     selection for its contributions in the field of Global Public
     Goods. 
 -   The full list of Technology Pioneers can be viewed
-    [[here.]{.underline}](http://wef.ch/techpioneers21) 
+    [here.](http://wef.ch/techpioneers21) 
 
 **Singapore and Hong Kong 17 June, 2021** -
-[[Avant]{.underline}](https://www.avantmeats.com/), a leading cultivated
-fish technology company in Asia, was selected among hundreds of
-candidates as one of the World Economic Forum's "Technology Pioneers". 
-Avant, founded in 2018 by Carrie Chan and Dr Mario Chin, offers the
-end-to-end technology platform to produce cultivated fish proteins for
-food, skincare, and functional applications. The company's technology
-enables localised production of fish proteins to reduce carbon
-footprint, replenish the ocean and feed the growing population. 
+[Avant](https://www.avantmeats.com/), a leading cultivated fish
+technology company in Asia, was selected among hundreds of candidates as
+one of the World Economic Forum's "Technology Pioneers".  Avant, founded
+in 2018 by Carrie Chan and Dr Mario Chin, offers the end-to-end
+technology platform to produce cultivated fish proteins for food,
+skincare, and functional applications. The company's technology enables
+localised production of fish proteins to reduce carbon footprint,
+replenish the ocean and feed the growing population. 
 
-The [[World Economic Forum's Technology
-Pioneers]{.underline}](https://www.weforum.org/communities/technology-pioneers)
-are early to growth-stage companies from around the world that are
-involved in the use of new technologies and innovation that are poised
-to have a significant impact on business and society.
+The [World Economic Forum's Technology
+Pioneers](https://www.weforum.org/communities/technology-pioneers) are
+early to growth-stage companies from around the world that are involved
+in the use of new technologies and innovation that are poised to have a
+significant impact on business and society.
 
 With their selection as Technology Pioneer, CEO Carrie Chan of Avant
 will be invited to participate at World Economic Forum activities,
@@ -83,19 +83,19 @@ The diversity of these companies extends to their innovations as well.
 2021 Tech Pioneer firms are shaping the future by advancing technologies
 such as AI, IoT, robotics, blockchain, biotechnology and many more. The
 full list of Technology Pioneers can be found
-[[here]{.underline}](http://wef.ch/techpioneers21). 
+[here](http://wef.ch/techpioneers21). 
 
 Technology Pioneers have been selected based on the community's
 selection criteria, which includes innovation, impact and leadership as
 well as the company's relevance with the World Economic Forum's
-[[Platforms]{.underline}](https://www.weforum.org/platforms/). 
+[Platforms](https://www.weforum.org/platforms/). 
 
 **All info on this year's Technology Pioneers can be found here:**
 <http://wef.ch/techpioneers21> 
 
 More information on past winners, information on the community and the
 application link can be found
-[[here]{.underline}](https://www.weforum.org/communities/technology-pioneer). 
+[here](https://www.weforum.org/communities/technology-pioneer). 
 
 **About Avant**: 
 
@@ -107,21 +107,20 @@ cultivated proteins in a fully contained environment for food,
 functional and skincare applications. 
 
 For more information, please visit
-[[www.avantmeats.com]{.underline}](http://www.avantmeats.com).
+[www.avantmeats.com](http://www.avantmeats.com).
 
 **About World Economic Forum**: The World Economic Forum, committed to
 improving the state of the world, is the International Organization for
 Public-Private Cooperation. The Forum engages the foremost political,
 business and other leaders of society to shape global, regional and
-industry agendas.
-([[www.weforum.org]{.underline}](http://www.weforum.org)).
+industry agendas. ([www.weforum.org](http://www.weforum.org)).
 
 **About the Technology Pioneers:**
 
 The World Economic Forum believes that innovation is critical to the
 future well-being of society and to driving economic growth. Launched in
-2000, the [[Technology
-Pioneer]{.underline}](https://www.weforum.org/communities/technology-pioneers)
+2000, the [Technology
+Pioneer](https://www.weforum.org/communities/technology-pioneers)
 community is composed of early to growth-stage companies from around the
 world that are involved in the design, development and deployment of new
 technologies and innovations, and are poised to have a significant
@@ -133,4 +132,4 @@ contribute new solutions to overcome the current crisis and build future
 resiliency.
 
 For interview requests or media inquiries, please contact
-[<press@avantmeats.com>]{.underline}.  
+<press@avantmeats.com>.  

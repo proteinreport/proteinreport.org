@@ -86,16 +86,16 @@ application areas such as cosmetics and pharmaceuticals.
 
 Today's announcement is the latest in Shiru's path to commercialization.
 It recently announced partnerships with two leading ingredient companies
---- [[CP
-Kelco]{.underline}](https://shiru.com/post/cp-kelco-and-food-ingredient-startup-shiru-announce-partnership-to-accelerate-the-shift-to-a-sustainable-food-system-with-creation-of-next-generation-alternative-proteins/)
+--- [CP
+Kelco](https://shiru.com/post/cp-kelco-and-food-ingredient-startup-shiru-announce-partnership-to-accelerate-the-shift-to-a-sustainable-food-system-with-creation-of-next-generation-alternative-proteins/)
 and
-[[Puratos]{.underline}](https://shiru.com/post/shiru-puratos-partnership-sustainable-plant-based-protein-ingredients-for-baked-goods/)
+[Puratos](https://shiru.com/post/shiru-puratos-partnership-sustainable-plant-based-protein-ingredients-for-baked-goods/)
 --- to scale and test ingredients in a range of foods. Shiru also
-announced that Impossible Foods veteran [[Ranjani Varadan joined as
-Chief Scientific
-Officer]{.underline}](https://shiru.com/post/in-conversation-with-dr-ranjani-varadan-shirus-new-chief-scientific-officer/),
-as well as three [[industry-leading
-advisors]{.underline}](https://shiru.com/post/shiru-appoints-industry-veterans-dean-banks-aaron-kimball-and-blaine-templeman-to-advisory-board/),
+announced that Impossible Foods veteran [Ranjani Varadan joined as Chief
+Scientific
+Officer](https://shiru.com/post/in-conversation-with-dr-ranjani-varadan-shirus-new-chief-scientific-officer/),
+as well as three [industry-leading
+advisors](https://shiru.com/post/shiru-appoints-industry-veterans-dean-banks-aaron-kimball-and-blaine-templeman-to-advisory-board/),
 including Dean Banks, former Tyson CEO. In May, Shiru moved to its new
 headquarters in Alameda, California, where it is scaling up its pilot
 facilities to screen and produce a wide range of next-generation
@@ -116,7 +116,7 @@ reduce the world's reliance on animals for food by providing delicious,
 cost-effective, healthy, and sustainable alternatives. Shiru is based in
 Alameda, California, and is backed by leading venture capital firms such
 as S2G Ventures, Lux Capital, and CPT Capital. For more information,
-visit [[www.shiru.com]{.underline}](http://www.shiru.com).
+visit [www.shiru.com](http://www.shiru.com).
 
 Shiru Media Contact:\
 Kevin Costa, Director of Brand & Communications\

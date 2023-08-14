@@ -36,8 +36,8 @@ pinned: false
 homepage: false
 uuid: 10189
 ---
-***[NuCicer debuts chickpeas with 75% higher protein content developed
-naturally using wild genetic diversity]{.underline}***
+***NuCicer debuts chickpeas with 75% higher protein content developed
+naturally using wild genetic diversity***
 
 Davis, CA, December 20, 2021 --- NuCicer, a crop genetics company
 pioneering new varieties of chickpea, unveiled today ultra-high protein

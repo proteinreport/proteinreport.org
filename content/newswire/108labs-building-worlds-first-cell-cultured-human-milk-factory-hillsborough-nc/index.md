@@ -71,13 +71,13 @@ Cellufacturing® facility on Mars.
 
 **About 108Labs**
 
-[[108Labs](http://108labs.net)]{.underline} is a biotechnology and
-software company founded in Research Triangle Park in 2013 with a
-mission to invent disruptive cellular agriculture projects, and 108Labs
-has successfully pioneered the development of cell cultured human milk
-and human milk antibodies. 108Labs is now building the world's first
-autonomous cell cultured milk and milk antibody factory in Hillsborough,
-North Carolina to produce Colostrupedics™ whole-human infant formula
-with state-of-the-art biotechnology and artificial intelligence to
-fulfill 108Labs' dream to feed, build, and heal the world with
+[108Labs](http://108labs.net) is a biotechnology and software company
+founded in Research Triangle Park in 2013 with a mission to invent
+disruptive cellular agriculture projects, and 108Labs has successfully
+pioneered the development of cell cultured human milk and human milk
+antibodies. 108Labs is now building the world's first autonomous cell
+cultured milk and milk antibody factory in Hillsborough, North Carolina
+to produce Colostrupedics™ whole-human infant formula with
+state-of-the-art biotechnology and artificial intelligence to fulfill
+108Labs' dream to feed, build, and heal the world with
 Cellufacturing® innovations.

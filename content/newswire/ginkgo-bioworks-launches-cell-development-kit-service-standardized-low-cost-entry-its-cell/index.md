@@ -58,13 +58,13 @@ the synthetic biology ecosystem to keep pushing the envelope on
 innovation.\"
 
 If you are a developer interested in learning more about being in the
-next batch of CDK projects to launch, [[reach out
+next batch of CDK projects to launch, [reach out
 to](https://c212.net/c/link/?t=0&l=en&o=3355864-1&h=2550904533&u=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%3A%2F%2Fwww.ginkgobioworks.com%2Fgrow%2F%26sa%3DD%26source%3Ddocs%26ust%3D1636595123705000%26usg%3DAOvVaw0D9evr-QZt5GWggSAgNtvq&a=reach+out+to)[ the
 Ginkgo
-team.](https://c212.net/c/link/?t=0&l=en&o=3355864-1&h=2193227682&u=https%3A%2F%2Fwww.ginkgobioworks.com%2Fgrow%2F&a=%C2%A0the+Ginkgo+team.)]{.underline} Ginkgo
-will also be hosting an informational virtual event, *[[Grow with
-Ginkgo: You\'re a Cell
-Developer](https://c212.net/c/link/?t=0&l=en&o=3355864-1&h=2094040497&u=https%3A%2F%2Fhopin.com%2Fevents%2Fgrow-with-ginkgo-you-re-a-developer%2Fregistration%3Fcode%3DHLNFUAbfppmbvsei9dPlseBCMC&a=Grow+with+Ginkgo%3A+You%27re+a+Cell+Developer)]{.underline}*,
+team.](https://c212.net/c/link/?t=0&l=en&o=3355864-1&h=2193227682&u=https%3A%2F%2Fwww.ginkgobioworks.com%2Fgrow%2F&a=%C2%A0the+Ginkgo+team.) Ginkgo
+will also be hosting an informational virtual event, *[Grow with Ginkgo:
+You\'re a Cell
+Developer](https://c212.net/c/link/?t=0&l=en&o=3355864-1&h=2094040497&u=https%3A%2F%2Fhopin.com%2Fevents%2Fgrow-with-ginkgo-you-re-a-developer%2Fregistration%3Fcode%3DHLNFUAbfppmbvsei9dPlseBCMC&a=Grow+with+Ginkgo%3A+You%27re+a+Cell+Developer)*,
 for prospective cell developers that are interested in learning more
 about the CDK on Thursday, Nov. 11 from 10 a.m.-12 p.m. ET.
 

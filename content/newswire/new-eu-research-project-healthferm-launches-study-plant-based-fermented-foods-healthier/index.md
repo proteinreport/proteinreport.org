@@ -125,7 +125,7 @@ fermentations for human health and sustainable diets\
 *Coordinator:* KU Leuven, Belgium\
 Website: [www.healthferm.eu](http://www.healthferm.eu)
 
-**[Project Partners]{.underline}**
+**Project Partners**
 
 **Belgium**
 
@@ -179,7 +179,7 @@ Website: [www.healthferm.eu](http://www.healthferm.eu)
 
 -   Bridge2Food (Foodcompanions BV)
 
-**[Contact]{.underline}**
+**Contact**
 
 **Project Coordinator**\
 KU Leuven, Belgium\

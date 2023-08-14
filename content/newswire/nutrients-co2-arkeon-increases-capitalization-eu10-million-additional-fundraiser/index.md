@@ -21,16 +21,16 @@ homepage: false
 uuid: 11230
 ---
 *Vienna, Austria, December 23, 2022* -- Austria-based ingredients
-startup Arkeon turns CO~2~ into next-generation protein ingredients and
+startup Arkeon turns CO2 into next-generation protein ingredients and
 **raises another €4+ million** to do more, sooner. 
 
 Launched just over a year ago, Vienna-based tech startup Arkeon has
-secured additional capital investments to build out its CO~2~
-utilization technology for converting carbon dioxide directly into
-protein ingredients. After the company had successfully closed its seed
-round with leading food and climate tech investors in the beginning of
-the year, key milestone achievements led the company to secure
-additional resources from new strategic investors, including ICL, aws
+secured additional capital investments to build out its CO2 utilization
+technology for converting carbon dioxide directly into protein
+ingredients. After the company had successfully closed its seed round
+with leading food and climate tech investors in the beginning of the
+year, key milestone achievements led the company to secure additional
+resources from new strategic investors, including ICL, aws
 Gruenderfonds, FoodHack and Tet Ventures. 
 
 With more than €10 million in overall funding to date, the capital will
@@ -62,11 +62,11 @@ industries into sustainable, low-emission systems.
 **About Arkeon GmbH (Arkeon)**
 
 Arkeon is an ingredients company, based in Vienna, Austria, leveraging
-the power of ancient microbes to convert CO~2~ directly into protein
+the power of ancient microbes to convert CO2 directly into protein
 ingredients. The company's proprietary technology is a new, innovative
 approach to produce amino acids and functional peptides for food and
 lifestyle products, enabling a regenerative way to nourish people on a
 global scale. The company's technological foundations have been built up
 over a decade of research by Co-Founders Dr. Simon Rittmann, Dr.
 Guenther Bochmann, and Dr. Gregor Tegl. More information at
-[[arkeon.bio](https://arkeon.bio/)]{.underline}
+[arkeon.bio](https://arkeon.bio/)

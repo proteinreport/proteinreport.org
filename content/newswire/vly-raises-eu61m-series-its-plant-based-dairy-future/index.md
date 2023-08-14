@@ -33,12 +33,12 @@ uuid: 8985
     development for its new products.
 
 **Berlin, Germany 20th May 2021 CEST:**
-[[Vly]{.underline}](https://www.vlyfoods.com/), provider of a pea-based
-milk alternative, has today announced an investment of €6.1M from
-FoodTech investors Five Seasons Ventures, alongside previous investors
-Global Founders Capital and Good Seed Ventures. The investment will be
-used to scale in DACH and new European markets, including the UK,
-further product development and key talent.
+[Vly](https://www.vlyfoods.com/), provider of a pea-based milk
+alternative, has today announced an investment of €6.1M from FoodTech
+investors Five Seasons Ventures, alongside previous investors Global
+Founders Capital and Good Seed Ventures. The investment will be used to
+scale in DACH and new European markets, including the UK, further
+product development and key talent.
 
 Vly was founded in 2018 by Niklas Katter, Moritz Braunwarth and Nicolas
 Hartmann, who saw an opportunity for a healthy milk alternative that was
@@ -97,15 +97,14 @@ Austria, and soon further European countries. Vly's range includes three
 products - Original, Unsweetened, and Barista (designed to foam better).
 Prices start from €2.50 per carton. 
 
-For more information go to
-[[https://www.vlyfoods.com/]{.underline}](https://www.vlyfoods.com/)
+For more information go to <https://www.vlyfoods.com/>
 
 **ENDS**
 
 **Notes to Editors**
 
-**Press Kit:** [[Available
-here ]{.underline}](https://drive.google.com/drive/folders/1KDLJED3Uz5WZPoeVEjW_GgH0OLTeXe0v?usp=sharing)
+**Press Kit:** [Available
+here ](https://drive.google.com/drive/folders/1KDLJED3Uz5WZPoeVEjW_GgH0OLTeXe0v?usp=sharing)
 
 **Press Contact**
 

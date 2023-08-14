@@ -25,8 +25,6 @@ bringing together experts, industry, and civic leaders to solve systemic
 challenges with transformative technologies, today announced the launch
 of their new cellular agriculture venture studio.
 
-------------------------------------------------------------------------
-
 *By Clair Purcell, Newlab's Chief Venture Builder*
 
 Like many adventures, it started as a conversation between strangers at
@@ -65,46 +63,44 @@ abuse, and deliver nutritious, high-quality
 
 The cellular agriculture industry is on the cusp of mainstream adoption:
 
-1.  [The science is shifting from proof of possibility to a focus on
-    cost reduction.]{.underline} Inventors in this space have come a
-    long way from the first lab-grown burger, which cost a whopping
-    \$400k. Even if you're a skeptic on the claims of today's companies
-    making it for \~\$7/kg (or \~\$1.50/burger), the downward trend line
-    is clear. Large infrastructure companies focused on delivering
-    single pieces of the puzzle at scale for multiple customers will
-    further push these techno-economics downward.
-2.  [Around the corner from cost reduction is scale.]{.underline}
-    [Today's businesses will need to scale at 70% per year, every year
-    for the next 10 years just to capture 1% of the global meat
+1.  The science is shifting from proof of possibility to a focus on cost
+    reduction. Inventors in this space have come a long way from the
+    first lab-grown burger, which cost a whopping \$400k. Even if you're
+    a skeptic on the claims of today's companies making it for \~\$7/kg
+    (or \~\$1.50/burger), the downward trend line is clear. Large
+    infrastructure companies focused on delivering single pieces of the
+    puzzle at scale for multiple customers will further push these
+    techno-economics downward.
+2.  Around the corner from cost reduction is scale. [Today's businesses
+    will need to scale at 70% per year, every year for the next 10 years
+    just to capture 1% of the global meat
     market](https://www.mckinsey.com/industries/agriculture/our-insights/cultivated-meat-out-of-the-lab-into-the-frying-pan).
     Early entrants by necessity are vertically integrated. New entrants
     need an ecosystem that helps them focus on their unique value
     proposition, not reinvent the wheel on the infrastructure needed to
     do so.
-3.  [Only]{.underline}
+3.  Only
     [40%](https://admin-21183.medium.com/state-of-the-industry-8b4f5e2826b4)
-    [of the companies in the field today are B2B
-    businesses]{.underline}. For capital-intensive industries like
-    hardware and biotech, this is usually closer to 80-90%. B2B
-    businesses have a lot of catching up to do to enable the level of
-    scale needed.
-4.  [Regulatory approval is on the (far?) horizon]{.underline}.
-    Singapore was the first country in the world to regulate serving
-    lab-grown meat, with [many others tipped to
+    of the companies in the field today are B2B businesses. For
+    capital-intensive industries like hardware and biotech, this is
+    usually closer to 80-90%. B2B businesses have a lot of catching up
+    to do to enable the level of scale needed.
+4.  Regulatory approval is on the (far?) horizon. Singapore was the
+    first country in the world to regulate serving lab-grown meat, with
+    [many others tipped to
     follow](https://gfi.org/blog/cultivated-meat-regulation-2021/). This
     includes the U.S., who has partnered with the FDA and USDA to work
     through how to regulate.
-5.  [Growth in investments has increased dramatically (\$1.3BN in 2021,
-    up 336% from 2019)]{.underline}. This indicates a broader
-    recognition by the investment community of the dynamics discussed
-    above and potentially smoother pathways to raising capital for large
+5.  Growth in investments has increased dramatically (\$1.3BN in 2021,
+    up 336% from 2019). This indicates a broader recognition by the
+    investment community of the dynamics discussed above and potentially
+    smoother pathways to raising capital for large
     infrastructure projects.
-6.  [Reinvention of the way we make animal products has only just
-    begun.]{.underline} We're only just beginning to explore the areas
-    where the cellular agriculture approach could be applied. A single
-    application could upend an entire industry (e.g. [palm
-    oil](https://www.c16bio.com/), [baby
-    formula](https://www.biomilq.com/), and commodity foods like
+6.  Reinvention of the way we make animal products has only just begun.
+    We're only just beginning to explore the areas where the cellular
+    agriculture approach could be applied. A single application could
+    upend an entire industry (e.g. [palm oil](https://www.c16bio.com/),
+    [baby formula](https://www.biomilq.com/), and commodity foods like
     [chocolate](https://www.cacultured.com/)). If  the natural resources
     and ethical constraints around certain foods are removed, we might
     see an uptick in the diversity of food options ([lion steaks or
@@ -122,12 +118,12 @@ impactful in reducing today's cost of beef per kilo, from
 down to something cost competitive. We believe there are four key
 focus areas:
 
-1.  **Optimizing bioprocessing [&]{.amp} production systems.** Creating
-    proteins through cell culturing and precision fermentation is
-    fraught with costly and inefficient processes that will be
-    challenging to scale. We're exploring how this can be improved by
-    examining closed-loop systems, decentralized production facilities,
-    and improving hardware infrastructure.
+1.  **Optimizing bioprocessing & production systems.** Creating proteins
+    through cell culturing and precision fermentation is fraught with
+    costly and inefficient processes that will be challenging to scale.
+    We're exploring how this can be improved by examining closed-loop
+    systems, decentralized production facilities, and improving
+    hardware infrastructure.
 2.  **Software and toolkits that enable simplicity in bioprocesses.**
     Most companies develop their own software and toolkits out of
     necessity to effectively operate their bioprocess equipment.
@@ -154,34 +150,34 @@ focus areas:
 Venture Studios are powerful mechanisms for growing businesses that can
 impact entire ecosystems. This is because they:
 
-1.  [Build the businesses that need to be built]{.underline}. What is
-    most impactful is often not the most visible, hyped, or attractive.
-    Venture studios start from a market need and develop concepts in
-    response to that need.
-2.  [Derisk concepts early]{.underline}. Often, lone founders can spend
-    months or years working on a concept only to discover that it
-    doesn't work. Our venture building approach (a mix of lean, design,
-    and agile methodologies with our own sprinkle of deep tech
-    learnings) and access to industry pilot partners and experts means
-    we learn early and cheaply what will be successful. We make fewer
-    mistakes and move faster towards the right solution.
-3.  [Scale quickly]{.underline}. An early-stage startup needs to focus
-    on two things: product validation and market fit. Newlab provides
-    the mental and physical space to focus on what matters most in the
-    crucial first 18 months of a new company's life. Operations,
-    recruitment, funding, branding--these are all things the Newlab team
-    has been doing for years for our own company and the startups we
-    support. Newlab's Brooklyn location has a brand new BioLab and we
-    are actively exploring building out biotechnology-specific
-    infrastructure in 2023.
-4.  [Build the dream team from the ground up.]{.underline} From the
-    selection of Founders-in-Residence to headhunting CEOs or acting as
-    the founding team ourselves, we build curated teams of people who
-    are passionate, talented, and have the experience to scale up, not
-    just start up. We're also proud to provide stipends and early
-    funding to ensure that working on an early-stage startup is an
-    accessible option to people from all walks of life, resulting in
-    more diverse, successful teams.
+1.  Build the businesses that need to be built. What is most impactful
+    is often not the most visible, hyped, or attractive. Venture studios
+    start from a market need and develop concepts in response to
+    that need.
+2.  Derisk concepts early. Often, lone founders can spend months or
+    years working on a concept only to discover that it doesn't work.
+    Our venture building approach (a mix of lean, design, and agile
+    methodologies with our own sprinkle of deep tech learnings) and
+    access to industry pilot partners and experts means we learn early
+    and cheaply what will be successful. We make fewer mistakes and move
+    faster towards the right solution.
+3.  Scale quickly. An early-stage startup needs to focus on two things:
+    product validation and market fit. Newlab provides the mental and
+    physical space to focus on what matters most in the crucial first 18
+    months of a new company's life. Operations, recruitment, funding,
+    branding--these are all things the Newlab team has been doing for
+    years for our own company and the startups we support. Newlab's
+    Brooklyn location has a brand new BioLab and we are actively
+    exploring building out biotechnology-specific infrastructure
+    in 2023.
+4.  Build the dream team from the ground up. From the selection of
+    Founders-in-Residence to headhunting CEOs or acting as the founding
+    team ourselves, we build curated teams of people who are passionate,
+    talented, and have the experience to scale up, not just start up.
+    We're also proud to provide stipends and early funding to ensure
+    that working on an early-stage startup is an accessible option to
+    people from all walks of life, resulting in more diverse,
+    successful teams.
 
 All of this amounts to better chances of success; businesses built by
 Venture Studios are more likely to get to Series A, and we get there

@@ -82,6 +82,6 @@ Summit - by XPRIZE Foundation later this year and is aiming for its
 plant-based whitefish wholecuts market launch in early 2023.*
 
 *For more information contact us using our website -*
-[*[www.seaspire.in]{.underline}*](http://www.seaspire.in)* *
+[*www.seaspire.in*](http://www.seaspire.in)* *
 
 *Find us on LinkedIn \@SeaSpire*

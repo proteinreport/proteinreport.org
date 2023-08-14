@@ -20,7 +20,8 @@ pinned: false
 homepage: false
 uuid: 8535
 ---
-## Company reaches major milestones in commercializing cell-cultivated animal protein
+Company reaches major milestones in commercializing cell-cultivated
+animal protein
 
 **HONG KONG -** Avant, the first cultivated meat company in China and
 the first cultivated fish company in Asia, announces today a strategic
@@ -86,9 +87,9 @@ based in Hong Kong Science Park, Avant has been named on CleanTech
 Group's *2020 APAC 25 list of most innovative sustainable companies* and
 featured in *Reuters,* *Forbes, The Telegraph, South China Morning Post,
 and CCTV*. For more information, please visit
-[[www.avantmeats.com](http://www.avantmeats.com)]{.underline}. 
+[www.avantmeats.com](http://www.avantmeats.com). 
 
 For interview requests or media inquiries, please contact
-[<press@avantmeats.com>]{.underline}.  
+<press@avantmeats.com>.  
 
  

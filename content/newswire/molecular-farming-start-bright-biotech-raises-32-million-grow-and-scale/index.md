@@ -118,9 +118,8 @@ educational and research institutions in the UK, the US, Jordan and
 Lebanon, the team can devise strong risk mitigation plans when technical
 challenges arise and bring a project to successful completion.
 
-Media contact: Mohammad El Hajj - Co-founder and CEO
-([email]{.underline}: <mohammad.elhajj@brightbiotech.co.uk>;
-[phone]{.underline}: +44 (0) 7500026503)
+Media contact: Mohammad El Hajj - Co-founder and CEO (email:
+<mohammad.elhajj@brightbiotech.co.uk>; phone: +44 (0) 7500026503)
 
 **About Bright Biotech**
 

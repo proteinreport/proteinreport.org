@@ -44,7 +44,7 @@ uuid: 10675
 
 IntegriCulture Inc. performed the first successful cultivation of
 chicken and duck liver-derived cells in a serum-free basal medium by the
-CulNet system, which emulates natural inter-organ interactions.^\*1^ We
+CulNet system, which emulates natural inter-organ interactions.\*1 We
 have successfully replaced all research-grade materials with food
 materials to achieve functional equivalence at a reduced cost. We became
 the first to implement a cell culture by serum-free basal medium that
@@ -64,7 +64,7 @@ unable to survive for a long time, let alone proliferate. However,
 animal serum is expensive and has ethical issues, so there is a
 worldwide competition to develop an alternative. It is said to cost
 US\$3,000 (about 320,000 yen) to produce a 1 pound (about 450 g) chicken
-nugget using traditional serum-added media.^\*2^
+nugget using traditional serum-added media.\*2
 
 **Production of serum components made possible by the CulNet™**
 

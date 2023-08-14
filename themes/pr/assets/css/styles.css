@@ -56,7 +56,8 @@
   .blur-up.lazyloaded {
     filter: unset;
   }
-  p > a {
+  p > a,
+  .prose a {
     @apply special-underline;
   }
 }
