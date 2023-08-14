@@ -1,5 +1,5 @@
 ---
-title: "Terms of Service"
+title: "Terms of Use"
 date: 2023-08-13T12:00:28+02:00
 url: /terms
 draft: false
