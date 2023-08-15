@@ -15,6 +15,10 @@
     {{ if gt $end_month_n $start_month_n }}
         {{ $start_month}} {{ $start_day }} - {{ $end_month }} {{ $end_day }}, {{ $end_year }}
     {{ else }}
-        {{ $start_month }} {{ $start_day }}-{{ $end_day }}, {{ $start_year }}
+        {{ if gt $end_day $start_day }}
+            {{ $start_month }} {{ $start_day }}-{{ $end_day }}, {{ $start_year }}
+        {{ else }}
+            {{ $start_month }} {{ $start_day }}, {{ $start_year }}
+        {{ end }}
     {{ end }}
 {{end}}
