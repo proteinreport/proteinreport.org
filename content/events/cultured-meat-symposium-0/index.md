@@ -14,7 +14,7 @@ online: FALSE
 start_date: 2023-11-02
 end_date: 2023-11-03
 country: United States
-city: San Francisco
+city: Las Vegas
 website: "https://cms23.com/"
 contributors: [NL]
 draft: false
