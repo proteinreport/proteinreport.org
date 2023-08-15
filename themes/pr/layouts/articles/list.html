@@ -13,44 +13,7 @@
       {{ $essay_contest_articles := where $paginator.Pages ".Params.essay_contest" "intersect" $essay_contest_cats }}
       {{ $articles := $paginator.Pages | symdiff $essay_contest_articles }}
       {{ range $articles -}}
-      {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
-      <article class="flex bg-white transition hover:shadow-xl border">
-        <div class="rotate-180 p-2 [writing-mode:_vertical-lr]">
-          <time datetime="{{ .PublishDate.Format " 2006-01-02" }}"
-            class="flex items-center justify-between gap-4 text-xs font-bold uppercase text-gray-900">
-            <span>{{ .PublishDate.Format "2006" }}</span>
-            <span class="w-px flex-1 bg-gray-900/10"></span>
-            <span>{{ .PublishDate.Format "Jan 2" }}</span>
-          </time>
-        </div>
-
-        <div class="hidden sm:block sm:basis-56">
-          {{ if $image }}
-          <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-cover" />
-          {{ end }}
-        </div>
-
-        <div class="flex flex-1 flex-col justify-between">
-          <div class="border-s border-gray-900/10 p-4 sm:border-l-transparent sm:p-6">
-            <a href="{{ .RelPermalink }}">
-              <h3 class="font-bold uppercase text-gray-900">
-                {{ .Params.title }}
-              </h3>
-            </a>
-
-            <p class="hidden mt-2 line-clamp-3 text-sm/relaxed text-gray-700">
-              {{ .Params.excerpt | safeHTML | truncate 100 }}
-            </p>
-          </div>
-
-          <div class="sm:flex sm:items-end sm:justify-end">
-            <a href="{{ .RelPermalink }}"
-              class="block bg-yellow-300 px-5 py-3 text-center text-xs font-bold uppercase text-gray-900 transition hover:bg-yellow-400">
-              Read more
-            </a>
-          </div>
-        </div>
-      </article>
+      {{ partial "article/card.html" . }}
       {{ end }}
     </div>
   </div>

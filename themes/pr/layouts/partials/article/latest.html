@@ -1,5 +1,10 @@
+{{ $all_articles := where .Site.RegularPages "Section" "articles" }}
+{{ $essay_contest_cats := slice "First Place" "Second Place" "Third Place" "Runner-up" "Honorable Mention"}}
+{{ $essay_contest_articles := where $all_articles ".Params.essay_contest" "intersect" $essay_contest_cats }}
+{{ $articles := $all_articles | symdiff $essay_contest_articles }}
+
 <div class="flex flex-col w-full gap-4">
-    {{ range first 5 ( where .FirstSection.RegularPages "Permalink" "ne" .Permalink ) }}
+    {{ range first 5 ( where $articles "Permalink" "ne" .Permalink ) }}
     {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
     <article class="flex flex-row w-full bg-white transition hover:shadow-xl border">
 

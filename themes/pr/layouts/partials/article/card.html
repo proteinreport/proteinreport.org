@@ -1,0 +1,43 @@
+{{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+<article class="flex bg-white transition hover:shadow-xl border">
+    <div class="hidden rotate-180 p-2 [writing-mode:_vertical-lr]">
+        <time datetime="{{ .PublishDate.Format " 2006-01-02" }}"
+            class="flex items-center justify-between gap-4 text-xs font-bold uppercase text-gray-900">
+            <span>{{ .PublishDate.Format "2006" }}</span>
+            <span class="w-px flex-1 bg-gray-900/10"></span>
+            <span>{{ .PublishDate.Format "Jan 2" }}</span>
+        </time>
+    </div>
+
+    <div class="basis-24 sm:basis-56 md:basis-36 lg:basis-56">
+        {{ if $image }}
+        <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-cover" />
+        {{ end }}
+    </div>
+
+    <div class="flex flex-1 flex-col justify-between">
+        <div class="border-s border-gray-900/10 p-4 sm:border-l-transparent sm:pl-6">
+            <a href="{{ .RelPermalink }}">
+                <h3 class="font-bold uppercase text-gray-900">
+                    {{ .Params.title | truncate 80 }}
+                </h3>
+            </a>
+
+            <p class="hidden sm:flex mt-2 line-clamp-3 text-sm/relaxed text-gray-700">
+                {{ .Params.excerpt | safeHTML | truncate 90 }}
+            </p>
+        </div>
+
+        <time datetime="{{ .PublishDate.Format " 2006-01-02" }}"
+            class="hidden items-center p-4 text-xs font-bold uppercase text-gray-900 sm:p-6">
+            <span>{{ .PublishDate.Format "Jan 2, 2006" }}</span>
+        </time>
+
+        <div class="hidden sm:flex sm:items-end sm:justify-end">
+            <a href="{{ .RelPermalink }}"
+                class="block bg-yellow-300 px-5 py-3 text-center text-xs font-bold uppercase text-gray-900 transition hover:bg-yellow-400">
+                Read more
+            </a>
+        </div>
+    </div>
+</article>
