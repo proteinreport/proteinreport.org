@@ -2,10 +2,7 @@
 
 <section id="events" class="w-full">
   <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-      <div class="w-full py-12">
-          <h2 class="text-7xl">Past Events</h2>
-          <p>Archive of past conferences and summits</p>
-      </div>
+      {{ partial "main/page-title.html" . }}
       <div class="w-full grid grid-cols-1 auto-rows-fr gap-8">
           {{ $all_events := where .Site.RegularPages "Section" "events" }}
           {{ range (sort $all_events ".Params.start_date" "desc") }}
