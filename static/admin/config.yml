@@ -1,0 +1,305 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+local_backend: true
+
+# These lines should *not* be indented
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  ########## Articles ##########
+  - name: "articles" # Used in routes, e.g., /admin/collections/blog
+    label: "Articles" # Used in the UI
+    label_singular: "Article"
+    folder: "content/en/articles" # The path to the folder where the documents are stored
+    path: "{{slug}}/index"
+    media_folder: ''
+    public_folder: ''
+    create: true # Allow users to create new documents in this collection
+    # slug: "{{slug}}/index.md" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "article"}
+      - {label: "Title", name: "title", widget: "string"}
+      - label: "Authors"
+        name: "contributors"
+        widget: "relation"
+        collection: "contributors"
+        multiple: true
+        search_fields: ["title", "uuid"]
+        value_field: "uuid"
+        display_fields: ["title"]
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        fields:
+          - {label: "Image", name: "src", widget: "image"}
+          - {label: "Alt", name: "alt", widget: "string"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Caption", name: "caption", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Excerpt", name: "excerpt", widget: "text"}
+      - label: "Proteins"
+        name: "proteins"
+        widget: "select"
+        multiple: true
+        options: ["Plant-Based", "Cell-Based", "Microbial", "Fungi", "Algae", "Animal", "Insect", "Molecular Farming"]
+      - label: "Products"
+        name: "products"
+        widget: "select"
+        multiple: true
+        options: ["Meat", "Dairy", "Eggs", "Seafood", "Ingredients", "Pet Food", "Feed"]
+      - label: "Topics"
+        name: "topics"
+        widget: "select"
+        multiple: true
+        options: ["Business", "Environment", "Policy", "Sci-Tech", "Health", "Culture"]
+      - label: "Regions"
+        name: "regions"
+        widget: "select"
+        multiple: true
+        options: ["Africa", "Asia", "Europe", "International", "Latin America & Caribbean", "Middle East", "Oceania", "US & Canada"]
+      - label: "Tech Segment"
+        name: "tech_segment"
+        widget: "select"
+        multiple: true
+        options: ["Agriculture & Plant Protein", "Fungiculture & Mycoprotein", "Algaculture & Algal Protein", "Cell Culture & Animal Protein", "Microbial & Precision Fermentation", "Molecular Farming", "Livestock & Animals"]
+      - label: "Related Companies"
+        name: "directory"
+        widget: "relation"
+        collection: "directory"
+        multiple: true
+        search_fields: ["title", "uuid"]
+        value_field: "uuid"
+        display_fields: ["title"]
+      - {label: "UUID", name: "uuid", widget: "uuid" }
+      - {label: "Content", name: "body", widget: "markdown"}
+  ########## Newswire ##########
+  - name: "newswire" # Used in routes, e.g., /admin/collections/blog
+    label: "Newswire" # Used in the UI
+    label_singular: "Press Release"
+    folder: "content/en/newswire" # The path to the folder where the documents are stored
+    path: "{{slug}}/index"
+    media_folder: ''
+    public_folder: ''
+    create: true # Allow users to create new documents in this collection
+    # slug: "{{slug}}/index.md" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "article"}
+      - {label: "Title", name: "title", widget: "string"}
+      - label: "Company"
+        name: "company"
+        widget: "relation"
+        collection: "directory"
+        search_fields: ["uuid", "title"]
+        value_field: "uuid"
+        display_fields: ["title"]
+      - {label: "Company Name", name: "company_name", widget: "string", required: false}
+      - {label: "Company Link", name: "company_link", widget: "string", required: false}
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        fields:
+          - {label: "Image", name: "src", widget: "image"}
+          - {label: "Alt", name: "alt", widget: "string"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Caption", name: "caption", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Excerpt", name: "excerpt", widget: "text"}
+      - label: "Proteins"
+        name: "proteins"
+        widget: "select"
+        multiple: true
+        options: ["Plant-Based", "Cell-Based", "Microbial", "Fungi", "Algae", "Animal", "Insect", "Molecular Farming"]
+      - label: "Products"
+        name: "products"
+        widget: "select"
+        multiple: true
+        options: ["Meat", "Dairy", "Eggs", "Seafood", "Ingredients", "Pet Food", "Feed"]
+      - label: "Topics"
+        name: "topics"
+        widget: "select"
+        multiple: true
+        options: ["Business", "Environment", "Policy", "Sci-Tech", "Health", "Culture"]
+      - label: "Regions"
+        name: "regions"
+        widget: "select"
+        multiple: true
+        options: ["Africa", "Asia", "Europe", "International", "Latin America & Caribbean", "Middle East", "Oceania", "US & Canada"]
+      - label: "Tech Segment"
+        name: "tech_segment"
+        widget: "select"
+        multiple: true
+        required: false
+        options: ["Agriculture & Plant Protein", "Fungiculture & Mycoprotein", "Algaculture & Algal Protein", "Cell Culture & Animal Protein", "Microbial & Precision Fermentation", "Molecular Farming", "Livestock & Animals"]
+      - label: "Related Companies"
+        name: "directory"
+        widget: "relation"
+        collection: "directory"
+        multiple: true
+        search_fields: ["title", "uuid"]
+        value_field: "uuid"
+        display_fields: ["title"]
+      - {label: "UUID", name: "uuid", widget: "uuid" }
+      - {label: "Content", name: "body", widget: "markdown"}
+  ########## Directory ##########
+  - name: "directory" # Used in routes, e.g., /admin/collections/blog
+    label: "Directory" # Used in the UI
+    label_singular: "Directory Entry"
+    folder: "content/en/directory" # The path to the folder where the documents are stored
+    path: "{{slug}}/index"
+    media_folder: ''
+    public_folder: ''
+    create: true # Allow users to create new documents in this collection
+    # slug: "{{slug}}/index.md" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "article"}
+      - {label: "Title", name: "title", widget: "string"}
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        fields:
+          - {label: "Image", name: "src", widget: "image"}
+          - {label: "Alt", name: "alt", widget: "string"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Caption", name: "caption", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - label: "Proteins"
+        name: "proteins"
+        widget: "select"
+        multiple: true
+        options: ["Plant-Based", "Cell-Based", "Microbial", "Fungi", "Algae", "Animal", "Insect", "Molecular Farming"]
+      - label: "Products"
+        name: "products"
+        widget: "select"
+        multiple: true
+        options: ["Meat", "Dairy", "Eggs", "Seafood", "Ingredients", "Pet Food", "Feed"]
+      - label: "Tech Segment"
+        name: "tech_segment"
+        widget: "select"
+        multiple: true
+        required: false
+        options: ["Agriculture & Plant Protein", "Fungiculture & Mycoprotein", "Algaculture & Algal Protein", "Cell Culture & Animal Protein", "Microbial & Precision Fermentation", "Molecular Farming", "Livestock & Animals"]
+      - {label: "UUID", name: "uuid", widget: "uuid" }
+      - {label: "Content", name: "body", widget: "markdown"}
+  ########## Contributors ##########
+  - name: "contributors" # Used in routes, e.g., /admin/collections/blog
+    label: "Contributors" # Used in the UI
+    label_singular: "Contributor"
+    folder: "content/en/contributors" # The path to the folder where the documents are stored
+    path: "{{slug}}/index"
+    media_folder: ''
+    public_folder: ''
+    create: true # Allow users to create new documents in this collection
+    # slug: "{{slug}}/index.md" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "contributors"}
+      - {label: "Name", name: "title", widget: "string"}
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        fields:
+          - {label: "Image", name: "src", widget: "image"}
+          - {label: "Alt", name: "alt", widget: "string"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Caption", name: "caption", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "UUID", name: "uuid", widget: "uuid" }
+      - {label: "Content", name: "body", widget: "markdown"}
+  ########## Events ##########
+  - name: "events" # Used in routes, e.g., /admin/collections/blog
+    label: "Events" # Used in the UI
+    label_singular: "Event"
+    folder: "content/en/events" # The path to the folder where the documents are stored
+    path: "{{slug}}/index"
+    media_folder: ''
+    public_folder: ''
+    create: true # Allow users to create new documents in this collection
+    # slug: "{{slug}}/index.md" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "events"}
+      - {label: "Title", name: "title", widget: "string"}
+      - label: "Start Date"
+        name: "start_date"
+        widget: "datetime"
+        default: ""
+        date_format: "MMM DD, YYYY"
+        time_format: false
+      - label: "End Date"
+        name: "end_date"
+        widget: "datetime"
+        default: ""
+        date_format: "MMM DD, YYYY"
+        time_format: false
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        fields:
+          - {label: "Logo", name: "src", widget: "image"}
+          - {label: "Alt", name: "alt", widget: "string"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Caption", name: "caption", widget: "string"}
+      - {label: "Banner", name: "banner_image", widget: "image"}
+      - label: "Proteins"
+        name: "proteins"
+        widget: "select"
+        multiple: true
+        options: ["Plant-Based", "Cell-Based", "Microbial", "Fungi", "Algae", "Animal", "Insect", "Molecular Farming"]
+      - label: "Products"
+        name: "products"
+        widget: "select"
+        multiple: true
+        options: ["Meat", "Dairy", "Eggs", "Seafood", "Ingredients", "Pet Food", "Feed"]
+      - label: "Topics"
+        name: "topics"
+        widget: "select"
+        multiple: true
+        options: ["Business", "Environment", "Policy", "Sci-Tech", "Health", "Culture"]
+      - label: "Regions"
+        name: "regions"
+        widget: "select"
+        multiple: true
+        options: ["Africa", "Asia", "Europe", "International", "Latin America & Caribbean", "Middle East", "Oceania", "US & Canada"]
+      - label: "Tech Segment"
+        name: "tech_segment"
+        widget: "select"
+        multiple: true
+        options: ["Agriculture & Plant Protein", "Fungiculture & Mycoprotein", "Algaculture & Algal Protein", "Cell Culture & Animal Protein", "Microbial & Precision Fermentation", "Molecular Farming", "Livestock & Animals"]
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "UUID", name: "uuid", widget: "uuid" }
+      - {label: "Content", name: "body", widget: "markdown"}
+  ########## Jobs ##########
+  - name: "jobs" # Used in routes, e.g., /admin/collections/blog
+    label: "Jobs" # Used in the UI
+    label_singular: "Job"
+    folder: "content/en/jobs" # The path to the folder where the documents are stored
+    path: "{{slug}}/index"
+    media_folder: ''
+    public_folder: ''
+    create: true # Allow users to create new documents in this collection
+    # slug: "{{slug}}/index.md" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "jobs"}
+      - {label: "Name", name: "title", widget: "string"}
+      - label: "Company"
+        name: "company"
+        widget: "relation"
+        collection: "directory"
+        search_fields: ["uuid", "title"]
+        value_field: "uuid"
+        display_fields: ["title"]
+      - label: "Logo"
+        name: "images"
+        widget: "relation"
+        collection: "directory"
+        search_fields: ["uuid", "title"]
+        value_field: "images[0].src"
+        display_fields: ["title"]
+        required: false
+      - {label: "Company Name", name: "company_name", widget: "string", required: false}
+      - {label: "Company Link", name: "company_link", widget: "string", required: false}
+      #- {label: "Image", name: "images", widget: "image"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "UUID", name: "uuid", widget: "uuid" }
+      - {label: "Content", name: "body", widget: "markdown"}
