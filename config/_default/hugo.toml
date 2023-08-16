@@ -44,6 +44,7 @@ copyRight = "Copyright (c) 2023 Hyas"
   products = "/:slug/"
   topics = "/:slug/"
   regions = "/:slug/"
+  flags = "/:slug/"
 
 [minify.tdewolff.html]
   keepWhitespace = false
