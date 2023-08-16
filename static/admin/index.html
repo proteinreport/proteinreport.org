@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Content Manager</title>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" unsafe-inline></script>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <style>
     [data-slate-editor] { 
         -webkit-user-modify: read-write !important; 
@@ -13,9 +13,9 @@
 </head>
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
-  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js" unsafe-inline></script>
+  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
   <!-- Script to add a unique id widget, as described here: https://github.com/netlify/netlify-cms/issues/1975#issuecomment-1221579538 -->
-  <script unsafe-inline>
+  <script>
     // https://github.com/ai/nanoid
     function nanoid(t = 20) {
         return crypto.getRandomValues(new Uint8Array(t)).reduce((t, e) => (t += (e &= 63) < 36 ? e.toString(36) : e < 62 ? (e - 26).toString(36).toUpperCase() : e > 62 ? '' : ''), '')
