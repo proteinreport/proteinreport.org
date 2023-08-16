@@ -45,9 +45,8 @@ We bring about change. Not just because we can. Because we have to.  Are
 you hungry for change too? Then join our «Tasty Revolution»!
 
 As our Food Application Scientist you can bring our products to the next
-level by advancing our plant-based food formulations!\
+level by advancing our plant-based food formulations!
  
-
 **Your mission:**
 
 -   Managing and organizing multiple science and product development
@@ -63,10 +62,6 @@ level by advancing our plant-based food formulations!\
 -   Establishing new ways of working to accelerate the transfer from
     science to product development to production
 
-```{=html}
-<!-- -->
-```
-
 **You:**
 
 -   Have a Bachelor\'s or Master\'s degree in Food Science, Chemistry or
@@ -81,10 +76,6 @@ level by advancing our plant-based food formulations!\
     both internally and externally
 -   Have excellent English skills in written and oral, German is a plus
 
- 
-
-
 **How to apply**
-
 
 [https://careers.eatplanted.com/jobs/1938906-food-application-scientist-...](https://careers.eatplanted.com/jobs/1938906-food-application-scientist-f-m-d)

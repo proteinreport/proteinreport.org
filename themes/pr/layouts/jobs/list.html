@@ -7,7 +7,7 @@
       <p>Career and consulting opportunities</p>
     </div>
 
-    <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 md:grid-cols-2">
+    <div class="w-full grid grid-cols-1 auto-rows-fr gap-8">
       {{ $paginator := .Paginate (.Data.Pages) -}}
       {{ range $paginator.Pages -}}
         {{ partial "job/card.html" . }}
