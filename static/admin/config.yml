@@ -13,7 +13,7 @@ collections:
   - name: "articles" # Used in routes, e.g., /admin/collections/blog
     label: "Articles" # Used in the UI
     label_singular: "Article"
-    folder: "content/en/articles" # The path to the folder where the documents are stored
+    folder: "content/articles" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
     media_folder: ''
     public_folder: ''
@@ -22,7 +22,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "article"}
       - {label: "Title", name: "title", widget: "string"}
-      - label: "Authors"
+      - label: "Contributors"
         name: "contributors"
         widget: "relation"
         collection: "contributors"
@@ -30,8 +30,11 @@ collections:
         search_fields: ["title", "uuid"]
         value_field: "uuid"
         display_fields: ["title"]
-      - label: "Images"
-        name: "images"
+      - label: "Featured Image"
+        name: "featured_image"
+        widget: "image"
+      - label: "Additional Images"
+        name: "additional_images"
         widget: "list"
         fields:
           - {label: "Image", name: "src", widget: "image"}
@@ -79,7 +82,7 @@ collections:
   - name: "newswire" # Used in routes, e.g., /admin/collections/blog
     label: "Newswire" # Used in the UI
     label_singular: "Press Release"
-    folder: "content/en/newswire" # The path to the folder where the documents are stored
+    folder: "content/newswire" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
     media_folder: ''
     public_folder: ''
@@ -147,7 +150,7 @@ collections:
   - name: "directory" # Used in routes, e.g., /admin/collections/blog
     label: "Directory" # Used in the UI
     label_singular: "Directory Entry"
-    folder: "content/en/directory" # The path to the folder where the documents are stored
+    folder: "content/directory" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
     media_folder: ''
     public_folder: ''
@@ -187,7 +190,7 @@ collections:
   - name: "contributors" # Used in routes, e.g., /admin/collections/blog
     label: "Contributors" # Used in the UI
     label_singular: "Contributor"
-    folder: "content/en/contributors" # The path to the folder where the documents are stored
+    folder: "content/contributors" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
     media_folder: ''
     public_folder: ''
@@ -211,7 +214,7 @@ collections:
   - name: "events" # Used in routes, e.g., /admin/collections/blog
     label: "Events" # Used in the UI
     label_singular: "Event"
-    folder: "content/en/events" # The path to the folder where the documents are stored
+    folder: "content/events" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
     media_folder: ''
     public_folder: ''
@@ -273,7 +276,7 @@ collections:
   - name: "jobs" # Used in routes, e.g., /admin/collections/blog
     label: "Jobs" # Used in the UI
     label_singular: "Job"
-    folder: "content/en/jobs" # The path to the folder where the documents are stored
+    folder: "content/jobs" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
     media_folder: ''
     public_folder: ''
