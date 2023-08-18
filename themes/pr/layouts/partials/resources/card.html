@@ -15,12 +15,12 @@
         {{ if $image -}}
             <picture>
                 <source srcset="{{ $image_webp.RelPermalink }}" type="image/webp">
-                <img alt="{{ .Title }}" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain" />
+                <img alt="{{ .Title }}" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain lazyload blur-up img-fluid" />
             </picture>
         {{ else }}
             <picture>
                 <source srcset="{{ $image_placeholder_webp.RelPermalink }}">
-                <img alt="{{ .Title }}" src="{{ $image_placeholder.RelPermalink }}" class="rotate-12 p-1 aspect-video w-4/5 object-contain" />
+                <img alt="{{ .Title }}" src="{{ $image_placeholder.RelPermalink }}" class="rotate-12 p-1 aspect-video w-4/5 object-contain lazyload blur-up img-fluid" />
             </picture>
         {{ end -}}
     </div>

@@ -56,7 +56,7 @@
         {{ if $image }}
             <picture>
                 <source srcset="{{ $image_webp.RelPermalink }}" type="image/webp">
-                <img alt="" src="{{ $image.RelPermalink }}" class="aspect-video w-full object-contain" />
+                <img alt="" src="{{ $image.RelPermalink }}" class="aspect-video w-full object-contain lazyload blur-up img-fluid" />
             </picture>
         {{ end }}
     </div>
