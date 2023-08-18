@@ -1,8 +1,8 @@
 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
 {{ $image_webp := $image }}
 {{ if $image }}
-    {{ $image = $image.Resize "480x" }}
-    {{ $image_webp = $image.Resize "480x webp" }}
+    {{ $image = $image.Fill "224x224 q100" }}
+    {{ $image_webp = $image.Fill "224x224 webp q100" }}
 {{ end }}
 
 <article class="flex bg-white transition hover:shadow-xl border">
