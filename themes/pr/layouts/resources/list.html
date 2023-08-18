@@ -10,49 +10,7 @@
     <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 md:grid-cols-2">
       {{ $paginator := .Paginate (.Data.Pages) -}}
       {{ range $paginator.Pages -}}
-      {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
-      <article class="relative flex items-center bg-white transition hover:shadow-xl border">
-
-        <div class="hidden sm:block sm:basis-56">
-          {{ if $image -}}
-          <img src="{{ $image.RelPermalink }}" alt="" class="aspect-video px-4 w-full object-contain">
-          {{ else }}
-          <img src="/images/article_placeholder.png" alt="" class="rotate-12 p-1 aspect-video w-4/5 object-contain">
-          {{ end -}}
-        </div>
-
-        <div class="flex flex-1 flex-col justify-between">
-          <div class="border-s border-gray-900/10 p-4 sm:border-l-transparent sm:p-6">
-            <a href="{{ .RelPermalink }}">
-              <h3 class="font-bold uppercase text-gray-900">
-                {{ .Params.title }}
-              </h3>
-            </a>
-
-            <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-700">
-              {{ $url := .Params.link }}
-              {{ $u := urls.Parse $url }}
-              <a target="_blank" href="{{ .Params.link }}">{{ replace $u.Hostname "www." "" }}</a>
-            </p>
-          </div>
-
-          <div class="sm:flex sm:items-end sm:justify-end">
-            <a href="{{ .RelPermalink }}"
-              class="block bg-yellow-300 px-5 py-3 text-center text-xs font-bold uppercase text-gray-900 transition hover:bg-yellow-400">
-              Read more
-            </a>
-          </div>
-
-          <p class="border-2 border-l-0 p-2 absolute top-4 left-0 bg-white">
-            {{ if in .Params.resource_type "academic" }}
-            Academic Article
-            {{ else if in .Params.resource_type "industry" }}
-            Industry Report
-            {{ end }}
-          </p>
-
-        </div>
-      </article>
+        {{ partial "resources/card.html" . }}
       {{ end }}
     </div>
   </div>

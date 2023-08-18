@@ -3,9 +3,17 @@
   {{ $companies := where site.RegularPages "Type" "directory" }}
   {{ with where $companies ".Params.uuid" $company_uuid }}
     {{ with index . 0 }}
-      {{ if .Params.featured_image }}
-          {{ $image := .Resources.GetMatch .Params.featured_image }}
-          <img class="object-contain aspect-square w-full p-2 lazyload blur-up" src="{{ $image.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
+      {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+      {{ $image_webp := $image }}
+      {{ if $image }}
+          {{ $image = $image.Resize "480x" }}
+          {{ $image_webp = $image.Resize "480x webp" }}
+      {{ end }}
+      {{ if $image }}
+        <picture>
+            <source srcset="{{ $image_webp.RelPermalink }}">
+            <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain" />
+        </picture>
       {{ end }}
     {{ end }}
   {{ end }}

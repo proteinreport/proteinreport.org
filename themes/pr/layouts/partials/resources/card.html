@@ -1,0 +1,59 @@
+{{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+{{ $image_webp := $image }}
+{{ $image_placeholder := resources.Get "/images/article_placeholder.png" }}
+{{ $image_placeholder_webp := $image_placeholder }}
+{{ if $image }}
+    {{ $image = $image.Resize "480x" }}
+    {{ $image_webp = $image.Resize "480x webp" }}
+{{ else }}
+    {{ $image_placeholder = $image_placeholder.Resize "480x" }}
+    {{ $image_placeholder_webp = $image_placeholder.Resize "480x webp" }}
+{{ end }}
+<article class="relative flex items-center bg-white transition hover:shadow-xl border">
+
+    <div class="hidden sm:block sm:basis-56">
+        {{ if $image -}}
+            <picture>
+                <source srcset="{{ $image_webp.RelPermalink }}">
+                <img alt="{{ .Title }}" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain" />
+            </picture>
+        {{ else }}
+            <picture>
+                <source srcset="{{ $image_placeholder_webp.RelPermalink }}">
+                <img alt="{{ .Title }}" src="{{ $image_placeholder.RelPermalink }}" class="rotate-12 p-1 aspect-video w-4/5 object-contain" />
+            </picture>
+        {{ end -}}
+    </div>
+
+    <div class="flex flex-1 flex-col justify-between">
+        <div class="border-s border-gray-900/10 p-4 sm:border-l-transparent sm:p-6">
+            <a href="{{ .RelPermalink }}">
+                <h3 class="font-bold uppercase text-gray-900">
+                    {{ .Params.title }}
+                </h3>
+            </a>
+
+            <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-700">
+                {{ $url := .Params.link }}
+                {{ $u := urls.Parse $url }}
+                <a target="_blank" href="{{ .Params.link }}">{{ replace $u.Hostname "www." "" }}</a>
+            </p>
+        </div>
+
+        <div class="sm:flex sm:items-end sm:justify-end">
+            <a href="{{ .RelPermalink }}"
+                class="block bg-yellow-300 px-5 py-3 text-center text-xs font-bold uppercase text-gray-900 transition hover:bg-yellow-400">
+                Read more
+            </a>
+        </div>
+
+        <p class="border-2 border-l-0 p-2 absolute top-4 left-0 bg-white">
+            {{ if in .Params.resource_type "academic" }}
+            Academic Article
+            {{ else if in .Params.resource_type "industry" }}
+            Industry Report
+            {{ end }}
+        </p>
+
+    </div>
+</article>

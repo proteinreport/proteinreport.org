@@ -1,6 +1,8 @@
 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+{{ $image_webp := $image }}
 {{ if $image }}
-    {{ $image = $image.Resize "480x webp" }}
+    {{ $image = $image.Resize "480x" }}
+    {{ $image_webp = $image.Resize "480x webp" }}
 {{ end }}
 <article class="flex bg-white transition hover:shadow-xl border">
     <div class="hidden rotate-180 p-2 [writing-mode:_vertical-lr]">
@@ -14,7 +16,10 @@
 
     <div class="basis-24 sm:basis-56 md:basis-36 lg:basis-56">
         {{ if $image }}
-        <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-cover" />
+            <picture>
+                <source srcset="{{ $image_webp.RelPermalink }}">
+                <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain" />
+            </picture>
         {{ end }}
     </div>
 

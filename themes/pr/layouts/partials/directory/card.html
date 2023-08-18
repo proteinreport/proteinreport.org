@@ -1,12 +1,17 @@
 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+{{ $image_webp := $image }}
 {{ if $image }}
-    {{ $image = $image.Resize "480x webp" }}
+    {{ $image = $image.Resize "480x" }}
+    {{ $image_webp = $image.Resize "480x webp" }}
 {{ end }}
 <article class="flex items-center w-full bg-white transition hover:shadow-xl border">
 
     <div class="p-4 w-1/3">
         {{ if $image }}
-            <img alt="" src="{{ $image.RelPermalink }}" class="aspect-video w-full object-contain" />
+            <picture>
+                <source srcset="{{ $image_webp.RelPermalink }}">
+                <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain" />
+            </picture>
         {{ end }}
     </div>
 

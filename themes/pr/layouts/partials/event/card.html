@@ -1,4 +1,9 @@
 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+{{ $image_webp := $image }}
+{{ if $image }}
+    {{ $image = $image.Resize "480x" }}
+    {{ $image_webp = $image.Resize "480x webp" }}
+{{ end }}
 <article class="flex items-center bg-white transition hover:shadow-xl border">
     <div class="hidden rotate-180 p-2 [writing-mode:_vertical-lr]">
         <time datetime="{{ .PublishDate.Format " 2006-01-02" }}"
@@ -49,7 +54,10 @@
     </div>
     <div class="hidden p-4 sm:block sm:basis-56">
         {{ if $image }}
-            <img alt="" src="{{ $image.RelPermalink }}" class="aspect-video w-full object-contain" />
+            <picture>
+                <source srcset="{{ $image_webp.RelPermalink }}">
+                <img alt="" src="{{ $image.RelPermalink }}" class="aspect-video w-full object-contain" />
+            </picture>
         {{ end }}
     </div>
 </article>

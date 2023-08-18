@@ -1,10 +1,7 @@
-{{ $image := .Page.Resources.GetMatch .Params.featured_image }}
 <article class="flex flex-row flex-wrap bg-white transition hover:shadow-xl border">
-
     <div class="basis-24 md:basis-36 md:p-4 border flex items-center">
         {{ partial "job/logo-list.html" . }}
     </div>
-
     <div class="flex flex-row flex-1 flex-wrap justify-between">
 
         <div class="flex flex-col justify-center">
@@ -14,26 +11,22 @@
                         {{ .Params.title }}
                     </h3>
                 </a>
-    
+
                 <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-700">
                     {{ partial "job/location-list.html" . }}
                 </p>
-    
+
                 <p class="hidden mt-2 line-clamp-3 text-sm/relaxed text-gray-700">
                     {{ .Params.excerpt | safeHTML | truncate 100 }}
                 </p>
             </div>
         </div>
-    
+
         <div class="flex flex-col justify-center p-4">
             <p><span class="font-bold">Posted:</span> {{ .PublishDate.Format "Jan 2, 2006" }}</p>
             {{ if .Params.closing_date }}
-                <p><span class="font-bold">Closing: </span> {{ dateFormat "Jan 2, 2006" .Params.closing_date }}</p>
+            <p><span class="font-bold">Closing: </span> {{ dateFormat "Jan 2, 2006" .Params.closing_date }}</p>
             {{ end }}
         </div>
-
     </div>
-
-    
-
 </article>
