@@ -10,10 +10,18 @@
   </div>
   <div class="grid grid-cols-1 gap-6 mx-auto max-w-7xl md:grid-cols-3 2xl:border-x-4">
     <div class="flex flex-col w-full md:col-span-2">
-      {{ $image := .Resources.GetMatch .Params.featured_image -}}
+      {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+      {{ $image_webp := $image }}
+      {{ if $image }}
+        {{ $image = $image.Resize "840x" }}
+        {{ $image_webp = $image.Resize "840x webp q95" }}
+      {{ end }}
       {{ if $image -}}
         <div class="w-full relative">
-          <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video object-cover w-full">
+          <picture>
+            <source srcset="{{ $image_webp.RelPermalink }}" type="image/webp">
+            <img alt="" src="{{ $image.RelPermalink }}" class="lazyload blur-up img-fluid aspect-video object-cover w-full" />
+          </picture>
           {{ partial "article/flags.html" . }}
         </div>
       {{ end -}}

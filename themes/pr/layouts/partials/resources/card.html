@@ -29,7 +29,7 @@
         <div class="border-s border-gray-900/10 p-4 sm:border-l-transparent sm:p-6">
             <a href="{{ .RelPermalink }}">
                 <h3 class="font-bold uppercase text-gray-900">
-                    {{ .Params.title }}
+                    {{ .Params.title | truncate 90 }}
                 </h3>
             </a>
 
