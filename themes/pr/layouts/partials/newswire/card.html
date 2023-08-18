@@ -1,4 +1,5 @@
 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+{{ $image = $image.Resize "300x webp" }}
 <article class="flex bg-white transition hover:shadow-xl border">
     <div class="hidden rotate-180 p-2 [writing-mode:_vertical-lr]">
         <time datetime="{{ .PublishDate.Format " 2006-01-02" }}"
