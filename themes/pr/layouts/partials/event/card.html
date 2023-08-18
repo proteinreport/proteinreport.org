@@ -55,7 +55,7 @@
     <div class="hidden p-4 sm:block sm:basis-56">
         {{ if $image }}
             <picture>
-                <source srcset="{{ $image_webp.RelPermalink }}">
+                <source srcset="{{ $image_webp.RelPermalink }}" type="image/webp">
                 <img alt="" src="{{ $image.RelPermalink }}" class="aspect-video w-full object-contain" />
             </picture>
         {{ end }}

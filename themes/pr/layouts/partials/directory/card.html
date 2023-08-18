@@ -9,7 +9,7 @@
     <div class="p-4 w-1/3">
         {{ if $image }}
             <picture>
-                <source srcset="{{ $image_webp.RelPermalink }}">
+                <source srcset="{{ $image_webp.RelPermalink }}" type="image/webp">
                 <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain" />
             </picture>
         {{ end }}
