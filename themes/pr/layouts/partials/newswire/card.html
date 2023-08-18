@@ -17,7 +17,7 @@
     <div class="basis-24 sm:basis-56 md:basis-36 lg:basis-56">
         {{ if $image }}
             <picture>
-                <source srcset="{{ $image_webp.RelPermalink }}">
+                <source srcset="{{ $image_webp.RelPermalink }}" type="image/webp">
                 <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-cover" />
             </picture>
         {{ end }}
