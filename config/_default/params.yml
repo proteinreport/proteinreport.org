@@ -2,7 +2,7 @@
 image:
   ## General
   type: page # page (default) or global
-  widths: [480, 640, 768, 1024, 1366] # [600, 900, 1300] (default)
+  widths: [40, 70, 150, 224, 480, 640, 768, 1024, 1366] # [600, 900, 1300] (default)
   densities: [1,2] # [1,2] (default)
   formats: [original, webp] # [original, webp] (default)
   provider: null # null (default) or netlify
@@ -10,6 +10,7 @@ image:
   class: "img-fluid blur-up" # img-fluid (default)
   output: picture # picture (default), figure, or img
   noscript: false # false (default) or true
+  quality: 100
 
   ## Placeholder
   placeholder: lqip # null (default), lqip, dominant, or [black, [gray-100..gray-900], white]

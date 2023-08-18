@@ -4,16 +4,14 @@
   {{ with where $companies ".Params.uuid" $company_uuid }}
     {{ with index . 0 }}
       {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
-      {{ $image_webp := $image }}
       {{ if $image }}
-          {{ $image = $image.Resize "480x" }}
-          {{ $image_webp = $image.Resize "480x webp" }}
-      {{ end }}
-      {{ if $image }}
-        <picture>
-            <source srcset="{{ $image_webp.RelPermalink }}" type="image/webp">
-            <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain lazyload blur-up img-fluid" />
-        </picture>
+        {{ partial "picture" (dict
+        "ctx" .
+        "src" $image
+        "alt" .Title
+        "class" "img-fluid blur-up aspect-square w-full object-contain"
+        "widths" (slice 40 70 150)
+        )}}
       {{ end }}
     {{ end }}
   {{ end }}
