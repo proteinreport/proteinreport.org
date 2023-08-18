@@ -1,9 +1,5 @@
 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
-{{ $image_webp := $image }}
-{{ if $image }}
-    {{ $image = $image.Fill "224x224 q100 center" }}
-    {{ $image_webp = $image.Fill "224x224 webp q100 center" }}
-{{ end }}
+
 
 <article class="flex bg-white transition hover:shadow-xl border">
     <div class="hidden rotate-180 p-2 [writing-mode:_vertical-lr]">
@@ -17,10 +13,13 @@
 
     <div class="basis-24 sm:basis-56 md:basis-36 lg:basis-56">
         {{ if $image }}
-            <picture>
-                <source srcset="{{ $image_webp.RelPermalink }}" type="image/webp">
-                <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
-            </picture>
+            
+            {{ partial "picture" (dict
+                "ctx" .
+                "src" $image
+                "alt" .Title
+                "class" "img-fluid blur-up aspect-square w-full object-cover"
+            )}}
         {{ end }}
     </div>
 

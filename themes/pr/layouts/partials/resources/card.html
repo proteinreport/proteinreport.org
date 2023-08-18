@@ -3,11 +3,11 @@
 {{ $image_placeholder := resources.Get "/images/article_placeholder.png" }}
 {{ $image_placeholder_webp := $image_placeholder }}
 {{ if $image }}
-    {{ $image = $image.Resize "480x" }}
-    {{ $image_webp = $image.Resize "480x webp" }}
+    {{ $image = $image.Fill "224x224 q100 center" }}
+    {{ $image_webp = $image.Fill "224x224 webp q100 center" }}
 {{ else }}
-    {{ $image_placeholder = $image_placeholder.Resize "480x" }}
-    {{ $image_placeholder_webp = $image_placeholder.Resize "480x webp" }}
+    {{ $image_placeholder = $image_placeholder.Fill "224x224 center" }}
+    {{ $image_placeholder_webp = $image_placeholder.Fill "224x224 webp" }}
 {{ end }}
 <article class="relative flex items-center bg-white transition hover:shadow-xl border">
 
