@@ -10,14 +10,14 @@
         "ctx" .
         "src" $image
         "alt" .Title
-        "class" "img-fluid blur-up max-w-[50%] aspect-square object-cover"
+        "class" "img-fluid blur-up w-1/2 aspect-square object-cover"
         )}}
       {{ else }}
         {{ partial "picture" (dict
         "ctx" .
         "src" $image_placeholder
         "alt" .Title
-        "class" "img-fluid blur-up max-w-[50%] rotate-12 aspect-square object-contain"
+        "class" "img-fluid blur-up w-1/2 m-auto rotate-12 aspect-video object-contain"
         )}}
       {{ end -}}
       {{ if in .Params.resource_type "academic" }}
