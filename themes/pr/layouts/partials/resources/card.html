@@ -1,27 +1,25 @@
 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
-{{ $image_webp := $image }}
-{{ $image_placeholder := resources.Get "/images/article_placeholder.png" }}
-{{ $image_placeholder_webp := $image_placeholder }}
-{{ if $image }}
-    {{ $image = $image.Fill "224x224 q100 center" }}
-    {{ $image_webp = $image.Fill "224x224 webp q100 center" }}
-{{ else }}
-    {{ $image_placeholder = $image_placeholder.Fill "224x224 center" }}
-    {{ $image_placeholder_webp = $image_placeholder.Fill "224x224 webp" }}
-{{ end }}
+{{ $image_placeholder := "assets/images/article_placeholder.png" }}
+
 <article class="relative flex items-center bg-white transition hover:shadow-xl border">
 
     <div class="hidden sm:block sm:basis-56">
         {{ if $image -}}
-            <picture>
-                <source srcset="{{ $image_webp.RelPermalink }}" type="image/webp">
-                <img alt="{{ .Title }}" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain lazyload blur-up img-fluid" />
-            </picture>
+            {{ partial "picture" (dict
+            "ctx" .
+            "src" $image
+            "alt" .Title
+            "class" "img-fluid blur-up aspect-video w-full object-contain"
+            "widths" (slice 40 70 150 224 480 640)
+            )}}
         {{ else }}
-            <picture>
-                <source srcset="{{ $image_placeholder_webp.RelPermalink }}">
-                <img alt="{{ .Title }}" src="{{ $image_placeholder.RelPermalink }}" class="rotate-12 p-1 aspect-video w-4/5 object-contain lazyload blur-up img-fluid" />
-            </picture>
+            {{ partial "picture" (dict
+            "ctx" .
+            "src" $image_placeholder
+            "alt" .Title
+            "class" "img-fluid blur-up aspect-video w-full rotate-12 object-contain"
+            
+            )}}
         {{ end -}}
     </div>
 
