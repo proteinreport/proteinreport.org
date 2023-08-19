@@ -5,8 +5,12 @@
     <div class="relative w-full flex justify-center items-center">
       {{ $image := .Resources.GetMatch .Params.featured_image -}}
       {{ if $image -}}
-      <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}"
-          class="lazyload blur-up img-fluid max-w-[50%] aspect-square object-cover">
+        {{ partial "picture" (dict
+        "ctx" .
+        "src" $image
+        "alt" .Title
+        "class" "img-fluid blur-up max-w-[50%] aspect-square object-cover"
+        )}}
       {{ end -}}
     </div>
     <aside class="w-full flex flex-col md:col-span-2 justify-center items-center">

@@ -12,9 +12,15 @@
     <div class="flex flex-col w-full md:col-span-2">
       {{ $image := .Resources.GetMatch .Params.banner_image -}}
       {{ if $image -}}
+        
         <div class="w-full relative">
           <a href="{{ .Params.website }}" target="_blank">
-            <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid w-full aspect-[4/1] object-cover">
+            {{ partial "picture" (dict
+            "ctx" .
+            "src" $image
+            "alt" .Title
+            "class" "img-fluid blur-up w-full aspect-[4/1] object-cover"
+            )}}
           </a>
           {{ partial "event/flags.html" . }}
         </div>
@@ -31,7 +37,12 @@
           {{ $logo := .Resources.GetMatch .Params.featured_image -}}
           {{ if $logo -}}
             <a class="flex border-y-4 my-2" href="{{ .Params.website }}" target="_blank">
-              <img src="{{ $logo.RelPermalink }}" alt="" class="w-1/2 aspect-video object-contain lazyload blur-up my-2">
+              {{ partial "picture" (dict
+              "ctx" .
+              "src" $logo
+              "alt" .Title
+              "class" "img-fluid blur-up aspect-video object-contain my-2"
+              )}}
             </a>
           {{ end }}
         </div>

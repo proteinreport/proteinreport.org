@@ -11,11 +11,24 @@
   <div class="grid grid-cols-1 gap-6 mx-auto max-w-7xl md:grid-cols-3 2xl:border-x-4">
     <div class="flex flex-col w-full md:col-span-2">
       {{ $image := .Resources.GetMatch .Params.featured_image -}}
+      {{ $image_placeholder := "assets/images/newswire_placeholder" }}
         <div class="w-full relative">
           {{ if $image -}}
-            <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video object-cover w-full">
+            {{ partial "picture" (dict
+            "ctx" .
+            "src" $image
+            "alt" .Title
+            "class" "img-fluid blur-up aspect-video object-cover w-full"
+            )}}
+            
           {{ else }}
-            <img src="/images/newswire_placeholder.png" alt="" class="lazyload blur-up img-fluid aspect-video object-cover w-full">
+            {{ partial "picture" (dict
+            "ctx" .
+            "src" $image_placeholder
+            "alt" .Title
+            "class" "img-fluid blur-up aspect-video object-cover w-full"
+            )}}
+            
           {{ end -}}
           {{ partial "newswire/flags.html" . }}
         </div>

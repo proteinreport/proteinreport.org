@@ -5,9 +5,12 @@
     <div class="flex flex-col items-center w-full break-words px-2 md:px-12 lg:px-24">
       {{ $image := .Resources.GetMatch .Params.featured_image -}}
       {{ if $image -}}
-        <div class="">
-          <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid max-h-80 max-w-80 object-cover">
-        </div>
+        {{ partial "picture" (dict
+          "ctx" .
+          "src" $image
+          "alt" .Title
+          "class" "img-fluid blur-up max-h-80 max-w-80 object-cover"
+        )}}
       {{ end -}}
       <div class="w-full prose prose-xl pt-8">
         {{ .Content }}

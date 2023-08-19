@@ -10,7 +10,6 @@
             "src" $image
             "alt" .Title
             "class" "img-fluid blur-up aspect-video w-full object-contain"
-            "widths" (slice 40 70 150 224 480 640)
             )}}
         {{ else }}
             {{ partial "picture" (dict
@@ -18,7 +17,6 @@
             "src" $image_placeholder
             "alt" .Title
             "class" "img-fluid blur-up aspect-video w-full rotate-12 object-contain"
-            
             )}}
         {{ end -}}
     </div>

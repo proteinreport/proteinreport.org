@@ -1,15 +1,24 @@
 {{ define "main" }}
+{{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+{{ $image_placeholder := "assets/images/article_placeholder.png" }}
 <article>
   {{ partial "main/page-title.html" . }}
   <div class="grid grid-cols-1 gap-6 mx-auto mt-6 max-w-7xl md:grid-cols-3 md:divide-x-2 2xl:border-x-4">
     <div class="relative w-full flex justify-center items-center">
-      {{ $image := .Resources.GetMatch .Params.featured_image -}}
       {{ if $image -}}
-      <img src="{{ $image.RelPermalink }}" alt=""
-        class="lazyload blur-up img-fluid max-w-[50%] aspect-square object-cover">
+        {{ partial "picture" (dict
+        "ctx" .
+        "src" $image
+        "alt" .Title
+        "class" "img-fluid blur-up max-w-[50%] aspect-square object-cover"
+        )}}
       {{ else }}
-      <img src="/images/article_placeholder.png" alt=""
-        class="rotate-12 lazyload blur-up img-fluid max-w-[50%] aspect-square object-contain">
+        {{ partial "picture" (dict
+        "ctx" .
+        "src" $image_placeholder
+        "alt" .Title
+        "class" "img-fluid blur-up max-w-[50%] rotate-12 aspect-square object-contain"
+        )}}
       {{ end -}}
       {{ if in .Params.resource_type "academic" }}
       <p class="border-2 border-l-0 p-2 absolute top-4 left-0">Academic Article</p>

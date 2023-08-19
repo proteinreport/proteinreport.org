@@ -3,12 +3,17 @@
   {{ partial "main/page-title.html" . }}
   <div class="grid grid-cols-1 gap-6 mx-auto max-w-7xl 2xl:border-x-4">
     <div class="flex flex-col w-full">
-      {{ $image := .Resources.GetMatch .Params.featured_image -}} {{ if $image
-      -}}
+      {{ $image := .Resources.GetMatch .Params.featured_image -}}
+      {{ if $image }}
       <div class="w-full relative">
-        <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid w-full" />
+        {{ partial "picture" (dict
+          "ctx" .
+          "src" $image
+          "alt" .Title
+          "class" "img-fluid blur-up w-full"
+        )}}
       </div>
-      {{ end -}}
+      {{ end }}
     </div>
   </div>
   <div class="grid grid-cols-1 gap-6 mt-6 mx-auto px-2 max-w-7xl md:px-6 md:grid-cols-3 2xl:border-x-4">
