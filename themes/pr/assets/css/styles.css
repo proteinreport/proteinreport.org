@@ -32,6 +32,8 @@
   * Valid layers are base, components, and utilities.
   */
 
+@import 'glightbox.css';
+
 @layer base {
   body {
     margin: 0;

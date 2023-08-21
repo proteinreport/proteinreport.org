@@ -50,3 +50,7 @@
 [[mounts]]
   source = "node_modules/daisyui/dist"
   target = "assets"
+
+[[mounts]]
+  source = "node_modules/glightbox/dist"
+  target = "assets"

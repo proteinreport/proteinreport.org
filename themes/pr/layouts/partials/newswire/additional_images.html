@@ -1,12 +1,17 @@
-{{ $i := "" }}
-{{ with .Params.additional_images }}
+{{ $image := "" }}
+{{ $image_small := "" }}
+
+{{ if .Params.additional_images }}
     <div class="grid grid-cols-2 gap-2 mt-2">
-    {{ range index . }}
-        {{ $i = $.Resources.Get .src }}
-        {{ $i_small := $i.Resize "300x webp"}}
-        {{ if $i }}
-            <img src="{{ $i_small.RelPermalink }}" class="w-full aspect-video object-cover">
+    {{ range $index, $val := $.Params.additional_images }}
+        {{ $image = $.Resources.Get .src }}
+        {{ $image_small = $image.Resize "300x webp"}}
+        {{ if $image }}
+            <a href="{{ $image.RelPermalink }}" class="glightbox" data-glightbox="description: .image-caption-{{ $index }};">
+                <img src="{{ $image_small.RelPermalink }}" class="w-full aspect-video object-cover">
+            </a>
         {{ end }}
+        <span class="glightbox-desc image-caption-{{ $index }}">{{ .caption | safeHTML }}</span>
     {{ end }}
     </div>
 {{ end }}
