@@ -5,11 +5,16 @@
 
         <div class="w-1/3">
           {{ if $image }}
-          <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain p-1" />
+            {{ partial "picture" (dict
+              "ctx" .
+              "src" $image
+              "alt" .Title
+              "class" "img-fluid blur-up aspect-square w-full object-contain p-1"
+            )}}
           {{ end }}
         </div>
 
-        <div class="flex w-2/3 flex-col justify-between">
+        <div class="flex w-2/3 flex-col justify-center">
           <div class="border-s border-gray-900/10 p-4 sm:border-l-transparent">
             <a href="{{ .RelPermalink }}">
               <h3 class="font-bold uppercase text-gray-900">

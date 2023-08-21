@@ -5,7 +5,12 @@
 
         <div class="w-1/3">
           {{ if $image }}
-          <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-cover" />
+            {{ partial "picture" (dict
+              "ctx" .
+              "src" $image
+              "alt" .Title
+              "class" "img-fluid blur-up aspect-square w-full object-cover"
+            )}}
           {{ end }}
         </div>
 
