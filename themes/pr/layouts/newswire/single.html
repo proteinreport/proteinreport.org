@@ -47,10 +47,12 @@
           <h3 class="text-lg font-bold">Categories:</h3>
           {{ partial "newswire/categories.html" . }}
         </div>
+        {{ if .Params.additional_images }}
         <div>
           <h3 class="text-lg font-bold">Additional images:</h3>
           {{ partial "newswire/additional_images.html" . }}
         </div>
+        {{ end }}
       </aside>
       <aside class="w-full mt-12 px-2 md:pl-0 md:h-fit md:sticky md:top-0">
         <h3 class="text-3xl my-2 border-b-2">Latest Press Releases</h3>
