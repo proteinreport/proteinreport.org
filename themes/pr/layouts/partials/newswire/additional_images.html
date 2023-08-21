@@ -5,7 +5,7 @@
         {{ $i = $.Resources.Get .src }}
         {{ $i_small := $i.Resize "300x webp"}}
         {{ if $i }}
-            <img src="{{ $i_small.RelPermalink }}" class="w-full aspect-video object-cover" width="{{ .Width }}" height="{{ .Height }}" alt="">
+            <img src="{{ $i_small.RelPermalink }}" class="w-full aspect-video object-cover">
         {{ end }}
     {{ end }}
     </div>
