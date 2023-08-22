@@ -1,10 +1,31 @@
 {{ define "main" }}
-
+{{ partial "main/page-title.html" . }}
 <section id="newswire-list" class="w-full">
   <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
-    <div class="w-full py-12">
-      <h2 class="text-7xl">Newswire</h2>
-      <p>Press releases from companies and organizations</p>
+    <div class="w-full grid grid-cols-1 gap-8 py-12 md:grid-cols-2">
+      <div class="bg-white shadow-lg p-4 prose prose-xl leading-normal">
+        <p>Protein Report Newswire is the free press release distribution platform for companies and organizations addressing protein industry challenges and developing novel solutions.</p>
+        
+        <p>To meet our eligibility criteria, press releases must:</p>
+
+        <ul>
+          <li>Describe scientific, industry, commercial, or policy information first released within the past 90 days</li>
+          <li>Offer non-promotional news value - releases that are primarily promotional may not be accepted</li>
+          <li>Be written in a native level of English</li>
+        </ul>
+               
+      </div>
+      <div class="bg-white shadow-lg p-4 prose prose-xl leading-normal my-auto">
+        <button class="text-2xl btn-yellow mx-auto">Submit Press Release</button>
+
+        <p>
+          Protein Report may accept or deny submissions at its sole discretion. See the <a href="/newswire-terms">Newswire terms</a> for more details.
+        </p>
+
+        <p>
+          Have questions? Send an email to hello@proteinreport.org to learn more.
+        </p>
+      </div>
     </div>
 
     <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 md:grid-cols-2">
