@@ -3,11 +3,7 @@ title: "Credits"
 date: 2020-10-26 13:34:29
 lastmod: 2020-10-26 13:34:29
 url: /credits
-featured_image: ""
-featured_image_caption: ""
 draft: false
-pinned: false
-homepage: false
 uuid: 
 ---
 
