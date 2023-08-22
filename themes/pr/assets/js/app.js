@@ -34,9 +34,11 @@ var prevScrollpos = window.scrollY;
 window.onscroll = function() {
   var currentScrollPos = window.scrollY;
   if (currentScrollPos > 200) {
-    if (prevScrollpos > currentScrollPos && prevScrollpos - currentScrollPos > 5) {
+    // && prevScrollpos - currentScrollPos > 5
+    if (prevScrollpos > currentScrollPos) {
       document.getElementById("navbar").style.top = "0";
-    } else if (currentScrollPos - prevScrollpos > 5) {
+    // else if (currentScrollPos - prevScrollpos > 5)
+    } else {
       document.getElementById("navbar").style.top = "-200px";
     }
   } else {
