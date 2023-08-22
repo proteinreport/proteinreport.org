@@ -1,10 +1,16 @@
 {{ define "main" }}
-
+{{ partial "main/page-title.html" . }}
 <section id="events" class="w-full">
   <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-    <div class="w-full py-12">
-      <h2 class="text-7xl">Directory</h2>
-      <p>Companies and organizations</p>
+    <div class="w-full grid grid-cols-1 gap-8 py-12 auto-rows-fr md:grid-cols-2">
+      <div class="flex flex-col justify-center border bg-white shadow-lg p-4 prose prose-xl leading-normal">
+
+        <p class="text-2xl">The protein industry directory of companies and organizations</p>
+
+      </div>
+      <div class="flex flex-col items-center justify-center border bg-white shadow-lg p-4 prose prose-xl leading-normal">
+        <button class="text-2xl btn-yellow mx-auto">Add Company</button>
+      </div>
     </div>
 
     <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 sm:grid-cols-2 md:grid-cols-3">
