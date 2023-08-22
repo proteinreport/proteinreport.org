@@ -33,10 +33,14 @@ import '@hyas/core/assets/js/core.js';
 var prevScrollpos = window.scrollY;
 window.onscroll = function() {
   var currentScrollPos = window.scrollY;
-  if (prevScrollpos > currentScrollPos) {
-    document.getElementById("navbar").style.top = "0";
+  if (currentScrollPos > 200) {
+    if (prevScrollpos > currentScrollPos && prevScrollpos - currentScrollPos > 5) {
+      document.getElementById("navbar").style.top = "0";
+    } else if (currentScrollPos - prevScrollpos > 5) {
+      document.getElementById("navbar").style.top = "-200px";
+    }
   } else {
-    document.getElementById("navbar").style.top = "-200px";
+    document.getElementById("navbar").style.top = "0";
   }
   prevScrollpos = currentScrollPos;
 }
