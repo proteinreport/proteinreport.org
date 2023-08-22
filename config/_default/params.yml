@@ -64,13 +64,3 @@ seo:
 inline_svg:
   icon_set_dir: "tabler-icons" # tabler-icons (default)
 
-# flexsearch
-outputFormats:
-  SearchIndex:
-    mediaType: "application/json"
-    baseName: "searchindex"
-    isPlainText: true
-    notAlternative: true
-
-outputs:
-  home: ["HTML","RSS", "JSON", "SearchIndex"]
