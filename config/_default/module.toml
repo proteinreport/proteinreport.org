@@ -54,3 +54,7 @@
 [[mounts]]
   source = "node_modules/glightbox/dist"
   target = "assets"
+
+[[mounts]]
+  source = "node_modules/flexsearch/dist"
+  target = "assets"

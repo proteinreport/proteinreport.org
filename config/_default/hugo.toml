@@ -18,8 +18,15 @@ copyRight = "Copyright (c) 2023 Hyas"
 [social]
   twitter = "gethyas"
 
+[outputFormats.SearchIndex]
+mediaType = "application/json"
+baseName = "searchindex"
+isPlainText = true
+notAlternative = true
+
 [outputs]
-  home = ["HTML"]
+home = [ "HTML", "RSS", "JSON", "SearchIndex" ]
+section = [ "HTML", "RSS", "JSON" ]
 
 [sitemap]
   changefreq = "monthly"
