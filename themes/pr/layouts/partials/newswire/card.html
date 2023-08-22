@@ -36,8 +36,10 @@
 
         <time datetime="{{ .PublishDate.Format " 2006-01-02" }}"
             class="hidden sm:flex items-center p-4 text-xs font-bold uppercase text-gray-900 sm:p-6">
-            <span>{{ .PublishDate.Format "Jan 2, 2006" }}</span>
+            <span>{{ .PublishDate.Format "Jan 2, 2006" }} <span class="lowercase text-gray-600">by</span> {{ partial "newswire/company-text.html" . }}</span>
         </time>
+
+        
 
         <div class="hidden sm:flex sm:items-end sm:justify-end">
             <a href="{{ .RelPermalink }}"
