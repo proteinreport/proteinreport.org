@@ -12,7 +12,7 @@
         <div class="grid grid-cols-1">
 
             <div class="rounded-lg bg-white p-12 shadow-lg">
-                <form action="/contact-success" method="POST" class="space-y-4" name="contact" netlify>
+                <form action="/contact-success" method="POST" class="space-y-4" name="contact" netlify netlify-honeypot="bot-field">
                     <div>
                         <label class="sr-only" for="name">Name</label>
                         <input class="w-full rounded-lg border-gray-200 p-3 text-sm" placeholder="Name" type="text"
@@ -46,6 +46,13 @@
                             Send Message
                         </button>
                     </div>
+
+                    <div class="hidden">
+                        <label>
+                          Don’t fill this out if you’re human: <input name="bot-field" />
+                        </label>
+                    </div>
+
                 </form>
             </div>
         </div>
