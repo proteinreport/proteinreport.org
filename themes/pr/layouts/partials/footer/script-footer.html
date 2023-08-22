@@ -17,8 +17,8 @@
     {{ partial "footer/esbuild" (dict "src" "js/gallery.js" "load" "async" "transpile" false) -}}
 {{ end }}
 
-{{/* Only load script for a page type pages */}}
-{{ if eq .Type "pages" }}
+{{/* Only load script for search page */}}
+{{ with .Site.GetPage "/search" }}
     {{ partial "footer/esbuild" (dict "src" "js/search.js" "load" "async" "transpile" false) -}}
 {{ end }}
 
