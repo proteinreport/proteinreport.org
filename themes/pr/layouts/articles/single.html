@@ -33,11 +33,26 @@
         {{ partial "article/contributors.html" . }}
         {{ partial "article/categories.html" . }}
       </aside>
+      <aside class="hidden w-full mt-12 px-2 md:block md:pl-0 md:h-fit md:sticky md:top-0">
+        <h3 class="text-3xl my-2 border-b-2">Featured Articles</h3>
+        {{ partial "article/latest.html" . }}
+      </aside>
+    </div>
+
+    <div class="flex flex-col w-full md:col-span-2">
+      <aside class="w-full px-2 md:pl-6 md:pr-0">
+        <h3 class="text-3xl my-2 border-b-2">In this Article</h3>
+        {{ partial "article/directory.html" . }}
+      </aside>
+    </div>
+
+    <div class="flex flex-col w-full gap-6 md:col-span-1 md:hidden">
       <aside class="w-full mt-12 px-2 md:pl-0 md:h-fit md:sticky md:top-0">
         <h3 class="text-3xl my-2 border-b-2">Featured Articles</h3>
         {{ partial "article/latest.html" . }}
       </aside>
     </div>
+
   </div>
 </article>
 {{ end }}
