@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+<!--
+  Heads up! 👋
+
+  Plugins:
+    - @tailwindcss/forms
+-->
+{{ partial "main/page-title.html" . }}
+<!--
+  Heads up! 👋
+
+  Plugins:
+    - @tailwindcss/forms
+-->
+
+<section class="bg-gray-100">
+    <div class="mx-auto max-w-screen-xl px-2 py-16 sm:px-6 md:px-36 lg:px-56">
+      <div class="grid grid-cols-1">
+        <div class="rounded-lg bg-white p-12 shadow-lg">
+          <p class="max-w-xl text-2xl font-bold text-pink-600">
+            Thanks for getting in touch!
+          </p>
+          <p class="max-w-xl text-xl">
+            Your message has been sent and we'll reply as soon as possible.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+{{ end }}
