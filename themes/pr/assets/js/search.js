@@ -17,8 +17,8 @@ import FlexSearch from 'flexsearch';
   const index = new FlexSearch.Document({
     document: {
       id: 'id',
-      index: ['title', 'tags', 'content', 'date'],
-      store: ['title', 'summary', 'date', 'permalink']
+      index: ['title', 'tags', 'content', 'date', 'type', 'proteins', 'products', 'topics', 'regions'],
+      store: ['title', 'summary', 'date', 'permalink', 'type', 'proteins', 'products', 'topics', 'regions']
     },
     tokenize: 'forward'
   });
@@ -36,10 +36,12 @@ import FlexSearch from 'flexsearch';
       const a = result.querySelector('a');
       const time = result.querySelector('time');
       const content = result.querySelector('.content');
+      const content_type = result.querySelector('.content-type');
       a.innerHTML = item.title;
       a.href = item.permalink;
       time.innerText = item.date;
       content.innerHTML = item.summary;
+      content_type.innerHTML = item.type;
       fragment.appendChild(result);
     }
     results.appendChild(fragment);
