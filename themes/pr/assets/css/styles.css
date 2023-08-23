@@ -34,6 +34,8 @@
 
 @import 'glightbox.css';
 
+@import './pace.css';
+
 @layer base {
   body {
     margin: 0;
