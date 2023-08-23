@@ -17,10 +17,11 @@
     {{ partial "footer/esbuild" (dict "src" "js/gallery.js" "load" "async" "transpile" false) -}}
 {{ end }}
 
-{{/* Only load script for search page */}}
-{{ with .Site.GetPage "/search" }}
+
+
+{{ if .HasShortcode "search" -}}
     {{ partial "footer/esbuild" (dict "src" "js/search.js" "load" "async" "transpile" false) -}}
-{{ end }}
+{{ end -}}
 
 <script nonce="dXNlcj0iaGVsbG8iLGRvbWFpbj0iaGVua3ZlcmxpbmRlLmNvbSIsZG9jdW1lbnQud3JpdGUodXNlcisiQCIrZG9tYWluKTs=">
   // Burger menus
