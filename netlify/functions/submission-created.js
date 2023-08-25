@@ -8,14 +8,11 @@ async function handler(event: any) {
   if (!event.body) {
     return;
   }
-  const { email, name } = JSON.parse(event.body).payload;
+  const { email } = JSON.parse(event.body).payload;
   const url = `${BASE_URL}/subscribers`;
 
   const data = {
     email: email,
-    fields: {
-      name: name,
-    },
     groups: [`${GROUP_ID}`],
   };
 
