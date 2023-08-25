@@ -1,10 +1,13 @@
 const axios = require("axios");
 
+require('dotenv').config()
+const fetch = require('node-fetch')
+
 const API_KEY = process.env.MAILERLITE_PRODUCTION_API_KEY;
 const BASE_URL = process.env.MAILERLITE_PRODUCTION_BASE_API_URL;
 const GROUP_ID = process.env.MAILERLITE_PRODUCTION_NEWSLETTER_GROUP_ID;
 
-async function handler(event: any) {
+exports.handler = async event => {
   if (!event.body) {
     return;
   }
@@ -42,5 +45,3 @@ async function handler(event: any) {
     };
   }
 }
-
-export { handler };
