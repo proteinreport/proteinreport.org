@@ -1,4 +1,7 @@
-const axios = require('axios');
+const mailjet = require('node-mailjet').connect(
+  process.env.MJ_APIKEY_PUBLIC,
+  process.env.MJ_APIKEY_PRIVATE
+);
 
 exports.handler = async function(event, context) {
   try {
@@ -18,30 +21,19 @@ exports.handler = async function(event, context) {
       };
     }
 
-    const MAILJET_API_KEY = process.env.MJ_API_KEY;
-    const MAILJET_SECRET_KEY = process.env.MJ_SECRET_KEY;
-    const MAILJET_LIST_ID = process.env.MJ_LIST_ID;
+    const request = mailjet
+      .post('contact', { version: 'v3' })
+      .request({
+        IsExcludedFromCampaigns: 'true',
+        Name: 'New Contact',
+        Email: email
+      });
 
-    const response = await axios.post(
-      `https://api.mailjet.com/v3/REST/contactslist/${MAILJET_LIST_ID}/managecontact`,
-      {
-        Email: email,
-        Action: 'addnoforce'
-      },
-      {
-        auth: {
-          username: MAILJET_API_KEY,
-          password: MAILJET_SECRET_KEY
-        },
-        headers: {
-          'Content-Type': 'application/json'
-        }
-      }
-    );
+    const result = await request;
 
     return {
-      statusCode: response.status,
-      body: JSON.stringify({ message: 'Subscriber added successfully' })
+      statusCode: result.response.statusCode,
+      body: JSON.stringify(result.body)
     };
   } catch (error) {
     console.error('Error:', error);
