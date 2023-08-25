@@ -1,33 +1,46 @@
-// // optionally configure local env vars
-// require('dotenv').config()
-
-// // details in https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget
-const process = require('process')
-
-const fetch = require('node-fetch')
+const axios = require("axios");
 
 const API_KEY = process.env.MAILERLITE_PRODUCTION_API_KEY;
 const BASE_URL = process.env.MAILERLITE_PRODUCTION_BASE_API_URL;
 const GROUP_ID = process.env.MAILERLITE_PRODUCTION_NEWSLETTER_GROUP_ID;
 
-const { EMAIL_TOKEN } = process.env
-const handler = async (event) => {
-  const { email } = JSON.parse(event.body).payload
-  console.log(`Received a submission: ${email}`)
+async function handler(event: any) {
+  if (!event.body) {
+    return;
+  }
+  const { email, name } = JSON.parse(event.body).payload;
+  const url = `${BASE_URL}/subscribers`;
+
+  const data = {
+    email: email,
+    fields: {
+      name: name,
+    },
+    groups: [`${GROUP_ID}`],
+  };
+
+  const options = {
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${API_KEY}`,
+    },
+  };
+
   try {
-    const response = await fetch('${BASE_URL}/subscribers', {
-      method: 'POST',
-      headers: {
-        Authorization: `Bearer ${API_KEY}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ email }),
-    })
-    const data = await response.json()
-    console.log(`Submitted to Buttondown:\n ${data}`)
-  } catch (error) {
-    return { statusCode: 422, body: String(error) }
+    await axios.post(url, data, options);
+    return {
+      statusCode: 201,
+      body: JSON.stringify({
+        message: "Subscriber successfully created and added to group",
+      }),
+    };
+  } catch (error: any) {
+    console.log(error);
+    return {
+      statusCode: 500,
+      body: JSON.stringify(error),
+    };
   }
 }
 
-module.exports = { handler }
+export { handler };
