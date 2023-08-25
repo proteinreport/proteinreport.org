@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Oregon City"
+location: [45.331349, -122.593784]
 founded: 1978
 founders: "Phil Lisac, Norma Lisac"
 featured_image: "Lisanatti logo.png"

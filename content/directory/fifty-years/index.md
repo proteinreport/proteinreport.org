@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.774929, -122.419415]
 founded: 
 founders: "Seth Bannon"
 featured_image: "50Y_mark+copy.png"

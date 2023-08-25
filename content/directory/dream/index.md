@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "New Hyde Park"
+location: [40.75493, -73.700731]
 founded: 
 founders: ""
 featured_image: "Dream logo-retina.png"

@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Berkeley"
+location: [37.852455, -122.293654]
 founded: 2015
 founders: "Uma Valeti, Nicholas Genovese, Will Clem"
 featured_image: "static1.squarespace.png"

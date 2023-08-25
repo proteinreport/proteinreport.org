@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Elmhurst"
+location: [41.899362, -87.943667]
 founded: 
 founders: ""
 featured_image: "greenleaf-foods.png"

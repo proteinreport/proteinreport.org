@@ -9,8 +9,9 @@ products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "New Castle"
+location: [39.657245, -75.608044]
 founded: 2012
 founders: "Bryan Tracy"
 featured_image: "Dairy-free-cheeses-featuring-novel-fermented-microbial-protein-to-launch-by-year-end-says-Superbrewed-Food_wrbm_large.jpg"

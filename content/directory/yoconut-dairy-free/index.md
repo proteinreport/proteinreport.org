@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.805294, -122.431906]
 founded: 2016
 founders: "Bonnie Lau"
 featured_image: "Yoconut_Logo_Final_transparent_LORES.png"

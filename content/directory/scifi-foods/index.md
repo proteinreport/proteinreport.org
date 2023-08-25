@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Leandro"
+location: [37.725766, -122.156855]
 founded: 2019
 founders: "Jessica Krieger, Joshua Marsh"
 featured_image: "svgviewer-png-output.png"

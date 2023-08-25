@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Santa Ana"
+location: [33.758563, -117.923656]
 founded: 
 founders: ""
 featured_image: "8th-continent-soymilk-logo_0.png"

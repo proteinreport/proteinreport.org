@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Buckfastleigh"
+location: [50.481799, -3.779342]
 founded: 1984
 founders: ""
 featured_image: "Dragonfly foods logo.png"

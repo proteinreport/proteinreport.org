@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Durham"
+location: [35.994033, -78.898619]
 founded: 2020
 founders: "Michelle Egger, Leila Strickland"
 featured_image: "biomilq.png"

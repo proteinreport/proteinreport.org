@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "Australia"
-country_code: AU
+country_code: "AU"
 city: "Brisbane City"
+location: [-27.469771, 153.025124]
 founded: 2020
 founders: "Ben Leita, James Petrie"
 featured_image: "logo.png"

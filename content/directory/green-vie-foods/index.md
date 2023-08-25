@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Cyprus"
-country_code: CY
+country_code: "CY"
 city: "Limassol"
+location: [34.692427, 33.079222]
 founded: 
 founders: ""
 featured_image: "Green Vie logo.png"

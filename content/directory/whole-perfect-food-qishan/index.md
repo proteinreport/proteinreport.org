@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "China"
-country_code: CN
+country_code: "CN"
 city: "Shenzhen Shi"
+location: [22.716955, 113.80447]
 founded: 1993
 founders: ""
 featured_image: "Whole Perfect Foods logo.jpg"

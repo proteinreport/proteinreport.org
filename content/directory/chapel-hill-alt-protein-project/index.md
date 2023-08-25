@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Chapel Hill"
+location: [35.9132, -79.055845]
 founded: 2020
 founders: ""
 featured_image: "chapp.png"

@@ -9,8 +9,9 @@ products: [Eggs]
 business: [Production]
 finance_type: []
 country: "Austria"
-country_code: AT
+country_code: "AT"
 city: "Wien"
+location: [48.208174, 16.373819]
 founded: 
 founders: ""
 featured_image: "My ey logo.jpg"

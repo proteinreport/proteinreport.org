@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Rishpon"
+location: [32.201856, 34.824723]
 founded: 2013
 founders: ""
 featured_image: "InnovoPro-logo.png"

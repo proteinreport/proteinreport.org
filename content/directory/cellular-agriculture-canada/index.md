@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Waterloo"
+location: [43.464258, -80.52041]
 founded: 2019
 founders: "Yadira Tejeda-Saldana, Ahmed Khan"
 featured_image: "cac.jpg"

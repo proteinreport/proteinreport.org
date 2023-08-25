@@ -9,8 +9,9 @@ products: [Meat]
 business: []
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Leipzig"
+location: [51.339695, 12.373075]
 founded: 2019
 founders: "Steffen Sonnenberg, Dat Tran, Joe Natoli, Bernd Boeck"
 featured_image: "alife2.jpg"

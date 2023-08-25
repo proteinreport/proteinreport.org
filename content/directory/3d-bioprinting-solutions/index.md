@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "Russia"
-country_code: RU
+country_code: "RU"
 city: "Moskva"
+location: [55.643153, 37.675437]
 founded: 2013
 founders: "Alexander Ostrovsky, Yusef Hesuani"
 featured_image: "logo.png"

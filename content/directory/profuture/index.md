@@ -9,8 +9,9 @@ products: [Ingredients, Feed]
 business: [Research, Nonprofit]
 finance_type: []
 country: "Spain"
-country_code: ES
+country_code: "ES"
 city: "Caldes de Montbui"
+location: [41.61304, 2.169869]
 founded: 2019
 founders: "EU Horizon"
 featured_image: "profuture.jpg"

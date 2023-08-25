@@ -9,8 +9,9 @@ products: [Pet Food]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Havant"
+location: [50.864835, -0.966336]
 founded: 1980
 founders: ""
 featured_image: "V-dog logo.png"

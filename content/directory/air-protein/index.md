@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Pleasanton"
+location: [37.672744, -121.866134]
 founded: 2019
 founders: "Lisa Dyson"
 featured_image: "airprotein.jpg"

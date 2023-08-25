@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Louisville"
+location: [39.961948, -105.124166]
 founded: 2014
 founders: "Jeremy Day, Alexandra Carone"
 featured_image: "The honest stand logo.png"

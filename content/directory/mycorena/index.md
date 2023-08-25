@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Sweden"
-country_code: SE
+country_code: "SE"
 city: "Göteborg"
+location: [57.690816, 11.971926]
 founded: 2017
 founders: "Ramkumar Nair"
 featured_image: "HeImZ2s6_400x400.jpg"

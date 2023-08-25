@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boulder"
+location: [40.023792, -105.219254]
 founded: 1996
 founders: "Loren Wallis"
 featured_image: "Good Karma Foods logo.png"

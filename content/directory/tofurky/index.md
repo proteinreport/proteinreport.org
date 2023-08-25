@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Hood River"
+location: [45.710773, -121.516694]
 founded: 1980
 founders: "Seth Tibbot"
 featured_image: "tofurky-logo-e1516381934369.jpeg"

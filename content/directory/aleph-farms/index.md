@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Rehovot"
+location: [31.912016, 34.807084]
 founded: 2017
 founders: "Strauss Group, Technion – Israel Institute of Technology"
 featured_image: "mark-1.png"

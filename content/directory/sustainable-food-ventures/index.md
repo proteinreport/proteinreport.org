@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Durham"
+location: [35.899168, -78.86364]
 founded: 2020
 founders: "Mariliis Holm, Ryan Bethencourt"
 featured_image: "Sustainable.png"

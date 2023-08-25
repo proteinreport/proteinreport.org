@@ -9,8 +9,9 @@ products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
 country: "Estonia"
-country_code: EE
+country_code: "EE"
 city: "Kesklinna"
+location: [59.436961, 24.753575]
 founded: 2016
 founders: "Mari-Ann Meigo Fonseca, Märt-Erik Martens"
 featured_image: "2578462_original.jpg"

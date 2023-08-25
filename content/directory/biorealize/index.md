@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Philadelphia"
+location: [39.941499, -75.199481]
 founded: 2015
 founders: "Orkan Telhan, Michael Hogan, Karen Hogan"
 featured_image: "biorealize_logo.png"

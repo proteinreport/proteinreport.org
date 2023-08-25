@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Netivot"
+location: [31.415701, 34.59402]
 founded: 2019
 founders: ""
 featured_image: "Hinoman logo.jpg"

@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Amsterdam"
+location: [52.367573, 4.904139]
 founded: 2023
 founders: "Adnan Oner"
 featured_image: "Farmless-Logomark-Green1.png"

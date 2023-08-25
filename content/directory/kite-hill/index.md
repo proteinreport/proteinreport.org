@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Hayward"
+location: [37.624942, -122.109573]
 founded: 2013
 founders: "Monte Casino, Tal Ronnen"
 featured_image: "kitehill logo.png"

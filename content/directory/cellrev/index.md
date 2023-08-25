@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Newcastle upon Tyne"
+location: [54.967613, -1.61976]
 founded: 2019
 founders: "Leo Groenewegen, Martina Niotto, Che Cannon"
 featured_image: "1653034072700.jpg"

@@ -9,8 +9,9 @@ products: []
 business: [Research, Nonprofit]
 finance_type: []
 country: "China"
-country_code: CN
+country_code: "CN"
 city: ""
+location: [31.230416, 121.473701]
 founded: 2019
 founders: ""
 featured_image: "gfic.png"

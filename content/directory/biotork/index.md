@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Gainesville"
+location: [29.64599, -82.296932]
 founded: 2008
 founders: ""
 featured_image: "bio tork logo.png"

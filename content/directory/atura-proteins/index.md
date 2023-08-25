@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Highbridge"
+location: [51.207771, -2.934868]
 founded: 2019
 founders: ""
 featured_image: "RGB Atura Logo INDIGO.jpg"

@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Rohnert Park"
+location: [38.339637, -122.701098]
 founded: 2015
 founders: "Billie Thein"
 featured_image: "nbo.jpg"

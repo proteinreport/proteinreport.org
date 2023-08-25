@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "France"
-country_code: FR
+country_code: "FR"
 city: "Paris"
+location: [48.856614, 2.352222]
 founded: 2019
 founders: "Tristan Maurel"
 featured_image: "1598452154913.jpg"

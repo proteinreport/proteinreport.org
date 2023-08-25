@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "New York"
+location: [40.712775, -74.005973]
 founded: 2017
 founders: "Chad Sarno, Derek Sarno"
 featured_image: "logo_0.png"

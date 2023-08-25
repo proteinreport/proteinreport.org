@@ -9,8 +9,9 @@ products: [Dairy, Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Oakland"
+location: [37.818582, -122.263705]
 founded: 2016
 founders: "Chaeyoung Shin, Kulika Chomvong"
 featured_image: "sugarlogix7.png"

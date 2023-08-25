@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Ashdod"
+location: [31.804381, 34.655314]
 founded: 2017
 founders: "Barak Melamed"
 featured_image: "Rilbite logo_0.png"

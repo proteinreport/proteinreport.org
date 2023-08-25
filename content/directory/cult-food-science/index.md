@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Vancouver"
+location: [49.285328, -123.115719]
 founded: 2021
 founders: "Dorian Banks"
 featured_image: "cult.png"

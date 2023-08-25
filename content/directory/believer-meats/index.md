@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Rehovot"
+location: [31.894166, 34.788404]
 founded: 2018
 founders: "Yaakov Nahmias"
 featured_image: "Believer_Meats_Logo.jpg"

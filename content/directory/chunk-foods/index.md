@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Tel Aviv-Yafo"
+location: [32.0853, 34.781768]
 founded: 2020
 founders: "Amos Golan"
 featured_image: "1615989588763.jpg"

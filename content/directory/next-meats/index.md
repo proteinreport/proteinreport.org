@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Japan"
-country_code: JP
+country_code: "JP"
 city: "Chiyoda City"
+location: [35.6804, 139.769017]
 founded: 2020
 founders: "Hideyuki Sasaki"
 featured_image: "zmnwhypkb2y6jtg2r1rx.jpg"

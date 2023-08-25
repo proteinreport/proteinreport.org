@@ -9,8 +9,9 @@ products: []
 business: [Research, Nonprofit]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Medford"
+location: [42.405984, -71.116978]
 founded: 2021
 founders: "David Kaplan"
 featured_image: "640px-Tufts_University_wordmark.svg.png"

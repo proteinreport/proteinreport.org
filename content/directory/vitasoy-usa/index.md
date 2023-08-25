@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Ayer"
+location: [42.562707, -71.533731]
 founded: 
 founders: ""
 featured_image: "vitasoy logo.png"

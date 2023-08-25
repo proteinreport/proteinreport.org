@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Glasgow"
+location: [55.86238, -4.255516]
 founded: 2015
 founders: "Craig Johnson, David Ritchie, Jim Laird"
 featured_image: "1619696571057-1.jpg"

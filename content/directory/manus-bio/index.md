@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Cambridge"
+location: [42.369454, -71.112283]
 founded: 2011
 founders: "Gregory Stephanopoulos, Ajikumar Parayil"
 featured_image: "Manus Bio logo.png"

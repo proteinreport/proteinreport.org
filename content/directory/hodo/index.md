@@ -9,8 +9,9 @@ products: [Meat, Eggs]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Oakland"
+location: [37.821569, -122.281952]
 founded: 2006
 founders: "John Notz, Minh Tsai"
 featured_image: "HodoFoods-Logo-Filled-1218x728.png"

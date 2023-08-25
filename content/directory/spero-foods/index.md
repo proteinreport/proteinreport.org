@@ -9,8 +9,9 @@ products: [Dairy, Eggs]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Mountain View"
+location: [37.387474, -122.057543]
 founded: 
 founders: ""
 featured_image: "spero.jpg"

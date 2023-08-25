@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Cambridge"
+location: [42.373616, -71.109733]
 founded: 2020
 founders: ""
 featured_image: "cellagmit.jpg"

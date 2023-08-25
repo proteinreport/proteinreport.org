@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.513378, -0.155606]
 founded: 2022
 founders: "Jeremy Coller"
 featured_image: "APA.jpg"

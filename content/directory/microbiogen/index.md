@@ -9,8 +9,9 @@ products: [Feed]
 business: [Production]
 finance_type: []
 country: "Australia"
-country_code: AU
+country_code: "AU"
 city: "Lane Cove West"
+location: [-33.812326, 151.147207]
 founded: 
 founders: ""
 featured_image: "MBG logo.jpeg"

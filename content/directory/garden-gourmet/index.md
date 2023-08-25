@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Jerusalem"
+location: [31.784402, 35.20437]
 founded: 1986
 founders: ""
 featured_image: "Garden Gourmet - logo.png"

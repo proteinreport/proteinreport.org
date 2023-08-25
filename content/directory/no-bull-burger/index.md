@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Charlottesville"
+location: [38.038217, -78.457563]
 founded: 
 founders: "Crissanne Raymond, Heather Raymond, Elizabeth Raymond"
 featured_image: "No Bull burger logo.png"

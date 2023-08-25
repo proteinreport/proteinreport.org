@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Greece"
-country_code: GR
+country_code: "GR"
 city: "Thessaloniki"
+location: [40.640063, 22.944419]
 founded: 
 founders: ""
 featured_image: "violife.jpg"

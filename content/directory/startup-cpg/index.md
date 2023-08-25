@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Accelerator]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.774929, -122.419415]
 founded: 2019
 founders: "Daniel Scharff"
 featured_image: "startupcpg.jpg"

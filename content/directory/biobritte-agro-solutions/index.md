@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "India"
-country_code: IN
+country_code: "IN"
 city: "Jainapur"
+location: [16.801115, 74.511172]
 founded: 2018
 founders: "Parimal Ramesh Udgave"
 featured_image: "biobritte logo.png"

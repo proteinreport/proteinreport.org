@@ -9,8 +9,9 @@ products: [Meat, Dairy, Seafood]
 business: [Nonprofit]
 finance_type: []
 country: "Belgium"
-country_code: BE
+country_code: "BE"
 city: "Etterbeek"
+location: [50.838892, 4.39871]
 founded: 2021
 founders: ""
 featured_image: "FF6c_EoX0AIoZwY.jpg"

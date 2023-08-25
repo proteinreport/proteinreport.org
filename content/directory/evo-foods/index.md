@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "India"
-country_code: IN
+country_code: "IN"
 city: "Mumbai"
+location: [19.075984, 72.877656]
 founded: 2019
 founders: "Kartik Dixit, Shraddha Bhansali"
 featured_image: "evo.png"

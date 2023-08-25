@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Fairfield"
+location: [41.007611, -91.963691]
 founded: 2015
 founders: ""
 featured_image: "cado icecream.jpg"

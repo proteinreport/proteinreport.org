@@ -9,8 +9,9 @@ products: [Pet Food]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Hofbieber"
+location: [50.58161, 9.80465]
 founded: 
 founders: ""
 featured_image: "futterservice-fulda.png"

@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Atlanta"
+location: [33.738749, -84.368457]
 founded: 2012
 founders: "Jared Olkin"
 featured_image: "Revolution gelato logo.png"

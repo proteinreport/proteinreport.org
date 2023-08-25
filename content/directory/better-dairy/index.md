@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.461872, -0.139592]
 founded: 2020
 founders: "Jevan Nagarajah, Christopher Reynolds"
 featured_image: "BetterDairy-Logo-Petrol-AW.png"

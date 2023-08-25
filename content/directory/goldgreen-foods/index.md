@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Finland"
-country_code: FI
+country_code: "FI"
 city: "Helsinki"
+location: [60.212874, 24.979295]
 founded: 2015
 founders: "Maija Itkonen, Zhong-qing Jiang, Reetta Kivelä"
 featured_image: "Gold & Green of Helsinki logo.png"

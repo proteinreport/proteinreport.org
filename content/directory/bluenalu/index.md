@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Diego"
+location: [32.894283, -117.188643]
 founded: 2017
 founders: "Lou Cooperhouse, Chris Somogyi, Chris Dammann"
 featured_image: "BlueNalu_Logo_Long_Transparent_FNL_Long+Logo (1).png"

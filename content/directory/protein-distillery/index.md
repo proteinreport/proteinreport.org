@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Ostfildern"
+location: [48.72654, 9.26784]
 founded: 2020
 founders: "Michael Baunach, Tomas Kurz, Marco Ries, Christoph Pitter"
 featured_image: "Protein_Distillery_Logo_CMYK.png"

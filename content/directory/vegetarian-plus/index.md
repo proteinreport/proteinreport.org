@@ -9,8 +9,9 @@ products: [Meat, Seafood]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Monrovia"
+location: [34.136257, -118.001237]
 founded: 1998
 founders: ""
 featured_image: "Vegetarian Plus logo.png"

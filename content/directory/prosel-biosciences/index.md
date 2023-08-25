@@ -9,8 +9,9 @@ products: [Meat, Dairy, Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Santa Fe"
+location: [35.634779, -106.04496]
 founded: 2021
 founders: "Zach H., Richard Sayre"
 featured_image: "newlogo-1.png"

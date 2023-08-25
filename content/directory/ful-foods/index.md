@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Amsterdam"
+location: [52.366697, 4.89454]
 founded: 2020
 founders: "Julia Streuli, Sara Guaglio, Cristina Prat"
 featured_image: "Ful foods logo.png"

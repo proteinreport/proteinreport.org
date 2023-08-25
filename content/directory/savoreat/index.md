@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Ness Ziona"
+location: [31.932111, 34.801327]
 founded: 2018
 founders: "Racheli Vizman, Oded Shoseyov, Ido Braslevsky"
 featured_image: "savoreat_10953b2e-5907-11e9-8c15-4b9aac9eb338.png"

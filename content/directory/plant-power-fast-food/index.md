@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Diego"
+location: [32.715738, -117.161084]
 founded: 2016
 founders: ""
 featured_image: "Plant Power Fast Food logo.png"

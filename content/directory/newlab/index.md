@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: ""
+location: [40.698859, -73.974727]
 founded: 2016
 founders: ""
 featured_image: "newlab.jpg"

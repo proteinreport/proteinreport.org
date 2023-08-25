@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Richmond"
+location: [44.380586, -72.939591]
 founded: 2017
 founders: "Veronique Beittel"
 featured_image: "Green Slice food logo.jpg"

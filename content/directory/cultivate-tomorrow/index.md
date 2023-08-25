@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boston"
+location: [42.360082, -71.05888]
 founded: 2021
 founders: "Jasmin Kern"
 featured_image: "ctlogo.jpg"

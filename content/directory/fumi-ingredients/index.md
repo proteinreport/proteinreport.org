@@ -9,8 +9,9 @@ products: [Eggs]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Wageningen"
+location: [51.969187, 5.665395]
 founded: 2019
 founders: "Edgar Suarez Garcia, Corjan Van den Berg"
 featured_image: "Fumi ingredients logo.png"

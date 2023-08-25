@@ -9,8 +9,9 @@ products: [Meat, Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Houston"
+location: [29.663558, -95.569408]
 founded: 1978
 founders: ""
 featured_image: "Banyan_Logo_400x400.jpg"

@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Australia"
-country_code: AU
+country_code: "AU"
 city: "Melbourne"
+location: [-37.813628, 144.963058]
 founded: 2020
 founders: "Paul Bevan"
 featured_image: "download_1.jpg"

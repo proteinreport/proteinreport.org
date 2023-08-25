@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.507351, -0.127758]
 founded: 
 founders: ""
 featured_image: "JBR_Logo_Black_RGB_100mm-sml.jpg"

@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boston"
+location: [42.342087, -71.07561]
 founded: 
 founders: ""
 featured_image: "fomu logo.png"

@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Chicago"
+location: [41.878114, -87.629798]
 founded: 2021
 founders: "Theo Mourad, Aaron Brodkey"
 featured_image: "Blue Logo, Off-White Background.png"

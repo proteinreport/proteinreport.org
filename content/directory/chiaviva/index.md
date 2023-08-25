@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boulder"
+location: [40.014986, -105.270546]
 founded: 2015
 founders: "Jody Polishchuk, Neal Luecking"
 featured_image: "chia viva logo.png"

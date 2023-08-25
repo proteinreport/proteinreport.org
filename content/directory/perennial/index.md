@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Los Angeles"
+location: [34.050169, -118.459529]
 founded: 2016
 founders: "Sarah Bonham"
 featured_image: "Perennial logo.png"

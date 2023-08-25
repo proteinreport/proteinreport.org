@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "Japan"
-country_code: JP
+country_code: "JP"
 city: "Suginami City"
+location: [35.676192, 139.650311]
 founded: 2020
 founders: ""
 featured_image: "cell.png"

@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "India"
-country_code: IN
+country_code: "IN"
 city: "Bengaluru"
+location: [12.971599, 77.594563]
 founded: 2013
 founders: "Ezhil Subbian"
 featured_image: "String Bio logo.png"

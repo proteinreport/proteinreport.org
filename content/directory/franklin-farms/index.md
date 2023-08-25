@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Franklin"
+location: [41.609313, -72.146079]
 founded: 1994
 founders: ""
 featured_image: "Franklin-Farms-Logo-Final.png"

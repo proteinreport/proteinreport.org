@@ -9,8 +9,9 @@ products: [Meat, Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Minneapolis"
+location: [44.990299, -93.253704]
 founded: 2014
 founders: "Aubry Walch, Kale Walch"
 featured_image: "herbivorous-butcher-logo.png"

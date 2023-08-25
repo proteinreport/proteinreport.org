@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Tel Aviv-Yafo"
+location: [32.054034, 34.756698]
 founded: 2019
 founders: "Aviv Wolff, Ori Cohavi"
 featured_image: "remilk.png"

@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Kingston"
+location: [41.927093, -74.006909]
 founded: 
 founders: ""
 featured_image: "treeline-cheese-logo-2019-582x300.png"

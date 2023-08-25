@@ -9,8 +9,9 @@ products: [Meat, Pet Food, Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Minnetonka"
+location: [44.921184, -93.468749]
 founded: 2020
 founders: "Huan Xia, Chenfeng Lu"
 featured_image: "fwf.png"

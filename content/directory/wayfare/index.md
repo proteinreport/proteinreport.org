@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Bozeman"
+location: [45.673803, -111.066198]
 founded: 2009
 founders: ""
 featured_image: "WayFare logo.png"

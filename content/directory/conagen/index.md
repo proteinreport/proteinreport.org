@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Bedford"
+location: [42.485381, -71.273193]
 founded: 2010
 founders: ""
 featured_image: "Conagen.png"

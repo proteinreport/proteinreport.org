@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Sarasota"
+location: [27.384206, -82.533042]
 founded: 
 founders: ""
 featured_image: "Osprey Biotechnics logo.jpg"

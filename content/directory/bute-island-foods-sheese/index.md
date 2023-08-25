@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Isle of Bute"
+location: [55.827076, -5.056301]
 founded: 
 founders: ""
 featured_image: "bute island foods logo.png"

@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "India"
-country_code: IN
+country_code: "IN"
 city: "Mumbai"
+location: [19.075984, 72.877656]
 founded: 2018
 founders: "Kevin Parekh, Ashish Korde"
 featured_image: "Proeon Logo Square.JPG"

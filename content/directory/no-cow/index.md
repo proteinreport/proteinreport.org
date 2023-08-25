@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Denver"
+location: [39.749842, -104.999619]
 founded: 2015
 founders: "Daniel Katz"
 featured_image: "No Cow Logos_Web-02_170x@2x.png"

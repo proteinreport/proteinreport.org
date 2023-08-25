@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Amsterdam"
+location: [52.356138, 4.958302]
 founded: 2012
 founders: ""
 featured_image: "Photanol logo.jpg"

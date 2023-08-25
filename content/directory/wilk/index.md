@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Rehovot"
+location: [31.892773, 34.811272]
 founded: 2018
 founders: "Arik Kaufman, Yaron Kaiser"
 featured_image: "Logo white_0.jpg"

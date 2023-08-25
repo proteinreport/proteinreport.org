@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "Australia"
-country_code: AU
+country_code: "AU"
 city: "Surry Hills"
+location: [-33.883409, 151.212519]
 founded: 2012
 founders: "Bill Bartee, Larry Marshall, Niki Scevak, Richard Baker"
 featured_image: "blackbird.png"

@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Ochten"
+location: [51.917037, 5.567903]
 founded: 2009
 founders: ""
 featured_image: "Plenti_logo.png"

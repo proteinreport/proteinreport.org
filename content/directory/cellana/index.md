@@ -9,8 +9,9 @@ products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Kailua-Kona"
+location: [19.714527, -156.03483]
 founded: 
 founders: ""
 featured_image: "cellana.png"

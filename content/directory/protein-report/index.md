@@ -9,8 +9,9 @@ products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]
 business: [Research]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Dover"
+location: [39.158168, -75.524368]
 founded: 2018
 founders: ""
 featured_image: "logo-stacked-inverted.png"

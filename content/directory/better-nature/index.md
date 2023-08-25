@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.507351, -0.127758]
 founded: 2018
 founders: "Christopher Kong, Amadeus Driando Ahnan, Fabio Rinaldo, Elin Roberts"
 featured_image: "bn.jpg"

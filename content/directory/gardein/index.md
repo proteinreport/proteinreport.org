@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Richmond"
+location: [49.198348, -123.082154]
 founded: 2003
 founders: ""
 featured_image: "Gardein-Logo.jpg"

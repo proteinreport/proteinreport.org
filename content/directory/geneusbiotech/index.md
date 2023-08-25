@@ -9,8 +9,9 @@ products: [Seafood, Materials]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Amsterdam"
+location: [52.367573, 4.904139]
 founded: 1997
 founders: "Henri Kunz"
 featured_image: "geneus.png"

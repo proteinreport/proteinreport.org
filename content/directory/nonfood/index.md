@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Commerce"
+location: [34.000569, -118.159793]
 founded: 2016
 founders: "Sean Raspet, Dennis Oliver Schroer"
 featured_image: "nonfood.png"

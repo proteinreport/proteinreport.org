@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Vero Beach"
+location: [27.638643, -80.397274]
 founded: 2017
 founders: ""
 featured_image: "ccc.png"

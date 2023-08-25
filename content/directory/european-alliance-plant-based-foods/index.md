@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "Belgium"
-country_code: BE
+country_code: "BE"
 city: "Bruxelles"
+location: [50.842077, 4.371907]
 founded: 2020
 founders: ""
 featured_image: "a4-papier-2.png"

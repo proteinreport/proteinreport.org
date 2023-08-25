@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: ""
+location: [35.707655, -82.573354]
 founded: 2014
 founders: "Sadrah Schadel, Mike Woliansky"
 featured_image: "NEF_Logo.jpg"

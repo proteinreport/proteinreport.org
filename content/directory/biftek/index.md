@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Turkey"
-country_code: TR
+country_code: "TR"
 city: ""
+location: [39.907428, 32.859512]
 founded: 2018
 founders: "Can Akcali"
 featured_image: "biftek logo.png"

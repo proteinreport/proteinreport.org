@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Austin"
+location: [30.267153, -97.743061]
 founded: 2018
 founders: "Katie Kam, Janet Zoldan"
 featured_image: "Logo_BQ_out_JPG_0.jpg"

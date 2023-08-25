@@ -9,8 +9,9 @@ products: [Eggs]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Carle Place"
+location: [40.746049, -73.600705]
 founded: 2012
 founders: "Rocky Shepheard"
 featured_image: "Vegg logo.jpg"

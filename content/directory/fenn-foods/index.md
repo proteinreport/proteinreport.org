@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Australia"
-country_code: AU
+country_code: "AU"
 city: "Maxwelton"
+location: [-20.917574, 142.702796]
 founded: 2015
 founders: "Alejandro Cancino, Paola Moro"
 featured_image: "fenn-logo.png"

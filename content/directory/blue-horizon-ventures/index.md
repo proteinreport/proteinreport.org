@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "Switzerland"
-country_code: CH
+country_code: "CH"
 city: "Zürich"
+location: [47.368555, 8.532782]
 founded: 2018
 founders: "Roger Lienhard, Michael Kleindl"
 featured_image: "bhv_logo-blue.png"

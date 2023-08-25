@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Hayward"
+location: [37.672518, -122.084169]
 founded: 
 founders: ""
 featured_image: "three trees logo.png"

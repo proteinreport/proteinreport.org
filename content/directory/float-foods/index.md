@@ -9,8 +9,9 @@ products: [Eggs, Ingredients]
 business: [Production]
 finance_type: []
 country: "Singapore"
-country_code: SG
+country_code: "SG"
 city: "Singapore"
+location: [1.352083, 103.819836]
 founded: 2020
 founders: "Vinita Choolani"
 featured_image: "1592203205718.jpg"

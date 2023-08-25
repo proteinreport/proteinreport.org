@@ -9,8 +9,9 @@ products: [Pet Food, Ingredients, Feed]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Menlo Park"
+location: [37.474252, -122.147976]
 founded: 2011
 founders: "David McElroy, Josh Silverman"
 featured_image: "calysta.jpg"

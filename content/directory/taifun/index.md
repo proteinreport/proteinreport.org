@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Freiburg im Breisgau"
+location: [48.03973, 7.81386]
 founded: 1987
 founders: ""
 featured_image: "Taifun tofu logo.png"

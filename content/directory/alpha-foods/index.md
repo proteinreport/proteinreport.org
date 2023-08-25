@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Glendale"
+location: [34.180871, -118.27829]
 founded: 2015
 founders: "Loren Wallis, Cole Orobetz"
 featured_image: "Alpha foods logo.jpg"

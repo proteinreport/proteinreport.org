@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "New Zealand"
-country_code: NZ
+country_code: "NZ"
 city: "Auckland"
+location: [-36.999681, 174.78952]
 founded: 2015
 founders: "Shama Sukul Lee"
 featured_image: "sunfed-logo-e1510805056521.jpg"

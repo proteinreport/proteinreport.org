@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "South Africa"
-country_code: ZA
+country_code: "ZA"
 city: "Durban"
+location: [-29.85868, 31.02184]
 founded: 1991
 founders: "Debbie Fry, Wally Fry"
 featured_image: "Fry's logo.png"

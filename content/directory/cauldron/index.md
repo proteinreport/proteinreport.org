@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "St Albans"
+location: [51.752725, -0.339436]
 founded: 1979
 founders: ""
 featured_image: "Cauldron Foods - logo.png"

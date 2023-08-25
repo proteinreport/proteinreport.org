@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "Switzerland"
-country_code: CH
+country_code: "CH"
 city: "Genf"
+location: [46.204391, 6.143158]
 founded: 2017
 founders: "Claire Smith"
 featured_image: "beyond investing.png"

@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Aylesbury"
+location: [51.815606, -0.8084]
 founded: 2017
 founders: ""
 featured_image: "love seitan logo.jpg"

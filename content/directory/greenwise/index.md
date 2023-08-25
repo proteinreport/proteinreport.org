@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Russia"
-country_code: RU
+country_code: "RU"
 city: "Maloyaroslavets"
+location: [55.002847, 36.474756]
 founded: 
 founders: ""
 featured_image: "Greenwise logo2.png"

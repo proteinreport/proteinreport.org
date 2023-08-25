@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Palo Alto"
+location: [37.420021, -122.140093]
 founded: 2017
 founders: "Aleh Manchuliantsau, Anastasia Tkacheva"
 featured_image: "LogoPlanetHealthy.png"

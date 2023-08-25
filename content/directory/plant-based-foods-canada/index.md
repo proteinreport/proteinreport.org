@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Mississauga"
+location: [43.589045, -79.64412]
 founded: 2018
 founders: ""
 featured_image: "pbfc.jpg"

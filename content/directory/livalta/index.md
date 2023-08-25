@@ -9,8 +9,9 @@ products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Peterborough"
+location: [52.569498, -0.24053]
 founded: 2020
 founders: ""
 featured_image: "livalta-blue-green-tagline.png"

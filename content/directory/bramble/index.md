@@ -9,8 +9,9 @@ products: [Pet Food]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "New York"
+location: [40.718336, -74.001953]
 founded: 2020
 founders: "Amanda Rolat"
 featured_image: "bramble-logo-compressor.png"

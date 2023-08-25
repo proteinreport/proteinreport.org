@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Australia"
-country_code: AU
+country_code: "AU"
 city: "Croydon South"
+location: [-37.814, 145.271]
 founded: 
 founders: ""
 featured_image: "Unreal co logo.png"

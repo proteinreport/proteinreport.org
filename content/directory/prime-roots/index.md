@@ -9,8 +9,9 @@ products: [Meat, Seafood]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Berkeley"
+location: [37.871523, -122.273042]
 founded: 2017
 founders: "Joshua Nixon, Kimberlie Le"
 featured_image: "Prime Roots logo.png"

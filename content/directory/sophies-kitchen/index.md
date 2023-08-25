@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Sebastopol"
+location: [38.407282, -122.840222]
 founded: 2010
 founders: "Eugene Wang"
 featured_image: "Sophie's Kitchen.png"

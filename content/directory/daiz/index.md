@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Japan"
-country_code: JP
+country_code: "JP"
 city: "Kumamoto"
+location: [32.787375, 130.710624]
 founded: 
 founders: ""
 featured_image: "daiz.png"

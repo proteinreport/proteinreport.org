@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.774929, -122.419415]
 founded: 2016
 founders: "Aryé Elfenbein, Justin Kolbeck"
 featured_image: "logo.jpg"

@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Spain"
-country_code: ES
+country_code: "ES"
 city: "Granollers"
+location: [41.606193, 2.287089]
 founded: 2018
 founders: "Andres Montefeltro"
 featured_image: "cubiq-logo.jpg"

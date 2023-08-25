@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Giessen"
+location: [51.791636, 5.034314]
 founded: 
 founders: ""
 featured_image: "Schouten logo.png"

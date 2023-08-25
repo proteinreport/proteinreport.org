@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Berkeley"
+location: [37.861502, -122.299595]
 founded: 2019
 founders: "Jasmin Hume"
 featured_image: "Shiru_0.jpg"

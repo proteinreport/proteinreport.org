@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Berlin"
+location: [52.483488, 13.355163]
 founded: 2014
 founders: "Jan Saam"
 featured_image: "ospin-logo-500.png"

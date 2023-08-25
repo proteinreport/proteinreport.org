@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Toronto"
+location: [43.653226, -79.383184]
 founded: 2009
 founders: ""
 featured_image: "zoglo's logo.jpg"

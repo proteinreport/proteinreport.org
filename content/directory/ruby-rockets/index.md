@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "New York"
+location: [40.706826, -74.01303]
 founded: 2013
 founders: "Wendy Makkena"
 featured_image: "ruby-rockets-logo_337x.png"

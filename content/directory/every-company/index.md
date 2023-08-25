@@ -9,8 +9,9 @@ products: [Eggs, Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "South San Francisco"
+location: [37.666434, -122.397874]
 founded: 2014
 founders: "Arturo Elizondo, David Anchel"
 featured_image: "EVERY_LOGO_BLACK_0.png"

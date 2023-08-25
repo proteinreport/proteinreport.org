@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "New Zealand"
-country_code: NZ
+country_code: "NZ"
 city: "Auckland"
+location: [-36.867651, 174.778153]
 founded: 2022
 founders: "Olivia Ogilvie, Laura Domigan, Vaughan Feisst"
 featured_image: "Opo-Bio-Logo-Full.png"

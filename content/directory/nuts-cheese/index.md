@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "London"
+location: [42.984923, -81.245277]
 founded: 
 founders: "Margaret Coons"
 featured_image: "NUTS-FOR-CHEESE-LOGO-TM-1024x863.png"

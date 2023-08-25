@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.78451, -122.406709]
 founded: 2013
 founders: "Michael Dean, Rob Leclerc"
 featured_image: "AgFunder-Resized.jpg"

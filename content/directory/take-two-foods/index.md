@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Portland"
+location: [45.505106, -122.675026]
 founded: 2020
 founders: "Sarah Pool, Matt Olsofsky"
 featured_image: "taketwologo_0.png"

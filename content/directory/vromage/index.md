@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Los Angeles"
+location: [34.097593, -118.364141]
 founded: 2009
 founders: "Youssef Fahouri"
 featured_image: "Vromage logo.png"

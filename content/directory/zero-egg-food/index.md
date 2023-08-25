@@ -9,8 +9,9 @@ products: [Eggs]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Ashdod"
+location: [31.804381, 34.655314]
 founded: 2018
 founders: "Liron Nimrodi"
 featured_image: "zero-egg-logo.jpg"

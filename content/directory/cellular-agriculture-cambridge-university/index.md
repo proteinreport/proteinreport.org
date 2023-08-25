@@ -9,8 +9,9 @@ products: [Meat]
 business: [Nonprofit]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Cambridge"
+location: [52.204147, 0.122309]
 founded: 2019
 founders: "Will Saunter, Sil Bonestroo, Robert Ryan"
 featured_image: "cropped-logo.png"

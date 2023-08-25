@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Redwood City"
+location: [37.503309, -122.219386]
 founded: 2011
 founders: "Pat Brown"
 featured_image: "Impossible_Foods_logo.svg_.png"

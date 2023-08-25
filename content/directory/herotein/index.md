@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "China"
-country_code: CN
+country_code: "CN"
 city: ""
+location: [31.230416, 121.473701]
 founded: 2020
 founders: "Julian Ting, Edward Weng"
 featured_image: "HEROTEIN_Logo_Square_White-bg (1).png"

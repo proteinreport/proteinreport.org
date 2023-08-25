@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Brazil"
-country_code: BR
+country_code: "BR"
 city: ""
+location: [-21.272468, -44.976117]
 founded: 
 founders: ""
 featured_image: "vida veg. logo.png"

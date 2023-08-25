@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "India"
-country_code: IN
+country_code: "IN"
 city: "Malegaon"
+location: [19.878683, 73.978879]
 founded: 
 founders: ""
 featured_image: "nate's logo.jpg"

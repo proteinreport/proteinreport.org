@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "München"
+location: [48.135125, 11.581981]
 founded: 2019
 founders: "Robin Drummond, Julian Hallet"
 featured_image: "happyoceanlogo.jpg"

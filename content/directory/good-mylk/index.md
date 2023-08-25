@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "India"
-country_code: IN
+country_code: "IN"
 city: "Bengaluru"
+location: [13.011357, 77.659426]
 founded: 
 founders: ""
 featured_image: "Good mylk logo.png"

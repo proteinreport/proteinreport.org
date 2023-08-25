@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Winterswijk Brinkheurne"
+location: [51.945029, 6.752024]
 founded: 2015
 founders: "Nico Oosterhuis"
 featured_image: "celltrainer-logo.png"

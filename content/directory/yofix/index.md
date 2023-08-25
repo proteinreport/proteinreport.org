@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Ashdod"
+location: [31.804381, 34.655314]
 founded: 2015
 founders: "Ronen Lavee"
 featured_image: "Yofix logo.jpg"

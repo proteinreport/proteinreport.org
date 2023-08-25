@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Singapore"
-country_code: SG
+country_code: "SG"
 city: "Singapore"
+location: [1.290659, 103.845653]
 founded: 2019
 founders: "Jack Yap"
 featured_image: "Phuture-Logo-06.png"

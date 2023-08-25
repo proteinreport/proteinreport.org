@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "China"
-country_code: CN
+country_code: "CN"
 city: ""
+location: [31.230416, 121.473701]
 founded: 2020
 founders: "Astrid Prajogo"
 featured_image: "Screen Shot 2021-04-08 at 1.16.23 PM.png"

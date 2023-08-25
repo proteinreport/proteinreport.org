@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.774929, -122.419415]
 founded: 2019
 founders: "Ricky Cassini, Mauricio Braia"
 featured_image: "CMYK_Degrade_1.png"

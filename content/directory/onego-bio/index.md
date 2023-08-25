@@ -9,8 +9,9 @@ products: [Eggs, Ingredients]
 business: [Production]
 finance_type: []
 country: "Finland"
-country_code: FI
+country_code: "FI"
 city: "Espoo"
+location: [60.180106, 24.823396]
 founded: 2022
 founders: "Maija Itkonen, Christopher Landowski, Jussi Joensuu"
 featured_image: "Logo+small.jpg"

@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "India"
-country_code: IN
+country_code: "IN"
 city: "Mumbai"
+location: [19.075984, 72.877656]
 founded: 2021
 founders: "Varun Gadodia, Shantanu Dhangar"
 featured_image: "seaspireimg.png"

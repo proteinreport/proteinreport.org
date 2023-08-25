@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Spain"
-country_code: ES
+country_code: "ES"
 city: "Bakio"
+location: [43.419189, -2.811601]
 founded: 2018
 founders: "Juan Pablo de Giacomi, Pablo Sanchez Rey"
 featured_image: "1531680176088.jpg"

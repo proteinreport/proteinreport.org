@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Ooltewah"
+location: [35.071215, -85.081709]
 founded: 
 founders: ""
 featured_image: "Worthington-logo-big.jpg"

@@ -9,8 +9,9 @@ products: [Pet Food, Ingredients, Feed]
 business: [Production]
 finance_type: []
 country: "Finland"
-country_code: FI
+country_code: "FI"
 city: "Espoo"
+location: [60.186958, 24.829649]
 founded: 2019
 founders: "Simo Ellilä, Anssi Rantasalo"
 featured_image: "OzF4nOLS_400x400.jpg"

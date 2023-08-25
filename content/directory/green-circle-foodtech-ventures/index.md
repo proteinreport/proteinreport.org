@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "New York"
+location: [40.707748, -74.00556]
 founded: 2020
 founders: "Stu Strumwasser"
 featured_image: "GreenCircle PNG CapitalLogo.png"

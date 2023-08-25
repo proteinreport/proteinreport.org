@@ -9,8 +9,9 @@ products: [Meat, Seafood]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Toronto"
+location: [43.653226, -79.383184]
 founded: 2018
 founders: "Josh Pollack, Valentin Fulga"
 featured_image: "CAT Cell Ag Tech logo.jpg"

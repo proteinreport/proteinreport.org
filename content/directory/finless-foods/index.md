@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Emeryville"
+location: [37.845822, -122.29088]
 founded: 
 founders: ""
 featured_image: "Finless_Foods.png"

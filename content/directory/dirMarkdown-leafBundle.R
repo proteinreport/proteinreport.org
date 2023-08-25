@@ -60,6 +60,7 @@ for (row in 1:nrow(import_data)) {
   write(paste("country: ",shQuote(import_data[row,]$country), sep = ""), file_path, append = T)
   write(paste("country_code: ",shQuote(import_data[row,]$country_code), sep = ""), file_path, append = T)
   write(paste("city: ",shQuote(import_data[row,]$city), sep = ""), file_path, append = T)
+  write(paste("location: [",import_data[row,]$geolocation, "]", sep = ""), file_path, append = T)
   write(paste("founded: ",import_data[row,]$founded, sep = ""), file_path, append = T)
   write(paste("founders: ",shQuote(import_data[row,]$founders), sep = ""), file_path, append = T)
   # write(paste("flags: [",import_data[row,]$flags, "]", sep = ""), file_path, append = T)

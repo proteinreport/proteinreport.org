@@ -9,8 +9,9 @@ products: [Ingredients, Cell Culture Media]
 business: [Production]
 finance_type: []
 country: "Iceland"
-country_code: IS
+country_code: "IS"
 city: "Kópavogur"
+location: [64.095321, -21.81029]
 founded: 2001
 founders: "Björn Lárus Örvar, Ph.D."
 featured_image: "ORF Genetics.png"

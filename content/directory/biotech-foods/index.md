@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Spain"
-country_code: ES
+country_code: "ES"
 city: "San Sebastián"
+location: [43.29564, -1.98007]
 founded: 2017
 founders: "Mercedes Vila Juárez, Iñigo Charola"
 featured_image: "BioTechFoods_logo_XXS.png"

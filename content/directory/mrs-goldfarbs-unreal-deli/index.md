@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Los Angeles"
+location: [34.052234, -118.243685]
 founded: 2019
 founders: "Jenny Goldfarb"
 featured_image: "Mrs Goldfarb's Unreal Deli logo.jpg"

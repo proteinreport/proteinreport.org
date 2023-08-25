@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Davis"
+location: [38.544907, -121.740517]
 founded: 2013
 founders: "Shayne Guiliano"
 featured_image: "1613660763067.jpg"

@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Madison"
+location: [43.073052, -89.40123]
 founded: 2020
 founders: "John Pattison, Ian Johnson"
 featured_image: "_DDfmz_V_400x400.jpg"

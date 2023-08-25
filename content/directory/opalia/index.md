@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Montréal"
+location: [45.529981, -73.565107]
 founded: 2020
 founders: "Jennifer Côté, Lucas House"
 featured_image: "S-Ri_vt7_400x400.jpg"

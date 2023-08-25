@@ -9,8 +9,9 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 business: [Research]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Potsdam"
+location: [52.412898, 12.969908]
 founded: 2016
 founders: "Arnoud Groen, Artyom Pugachev, Vadim Demichev"
 featured_image: "pq.jpg"

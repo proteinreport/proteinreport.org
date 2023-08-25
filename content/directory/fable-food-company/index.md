@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Australia"
-country_code: AU
+country_code: "AU"
 city: "Warana"
+location: [-26.717724, 153.13379]
 founded: 2019
 founders: "Michael Fox, Jim Fuller, Chris McLoghlin"
 featured_image: "fable.png"

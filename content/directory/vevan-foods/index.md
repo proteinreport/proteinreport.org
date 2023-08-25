@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Montfort"
+location: [42.971658, -90.433181]
 founded: 2020
 founders: "Schuman Cheese"
 featured_image: "vevan-logo.png"

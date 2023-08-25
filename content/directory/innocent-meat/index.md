@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Rostock"
+location: [54.069573, 12.118068]
 founded: 2018
 founders: "Patrick Nonnenmacher, Laura Gertenbach, Philipp Wolters"
 featured_image: "innocent meat Logo_head.png"

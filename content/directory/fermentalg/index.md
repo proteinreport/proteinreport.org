@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "France"
-country_code: FR
+country_code: "FR"
 city: "Libourne"
+location: [44.925755, -0.241452]
 founded: 2014
 founders: ""
 featured_image: "Fermentalg.png"

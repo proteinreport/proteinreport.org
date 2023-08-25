@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "France"
-country_code: FR
+country_code: "FR"
 city: "Évry"
+location: [48.619599, 2.453313]
 founded: 2013
 founders: "Alvyn Severien, Gaëtan Gohin"
 featured_image: "algama.png"

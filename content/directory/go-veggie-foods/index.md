@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "North Kingstown"
+location: [41.585118, -71.427846]
 founded: 1980
 founders: ""
 featured_image: "Go Veggie logo.jpg"

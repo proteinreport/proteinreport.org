@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boulder"
+location: [40.014986, -105.270546]
 founded: 2019
 founders: ""
 featured_image: "0.png"

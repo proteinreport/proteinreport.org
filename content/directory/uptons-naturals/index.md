@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Chicago"
+location: [41.890979, -87.679076]
 founded: 2006
 founders: "Daniel Staackmann"
 featured_image: "Upton's naturals logo.jpg"

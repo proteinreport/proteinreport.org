@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Berlin"
+location: [52.520007, 13.404954]
 founded: 2019
 founders: "Jacek Prus"
 featured_image: "kuleana black.png"

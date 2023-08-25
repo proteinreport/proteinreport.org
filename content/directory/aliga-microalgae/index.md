@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Denmark"
-country_code: DK
+country_code: "DK"
 city: "Hjørring"
+location: [57.442124, 10.002521]
 founded: 2016
 founders: "David Erlandsson"
 featured_image: "Aliga_logo_mail_NY_4.jpg"

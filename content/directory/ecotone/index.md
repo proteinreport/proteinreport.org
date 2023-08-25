@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Amsterdam"
+location: [52.308896, 4.947026]
 founded: 1765
 founders: ""
 featured_image: "ecotone.png"

@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.507351, -0.127758]
 founded: 2020
 founders: "Max Jamilly, Ed Steele"
 featured_image: "hoxton-farms-logo.png"

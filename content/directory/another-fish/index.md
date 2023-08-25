@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Montréal"
+location: [45.501689, -73.567256]
 founded: 2021
 founders: ""
 featured_image: "Screen Shot 2021-08-02 at 4.17.49 PM.png"

@@ -9,8 +9,9 @@ products: [Cell Culture Media]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.507351, -0.127758]
 founded: 2019
 founders: "Jedidiah Cheung, Evan Whooley, Kevin Pan, Réka Trón"
 featured_image: "Logo_DL.png"

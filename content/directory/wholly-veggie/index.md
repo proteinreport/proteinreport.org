@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Toronto"
+location: [43.643262, -79.399857]
 founded: 2016
 founders: "David Orr Gaucher"
 featured_image: "wv.jpg"

@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Alexandria"
+location: [45.31531, -74.639762]
 founded: 2013
 founders: "Lynda Turner"
 featured_image: "Fauxmagerie Zengarry cheese logo.png"

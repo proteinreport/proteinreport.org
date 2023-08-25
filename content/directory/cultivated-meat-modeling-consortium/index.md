@@ -9,8 +9,9 @@ products: [Meat]
 business: [Research, Nonprofit]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Seattle"
+location: [47.606209, -122.332071]
 founded: 2019
 founders: ""
 featured_image: "cmmc.png"

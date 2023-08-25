@@ -9,8 +9,9 @@ products: [Meat, Eggs]
 business: [Production]
 finance_type: []
 country: "Sweden"
-country_code: SE
+country_code: "SE"
 city: "Stockholm"
+location: [59.329605, 18.06885]
 founded: 2014
 founders: ""
 featured_image: "VegMe logo.png"

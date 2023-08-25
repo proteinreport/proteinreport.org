@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Vancouver"
+location: [49.259948, -123.03354]
 founded: 2008
 founders: "Greg Blake, Andre Kroecher"
 featured_image: "nav-logo.png"

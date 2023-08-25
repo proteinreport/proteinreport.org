@@ -9,8 +9,9 @@ products: [Meat, Eggs]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.764788, -122.415849]
 founded: 2011
 founders: "Josh Tetrick, Josh Balk"
 featured_image: "368px-JUST_logo.svg_.png"

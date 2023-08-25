@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Halifax"
+location: [44.645967, -63.57361]
 founded: 2018
 founders: "Marc St-Onge"
 featured_image: "Smallfood_Inc__Smallfood_Is_Unearthing_The_Potential_Of_Microbes.jpg"

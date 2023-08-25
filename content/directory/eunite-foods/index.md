@@ -9,8 +9,9 @@ products: [Eggs]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Peterborough"
+location: [44.358676, -78.284907]
 founded: 2019
 founders: "Nobelgen"
 featured_image: "eunite.png"

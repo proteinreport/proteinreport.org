@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "Austria"
-country_code: AT
+country_code: "AT"
 city: "Wien"
+location: [48.208174, 16.373819]
 founded: 2020
 founders: "Robin Simsa, Theresa Rothenbücher, Manuel Lachmayr"
 featured_image: "1612354485736.jpg"

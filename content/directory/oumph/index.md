@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Sweden"
-country_code: SE
+country_code: "SE"
 city: "Mjölby"
+location: [58.322691, 15.133535]
 founded: 
 founders: "Anders Linden"
 featured_image: "Oumph logo.png"

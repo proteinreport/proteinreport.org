@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Argentina"
-country_code: AR
+country_code: "AR"
 city: ""
+location: [-34.603684, -58.381559]
 founded: 2019
 founders: "Sofia Giampaoli"
 featured_image: "Cell Farm_0.png"

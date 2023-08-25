@@ -9,8 +9,9 @@ products: [Ingredients, Cell Culture Media]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Manchester"
+location: [53.463497, -2.236721]
 founded: 2019
 founders: "Mohammad Khalil El Hajj"
 featured_image: "bright-biotech_logo-02@4x.png"

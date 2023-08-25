@@ -9,8 +9,9 @@ products: [Meat, Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Stateline"
+location: [38.96776, -119.927253]
 founded: 2016
 founders: "MJ Espiritu-Gerometta, Mark Garrison"
 featured_image: "Pivotal Foods logo.png"

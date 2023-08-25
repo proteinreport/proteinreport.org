@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boston"
+location: [42.344265, -71.027987]
 founded: 2018
 founders: ""
 featured_image: "motif-foodworks.png"

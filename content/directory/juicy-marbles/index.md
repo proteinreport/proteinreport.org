@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Slovenia"
-country_code: SI
+country_code: "SI"
 city: "Kamnik"
+location: [46.222196, 14.607297]
 founded: 2019
 founders: "Luka Sinček, Maj Hrovat, Tilen Travnik"
 featured_image: "download.png"

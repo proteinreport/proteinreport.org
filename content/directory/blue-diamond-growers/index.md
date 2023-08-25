@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Sacramento"
+location: [38.585796, -121.481004]
 founded: 1910
 founders: ""
 featured_image: "Almond Breeze logo_0.jpg"

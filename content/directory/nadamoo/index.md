@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Austin"
+location: [30.250514, -97.765376]
 founded: 2004
 founders: "Daniel Nicholson"
 featured_image: "KYK1LKGb_400x400.jpg"

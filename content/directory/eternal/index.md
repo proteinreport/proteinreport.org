@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "Argentina"
-country_code: AR
+country_code: "AR"
 city: "AAS"
+location: [-34.59492, -58.390799]
 founded: 2019
 founders: "Horacio Acerbo"
 featured_image: "dZWRdv0A_400x400.jpg"

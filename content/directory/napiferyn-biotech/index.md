@@ -9,8 +9,9 @@ products: [Ingredients, Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "Poland"
-country_code: PL
+country_code: "PL"
 city: "Łódź"
+location: [51.759248, 19.455983]
 founded: 2014
 founders: "Magdalena Kozłowska, Piotr Wnukowski"
 featured_image: "Zasób 2@4x.png"

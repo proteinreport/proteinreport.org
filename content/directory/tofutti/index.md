@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Cranford"
+location: [40.645116, -74.281434]
 founded: 
 founders: ""
 featured_image: "Tofutti logo.png"

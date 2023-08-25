@@ -9,8 +9,9 @@ products: [Ingredients, Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Münster"
+location: [51.96953, 7.59402]
 founded: 2012
 founders: "Ahmed Sallam, Martin Krehenbrink"
 featured_image: "cysal logo.png"

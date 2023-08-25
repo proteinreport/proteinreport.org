@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Battle Creek"
+location: [42.321152, -85.179714]
 founded: 
 founders: ""
 featured_image: "msf_logo_desktop.png"

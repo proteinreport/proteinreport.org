@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Incubator]
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Berlin"
+location: [52.50189, 13.35791]
 founded: 2018
 founders: "ProVeg International"
 featured_image: "pv.jpg"

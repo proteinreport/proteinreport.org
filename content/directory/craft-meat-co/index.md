@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "New Zealand"
-country_code: NZ
+country_code: "NZ"
 city: "Dunedin"
+location: [-45.897964, 170.455568]
 founded: 
 founders: ""
 featured_image: "the craft meat co logo.png"

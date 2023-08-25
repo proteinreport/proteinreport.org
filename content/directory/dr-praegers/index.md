@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Elmwood Park"
+location: [40.901902, -74.112362]
 founded: 1992
 founders: "Peter Praeger, Eric Somberg"
 featured_image: "dr-praegers-logo.png"

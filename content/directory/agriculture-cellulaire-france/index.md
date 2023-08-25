@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "France"
-country_code: FR
+country_code: "FR"
 city: "Paris"
+location: [48.856614, 2.352222]
 founded: 2019
 founders: ""
 featured_image: "new logo.PNG"

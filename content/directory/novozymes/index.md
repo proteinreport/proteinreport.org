@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Denmark"
-country_code: DK
+country_code: "DK"
 city: "Bagsværd"
+location: [55.75692, 12.454664]
 founded: 2000
 founders: ""
 featured_image: "novozymes_logo_purple.png"

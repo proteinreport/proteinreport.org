@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Norway"
-country_code: NO
+country_code: "NO"
 city: "Trondheim"
+location: [63.42985, 10.401953]
 founded: 
 founders: "Christer Heimtoft, Richard Nystad, Fia Gullikkson"
 featured_image: "flowfood logo.png"

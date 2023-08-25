@@ -9,8 +9,9 @@ products: [Cell Culture Media]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Breda"
+location: [51.571915, 4.768323]
 founded: 2019
 founders: "Robert ten Hoor"
 featured_image: "cultured blood logo.jpg"

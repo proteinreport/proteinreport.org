@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Bellevue"
+location: [47.579691, -122.133307]
 founded: 2013
 founders: "Madeline Haydon"
 featured_image: "np.png"

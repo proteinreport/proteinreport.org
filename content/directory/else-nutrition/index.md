@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Tel Aviv-Yafo"
+location: [32.0853, 34.781768]
 founded: 2018
 founders: "Hamutal Vitzhak, Uriel Kesler, Michael Azar"
 featured_image: "Else Nutrition logo.jpg"

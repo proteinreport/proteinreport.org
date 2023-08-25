@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Roslin"
+location: [55.86535, -3.199904]
 founded: 2016
 founders: "Glen Illing"
 featured_image: "roslin.jpg"

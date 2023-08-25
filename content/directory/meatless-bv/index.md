@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Goes"
+location: [51.496782, 3.877655]
 founded: 2006
 founders: ""
 featured_image: "meatless-300x120.png"

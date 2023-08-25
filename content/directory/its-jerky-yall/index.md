@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Redding"
+location: [40.559917, -122.296081]
 founded: 
 founders: ""
 featured_image: "all Y'alls logo.png"

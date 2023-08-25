@@ -9,8 +9,9 @@ products: [Meat, Seafood, Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Berkeley"
+location: [37.871899, -122.25854]
 founded: 2018
 founders: "Amanda Stiles, Beth Zotter"
 featured_image: "UMARO_Logo_Red.png"

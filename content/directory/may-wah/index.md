@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "New York"
+location: [40.718657, -73.999057]
 founded: 1995
 founders: ""
 featured_image: "may wah nyc logo.png"

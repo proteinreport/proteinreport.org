@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Gwynn"
+location: [37.490898, -76.312339]
 founded: 2020
 founders: "Monica Talbert"
 featured_image: "VC_PBFC_logo_stacked_1000x_0.jpg"

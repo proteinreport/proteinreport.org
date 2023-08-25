@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Stegaurach"
+location: [49.86336, 10.843081]
 founded: 
 founders: ""
 featured_image: "amidori-logo2.jpg"

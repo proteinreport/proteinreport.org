@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "Denmark"
-country_code: DK
+country_code: "DK"
 city: "Herning"
+location: [56.13513, 9.102798]
 founded: 1988
 founders: "Jens Møller"
 featured_image: "caviart-logo-retina.png"

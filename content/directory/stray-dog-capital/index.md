@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Leawood"
+location: [38.966673, -94.616901]
 founded: 2013
 founders: "Jennifer Laue, Chuck Laue"
 featured_image: "sdc-social-default.jpg"

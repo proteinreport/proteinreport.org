@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "Australia"
-country_code: AU
+country_code: "AU"
 city: "North Melbourne"
+location: [-37.804866, 144.947382]
 founded: 2017
 founders: "Thomas King"
 featured_image: "fflogo.png"

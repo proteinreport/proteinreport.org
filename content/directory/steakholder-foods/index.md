@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Rehovot"
+location: [31.914134, 34.808962]
 founded: 2019
 founders: ""
 featured_image: "sh.png"

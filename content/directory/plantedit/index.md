@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "Ireland"
-country_code: IE
+country_code: "IE"
 city: "Cork"
+location: [51.898514, -8.475604]
 founded: 
 founders: "Chidananda Nagamangala, Ok-jae Koo"
 featured_image: "plantedit.png"

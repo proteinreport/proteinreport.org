@@ -9,8 +9,9 @@ products: [Meat, Scaffolding & Structure]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Berkeley"
+location: [37.852973, -122.287386]
 founded: 2020
 founders: "Nieves Martínez Marshall"
 featured_image: "BLACK-WHITE.png"

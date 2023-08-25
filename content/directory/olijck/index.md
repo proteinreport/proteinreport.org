@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Halfweg"
+location: [52.385734, 4.72147]
 founded: 2013
 founders: ""
 featured_image: "olijck-zeegroenten-retina.png"

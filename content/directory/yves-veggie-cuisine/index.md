@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boulder"
+location: [40.014986, -105.270546]
 founded: 1985
 founders: ""
 featured_image: "new-yves-logo.png"

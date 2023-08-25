@@ -9,8 +9,9 @@ products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Durham"
+location: [35.872192, -78.845914]
 founded: 2017
 founders: "Gilles Amsallem"
 featured_image: "arbiom-logo-retina.png"

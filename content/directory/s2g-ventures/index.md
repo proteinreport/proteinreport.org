@@ -9,11 +9,12 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Chicago"
+location: [41.885955, -87.653366]
 founded: 2014
 founders: ""
-featured_image: "s2gventures logo.png"
+featured_image: "S2G_Ventures_Logo.jpg"
 website: https://s2gventures.com/
 linkedin: https://www.linkedin.com/company/s2g-ventures
 twitter: https://twitter.com/seed2growth

@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Berkeley"
+location: [37.871523, -122.273042]
 founded: 2018
 founders: "Brian Spears, Andra Necula"
 featured_image: "v4yKo9Co_400x400.jpg"

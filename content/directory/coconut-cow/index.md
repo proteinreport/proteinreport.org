@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Aylesbury"
+location: [51.80722, -0.812766]
 founded: 
 founders: ""
 featured_image: "The coconut cow.png"

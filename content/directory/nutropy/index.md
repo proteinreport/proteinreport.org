@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "France"
-country_code: FR
+country_code: "FR"
 city: "Évry-Courcouronnes"
+location: [48.623998, 2.419481]
 founded: 2022
 founders: "Nathalie Rolland, Maya Bendifallah"
 featured_image: "Nutropy_logo-BLUE-1536x247.png"

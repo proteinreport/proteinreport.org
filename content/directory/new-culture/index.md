@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.774929, -122.419415]
 founded: 2018
 founders: "Inja Radman, Matt Gibson"
 featured_image: "New Culture logo.png"

@@ -9,8 +9,9 @@ products: [Dairy, Eggs]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.774929, -122.419415]
 founded: 2015
 founders: "Karim Pichara Baksai, Matias Muchnick, Palbo Zamora"
 featured_image: "NotCo logo.jpg"

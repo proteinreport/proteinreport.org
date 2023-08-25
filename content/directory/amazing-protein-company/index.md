@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Santa Cruz"
+location: [36.974117, -122.030796]
 founded: 
 founders: ""
 featured_image: "Lovelika logo.png"

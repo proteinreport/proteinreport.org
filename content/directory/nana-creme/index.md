@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Chicago"
+location: [41.834508, -87.646048]
 founded: 2014
 founders: "Gina Klafeta"
 featured_image: "Nana creme logo.png"

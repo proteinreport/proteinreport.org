@@ -9,8 +9,9 @@ products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
 country: "India"
-country_code: IN
+country_code: "IN"
 city: "Kongaon"
+location: [19.75148, 75.713888]
 founded: 2017
 founders: "Nihal Singh, Shubhankar Takle"
 featured_image: "logo.jpg"

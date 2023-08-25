@@ -9,8 +9,9 @@ products: [Meat]
 business: [Finance, Research, Nonprofit]
 finance_type: [Research Grants]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "New York"
+location: [40.712775, -74.005973]
 founded: 2004
 founders: ""
 featured_image: "new harvest logo.png"

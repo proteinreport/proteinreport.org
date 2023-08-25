@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "South Africa"
-country_code: ZA
+country_code: "ZA"
 city: "Germiston"
+location: [-26.248622, 28.203668]
 founded: 2020
 founders: "Feinschmecker Deli Meats"
 featured_image: "Gudness-Logo.png"

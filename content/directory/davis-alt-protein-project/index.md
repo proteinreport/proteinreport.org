@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Davis"
+location: [38.544907, -121.740517]
 founded: 2020
 founders: ""
 featured_image: "dapp_0.png"

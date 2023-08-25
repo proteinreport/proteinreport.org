@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Cameron"
+location: [39.945972, -80.615508]
 founded: 2001
 founders: ""
 featured_image: "Primal Spirit Foods logo.png"

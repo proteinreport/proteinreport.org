@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Research]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Berkeley"
+location: [37.853356, -122.291206]
 founded: 2019
 founders: "Oliver Zahn, Caroline Love"
 featured_image: "Logo+with+Safezone+Black.png"

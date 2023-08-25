@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Sweden"
-country_code: SE
+country_code: "SE"
 city: "Herräng"
+location: [60.128161, 18.643501]
 founded: 2017
 founders: "Anna Lundström"
 featured_image: "Maisha logo.png"

@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.507351, -0.127758]
 founded: 
 founders: ""
 featured_image: "CPTCapital_FullLockUp_Identity_0.png"

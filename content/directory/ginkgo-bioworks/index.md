@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Research]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boston"
+location: [42.34438, -71.027991]
 founded: 2008
 founders: ""
 featured_image: "qbxwBksV_400x400.jpg"

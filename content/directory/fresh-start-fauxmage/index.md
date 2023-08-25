@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: ""
+location: [46.510712, -63.416814]
 founded: 2016
 founders: "Julain Molnar"
 featured_image: "Fresh Start Fauxmage logo.png"

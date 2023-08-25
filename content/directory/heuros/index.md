@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Australia"
-country_code: AU
+country_code: "AU"
 city: "South Brisbane"
+location: [-27.47665, 153.01667]
 founded: 2017
 founders: "Nick Beaumont"
 featured_image: "Heuros logo_0.jpg"

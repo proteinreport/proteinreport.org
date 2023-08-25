@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Toronto"
+location: [43.659828, -79.379743]
 founded: 2020
 founders: "Chris Bryson"
 featured_image: "newschool.jpeg"

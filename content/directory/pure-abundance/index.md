@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Atlanta"
+location: [33.806688, -84.366294]
 founded: 2016
 founders: ""
 featured_image: "Pure Abundance cashew cheese logo.png"

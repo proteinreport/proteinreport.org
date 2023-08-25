@@ -9,8 +9,9 @@ products: [Meat, Scaffolding & Structure, Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "Spain"
-country_code: ES
+country_code: "ES"
 city: "Cizur Menor"
+location: [42.786748, -1.677411]
 founded: 2017
 founders: "Francisco Javier, Larumbe Beramendi, Daniel Rico Aldaz"
 featured_image: "Logo Coquus horizontal color.png"

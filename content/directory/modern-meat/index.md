@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Vancouver"
+location: [49.282729, -123.120738]
 founded: 2019
 founders: "Tara Haddad"
 featured_image: "ModernMeatLogo.png"

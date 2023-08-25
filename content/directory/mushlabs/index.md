@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Hamburg"
+location: [53.574526, 10.024361]
 founded: 2018
 founders: "Mazen Rizk"
 featured_image: "Mushlabs Logo_Stacked.png"

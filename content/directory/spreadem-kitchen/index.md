@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Richmond"
+location: [49.16659, -123.133569]
 founded: 2014
 founders: "Mellisa Mills"
 featured_image: "spreadem-logo-289x124.png"

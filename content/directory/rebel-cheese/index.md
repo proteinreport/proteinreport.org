@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Austin"
+location: [30.301361, -97.703166]
 founded: 
 founders: ""
 featured_image: "Rebel+Cheese+Logo+Website.jpg"

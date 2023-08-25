@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Grimmen"
+location: [54.105249, 13.02104]
 founded: 2010
 founders: "Spin-off of the Fraunhofer Institute for Process Engineering and Packaging"
 featured_image: "luve.jpg"

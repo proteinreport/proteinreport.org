@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: ""
+location: [40.674771, -73.976711]
 founded: 2015
 founders: "Helena Lumme, Mika Manninen"
 featured_image: "Halsa foods logo.jpg"

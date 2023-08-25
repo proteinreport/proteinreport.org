@@ -9,8 +9,9 @@ products: [Meat, Dairy]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Mössingen"
+location: [48.402416, 9.047161]
 founded: 1993
 founders: "Klaus Gaiser"
 featured_image: "Veggyness_Logo.png"

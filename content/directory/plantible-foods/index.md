@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Diego"
+location: [32.715738, -117.161084]
 founded: 2018
 founders: "Tony Martens, Maurits van de Ven"
 featured_image: "plantible-foods-inc-logo-vector.jpg"

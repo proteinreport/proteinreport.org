@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Chicago"
+location: [41.878114, -87.629798]
 founded: 2014
 founders: "Thomas Jonas, Matthew Strongin"
 featured_image: "Natures Fynd Logo Square Transparent.png"

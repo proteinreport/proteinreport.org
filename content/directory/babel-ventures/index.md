@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.781562, -122.456839]
 founded: 2017
 founders: "Ba Minuzzi, Daniela Arruda"
 featured_image: "babelventures.jpg"

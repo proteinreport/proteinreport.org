@@ -9,8 +9,9 @@ products: [Meat, Dairy, Eggs, Seafood, Ingredients]
 business: [Production]
 finance_type: []
 country: "Singapore"
-country_code: SG
+country_code: "SG"
 city: "Singapore"
+location: [1.352083, 103.819836]
 founded: 2022
 founders: "ADM, Nurasa"
 featured_image: "scaleup.png"

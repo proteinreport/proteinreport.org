@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Mississauga"
+location: [43.62935, -79.621326]
 founded: 1980
 founders: "Dror Balshine"
 featured_image: "SolCuisine-Logo.jpg"

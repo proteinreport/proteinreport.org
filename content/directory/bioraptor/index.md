@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Research]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Binyamina-Giv'at Ada"
+location: [32.517078, 34.955096]
 founded: 2022
 founders: "Ori Zakin, Yaron David"
 featured_image: "Bioraptor Logo.png"

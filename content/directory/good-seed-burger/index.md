@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Austin"
+location: [30.267153, -97.743061]
 founded: 2009
 founders: "Erin Shotwell, Oliver Ponce"
 featured_image: "Good Seed logo.png"

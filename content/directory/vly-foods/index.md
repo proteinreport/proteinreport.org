@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Berlin"
+location: [52.520007, 13.404954]
 founded: 2018
 founders: "Nicolas Hartmann, Niklas Katter, Moritz Braunwarth"
 featured_image: "vly_logo-header_100x@2x.jpg"

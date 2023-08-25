@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "South Korea"
-country_code: KR
+country_code: "KR"
 city: ""
+location: [37.566535, 126.977969]
 founded: 
 founders: "Zikooin"
 featured_image: "unlimeat_1.png"

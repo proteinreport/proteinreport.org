@@ -9,8 +9,9 @@ products: [Meat, Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Porter"
+location: [30.104451, -95.236428]
 founded: 
 founders: ""
 featured_image: "ls natural foods logo.png"

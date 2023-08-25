@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Portland"
+location: [45.517502, -122.691027]
 founded: 2013
 founders: "Imber Lingard"
 featured_image: "v-color.png"

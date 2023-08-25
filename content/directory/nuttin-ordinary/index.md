@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Peterborough"
+location: [42.913598, -71.932104]
 founded: 2012
 founders: "Josh Velasquez"
 featured_image: "nuttin_ordinary_logo-tagline-1024x527.png"

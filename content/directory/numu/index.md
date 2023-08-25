@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "New York"
+location: [40.712775, -74.005973]
 founded: 2015
 founders: "Jill Carnegie"
 featured_image: "NUMU vegan cheese.png"

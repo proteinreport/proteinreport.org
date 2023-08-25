@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Victoria"
+location: [48.429842, -123.363751]
 founded: 2016
 founders: "Mitchell Scott"
 featured_image: "The very good butchers - logo.png"

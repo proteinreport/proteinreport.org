@@ -9,8 +9,9 @@ products: [Meat, Pet Food]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Cobb"
+location: [31.959077, -83.988461]
 founded: 2016
 founders: "Shannon Falconer, Joshua Errett"
 featured_image: "BioCraft Logo - Black.png"

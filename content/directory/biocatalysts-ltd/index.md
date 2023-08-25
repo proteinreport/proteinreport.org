@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Cardiff"
+location: [51.562716, -3.271418]
 founded: 1983
 founders: "Anthony Godfrey, Tony Good, Stuart West"
 featured_image: "Biocatalysts-Ltd_500x400_proteinreport-1.jpg"

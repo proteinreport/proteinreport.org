@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Leeds"
+location: [53.795652, -1.426966]
 founded: 1991
 founders: "Linda McCartney"
 featured_image: "Linda McCartney's logo.jpg"

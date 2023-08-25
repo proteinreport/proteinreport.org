@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Deventer"
+location: [52.250879, 6.184566]
 founded: 
 founders: ""
 featured_image: "Vegafit logo.png"

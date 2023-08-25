@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Hong Kong SAR China"
-country_code: HK
+country_code: "HK"
 city: ""
+location: [22.319304, 114.169361]
 founded: 2018
 founders: "David Yeung"
 featured_image: "omnipork_logo_black.png"

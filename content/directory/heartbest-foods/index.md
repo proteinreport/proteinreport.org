@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Mexico"
-country_code: MX
+country_code: "MX"
 city: "San Luis Potosí"
+location: [22.191699, -101.008451]
 founded: 2017
 founders: "Aldo González"
 featured_image: "Heartbest logo.png"

@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "France"
-country_code: FR
+country_code: "FR"
 city: "Lyon"
+location: [45.742258, 4.842529]
 founded: 
 founders: ""
 featured_image: "Hari&co logo.jpg"

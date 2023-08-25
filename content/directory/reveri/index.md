@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Santa Barbara"
+location: [34.420831, -119.69819]
 founded: 2017
 founders: "Karen Waddell"
 featured_image: "reveriLogo-pink_onTransp.png"

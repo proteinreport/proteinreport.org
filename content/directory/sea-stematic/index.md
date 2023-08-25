@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "South Africa"
-country_code: ZA
+country_code: "ZA"
 city: "Johannesburg"
+location: [-26.204103, 28.047305]
 founded: 2021
 founders: "Marica Quarsingh"
 featured_image: "1620040113576.jpg"

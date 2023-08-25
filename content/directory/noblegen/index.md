@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Peterborough"
+location: [44.358616, -78.28502]
 founded: 2013
 founders: "Adam J. Noble"
 featured_image: "Noblegen.png"

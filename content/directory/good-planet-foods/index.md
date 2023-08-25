@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Bellevue"
+location: [47.625905, -122.186852]
 founded: 2017
 founders: "Sachin Ajith"
 featured_image: "Artboard-1@2x.png"

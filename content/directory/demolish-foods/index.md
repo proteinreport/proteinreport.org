@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "India"
-country_code: IN
+country_code: "IN"
 city: "Bengaluru"
+location: [12.981994, 77.625613]
 founded: 2020
 founders: "Ravali Amba"
 featured_image: "demolish.png"

@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Brazil"
-country_code: BR
+country_code: "BR"
 city: ""
+location: [-22.906847, -43.172897]
 founded: 2019
 founders: "Marcos Leta"
 featured_image: "fazenda-futuro_logo.png"

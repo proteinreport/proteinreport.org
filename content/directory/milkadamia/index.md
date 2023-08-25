@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Burr Ridge"
+location: [41.741509, -87.935039]
 founded: 
 founders: ""
 featured_image: "Milkadamia-Logo-1.jpg"

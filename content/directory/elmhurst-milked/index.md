@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Elma Center"
+location: [42.800985, -78.62223]
 founded: 2017
 founders: "Henry Schwartz"
 featured_image: "Elmhurst logo2.png"

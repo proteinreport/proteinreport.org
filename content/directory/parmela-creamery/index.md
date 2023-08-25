@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Fontana"
+location: [34.148267, -117.475469]
 founded: 2012
 founders: "Ryan Salomone, Laurice Do"
 featured_image: "Parmela Creamery logo.png"

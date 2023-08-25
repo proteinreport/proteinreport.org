@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Hod Hasharon"
+location: [32.154219, 34.903886]
 founded: 2018
 founders: "Yohai Ben Zikri"
 featured_image: "BioFoods Systems_0.png"

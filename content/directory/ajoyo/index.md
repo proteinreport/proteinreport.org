@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Orrville"
+location: [40.8422, -81.765471]
 founded: 
 founders: ""
 featured_image: "Ajoyo-Logo.png"

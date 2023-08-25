@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Cherry Hill"
+location: [39.901294, -74.976083]
 founded: 2014
 founders: "Wei Sun"
 featured_image: "SunP biotech logo.png"

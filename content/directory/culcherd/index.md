@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Toronto"
+location: [43.776159, -79.490384]
 founded: 2015
 founders: "Tim Donnelly, Jillian Leo"
 featured_image: "Culcherd logo.png"

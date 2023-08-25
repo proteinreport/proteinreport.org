@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: ""
+location: [40.744679, -73.948542]
 founded: 
 founders: "Emanuel Storch"
 featured_image: "Ck5aVj58_400x400.jpg"

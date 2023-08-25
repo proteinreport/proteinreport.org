@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "Italy"
-country_code: IT
+country_code: "IT"
 city: "Firenze"
+location: [43.779365, 11.24162]
 founded: 2009
 founders: ""
 featured_image: "logo.png"

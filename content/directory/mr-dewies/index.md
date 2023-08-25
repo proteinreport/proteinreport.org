@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Albany"
+location: [37.890184, -122.298091]
 founded: 2011
 founders: "Ari Cohen, Andrew Cohen"
 featured_image: "Mr Dewie's Cashew creamary logo.jpg"

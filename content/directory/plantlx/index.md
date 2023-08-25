@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Research]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Berlin"
+location: [52.520007, 13.404954]
 founded: 2017
 founders: "Arndt Grossmann, Karim Hamdi"
 featured_image: "PlantLX-winning-logo-design-e1503494794204.jpeg"

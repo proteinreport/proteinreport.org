@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Los Angeles"
+location: [34.083288, -118.217948]
 founded: 2015
 founders: ""
 featured_image: "Maika logo2.png"

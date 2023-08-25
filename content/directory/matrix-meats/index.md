@@ -9,8 +9,9 @@ products: [Meat, Scaffolding & Structure]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Columbus"
+location: [39.961176, -82.998794]
 founded: 2019
 founders: "Eric Jenkusky, Ross Kayuha, Flavio Lobato"
 featured_image: "MatrixMeats+Logo-08.png"

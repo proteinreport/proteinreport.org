@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Eugene"
+location: [44.05895, -123.103893]
 founded: 2004
 founders: "Luna Marcus, Larry Kaplowitz"
 featured_image: "coconut bliss logo-gold-400h.png"

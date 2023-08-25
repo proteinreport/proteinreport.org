@@ -9,8 +9,9 @@ products: [Eggs]
 business: [Production]
 finance_type: []
 country: "Chile"
-country_code: CL
+country_code: "CL"
 city: "Santiago"
+location: [-33.44889, -70.669265]
 founded: 2011
 founders: ""
 featured_image: "Eggless logo.PNG"

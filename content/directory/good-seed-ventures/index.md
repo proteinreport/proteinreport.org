@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Rheine"
+location: [52.281569, 7.443409]
 founded: 2018
 founders: "Frank Cordesmeyer, Jan Cordesmeyer"
 featured_image: "gsvlogo.png"

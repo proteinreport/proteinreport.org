@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Vallejo"
+location: [38.104086, -122.256637]
 founded: 
 founders: ""
 featured_image: "Something Better logo.png"

@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Turkey"
-country_code: TR
+country_code: "TR"
 city: ""
+location: [38.319095, 26.643206]
 founded: 2021
 founders: "Murat Badur"
 featured_image: "mayamilk-logo-MOR6.png"

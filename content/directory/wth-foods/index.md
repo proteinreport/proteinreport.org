@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Philippines"
-country_code: PH
+country_code: "PH"
 city: "Manila"
+location: [14.599512, 120.984219]
 founded: 2019
 founders: "Stephen Michael Co, Carissa Jane Lim, Carlo Antonio Ng"
 featured_image: "wth.jpg"

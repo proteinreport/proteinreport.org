@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.797186, -122.401797]
 founded: 2010
 founders: "Justin Guilbert"
 featured_image: "Harmless Harvest logo.png"

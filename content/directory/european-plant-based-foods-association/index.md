@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "Belgium"
-country_code: BE
+country_code: "BE"
 city: "Brussel"
+location: [50.85034, 4.35171]
 founded: 2003
 founders: ""
 featured_image: "logo_ensa.png"

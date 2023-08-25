@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "France"
-country_code: FR
+country_code: "FR"
 city: "Saint-Nazaire"
+location: [47.273498, -2.213848]
 founded: 2015
 founders: "Bertrand Jouault"
 featured_image: "nature-et-moi logo.png"

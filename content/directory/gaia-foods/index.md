@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Singapore"
-country_code: SG
+country_code: "SG"
 city: "Singapore"
+location: [1.332938, 103.697424]
 founded: 2019
 founders: "Vinayaka Srinivas"
 featured_image: "GAIA-Logo.png"

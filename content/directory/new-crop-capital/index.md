@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "New York"
+location: [40.712775, -74.005973]
 founded: 2015
 founders: "Chris Kerr"
 featured_image: "ncc.png"

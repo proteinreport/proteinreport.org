@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Cambridge"
+location: [52.195079, 0.131273]
 founded: 2020
 founders: "Jack Reid, Adam Glen"
 featured_image: "unicorn.jpg"

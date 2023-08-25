@@ -9,8 +9,9 @@ products: [Meat, Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Encinitas"
+location: [33.036987, -117.291982]
 founded: 2017
 founders: "Michelle May"
 featured_image: "seva-foods-logo-horizontal-2000_360x.png"

@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Los Angeles"
+location: [34.052234, -118.243685]
 founded: 2019
 founders: "Veronica Fil, Shaun Quade"
 featured_image: "grounded.png"

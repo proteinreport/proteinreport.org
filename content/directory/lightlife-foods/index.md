@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Montague"
+location: [42.60077, -72.517278]
 founded: 1979
 founders: ""
 featured_image: "Lightlife Red_Logo.jpg"

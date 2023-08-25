@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Houston"
+location: [29.73333, -95.419401]
 founded: 2014
 founders: "August Vega"
 featured_image: "Malk logo.jpg"

@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Moss Landing"
+location: [36.864347, -121.773003]
 founded: 1978
 founders: "Caren Hicks, Brian Swette, Kelly Swette"
 featured_image: "Sweet_Earth_Foods_Logo.png"

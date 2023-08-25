@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Bulgaria"
-country_code: BG
+country_code: "BG"
 city: "Sofia"
+location: [42.675618, 23.308975]
 founded: 2017
 founders: "Vera Tinkova, Hristina Tancheva, Boyan Tanchev"
 featured_image: "cheese the queen logo.png"

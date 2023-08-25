@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "South San Francisco"
+location: [37.669783, -122.390356]
 founded: 2016
 founders: "Magi Richani"
 featured_image: "ObOvG2ld_400x400.jpg"

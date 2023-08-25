@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "South San Francisco"
+location: [37.653753, -122.394958]
 founded: 2016
 founders: "Will Patrick, Matt Ball"
 featured_image: "culture biosciences logo.png"

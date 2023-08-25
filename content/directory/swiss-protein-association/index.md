@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "Switzerland"
-country_code: CH
+country_code: "CH"
 city: "Bern"
+location: [46.94601, 7.436386]
 founded: 2021
 founders: ""
 featured_image: "1639559376954.jpg"

@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "China"
-country_code: CN
+country_code: "CN"
 city: ""
+location: [39.9042, 116.407396]
 founded: 2019
 founders: ""
 featured_image: "cpbfa.jpg"

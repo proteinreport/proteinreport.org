@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Franklin"
+location: [41.592517, -72.177405]
 founded: 1970
 founders: "Bob Gerner, Kristin Brun"
 featured_image: "westsoy_logo_hr.jpg"

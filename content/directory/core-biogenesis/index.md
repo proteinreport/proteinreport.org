@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "France"
-country_code: FR
+country_code: "FR"
 city: "Paris"
+location: [48.856614, 2.352222]
 founded: 2020
 founders: "Alexandre Reeber, Chouaib MEZIADI"
 featured_image: "CoreBioGen_Logo_Colour_RGB1.jpg"

@@ -9,8 +9,9 @@ products: [Meat, Pet Food]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boulder"
+location: [40.014986, -105.270546]
 founded: 2015
 founders: "Rich Kelleman, Pernilla Turner Audibert"
 featured_image: "bond pets.png"

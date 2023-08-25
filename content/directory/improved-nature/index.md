@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Garner"
+location: [35.711617, -78.619978]
 founded: 2015
 founders: "Rody Hawkins"
 featured_image: "logo_improvedNature_R.png"

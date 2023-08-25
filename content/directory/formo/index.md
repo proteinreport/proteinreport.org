@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Berlin"
+location: [52.527482, 13.402813]
 founded: 2019
 founders: "Raffael Wohlgensinger"
 featured_image: "FORMO-LOGO-SPARK-MILK-1.png"

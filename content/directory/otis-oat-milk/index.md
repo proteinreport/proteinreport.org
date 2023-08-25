@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "New Zealand"
-country_code: NZ
+country_code: "NZ"
 city: "Dunedin"
+location: [-45.866778, 170.491057]
 founded: 2019
 founders: ""
 featured_image: "otis.jpg"

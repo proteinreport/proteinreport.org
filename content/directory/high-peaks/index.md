@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Cohoes"
+location: [42.758403, -73.704552]
 founded: 2019
 founders: "Stacie Waters"
 featured_image: "header-logo-orange.png"

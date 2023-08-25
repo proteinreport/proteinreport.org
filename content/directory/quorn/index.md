@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Middlesbrough"
+location: [54.464728, -1.181829]
 founded: 1985
 founders: ""
 featured_image: "xquorn_logo_0.png"

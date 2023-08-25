@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Lachish"
+location: [31.565229, 34.84855]
 founded: 2017
 founders: "Yonatan Golan, Ido Golan, Matan Golan"
 featured_image: "Brevel-LOGO.png"

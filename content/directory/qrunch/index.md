@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Denver"
+location: [39.739236, -104.990251]
 founded: 2010
 founders: "Jim Adams"
 featured_image: "qrunch-organics.jpg"

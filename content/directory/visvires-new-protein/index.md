@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "Singapore"
-country_code: SG
+country_code: "SG"
 city: "Singapore"
+location: [1.281952, 103.847625]
 founded: 2013
 founders: "Matthieu Vermersch"
 featured_image: "vvnp.png"

@@ -9,8 +9,9 @@ products: [Meat, Cell Culture Media, Scaffolding & Structure]
 business: [Production]
 finance_type: []
 country: "South Korea"
-country_code: KR
+country_code: "KR"
 city: "Muju"
+location: [35.907757, 127.766922]
 founded: 
 founders: "Joonho Keum"
 featured_image: "logo.png"

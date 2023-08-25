@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Newport Beach"
+location: [33.625829, -117.848882]
 founded: 2013
 founders: "Carla Lee"
 featured_image: "Carla Lee's nutburgers.png"

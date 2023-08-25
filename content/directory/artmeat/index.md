@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Russia"
-country_code: RU
+country_code: "RU"
 city: "Kazan"
+location: [55.787894, 49.123329]
 founded: 2019
 founders: "Askar Latyshev, Albert Rizvanov, Elena Zakirova"
 featured_image: "artmeat logo.jpg"

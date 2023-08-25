@@ -9,8 +9,9 @@ products: [Meat, Seafood]
 business: [Production]
 finance_type: []
 country: "Singapore"
-country_code: SG
+country_code: "SG"
 city: "Singapore"
+location: [1.338245, 103.890399]
 founded: 1989
 founders: ""
 featured_image: "growthwell_0.png"

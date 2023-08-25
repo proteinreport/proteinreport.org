@@ -9,8 +9,9 @@ products: [Meat, Seafood]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Holten"
+location: [52.276193, 6.393166]
 founded: 1990
 founders: ""
 featured_image: "vivera.png"

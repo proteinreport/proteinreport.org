@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "West Sacramento"
+location: [38.580461, -121.530234]
 founded: 2018
 founders: "Paul Shapiro"
 featured_image: "The+Better+Meat+Co+-+Web+Logo.png"

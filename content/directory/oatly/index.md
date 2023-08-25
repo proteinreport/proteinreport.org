@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Sweden"
-country_code: SE
+country_code: "SE"
 city: "Malmö"
+location: [55.612262, 12.991715]
 founded: 1985
 founders: "Rickard Öste"
 featured_image: "Oatly logo.png"

@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Modi'in Makabim-Re'ut"
+location: [31.890267, 35.010397]
 founded: 2014
 founders: ""
 featured_image: "horizontal logo.PNG"

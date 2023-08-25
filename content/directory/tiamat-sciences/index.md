@@ -9,8 +9,9 @@ products: [Ingredients, Cell Culture Media]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Durham"
+location: [35.994033, -78.898619]
 founded: 2019
 founders: "France-Emmanuelle Adil, Clément Carlier"
 featured_image: "tiamat.jpg"

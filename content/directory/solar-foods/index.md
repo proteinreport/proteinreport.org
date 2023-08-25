@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Finland"
-country_code: FI
+country_code: "FI"
 city: "Helsinki"
+location: [60.169856, 24.938379]
 founded: 2017
 founders: "Pasi Vainikk, Juha-Pekka Pitkanen"
 featured_image: "Solar Foods logo.png"

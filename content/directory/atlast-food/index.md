@@ -9,8 +9,9 @@ products: [Meat, Ingredients, Scaffolding & Structure]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Green Island"
+location: [42.744245, -73.691507]
 founded: 2019
 founders: "Eben Bayer"
 featured_image: "Atlast-logo-black.png"

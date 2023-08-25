@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Miami"
+location: [25.76168, -80.19179]
 founded: 2018
 founders: "Kristopher Gasteratos"
 featured_image: "cas.png"

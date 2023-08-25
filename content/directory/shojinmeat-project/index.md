@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "Japan"
-country_code: JP
+country_code: "JP"
 city: "Chiyoda City"
+location: [35.6804, 139.769017]
 founded: 2017
 founders: "Yuki Hanyu"
 featured_image: "shojinmeat-project.png"

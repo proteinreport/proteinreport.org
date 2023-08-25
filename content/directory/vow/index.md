@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Australia"
-country_code: AU
+country_code: "AU"
 city: "North Parramatta"
+location: [-33.784692, 151.025725]
 founded: 2019
 founders: "George Peppou, Tim Noakesmith"
 featured_image: "logo-only-square.png"

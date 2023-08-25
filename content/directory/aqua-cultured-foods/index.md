@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Chicago"
+location: [41.878114, -87.629798]
 founded: 2021
 founders: "Anne Palermo, Brittany Chibe"
 featured_image: "Aqua Cultured Foods logo.png"

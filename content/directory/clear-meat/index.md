@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "India"
-country_code: IN
+country_code: "IN"
 city: "Delhi"
+location: [28.704059, 77.10249]
 founded: 2018
 founders: "Pawan Dhar, Kartik Dixit, Siddharth Manvati"
 featured_image: "ClearMeat-logo_0.png"

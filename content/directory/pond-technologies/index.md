@@ -9,8 +9,9 @@ products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Markham"
+location: [43.831682, -79.36405]
 founded: 2009
 founders: "Steve Martin"
 featured_image: "Pond-Tech-Green-Logo.png"

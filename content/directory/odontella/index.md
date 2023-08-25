@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "France"
-country_code: FR
+country_code: "FR"
 city: "Bordeaux"
+location: [44.83909, -0.573092]
 founded: 2016
 founders: "Pierre Calleja"
 featured_image: "Odontella-1-330x114.png"

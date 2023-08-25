@@ -9,8 +9,9 @@ products: [Meat, Eggs]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Breda"
+location: [51.592092, 4.791101]
 founded: 2010
 founders: "Wim de Laat"
 featured_image: "BioscienZ logo.png"

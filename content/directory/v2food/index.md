@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Australia"
-country_code: AU
+country_code: "AU"
 city: "Sydney"
+location: [-33.86882, 151.209295]
 founded: 2019
 founders: "Nick Hazell"
 featured_image: "v2food logo.png"

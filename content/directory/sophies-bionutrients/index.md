@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Singapore"
-country_code: SG
+country_code: "SG"
 city: "Singapore"
+location: [1.288695, 103.782857]
 founded: 2017
 founders: "Eugene Wang, Kirin Tsuei, Barnabas Chan"
 featured_image: "lg-sophie-biox2.png"

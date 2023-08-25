@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "South Africa"
-country_code: ZA
+country_code: "ZA"
 city: "Pretoria"
+location: [-25.747868, 28.229271]
 founded: 2020
 founders: "Paul Bartels, Dr. Elize Venter"
 featured_image: "mmc.png"

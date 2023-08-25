@@ -9,8 +9,9 @@ products: [Meat, Ingredients, Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "Japan"
-country_code: JP
+country_code: "JP"
 city: "Shinjuku City"
+location: [35.698071, 139.720114]
 founded: 2015
 founders: "Yuki Hanyu"
 featured_image: "Integriculture - logo.png"

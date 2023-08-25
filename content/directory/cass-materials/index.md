@@ -9,8 +9,9 @@ products: [Meat, Scaffolding & Structure]
 business: [Production]
 finance_type: []
 country: "Australia"
-country_code: AU
+country_code: "AU"
 city: "Perth"
+location: [-31.950527, 115.860457]
 founded: 2020
 founders: "Gary Cass"
 featured_image: "casslogo-150x150.png"

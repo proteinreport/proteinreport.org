@@ -9,8 +9,9 @@ products: [Pet Food]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Havant"
+location: [50.865133, -0.966636]
 founded: 2005
 founders: ""
 featured_image: "Benovo - logo.jpg"

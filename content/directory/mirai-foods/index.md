@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Switzerland"
-country_code: CH
+country_code: "CH"
 city: "Wädenswil"
+location: [47.21973, 8.686715]
 founded: 2019
 founders: "Christoph Mayr"
 featured_image: "mirai logo.jpg"

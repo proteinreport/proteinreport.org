@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Chicago"
+location: [41.878114, -87.629798]
 founded: 2017
 founders: "Michael Lavin"
 featured_image: "Germin8-logo-fnl-xlarge.jpg"

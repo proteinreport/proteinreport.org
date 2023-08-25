@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Spain"
-country_code: ES
+country_code: "ES"
 city: "Barcelona"
+location: [41.385064, 2.173404]
 founded: 2018
 founders: "Giuseppe Scionti"
 featured_image: "novameat.jpg"

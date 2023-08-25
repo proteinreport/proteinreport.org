@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Seattle"
+location: [47.569023, -122.324776]
 founded: 1997
 founders: ""
 featured_image: "Field Roast.png"

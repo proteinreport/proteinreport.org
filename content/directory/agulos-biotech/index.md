@@ -9,8 +9,9 @@ products: [Cell Culture Media]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Lake Mills"
+location: [43.070203, -88.892082]
 founded: 2017
 founders: "Jonathan Irwin"
 featured_image: "agulos logo.png"

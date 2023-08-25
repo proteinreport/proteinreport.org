@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Accelerator]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Mateo"
+location: [37.562992, -122.325525]
 founded: 2013
 founders: ""
 featured_image: "Kitchentown_Logo_Gray_0.png"

@@ -9,8 +9,9 @@ products: []
 business: [Finance, Research, Nonprofit]
 finance_type: [Research Grants]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Washington"
+location: [38.907192, -77.036871]
 founded: 2016
 founders: "Bruce Friedrich, Nick Cooney"
 featured_image: "gfi logo_0.png"

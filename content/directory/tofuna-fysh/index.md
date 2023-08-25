@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Portland"
+location: [45.49727, -122.643861]
 founded: 2015
 founders: ""
 featured_image: "Tofuna fysh logo.png"

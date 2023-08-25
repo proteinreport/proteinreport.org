@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "New Orleans"
+location: [29.959577, -90.077013]
 founded: 2020
 founders: "Corey Jones, Stephanie Dorsey"
 featured_image: "E2JDJ LOGO.jpg"

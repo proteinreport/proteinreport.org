@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Aurora"
+location: [39.769341, -104.776547]
 founded: 2013
 founders: "Alan Hahn, Brooks J. Kelly, James P. Langan, Peter Lubar"
 featured_image: "MycoTechnology-Logo.png"

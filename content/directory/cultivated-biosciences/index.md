@@ -9,8 +9,9 @@ products: [Dairy, Ingredients]
 business: [Production]
 finance_type: []
 country: "Switzerland"
-country_code: CH
+country_code: "CH"
 city: "Wädenswil"
+location: [47.229687, 8.671819]
 founded: 2021
 founders: "Tomas Turner, Dimitri Zogg"
 featured_image: "Cultivated.jpg"

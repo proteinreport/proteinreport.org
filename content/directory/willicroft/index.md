@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Amsterdam"
+location: [52.362062, 4.886936]
 founded: 2018
 founders: "Brad Vanstone"
 featured_image: "willicroft.jpg"

@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Berlin"
+location: [52.520007, 13.404954]
 founded: 2021
 founders: "Fabian Baumann, Anita Bröllochs, Lisa Franke, Clara Hagedorn, Moritz Kompenhans, Gilda Lukacs, Tobias Messmer, Jonathan Michel, Jana Moritz, Jan Lukas Rinker, Ines Schiller, Julia Schimanietz, Pia Voltz"
 featured_image: "CellAg Logo (3)_0.png"

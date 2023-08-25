@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Los Angeles"
+location: [34.044195, -118.221177]
 founded: 2018
 founders: "Adam Tarshis"
 featured_image: "Screen Shot 2021-04-08 at 9.36.03 AM.png"

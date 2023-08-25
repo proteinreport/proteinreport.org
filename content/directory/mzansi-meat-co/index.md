@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "South Africa"
-country_code: ZA
+country_code: "ZA"
 city: "Cape Town"
+location: [-33.926536, 18.446085]
 founded: 2020
 founders: "Brett Thompson, Tasneem Karodia"
 featured_image: "Mzansi logo 1.jpg"

@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Emeryville"
+location: [37.841934, -122.289404]
 founded: 2012
 founders: "David Batstone"
 featured_image: "rebble logo.png"

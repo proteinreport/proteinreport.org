@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Accelerator]
 country: "Spain"
-country_code: ES
+country_code: "ES"
 city: "Madrid"
+location: [40.448949, -3.669474]
 founded: 2015
 founders: "José Luis Cabañero"
 featured_image: "ea.png"

@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "El Segundo"
+location: [33.916989, -118.414937]
 founded: 2009
 founders: "Ethan Brown"
 featured_image: "Beyond_Meat_logo.png"

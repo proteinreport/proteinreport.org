@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Seattle"
+location: [47.65065, -122.379004]
 founded: 2008
 founders: "Alexandre Zanghellini, Daniela Grabs, Eric Althoff"
 featured_image: "arzeda.jpg"

@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.515053, -0.099034]
 founded: 2019
 founders: "Jim Mellon"
 featured_image: "cropped-AGRONOMICS-LOGO-300x0-c-default.png"

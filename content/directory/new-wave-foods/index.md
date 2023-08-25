@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Stamford"
+location: [41.05343, -73.538734]
 founded: 
 founders: ""
 featured_image: "nwf_logo_horiz_tag_tm.png"

@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Toronto"
+location: [43.653226, -79.383184]
 founded: 2021
 founders: "Fei Luo"
 featured_image: "liven-logo-small.png"

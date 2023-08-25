@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Davis"
+location: [38.544907, -121.740517]
 founded: 2019
 founders: "Kathryn Cook, Douglas Cook"
 featured_image: "NucicerLogo_0.png"

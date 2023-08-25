@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Berkeley"
+location: [37.857912, -122.292303]
 founded: 2018
 founders: "Eitan Fischer, David Bowman"
 featured_image: "Logobig_0.png"

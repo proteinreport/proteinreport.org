@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Davis"
+location: [38.544907, -121.740517]
 founded: 2017
 founders: "Anita Broellochs"
 featured_image: "balletic1_0.png"

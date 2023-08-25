@@ -9,8 +9,9 @@ products: []
 business: [Research, Nonprofit]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.513379, -0.15561]
 founded: 2015
 founders: "Jeremy Coller Foundation"
 featured_image: "fairr-logo.jpg"

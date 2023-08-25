@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Sebastopol"
+location: [38.399254, -122.839181]
 founded: 2016
 founders: "Darren Racusen"
 featured_image: "JewelsOfTheForestLogo.jpg"

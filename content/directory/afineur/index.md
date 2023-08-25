@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: ""
+location: [40.687325, -73.991247]
 founded: 2014
 founders: "Camille Delebecque, Sophie Deterre"
 featured_image: "Afineur logo.png"

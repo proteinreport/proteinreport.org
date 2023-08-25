@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: ""
+location: [40.678178, -73.944158]
 founded: 2013
 founders: "Anita Shepherd"
 featured_image: "anita's yogurt logo.jpg"

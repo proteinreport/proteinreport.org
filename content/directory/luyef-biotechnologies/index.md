@@ -9,8 +9,9 @@ products: [Cell Culture Media]
 business: [Production]
 finance_type: []
 country: "Chile"
-country_code: CL
+country_code: "CL"
 city: "Santiago"
+location: [-33.44889, -70.669265]
 founded: 2019
 founders: "Kris Blanchard Tapia, Maria Soledad Gutiérrez, Randall Cossio"
 featured_image: "LUYEF2 LOGO.jpg"

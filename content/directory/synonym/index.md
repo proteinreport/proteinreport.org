@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Production, Finance]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "New York"
+location: [40.712775, -74.005973]
 founded: 2021
 founders: "Edward Shenderovich, Joshua Lachter"
 featured_image: "Synonym-Logo-Black.png"

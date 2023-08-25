@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Amsterdam"
+location: [52.393614, 4.910333]
 founded: 2012
 founders: "Mark Kulsdom, Lisette Kreischer"
 featured_image: "the dutch weed burger.jpg"

@@ -9,8 +9,9 @@ products: [Meat, Dairy]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Montréal"
+location: [45.535987, -73.616086]
 founded: 2014
 founders: ""
 featured_image: "Gusta Artisanal logo.png"

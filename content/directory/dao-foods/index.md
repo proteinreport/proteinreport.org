@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital, Incubator]
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Toronto"
+location: [43.656304, -79.399105]
 founded: 2017
 founders: "Albert Tseng, Tao Zhang"
 featured_image: "dao foods logo.png"

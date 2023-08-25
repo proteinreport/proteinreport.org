@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.459966, -0.212585]
 founded: 2018
 founders: "Benjamina Bollag, Stephanie Wallis"
 featured_image: "higher_steaks_logo_0.jpg"

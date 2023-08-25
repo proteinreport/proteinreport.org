@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Orlando"
+location: [28.538335, -81.379237]
 founded: 1919
 founders: "Christopher Morini, Albert Morini"
 featured_image: "morini brands logo.png"

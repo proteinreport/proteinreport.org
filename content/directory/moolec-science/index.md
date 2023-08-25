@@ -9,8 +9,9 @@ products: [Dairy, Ingredients]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Warwick"
+location: [52.275538, -1.563864]
 founded: 2020
 founders: "Martín Salinas, Gastón Paladini, Henk Hoogenkamp"
 featured_image: "Moolec Science - Logo 3.png"

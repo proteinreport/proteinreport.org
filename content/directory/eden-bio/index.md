@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Research]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.513865, -0.222706]
 founded: 2022
 founders: "Christopher Reynolds"
 featured_image: "edenbio.png"

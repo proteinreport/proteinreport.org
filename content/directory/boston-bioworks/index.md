@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production, Research]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boston"
+location: [42.360082, -71.05888]
 founded: 2022
 founders: "Michael Tai, Mert Sahin, Ted Netland"
 featured_image: "1655927528912.jpg"

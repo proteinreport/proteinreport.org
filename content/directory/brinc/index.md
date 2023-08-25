@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Accelerator]
 country: "Hong Kong SAR China"
-country_code: HK
+country_code: "HK"
 city: ""
+location: [22.283517, 114.151631]
 founded: 2014
 founders: "Manav Gupta, Bay McLaughlin, Bashar Aboudaoud"
 featured_image: "brinc_logo_final+(1).png"

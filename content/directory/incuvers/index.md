@@ -9,8 +9,9 @@ products: [Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Ottawa"
+location: [45.409686, -75.728026]
 founded: 2018
 founders: "Sebastian Hadjiantoniou. Andrew Pelling"
 featured_image: "Incuvers logo.png"

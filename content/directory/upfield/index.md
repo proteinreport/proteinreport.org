@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Amsterdam"
+location: [52.344176, 4.917771]
 founded: 2018
 founders: ""
 featured_image: "640px-Upfield_logo.svg.png"

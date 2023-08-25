@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Singapore"
-country_code: SG
+country_code: "SG"
 city: "Singapore"
+location: [1.30661, 103.862661]
 founded: 2018
 founders: "Blair D S Crichton, Daniel Riegler"
 featured_image: "karana.png"

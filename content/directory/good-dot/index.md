@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "India"
-country_code: IN
+country_code: "IN"
 city: "Udaipur"
+location: [24.609979, 73.726599]
 founded: 2016
 founders: "Stephanie Downs"
 featured_image: "Good dot logo.jpg"

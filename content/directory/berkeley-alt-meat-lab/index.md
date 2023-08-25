@@ -9,8 +9,9 @@ products: []
 business: [Research, Nonprofit]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Berkeley"
+location: [37.871124, -122.251884]
 founded: 
 founders: ""
 featured_image: "Alt.MeatLogo2.0.png"

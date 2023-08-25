@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Berkeley"
+location: [37.871523, -122.273042]
 founded: 2020
 founders: "Darko Mandich, Aaron Schaller"
 featured_image: "logo_0.png"

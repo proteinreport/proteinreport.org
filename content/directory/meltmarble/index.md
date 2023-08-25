@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "Sweden"
-country_code: SE
+country_code: "SE"
 city: "Göteborg"
+location: [57.70887, 11.97456]
 founded: 2014
 founders: "Anastasia Krivoruchko, Florian David, Jens Nielsen"
 featured_image: "mm.png"

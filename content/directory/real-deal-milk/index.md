@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Spain"
-country_code: ES
+country_code: "ES"
 city: "Barcelona"
+location: [41.388429, 2.171998]
 founded: 2021
 founders: "Zoltan Toth-Czifra"
 featured_image: "blue-transparent-logo.png"

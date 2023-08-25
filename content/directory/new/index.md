@@ -9,8 +9,9 @@ products: [Meat, Seafood]
 business: [Production]
 finance_type: []
 country: "Brazil"
-country_code: BR
+country_code: "BR"
 city: ""
+location: [-23.543179, -46.629185]
 founded: 2019
 founders: "Bruno Fonseca, Mariana Nakaie, Nessim Abadi"
 featured_image: "Logo-1.png"

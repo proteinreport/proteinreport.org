@@ -9,8 +9,9 @@ products: [Meat, Seafood, Ingredients]
 business: [Production]
 finance_type: []
 country: "Singapore"
-country_code: SG
+country_code: "SG"
 city: "Singapore"
+location: [1.343951, 103.885744]
 founded: 2021
 founders: "A*STAR Singapore"
 featured_image: "audra.png"

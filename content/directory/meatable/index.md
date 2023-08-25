@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Delft"
+location: [52.015963, 4.339377]
 founded: 2018
 founders: "Krijn de Nood, Daan Luining, Mark Kotter"
 featured_image: "Meatble-transp.temp_.png"

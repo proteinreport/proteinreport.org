@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Rehovot"
+location: [31.910224, 34.807168]
 founded: 2018
 founders: "Eshchar Ben Shitrit"
 featured_image: "redefinemeat.png"

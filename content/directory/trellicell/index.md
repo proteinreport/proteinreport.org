@@ -9,8 +9,9 @@ products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
 country: "Austria"
-country_code: AT
+country_code: "AT"
 city: "Graz"
+location: [47.070714, 15.439504]
 founded: 2020
 founders: "Helmut Schwab"
 featured_image: "picture.jpg"

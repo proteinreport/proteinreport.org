@@ -9,8 +9,9 @@ products: [Materials]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.774929, -122.419415]
 founded: 2016
 founders: "Ingvar Helgason, Dr. Dusko Ilic"
 featured_image: "VITROLABS_FAVICON_V1.png"

@@ -9,8 +9,9 @@ products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Sunnyvale"
+location: [37.409398, -121.993111]
 founded: 2009
 founders: "Brian Sefton"
 featured_image: "nn.png"

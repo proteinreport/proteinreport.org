@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "Ireland"
-country_code: IE
+country_code: "IE"
 city: "Dublin 8"
+location: [53.341063, -6.283866]
 founded: 2019
 founders: "Jennifer O Brien"
 featured_image: "plantruption-logo.png"

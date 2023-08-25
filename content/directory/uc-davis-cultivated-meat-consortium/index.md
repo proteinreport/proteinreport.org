@@ -9,8 +9,9 @@ products: [Meat]
 business: [Research, Nonprofit]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: ""
+location: [38.538232, -121.761713]
 founded: 2019
 founders: "David Block, Denneal Jamison-McClung"
 featured_image: "biotech-logo_0.jpg"

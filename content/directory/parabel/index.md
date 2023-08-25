@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Melbourne"
+location: [28.079807, -80.602986]
 founded: 2011
 founders: ""
 featured_image: "cropped-Parabel-Color-Logo-1024x172.png"

@@ -9,8 +9,9 @@ products: [Meat, Dairy, Seafood]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Corby"
+location: [52.492298, -0.684233]
 founded: 1993
 founders: ""
 featured_image: "VBites-2018-Logo_1000px.png"

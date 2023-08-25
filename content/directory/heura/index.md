@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Spain"
-country_code: ES
+country_code: "ES"
 city: "Barcelona"
+location: [41.401111, 2.173098]
 founded: 2017
 founders: "Marc Coloma"
 featured_image: "heura logo.png"

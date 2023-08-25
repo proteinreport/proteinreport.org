@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Broomfield"
+location: [39.913487, -105.105888]
 founded: 1978
 founders: "Steve Demos"
 featured_image: "Silk.jpg"

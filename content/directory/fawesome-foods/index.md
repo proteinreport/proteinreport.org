@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Akron"
+location: [41.081445, -81.519005]
 founded: 
 founders: "David Dellosa, Scott Kessler"
 featured_image: "Fawe some logo.png"

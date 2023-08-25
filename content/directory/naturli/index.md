@@ -9,8 +9,9 @@ products: [Meat, Dairy]
 business: [Production]
 finance_type: []
 country: "Denmark"
-country_code: DK
+country_code: "DK"
 city: "Randers"
+location: [56.484507, 9.907844]
 founded: 1988
 founders: ""
 featured_image: "logo-blue.png"

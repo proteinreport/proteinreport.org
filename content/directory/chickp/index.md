@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Rehovot"
+location: [31.892773, 34.811272]
 founded: 2016
 founders: ""
 featured_image: "ChickP.png"

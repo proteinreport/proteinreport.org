@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.795065, -122.396451]
 founded: 2015
 founders: ""
 featured_image: "plant-based-foods-association.jpg"

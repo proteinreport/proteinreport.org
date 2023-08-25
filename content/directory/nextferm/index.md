@@ -9,8 +9,9 @@ products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Yokne'am Illit"
+location: [32.669805, 35.107021]
 founded: 2013
 founders: "Boaz Noy, Tzafra Cohen"
 featured_image: "NextFerm logo.png"

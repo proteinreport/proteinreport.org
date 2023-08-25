@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "Belgium"
-country_code: BE
+country_code: "BE"
 city: "Antwerpen"
+location: [51.219448, 4.402464]
 founded: 2019
 founders: "Dirk von Heinrichshorst, David Brandes, Eva Sommer"
 featured_image: "POM_M_RGB_Red.png"

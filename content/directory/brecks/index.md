@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Selby"
+location: [53.809956, -0.898062]
 founded: 1992
 founders: ""
 featured_image: "brecks_logo.png"

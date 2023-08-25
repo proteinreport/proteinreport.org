@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Spain"
-country_code: ES
+country_code: "ES"
 city: ""
+location: [39.51603, -0.423017]
 founded: 2003
 founders: ""
 featured_image: "ADM-Biopolis_news_large.png"

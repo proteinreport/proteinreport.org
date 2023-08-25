@@ -9,8 +9,9 @@ products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
 country: "Brazil"
-country_code: BR
+country_code: "BR"
 city: ""
+location: [-19.982719, -43.944908]
 founded: 2017
 founders: "Alana Santos Benz, Lorena Viana Souza, Aline Bruna da Silva, Roberta Ferreira Viana"
 featured_image: "Biomimetic Solutions logo.png"

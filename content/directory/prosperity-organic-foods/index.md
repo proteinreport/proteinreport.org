@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boise"
+location: [43.617679, -116.202399]
 founded: 2008
 founders: "Cygnia Rapp"
 featured_image: "melt-organic-butter.jpg"

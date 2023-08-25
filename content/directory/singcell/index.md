@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Singapore"
-country_code: SG
+country_code: "SG"
 city: "Singapore"
+location: [1.352083, 103.819836]
 founded: 2020
 founders: "Karolis Rosickas, Colby J Colasanto"
 featured_image: "singcell.png"

@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Mateo"
+location: [37.562992, -122.325525]
 founded: 
 founders: ""
 featured_image: "5Z-N331Z.jpg"

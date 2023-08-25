@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Berkeley"
+location: [37.879905, -122.299858]
 founded: 2014
 founders: "Adam Lowry, Neil Renninger"
 featured_image: "ripple-logo-568x320.jpg"

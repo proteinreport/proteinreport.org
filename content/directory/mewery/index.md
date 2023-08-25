@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Czechia"
-country_code: CZ
+country_code: "CZ"
 city: ""
+location: [49.199889, 16.606048]
 founded: 2020
 founders: "Roman Laus"
 featured_image: "2h1JT-9m_400x400.jpg"

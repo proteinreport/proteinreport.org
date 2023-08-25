@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Vancouver"
+location: [49.282729, -123.120738]
 founded: 2020
 founders: "Don Robinson, Patrick Morris"
 featured_image: "EB_logo.jpg"

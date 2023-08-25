@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Petaluma"
+location: [38.230909, -122.600796]
 founded: 1987
 founders: "Andy Berliner, Rachel Berliner"
 featured_image: "Amy's_Kitchen_logo.png"

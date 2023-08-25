@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Garberville"
+location: [40.100083, -123.79492]
 founded: 2013
 founders: "Sundara Clark"
 featured_image: "Vixen-Kitchen-Logo.png"

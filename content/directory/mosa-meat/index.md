@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Maastricht"
+location: [50.832966, 5.715903]
 founded: 2015
 founders: "Peter Verstrate, Mark Post"
 featured_image: "logo-horizontal-def_0.png"

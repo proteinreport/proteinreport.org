@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.507218, -0.127586]
 founded: 2021
 founders: "Eva Tornberg"
 featured_image: "logo_dug_primary_364dc8cf.png"

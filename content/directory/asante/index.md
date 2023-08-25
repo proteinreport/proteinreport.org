@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Mexico"
-country_code: MX
+country_code: "MX"
 city: "Ciudad de México"
+location: [19.348693, -99.162913]
 founded: 2017
 founders: ""
 featured_image: "Asanté+Logo.png"

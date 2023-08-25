@@ -9,8 +9,9 @@ products: [Eggs]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.486351, -0.118769]
 founded: 2018
 founders: "Hannah Carter"
 featured_image: "Oggs logo.png"

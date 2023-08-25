@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Petaluma"
+location: [38.232658, -122.609811]
 founded: 2014
 founders: "Miyoko Schinner"
 featured_image: "miyokos_creamery_360x_logo.png"

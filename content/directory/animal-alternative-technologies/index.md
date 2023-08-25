@@ -9,8 +9,9 @@ products: [Meat, Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Cambridge"
+location: [52.205337, 0.121817]
 founded: 2020
 founders: "Clarisse Beurrier, Yash Mishra"
 featured_image: "1612454136801.jpg"

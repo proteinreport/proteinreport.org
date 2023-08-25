@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Los Angeles"
+location: [34.045349, -118.551512]
 founded: 2018
 founders: "Matt Feldman"
 featured_image: "Moku foods logo.jpg"

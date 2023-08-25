@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.493314, -0.168964]
 founded: 2018
 founders: "Sebastian Kulczyk"
 featured_image: "logo.png"

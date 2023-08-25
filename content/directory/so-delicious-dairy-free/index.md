@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Denver"
+location: [39.750288, -104.995207]
 founded: 
 founders: ""
 featured_image: "SoDelicious_Logo.png"

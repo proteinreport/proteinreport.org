@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Oxford"
+location: [51.752021, -1.257726]
 founded: 2019
 founders: "Cathy Ye, Russ Tucker"
 featured_image: "1621008975071.jpg"

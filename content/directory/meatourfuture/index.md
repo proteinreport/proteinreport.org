@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "South Africa"
-country_code: ZA
+country_code: "ZA"
 city: "Pretoria"
+location: [-25.747868, 28.229271]
 founded: 2021
 founders: ""
 featured_image: "WhatsApp-Image-2021-06-08-at-07.52.40.jpg"

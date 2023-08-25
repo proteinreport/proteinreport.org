@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Dallas"
+location: [32.797464, -96.801819]
 founded: 2013
 founders: "Jeff Richards"
 featured_image: "Mooala_Logo-1.png"

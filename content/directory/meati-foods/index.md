@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boulder"
+location: [40.016827, -105.268486]
 founded: 
 founders: ""
 featured_image: "Meati_Logo_Revised_Final_V3_Clean.png"

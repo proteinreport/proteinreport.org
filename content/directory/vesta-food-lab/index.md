@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "China"
-country_code: CN
+country_code: "CN"
 city: ""
+location: [39.9042, 116.407396]
 founded: 2019
 founders: "Zihan Xie"
 featured_image: "20201023847.png"

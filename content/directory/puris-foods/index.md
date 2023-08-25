@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Minneapolis"
+location: [44.979487, -93.290115]
 founded: 
 founders: ""
 featured_image: "Puris logo.png"

@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Philadelphia"
+location: [39.952584, -75.165222]
 founded: 2019
 founders: "Andrew Pelling, Orkan Telhan, Grace Knight"
 featured_image: "ouro chef logo-150x150.png"

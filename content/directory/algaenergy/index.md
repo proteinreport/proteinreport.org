@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Spain"
-country_code: ES
+country_code: "ES"
 city: "Alcobendas"
+location: [40.514902, -3.656264]
 founded: 
 founders: ""
 featured_image: "alga-energy logo.png"

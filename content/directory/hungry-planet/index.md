@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "St. Louis"
+location: [38.626713, -90.481172]
 founded: 2016
 founders: "Todd Boyman, Jody Boyman"
 featured_image: "hp-logo.png"

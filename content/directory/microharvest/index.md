@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Hamburg"
+location: [53.548828, 9.98717]
 founded: 2021
 founders: "Katelijne Bekers, Luisa Cruz, Jonathan Roberz"
 featured_image: "H8SvOy1l_400x400.jpg"

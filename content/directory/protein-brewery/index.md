@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Breda"
+location: [51.59527, 4.797222]
 founded: 2019
 founders: "Wim de Laat"
 featured_image: "The Protein Brewery logo.jpg"

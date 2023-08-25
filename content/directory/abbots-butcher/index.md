@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Costa Mesa"
+location: [33.663844, -117.904743]
 founded: 2016
 founders: "Kerry Song"
 featured_image: "abbots-butcher-logo.png"

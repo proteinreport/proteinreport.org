@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Chicago"
+location: [41.806677, -87.667976]
 founded: 2018
 founders: "Leonard Lerer"
 featured_image: "Back of the Yards algae sciences Logo.png"

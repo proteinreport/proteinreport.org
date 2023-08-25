@@ -9,8 +9,9 @@ products: []
 business: []
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Nettetal"
+location: [51.28654, 6.30477]
 founded: 1998
 founders: "Peter Welters"
 featured_image: "phytowelt logo.png"

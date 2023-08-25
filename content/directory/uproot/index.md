@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Providence"
+location: [41.823989, -71.412834]
 founded: 
 founders: "Jacob Conway, Kevin Eve"
 featured_image: "Uproot milk logo.jpg"

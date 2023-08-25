@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: ""
-country_code: 
+country_code: ""
 city: ""
+location: []
 founded: 2021
 founders: "Lizanne Falsetto"
 featured_image: "betterland_logo_black-1920w.png"

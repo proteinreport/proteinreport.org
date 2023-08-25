@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.496334, -0.169543]
 founded: 2022
 founders: "Pierre Dupuis"
 featured_image: "Adamo logo - transparent.png"

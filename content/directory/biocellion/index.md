@@ -9,8 +9,9 @@ products: [Ingredients, Technology & Equipment]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Seattle"
+location: [47.642986, -122.301234]
 founded: 2013
 founders: "Simon Kahan"
 featured_image: "biocellion logo.png"

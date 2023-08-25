@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boston"
+location: [42.351303, -71.077115]
 founded: 2005
 founders: "Santo Politi, Todd Dagres"
 featured_image: "spark logo.jpg"

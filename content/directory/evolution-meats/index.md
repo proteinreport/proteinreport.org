@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Putten"
+location: [52.258676, 5.605373]
 founded: 2018
 founders: ""
 featured_image: "Evolution meats logo.jpg"

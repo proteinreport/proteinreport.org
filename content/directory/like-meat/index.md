@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Düsseldorf"
+location: [51.214138, 6.752896]
 founded: 2013
 founders: "Timo Recker"
 featured_image: "LM_Logo-NEU_RGB_800PIX_082017.png"

@@ -9,8 +9,9 @@ products: [Ingredients]
 business: []
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Mannheim"
+location: [49.503556, 8.494723]
 founded: 2015
 founders: ""
 featured_image: "imageedit_1_8794196508_0.png"

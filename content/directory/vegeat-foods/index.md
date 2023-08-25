@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Mirabel"
+location: [45.651896, -74.09017]
 founded: 
 founders: ""
 featured_image: "vegeat-logo-wh.png"

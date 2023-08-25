@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Ede"
+location: [52.030544, 5.675761]
 founded: 2019
 founders: "Birgit Dekkers, Ernst Bree"
 featured_image: "Rival foods logo.jpg"

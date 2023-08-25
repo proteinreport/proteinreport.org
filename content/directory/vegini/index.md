@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Austria"
-country_code: AT
+country_code: "AT"
 city: ""
+location: [48.119817, 14.961321]
 founded: 
 founders: "Dipl.-Ing. (FH) Andreas Gebhart, Johann Tanzer"
 featured_image: "vegini-logo_0.png"

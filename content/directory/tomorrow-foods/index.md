@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Argentina"
-country_code: AR
+country_code: "AR"
 city: "Pergamino"
+location: [-33.899992, -60.575476]
 founded: 2018
 founders: "Guillermo Daniel Lentini, Gonzalo M. Segovia"
 featured_image: "tomorrow foods logo-cortado.png"

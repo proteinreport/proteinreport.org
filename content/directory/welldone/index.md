@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Russia"
-country_code: RU
+country_code: "RU"
 city: "Moskva"
+location: [55.755826, 37.6173]
 founded: 2020
 founders: "Alexander Kiselev"
 featured_image: "welldone.png"

@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Exeter"
+location: [50.718412, -3.533899]
 founded: 2019
 founders: "Cesar Torres"
 featured_image: "New_Logo_Black_Background.png"

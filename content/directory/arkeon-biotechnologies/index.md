@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Austria"
-country_code: AT
+country_code: "AT"
 city: "Tulln an der Donau"
+location: [48.331495, 16.060737]
 founded: 2021
 founders: "Simon Rittman, Guenther Bochmann, Gregor Tegl"
 featured_image: "Logo - 3-Symbol - black.png"

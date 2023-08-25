@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Sweden"
-country_code: SE
+country_code: "SE"
 city: "Stockholm"
+location: [59.34143, 18.064203]
 founded: 2019
 founders: "Soroush Tavakoli, Anja Leissner"
 featured_image: "stockeld_logo.png"

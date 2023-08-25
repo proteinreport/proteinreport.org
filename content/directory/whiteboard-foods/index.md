@@ -9,8 +9,9 @@ products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Ottawa"
+location: [45.42153, -75.697193]
 founded: 2019
 founders: "Charles M. Cuerrier"
 featured_image: "1598575338575.jpg"

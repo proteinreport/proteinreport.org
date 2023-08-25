@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "China"
-country_code: CN
+country_code: "CN"
 city: ""
+location: [39.904211, 116.407395]
 founded: 2018
 founders: "Christiana Zhu, Athena Zhu"
 featured_image: "Marvelous+Foods+logo+-+Long.png"

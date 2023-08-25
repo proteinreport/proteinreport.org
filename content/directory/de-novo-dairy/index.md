@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "South Africa"
-country_code: ZA
+country_code: "ZA"
 city: "Cape Town"
+location: [-33.926536, 18.446085]
 founded: 2020
 founders: "Leah Bessa, Jean Louwrens, Richard Grieves, Joni Symon"
 featured_image: "KzRWCOdz_400x400.jpg"

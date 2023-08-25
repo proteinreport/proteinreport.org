@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boulder"
+location: [40.019597, -105.240649]
 founded: 2011
 founders: "Annie Ryu"
 featured_image: "the-jackfruit-company.png"

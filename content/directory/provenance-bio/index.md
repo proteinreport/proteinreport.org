@@ -9,8 +9,9 @@ products: [Meat, Ingredients, Scaffolding & Structure, Materials]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.758851, -122.390931]
 founded: 2020
 founders: "Michalyn Andrews, Dr. Zev Gartner PhD, Dr. John Dueber, PhD, Christian Ewton"
 featured_image: "Provenance Bio logo icon.png"

@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Hermosa Beach"
+location: [33.859776, -118.39911]
 founded: 2015
 founders: "Mark Rampolla, Kevin Boylan, T.K. Pillan"
 featured_image: "Powerplant ventures logo.png"

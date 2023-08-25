@@ -9,8 +9,9 @@ products: [Pet Food]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Berkeley"
+location: [37.853356, -122.291206]
 founded: 2017
 founders: "Ryan Bethencourt"
 featured_image: "wildearth logo.png"

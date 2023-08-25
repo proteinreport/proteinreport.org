@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Milton Keynes"
+location: [52.039854, -0.678309]
 founded: 2002
 founders: "Jane Rayner"
 featured_image: "Gosh logo.jpg"

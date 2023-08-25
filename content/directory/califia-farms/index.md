@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Los Angeles"
+location: [34.04045, -118.23186]
 founded: 2010
 founders: "Greg Steltenpohl"
 featured_image: "califia-logo-brown_2x_.png"

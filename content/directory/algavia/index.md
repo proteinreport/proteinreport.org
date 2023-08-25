@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Amsterdam"
+location: [52.366697, 4.89454]
 founded: 2003
 founders: ""
 featured_image: "AlgiaVia-logo-720x340.png"

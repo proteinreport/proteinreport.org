@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Netherlands"
-country_code: NL
+country_code: "NL"
 city: "Amsterdam"
+location: [52.393831, 4.867677]
 founded: 
 founders: "Willem Sodderland"
 featured_image: "seamore-logo.png"

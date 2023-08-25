@@ -9,8 +9,9 @@ products: [Meat, Scaffolding & Structure]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Boston"
+location: [42.360082, -71.05888]
 founded: 2020
 founders: "Christophe Chantre"
 featured_image: "31847_8939_Tender_Logo_Primary+Navy.png"

@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Raleigh"
+location: [35.77959, -78.638179]
 founded: 2020
 founders: "Stephanie Michelsen, Kylie Hesp"
 featured_image: "1603305692988.jpg"

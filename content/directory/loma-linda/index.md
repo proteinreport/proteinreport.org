@@ -9,8 +9,9 @@ products: [Meat, Seafood]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Nashville"
+location: [35.972125, -77.985794]
 founded: 1905
 founders: ""
 featured_image: "LomaLinda-Blue-Box-logo_Traditions.png"

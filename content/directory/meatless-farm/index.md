@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Leeds"
+location: [53.795283, -1.537741]
 founded: 2016
 founders: "Morten Toft Bech"
 featured_image: "mf.png"

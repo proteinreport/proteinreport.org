@@ -9,8 +9,9 @@ products: [Cell Culture Media]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Edmonton"
+location: [53.546124, -113.493823]
 founded: 2017
 founders: "Matthew Anderson-Baron, Lejjy Gafour, Jalene Anderson-Baron"
 featured_image: "Future Fields_0.png"

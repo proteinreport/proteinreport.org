@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Santa Monica"
+location: [34.019454, -118.491191]
 founded: 2016
 founders: "Dave Anderson"
 featured_image: "outstanding-foods-809.jpg"

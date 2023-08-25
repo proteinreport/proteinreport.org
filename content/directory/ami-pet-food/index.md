@@ -9,8 +9,9 @@ products: [Pet Food]
 business: [Production]
 finance_type: []
 country: "Italy"
-country_code: IT
+country_code: "IT"
 city: "Abano Terme"
+location: [45.347721, 11.819647]
 founded: 
 founders: ""
 featured_image: "ami-logo.png"

@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Winnipeg"
+location: [49.895136, -97.138374]
 founded: 2019
 founders: "Ryan Bracken, Barry Tomiski"
 featured_image: "Merit_Logo_Full-Color_highres.jpg"

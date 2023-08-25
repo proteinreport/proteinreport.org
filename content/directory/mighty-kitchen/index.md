@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Cyprus"
-country_code: CY
+country_code: "CY"
 city: "Larnaca"
+location: [34.900253, 33.623172]
 founded: 2018
 founders: "George Vou, Louiza Sophocleous"
 featured_image: "mightykitchen.jpg"

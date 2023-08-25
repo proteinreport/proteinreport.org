@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Aiken"
+location: [33.542514, -81.715372]
 founded: 2016
 founders: "Elizabeth Fisher"
 featured_image: "lavva logo.jpg"

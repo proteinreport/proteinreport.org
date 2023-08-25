@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Belgium"
-country_code: BE
+country_code: "BE"
 city: "Gent"
+location: [51.054342, 3.717424]
 founded: 1980
 founders: ""
 featured_image: "alpro.png"

@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Lynnfield"
+location: [42.509598, -71.034269]
 founded: 
 founders: ""
 featured_image: "planetoatmilk_640.png"

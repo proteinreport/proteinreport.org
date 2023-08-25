@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital, Accelerator]
 country: "Australia"
-country_code: AU
+country_code: "AU"
 city: "Docklands"
+location: [-37.819912, 144.950392]
 founded: 2011
 founders: "Niki Scevak"
 featured_image: "startmate.jpg"

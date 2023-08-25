@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Cincinnati"
+location: [39.170857, -84.512602]
 founded: 2006
 founders: "Valerie Williams"
 featured_image: "Foodies+Logo+copy+small.png"

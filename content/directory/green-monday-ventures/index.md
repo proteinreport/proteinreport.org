@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "Hong Kong SAR China"
-country_code: HK
+country_code: "HK"
 city: ""
+location: [22.320631, 114.210165]
 founded: 2012
 founders: "David Yeung"
 featured_image: "green-monday-logo-2.png"

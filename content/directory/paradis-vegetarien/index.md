@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Montréal"
+location: [45.523335, -73.580942]
 founded: 2000
 founders: ""
 featured_image: "Paradis Vegetarien logo.png"

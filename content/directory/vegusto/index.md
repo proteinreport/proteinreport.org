@@ -9,8 +9,9 @@ products: [Meat, Dairy]
 business: [Production]
 finance_type: []
 country: "Switzerland"
-country_code: CH
+country_code: "CH"
 city: "Egnach"
+location: [47.531645, 9.372135]
 founded: 1997
 founders: ""
 featured_image: "Vegusto-Logo-300-dpi_copy_550x.png"

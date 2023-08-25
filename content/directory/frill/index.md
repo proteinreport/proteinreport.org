@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.519522, -0.206332]
 founded: 
 founders: ""
 featured_image: "Frill ice cream logo.png"

@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Japan"
-country_code: JP
+country_code: "JP"
 city: "Osaka"
+location: [34.694846, 135.518685]
 founded: 2020
 founders: "Jiro Ohno"
 featured_image: "dfc.jpg"

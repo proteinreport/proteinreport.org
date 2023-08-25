@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Thailand"
-country_code: TH
+country_code: "TH"
 city: ""
+location: [13.669674, 100.606284]
 founded: 2019
 founders: "Siripen Suntornmonkongsri, Napatrapee Luengsakul, Tongchai Puttongsiri"
 featured_image: "logo_0.png"

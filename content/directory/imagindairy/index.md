@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Nesher"
+location: [32.7649, 35.049191]
 founded: 2020
 founders: "Eyal Afergan"
 featured_image: "1601666596330.jpg"

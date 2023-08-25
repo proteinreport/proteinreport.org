@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "Canada"
-country_code: CA
+country_code: "CA"
 city: "Regina"
+location: [50.445211, -104.618894]
 founded: 
 founders: ""
 featured_image: "pic.jpg"

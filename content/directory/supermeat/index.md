@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: "Tel Aviv-Yafo"
+location: [32.0853, 34.781768]
 founded: 2015
 founders: "Ido Savir, Koby Barak, Shir Friedman"
 featured_image: "SuperMeat logo.png"

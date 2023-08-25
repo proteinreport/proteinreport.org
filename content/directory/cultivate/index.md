@@ -9,8 +9,9 @@ products: []
 business: [Nonprofit]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "London"
+location: [51.507351, -0.127758]
 founded: 2016
 founders: "Illtud Dunsford, Marianne Ellis, Abigail Glencross, Alexandra Sexton, Neil Stephens"
 featured_image: "Cultivate.jpg"

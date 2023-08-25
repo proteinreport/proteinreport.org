@@ -9,8 +9,9 @@ products: [Dairy, Eggs]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Los Angeles"
+location: [34.201212, -118.603881]
 founded: 1970
 founders: "Michael Besançon, Bob Goldberg, Paul Lewin, Spencer Windbiel"
 featured_image: "follow-your-heart_logo.png"

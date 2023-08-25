@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Portland"
+location: [45.505106, -122.675026]
 founded: 2010
 founders: "Heidi Lovig, Lyssa Story"
 featured_image: "HH_Logo-TagDark-CharacterGrey_700.png"

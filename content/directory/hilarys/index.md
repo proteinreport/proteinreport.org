@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Lawrence"
+location: [38.944109, -95.223856]
 founded: 2010
 founders: "Hilary Brown"
 featured_image: "Hilary_s_Eat_Well_Logo_3fcfd74a-1b1e-4f45-b1df-d02edf5b0232_300x@2x.png"

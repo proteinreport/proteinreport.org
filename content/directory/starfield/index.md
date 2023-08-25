@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "China"
-country_code: CN
+country_code: "CN"
 city: "Shenzhen Shi"
+location: [22.543096, 114.057865]
 founded: 2017
 founders: ""
 featured_image: "logo_0.png"

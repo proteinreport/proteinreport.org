@@ -9,8 +9,9 @@ products: [Scaffolding & Structure]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Green Island"
+location: [42.753047, -73.695351]
 founded: 
 founders: "Ecovative Design"
 featured_image: "excell-cap-white.png"

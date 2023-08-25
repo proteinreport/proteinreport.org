@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "South San Francisco"
+location: [37.65319, -122.418411]
 founded: 2021
 founders: "Peng Xu, Yulin Lu"
 featured_image: "Yali_logo.jpg"

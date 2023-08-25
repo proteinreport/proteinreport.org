@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Palm Beach Gardens"
+location: [26.809751, -80.087059]
 founded: 
 founders: "Fabian Breisinger, Nicole Breisinger, Oliver Schnekmann"
 featured_image: "sunflower family logo.jpg"

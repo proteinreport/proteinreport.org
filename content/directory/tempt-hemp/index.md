@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Portland"
+location: [45.505106, -122.675026]
 founded: 2002
 founders: "Hudson River Foods"
 featured_image: "tempt.jpg"

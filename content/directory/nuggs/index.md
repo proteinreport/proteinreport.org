@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Denver"
+location: [39.740413, -104.928]
 founded: 
 founders: ""
 featured_image: "nuggs logo.jpg"

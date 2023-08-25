@@ -9,8 +9,9 @@ products: [Meat, Ingredients]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Uxbridge"
+location: [51.548257, -0.476728]
 founded: 2019
 founders: "Alexandra Longton"
 featured_image: "tiba.jpg"

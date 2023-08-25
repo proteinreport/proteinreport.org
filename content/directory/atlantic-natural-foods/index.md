@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Nashville"
+location: [35.972125, -77.985794]
 founded: 
 founders: ""
 featured_image: "anf-logo.jpg"

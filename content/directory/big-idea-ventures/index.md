@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital, Accelerator]
 country: "United States"
-country_code: US
+country_code: "US"
 city: "New York"
+location: [40.705669, -74.006096]
 founded: 2018
 founders: "Andrew Ive"
 featured_image: "biv.png"

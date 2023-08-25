@@ -9,8 +9,9 @@ products: [Ingredients, Feed]
 business: [Production]
 finance_type: []
 country: "United Kingdom"
-country_code: GB
+country_code: "GB"
 city: "Nottingham"
+location: [52.92531, -1.195066]
 founded: 2018
 founders: "Peter Rowe, Rob Mansfield"
 featured_image: "Deep Branch download.png"

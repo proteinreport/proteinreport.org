@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Research]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "San Francisco"
+location: [37.775591, -122.398012]
 founded: 2017
 founders: "Jim Flatt, Sofia Elizondo, Lee Chae"
 featured_image: "brightseed_logo-1.png"

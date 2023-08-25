@@ -9,8 +9,9 @@ products: []
 business: [Finance]
 finance_type: [Venture Capital]
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Berlin"
+location: [52.532039, 13.411456]
 founded: 2012
 founders: "Gary Lin"
 featured_image: "POV+logo+light.png"

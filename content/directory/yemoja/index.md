@@ -9,8 +9,9 @@ products: [Ingredients]
 business: [Production]
 finance_type: []
 country: "Israel"
-country_code: IL
+country_code: "IL"
 city: ""
+location: [33.163984, 35.631419]
 founded: 2017
 founders: "Amikam Bar-gil, Erez Ashkenazi, Moshe Avron"
 featured_image: "yemoja-grn.png"

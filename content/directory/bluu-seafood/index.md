@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "Germany"
-country_code: DE
+country_code: "DE"
 city: "Berlin"
+location: [52.532041, 13.411112]
 founded: 2020
 founders: "Sebastian Rakers, Simon Fabich"
 featured_image: "Logo Bluu Seafood_bluu.darkblue.jpg"

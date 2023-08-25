@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Indio"
+location: [33.727588, -116.227388]
 founded: 2013
 founders: "John-Charles Hanley, Stephen Williamson"
 featured_image: "Forager-Project.jpg"

@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "Singapore"
-country_code: SG
+country_code: "SG"
 city: "Singapore"
+location: [1.352083, 103.819836]
 founded: 2019
 founders: "Fengru Lin, Mkulima Britt, Max Rye"
 featured_image: "turtle free labs - logo.png"

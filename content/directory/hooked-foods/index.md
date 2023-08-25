@@ -9,8 +9,9 @@ products: [Seafood]
 business: [Production]
 finance_type: []
 country: "Sweden"
-country_code: SE
+country_code: "SE"
 city: "Nacka"
+location: [59.317652, 18.202013]
 founded: 2019
 founders: "Tom Johansson, Emil Wasteson, Zhihao Liu"
 featured_image: "hooked.jpg"

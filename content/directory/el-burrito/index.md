@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "City of Industry"
+location: [34.024357, -117.976151]
 founded: 1980
 founders: "Mark Roth, Grace Roth"
 featured_image: "El Burito Mexican Food Products logo.png"

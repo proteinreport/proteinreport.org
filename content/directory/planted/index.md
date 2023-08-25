@@ -9,8 +9,9 @@ products: [Meat]
 business: [Production]
 finance_type: []
 country: "Switzerland"
-country_code: CH
+country_code: "CH"
 city: "Lindau"
+location: [47.449373, 8.703682]
 founded: 2019
 founders: "Pascal Bieri, Eric Stirnemann"
 featured_image: "planted-logo-pantone_nobar_3400x.png"

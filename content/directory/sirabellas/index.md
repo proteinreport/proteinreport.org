@@ -9,8 +9,9 @@ products: [Dairy]
 business: [Production]
 finance_type: []
 country: "United States"
-country_code: US
+country_code: "US"
 city: "Saddle Brook"
+location: [40.904009, -74.100732]
 founded: 2014
 founders: "Avi Strauss, Marc Sirabella"
 featured_image: "sirabella's logo.png"
