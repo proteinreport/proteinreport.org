@@ -4,7 +4,7 @@ const API_KEY = process.env.MAILERLITE_PRODUCTION_API_KEY;
 const BASE_URL = process.env.MAILERLITE_PRODUCTION_BASE_API_URL;
 const GROUP_ID = process.env.MAILERLITE_PRODUCTION_NEWSLETTER_GROUP_ID;
 
-exports.handler = async function(event) {
+async function handler(event: any) {
   if (!event.body) {
     return;
   }
@@ -34,11 +34,13 @@ exports.handler = async function(event) {
         message: "Subscriber successfully created and added to group",
       }),
     };
-  } catch (error) {
+  } catch (error: any) {
     console.log(error);
     return {
       statusCode: 500,
       body: JSON.stringify(error),
     };
   }
-};
+}
+
+export { handler };
