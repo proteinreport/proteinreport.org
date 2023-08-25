@@ -9,32 +9,29 @@ exports.handler = async function(event, context) {
       };
     }
 
-    const { email } = JSON.parse(event.body);
+    const { email, formName } = JSON.parse(event.body);
 
-    if (!email) {
+    if (!email || !formName || formName !== 'newsletter') {
       return {
         statusCode: 400,
-        body: JSON.stringify({ message: 'Missing email in request body' })
+        body: JSON.stringify({ message: 'Invalid request' })
       };
     }
 
-    const MAILJET_API_KEY = process.env.MJ_API_KEY;
-    const MAILJET_SECRET_KEY = process.env.MJ_SECRET_KEY;
-    const MAILJET_LIST_ID = process.env.MJ_LIST_ID;
+    const MAILERLITE_API_KEY = process.env.MAILERLITE_API_KEY;
+    const BASE_URL = process.env.MAILERLITE_PRODUCTION_BASE_API_URL;
+    const GROUP_ID = process.env.MAILERLITE_PRODUCTION_NEWSLETTER_GROUP_ID;
 
     const response = await axios.post(
-      `https://api.mailjet.com/v3/REST/contactslist/${MAILJET_LIST_ID}/managecontact`,
+      BASE_URL + 'api/subscribers',
       {
-        Email: email,
-        Action: 'addnoforce'
+        email,
+        group_ids: [GROUP_ID] // Replace with your MailerLite group ID(s)
       },
       {
-        auth: {
-          username: MAILJET_API_KEY,
-          password: MAILJET_SECRET_KEY
-        },
         headers: {
-          'Content-Type': 'application/json'
+          'Content-Type': 'application/json',
+          Authorization: 'Bearer ' + MAILERLITE_API_KEY
         }
       }
     );
