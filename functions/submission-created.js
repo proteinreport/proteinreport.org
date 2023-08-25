@@ -9,12 +9,12 @@ exports.handler = async function(event, context) {
       };
     }
 
-    const { email } = JSON.parse(event.body);
+    const { email, formName } = JSON.parse(event.body);
 
-    if (!email) {
+    if (!email || !formName || formName !== 'newsletter') {
       return {
         statusCode: 400,
-        body: JSON.stringify({ message: 'Missing email in request body' })
+        body: JSON.stringify({ message: 'Invalid request' })
       };
     }
 
@@ -23,10 +23,10 @@ exports.handler = async function(event, context) {
     const GROUP_ID = process.env.MAILERLITE_PRODUCTION_NEWSLETTER_GROUP_ID;
 
     const response = await axios.post(
-      '${BASE_URL}api/subscribers',
+      BASE_URL + 'api/subscribers',
       {
         email,
-        group_ids: ${GROUP_ID} // Replace with your MailerLite group ID(s)
+        group_ids: [GROUP_ID] // Replace with your MailerLite group ID(s)
       },
       {
         headers: {
