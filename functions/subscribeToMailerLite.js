@@ -18,8 +18,8 @@ exports.handler = async function(event, context) {
       };
     }
 
-    const MAILERLITE_API_KEY = 'YOUR_MAILERLITE_API_KEY';
-    const MAILERLITE_LIST_ID = 'YOUR_MAILERLITE_LIST_ID';
+    const MAILERLITE_API_KEY = process.env.MAILERLITE_API_KEY;
+    const MAILERLITE_LIST_ID = process.env.MAILERLITE_LIST_ID;
 
     const response = await axios.post(
       `https://api.mailerlite.com/api/v2/groups/${MAILERLITE_LIST_ID}/subscribers`,
