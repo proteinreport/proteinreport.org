@@ -18,7 +18,7 @@ exports.handler = async function(event, context) {
       };
     }
 
-    const MAILERLITE_API_KEY = process.env.MAILERLITE_API_KEY;
+    const MAILERLITE_API_KEY = process.env.MAILERLITE_PRODUCTION_API_KEY;
     const BASE_URL = process.env.MAILERLITE_PRODUCTION_BASE_API_URL;
     const GROUP_ID = process.env.MAILERLITE_PRODUCTION_NEWSLETTER_GROUP_ID;
 
