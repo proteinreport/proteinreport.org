@@ -13,9 +13,6 @@ async function handler(event: any) {
 
   const data = {
     email: email,
-    fields: {
-      name: name,
-    },
     groups: [`${GROUP_ID}`],
   };
 
