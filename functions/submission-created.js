@@ -31,7 +31,7 @@ exports.handler = async function(event, context) {
       {
         headers: {
           'Content-Type': 'application/json',
-          Authorization: `Bearer ${MAILERLITE_API_KEY}`
+          Authorization: 'Bearer ' + MAILERLITE_API_KEY
         }
       }
     );
