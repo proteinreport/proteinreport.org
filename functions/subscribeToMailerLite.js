@@ -1,51 +1,46 @@
-const axios = require('axios');
+const axios = require("axios");
 
-exports.handler = async function(event, context) {
+const API_KEY = process.env.MAILERLITE_PRODUCTION_API_KEY;
+const BASE_URL = process.env.MAILERLITE_PRODUCTION_BASE_API_URL;
+const GROUP_ID = process.env.MAILERLITE_PRODUCTION_NEWSLETTER_GROUP_ID;
+
+async function handler(event: any) {
+  if (!event.body) {
+    return;
+  }
+  const { email, name } = JSON.parse(event.body).payload;
+  const url = `${BASE_URL}/subscribers`;
+
+  const data = {
+    email: email,
+    fields: {
+      name: name,
+    },
+    groups: [`${GROUP_ID}`],
+  };
+
+  const options = {
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${API_KEY}`,
+    },
+  };
+
   try {
-    if (event.httpMethod !== 'POST') {
-      return {
-        statusCode: 405,
-        body: JSON.stringify({ message: 'Method Not Allowed' })
-      };
-    }
-
-    const { email, formName } = JSON.parse(event.body);
-
-    if (!email || !formName || formName !== 'newsletter') {
-      return {
-        statusCode: 400,
-        body: JSON.stringify({ message: 'Invalid request' })
-      };
-    }
-
-    const MAILERLITE_API_KEY = process.env.MAILERLITE_PRODUCTION_API_KEY;
-    const BASE_URL = process.env.MAILERLITE_PRODUCTION_BASE_API_URL;
-    const GROUP_ID = process.env.MAILERLITE_PRODUCTION_NEWSLETTER_GROUP_ID;
-
-    const response = await axios.post(
-      BASE_URL + 'api/subscribers',
-      {
-        email,
-        group_ids: [GROUP_ID] // Replace with your MailerLite group ID(s)
-      },
-      {
-        headers: {
-          'Content-Type': 'application/json',
-          Authorization: 'Bearer ' + MAILERLITE_API_KEY
-        }
-      }
-    );
-
+    await axios.post(url, data, options);
     return {
-      statusCode: response.status,
-      body: JSON.stringify({ message: 'Subscriber added successfully' })
+      statusCode: 201,
+      body: JSON.stringify({
+        message: "Subscriber successfully created and added to group",
+      }),
     };
-  } catch (error) {
-    console.error('Error:', error);
-
+  } catch (error: any) {
+    console.log(error);
     return {
-      statusCode: error.response ? error.response.status : 500,
-      body: JSON.stringify({ message: 'An error occurred' })
+      statusCode: 500,
+      body: JSON.stringify(error),
     };
   }
-};
+}
+
+export { handler };
