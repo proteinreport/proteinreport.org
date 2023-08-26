@@ -1,12 +1,15 @@
-const axios = require('axios');
+  
+ // Get environment variables
+ const { MJ_APIKEY_PUBLIC, MJ_APIKEY_PRIVATE, MJ_LIST_ID } = process.env;
 
-exports.handler = async (event) => {
-  const { email } = JSON.parse(event.body);
+ console.log(MJ_APIKEY_PUBLIC);
 
-  // Get environment variables
-  const { MJ_APIKEY_PUBLIC, MJ_APIKEY_PRIVATE, MJ_LIST_ID } = process.env;
+// const axios = require('axios');
 
-  console.log(MJ_APIKEY_PUBLIC);
+// exports.handler = async (event) => {
+//   const { email } = JSON.parse(event.body);
+
+
 
   // Create the contact in Mailjet
   // try {
@@ -42,4 +45,4 @@ exports.handler = async (event) => {
   //     body: JSON.stringify({ message: 'Failed to add contact to Mailjet' }),
   //   };
   // }
-};
+// };
