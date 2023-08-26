@@ -18,7 +18,7 @@ exports.handler = async (event) => {
       'https://connect.mailerlite.com/api/subscribers',
       {
         email,
-        group_ids: [MAILERLITE_PRODUCTION_NEWSLETTER_GROUP_ID],
+        groups: [MAILERLITE_PRODUCTION_NEWSLETTER_GROUP_ID],
       },
       {
         headers: {
