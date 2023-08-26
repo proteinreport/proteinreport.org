@@ -54,6 +54,48 @@ exports.handler = async (event) => {
       };
     }
   } catch (error) {
+    // If the error indicates the subscriber already exists and is inactive
+    if (error.response && error.response.status === 400 && error.response.data && error.response.data.field === 'email') {
+      try {
+        const response = await axios.get(
+          `https://connect.mailerlite.com/api/subscribers?email=${email}`,
+          {
+            headers: {
+              'Content-Type': 'application/json',
+              Authorization: 'Bearer ' + ML_APIKEY,
+            },
+          }
+        );
+
+        if (response.status === 200 && response.data.length > 0 && response.data[0].status === 0) {
+          // Update the subscriber's status to active
+          const updateResponse = await axios.put(
+            `https://connect.mailerlite.com/api/subscribers/${response.data[0].id}`,
+            {
+              status: 1,
+            },
+            {
+              headers: {
+                'Content-Type': 'application/json',
+                Authorization: 'Bearer ' + ML_APIKEY,
+              },
+            }
+          );
+
+          if (updateResponse.status === 200) {
+            return {
+              statusCode: 200,
+              body: JSON.stringify({
+                message: "Contact added to MailerLite successfully (Subscriber reactivated)",
+              }),
+            };
+          }
+        }
+      } catch (error) {
+        console.error("Error adding contact to MailerLite:", error);
+      }
+    }
+
     console.error("Error adding contact to MailerLite:", error);
 
     return {
