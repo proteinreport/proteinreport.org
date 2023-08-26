@@ -33,11 +33,17 @@ window.onscroll = function() {
 // adapted from
 // https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget/
 const processForm = form => {
-  const data = new FormData(form);
-  data.append('form-name', 'newsletter');
-  fetch('/.netlify/functions/subscribeToMailerLite', { // Change the function endpoint
+  const formData = new FormData(form);
+  const email = formData.get('email'); // Assuming your input field has name="email"
+
+  if (!email) {
+    form.innerHTML = `<div class="form--error">Please enter your email address.</div>`;
+    return;
+  }
+
+  fetch('/.netlify/functions/subscribeToMailerLite', {
     method: 'POST',
-    body: data,
+    body: new URLSearchParams({ email }), // Convert to URLSearchParams
   })
   .then(response => response.json())
   .then(result => {
