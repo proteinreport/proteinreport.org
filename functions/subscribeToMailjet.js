@@ -1,35 +1,43 @@
-const mailjet = require('node-mailjet').connect(
-  process.env.MJ_APIKEY_PUBLIC,
-  process.env.MJ_APIKEY_PRIVATE
-);
+const axios = require('axios');
 
-exports.handler = async (event, context) => {
+exports.handler = async (event) => {
+  const { email } = JSON.parse(event.body);
+
+  // Get environment variables
+  const { MJ_APIKEY_PUBLIC, MJ_APIKEY_PRIVATE, MJ_LIST_ID } = process.env;
+
+  // Create the contact in Mailjet
   try {
-    const { email } = JSON.parse(event.body);
-
-    const request = mailjet.post('contact').request({
-      Email: email
+    const response = await axios.post('https://api.mailjet.com/v3/REST/contact', {
+      IsExcludedFromCampaigns: 'false',
+      Email: email,
+    }, {
+      auth: {
+        username: MJ_APIKEY_PUBLIC,
+        password: MJ_APIKEY_PRIVATE,
+      },
     });
 
-    const response = await request;
-    const contactId = response.body.Data[0].ID;
-
-    const listId = process.env.MJ_LIST_ID;
-    const subscribeRequest = mailjet.post(`listrecipient/${listId}/managecontact`).request({
-      Action: 'addforce',
-      ContactID: contactId
+    // Add the contact to the contact list
+    await axios.post(`https://api.mailjet.com/v3/REST/contactslist/${MJ_LIST_ID}/managecontact`, {
+      Contacts: [{ Email: email }],
+    }, {
+      auth: {
+        username: MJ_APIKEY_PUBLIC,
+        password: MJ_APIKEY_PRIVATE,
+      },
     });
-
-    await subscribeRequest;
 
     return {
       statusCode: 200,
-      body: JSON.stringify({ message: 'Contact added successfully' })
+      body: JSON.stringify({ message: 'Contact added to Mailjet successfully' }),
     };
   } catch (error) {
+    console.error('Error adding contact to Mailjet:', error);
+
     return {
       statusCode: 500,
-      body: JSON.stringify({ error: 'An error occurred' })
+      body: JSON.stringify({ message: 'Failed to add contact to Mailjet' }),
     };
   }
 };
