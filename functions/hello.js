@@ -4,6 +4,6 @@ exports.handler = async function (event, context) {
   const email = event.body.email;
   return {
     statusCode: 200,
-    body: JSON.stringify({ message: MJ_LIST_ID }),
+    body: JSON.stringify({ message: email }),
   };
 };
