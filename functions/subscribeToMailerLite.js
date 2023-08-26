@@ -23,7 +23,8 @@ exports.handler = async (event) => {
       {
         headers: {
           'Content-Type': 'application/json',
-          'X-MailerLite-ApiKey': MAILERLITE_PRODUCTION_API_KEY,
+          'Accept': 'application/json',
+          'Authorization': 'Bearer' + MAILERLITE_PRODUCTION_API_KEY,
         },
       }
     );
