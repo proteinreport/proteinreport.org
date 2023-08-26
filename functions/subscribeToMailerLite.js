@@ -27,12 +27,16 @@ exports.handler = async (event) => {
       }
     );
     
-    if (response.status === 200 || response.status === 201) {
+    if (response.status === 200 || response.status === 201 || response.status === 202) {
       let message;
       if (response.status === 200) {
-        message = "Contact added to MailerLite successfully (Status Code: 200)";
-      } else {
-        message = "Contact added to MailerLite successfully (Status Code: 201)";
+        message = "The request was accepted. (Status Code: 200)";
+      } else if (response.status === 201) {
+        message = "Resource was created. (Status Code: 201)";
+      } else if (response.status === 202) {
+        message = "The request was accepted and further actions are taken in the background. (Status Code: 202)";
+      } else if (response.status === 204) {
+        message = "The request was accepted and there is nothing to return. (Status Code: 204)";
       }
       
       return {

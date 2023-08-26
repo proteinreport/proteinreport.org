@@ -47,8 +47,8 @@ const processForm = form => {
   })
   .then(response => response.json())
   .then(result => {
-    if (result.statusCode === 201) {
-      form.innerHTML = `<div class="form--success">Almost there! Check your inbox for a confirmation e-mail.</div>`;
+    if (result.statusCode === 200 || result.statusCode === 201 || result.statusCode === 202 || result.statusCode === 204) {
+      form.innerHTML = `<div class="form--success">Almost there! Check your inbox for a confirmation e-mail. If you had previously unsubscribed, you've now been resubscribed.</div>`;
     } else {
       form.innerHTML = `<div class="form--error">Error: ${result.message}</div>`;
     }
