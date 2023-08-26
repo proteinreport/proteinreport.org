@@ -45,9 +45,9 @@ const processForm = form => {
     method: 'POST',
     body: new URLSearchParams({ email }), // Convert to URLSearchParams
   })
-  .then(response => response.json())
-  .then(result => {
-    if (response.statusCode === 200 || response.statusCode === 201 || response.statusCode === 202 || response.statusCode === 204) {
+  .then(response => response.json().then(result => ({ status: response.status, result })))
+  .then(({ status, result }) => {
+    if (status === 200 || status === 201 || status === 202 || status === 204) {
       form.innerHTML = `<div class="form--success">Almost there! Check your inbox for a confirmation e-mail. If you had previously unsubscribed, you've now been resubscribed.</div>`;
     } else {
       form.innerHTML = `<div class="form--error">Error: ${result.message}</div>`;
