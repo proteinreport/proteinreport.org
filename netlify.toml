@@ -2,6 +2,10 @@
   publish = "public"
   functions = "functions"
 
+[functions]
+  node_bundler = "esbuild"
+  external_node_modules = ["node-mailjet"]
+
 [build.environment]
   NODE_VERSION = "18.12.1"
   NPM_VERSION = "8.19.2"
