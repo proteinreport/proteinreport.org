@@ -47,7 +47,7 @@ const processForm = form => {
   })
   .then(response => response.json())
   .then(result => {
-    if (result.statusCode === 200) {
+    if (result.message.includes('subscribed')) {
       form.innerHTML = `<div class="form--success">Almost there! Check your inbox for a confirmation e-mail.</div>`;
     } else {
       form.innerHTML = `<div class="form--error">Error: ${result.message}</div>`;
