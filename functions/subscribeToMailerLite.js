@@ -39,7 +39,7 @@ exports.handler = async (event) => {
     return {
       statusCode: 500,
       body: JSON.stringify({
-        message: "Failed to add contact to MailjerLite",
+        message: "Failed to add contact to MailerLite",
       }),
     };
   }
