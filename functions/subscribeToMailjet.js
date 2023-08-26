@@ -19,14 +19,15 @@ exports.handler = async (event) => {
     });
 
     // Add the contact to the contact list
-    // await axios.post(`https://api.mailjet.com/v3/REST/contactslist/${MJ_LIST_ID}/managecontact`, {
-    //   Contacts: [{ Email: email }],
-    // }, {
-    //   auth: {
-    //     username: MJ_APIKEY_PUBLIC,
-    //     password: MJ_APIKEY_PRIVATE,
-    //   },
-    // });
+    await axios.post(`https://api.mailjet.com/v3/REST/contactslist/${MJ_LIST_ID}/managemanycontacts`, {
+	  Action: "addnoforce", //addforce,addnoforce,remove
+      Contacts: [{ Email: email }],
+    }, {
+      auth: {
+        username: MJ_APIKEY_PUBLIC,
+        password: MJ_APIKEY_PRIVATE,
+      },
+    });
 
     return {
       statusCode: 200,
