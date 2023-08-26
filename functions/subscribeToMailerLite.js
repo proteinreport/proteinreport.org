@@ -55,7 +55,7 @@ exports.handler = async (event) => {
     }
   } catch (error) {
     // If the error indicates the subscriber already exists and is inactive
-    if (error.response && error.response.status === 400 && error.response.data && error.response.data.field === 'email') {
+    if (error.response && error.response.status === 422 && error.response.data && error.response.data.field === 'email') {
       try {
         const response = await axios.get(
           `https://connect.mailerlite.com/api/subscribers?email=${email}`,
