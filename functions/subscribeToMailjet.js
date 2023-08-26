@@ -1,50 +1,35 @@
-const axios = require('axios');
+const mailjet = require('node-mailjet').connect(
+  process.env.MJ_APIKEY_PUBLIC,
+  process.env.MJ_APIKEY_PRIVATE
+);
 
-exports.handler = async function(event, context) {
+exports.handler = async (event, context) => {
   try {
-    if (event.httpMethod !== 'POST') {
-      return {
-        statusCode: 405,
-        body: JSON.stringify({ message: 'Method Not Allowed' })
-      };
-    }
+    const { email } = JSON.parse(event.body);
 
-    const { formName, email } = JSON.parse(event.body);
+    const request = mailjet.post('contact').request({
+      Email: email
+    });
 
-    if (formName !== 'newsletter' || !email) {
-      return {
-        statusCode: 400,
-        body: JSON.stringify({ message: 'Invalid form submission' })
-      };
-    }
+    const response = await request;
+    const contactId = response.body.Data[0].ID;
 
-    const url = 'https://api.mailjet.com/v3/REST/contact';
+    const listId = process.env.MJ_LIST_ID;
+    const subscribeRequest = mailjet.post(`listrecipient/${listId}/managecontact`).request({
+      Action: 'addforce',
+      ContactID: contactId
+    });
 
-    const data = {
-      Email: email,
-    };
-
-    const response = await axios.post(
-      url,
-      data,
-      {
-        auth: {
-          username: process.env.MJ_APIKEY_PUBLIC,
-          password: process.env.MJ_APIKEY_PRIVATE
-        }
-      }
-    );
+    await subscribeRequest;
 
     return {
-      statusCode: response.status,
-      body: JSON.stringify({ message: 'Subscriber added successfully' })
+      statusCode: 200,
+      body: JSON.stringify({ message: 'Contact added successfully' })
     };
   } catch (error) {
-    console.error('Error:', error);
-
     return {
-      statusCode: error.response ? error.response.status : 500,
-      body: JSON.stringify({ message: 'An error occurred' })
+      statusCode: 500,
+      body: JSON.stringify({ error: 'An error occurred' })
     };
   }
 };
