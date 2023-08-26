@@ -1,49 +1,33 @@
-const axios = require('axios');
+// Import the required dependencies
+const mailjet = require('node-mailjet').connect(process.env.MJ_APIKEY_PUBLIC, process.env.MJ_APIKEY_PRIVATE);
 
-exports.handler = async function(event, context) {
+// Define the Netlify function
+exports.handler = async (event, context) => {
   try {
-    if (event.httpMethod !== 'POST') {
-      return {
-        statusCode: 405,
-        body: JSON.stringify({ message: 'Method Not Allowed' })
-      };
-    }
+    // Parse the form data from the event body
+    const formData = JSON.parse(event.body);
 
-    const { email } = JSON.parse(event.body);
+    // Extract the email address from the form data
+    const email = formData.newsletter;
 
-    if (!email) {
-      return {
-        statusCode: 400,
-        body: JSON.stringify({ message: 'Missing email in request body' })
-      };
-    }
-
-    const payload = {
+    // Create the Mailjet contact object
+    const contact = {
       Email: email,
-      ContactsLists: [process.env.MAILJET_LIST_ID],
     };
 
-    const response = await axios.post(
-      'https://api.mailjet.com/v3/REST/contact',
-      payload,
-      {
-        auth: {
-          username: process.env.MJ_APIKEY_PUBLIC,
-          password: process.env.MJ_APIKEY_PRIVATE
-        }
-      }
-    );
+    // Add the contact to Mailjet using the Mailjet API
+    const result = await mailjet.post('contact').request({ Email: email });
 
+    // Return a success response
     return {
-      statusCode: response.status,
-      body: JSON.stringify({ message: 'Subscriber added successfully' })
+      statusCode: 200,
+      body: JSON.stringify({ message: 'Email added to Mailjet contacts successfully' }),
     };
   } catch (error) {
-    console.error('Error:', error);
-
+    // Return an error response
     return {
-      statusCode: error.response ? error.response.status : 500,
-      body: JSON.stringify({ message: 'An error occurred' })
+      statusCode: 500,
+      body: JSON.stringify({ message: 'Failed to add email to Mailjet contacts' }),
     };
   }
 };
