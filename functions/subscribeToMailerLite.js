@@ -15,10 +15,10 @@ exports.handler = async (event) => {
 
     // Create the subscriber in MailerLite
     const response = await axios.post(
-      'https://connect.mailerlite.com/api/v1/subscribers',
+      'https://connect.mailerlite.com/api/subscribers',
       {
         email,
-        group_ids: [https://connect.mailerlite.com/],
+        group_ids: [MAILERLITE_PRODUCTION_NEWSLETTER_GROUP_ID],
       },
       {
         headers: {
