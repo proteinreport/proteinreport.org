@@ -1,29 +1,50 @@
-// netlify/functions/subscribeToMailjet.js
+const axios = require('axios');
 
-const mailjet = require('node-mailjet').connect(
-  process.env.MJ_APIKEY_PUBLIC,
-  process.env.MJ_APIKEY_PRIVATE
-);
-
-exports.handler = async (event, context) => {
+exports.handler = async function(event, context) {
   try {
-    const { email } = JSON.parse(event.body);
+    if (event.httpMethod !== 'POST') {
+      return {
+        statusCode: 405,
+        body: JSON.stringify({ message: 'Method Not Allowed' })
+      };
+    }
 
-    // Add email to Mailjet contacts
-    const result = await mailjet.post('contact').request({
-      Email: email
-    });
+    const { formName, email } = JSON.parse(event.body);
+
+    if (formName !== 'newsletter' || !email) {
+      return {
+        statusCode: 400,
+        body: JSON.stringify({ message: 'Invalid form submission' })
+      };
+    }
+
+    const url = 'https://api.mailjet.com/v3/REST/contact';
+
+    const data = {
+      Email: email,
+    };
+
+    const response = await axios.post(
+      url,
+      data,
+      {
+        auth: {
+          username: process.env.MJ_APIKEY_PUBLIC,
+          password: process.env.MJ_APIKEY_PRIVATE
+        }
+      }
+    );
 
     return {
-      statusCode: 200,
-      body: JSON.stringify({ message: 'Email added to Mailjet contacts' })
+      statusCode: response.status,
+      body: JSON.stringify({ message: 'Subscriber added successfully' })
     };
   } catch (error) {
-    console.error(error);
+    console.error('Error:', error);
 
     return {
-      statusCode: 500,
-      body: JSON.stringify({ message: 'Error adding email to Mailjet contacts' })
+      statusCode: error.response ? error.response.status : 500,
+      body: JSON.stringify({ message: 'An error occurred' })
     };
   }
 };
