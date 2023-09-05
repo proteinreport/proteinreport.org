@@ -1,0 +1,5 @@
+{{- $.Scratch.Add "searchindex" slice -}}
+{{- range $index, $element := where site.RegularPages "Params.exclude_search" nil -}}
+    {{- $.Scratch.Add "searchindex" (dict "id" $index "title" $element.Title "permalink" $element.RelPermalink "type" $element.Type "tags" (delimit ($element.Params.tags | default "") " ") "proteins" (delimit ($element.Params.proteins | default "") " ") "products" (delimit ($element.Params.products | default "") " ") "topics" (delimit ($element.Params.topics | default "") " ") "regions" (delimit ($element.Params.regions | default "") " ") "content" $element.Plain "summary" $element.Summary "date" ($element.Date.Format ($.Param "dateformat" | default "Jan 2, 2006"))) -}}
+{{- end -}}
+{{- $.Scratch.Get "searchindex" | jsonify -}}

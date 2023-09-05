@@ -1,0 +1,22 @@
+<section id="events" class="w-full">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="w-full py-12">
+            <h2 class="text-7xl">Events</h2>
+            <p>Upcoming conferences and summits</p>
+        </div>
+        <div class="w-full grid grid-cols-1 auto-rows-fr gap-8">
+            {{/* Build slice of future events. */}}
+            {{ $p := slice }}
+            {{ range where site.RegularPages "Section" "events" }}
+                {{ if (.Params.start_date | time.AsTime).After now }}
+                    {{ $p = $p | append . }}
+                {{ end }}
+            {{ end }}
+
+            {{/* Sort and show the first 5. */}}
+            {{ range sort $p "Params.start_date" | first 5 }}
+                {{ partial "event/card.html" . }}
+            {{ end }}
+        </div>
+    </div>
+</section>

@@ -1,0 +1,15 @@
+<section id="newswire" class="w-full">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <div class="w-full py-12">
+      <h2 class="text-7xl">Resources</h2>
+      <p>Academic research and industry reports</p>
+    </div>
+    <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 md:grid-cols-2">
+      {{ $resources:= shuffle ( where .Site.RegularPages "Section" "resources" ) }}
+      {{ range first 6 $resources }}
+      {{ partial "resources/card.html" . }}
+      
+      {{ end }}
+    </div>
+  </div>
+</section>

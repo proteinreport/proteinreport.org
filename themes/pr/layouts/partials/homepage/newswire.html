@@ -1,0 +1,13 @@
+<section id="newswire" class="w-full">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="w-full py-12">
+            <h2 class="text-7xl">Newswire</h2>
+            <p>Press releases from companies and organizations</p>
+        </div>
+        <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 md:grid-cols-2">
+            {{ range first 6 ( after 1 ( where .Site.RegularPages "Section" "newswire" ) ) }}
+                {{ partial "newswire/card.html" . }}
+            {{ end }}
+        </div>
+    </div>
+</section>

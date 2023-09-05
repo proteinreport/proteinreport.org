@@ -1,0 +1,48 @@
+{{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+
+<article class="flex items-center bg-white transition hover:shadow-xl border">
+    <div class="hidden rotate-180 p-2 [writing-mode:_vertical-lr]">
+        <time datetime="{{ .PublishDate.Format " 2006-01-02" }}"
+            class="flex items-center justify-between gap-4 text-xs font-bold uppercase text-gray-900">
+            <span>{{ .PublishDate.Format "2006" }}</span>
+            <span class="w-px flex-1 bg-gray-900/10"></span>
+            <span>{{ .PublishDate.Format "Jan 2" }}</span>
+        </time>
+    </div>
+
+    <a href="{{ .RelPermalink }}" class="basis-24 sm:basis-56 md:basis-36 lg:basis-56">
+        {{ if $image }}
+            {{ if .Site.Params.hyas_images }}
+                {{ partial "picture" (dict
+                    "ctx" .
+                    "src" $image
+                    "alt" .Title
+                    "widths" (slice 40 70 150 224 480)
+                    "class" "img-fluid blur-up aspect-square w-full object-cover"
+                )}}
+            {{ else }}
+                <img src="{{$image.RelPermalink}}" class="aspect-square w-full object-cover">
+            {{ end }}
+        {{ end }}
+    </a>
+
+    <div class="flex flex-1 flex-col justify-center">
+        <div class="border-s border-gray-900/10 px-4 py-2 sm:border-l-transparent sm:p-6">
+            <a href="{{ .RelPermalink }}">
+                <h3 class="font-bold uppercase text-gray-900">
+                    {{ .Params.title | truncate 100 }}
+                </h3>
+            </a>
+
+            <p class="hidden mt-2 line-clamp-3 text-sm/relaxed text-gray-700">
+                {{ .Params.excerpt | safeHTML | truncate 120 }}
+            </p>
+        </div>
+
+        <time datetime="{{ .PublishDate.Format " 2006-01-02" }}"
+            class="hidden sm:flex items-center p-4 text-xs font-bold uppercase text-gray-900 sm:p-6">
+            <span>{{ .PublishDate.Format "Jan 2, 2006" }} <span class="lowercase text-gray-600">by</span> {{ partial "newswire/company-text.html" . }}</span>
+        </time>
+
+    </div>
+</article>

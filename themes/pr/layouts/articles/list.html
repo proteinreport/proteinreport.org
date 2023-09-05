@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{ partial "main/page-title.html" . }}
+<section id="articles-list" class="w-full">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <div class="w-full py-12">
+      
+    </div>
+
+    <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 md:grid-cols-2">
+      
+      {{ $paginator := .Paginate (where .Pages "Params.essay_contest" nil) }}
+      {{ range $paginator.Pages }}
+        {{ partial "article/card.html" . }}
+      {{ end }}
+      
+    </div>
+  </div>
+  <div class="flex flex-wrap justify-center">
+    <div class="md:w-full pr-4 pl-4 lg:w-3/4 pr-4 pl-4">
+      {{ partial "main/pagination.html" . }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

@@ -1,0 +1,785 @@
+{{ define "main" }}
+<article>
+  {{ partial "main/page-title.html" . }}
+  <div class="grid grid-cols-1 gap-6 mx-auto max-w-7xl 2xl:border-x-4">
+    <div class="flex flex-col w-full">
+      {{ $image := .Resources.GetMatch .Params.featured_image -}}
+      {{ if $image }}
+      <div class="w-full relative">
+        {{ if .Site.Params.hyas_images }}
+          {{ partial "picture" (dict
+            "ctx" .
+            "src" $image
+            "alt" .Title
+            "class" "img-fluid w-full"
+            "loading" "auto"
+          )}}
+        {{ else }}
+          <img src="{{ $image.RelPermalink }}" class="w-full">
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  <div class="grid grid-cols-1 gap-6 mt-6 mx-auto px-2 max-w-7xl md:px-6 md:grid-cols-3 2xl:border-x-4">
+    <div class="flex flex-col gap-6 w-full text-xl col-span-1 md:col-span-2">
+      <div class="w-full mx-auto px-2 md:px-24">
+        <p class="text-2xl font-medium italic text-center">
+          Celebrating emerging thought leadership and excellence in
+          communication around the world's most complex food system challenges
+        </p>
+      </div>
+
+      <div id="overview" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Overview
+        </h2>
+        <h3 class="font-medium">What</h3>
+        <p>
+          An essay contest for undergraduate and graduate students — with BIG
+          prizes!
+        </p>
+        <ul class="list-disc list-outside pl-8">
+          <li>First place: $1500</li>
+          <li>Second place: $1000</li>
+          <li>Third place: $500</li>
+          <li>Runners-up: Exciting non-cash prizes</li>
+          <li>
+            Winning and runner-up essays to be announced and published on
+            Protein Report
+          </li>
+        </ul>
+        <h3 class="font-medium">Who</h3>
+        <p>
+          Any university student or recent graduate from anywhere in the world
+          can participate.
+        </p>
+        <h3 class="font-medium">When</h3>
+        <p>
+          Submissions must be received by <strong>September 24, 2021</strong>.
+          Results will be announced in October 2021.
+        </p>
+        <h3 class="font-medium">How</h3>
+        <p>To participate, carefully read the sections below.</p>
+        <h3 class="font-medium">Why</h3>
+        <p>
+          To encourage, support, and reward emerging thought leadership and
+          excellence in communication.
+        </p>
+      </div>
+
+      <div id="prompt" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Prompt
+        </h2>
+        <p>
+          Protein industry challenges are numerous, multifaceted, and
+          interconnected. From deforestation and biodiversity loss to pandemic
+          risk and antimicrobial resistance — to name just a few — the threats
+          presented by inaction are nothing short of existential. But who is
+          responsible for initiating and implementing solutions? It seems unfair
+          and impractical to place all the burden on consumers. And yet,
+          consumer preferences, beliefs, opinions, and behaviors are key to the
+          success of any public- or private-sector interventions. Against the
+          complexity and uncertainty of this situation, one thing remains clear:
+          Time to find a solution is running out.
+        </p>
+
+        <p>
+          The rapidly evolving science of cellular agriculture offers the
+          possibility to solve many of the world's protein-related dilemmas
+          within a timeframe not otherwise on the table. But realizing its
+          promise will require overcoming barriers at the technical, policy,
+          economic, and sociocultural levels. As a potentially transformative
+          new technology, cellular agriculture also brings its own set of risks
+          regarding how it is ultimately utilized and distributed.
+        </p>
+
+        <p>
+          In this context, what issue does your general field of study or your
+          particular research interest address, and how does it contribute
+          toward a solution?
+        </p>
+      </div>
+
+      <div id="rules" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Rules & Requirements
+        </h2>
+        <p>
+          <strong>Eligibility</strong>: In order to participate, you must be a
+          full-time undergraduate or graduate student or have completed your
+          degree within the past three months at the time of submission.
+        </p>
+
+        <p>
+          <strong>Multiple authors</strong>: Submissions with multiple authors
+          may be accepted, however, all authors must meet the contest’s
+          eligibility requirements, and only one representative may be
+          responsible for submitting the essay and receiving prizes if selected
+          as a winner.
+        </p>
+
+        <p>
+          <strong>Exclusivity</strong>: The essay must not have already been
+          published or submitted for publication elsewhere at the time of
+          submission.
+        </p>
+
+        <p><strong>Essay length</strong>: No minimum. Maximum 4000 words.</p>
+      </div>
+
+      <div id="selection" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Selection Process
+        </h2>
+        <p>
+          Protein Report editors will shortlist up to 10 finalist essays to
+          present to the judges. In order to be considered for shortlisting,
+          submissions must follow guidance from the <a href="/code-of-practice#language">Language</a> and <a href="/code-of-practice#sources">Sources</a> 
+          sections of Protein Report's <a href="/code-of-practice">Code of Practice</a>, as well as the code's
+          general principles and overall spirit. Initial review and shortlisting
+          will also focus on quality of writing, reasoning, and originality.
+        </p>
+
+        <p>
+          Finalist essays will be shared with the <a href="#judges">panel of judges</a>, who will
+          evaluate and rank each according to the following criteria:
+        </p>
+
+        <ol class="list-decimal list-outside pl-8">
+          <li>
+            <em>Thought, vision, and conceptual scope</em>: Does the essay
+            elevate the reader's thinking or understanding?
+          </li>
+          <li>
+            <em>Writing quality</em>: Flow, style, focus, and clarity — is it a
+            good read?
+          </li>
+          <li>
+            <em>Analytical and/or creative depth</em>: How effectively and
+            accurately does the essay cover its subject matter?
+          </li>
+          <li>
+            <em>Good practice</em>: Is it balanced in approach, language, tone,
+            and target audience?
+          </li>
+        </ol>
+        <p>Read about how <a href="#scoring">final scores will be calculated</a>.</p>
+      </div>
+
+      <div id="instructions" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Instructions
+        </h2>
+        <p>
+          Submit your essay by <strong>September 24, 2021</strong> using the
+          following link:
+        </p>
+        <p><a href="https://forms.gle/JZpV5zYKChAKNGPC9" target="_blank">ESSAY SUBMISSION FORM</a></p>
+
+        <p>
+          <strong>Note</strong>: For security purposes, you will need to be
+          logged in to a Google account in order to access the form and upload
+          your document.
+        </p>
+
+        <p>
+          <strong>Important</strong>: Essay documents must begin directly with
+          the essay title. Your essay's title must NOT include your name or the
+          name of your university. The essay document must NOT include a cover
+          page and must NOT include any headers or footers containing your name
+          or the name of your university. Submissions failing to follow these
+          instructions will not be accepted.
+        </p>
+
+        <p>
+          <strong>Sources and citations</strong>: There is no requirement to use
+          a specific style guide, however, all sources must be referenced using
+          parenthetical citations and included in a list of works or
+          bibliography at the end of the essay document. Citations in footnote
+          form will not be accepted.
+        </p>
+      </div>
+
+      <div id="terms" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Terms & Conditions
+        </h2>
+        <p>By submitting an entry you agree to the following:</p>
+        <ul class="list-disc list-outside pl-8">
+          <li>
+            To surrender full ownership and copyright of the essay to Protein
+            Report — it may not be published elsewhere, in whole or in part,
+            without Protein Report’s explicit permission, including modified
+            versions of the work.
+          </li>
+          <li>
+            To guarantee the essay was written entirely by yourself (or listed
+            team members if a multiple-author submission), and no part of the
+            essay has been plagiarized, copied, or paraphrased from any other
+            author without giving explicit credit to the original.
+          </li>
+          <li>
+            Protein Report may edit essays it chooses to publish for style,
+            content, and to conform to Protein Report’s editorial standards.
+          </li>
+          <li>
+            Protein Report reserves the right to cancel the contest or change
+            its rules, terms, conditions, or prizes at any time for any reason
+            at its sole discretion.
+          </li>
+        </ul>
+      </div>
+
+      <div id="judges" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          Judges
+        </h2>
+        <div class="grid grid-cols-2 gap-4 text-center text-base md:grid-cols-3 lg:grid-cols-4">
+          <div class="flex flex-col">
+            <img src="jeremiah-johnston.jpg" alt="Jeremiah Johnston"
+              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+            <p>
+              <strong>Jeremiah Johnston</strong><br />Research Program Director,
+              New Harvest
+            </p>
+          </div>
+
+          <div class="flex flex-col">
+            <img src="bianca-le.jpg" alt="Bianca Lê"
+              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+            <p>
+              <strong>Bianca Lê</strong><br />Director, Cellular Agriculture
+              Australia
+            </p>
+          </div>
+
+          <div class="flex flex-col">
+            <img src="kara-leong.jpg" alt="Kara Leong"
+              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+            <p>
+              <strong>Kara Leong</strong><br />Development Director, University
+              of California, Davis
+            </p>
+          </div>
+
+          <div class="flex flex-col">
+            <img src="teni-ekundare.png" alt="Teni Ekundare"
+              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+            <p>
+              <strong>Teni Ekundare</strong><br />Head of Investor Outreach,
+              FAIRR Initiative
+            </p>
+          </div>
+
+          <div class="flex flex-col">
+            <img src="lenore-newman.jpg" alt="Lenore Newman"
+              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+            <p>
+              <strong>Lenore Newman</strong><br />Director, Food and Agriculture
+              Institute, University of the Fraser Valley
+            </p>
+          </div>
+
+          <div class="flex flex-col">
+            <img src="alex-shirazi.jpg" alt="Alex Shirazi"
+              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+            <p>
+              <strong>Alex Shirazi</strong><br />Host, Cultured Meat and Future
+              Food Show
+            </p>
+          </div>
+
+          <div class="flex flex-col">
+            <img src="kate-krueger.jpg" alt="Kate Krueger"
+              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+            <p>
+              <strong>Kate Krueger</strong><br />Founder and CEO, Helikon
+              Consulting
+            </p>
+          </div>
+
+          <div class="flex flex-col">
+            <img src="matt-clancy.jpg" alt="Matthew Clancy"
+              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+            <p>
+              <strong>Matthew Clancy</strong><br />Assistant Teaching Professor,
+              Department of Economics, Iowa State University
+            </p>
+          </div>
+
+          <div class="flex flex-col">
+            <img src="galina-hale.jpg" alt="Galina Hale"
+              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+            <p>
+              <strong>Galina Hale</strong><br />Professor of Economics, UC Santa
+              Cruz
+            </p>
+          </div>
+
+          <div class="flex flex-col">
+            <img src="nicky-quinn.jpg" alt="Nicky Quinn"
+              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+            <p>
+              <strong>Nicky Quinn</strong><br />Global Marketing Director, Aleph
+              Farms
+            </p>
+          </div>
+
+          <div class="flex flex-col">
+            <img src="andrew-noyes.jpg" alt="Andrew Noyes"
+              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+            <p>
+              <strong>Andrew Noyes</strong><br />Head of Global Communications,
+              Eat Just, Inc.
+            </p>
+          </div>
+        </div>
+        <p>
+          Read about our approach to <a href="#fairness">fair judging and conflicts of interest</a>.
+        </p>
+      </div>
+
+      <div id="faq" class="flex w-full flex-col gap-4">
+        <h2 class="px-2 py-1 bg-[#e79986] font-medium text-3xl text-white">
+          FAQ
+        </h2>
+        <div class="space-y-4">
+          <details class="group border-s-4 border-[#e79986] bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer items-center justify-between gap-1.5">
+              <h2 class="text-lg font-medium text-gray-900">
+                How many winners will be selected?
+              </h2>
+
+              <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5 shrink-0 transition duration-300 group-open:-rotate-45" viewBox="0 0 20 20"
+                  fill="currentColor">
+                  <path fill-rule="evenodd"
+                    d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z"
+                    clip-rule="evenodd" />
+                </svg>
+              </span>
+            </summary>
+
+            <div class="mt-4 leading-relaxed text-gray-700">
+              <p>There will be a total of three winning essays:</p>
+              <ul class="list-disc list-outside pl-8">
+                <li>Gold: one winner</li>
+                <li>Silver: one winner</li>
+                <li>Bronze: one winner</li>
+                <li>Runners-up: TBD based on submission</li>
+                <li>Honorable mentions: TBD based upon submissions</li>
+              </ul>
+            </div>
+          </details>
+
+          <details class="group border-s-4 border-[#e79986] bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer items-center justify-between gap-1.5">
+              <h2 class="text-lg font-medium text-gray-900">
+                I'm enrolled in a community college/associate's degree program.
+                Can I participate?
+              </h2>
+
+              <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5 shrink-0 transition duration-300 group-open:-rotate-45" viewBox="0 0 20 20"
+                  fill="currentColor">
+                  <path fill-rule="evenodd"
+                    d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z"
+                    clip-rule="evenodd" />
+                </svg>
+              </span>
+            </summary>
+
+            <p class="mt-4 leading-relaxed text-gray-700">
+              Only students enrolled full time in bachelor's, master's, and
+              doctoral-level programs, and those who have graduated in the past
+              three months at the time of submission, may participate.
+            </p>
+          </details>
+
+          <details class="group border-s-4 border-[#e79986] bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer items-center justify-between gap-1.5">
+              <h2 class="text-lg font-medium text-gray-900">
+                Will I be notified about the result?
+              </h2>
+
+              <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5 shrink-0 transition duration-300 group-open:-rotate-45" viewBox="0 0 20 20"
+                  fill="currentColor">
+                  <path fill-rule="evenodd"
+                    d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z"
+                    clip-rule="evenodd" />
+                </svg>
+              </span>
+            </summary>
+
+            <p class="mt-4 leading-relaxed text-gray-700">
+              Winning essays will be announced publicly. Due to the large number
+              of expected submissions, only winners, runners-up, and honorable
+              mentions selected for publication on Protein Report will be
+              contacted.
+            </p>
+          </details>
+
+          <details class="group border-s-4 border-[#e79986] bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer items-center justify-between gap-1.5">
+              <h2 class="text-lg font-medium text-gray-900">
+                If my essay is not selected or the contest is canceled, will
+                ownership and copyright be returned to me?
+              </h2>
+
+              <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5 shrink-0 transition duration-300 group-open:-rotate-45" viewBox="0 0 20 20"
+                  fill="currentColor">
+                  <path fill-rule="evenodd"
+                    d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z"
+                    clip-rule="evenodd" />
+                </svg>
+              </span>
+            </summary>
+
+            <p class="mt-4 leading-relaxed text-gray-700">
+              Yes. If the contest is canceled or if Protein Report chooses not
+              to publish a submission, full ownership and copyright will be
+              returned to the author.
+            </p>
+          </details>
+
+          <details class="group border-s-4 border-[#e79986] bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer items-center justify-between gap-1.5">
+              <h2 class="text-lg font-medium text-gray-900">
+                Can my essay include images?
+              </h2>
+
+              <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5 shrink-0 transition duration-300 group-open:-rotate-45" viewBox="0 0 20 20"
+                  fill="currentColor">
+                  <path fill-rule="evenodd"
+                    d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z"
+                    clip-rule="evenodd" />
+                </svg>
+              </span>
+            </summary>
+
+            <p class="mt-4 leading-relaxed text-gray-700">
+              Yes. However, they must be owned by you or free from any copyright
+              that would restrict their publication on Protein Report.
+            </p>
+          </details>
+
+          <details class="group border-s-4 border-[#e79986] bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer items-center justify-between gap-1.5">
+              <h2 class="text-lg font-medium text-gray-900">
+                I'm not a native speaker of English. Can I still participate?
+              </h2>
+
+              <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5 shrink-0 transition duration-300 group-open:-rotate-45" viewBox="0 0 20 20"
+                  fill="currentColor">
+                  <path fill-rule="evenodd"
+                    d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z"
+                    clip-rule="evenodd" />
+                </svg>
+              </span>
+            </summary>
+
+            <p class="mt-4 leading-relaxed text-gray-700">
+              Anyone is welcome to submit their essay, however, only those
+              written in a native level of English will be accepted.
+            </p>
+          </details>
+
+          <details id="fairness" class="group border-s-4 border-[#e79986] bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer items-center justify-between gap-1.5">
+              <h2 class="text-lg font-medium text-gray-900">
+                About fairness and conflicts of interest
+              </h2>
+
+              <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5 shrink-0 transition duration-300 group-open:-rotate-45" viewBox="0 0 20 20"
+                  fill="currentColor">
+                  <path fill-rule="evenodd"
+                    d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z"
+                    clip-rule="evenodd" />
+                </svg>
+              </span>
+            </summary>
+
+            <div class="mt-4 space-y-4 leading-relaxed text-gray-700">
+              <p>
+                Judges have been selected for their demonstrated commitment to
+                advancing key approaches and activities relevant to the
+                contest's goals. This includes work in scientific research,
+                student professional development, multidisciplinary strategies,
+                communication and public relations, and the encouragement of
+                deeper thinking around protein industry issues and solutions,
+                among other credentials. In order to ensure that there are no
+                conflicts of interest, actual or perceived, in the judging
+                process, each judge has agreed to the following statement and
+                set of rules:
+              </p>
+
+              <p class="font-bold">Judge Statement:</p>
+
+              <p>
+                I am committed to the contest goals and to upholding, in
+                principle and in practice, a strictly merit-based judging
+                process. I understand my actions as a judge not only reflect
+                upon my integrity, but also that of Protein Report, the Student
+                Essay Contest, and the hard work of participating students who
+                expect their essays to be judged fairly. I agree to evaluate
+                each essay impartially, based solely upon its merit, and with no
+                consideration for the submitting student's university, country,
+                region, age, gender, or any other non-merit-based factors that
+                may be identifiable in the submission. I understand that any
+                indication of strategic, biased, or discriminatory voting in
+                favor of, or against, any submission or group of submissions
+                will disqualify all of my evaluations and result in my removal
+                from the judge panel. I agree to voluntarily recuse myself from
+                evaluating any essays for which I may have a conflict of
+                interest, regardless of whether the specific conflict is
+                explicitly mentioned in this statement or in the judge rules.
+              </p>
+
+              <p class="font-bold">Judge Rules:</p>
+
+              <ul class="list-disc list-outside pl-8">
+                <li>
+                  Judges will not evaluate submissions by students from their
+                  alma mater, current university of employment, or any school
+                  from which the judge has received expressed or implied offers
+                  of employment or cooperation, paid or unpaid.
+                </li>
+                <li>
+                  Judges will not evaluate submissions from students they
+                  personally know or have communicated with in the past six
+                  months.
+                </li>
+                <li>
+                  Judges will evaluate and rate each essay entirely
+                  independently and will not discuss or disclose their
+                  evaluations with any other party, including other judges,
+                  prior to the contest's completion.
+                </li>
+                <li>
+                  Judges will not evaluate submissions by students from which
+                  any known pending or accepted applications or offers of study
+                  at the undergraduate, graduate, or post-doctoral level are in
+                  process that might result in a conflict of interest.
+                </li>
+              </ul>
+              <p class="font-medium">
+                In order to support an impartial judging process, Protein Report
+                will keep all individual judge submission evaluations strictly
+                confidential.
+              </p>
+            </div>
+          </details>
+
+          <details id="scoring" class="group border-s-4 border-[#e79986] bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer items-center justify-between gap-1.5">
+              <h2 class="text-lg font-medium text-gray-900">
+                How will final results be calculated?
+              </h2>
+
+              <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5 shrink-0 transition duration-300 group-open:-rotate-45" viewBox="0 0 20 20"
+                  fill="currentColor">
+                  <path fill-rule="evenodd"
+                    d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z"
+                    clip-rule="evenodd" />
+                </svg>
+              </span>
+            </summary>
+
+            <div class="mt-4 leading-relaxed text-gray-700">
+              <p>
+                Each essay will be numerically rated across several parameters
+                by each judge, excluding those submissions with which the judge
+                may have a conflict of interest. The ratings of all judges will
+                be aggregated to determine the essays with the highest-total
+                scores. Due to judge recusals or disqualifications, some
+                submissions may have fewer evaluations than others, resulting in
+                lower total scores. In such cases, the missing evaluation scores
+                will be calculated as the mean of the essay's judge-submitted
+                scores.
+              </p>
+
+              <p>
+                In the case of a tie, all judges will be asked to participate in
+                a tie-breaking vote. If a tie-breaking vote by an even number of
+                judges results in a tie, Protein Report will make the final
+                tie-breaking vote.
+              </p>
+
+              <p>
+                Only winning, runner-up, and honorable-mention essays will be
+                announced. Final scores will not be reported publicly or
+                individually to participants.
+              </p>
+            </div>
+          </details>
+
+          <details class="group border-s-4 border-[#e79986] bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer items-center justify-between gap-1.5">
+              <h2 class="text-lg font-medium text-gray-900">
+                Must submissions be strictly food-related, or could they also be about materials/textiles, given many
+                textiles we use are closely entwined with the food industry?
+              </h2>
+
+              <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5 shrink-0 transition duration-300 group-open:-rotate-45" viewBox="0 0 20 20"
+                  fill="currentColor">
+                  <path fill-rule="evenodd"
+                    d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z"
+                    clip-rule="evenodd" />
+                </svg>
+              </span>
+            </summary>
+
+            <p class="mt-4 leading-relaxed text-gray-700">
+              These topics aren't necessarily excluded from the contest, but any such submissions would need to be sure
+              they are sufficiently addressing the question in the prompt, which is primarily about food system
+              challenges.
+            </p>
+          </details>
+
+          <details class="group border-s-4 border-[#e79986] bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer items-center justify-between gap-1.5">
+              <h2 class="text-lg font-medium text-gray-900">
+                Can my essay include scientific/technical details? Who should be the target audience?
+              </h2>
+
+              <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5 shrink-0 transition duration-300 group-open:-rotate-45" viewBox="0 0 20 20"
+                  fill="currentColor">
+                  <path fill-rule="evenodd"
+                    d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z"
+                    clip-rule="evenodd" />
+                </svg>
+              </span>
+            </summary>
+
+            <p class="mt-4 leading-relaxed text-gray-700">
+              Submissions about scientific and technical subject matter should strive to make those topics and details
+              accessible to general audiences. Note the contest's judges come from a variety of disciplines and
+              backgrounds. A good rule of thumb to follow when drafting your essay might be to make sure no judge feels
+              lost or excluded from your target audience while reading it.
+            </p>
+          </details>
+
+          <details class="group border-s-4 border-[#e79986] bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer items-center justify-between gap-1.5">
+              <h2 class="text-lg font-medium text-gray-900">
+                Is there a specific time and time zone for the September 24 submission deadline?
+              </h2>
+
+              <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5 shrink-0 transition duration-300 group-open:-rotate-45" viewBox="0 0 20 20"
+                  fill="currentColor">
+                  <path fill-rule="evenodd"
+                    d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z"
+                    clip-rule="evenodd" />
+                </svg>
+              </span>
+            </summary>
+
+            <p class="mt-4 leading-relaxed text-gray-700">
+              The submission form will close at the end of September 24 according to the Anywhere on Earth calendar
+              designation, which is UTC - 12.
+            </p>
+          </details>
+
+          <details class="group border-s-4 border-[#e79986] bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer items-center justify-between gap-1.5">
+              <h2 class="text-lg font-medium text-gray-900">
+                I understand my essay must not include a cover page, and must not include any headers or footers
+                containing my name or university. But can my essay include those details in its content?
+              </h2>
+
+              <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5 shrink-0 transition duration-300 group-open:-rotate-45" viewBox="0 0 20 20"
+                  fill="currentColor">
+                  <path fill-rule="evenodd"
+                    d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z"
+                    clip-rule="evenodd" />
+                </svg>
+              </span>
+            </summary>
+
+            <p class="mt-4 leading-relaxed text-gray-700">
+              Yes. Essays may include those details if they are part of the content's narrative.
+            </p>
+          </details>
+
+          <details class="group border-s-4 border-[#e79986] bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer items-center justify-between gap-1.5">
+              <h2 class="text-lg font-medium text-gray-900">
+                Updated contest prizes and structure
+              </h2>
+
+              <span class="shrink-0 rounded-full bg-white p-1.5 text-gray-900 sm:p-3">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5 shrink-0 transition duration-300 group-open:-rotate-45" viewBox="0 0 20 20"
+                  fill="currentColor">
+                  <path fill-rule="evenodd"
+                    d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z"
+                    clip-rule="evenodd" />
+                </svg>
+              </span>
+            </summary>
+
+            <p class="mt-4 leading-relaxed text-gray-700">
+              Based upon the submissions received, it was decided to restructure the contest from having separate
+              undergraduate and graduate student divisions with one cash prize in each, to having a single division with
+              three cash prizes.
+            </p>
+          </details>
+
+          <p class="pt-8">Have a question that's not answered here? Email us at hello@proteinreport.org.</p>
+
+        </div>
+      </div>
+    </div>
+    <div class="flex flex-col w-full gap-6 md:col-span-1">
+      <nav class="w-full flex flex-col gap-1">
+        <a class="p-4 bg-yellow-100 text-center font-medium flex flex-row items-center justify-center hover:bg-yellow-200" href="/student-essay-contest-2021/results">
+          <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 576 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M287.9 0c9.2 0 17.6 5.2 21.6 13.5l68.6 141.3 153.2 22.6c9 1.3 16.5 7.6 19.3 16.3s.5 18.1-5.9 24.5L433.6 328.4l26.2 155.6c1.5 9-2.2 18.1-9.6 23.5s-17.3 6-25.3 1.7l-137-73.2L151 509.1c-8.1 4.3-17.9 3.7-25.3-1.7s-11.2-14.5-9.7-23.5l26.2-155.6L31.1 218.2c-6.5-6.4-8.7-15.9-5.9-24.5s10.3-14.9 19.3-16.3l153.2-22.6L266.3 13.5C270.4 5.2 278.7 0 287.9 0zm0 79L235.4 187.2c-3.5 7.1-10.2 12.1-18.1 13.3L99 217.9 184.9 303c5.5 5.5 8.1 13.3 6.8 21L171.4 443.7l105.2-56.2c7.1-3.8 15.6-3.8 22.6 0l105.2 56.2L384.2 324.1c-1.3-7.7 1.2-15.5 6.8-21l85.9-85.1L358.6 200.5c-7.8-1.2-14.6-6.1-18.1-13.3L287.9 79z"/></svg>
+          &nbsp;Results&nbsp; 
+          <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 576 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M287.9 0c9.2 0 17.6 5.2 21.6 13.5l68.6 141.3 153.2 22.6c9 1.3 16.5 7.6 19.3 16.3s.5 18.1-5.9 24.5L433.6 328.4l26.2 155.6c1.5 9-2.2 18.1-9.6 23.5s-17.3 6-25.3 1.7l-137-73.2L151 509.1c-8.1 4.3-17.9 3.7-25.3-1.7s-11.2-14.5-9.7-23.5l26.2-155.6L31.1 218.2c-6.5-6.4-8.7-15.9-5.9-24.5s10.3-14.9 19.3-16.3l153.2-22.6L266.3 13.5C270.4 5.2 278.7 0 287.9 0zm0 79L235.4 187.2c-3.5 7.1-10.2 12.1-18.1 13.3L99 217.9 184.9 303c5.5 5.5 8.1 13.3 6.8 21L171.4 443.7l105.2-56.2c7.1-3.8 15.6-3.8 22.6 0l105.2 56.2L384.2 324.1c-1.3-7.7 1.2-15.5 6.8-21l85.9-85.1L358.6 200.5c-7.8-1.2-14.6-6.1-18.1-13.3L287.9 79z"/></svg>
+        </a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#overview">Overview</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#prompt">Prompt</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#rules">Rules & Requirements</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#selection">Selection Process</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#instructions">Instructions</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#terms">Terms & Conditions</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#judges">Judges</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#faq">FAQ</a>
+      </nav>
+      <aside class="w-full flex flex-col gap-6 items-start md:h-fit md:sticky md:top-0">
+        <h3 class="text-3xl w-full border-b-2 py-2">Supported by</h3>
+        <a href="https://www.shuttleworthfoundation.org/" target="_blank">
+          <img src="shuttleworth-funded-logo.jpg" alt="Shuttleworth Funded logo" class="h-20 object-contain">
+        </a>
+        <a href="https://new-harvest.org/" target="_blank">
+          <img src="new-harvest-logo.png" alt="New Harvest logo" class="h-20 object-contain">
+        </a>
+      </aside>
+    </div>
+  </div>
+</article>
+{{ end }}

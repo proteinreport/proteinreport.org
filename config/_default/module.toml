@@ -1,0 +1,76 @@
+[[mounts]]
+  source = "node_modules/@hyas/core/assets"
+  target = "assets"
+
+[[mounts]]
+  source = "node_modules/@hyas/core/layouts"
+  target = "layouts"
+
+[[mounts]]
+  source = "node_modules/@hyas/tailwindcss/assets"
+  target = "assets"
+
+[[mounts]]
+  source = "node_modules/@hyas/tailwindcss/layouts"
+  target = "layouts"
+
+[[mounts]]
+  source = "node_modules/@hyas/seo/layouts"
+  target = "layouts"
+
+[[mounts]]
+  source = "node_modules/@hyas/images/assets"
+  target = "assets"
+  excludeFiles = "/scss/**.scss"
+
+[[mounts]]
+  source = "node_modules/@hyas/images/layouts"
+  target = "layouts"
+
+[[mounts]]
+  source = "themes/pr/assets"
+  target = "assets"
+
+[[mounts]]
+  source = "themes/pr/layouts"
+  target = "layouts"
+
+[[mounts]]
+  source = "assets"
+  target = "assets"
+
+[[mounts]]
+  source = "layouts"
+  target = "layouts"
+
+[[mounts]]
+  source = "hugo_stats.json"
+  target = "assets/watching/hugo_stats.json"
+
+[[mounts]]
+  source = "node_modules/daisyui/dist"
+  target = "assets"
+
+[[mounts]]
+  source = "node_modules/glightbox/dist"
+  target = "assets"
+
+[[mounts]]
+  source = "node_modules/flexsearch/dist"
+  target = "assets"
+
+[[mounts]]
+  source = "node_modules/leaflet/dist"
+  target = "assets"
+
+[[mounts]]
+  source = "node_modules/leaflet.markercluster/dist"
+  target = "assets"
+
+[[mounts]]
+  source = "node_modules/leaflet-gesture-handling/dist"
+  target = "assets"
+
+[[mounts]]
+  source = "node_modules/netlify-identity-widget/build"
+  target = "assets"

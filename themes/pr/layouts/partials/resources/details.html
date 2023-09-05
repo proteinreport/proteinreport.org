@@ -1,0 +1,42 @@
+<div class="w-full grid grid-cols-2 auto-cols-fr gap-4 py-4 sm:grid-cols-3 md:grid-cols-4">
+  {{ if .Params.proteins -}}
+    <div class="flex flex-col w-full">
+      <h3 class="text-xl text-medium border-b-2">Protein</h3>
+      <div class="flex flex-row flex-wrap gap-2 pt-2">
+        {{ range $index, $proteins := .Params.proteins -}}
+          <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{ end -}}
+      </div>
+    </div>
+  {{ end -}}
+  {{ if .Params.products -}}
+    <div class="flex flex-col w-full">
+      <h3 class="text-xl text-medium border-b-2">Products</h3>
+      <div class="flex flex-row flex-wrap gap-2 pt-2">
+        {{ range $index, $products := .Params.products -}}
+          <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{ end -}}
+      </div>
+    </div>
+  {{ end -}}
+  {{ if .Params.topics -}}
+    <div class="flex flex-col w-full">
+      <h3 class="text-xl text-medium border-b-2">Topics</h3>
+      <div class="flex flex-row flex-wrap gap-2 pt-2">
+        {{ range $index, $topics := .Params.topics -}}
+          <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{ end -}}
+      </div>
+    </div>
+  {{ end -}}
+  {{ if .Params.regions -}}
+    <div class="flex flex-col w-full">
+      <h3 class="text-xl text-medium border-b-2">Regions</h3>
+      <div class="flex flex-row flex-wrap gap-2 pt-2">
+        {{ range $index, $regions := .Params.regions -}}
+          <a class="border-2 p-2" href="{{ "/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{ end -}}
+      </div>
+    </div>
+  {{ end -}}
+</div>

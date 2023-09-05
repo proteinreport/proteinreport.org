@@ -1,0 +1,67 @@
+{{ define "main" }}
+<article>
+  <div class="mx-auto w-full border-y-4 mt-12">
+    <div class="py-12 px-2 mx-auto text-center max-w-7xl 2xl:border-x-4">
+      <h1 class="text-4xl md:text-6xl">{{ .Title }}</h1>
+      <div class="pt-4 text-2xl">
+        {{ partial "article/meta.html" . }}
+      </div>
+    </div>
+  </div>
+  <div class="grid grid-cols-1 gap-6 mx-auto max-w-7xl md:grid-cols-3 2xl:border-x-4">
+    <div class="flex flex-col w-full md:col-span-2">
+      {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+      {{ $image_caption := .Title }}
+      {{ if .Params.featured_image_caption }}
+        {{ $image_caption = .Params.featured_image_caption }}
+      {{ end }}
+      {{ if $image }}
+        <div class="w-full relative">
+          {{ if .Site.Params.hyas_images }}
+            {{ partial "picture" (dict
+            "ctx" .
+            "src" $image
+            "alt" .Title
+            "class" "img-fluid aspect-video w-full object-cover"
+            "loading" "auto"
+            )}}
+          {{ else }}
+            <img src="{{ $image.RelPermalink }}" class="aspect-video w-full object-cover">
+          {{ end }}
+          {{ if .Params.featured_image_caption }}
+            <span class="w-full flex px-6 py-2 bg-gray-100">{{ $image_caption }}</span>
+          {{ end }}
+          {{ partial "article/flags.html" . }}
+        </div>
+      {{ end }}
+      <div class="w-full px-2 py-6 prose prose-xl leading-normal mx-auto">
+        {{ .Content }}
+      </div>
+    </div>
+    <div class="flex flex-col w-full gap-6 md:col-span-1">
+      <aside class="w-full mt-6 px-2 md:pl-0">
+        {{ partial "article/contributors.html" . }}
+        {{ partial "article/categories.html" . }}
+      </aside>
+      <aside class="hidden w-full mt-12 px-2 md:block md:pl-0 md:h-fit md:sticky md:top-0">
+        <h3 class="text-3xl my-2 border-b-2">Featured Articles</h3>
+        {{ partial "article/latest.html" . }}
+      </aside>
+    </div>
+
+    <div class="flex flex-col w-full md:col-span-2">
+      <aside class="w-full px-2 md:pl-6 md:pr-0">
+        {{ partial "article/directory.html" . }}
+      </aside>
+    </div>
+
+    <div class="flex flex-col w-full gap-6 md:col-span-1 md:hidden">
+      <aside class="w-full mt-12 px-2 md:pl-0 md:h-fit md:sticky md:top-0">
+        <h3 class="text-3xl my-2 border-b-2">Featured Articles</h3>
+        {{ partial "article/latest.html" . }}
+      </aside>
+    </div>
+
+  </div>
+</article>
+{{ end }}

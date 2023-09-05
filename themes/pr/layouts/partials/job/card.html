@@ -1,0 +1,32 @@
+<article class="flex flex-row flex-wrap bg-white transition hover:shadow-xl border">
+    <a href="{{ .RelPermalink }}" class="basis-24 md:basis-36 p-4 border flex items-center justify-center">
+        {{ partial "job/logo-list.html" . }}
+    </a>
+    <div class="flex flex-row flex-1 flex-wrap justify-between">
+
+        <div class="flex flex-col justify-center">
+            <div class="p-4 sm:p-6">
+                <a href="{{ .RelPermalink }}">
+                    <h3 class="font-bold md:text-2xl break-words text-gray-900">
+                        {{ .Params.title }}
+                    </h3>
+                </a>
+
+                <p class="mt-2 line-clamp-3 text-sm/relaxed text-gray-700">
+                    {{ partial "job/location-list.html" . }}
+                </p>
+
+                <p class="hidden mt-2 line-clamp-3 text-sm/relaxed text-gray-700">
+                    {{ .Params.excerpt | safeHTML | truncate 100 }}
+                </p>
+            </div>
+        </div>
+
+        <div class="flex flex-col justify-center p-4 sm:p-6">
+            <p><span class="font-bold">Posted:</span> {{ .PublishDate.Format "Jan 2, 2006" }}</p>
+            {{ if .Params.closing_date }}
+            <p><span class="font-bold">Closing: </span> {{ dateFormat "Jan 2, 2006" .Params.closing_date }}</p>
+            {{ end }}
+        </div>
+    </div>
+</article>

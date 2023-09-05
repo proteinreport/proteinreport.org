@@ -1,0 +1,183 @@
+{{ define "main" }}
+<article>
+  {{ partial "main/page-title.html" . }}
+  <div class="grid grid-cols-1 gap-6 mx-auto max-w-7xl 2xl:border-x-4">
+    <div class="flex flex-col w-full">
+      {{ $image := .Resources.GetMatch .Params.featured_image -}} {{ if $image
+      -}}
+      <div class="w-full relative">
+        <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid w-full" />
+      </div>
+      {{ end -}}
+    </div>
+  </div>
+  <div class="grid grid-cols-1 gap-6 mt-6 mx-auto px-2 max-w-7xl md:px-6 md:grid-cols-3 2xl:border-x-4">
+    <div class="flex flex-col gap-6 w-full text-xl col-span-1 md:col-span-2">
+      <div class="w-full mx-auto px-2 md:px-24">
+        <p class="text-xl font-medium italic text-center">
+          This document has been archived and superseded by standards outlined on citools.org.
+        </p>
+      </div>
+
+      <div id="preamble" class="flex w-full flex-col gap-4">
+        <h2 class="py-1 border-b-2 font-medium text-3xl">
+          Preamble
+        </h2>
+        <p>Protein Report’s mission is to advance public understanding of protein. But the primary challenge we face is not a shortage of available information or reporting, nor is it a lack of public exposure to such information. Rather, the main barrier to a more protein-literate society is how protein is commonly thought about, talked about, and written about.</p>
+
+        <p>Dialogue around protein is often contentious, impassioned, and polarized. That’s because protein cuts to the core of our identities. It plays a central role in many traditions, how we raise our families, and how we express care for our loved ones. It defines how we see our place in nature and our concepts of right and wrong. It reveals our commitment to justice and determines the kind of world we leave for our children. All this, and more, in a single nutrient.</p>
+
+        <p>But a contentious and ideologically driven information environment isn’t just a barrier to public understanding of protein. It also impacts policy, corporate, investment, and consumer decisions that have real consequences for human, planetary, and animal health.</p>
+
+        <p>This Code of Practice aims to lower the temperature and reduce the rhetoric in protein-related communications. It offers simple, actionable guidance and best practices to allow science, evidence, and reason to take center stage and become the foundation of a better protein economy.</p>
+      </div>
+
+      <div id="introduction" class="flex w-full flex-col gap-4">
+        <h2 class="py-1 border-b-2 font-medium text-3xl">
+          Introduction
+        </h2>
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">What is it?</h3>
+          <p>This Code of Practice is a set of principles, guidelines, and standards for public-facing communications related to protein. It formalizes key elements of Protein Report’s editorial positioning, but it can be used by any stakeholder with an interest in the protein economy and information landscape.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">Why a Code of Practice?</h3>
+          <p>Communications strategies across the protein industries vary widely. Even within companies and organizations, there is often significant inconsistency across individuals in how key messages are communicated to the public. This contributes to confusion around protein as journalists and others are left to make their own interpretations. This Code addresses the need for standards in protein communications that support a more neutral, less contentious information environment.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">Who can use it?</h3>
+          <p>This Code can be used by any individual or organization engaged in public-facing communications about protein. It is specifically intended for journalists, editors, communications professionals, marketing managers, researchers, startups, nonprofits, investors, influencers, and anyone else serious about optimizing their communications for impact.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">How to use it</h3>
+          <p>Organizations, businesses, and publications are encouraged to build upon this Code to develop their own internal policies and standards. Individual journalists, influencers, and public figures can use it as a guide to develop and refine a clear, consistent approach to addressing controversy and sensitive topics around protein. The Code’s sections are intentionally broad, generalized, and are not intended to be exhaustive. All users should strive to follow the Code’s principles rather than merely its specific prescriptions.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">How to use it</h3>
+          <p>The Code’s main principles can be summarized as follows:</p>
+          <p>
+            <ul class="list-disc list-outside pl-8">
+              <li>Consider the likely impact of communications decisions</li>
+              <li>Support the normalization of informed and well-reasoned dialogue</li>
+            </ul>
+          </p>
+        </div>
+      </div>
+
+      <div id="language" class="flex w-full flex-col gap-4">
+        <h2 class="py-1 border-b-2 font-medium text-3xl">
+          Language
+        </h2>
+        <div class="bg-amber-50 p-4">
+          <h3 class="font-medium">Principles</h3>
+          <p>Prioritize results. Use language palatable to audiences from varying backgrounds. Resist temptations to rally likeminded peers using language that might alienate or reduce resonance among others.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">Terminology</h3>
+          <p>Avoid polarizing terms. Choose neutral words that convey equivalent information and clarity wherever possible. Terms associated with activism, alternative lifestyles, or that reveal ideological bias often inflame emotions and impair critical reasoning.</p>
+          <p>
+            <ul class="list-disc list-outside pl-8">
+              <li>Examples of terms to avoid: vegan, vegan meat/dairy/products, fake meat/dairy/products, synthetic, imitation, lab/lab-grown</li>
+              <li>Instead, consider more neutral terms: plant-based meat/dairy/products, plant-based diet/lifestyle, vegan-certified/friendly, meat/dairy analogue, cell-based/cultivated/cultured, animal-free, slaughter-free
+              </li>
+            </ul>
+          </p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">Tone</h3>
+          <p>Similar to terminology, avoid confrontational tones and phrasings. Seek common ground. Approach audiences coming from different perspectives with respect. Rely on evidence and reason rather than passion or rhetoric to prove a point.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">Symbols</h3>
+          <p>Avoid potentially polarizing symbols. These may be abbreviations or derivatives of terms associated with activism or alternative lifestyles. Refrain from using them in social media profiles, brand logos, and marketing materials. While they may effectively signal to likeminded peers, try to consider their impact on wider audiences.</p>
+        </div>
+      </div>
+
+      <div id="sources" class="flex w-full flex-col gap-4">
+        <h2 class="py-1 border-b-2 font-medium text-3xl">
+          Sources
+        </h2>
+        <div class="bg-amber-50 p-4">
+          <h3 class="font-medium">Principles</h3>
+          <p>Sources imply standards. Aim for maximum credibility. Assume audiences will be critical of all references.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">Citations</h3>
+          <p>Leverage the authority of official data sources and analyses from widely respected organizations. Avoid references to highly partisan individuals or organizations. When considering a potential link, reference, or citation, evaluate its author, his or her organization, and the publication. Links, references, or citations to activist, alternative lifestyle, or heavily biased organizations are easy targets for those aiming to question your objectivity.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">Social media</h3>
+          <p>Establish formal standards for official organizational social media profiles. Include rules and guidelines for acceptable terminology and to limit interaction with partisan or activist accounts. Be selective of the voices and sources you choose to amplify. Resist temptations to rally your own community with content that may alienate others from your work.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">Newsletters</h3>
+          <p>Establish formal standards for organizational newsletters. Be selective of the voices and sources you choose to amplify. Avoid sharing content from highly partisan individuals, organizations, and publications – such content may generate positive feedback from within your community, but could alienate others from your work or the entire field.</p>
+        </div>
+      </div>
+
+      <div id="content" class="flex w-full flex-col gap-4">
+        <h2 class="py-1 border-b-2 font-medium text-3xl">
+          Content
+        </h2>
+        <div class="bg-amber-50 p-4">
+          <h3 class="font-medium">Principles</h3>
+          <p>Target diverse audiences. Objectives are demonstrated, not stated.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">Editorial balance</h3>
+          <p>Make science, evidence, and reason the foundation of your content strategy. Give fair consideration to various perspectives but base the selection, weight, and position of different voices upon their contributions to protein challenges or solutions – not merely their industry strength or popularity.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">Headlines</h3>
+          <p>Headlines for articles, videos, podcasts, and blog posts are read by many more than actually engage with the full content. Give them the consideration they deserve. Clearly mark opinion pieces. Pay extra attention to the principles and guidelines in this Code’s Language section.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">Getting personal</h3>
+          <p>Unless key to a personal narrative, avoid explicitly mentioning your own dietary restrictions or practices related to protein sources. Doing so often increases resonance with some audiences at the cost of reduced resonance with others. Instead, consider letting audiences come to their own conclusions based upon the information presented.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">Revealed intent</h3>
+          <p>Ignore proclamations from brands, organizations, or individuals stating their objectives. Instead, evaluate the merits of their strategies, activities, and messaging. Don’t state your own objective unless you can back it up with a results-oriented communications strategy.</p>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="font-medium">Dealing with trolls</h3>
+          <p>Establish a policy for dealing with trolls. If a troll raises valid arguments worthy of public debate or discussion, create your own context for addressing them that doesn’t fuel trolling intentions. Consider engaging with the troll through direct messages to defuse tensions and find common ground.</p>
+        </div>
+      </div>
+
+      <div id="notes" class="flex w-full flex-col gap-4">
+        <h2 class="py-1 border-b-2 font-medium text-3xl">
+          Notes
+        </h2>
+        <p>This document is a work in progress. It may be updated at any time to reflect changes in the protein sector as well as to improve and clarify its content. Please direct comments, questions, and suggestions to hello@proteinreport.org.</p>
+      </div>
+
+    </div>
+    <div class="flex flex-col w-full gap-6 text-lg md:col-span-1 md:h-fit md:sticky md:top-0">
+      <nav class="w-full flex flex-col gap-1">
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#preamble">Preamble</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#introduction">Introduction</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#language">Language</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#sources">Sources</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#content">Content</a>
+        <a class="p-4 bg-gray-50 hover:bg-gray-100" href="#notes">Notes</a>
+      </nav>
+    </div>
+  </div>
+</article>
+{{ end }}

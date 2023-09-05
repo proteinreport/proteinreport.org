@@ -1,0 +1,30 @@
+{{ define "main" }}
+{{ partial "main/page-title.html" . }}
+<section id="events" class="w-full">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <div class="w-full grid grid-cols-1 gap-8 py-12 auto-rows-fr md:grid-cols-2">
+      <div class="flex flex-col space-y-4 justify-center border bg-white shadow-lg p-6 leading-normal">
+
+        <p class="text-2xl">The protein industry directory of companies and organizations</p>
+
+      </div>
+      <div class="flex flex-col space-y-4 items-center justify-center border bg-white shadow-lg p-6">
+        <a class="text-2xl btn-yellow mx-auto" href="mailto:hello@proteinreport.org">Add Company</a>
+      </div>
+    </div>
+
+    <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 sm:grid-cols-2 md:grid-cols-3">
+      {{ $paginator := .Paginate (.Data.Pages) -}}
+      {{ range $paginator.Pages -}}
+        {{ partial "directory/card.html" . }}
+      {{ end }}
+    </div>
+  </div>
+  <div class="flex flex-wrap  justify-center">
+    <div class="md:w-full pr-4 pl-4 lg:w-3/4 pr-4 pl-4">
+      {{ partial "main/pagination.html" . }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

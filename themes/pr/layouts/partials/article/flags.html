@@ -1,0 +1,9 @@
+<div class="w-full absolute top-0 right-0 z-1000">
+  <div class="flex flex-row float-right pt-2 pr-2">
+    {{ if .Params.flags -}}
+      {{ range $index, $flags := .Params.flags -}}
+        <p class="bg-white border-2 p-2 ml-2">{{ . }}</p>
+      {{ end -}}
+    {{ end -}}
+  </div>
+</div>

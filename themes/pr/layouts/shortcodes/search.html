@@ -1,0 +1,26 @@
+
+<p class="error message js-hidden hidden">You must have Javascript enabled to use this function.</p>
+<p class="search-loading status message hidden">Loading search index...</p>
+
+<div class="search-input w-full hidden">
+  <form id="search-form" class="search-form w-full" action="#" method="post" accept-charset="UTF-8" role="search">
+    <label for="query" class="hidden">Search</label>
+    <input type="search" id="query" name="query" class="search-text w-full text-xl" placeholder="Search terms...">
+    <button class="btn-yellow hidden" type="submit" name="submit">Search</button>
+  </form>
+</div>
+
+<div class="search-results grid grid-cols-1 gap-6 divide-y-2"></div>
+
+<template>
+  <article class="search-result list-view">
+    <header>
+      <h2 class="title text-xl"><a href="#">Title here</a></h2>
+    </header>
+    <div class="content text-lg">Summary here</div>
+    <div class="submitted w-full flex flex-row justify-between mt-4">
+      <time class="created-date text-xs">Date here</time>
+      <span class="content-type uppercase text-xs">Type here</span>
+    </div>
+  </article>
+</template>

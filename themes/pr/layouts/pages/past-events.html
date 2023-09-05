@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<section id="events" class="w-full">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      {{ partial "main/page-title.html" . }}
+      <div class="w-full grid grid-cols-1 auto-rows-fr gap-8">
+          {{ $all_events := where .Site.RegularPages "Section" "events" }}
+          {{ range (sort $all_events ".Params.start_date" "desc") }}
+            {{ $start := (time .Params.start_date).Unix }}
+            {{ $now := now.Unix }}
+            {{ if (lt $start $now) }}
+                {{ partial "event/card.html" . }}
+            {{ end }}
+          {{ end }}
+      </div>
+  </div>
+</section>
+
+{{ end }}

@@ -1,0 +1,14 @@
+<section id="events" class="w-full">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="w-full py-12">
+            <h2 class="text-7xl">Directory</h2>
+            <p>Companies and organizations</p>
+        </div>
+        <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 sm:grid-cols-2 md:grid-cols-3">
+            {{ $directory:= shuffle ( where .Site.RegularPages "Section" "directory" ) }}
+            {{ range first 9 $directory }}
+                {{ partial "directory/card.html" . }}
+            {{ end }}
+        </div>
+    </div>
+</section>

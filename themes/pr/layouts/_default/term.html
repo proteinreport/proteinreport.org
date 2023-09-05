@@ -1,0 +1,63 @@
+{{ define "main" }}
+<section class="relative w-full">
+  <div class="relative w-full mx-auto 2xl:max-w-7xl">
+      {{ partial "main/page-title.html" . }}
+      <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 mx-auto max-w-7xl py-8 px-4 sm:px-6 lg:px-8 md:grid-cols-2">
+        {{ $term_pages := (where .Pages "Section" "in" (slice "articles" "newswire")).ByDate.Reverse }}
+        {{ $paginator := .Paginate $term_pages -}}
+        {{ range $paginator.Pages }}
+        {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+        <article class="flex bg-white transition hover:shadow-xl border">
+          <div class="rotate-180 p-2 [writing-mode:_vertical-lr]">
+            <time datetime="{{ .PublishDate.Format " 2006-01-02" }}"
+              class="flex items-center justify-between gap-4 text-xs font-bold uppercase text-gray-900">
+              <span>{{ .PublishDate.Format "2006" }}</span>
+              <span class="w-px flex-1 bg-gray-900/10"></span>
+              <span>{{ .PublishDate.Format "Jan 2" }}</span>
+            </time>
+          </div>
+  
+          <div class="hidden sm:block sm:basis-56">
+            {{ if $image }}
+            <img alt="" src="{{ $image.RelPermalink }}" class="aspect-square w-full object-cover" />
+            {{ end }}
+          </div>
+  
+          <div class="flex flex-1 flex-col justify-between">
+            <div class="border-s border-gray-900/10 p-4 sm:border-l-transparent sm:p-6">
+              <a href="{{ .RelPermalink }}">
+                <h3 class="font-bold uppercase text-gray-900">
+                  {{ .Params.title | truncate 120 }}
+                </h3>
+              </a>
+  
+              <p class="hidden mt-2 line-clamp-3 text-sm/relaxed text-gray-700">
+                {{ .Params.excerpt | safeHTML | truncate 100 }}
+              </p>
+            </div>
+  
+            <div class="sm:flex sm:items-end sm:justify-end">
+            {{ if eq .Section "newswire" }} 
+              <a href="{{ .RelPermalink }}"
+                class="block bg-yellow-300 px-5 py-3 text-center text-xs font-bold uppercase text-gray-900 transition hover:bg-yellow-400">
+                Press Release
+              </a>
+            {{ else if eq .Section "articles" }}  
+              <a href="{{ .RelPermalink }}"
+                class="block bg-green-300 px-5 py-3 text-center text-xs font-bold uppercase text-gray-900 transition hover:bg-yellow-400">
+                Article
+              </a>
+            {{ end }} 
+            </div>
+          </div>
+        </article>
+        {{ end }}
+      </div>
+      <div class="flex flex-wrap justify-center">
+        <div class="md:w-full pr-4 pl-4 lg:w-3/4 pr-4 pl-4">
+          {{ partial "main/pagination.html" . }}    
+        </div>
+      </div>
+  </div>
+</section>
+{{ end }}

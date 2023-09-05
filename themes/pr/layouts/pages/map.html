@@ -1,0 +1,30 @@
+{{ define "main" }}
+{{ partial "main/page-title.html" . }}
+
+<article>
+  <div class="grid grid-cols-1 gap-6 mx-auto max-w-7xl 2xl:border-x-4">
+    <div class="flex flex-col w-full">
+      <div id="map" class="h-screen"></div>
+      <p class="text-center">For research and discovery purposes. Locations may be approximate.</p>
+    </div>
+  </div>
+</article>
+
+{{ $directory:= where .Site.RegularPages "Section" "directory" }}
+{{ range $directory }}
+  {{ $lat := index .Params.location 0 }}
+  {{ $lon := index .Params.location 1 }}
+  {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+  {{ if $image }}
+    {{ $image = $image.Resize "40x webp drawing q95" }}
+  {{ end}}
+  <div class="dir-item hidden" data-lat="{{ $lat }}" data-lon="{{ $lon }}" data-name="{{ .Title }}" data-link="{{ .RelPermalink }}" data-logo=" {{ if $image }} {{ $image.RelPermalink }} {{ end }}">
+    <div class="popup-content">
+      <div class="flex flex-col">
+        <p><a href="{{ .RelPermalink }}" target="_blank">{{ .Title }}</a></p>
+      </div>
+    </div>
+  </div>
+{{ end }}
+
+{{ end }}

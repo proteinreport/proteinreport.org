@@ -1,0 +1,13 @@
+/node_modules
+/public
+/resources
+.netlify
+.hugo_build.lock
+.Rproj.user
+/.frontmatter
+frontmatter.json
+**/*.R
+**/*.csv
+*.Rproj
+.Rhistory
+.RData

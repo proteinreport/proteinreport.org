@@ -1,0 +1,18 @@
+{{ define "main" }}
+<article>
+  {{ partial "main/page-title.html" . }}
+  <div class="grid grid-cols-1 gap-6 mx-auto max-w-7xl 2xl:border-x-4">
+    <div class="flex flex-col w-full">
+      {{ $image := .Resources.GetMatch .Params.featured_image -}}
+      {{ if $image -}}
+        <div class="w-full relative">
+          <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid aspect-video object-cover w-full">
+        </div>
+      {{ end -}}
+      <div class="w-full mx-auto px-2 py-4 prose prose-xl leading-normal md:px-24">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</article>
+{{ end }}

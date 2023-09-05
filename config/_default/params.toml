@@ -1,0 +1,18 @@
+# Meta Data for SEO
+
+## Homepage
+title = "Protein Report"
+titleSeparator = "-"
+titleAddition = "Protein economy news and industry platform"
+
+
+twitterSite = "@Protein_Report"
+twitterCreator = "@Protein_Report"
+
+images = ["/favicon.png"]
+ogLocale = "en_US"
+titleHome = "Protein Report"
+
+[options]
+darkMode = true
+

@@ -1,0 +1,45 @@
+{{ define "main" }}
+{{ partial "main/page-title.html" . }}
+<section id="newswire-list" class="w-full">
+  <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+    <div class="w-full grid grid-cols-1 gap-8 py-12 md:grid-cols-2">
+      <div class="flex flex-col space-y-4 bg-white border shadow-lg p-6 text-xl">
+        <p class="text-2xl">The free press release distribution platform for companies and organizations addressing protein industry challenges and developing novel solutions</p>
+        
+        <p>To meet our eligibility criteria, press releases must:</p>
+
+        <ul class="list-disc list-outside pl-6">
+          <li>Describe scientific, industry, commercial, or policy information first released within the past 90 days</li>
+          <li>Offer non-promotional news value - releases that are primarily promotional may not be accepted</li>
+          <li>Be written in a native level of English</li>
+        </ul>
+               
+      </div>
+      <div class="flex flex-col space-y-4 bg-white border shadow-lg p-6 text-xl leading-normal my-auto">
+        <a class="text-2xl btn-yellow mx-auto" href="mailto:news@proteinreport.org">Submit Press Release</a>
+
+        <p>
+          Protein Report may accept or deny submissions at its sole discretion. See the <a href="/newswire-terms">Newswire terms</a> for more details.
+        </p>
+
+        <p>
+          Have questions? Send an email to hello@proteinreport.org to learn more.
+        </p>
+      </div>
+    </div>
+
+    <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 md:grid-cols-2">
+      {{ $paginator := .Paginate (.Data.Pages) -}}
+      {{ range $paginator.Pages -}}
+      {{ partial "newswire/card.html" . }}
+      {{ end }}
+    </div>
+  </div>
+  <div class="flex flex-wrap  justify-center">
+    <div class="md:w-full pr-4 pl-4 lg:w-3/4 pr-4 pl-4">
+      {{ partial "main/pagination.html" . }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

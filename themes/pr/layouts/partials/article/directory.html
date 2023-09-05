@@ -1,0 +1,9 @@
+{{ $p := where (where .Site.Pages "Section" "directory") "Params.uuid" "in" .Params.directory }}
+{{ if $p }}
+  <h3 class="text-3xl my-2 border-b-2">In this Article</h3>
+  <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 sm:grid-cols-2">
+  {{ range $p }}
+    {{ partial "directory/card.html" . }}
+  {{end}}
+  </div>
+{{ end }}

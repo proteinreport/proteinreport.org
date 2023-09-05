@@ -1,0 +1,11 @@
+{{ if .Params.link -}}
+  {{ $url := .Params.link }}
+  {{ $u := urls.Parse $url }}
+  <div class="flex flex-col gap-2 p-2 w-full">
+    {{ if in .Params.resource_type "industry" }}
+      <a class="w-full border-2 p-2 text-center" target="_blank" href="{{ .Params.link }}">Full report at {{ $u.Hostname }}</a>
+    {{ else if in .Params.resource_type "academic" }}
+      <a class="w-full border-2 p-2 text-center" target="_blank" href="{{ .Params.link }}">Full article at {{ $u.Hostname }}</a>
+    {{ end }}
+  </div>
+{{ end -}}

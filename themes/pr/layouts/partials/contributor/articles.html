@@ -1,0 +1,20 @@
+<section id="articles" class="w-full">
+    {{ $contributor_name := .Title }}
+    {{ $contributor_uuid := .Params.uuid }}
+    {{ $articles := where site.RegularPages "Type" "articles" }}
+    {{ with where $articles ".Params.contributors" "intersect" (slice $contributor_uuid) }}
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="w-full py-12">
+            <h2 class="text-7xl">Articles</h2>
+            <p>By {{ $contributor_name }}</p>
+        </div>
+        <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 md:grid-cols-2">
+            {{ range . }}
+            {{ if .Params.featured_image }}
+            {{ partial "article/card.html" . }}
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+</section>
