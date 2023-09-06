@@ -12,7 +12,7 @@ const BUILD_HOOK = PR_DEPLOY
 
 // Schedules the handler function to run at midnight on
 // Mondays, Wednesday, and Friday
-const handler = schedule('*/5 * * * *', async () => {
+const handler = schedule('0 0 * * *', async () => {
   await fetch(BUILD_HOOK, {
     method: 'POST'
   }).then(response => {
