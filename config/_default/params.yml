@@ -55,8 +55,8 @@ seo:
     home_text: "News and information resource"
   og_article_types: [post, posts, blog, news, article, articles, event, events, course, courses]
   jsonld_article_types: [article, articles]
-  jsonld_news_article_types: [news, updates]
-  jsonld_blog_posting_types: [post, posts, blog]
+  jsonld_news_article_types: [news, updates, newswire]
+  jsonld_blog_posting_types: [post, posts, blog, pages]
   image: "/logo-stacked-inverted-small.png" 
   private: false
 
