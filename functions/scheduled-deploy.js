@@ -4,13 +4,15 @@
 import fetch from 'node-fetch'
 import { schedule } from '@netlify/functions'
 
+// Get environment variables
+const { PR_DEPLOY } = process.env;
+
 // This is a sample build hook URL
-const BUILD_HOOK =
-  'https://api.netlify.com/build_hooks/64f81bc3767e5843d3fd3667'
+const BUILD_HOOK = PR_DEPLOY
 
 // Schedules the handler function to run at midnight on
 // Mondays, Wednesday, and Friday
-const handler = schedule('0 0 * * *', async () => {
+const handler = schedule('*/5 * * * *', async () => {
   await fetch(BUILD_HOOK, {
     method: 'POST'
   }).then(response => {
