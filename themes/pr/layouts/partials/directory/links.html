@@ -1,7 +1,7 @@
-<div class="w-full flex flex-col flex-wrap gap-4 pb-2 p-2">
+<div class="w-full flex flex-col flex-wrap gap-4">
   {{ $url := .Params.website }}
   {{ $u := urls.Parse $url }}
-  <a href="{{ .Params.website }}" target="_blank" class="w-full p-4 border-2 text-2xl text-center">{{ $u.Hostname }}</a>
+  <a href="{{ .Params.website }}" target="_blank" class="btn-yellow text-xl">{{ $u.Hostname }}</a>
   <div class="flex flex-row flex-wrap gap-2 w-full">
     {{ if .Params.linkedin -}}
       <a class="border-2 p-2" target="_blank" href="{{ .Params.linkedin }}">LinkedIn</a>
