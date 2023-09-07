@@ -3,7 +3,7 @@
 {{ if hasPrefix . "G-"}}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
 <script>
-    { { template "__ga_js_set_doNotTrack" $ } }
+    {{ template "__ga_js_set_doNotTrack" $ }}
     if (!doNotTrack) {
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
@@ -11,6 +11,7 @@
         gtag('config', '{{ . }}', { 'anonymize_ip': {{- $pc.AnonymizeIP -}} });
 }
 </script>
+
 {{- end -}}
 {{- end }}{{ end -}}
 
