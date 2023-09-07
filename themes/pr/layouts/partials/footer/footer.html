@@ -5,26 +5,30 @@
     - @tailwindcss/forms
 -->
 {{ if .Site.Params.event_partners }}
-{{ $articles := where .Site.RegularPages "Section" "articles" }}
+{{ $partners := where .Site.RegularPages "Section" "partners" }}
+{{ $partners = where $partners "Params.partner_type" "intersect" (slice "Event-Media") }}
+{{ $partners = where $partners "Params.active" true | shuffle }}
+<h2 class="mt-24 py-4 w-full text-3xl text-center">Event Partners</h2>
 <div id="event-partners" class="glide">
     <div data-glide-el="track" class="glide__track">
       <ul class="glide__slides flex flex-row">
-        {{ range first 10 $articles }}
+        {{ range $partners }}
             {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
             {{ if $image }}
                 <li class="glide__slide">
-                    {{ if .Site.Params.hyas_images }}
-                        {{ partial "picture" (dict
-                        "ctx" .
-                        "src" $image
-                        "alt" .Title
-                        "widths" (slice 40 70 150 224)
-                        "class" "img-fluid blur-up w-full aspect-video object-cover"
-                        "loading" "auto"
-                        )}}
-                    {{ else }}
-                        <img alt="House" src="{{ $image.RelPermalink }}" class="w-full aspect-video object-cover" />
-                    {{ end }}
+                    <a href="{{ .Params.link }}" target="_blank">
+                        {{ if .Site.Params.hyas_images }}
+                            {{ partial "picture" (dict
+                            "ctx" .
+                            "src" $image
+                            "alt" .Title
+                            "widths" (slice 40 70 150 224)
+                            "class" "img-fluid blur-up w-full aspect-video object-contain p-4"
+                            )}}
+                        {{ else }}
+                            <img alt="House" src="{{ $image.RelPermalink }}" class="w-full aspect-video object-contain p-4" />
+                        {{ end }}
+                    </a>
                 </li>
             {{ end }}
         {{ end }}
@@ -33,7 +37,7 @@
 </div>
 {{ end }}
 
-<footer class="bg-gray-100 mt-36">
+<footer class="bg-gray-100 mt-24">
     <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
         <div class="lg:flex lg:items-start lg:gap-8">
             <div class="text-teal-600">

@@ -16,7 +16,7 @@ googleAnalytics = "G-KXVQT2THTT"
 
 [params]
   hyas_images = false
-  event_partners = false
+  event_partners = true
 
 copyRight = "Copyright (c) 2023 Protein Report"
 

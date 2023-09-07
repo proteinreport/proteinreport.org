@@ -72,14 +72,24 @@ import Glide from '@glidejs/glide';
 
 var glide = new Glide('#event-partners', {
   type: 'carousel',
-  perView: 4,
-  focusAt: 'center',
+  perView: 8,
+  startAt: 1,
+  autoplay: 2000,
+  hoverpause: true,
+  peek: 0,
+  gap: 0,
   breakpoints: {
-    800: {
-      perView: 2
+    1024: {
+      perView: 6
     },
-    480: {
-      perView: 1
+    768: {
+      perView: 4
+    },
+    640: {
+      perView: 3
+    },
+    400: {
+      perView: 2
     }
   }
 })
