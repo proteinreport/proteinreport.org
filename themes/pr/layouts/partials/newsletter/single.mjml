@@ -1,0 +1,58 @@
+<mjml>
+  <mj-body background-color="#f4f4f4">
+    <!-- Header Section -->
+    <mj-section background-color="#35477d">
+      <mj-column>
+        <mj-image src="https://via.placeholder.com/600x200" alt="Newsletter Header" width="600px" height="200px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Articles Section -->
+
+    <mj-raw>
+    {{ if .Params.articles_enabled }}
+    </mj-raw>
+
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text font-size="28px" color="#333333" font-weight="bold" padding="20px 0">Articles</mj-text>
+
+        <!-- Loop through Hugo content for articles, sorted by date -->
+
+        <mj-raw>
+        {{ $articles := where .Site.RegularPages "Section" "articles" }}
+        {{ $sortedArticles := sort $articles "Date" "desc" }}
+        
+        {{ range first 3 $sortedArticles }}
+        {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+        </mj-raw>
+
+          <mj-divider border-color="#e4e4e4" border-width="1px" padding="20px 0" />
+          
+          <mj-image src="{{ $image.RelPermalink }}" alt="{{ .Title }}" width="300px" height="200px" />
+          <mj-text font-size="20px" color="#333333" font-weight="bold" padding="20px 0">{{ .Title }}</mj-text>
+          <mj-text color="#666666" padding="0 20px">{{ .Summary }}</mj-text>
+          <mj-button background-color="#4CAF50" color="white" href="{{ .Permalink }}" padding="20px 0">Read More</mj-button>
+
+        <mj-raw>
+        {{ end }}
+        </mj-raw>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+    {{ end }}
+    </mj-raw>
+
+    <!-- Footer Section -->
+    <mj-section background-color="#35477d">
+      <mj-column>
+        <mj-divider border-color="#ffffff" border-width="1px" padding="20px 0" />
+        <mj-text font-size="16px" color="#ffffff" padding-top="10px">
+          For more information, visit <a href="https://www.proteinreport.org/" style="color: #ffffff;">Protein Report</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
