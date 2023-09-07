@@ -1,3 +1,6 @@
+{{ partial "main/ga.html" . }}
+{{ partial "footer/esbuild" (dict "src" "netlify-identity-widget.js" "load" "async" "transpile" false) -}}
+
 {{ partial "footer/esbuild" (dict "src" "js/app.js" "targetPath" "main.js" "load" "async" "transpile" false) -}}
 
 {{/* EXAMPLE - only load script for production
