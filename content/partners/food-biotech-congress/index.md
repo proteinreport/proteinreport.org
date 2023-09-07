@@ -4,13 +4,13 @@ date: 2021-08-11 15:26:16
 lastmod: 2021-08-11 15:26:16
 slug: food-biotech-congress
 link: https://www.lsxleaders.com/food
-partner_type: ["NA"]
-images: ["Food Biotech Congress Header.png"]
+partner_type: [NA]
 featured_image: "Food Biotech Congress Header.png"
-draft: true
 active: true
 uuid: 9480
 weight: 5000
-nolist: true
-norender: true
+_build:
+  list: true
+  render: false
+  publishResources: true
 ---

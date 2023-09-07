@@ -4,13 +4,13 @@ date: 2021-06-24 15:32:30
 lastmod: 2021-06-24 15:32:30
 slug: shuttleworth-foundation
 link: https://shuttleworthfoundation.org/
-partner_type: ["NA"]
-images: ["Shuttleworth Funded.jpg"]
+partner_type: [NA]
 featured_image: "Shuttleworth Funded.jpg"
-draft: true
 active: true
 uuid: 9212
 weight: 5000
-nolist: true
-norender: true
+_build:
+  list: true
+  render: false
+  publishResources: true
 ---
