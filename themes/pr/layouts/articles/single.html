@@ -26,7 +26,7 @@
             "loading" "auto"
             )}}
           {{ else }}
-            <img src="{{ $image.RelPermalink }}" class="aspect-video w-full object-cover">
+            <img src="{{ $image.RelPermalink }}" class="aspect-video w-full object-cover" alt="{{ .Title }}">
           {{ end }}
           {{ if .Params.featured_image_caption }}
             <span class="w-full flex px-6 py-2 bg-gray-100">{{ $image_caption }}</span>
@@ -44,7 +44,7 @@
         {{ partial "article/categories.html" . }}
       </aside>
       <aside class="hidden w-full mt-12 px-2 md:block md:pl-0 md:h-fit md:sticky md:top-0">
-        <h3 class="text-3xl my-2 border-b-2">Featured Articles</h3>
+        <h2 class="text-3xl my-2 border-b-2">Featured Articles</h2>
         {{ partial "article/latest.html" . }}
       </aside>
     </div>
