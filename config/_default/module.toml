@@ -74,3 +74,7 @@
 [[mounts]]
   source = "node_modules/netlify-identity-widget/build"
   target = "assets"
+
+[[mounts]]
+  source = "node_modules/@glide/glidejs/dist"
+  target = "assets"

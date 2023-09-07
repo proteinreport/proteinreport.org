@@ -66,3 +66,22 @@ if (emailForm) {
 }
 
 
+// Glide slider
+
+import Glide from '@glidejs/glide';
+
+var glide = new Glide('#event-partners', {
+  type: 'carousel',
+  perView: 4,
+  focusAt: 'center',
+  breakpoints: {
+    800: {
+      perView: 2
+    },
+    480: {
+      perView: 1
+    }
+  }
+})
+
+glide.mount()

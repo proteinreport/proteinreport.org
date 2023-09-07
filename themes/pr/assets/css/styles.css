@@ -36,6 +36,8 @@
 
 @import './pace.css';
 
+@import './glide.core.css';
+
 @layer base {
   body {
     margin: 0;
