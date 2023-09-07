@@ -4,7 +4,7 @@
 <article>
   {{ partial "main/page-title.html" . }}
   <div class="grid grid-cols-1 gap-6 mx-auto mt-6 max-w-7xl md:grid-cols-3 md:divide-x-2 2xl:border-x-4">
-    <div class="relative w-full flex justify-center items-center">
+    <div class="relative w-full flex justify-center items-center p-6">
       {{ if $image -}}
         {{ if .Site.Params.hyas_images }}
           {{ partial "picture" (dict
@@ -12,11 +12,11 @@
           "src" $image
           "alt" .Title
           "widths" (slice 40 70 150 224 480)
-          "class" "img-fluid w-1/2 aspect-square object-cover"
+          "class" "img-fluid aspect-square object-cover"
           "loading" "auto"
           )}}
         {{ else }}
-          <img src="{{ $image.RelPermalink }}" class="w-1/2 aspect-square object-cover">
+          <img src="{{ $image.RelPermalink }}" class="aspect-square object-cover">
         {{ end }}
       {{ else }}
         {{ if .Site.Params.hyas_images }}
