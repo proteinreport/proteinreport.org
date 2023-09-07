@@ -4,7 +4,7 @@ date: 2022-03-28 08:55:46
 lastmod: 2022-03-28 08:55:46
 slug: bridge2food
 link: https://bridge2food.com/site/en/page/summit-europe?utm_source=proteinreport
-partner_type: ["Sponsor"]
+partner_type: ["Sponsor", "Event-Media"]
 images: ["b2f_logo_6.jpg"]
 featured_image: "b2f_logo_6.jpg"
 draft: false
