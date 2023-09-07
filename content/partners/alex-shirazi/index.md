@@ -7,7 +7,7 @@ description: "Host, Cultured Meat and Future Food Show"
 partner_type: ["Essay Contest 2021 Judge"]
 images: ["alex_shirazi.jpg"]
 featured_image: "alex_shirazi.jpg"
-draft: false
+draft: true
 active: true
 uuid: 9418
 weight: 5000

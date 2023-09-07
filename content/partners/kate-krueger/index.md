@@ -7,7 +7,7 @@ description: "Founder and CEO, Helikon Consulting"
 partner_type: ["Essay Contest 2021 Judge"]
 images: ["Kate_0.jpg"]
 featured_image: "Kate_0.jpg"
-draft: false
+draft: true
 active: true
 uuid: 9426
 weight: 5000

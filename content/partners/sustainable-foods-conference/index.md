@@ -7,7 +7,7 @@ link: https://sustainablefoodsconference.com/
 partner_type: ["Event-Media"]
 images: ["sfc.png"]
 featured_image: "sfc.png"
-draft: false
+draft: true
 active: true
 uuid: 8308
 weight: 5000

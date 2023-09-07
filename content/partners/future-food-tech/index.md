@@ -7,7 +7,7 @@ link: https://futurefoodtech.com/
 partner_type: ["Event-Media"]
 images: ["fft.jpg"]
 featured_image: "fft.jpg"
-draft: false
+draft: true
 active: true
 uuid: 7236
 weight: 5000

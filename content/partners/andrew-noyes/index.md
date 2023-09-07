@@ -7,7 +7,7 @@ description: "Head of Global Communications, Eat Just, Inc."
 partner_type: ["Essay Contest 2021 Judge"]
 images: ["Andrew.jpg"]
 featured_image: "Andrew.jpg"
-draft: false
+draft: true
 active: true
 uuid: 9609
 weight: 5000

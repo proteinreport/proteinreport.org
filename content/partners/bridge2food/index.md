@@ -7,7 +7,7 @@ link: https://bridge2food.com/site/en/page/summit-europe?utm_source=proteinrepor
 partner_type: ["Sponsor", "Event-Media"]
 images: ["b2f_logo_6.jpg"]
 featured_image: "b2f_logo_6.jpg"
-draft: false
+draft: true
 active: true
 uuid: 10635
 weight: 5000

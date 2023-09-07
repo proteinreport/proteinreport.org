@@ -7,7 +7,7 @@ link: https://ter.li/kdxpjl
 partner_type: ["Event-Media"]
 images: ["32330-Downstream-Processing-for-Cellular-Agriculture-logo-scaled_1.jpg"]
 featured_image: "32330-Downstream-Processing-for-Cellular-Agriculture-logo-scaled_1.jpg"
-draft: false
+draft: true
 active: true
 uuid: 11329
 weight: 5000

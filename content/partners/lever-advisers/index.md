@@ -7,7 +7,7 @@ link: https://www.leveradvisers.com/become-a-founder/
 partner_type: ["NA"]
 images: ["Lever Advisers Logo.png"]
 featured_image: "Lever Advisers Logo.png"
-draft: false
+draft: true
 active: true
 uuid: 10494
 weight: 5000

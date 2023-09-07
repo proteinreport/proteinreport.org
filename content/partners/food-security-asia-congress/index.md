@@ -7,7 +7,7 @@ link: https://foodsecurityasia.com/
 partner_type: ["Event-Media"]
 images: ["fsa-logo_0.png"]
 featured_image: "fsa-logo_0.png"
-draft: false
+draft: true
 active: true
 uuid: 11225
 weight: 5000

@@ -7,7 +7,7 @@ link: https://2020.cmsymp.com/
 partner_type: ["Event-Media"]
 images: ["cms_black.png"]
 featured_image: "cms_black.png"
-draft: false
+draft: true
 active: true
 uuid: 7237
 weight: 5000

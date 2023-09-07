@@ -7,7 +7,7 @@ link: https://agrifoodtechexpo.com/
 partner_type: ["Event-Media"]
 images: ["AFTEA_Logo.png"]
 featured_image: "AFTEA_Logo.png"
-draft: false
+draft: true
 active: true
 uuid: 10420
 weight: 5000

@@ -7,7 +7,7 @@ link: https://shuttleworthfoundation.org/
 partner_type: ["NA"]
 images: ["Shuttleworth Funded.jpg"]
 featured_image: "Shuttleworth Funded.jpg"
-draft: false
+draft: true
 active: true
 uuid: 9212
 weight: 5000

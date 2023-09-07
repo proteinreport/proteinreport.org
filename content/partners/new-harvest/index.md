@@ -7,7 +7,7 @@ link: https://new-harvest.org/
 partner_type: ["NA"]
 images: ["new-harvest-logo.png"]
 featured_image: "new-harvest-logo.png"
-draft: false
+draft: true
 active: true
 uuid: 7465
 weight: 5000

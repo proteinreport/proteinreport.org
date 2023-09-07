@@ -7,7 +7,7 @@ link: https://agrivision.in/
 partner_type: ["Event-Media"]
 images: ["SARM-AGRI-VISION-2024-Logo_0.png"]
 featured_image: "SARM-AGRI-VISION-2024-Logo_0.png"
-draft: false
+draft: true
 active: true
 uuid: 11324
 weight: 5000

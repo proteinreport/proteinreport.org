@@ -7,7 +7,7 @@ link: http://emnesevents.com/2nd-future-food-summit-apac/
 partner_type: ["Event-Media"]
 images: ["Emnes 2022 Logo Ai (1)_1.png"]
 featured_image: "Emnes 2022 Logo Ai (1)_1.png"
-draft: false
+draft: true
 active: true
 uuid: 11183
 weight: 5000

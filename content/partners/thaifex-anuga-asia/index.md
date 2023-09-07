@@ -7,7 +7,7 @@ link: https://thaifex-anuga.com/
 partner_type: ["Event-Media"]
 images: ["THAIFEX-Anuga-Asia-Logo_0.png"]
 featured_image: "THAIFEX-Anuga-Asia-Logo_0.png"
-draft: false
+draft: true
 active: true
 uuid: 11227
 weight: 5000

@@ -7,7 +7,7 @@ link: https://ter.li/ial4g5
 partner_type: ["Event-Media"]
 images: ["HW230210-2nd-Fermentation-Enabled-Alternative-Protein-Europe-logo-2048x412_1.png"]
 featured_image: "HW230210-2nd-Fermentation-Enabled-Alternative-Protein-Europe-logo-2048x412_1.png"
-draft: false
+draft: true
 active: true
 uuid: 11278
 weight: 5000

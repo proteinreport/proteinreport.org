@@ -7,7 +7,7 @@ description: "Development Director, University of California, Davis"
 partner_type: ["Essay Contest 2021 Judge"]
 images: ["Kara_Leong_Development_Director_UCDavis_2021.jpg"]
 featured_image: "Kara_Leong_Development_Director_UCDavis_2021.jpg"
-draft: false
+draft: true
 active: true
 uuid: 9292
 weight: 5000

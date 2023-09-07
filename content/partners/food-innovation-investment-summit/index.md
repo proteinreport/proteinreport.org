@@ -7,7 +7,7 @@ link: https://hubs.ly/Q01BcVjj0
 partner_type: ["NA"]
 images: ["fiislogo.png"]
 featured_image: "fiislogo.png"
-draft: false
+draft: true
 active: true
 uuid: 10502
 weight: 5000

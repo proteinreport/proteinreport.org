@@ -7,7 +7,7 @@ description: "Director, Food and Agriculture Institute, University of the Fraser
 partner_type: ["Essay Contest 2021 Judge"]
 images: ["lenore.jpg"]
 featured_image: "lenore.jpg"
-draft: false
+draft: true
 active: true
 uuid: 9290
 weight: 5000

@@ -7,7 +7,7 @@ link: https://pinnaclegroup.global/gfsss/
 partner_type: ["NA"]
 images: ["Food-tech-256_1.jpg"]
 featured_image: "Food-tech-256_1.jpg"
-draft: false
+draft: true
 active: true
 uuid: 9032
 weight: 5000

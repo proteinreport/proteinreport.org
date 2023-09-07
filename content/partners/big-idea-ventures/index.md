@@ -7,7 +7,7 @@ link: https://bigideaventures.com/
 partner_type: ["NA"]
 images: ["biv_0.png"]
 featured_image: "biv_0.png"
-draft: false
+draft: true
 active: true
 uuid: 8620
 weight: 5000

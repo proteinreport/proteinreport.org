@@ -7,7 +7,7 @@ link: https://fermentation-enabled-proteins.com/?utm_source=external&utm_medium=
 partner_type: ["NA"]
 images: ["Fermentation-Enabled-Alternative-Protein-Innovation-logo.png"]
 featured_image: "Fermentation-Enabled-Alternative-Protein-Innovation-logo.png"
-draft: false
+draft: true
 active: true
 uuid: 8307
 weight: 5000

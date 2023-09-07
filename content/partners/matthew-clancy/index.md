@@ -7,7 +7,7 @@ description: "Assistant Teaching Professor, Department of Economics, Iowa Stat
 partner_type: ["Essay Contest 2021 Judge"]
 images: ["matt.jpg"]
 featured_image: "matt.jpg"
-draft: false
+draft: true
 active: true
 uuid: 9440
 weight: 5000

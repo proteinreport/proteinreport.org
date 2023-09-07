@@ -7,7 +7,7 @@ description: "Global Marketing Director, Aleph Farms"
 partner_type: ["Essay Contest 2021 Judge"]
 images: ["nicky.jpg"]
 featured_image: "nicky.jpg"
-draft: false
+draft: true
 active: true
 uuid: 9545
 weight: 5000

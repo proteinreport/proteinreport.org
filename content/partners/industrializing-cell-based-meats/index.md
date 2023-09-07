@@ -7,7 +7,7 @@ link: https://industrializingcultivatedmeats.com/
 partner_type: ["Event-Media"]
 images: ["26659-–-Industrializing-Cultivated-Meats-Seafood_0.jpg"]
 featured_image: "26659-–-Industrializing-Cultivated-Meats-Seafood_0.jpg"
-draft: false
+draft: true
 active: true
 uuid: 7191
 weight: 5000

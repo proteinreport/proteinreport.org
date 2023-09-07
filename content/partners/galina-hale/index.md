@@ -7,7 +7,7 @@ description: "Professor of Economics, UC Santa Cruz"
 partner_type: ["Essay Contest 2021 Judge"]
 images: ["galina.jpg"]
 featured_image: "galina.jpg"
-draft: false
+draft: true
 active: true
 uuid: 9524
 weight: 5000

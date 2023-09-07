@@ -7,7 +7,7 @@ link: https://www.futureofproteinproduction.com/
 partner_type: ["Event-Media"]
 images: ["logo_1.png"]
 featured_image: "logo_1.png"
-draft: false
+draft: true
 active: true
 uuid: 9658
 weight: 5000

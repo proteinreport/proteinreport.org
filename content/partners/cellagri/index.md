@@ -7,7 +7,7 @@ link: https://webinar.cell.ag/
 partner_type: ["NA"]
 images: ["cellagri-logo_0.png"]
 featured_image: "cellagri-logo_0.png"
-draft: false
+draft: true
 active: true
 uuid: 11272
 weight: 5000

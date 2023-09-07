@@ -7,7 +7,7 @@ link: https://integriculture.jp/?locale=en
 partner_type: ["NA"]
 images: ["integriculture-logo.jpg"]
 featured_image: "integriculture-logo.jpg"
-draft: false
+draft: true
 active: true
 uuid: 8925
 weight: 5000

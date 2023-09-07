@@ -7,7 +7,7 @@ description: "Director, Cellular Agriculture Australia"
 partner_type: ["Essay Contest 2021 Judge"]
 images: ["bianca.jpg"]
 featured_image: "bianca.jpg"
-draft: false
+draft: true
 active: true
 uuid: 9291
 weight: 5000
