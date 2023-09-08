@@ -24,6 +24,7 @@
             "alt" .Title
             "class" "img-fluid aspect-video w-full object-cover"
             "loading" "auto"
+            "widths" (slice 300 450 600 900)
             )}}
           {{ else }}
             <img src="{{ $image.RelPermalink }}" class="aspect-video w-full object-cover" alt="{{ .Title }}">
