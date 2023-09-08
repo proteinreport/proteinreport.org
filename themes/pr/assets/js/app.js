@@ -5,8 +5,8 @@
 // import core.js
 import '@hyas/core/assets/js/core.js';
 
-import './pace.js';
-Pace.start();
+//import './pace.js';
+//Pace.start();
 
 // main navigation 
 
