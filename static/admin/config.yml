@@ -133,13 +133,10 @@ collections:
     create: true # Allow users to create new documents in this collection
     # slug: "{{slug}}/index.md" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "article"
-        }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+      - { label: "Updated", name: "lastmod", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+      - { label: "Slug", name: "slug", widget: "string", required: false }
       - label: "Company"
         name: "company"
         widget: "relation"
@@ -147,6 +144,7 @@ collections:
         search_fields: ["uuid", "title"]
         value_field: "uuid"
         display_fields: ["title"]
+        required: false
       - {
           label: "Company Name",
           name: "company_name",
@@ -159,14 +157,6 @@ collections:
           widget: "string",
           required: false
         }
-      - label: "Images"
-        name: "images"
-        widget: "list"
-        fields:
-          - { label: "Image", name: "src", widget: "image" }
-          - { label: "Alt", name: "alt", widget: "string" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Caption", name: "caption", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Excerpt", name: "excerpt", widget: "text" }
       - label: "Proteins"
@@ -219,22 +209,17 @@ collections:
             "Oceania",
             "US & Canada"
           ]
-      - label: "Tech Segment"
-        name: "tech_segment"
+      - label: "Flags"
+        name: "flags"
         widget: "select"
         multiple: true
         required: false
         options:
           [
-            "Agriculture & Plant Protein",
-            "Fungiculture & Mycoprotein",
-            "Algaculture & Algal Protein",
-            "Cell Culture & Animal Protein",
-            "Microbial & Precision Fermentation",
-            "Molecular Farming",
-            "Livestock & Animals"
+            "Investments",
+            "New Products"
           ]
-      - label: "Related Companies"
+      - label: "Mentioned Companies"
         name: "directory"
         widget: "relation"
         collection: "directory"
@@ -242,6 +227,19 @@ collections:
         search_fields: ["title", "uuid"]
         value_field: "uuid"
         display_fields: ["title"]
+      - label: "Featured Image"
+        name: "featured_image"
+        widget: "image"
+      - label: "Additional Images"
+        name: "additional_images"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Image", name: "src", widget: "image" }
+          - { label: "Alt", name: "alt", widget: "string", required: false }
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - { label: "Caption", name: "caption", widget: "string", required: false }
+      - { label : "Draft", name: "draft", widget: "boolean", required: false }
       - { label: "UUID", name: "uuid", widget: "uuid" }
       - { label: "Content", name: "body", widget: "markdown" }
   ########## Directory ##########
