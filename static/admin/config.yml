@@ -157,12 +157,13 @@ collections:
           widget: "string",
           required: false
         }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Excerpt", name: "excerpt", widget: "text", required: false }
       - label: "Proteins"
         name: "proteins"
         widget: "select"
         multiple: true
+        required: false
         options:
           [
             "Plant-Based",
@@ -178,6 +179,7 @@ collections:
         name: "products"
         widget: "select"
         multiple: true
+        required: false
         options:
           [
             "Meat",
@@ -192,12 +194,14 @@ collections:
         name: "topics"
         widget: "select"
         multiple: true
+        required: false
         options:
           ["Business", "Environment", "Policy", "Sci-Tech", "Health", "Culture"]
       - label: "Regions"
         name: "regions"
         widget: "select"
         multiple: true
+        required: false
         options:
           [
             "Africa",
@@ -224,12 +228,15 @@ collections:
         widget: "relation"
         collection: "directory"
         multiple: true
+        required: false
         search_fields: ["title", "uuid"]
         value_field: "uuid"
         display_fields: ["title"]
       - label: "Featured Image"
         name: "featured_image"
         widget: "image"
+        required: false
+      - { label: "Featured Image Caption", name: "featured_image_caption", widget: "string", required: false }
       - label: "Additional Images"
         name: "additional_images"
         widget: "list"
