@@ -16,7 +16,7 @@
         {{ $image_caption = .Params.featured_image_caption }}
       {{ end }}
       {{ if $image }}
-        <div class="w-full relative">
+        <div fetchpriority="high" class="w-full relative">
           {{ if .Site.Params.hyas_images }}
             {{ partial "picture" (dict
             "ctx" .
