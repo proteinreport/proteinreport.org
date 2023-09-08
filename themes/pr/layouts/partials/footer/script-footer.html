@@ -3,10 +3,11 @@
 
 {{ partial "footer/esbuild" (dict "src" "js/app.js" "targetPath" "main.js" "load" "async" "transpile" false) -}}
 
-{{/* EXAMPLE - only load script for production */}}
+{{/* EXAMPLE - only load script for production 
 {{ if eq (hugo.Environment) "production" -}}
   {{ partial "footer/esbuild" (dict "src" "js/instantpage.js" "load" "async" "transpile" false) -}}
 {{ end -}}
+*/}}
 
 {{/* EXAMPLE - only load script for a page type e.g. contact or gallery
 {{ if eq .Type "gallery" }}
