@@ -22,7 +22,7 @@ regions:
   - International
 directory:
   - 1332
-featured_image: levervc_pf.jpg
+featured_image: feature_levervc_pf.jpg
 uuid: Q73vK46f8l8GEpC48Fd8
 ---
 **New York, September 5, 2023** — To aid fellow investors in making informed decisions, sector specialist investment firm Lever VC has released its internal playbook for assessing the scientific progress, novelty, and approach of precision fermentation startups.
