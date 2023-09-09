@@ -5,12 +5,12 @@ name: "Subscriber Name"
 content: "This is the content of the newsletter."
 draft: false
 featured_image: "article_placeholder.png"
-articles_enabled: true
-newswire_enabled: true
-sponsored_enabled: true
-events_enabled: true
-jobs_enabled: true
-resources_enabled: true
+articles: true
+newswire: true
+sponsored: true
+events: true
+jobs: true
+research: true
 ---
 
 <!-- Additional content for the newsletter edition -->
