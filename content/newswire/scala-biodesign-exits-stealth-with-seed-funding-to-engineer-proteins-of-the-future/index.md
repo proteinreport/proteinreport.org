@@ -24,6 +24,7 @@ regions:
   - Middle East
 flags:
   - Investments
+images: [scala-founders.jpg]
 featured_image: scala-founders.jpg
 featured_image_caption: Scala founders
 uuid: 4kKeGhRbAjcIZtUqUD
