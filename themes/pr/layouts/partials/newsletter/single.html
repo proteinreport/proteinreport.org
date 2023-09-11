@@ -99,6 +99,21 @@
         max-width: 75%;
       }
 
+      .mj-column-per-16-6 {
+        width: 16.6% !important;
+        max-width: 16.6%;
+      }
+
+      .mj-column-per-66-6 {
+        width: 66.6% !important;
+        max-width: 66.6%;
+      }
+
+      .mj-column-per-33-3 {
+        width: 33.3% !important;
+        max-width: 33.3%;
+      }
+
       .mj-column-per-33-333333333333336 {
         width: 33.333333333333336% !important;
         max-width: 33.333333333333336%;
@@ -135,6 +150,21 @@
     .moz-text-html .mj-column-per-75 {
       width: 75% !important;
       max-width: 75%;
+    }
+
+    .moz-text-html .mj-column-per-16-6 {
+      width: 16.6% !important;
+      max-width: 16.6%;
+    }
+
+    .moz-text-html .mj-column-per-66-6 {
+      width: 66.6% !important;
+      max-width: 66.6%;
+    }
+
+    .moz-text-html .mj-column-per-33-3 {
+      width: 33.3% !important;
+      max-width: 33.3%;
     }
 
     .moz-text-html .mj-column-per-33-333333333333336 {
@@ -178,7 +208,7 @@
                             <tr>
                               <td style="width:580px;">
                                 <a href="https://www.proteinreport.org" target="_blank">
-                                  <img alt="Protein Report logo" src="{{ $logo }}" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="580" height="auto" />
+                                  <img alt="Protein Report logo" src="{{ $logo }}" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="580" height="auto">
                                 </a>
                               </td>
                             </tr>
@@ -218,7 +248,7 @@
                           <tbody>
                             <tr>
                               <td style="width:400px;">
-                                <img alt="{{ .Params.title }}" src="{{ $image.RelPermalink }}" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="400" height="auto" />
+                                <img alt="{{ .Params.title }}" src="{{ $image.RelPermalink }}" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="400" height="auto">
                               </td>
                             </tr>
                           </tbody>
@@ -315,7 +345,7 @@
                           <tbody>
                             <tr>
                               <td style="width:129px;">
-                                <img alt="Verdant cap" src="http://191n.mj.am/img/191n/3s/x4h.jpg" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="129" height="auto" />
+                                <img alt="Verdant cap" src="http://191n.mj.am/img/191n/3s/x4h.jpg" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="129" height="auto">
                               </td>
                             </tr>
                           </tbody>
@@ -356,7 +386,7 @@
                           <tbody>
                             <tr>
                               <td style="width:72px;">
-                                <img alt="Sketch floral" src="http://191n.mj.am/img/191n/3s/x4j.jpg" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="72" height="auto" />
+                                <img alt="Sketch floral" src="http://191n.mj.am/img/191n/3s/x4j.jpg" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="72" height="auto">
                               </td>
                             </tr>
                           </tbody>
@@ -394,7 +424,7 @@
       </table>
     </div>
     <!--[if mso | IE]></td></tr></table><![endif]-->
-    {{ if .Params.newswire }}
+    <!-- BEGIN NEWSWIRE SECTION -->{{ if .Params.newswire }}
     <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#2f323b;background-color:#2f323b;width:100%;">
       <tbody>
         <tr>
@@ -405,14 +435,28 @@
                 <tbody>
                   <tr>
                     <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-top:0;text-align:center;">
-                      <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
-                      <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
-                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                      <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:middle;width:150px;" ><![endif]-->
+                      <div class="mj-column-per-25 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
                           <tbody>
                             <tr>
                               <td align="left" style="font-size:0px;padding:10px 25px;padding-top:10px;padding-right:25px;padding-bottom:10px;padding-left:25px;word-break:break-word;">
                                 <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:18px;line-height:1;text-align:left;color:#ffffff;">
                                   <p>NEWSWIRE</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <!--[if mso | IE]></td><td class="" style="vertical-align:middle;width:450px;" ><![endif]-->
+                      <div class="mj-column-per-75 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;padding-top:10px;padding-right:25px;padding-bottom:10px;padding-left:25px;word-break:break-word;">
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:1;text-align:left;color:#ffffff;">
+                                  <p>Press releases from companies and organizations</p>
                                 </div>
                               </td>
                             </tr>
@@ -456,16 +500,16 @@
                           <tbody>
                             <tr>
                               <td style="vertical-align:middle;padding-top:15px;">
-                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="center" style="font-size:0px;padding:10px 25px;padding-top:0;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word;">
+                                      <td align="center" class="list-image" style="width: 200px; height: 133px; font-size: 0px; padding: 10px 25px; padding-top: 0; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-word;" width="200" height="133">
                                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;" class="mj-full-width-mobile">
                                           <tbody>
                                             <tr>
                                               <td style="width:200px;" class="mj-full-width-mobile">
                                                 <a href="{{ $link }}" target="_blank">
-                                                  <img alt="{{ .Params.title }}" src="{{ $image }}" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="200" height="auto" />
+                                                  <img alt="{{ .Params.title }}" src="{{ $image }}" style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" width="200" height="auto">
                                                 </a>
                                               </td>
                                             </tr>
@@ -486,7 +530,7 @@
                           <tbody>
                             <tr>
                               <td align="left" style="font-size:0px;padding:10px 25px;padding-top:15px;padding-right:15px;padding-bottom:0px;padding-left:15px;word-break:break-word;">
-                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><a href="{{ $link }}" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
                                   <p style="line-height: 1.2;">{{ .Params.excerpt | truncate 120 }}</p>
                                 </div>
                               </td>
@@ -507,7 +551,337 @@
         </tr>
       </tbody>
     </table>
-    {{ end }}{{ if .Params.research }}
+    {{ end }}<!-- END NEWSWIRE SECTION --><!-- BEGIN EVENTS SECTION -->{{ if .Params.research }}
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#2f323b;background-color:#2f323b;width:100%;">
+      <tbody>
+        <tr>
+          <td>
+            <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#2f323b" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+            <div style="margin:0px auto;max-width:600px;">
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                <tbody>
+                  <tr>
+                    <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-top:0;text-align:center;">
+                      <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:middle;width:150px;" ><![endif]-->
+                      <div class="mj-column-per-25 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;padding-top:10px;padding-right:25px;padding-bottom:10px;padding-left:25px;word-break:break-word;">
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:18px;line-height:1;text-align:left;color:#ffffff;">
+                                  <p>EVENTS</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <!--[if mso | IE]></td><td class="" style="vertical-align:middle;width:450px;" ><![endif]-->
+                      <div class="mj-column-per-75 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;padding-top:10px;padding-right:25px;padding-bottom:10px;padding-left:25px;word-break:break-word;">
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:1;text-align:left;color:#ffffff;">
+                                  <p>Upcoming conferences and summits</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <!--[if mso | IE]></td></tr></table><![endif]-->
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!--[if mso | IE]></td></tr></table><![endif]-->
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+      <tbody>
+        <tr>
+          <td>
+            <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+            <div style="margin:0px auto;max-width:600px;">
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                <tbody>
+                  <tr>
+                    <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:40px;padding-top:0;text-align:center;">
+                      <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><![endif]-->
+                      {{ $articles := where .Site.RegularPages "Section" "events" }}
+                      {{ $articles = sort $articles "Date" "desc" }}
+                      {{ $parsedDate := $date | dateFormat "2006-01-02" }}
+                      {{ $filteredArticles := slice }}
+                      {{ range $articles }}
+                      {{ $startDate := .Params.start_date | dateFormat "2006-01-02" }}
+                      {{ if gt $startDate $parsedDate }}
+                      {{ $filteredArticles = $filteredArticles | union (slice .) }}
+                      {{ end }}
+                      {{ end }}
+                      {{ range first 5 $filteredArticles }}
+                      {{ $image := "" }}
+                      {{ if .Params.featured_image }}
+                      {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+                      {{ $image = $image.Fit "400x400" }}
+                      {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+                      {{ else }}
+                      {{ $image = resources.Get "images/article_placeholder_wide.png" }}
+                      {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+                      {{ end }}
+                      {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+                      {{ $location := "" }}
+                      {{ $online := "" }}
+                      {{ if or (.Params.city) (.Params.country) }}
+                      {{ if .Params.city }}
+                      {{ if .Params.country }}
+                      {{ if ne .Params.city .Params.country }}
+                      {{ $location = printf "%s, %s" .Params.city .Params.country }}
+                      {{ else }}
+                      {{ $location = printf "%s" .Params.city }}
+                      {{ end }}
+                      {{ else }}
+                      {{ $location = printf "%s" .Params.city }}
+                      {{ end }}
+                      {{ else if .Params.country }}
+                      {{ $location = printf "%s" .Params.country }}
+                      {{ end }}
+                      {{ end }}
+                      <!--[if mso | IE]><td class="" style="vertical-align:middle;width:600px;" ><![endif]-->
+                      <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0;line-height:0;text-align:left;display:inline-block;width:100%;direction:ltr;vertical-align:middle;">
+                        <!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:middle;width:99px;" ><![endif]-->
+                        <div class="mj-column-per-16-6 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:16.6%;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                            <tbody>
+                              <tr>
+                                <td style="vertical-align:middle;padding:10px;">
+                                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
+                                    <tbody>
+                                      <tr>
+                                        <td align="center" style="background:#ffffff;font-size:0px;padding:10px 25px;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;word-break:break-word;">
+                                          <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:center;color:#333333;"><span style="font-size: 11px; font-weight: 500;">{{ dateFormat "Jan" .Params.start_date | upper }}</span>
+                                            <br>
+                                            <span style="font-size: 32px; font-weight: 500;">{{ dateFormat "2" .Params.start_date }}</span>
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                        <!--[if mso | IE]></td><td style="vertical-align:middle;width:399px;" ><![endif]-->
+                        <div class="mj-column-per-66-6 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:66.6%;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                            <tbody>
+                              <tr>
+                                <td align="left" style="font-size:0px;padding:10px 25px;padding-top:0;padding-right:15px;padding-bottom:0px;padding-left:15px;word-break:break-word;">
+                                  <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+                                    <br>
+                                    <span>{{ $location }}</span>
+                                    <mj-raw>
+                                      {{ if .Params.online }}
+                                    </mj-raw>
+                                    <span>Online</span>
+                                    <mj-raw>
+                                      {{ end }}
+                                    </mj-raw>
+                                  </div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                        <!--[if mso | IE]></td><td style="vertical-align:middle;width:99px;" ><![endif]-->
+                        <div class="mj-column-per-16-6 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:16.6%;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                            <tbody>
+                              <tr>
+                                <td align="center" class="list-image" style="width: 200px; height: 133px; font-size: 0px; padding: 10px 25px; padding-top: 0; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-word;" width="200" height="133">
+                                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                    <tbody>
+                                      <tr>
+                                        <td style="width:99px;">
+                                          <a href="{{ $link }}" target="_blank">
+                                            <img alt="{{ .Params.title }}" src="{{ $image }}" style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" width="99" height="auto">
+                                          </a>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                        <!--[if mso | IE]></td></tr></table><![endif]-->
+                      </div>
+                      <!--[if mso | IE]></td><![endif]-->
+                      {{ end }}
+                      <!--[if mso | IE]></tr></table><![endif]-->
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!--[if mso | IE]></td></tr></table><![endif]-->
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    {{ end }}<!-- END EVENTS SECTION --><!-- BEGIN JOBS SECTION -->{{ if .Params.research }}
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#2f323b;background-color:#2f323b;width:100%;">
+      <tbody>
+        <tr>
+          <td>
+            <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#2f323b" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+            <div style="margin:0px auto;max-width:600px;">
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                <tbody>
+                  <tr>
+                    <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-top:0;text-align:center;">
+                      <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:middle;width:150px;" ><![endif]-->
+                      <div class="mj-column-per-25 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;padding-top:10px;padding-right:25px;padding-bottom:10px;padding-left:25px;word-break:break-word;">
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:18px;line-height:1;text-align:left;color:#ffffff;">
+                                  <p>JOBS</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <!--[if mso | IE]></td><td class="" style="vertical-align:middle;width:450px;" ><![endif]-->
+                      <div class="mj-column-per-75 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;padding-top:10px;padding-right:25px;padding-bottom:10px;padding-left:25px;word-break:break-word;">
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:1;text-align:left;color:#ffffff;">
+                                  <p>Career and consulting opportunities</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <!--[if mso | IE]></td></tr></table><![endif]-->
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!--[if mso | IE]></td></tr></table><![endif]-->
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+      <tbody>
+        <tr>
+          <td>
+            <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+            <div style="margin:0px auto;max-width:600px;">
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                <tbody>
+                  <tr>
+                    <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:40px;padding-top:0;text-align:center;">
+                      <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><![endif]-->
+                      {{ $articles := where .Site.RegularPages "Section" "jobs" }}
+                      {{ $articles = sort $articles "Date" "desc" }}
+                      {{ $articles = where $articles "Params.date" "lt" $date }}
+                      {{ range first 5 $articles }}
+                      {{ $image := "" }}
+                      {{ if .Params.company}}
+                      {{ $company_uuid := .Params.company }}
+                      {{ $companies := where site.RegularPages "Type" "directory" }}
+                      {{ with where $companies ".Params.uuid" $company_uuid }}
+                      {{ with index . 0 }}
+                      {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+                      {{ $image = $image.Fit "600x400" }}
+                      {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+                      {{ end }}
+                      {{ end }}
+                      {{ end }}
+                      {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+                      <!--[if mso | IE]><td class="" style="width:600px;" ><![endif]-->
+                      <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0;line-height:0;text-align:left;display:inline-block;width:100%;direction:ltr;">
+                        <!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:middle;width:199px;" ><![endif]-->
+                        <div class="mj-column-per-33-3 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:33.3%;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                            <tbody>
+                              <tr>
+                                <td style="vertical-align:middle;padding-top:15px;">
+                                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
+                                    <tbody>
+                                      {{ if $image }}
+                                      <tr>
+                                        <td align="center" class="list-image" style="width: 200px; height: 133px; background: #ffffff; font-size: 0px; padding: 10px 25px; padding-top: 0; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-word;" width="200" height="133">
+                                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                            <tbody>
+                                              <tr>
+                                                <td style="width:199px;">
+                                                  <a href="{{ $link }}" target="_blank">
+                                                    <img alt="{{ .Params.title }}" src="{{ $image }}" style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" width="199" height="auto">
+                                                  </a>
+                                                </td>
+                                              </tr>
+                                            </tbody>
+                                          </table>
+                                        </td>
+                                      </tr>
+                                      {{ else }}
+                                      <tr>
+                                        <td align="center" class="company-name" style="background:#ffffff;font-size:0px;padding:10px 25px;padding-top:0;padding-right:15px;padding-bottom:0px;padding-left:15px;word-break:break-word;">
+                                          <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td height="133px" style="vertical-align:top;height:133px;"><![endif]-->
+                                          <div style="display: flex; font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1; text-align: center; color: #333333; height: 133px;"><a href="{{ $link }}" target="_blank" style="margin: auto; font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.company_name }}</a></div>
+                                          <!--[if mso | IE]></td></tr></table><![endif]-->
+                                        </td>
+                                      </tr>
+                                      {{ end }}
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                        <!--[if mso | IE]></td><td style="vertical-align:middle;width:399px;" ><![endif]-->
+                        <div class="mj-column-per-66-6 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:66.6%;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                            <tbody>
+                              <tr>
+                                <td align="left" style="font-size:0px;padding:10px 25px;padding-top:15px;padding-right:15px;padding-bottom:0px;padding-left:15px;word-break:break-word;">
+                                  <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a></div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                        <!--[if mso | IE]></td></tr></table><![endif]-->
+                      </div>
+                      <!--[if mso | IE]></td><![endif]-->
+                      {{ end }}
+                      <!--[if mso | IE]></tr></table><![endif]-->
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!--[if mso | IE]></td></tr></table><![endif]-->
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    {{ end }}<!-- END JOBS SECTION --><!-- BEGIN RESOURCES SECTION -->{{ if .Params.research }}
     <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#2f323b;background-color:#2f323b;width:100%;">
       <tbody>
         <tr>
@@ -538,7 +912,7 @@
                           <tbody>
                             <tr>
                               <td align="left" style="font-size:0px;padding:10px 25px;padding-top:10px;padding-right:25px;padding-bottom:10px;padding-left:25px;word-break:break-word;">
-                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:18px;line-height:1;text-align:left;color:#ffffff;">
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:1;text-align:left;color:#ffffff;">
                                   <p>Academic articles and industry reports</p>
                                 </div>
                               </td>
@@ -589,7 +963,7 @@
                           <tbody>
                             <tr>
                               <td style="vertical-align:middle;padding-top:15px;">
-                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
                                   <tbody>
                                     <tr>
                                       <td align="center" style="font-size:0px;padding:10px 25px;padding-top:0;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word;">
@@ -598,7 +972,7 @@
                                             <tr>
                                               <td style="width:200px;" class="mj-full-width-mobile">
                                                 <a href="{{ $link }}" target="_blank">
-                                                  <img alt="{{ .Params.title }}" src="{{ $image }}" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="200" height="auto" />
+                                                  <img alt="{{ .Params.title }}" src="{{ $image }}" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="200" height="auto">
                                                 </a>
                                               </td>
                                             </tr>
@@ -619,9 +993,9 @@
                           <tbody>
                             <tr>
                               <td align="left" style="font-size:0px;padding:10px 25px;padding-top:15px;padding-right:15px;padding-bottom:0px;padding-left:15px;word-break:break-word;">
-                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><a href="{{ $link }}" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
-                                  <br />
-                                  <p><a href="{{ $link }}">{{ replace $u.Hostname "www." "" }}</a></p>
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+                                  <br>
+                                  <p><a href="{{ $link }}" target="_blank">{{ replace $u.Hostname "www." "" }}</a></p>
                                 </div>
                               </td>
                             </tr>
@@ -641,7 +1015,7 @@
         </tr>
       </tbody>
     </table>
-    {{ end }}
+    {{ end }}<!-- END RESOURCES SECTION -->
     <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#2f323b" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
     <div style="background:#2f323b;background-color:#2f323b;margin:0px auto;max-width:600px;">
       <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#2f323b;background-color:#2f323b;width:100%;">
@@ -687,7 +1061,7 @@
                           <tbody>
                             <tr>
                               <td style="width:300px;">
-                                <img alt="Man 2" src="http://191n.mj.am/img/191n/3s/xj6.jpg" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="300" height="auto" />
+                                <img alt="Man 2" src="http://191n.mj.am/img/191n/3s/xj6.jpg" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="300" height="auto">
                               </td>
                             </tr>
                           </tbody>
@@ -746,7 +1120,7 @@
                           <tbody>
                             <tr>
                               <td style="width:250px;">
-                                <img alt="Topaz C3 shoes" src="http://191n.mj.am/img/191n/3s/x4q.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="250" height="auto" />
+                                <img alt="Topaz C3 shoes" src="http://191n.mj.am/img/191n/3s/x4q.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="250" height="auto">
                               </td>
                             </tr>
                           </tbody>
@@ -787,7 +1161,7 @@
                           <tbody>
                             <tr>
                               <td style="width:199px;">
-                                <img alt="Camden backpack" src="http://191n.mj.am/img/191n/3s/x4r.jpg" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="199" height="auto" />
+                                <img alt="Camden backpack" src="http://191n.mj.am/img/191n/3s/x4r.jpg" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="199" height="auto">
                               </td>
                             </tr>
                           </tbody>
@@ -840,7 +1214,7 @@
                           <tbody>
                             <tr>
                               <td style="width:72px;">
-                                <img alt="Cards" src="http://191n.mj.am/img/191n/3s/x47.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="72" height="auto" />
+                                <img alt="Cards" src="http://191n.mj.am/img/191n/3s/x47.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="72" height="auto">
                               </td>
                             </tr>
                           </tbody>
@@ -868,7 +1242,7 @@
                           <tbody>
                             <tr>
                               <td style="width:70px;">
-                                <img alt="Currencies" src="http://191n.mj.am/img/191n/3s/x48.png" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="70" height="auto" />
+                                <img alt="Currencies" src="http://191n.mj.am/img/191n/3s/x48.png" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="70" height="auto">
                               </td>
                             </tr>
                           </tbody>
@@ -896,7 +1270,7 @@
                           <tbody>
                             <tr>
                               <td style="width:82px;">
-                                <img alt="Express" src="http://191n.mj.am/img/191n/3s/x4y.png" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="82" height="auto" />
+                                <img alt="Express" src="http://191n.mj.am/img/191n/3s/x4y.png" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="82" height="auto">
                               </td>
                             </tr>
                           </tbody>
@@ -936,7 +1310,7 @@
                           <tbody>
                             <tr>
                               <td style="width:180px;">
-                                <img alt="Racoon logo" src="http://191n.mj.am/img/191n/3s/x49.png" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="180" height="auto" />
+                                <img alt="Racoon logo" src="http://191n.mj.am/img/191n/3s/x49.png" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="180" height="auto">
                               </td>
                             </tr>
                           </tbody>
@@ -976,7 +1350,7 @@
                                     <tr>
                                       <td style="font-size:0;height:20px;vertical-align:middle;width:20px;">
                                         <a href="https://www.facebook.com/sharer/sharer.php?u=[[SHORT_PERMALINK]]" target="_blank">
-                                          <img height="20" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" style="border-radius:3px;display:block;" width="20" />
+                                          <img height="20" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" style="border-radius:3px;display:block;" width="20">
                                         </a>
                                       </td>
                                     </tr>
@@ -996,7 +1370,7 @@
                                     <tr>
                                       <td style="font-size:0;height:20px;vertical-align:middle;width:20px;">
                                         <a href="https://twitter.com/intent/tweet?url=[[SHORT_PERMALINK]]" target="_blank">
-                                          <img height="20" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png" style="border-radius:3px;display:block;" width="20" />
+                                          <img height="20" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png" style="border-radius:3px;display:block;" width="20">
                                         </a>
                                       </td>
                                     </tr>
@@ -1016,7 +1390,7 @@
                                     <tr>
                                       <td style="font-size:0;height:20px;vertical-align:middle;width:20px;">
                                         <a href="https://plus.google.com/share?url=[[SHORT_PERMALINK]]" target="_blank">
-                                          <img height="20" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/google-plus.png" style="border-radius:3px;display:block;" width="20" />
+                                          <img height="20" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/google-plus.png" style="border-radius:3px;display:block;" width="20">
                                         </a>
                                       </td>
                                     </tr>

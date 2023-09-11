@@ -1,4 +1,29 @@
 <mjml>
+  <mj-head>
+    <mj-style inline="inline">
+      .list-image {
+        width: 200px;
+        height: 133px;
+      }
+      .list-image img {
+        width: 100%;
+        height: 100%;
+      }
+      .list-image-sq {
+        height: 100px;
+        background: #fff;
+      }
+      .list-image-sq img {
+        object-fit: contain;
+      }
+      .company-name div {
+        display: flex;
+      }
+      .company-name a {
+        margin: auto;
+      }
+    </mj-style> 
+  </mj-head>
 <mj-raw position="file-start">
 {{ $logo := "logo-stacked-inverted-small.png" }}
 {{ $logo = printf "%s%s" .Site.BaseURL $logo }}
@@ -62,14 +87,21 @@
       </mj-column>
     </mj-section>
 
+<!-- BEGIN NEWSWIRE SECTION -->
+
     <mj-raw>
       {{ if .Params.newswire }}
     </mj-raw>
 
     <mj-section full-width="full-width" background-color="#2f323b" padding-bottom="0px" padding-top="0">
-      <mj-column width="100%">
+      <mj-column width="25%" vertical-align="middle">
         <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
           <p>NEWSWIRE</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="75%" vertical-align="middle">
+        <mj-text align="left" color="#fff" font-size="16px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <p>Press releases from companies and organizations</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -87,11 +119,11 @@
         {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
       </mj-raw>
       <mj-column width="200px" padding-top="15px" vertical-align="middle">
-        <mj-image href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
       </mj-column>
       <mj-column width="400px" vertical-align="middle">
         <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="15px">
-          <a href="{{ $link }}" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+          <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
           <p style="line-height: 1.2;">{{ .Params.excerpt | truncate 120 }}</p>
         </mj-text>
       </mj-column>
@@ -102,6 +134,180 @@
     <mj-raw>
       {{ end }}
     </mj-raw>
+
+<!-- END NEWSWIRE SECTION -->
+
+<!-- BEGIN EVENTS SECTION -->
+
+    <mj-raw>
+      {{ if .Params.research }}
+    </mj-raw>
+
+    <mj-section full-width="full-width" background-color="#2f323b" padding-bottom="0px" padding-top="0">
+      <mj-column width="25%" vertical-align="middle">
+        <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <p>EVENTS</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="75%" vertical-align="middle">
+        <mj-text align="left" color="#fff" font-size="16px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <p>Upcoming conferences and summits</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section full-width="full-width" padding-bottom="40px" padding-top="0">
+      <mj-raw>
+        {{ $articles := where .Site.RegularPages "Section" "events" }}
+        {{ $articles = sort $articles "Date" "desc" }}
+
+        {{ $parsedDate := $date | dateFormat "2006-01-02" }}
+
+        {{ $filteredArticles := slice }}
+        {{ range $articles }}
+            {{ $startDate := .Params.start_date | dateFormat "2006-01-02" }}
+            {{ if gt $startDate $parsedDate }}
+                {{ $filteredArticles = $filteredArticles | union (slice .) }}
+            {{ end }}
+        {{ end }}
+
+        {{ range first 5 $filteredArticles }}
+        {{ $image := "" }}
+        {{ if .Params.featured_image }}
+          {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+          {{ $image = $image.Fit "400x400" }}
+          {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+        {{ else }}
+          {{ $image = resources.Get "images/article_placeholder_wide.png" }}
+          {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+        {{ end }}
+        {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+        {{ $location := "" }}
+        {{ $online := "" }}
+        {{ if or (.Params.city) (.Params.country) }}
+            {{ if .Params.city }}
+                {{ if .Params.country }}
+                    {{ if ne .Params.city .Params.country }}
+                        {{ $location = printf "%s, %s" .Params.city .Params.country }}
+                    {{ else }}
+                        {{ $location = printf "%s" .Params.city }}
+                    {{ end }}
+                {{ else }}
+                    {{ $location = printf "%s" .Params.city }}
+                {{ end }}
+            {{ else if .Params.country }}
+                {{ $location = printf "%s" .Params.country }}
+            {{ end }}
+        {{ end }}
+      </mj-raw>
+      <mj-group vertical-align="middle">
+        <mj-column width="16.6%" padding="10px" vertical-align="middle">
+          <mj-text align="center" container-background-color="#fff" color="#333" font-size="13px" padding-left="5px" padding-right="5px" padding-bottom="5px" padding-top="5px">
+            <span style="font-size: 11px; font-weight: 500;">{{ dateFormat "Jan" .Params.start_date | upper }}</span>
+            <br />
+            <span style="font-size: 32px; font-weight: 500;">{{ dateFormat "2" .Params.start_date }}</span>
+          </mj-text>
+        </mj-column>
+        <mj-column width="66.6%" vertical-align="middle">
+          <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="0">
+            <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+            <br />
+            <span>{{ $location }}</span>
+            <mj-raw>
+              {{ if .Params.online }}
+            </mj-raw>
+            <span>Online</span>
+            <mj-raw>
+              {{ end }}
+            </mj-raw>
+          </mj-text>
+        </mj-column>
+        <mj-column width="16.6%" vertical-align="middle">
+          <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="false" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-group>
+      <mj-raw>
+        {{ end }}
+      </mj-raw>
+    </mj-section>
+    <mj-raw>
+      {{ end }}
+    </mj-raw>
+
+<!-- END EVENTS SECTION -->
+
+<!-- BEGIN JOBS SECTION -->
+
+    <mj-raw>
+      {{ if .Params.research }}
+    </mj-raw>
+
+    <mj-section full-width="full-width" background-color="#2f323b" padding-bottom="0px" padding-top="0">
+      <mj-column width="25%" vertical-align="middle">
+        <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <p>JOBS</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="75%" vertical-align="middle">
+        <mj-text align="left" color="#fff" font-size="16px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <p>Career and consulting opportunities</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section full-width="full-width" padding-bottom="40px" padding-top="0">
+      <mj-raw>
+        {{ $articles := where .Site.RegularPages "Section" "jobs" }}
+        {{ $articles = sort $articles "Date" "desc" }}
+        {{ $articles = where $articles "Params.date" "lt" $date }}
+        {{ range first 5 $articles }}
+          {{ $image := "" }}
+          {{ if .Params.company}}
+            {{ $company_uuid := .Params.company }}
+            {{ $companies := where site.RegularPages "Type" "directory" }}
+            {{ with where $companies ".Params.uuid" $company_uuid }}
+              {{ with index . 0 }}
+                {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+                {{ $image = $image.Fit "600x400" }}
+                {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+      </mj-raw>
+      <mj-group>
+      <mj-column width="33.3%" padding-top="15px" vertical-align="middle">
+        <mj-raw>
+          {{ if $image }}
+        </mj-raw>
+        <mj-image href="{{ $link }}" css-class="list-image" container-background-color="#fff" fluid-on-mobile="false" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        <mj-raw>
+          {{ else }}
+        </mj-raw>
+        <mj-text height="133px" align="center" css-class="company-name" container-background-color="#fff" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="0">
+          <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.company_name }}</a>
+        </mj-text>
+        <mj-raw>
+          {{ end }}
+        </mj-raw>
+      </mj-column>
+      <mj-column width="66.6%" vertical-align="middle">
+        <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="15px">
+          <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+        </mj-text>
+      </mj-column>
+      </mj-group>
+      <mj-raw>
+        {{ end }}
+      </mj-raw>
+    </mj-section>
+    <mj-raw>
+      {{ end }}
+    </mj-raw>
+
+<!-- END JOBS SECTION -->
+
+<!-- BEGIN RESOURCES SECTION -->
 
     <mj-raw>
       {{ if .Params.research }}
@@ -114,7 +320,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="75%" vertical-align="middle">
-        <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+        <mj-text align="left" color="#fff" font-size="16px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
           <p>Academic articles and industry reports</p>
         </mj-text>
       </mj-column>
@@ -143,9 +349,9 @@
       </mj-column>
       <mj-column width="400px" vertical-align="middle">
         <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="15px">
-          <a href="{{ $link }}" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+          <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
           <br />
-          <p><a href="{{ $link }}">{{ replace $u.Hostname "www." "" }}</a></p>
+          <p><a href="{{ $link }}" target="_blank">{{ replace $u.Hostname "www." "" }}</a></p>
         </mj-text>
       </mj-column>
       <mj-raw>
@@ -155,6 +361,8 @@
     <mj-raw>
       {{ end }}
     </mj-raw>
+
+<!-- END RESOURCES SECTION -->
 
     <mj-section background-color="#2f323b" padding-bottom="0px" padding-top="0">
       <mj-column>
