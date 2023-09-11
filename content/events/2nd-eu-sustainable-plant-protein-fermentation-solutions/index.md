@@ -22,8 +22,24 @@ draft: false
 weight: 5000
 uuid: 11335
 ---
-<p><strong>Sustainability is a crucial component underpinning the plant-based trend</strong></p>
-<p>Consumers are increasingly asking for clean label credentials, traceability of the product supply chain, nutrition & environmental impact of the products they consume.</p>
-<p>Plant-based protein has moved to the next level, and its not as simple as just offering a product out in the market. Cleaning up the label, strengthening sustainability, sharpening regional sourcing of materials, delivering more diverse offerings on the shelf are some of the focus areas of the plant based protein trend.</p>
-<p>Come join us in Prague this 2-3rd October for our 2nd EU Sustainable Plant Protein & Fermentation Solutions conference and network with over 150 participants joining this event from all over the globe. Held together with our 6th EU Starch Value Chain, register for both event to maximise your networking opportunities.</p>
-<p>The conference will share a half-day session with <strong>6th EU Starch Value Chain</strong> conference which will take place on 03-05 Oct 2023.</p>
+**Sustainability is a crucial component underpinning the plant-based
+trend**
+
+Consumers are increasingly asking for clean label credentials,
+traceability of the product supply chain, nutrition & environmental
+impact of the products they consume.
+
+Plant-based protein has moved to the next level, and its not as simple
+as just offering a product out in the market. Cleaning up the label,
+strengthening sustainability, sharpening regional sourcing of materials,
+delivering more diverse offerings on the shelf are some of the focus
+areas of the plant based protein trend.
+
+Come join us in Prague this 2-3rd October for our 2nd EU Sustainable
+Plant Protein & Fermentation Solutions conference and network with over
+150 participants joining this event from all over the globe. Held
+together with our 6th EU Starch Value Chain, register for both event to
+maximise your networking opportunities.
+
+The conference will share a half-day session with **6th EU Starch Value
+Chain** conference which will take place on 03-05 Oct 2023.

@@ -22,5 +22,27 @@ draft: false
 weight: 5000
 uuid: 11326
 ---
-<p>The <a href="https://agrivision.in/home"><em><strong>6th International Conference on Agriculture for Sustainable Development</strong></em></a> (<strong>Agri Vision- 2024</strong>) is being organized by the <strong><a href="https://sarm.in/"><em>Society for Agricultural Research and Management</em></a> (SARM)</strong>. This International Agriculture Conference will be held from <strong>January 19-21, 2024 at Cuttack, Odisha, India</strong>. The core committee of SARM and the <a href="https://agrivision.in/organizing-committee/">Organizing Committee</a> of <a href="https://agrivision.in/about-agrivision-2024/">Agri Vision- 2024</a> invite you to attend the Congress and actively participate in the deliberations.</p>
-<p>The theme of the <a href="https://agrivision.in/home">Agri Vision- 2024</a> Conference is “<em>Economic Development through Sustainable Agriculture Practices – Together We Make it Possible</em>”. The <a href="https://agrivision.in/agenda/">Sessions</a> of <a href="https://agrivision.in/home">Agri Vision</a> will discuss agricultural practices designed to protect the environment, eliminate & reduce greenhouse effects, enhance soil quality and fertility to protect crops, and preserve the Earth’s natural resources for future generations. The three days program of <a href="https://agrivision.in/about-agrivision-2024/">Agri Vision</a> includes Plenary Sessions, Technical Sessions (<a href="https://agrivision.in/abstract/">Oral Presentations</a>), Poster Presentations, Farmers’ Interaction Programs, Exhibitions/ Expos, <a href="https://agrivision.in/awards/">Awards</a>, and Cultural Programs.</p>
+The [***6th International Conference on Agriculture for Sustainable
+Development***](https://agrivision.in/home) (**Agri Vision- 2024**) is
+being organized by the **[*Society for Agricultural Research and
+Management*](https://sarm.in/) (SARM)**. This International Agriculture
+Conference will be held from **January 19-21, 2024 at Cuttack, Odisha,
+India**. The core committee of SARM and the [Organizing
+Committee](https://agrivision.in/organizing-committee/) of [Agri Vision-
+2024](https://agrivision.in/about-agrivision-2024/) invite you to attend
+the Congress and actively participate in the deliberations.
+
+The theme of the [Agri Vision-
+2024](https://agrivision.in/home) Conference is "*Economic Development
+through Sustainable Agriculture Practices -- Together We Make it
+Possible*". The [Sessions](https://agrivision.in/agenda/) of [Agri
+Vision](https://agrivision.in/home) will discuss agricultural practices
+designed to protect the environment, eliminate & reduce greenhouse
+effects, enhance soil quality and fertility to protect crops, and
+preserve the Earth's natural resources for future generations. The three
+days program of [Agri
+Vision](https://agrivision.in/about-agrivision-2024/) includes Plenary
+Sessions, Technical Sessions ([Oral
+Presentations](https://agrivision.in/abstract/)), Poster Presentations,
+Farmers' Interaction Programs, Exhibitions/
+Expos, [Awards](https://agrivision.in/awards/), and Cultural Programs.

@@ -20,4 +20,6 @@ draft: false
 weight: 5000
 uuid: 11285
 ---
-<p>On 5 April 2023, the FAO/WHO Scientific Advice Programme will release a new publication entitled “Food safety aspects of cell-based food” in a webinar that is open to Codex Members and Observers.</p>
+On 5 April 2023, the FAO/WHO Scientific Advice Programme will release a
+new publication entitled "Food safety aspects of cell-based food" in a
+webinar that is open to Codex Members and Observers.

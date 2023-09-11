@@ -20,20 +20,38 @@ draft: false
 weight: 5000
 uuid: 11294
 ---
-<p>This PlantEurope panel discussion will give insights into already existing national food strategies from pioneering countries in Europe as well as highlight a diversity of approaches to embedding a plant-based diet in policy framework. These examples will be useful in guiding other countries' work to promote a nutrient-rich plant-based diet, helping curb climate change along the way.</p>
-<p>Learn more:</p>
-<p><a href="https://www.foodsystemchange.org/networking/planteurope/events/working-towards-the-inclusion-of-a-plant-based-diet-in-public-policy">https://www.foodsystemchange.org/networking/planteurope/events/working-…</a></p>
-<p>The PlantEurope Network aims to connect European innovators working towards a plant-based food system. We welcome all pioneers and flagship projects, start-ups, organizations, associations, scientists and stakeholders within the gastronomy and communal catering sector as well as political decision makers to</p>
-<ul>
-<li>connect with the plant-based community</li>
-</ul>
-<ul>
-<li>share knowledge, ideas and resources</li>
-</ul>
-<ul>
-<li>learn about facts, tools and trends</li>
-</ul>
-<ul>
-<li>join networking events</li>
-</ul>
-<p><a href="https://www.foodsystemchange.org/planteurope">https://www.foodsystemchange.org/planteurope</a></p>
+This PlantEurope panel discussion will give insights into already
+existing national food strategies from pioneering countries in Europe as
+well as highlight a diversity of approaches to embedding a plant-based
+diet in policy framework. These examples will be useful in guiding other
+countries\' work to promote a nutrient-rich plant-based diet, helping
+curb climate change along the way.
+
+Learn more:
+
+[https://www.foodsystemchange.org/networking/planteurope/events/working-...](https://www.foodsystemchange.org/networking/planteurope/events/working-towards-the-inclusion-of-a-plant-based-diet-in-public-policy)
+
+The PlantEurope Network aims to connect European innovators working
+towards a plant-based food system. We welcome all pioneers and flagship
+projects, start-ups, organizations, associations, scientists and
+stakeholders within the gastronomy and communal catering sector as well
+as political decision makers to
+
+-   connect with the plant-based community
+
+```{=html}
+<!-- -->
+```
+-   share knowledge, ideas and resources
+
+```{=html}
+<!-- -->
+```
+-   learn about facts, tools and trends
+
+```{=html}
+<!-- -->
+```
+-   join networking events
+
+<https://www.foodsystemchange.org/planteurope>

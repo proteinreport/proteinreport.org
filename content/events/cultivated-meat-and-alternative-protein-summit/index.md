@@ -22,13 +22,18 @@ draft: false
 weight: 5000
 uuid: 11359
 ---
-<p><em>Join us at the University of California, Davis on September 11th, 2023 for a gathering of forward thinking academia, industry leaders, and policymakers working to navigate the hurdles for cultivated meat and alternative protein commercialization in the US and abroad.</em></p>
-<p>This year’s Summit will include:</p>
-<ul>
-<li>Keynote Speaker Congressman Ami Bera sharing why Cultivated Meat and Alternative Protein is important to California, US, and World</li>
-<li>Research Bottlenecks for Alt Protein Commercialization for Plant based, Fungal and Cultivated Meat</li>
-<li>Regulatory Approval:  How can recent successes be continued? </li>
-<li>Workforce Training from Production through Point of Purchase </li>
-<li>Understanding the Challenges of Consumer Acceptance and Preference</li>
-<li>Building Regional Capacity in Alt Protein Research and Production</li>
-</ul>
+*Join us at the University of California, Davis on September 11th, 2023
+for a gathering of forward thinking academia, industry leaders, and
+policymakers working to navigate the hurdles for cultivated meat and
+alternative protein commercialization in the US and abroad.*
+
+This year's Summit will include:
+
+-   Keynote Speaker Congressman Ami Bera sharing why Cultivated Meat and
+    Alternative Protein is important to California, US, and World
+-   Research Bottlenecks for Alt Protein Commercialization for Plant
+    based, Fungal and Cultivated Meat
+-   Regulatory Approval:  How can recent successes be continued? 
+-   Workforce Training from Production through Point of Purchase 
+-   Understanding the Challenges of Consumer Acceptance and Preference
+-   Building Regional Capacity in Alt Protein Research and Production

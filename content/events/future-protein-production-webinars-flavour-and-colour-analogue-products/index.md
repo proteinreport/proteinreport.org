@@ -20,7 +20,14 @@ draft: false
 weight: 5000
 uuid: 10950
 ---
-<p>June 29th, 1:00 pm CET - 3:00 PM CET.</p>
-<p>In this webinar, we will hear about the latest in colours and flavourings for alternative products. Industry leaders will share their knowledge of current and emerging technologies.</p>
-<p>This is a free to attend 2-hour webinar. Attendees will have the opportunity to hear from industry experts as well as interact through Q&A sessions and networking slots.</p>
-<p>Find out more and register for free today.</p>
+June 29th, 1:00 pm CET - 3:00 PM CET.
+
+In this webinar, we will hear about the latest in colours and
+flavourings for alternative products. Industry leaders will share their
+knowledge of current and emerging technologies.
+
+This is a free to attend 2-hour webinar. Attendees will have the
+opportunity to hear from industry experts as well as interact through
+Q&A sessions and networking slots.
+
+Find out more and register for free today.

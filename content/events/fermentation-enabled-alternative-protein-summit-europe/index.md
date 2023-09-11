@@ -22,12 +22,21 @@ draft: false
 weight: 5000
 uuid: 11276
 ---
-<p>The 2nd Fermentation-Enabled Alternative Protein Summit Europe returns this summer with unmissable content on the technical implications for the production of novel foods: </p>
-<ul>
-<li>Strain development and synthetic biology technologies</li>
-<li>Scale-up planning and execution case studies</li>
-<li>Ideal fermentation design panel discussions: liquid vs solid-state approaches</li>
-<li>Downstream purification techniques: yield maximisation and by-product minimisation</li>
-</ul>
-<p>In addition to these in-depth example-based sessions, our focus day is set to explore personal <em>commercial and regulatory</em> journeys, from companies such as <strong>Better Dairy</strong>, <strong>Unilever, </strong>and<strong> ENOUGH</strong>. </p>
-<p>This event is the ultimate platform for precision and biomass fermentation companies and end-to-end product users to explore the novel foods industry from every angle of product development.</p>
+The 2nd Fermentation-Enabled Alternative Protein Summit Europe returns
+this summer with unmissable content on the technical implications for
+the production of novel foods: 
+
+-   Strain development and synthetic biology technologies
+-   Scale-up planning and execution case studies
+-   Ideal fermentation design panel discussions: liquid vs solid-state
+    approaches
+-   Downstream purification techniques: yield maximisation and
+    by-product minimisation
+
+In addition to these in-depth example-based sessions, our focus day is
+set to explore personal *commercial and regulatory* journeys, from
+companies such as **Better Dairy**, **Unilever, **and** ENOUGH**. 
+
+This event is the ultimate platform for precision and biomass
+fermentation companies and end-to-end product users to explore the novel
+foods industry from every angle of product development.

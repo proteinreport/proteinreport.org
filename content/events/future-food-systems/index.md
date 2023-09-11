@@ -20,4 +20,8 @@ draft: false
 weight: 5000
 uuid: 10327
 ---
-<p>Future Food Systems unites sustainability, supply chain, innovation and R&D leaders from food brands, hospitality providers, retailers, ingredient manufacturers, and agri-business companies. It explores innovative solutions to deliver sustainable nutrition outcomes through more resilient supply chains, behavior change, and new models.</p>
+Future Food Systems unites sustainability, supply chain, innovation and
+R&D leaders from food brands, hospitality providers, retailers,
+ingredient manufacturers, and agri-business companies. It explores
+innovative solutions to deliver sustainable nutrition outcomes through
+more resilient supply chains, behavior change, and new models.

@@ -22,4 +22,5 @@ draft: false
 weight: 5000
 uuid: 9972
 ---
-<p>Live and in person January 25th - 27th 2022 @ the Oakland Marriott City Center</p>
+Live and in person January 25th - 27th 2022 @ the Oakland Marriott City
+Center

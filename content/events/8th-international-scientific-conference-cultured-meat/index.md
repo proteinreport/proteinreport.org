@@ -22,4 +22,4 @@ draft: false
 weight: 5000
 uuid: 11112
 ---
-<p>Abstract submissions due August 14!</p>
+Abstract submissions due August 14!

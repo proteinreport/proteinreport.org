@@ -19,5 +19,13 @@ draft: false
 weight: 5000
 uuid: 9855
 ---
-<p>Join us for a Q&A event with senior scientist Mirasbek Kuterbekov, who will introduce his work at Hoxton Farms and talk about his career journey into the space. He will also answer your questions about cellular agriculture and working in the field.</p>
-<p>Based in London, <a href="https://hoxtonfarms.com/">Hoxton Farms</a> is cultivating a revolution. They combine cell biology and mathematical modelling to make a better kind of fat. Starting from just a few cells, they grow purified animal fat in bioreactors to produce a delicious, cruelty-free and sustainable ingredient.</p>
+Join us for a Q&A event with senior scientist Mirasbek Kuterbekov, who
+will introduce his work at Hoxton Farms and talk about his career
+journey into the space. He will also answer your questions about
+cellular agriculture and working in the field.
+
+Based in London, [Hoxton Farms](https://hoxtonfarms.com/) is cultivating
+a revolution. They combine cell biology and mathematical modelling to
+make a better kind of fat. Starting from just a few cells, they grow
+purified animal fat in bioreactors to produce a delicious, cruelty-free
+and sustainable ingredient.

@@ -21,4 +21,7 @@ draft: false
 weight: 5000
 uuid: 10333
 ---
-<p>The course “Plant-Based Proteins & Foods” is designed to give participants a theoretical and practical overview of plant-based proteins currently available for food applications and to provide hands-on information about their properties and functionalities.</p>
+The course "Plant-Based Proteins & Foods" is designed to give
+participants a theoretical and practical overview of plant-based
+proteins currently available for food applications and to provide
+hands-on information about their properties and functionalities.

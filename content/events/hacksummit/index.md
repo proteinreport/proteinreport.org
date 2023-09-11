@@ -22,7 +22,16 @@ draft: false
 weight: 5000
 uuid: 11246
 ---
-<p>The HackSummit brings together the brightest minds in Food and ClimateTech on May 11-12.</p>
-<p>Across the two days, the world’s founders and funders will meet in Lausanne for the ClimateTech event Europe deserves.</p>
-<p>We'll cover hot topics from alternative climate financing to overcoming scale up bottlenecks, molecular farming to new biomaterials, and everything in-between.  </p>
-<p>More than anything - it's a time to meet fellow founders, funders and industry insiders in what we think will <em>probably</em> be the most fun ClimateTech event of the year.</p>
+The HackSummit brings together the brightest minds in Food and
+ClimateTech on May 11-12.
+
+Across the two days, the world's founders and funders will meet in
+Lausanne for the ClimateTech event Europe deserves.
+
+We\'ll cover hot topics from alternative climate financing to overcoming
+scale up bottlenecks, molecular farming to new biomaterials, and
+everything in-between.  
+
+More than anything - it\'s a time to meet fellow founders, funders and
+industry insiders in what we think will *probably* be the most fun
+ClimateTech event of the year.

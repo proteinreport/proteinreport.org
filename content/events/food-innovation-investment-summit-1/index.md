@@ -22,5 +22,15 @@ draft: false
 weight: 5000
 uuid: 11293
 ---
-<p>The Food Innovation & Investment Summit 2022 explored key themes and trends such as plant-based food products with cleaner ingredients, sustainable foods and solutions to tackle food waste and extending shelf life, ‘food as medicine’, and the importance of collaboration and partnership to bring innovations to scale and make real impact on our food system.</p>
-<p><strong>We're excited to announce that the 2023 </strong><strong>Food Innovation & Investment Summit dates will be May 23-24.</strong> Join us to discover how these trends have evolved throughout the year and explore the newest innovations that are working towards building a healthier and more sustainable food system!</p>
+The Food Innovation & Investment Summit 2022 explored key themes and
+trends such as plant-based food products with cleaner ingredients,
+sustainable foods and solutions to tackle food waste and extending shelf
+life, 'food as medicine', and the importance of collaboration and
+partnership to bring innovations to scale and make real impact on our
+food system.
+
+**We\'re excited to announce that the 2023 Food Innovation & Investment
+Summit dates will be May 23-24.** Join us to discover how these
+trends have evolved throughout the year and explore the newest
+innovations that are working towards building a healthier and more
+sustainable food system!

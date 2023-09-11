@@ -22,4 +22,9 @@ draft: false
 weight: 5000
 uuid: 10693
 ---
-<p>Our previous Fermentation-Enabled Alternative Proteins US Summit has been well received by industry leaders, which has allowed us to evolve our Fermentation Summit to be held in Europe this 2022. With a different regulatory environment and developments taking place in the EU, this year we’ll also be focusing on the key challenges to Novel Foods and gaining investment in Europe's landscape.</p>
+Our previous Fermentation-Enabled Alternative Proteins US Summit has
+been well received by industry leaders, which has allowed us to evolve
+our Fermentation Summit to be held in Europe this 2022. With a different
+regulatory environment and developments taking place in the EU, this
+year we'll also be focusing on the key challenges to Novel Foods and
+gaining investment in Europe\'s landscape.

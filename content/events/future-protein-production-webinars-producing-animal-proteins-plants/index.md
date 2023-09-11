@@ -20,6 +20,11 @@ draft: false
 weight: 5000
 uuid: 11056
 ---
-</p>
-<p>This webinar will examine in depth the emerging field of creating animal proteins using plants. Molecular farming for food has grown in popularity over the past few years so how can this fourth pillar of alternative proteins help get products on shelves at scale?</p>
-<p>This is a free-to-attend 2-hour webinar. Attendees will have the opportunity to hear from industry experts as well as interact through Q&A sessions and networking slots.</p>
+This webinar will examine in depth the emerging field of creating animal
+proteins using plants. Molecular farming for food has grown in
+popularity over the past few years so how can this fourth pillar of
+alternative proteins help get products on shelves at scale?
+
+This is a free-to-attend 2-hour webinar. Attendees will have the
+opportunity to hear from industry experts as well as interact through
+Q&A sessions and networking slots.

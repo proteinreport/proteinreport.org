@@ -22,6 +22,22 @@ draft: false
 weight: 5000
 uuid: 11257
 ---
-<p>Take part in Summit Europe to position yourself amongst the top plant-based foods and proteins industry thought leaders and disruptors in The Netherlands, Europe, and the world. With three tracks to choose from, the Summit will have something for everyone working in the plant-based food formulation sector. If you work for innovative ingredients manufacturers, alternative proteins suppliers, food brands, retailers & foodservice, equipment & processing providers, or related fields, this Summit is for you!</p>
-<p>The Summit will provide invaluable networking opportunities and experts will share the latest findings and insights of the entire value chain. The program will focus on the market, current trends, investments, and collaboration opportunities. Themes of affordability, accessibility, healthy diets & nutrition, and sustainability will be central, which are focal points of the Sustainable Development Goals.</p>
-<p>We hope to see you there for many mouth-watering and sustainability-oriented presentations from some of the best experts in the field.</p>
+Take part in Summit Europe to position yourself amongst the top
+plant-based foods and proteins industry thought leaders and disruptors
+in The Netherlands, Europe, and the world. With three tracks to choose
+from, the Summit will have something for everyone working in the
+plant-based food formulation sector. If you work for innovative
+ingredients manufacturers, alternative proteins suppliers, food brands,
+retailers & foodservice, equipment & processing providers, or related
+fields, this Summit is for you!
+
+The Summit will provide invaluable networking opportunities and experts
+will share the latest findings and insights of the entire value chain.
+The program will focus on the market, current trends, investments, and
+collaboration opportunities. Themes of affordability, accessibility,
+healthy diets & nutrition, and sustainability will be central, which are
+focal points of the Sustainable Development Goals.
+
+We hope to see you there for many mouth-watering and
+sustainability-oriented presentations from some of the best experts in
+the field.

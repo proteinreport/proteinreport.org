@@ -22,4 +22,10 @@ draft: false
 weight: 5000
 uuid: 10173
 ---
-<p>It’s been three years since we last gathered the agri-food community together in San Francisco, and we’re set for an explosion of ideas and opportunities when we reunite on March 24-25. The Future Food-Tech Summit has become the annual meeting place for the global food-tech ecosystem. Food brands, active investors, start-ups and technology leaders come together to exchange insights, be inspired, and identify future partners.</p>
+It's been three years since we last gathered the agri-food community
+together in San Francisco, and we're set for an explosion of ideas and
+opportunities when we reunite on March 24-25. The Future Food-Tech
+Summit has become the annual meeting place for the global food-tech
+ecosystem. Food brands, active investors, start-ups and technology
+leaders come together to exchange insights, be inspired, and identify
+future partners.

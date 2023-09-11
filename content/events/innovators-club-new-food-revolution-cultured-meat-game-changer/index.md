@@ -20,14 +20,35 @@ draft: false
 weight: 5000
 uuid: 10416
 ---
-<p><strong>Is the world ready for cultured meat as a new source of food?</strong></p>
-<p>The evidence suggests that it is, and 66% of our surveyed scientists would be open to try it. Learn more about the impact of cultured meat on society, the food industry and the future of meat consumption at our upcoming online Innovators´ Club on <strong>February 23, 2022</strong>!</p>
-<p>We are seeing a rapid increase in global meat consumption, just as the scarcity of resources and climate change are becoming more urgent challenges. Cultured meat promises a future in which the increasing desire to eat meat can be reconciled with the need to protect the environment, the climate and animal welfare. Get insights on our recently published <a href="https://www.merckgroup.com/content/dam/web/corporate/non-images/research/innovation-center/en/Trendstudy_EN.pdf">cultured meat trend study</a> and reflect on the aspects of our food industry that can be reshaped as well as hurdles in technology, culture, society and regulations that cultured meat need to overcome.</p>
-<p>The event, hosted by <strong>Annika Zille</strong>, Head of Marketing at the Group Science and Technology Office of Merck, will include the keynote <strong>“Why Cultured Meat?”</strong> by <strong>Timothy Olsen</strong>, Head of Cultured Meat at Merck. After his presentation, he will be joined for a panel discussion by <strong>Paul Shapiro</strong>, author of a national bestseller and CEO of “The Better Meat Co”, <strong>Aryé Elfenbein</strong>, Co-Founder of Wildtype and <strong>Heather Ahlborn</strong>, from the Life Science business of Merck.</p>
-<p>Join us and get answers to questions such as:</p>
-<ul>
-<li>Are the glory days of meat over and how ethical is its consumption?</li>
-<li>How is consumer acceptance evolving?</li>
-<li>How much naturalness does the modern diet need?</li>
-<li>How close are we from eating cultured meat?</li>
-</ul>
+**Is the world ready for cultured meat as a new source of food?**
+
+The evidence suggests that it is, and 66% of our surveyed scientists
+would be open to try it. Learn more about the impact of cultured meat on
+society, the food industry and the future of meat consumption at our
+upcoming online Innovators´ Club on **February 23, 2022**!
+
+We are seeing a rapid increase in global meat consumption, just as the
+scarcity of resources and climate change are becoming more urgent
+challenges. Cultured meat promises a future in which the increasing
+desire to eat meat can be reconciled with the need to protect the
+environment, the climate and animal welfare. Get insights on our
+recently published [cultured meat trend
+study](https://www.merckgroup.com/content/dam/web/corporate/non-images/research/innovation-center/en/Trendstudy_EN.pdf) and
+reflect on the aspects of our food industry that can be reshaped as well
+as hurdles in technology, culture, society and regulations that cultured
+meat need to overcome.
+
+The event, hosted by **Annika Zille**, Head of Marketing at the Group
+Science and Technology Office of Merck, will include the keynote **"Why
+Cultured Meat?"** by **Timothy Olsen**, Head of Cultured Meat at Merck.
+After his presentation, he will be joined for a panel discussion
+by **Paul Shapiro**, author of a national bestseller and CEO of "The
+Better Meat Co", **Aryé Elfenbein**, Co-Founder of Wildtype
+and **Heather Ahlborn**, from the Life Science business of Merck.
+
+Join us and get answers to questions such as:
+
+-   Are the glory days of meat over and how ethical is its consumption?
+-   How is consumer acceptance evolving?
+-   How much naturalness does the modern diet need?
+-   How close are we from eating cultured meat?

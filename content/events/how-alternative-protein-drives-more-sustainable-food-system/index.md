@@ -20,4 +20,9 @@ draft: false
 weight: 5000
 uuid: 11364
 ---
-<p>Dive into the world of alternative proteins and their vital role in building a more sustainable food system. Gain valuable insights from industry experts on prevailing trends, challenges, and opportunities within this dynamic industry, and the cutting-edge technologies empowering researchers and manufacturers to create more sustainable and nutritious food options. Register Now!</p>
+Dive into the world of alternative proteins and their vital role in
+building a more sustainable food system. Gain valuable insights from
+industry experts on prevailing trends, challenges, and opportunities
+within this dynamic industry, and the cutting-edge technologies
+empowering researchers and manufacturers to create more sustainable and
+nutritious food options. Register Now!

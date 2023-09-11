@@ -22,12 +22,13 @@ draft: false
 weight: 5000
 uuid: 11117
 ---
-<p><strong>*Virtual option available</strong></p>
-<p>Organized by the Consumer Federation of America, this years topics will include:</p>
-<ul>
-<li>Consumer trends in the face of inflation</li>
-<li>Ultra-processed foods: scoundrel or scapegoat?</li>
-<li>Regionalizing the food system</li>
-<li>Food and racism: the fight for food justice</li>
-<li>New frontiers of food assistance programs</li>
-</ul>
+**\*Virtual option available**
+
+Organized by the Consumer Federation of America, this years topics will
+include:
+
+-   Consumer trends in the face of inflation
+-   Ultra-processed foods: scoundrel or scapegoat?
+-   Regionalizing the food system
+-   Food and racism: the fight for food justice
+-   New frontiers of food assistance programs

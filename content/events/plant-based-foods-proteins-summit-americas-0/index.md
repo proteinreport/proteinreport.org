@@ -22,6 +22,18 @@ draft: false
 weight: 5000
 uuid: 11256
 ---
-<p>Join us at Summit Americas to position yourself amongst the top plant-based foods and proteins industry thought leaders and disruptors in North America, and the world. The Summit will provide invaluable networking opportunities and experts will share the latest findings and insights of the entire value chain.</p>
-<p>Summit Americas will focus on the market, current trends, investments, and collaboration opportunities. Themes of affordability, accessibility, healthy diets & nutrition, and sustainability will be central, which are focal points of the Sustainable Development Goals.</p>
-<p>The Summit is targeted towards the plant-based food formulation sector for those working in innovative ingredients manufacturers, alternative proteins suppliers, food brands, retailers & foodservice, equipment & processing providers, and more.</p>
+Join us at Summit Americas to position yourself amongst the top
+plant-based foods and proteins industry thought leaders and disruptors
+in North America, and the world. The Summit will provide invaluable
+networking opportunities and experts will share the latest findings and
+insights of the entire value chain.
+
+Summit Americas will focus on the market, current trends, investments,
+and collaboration opportunities. Themes of affordability, accessibility,
+healthy diets & nutrition, and sustainability will be central, which are
+focal points of the Sustainable Development Goals.
+
+The Summit is targeted towards the plant-based food formulation sector
+for those working in innovative ingredients manufacturers, alternative
+proteins suppliers, food brands, retailers & foodservice, equipment &
+processing providers, and more.

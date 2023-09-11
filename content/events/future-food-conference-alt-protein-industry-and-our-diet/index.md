@@ -20,5 +20,10 @@ draft: false
 weight: 5000
 uuid: 10230
 ---
-<p>A student-organized conference featuring companies like <strong>MOSA MEAT, THE GOOD FOOD INSTITUTE, WILDTYPE, REVO FOODS, MYCORENA + MANY MORE.</strong></p>
-<p>It's a 3-day online event with each day focusing on one alternative protein pillar. The event is<strong> FREE FOR ALL</strong> and there's a <strong>networking session</strong> with the companies on each day. Don't miss your chance to break into the field or secure an internship!</p>
+A student-organized conference featuring companies like **MOSA MEAT, THE
+GOOD FOOD INSTITUTE, WILDTYPE, REVO FOODS, MYCORENA + MANY MORE.**
+
+It\'s a 3-day online event with each day focusing on one alternative
+protein pillar. The event is **FREE FOR ALL** and there\'s a
+**networking session** with the companies on each day. Don\'t miss your
+chance to break into the field or secure an internship!

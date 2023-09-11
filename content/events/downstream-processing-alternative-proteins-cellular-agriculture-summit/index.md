@@ -22,7 +22,24 @@ draft: false
 weight: 5000
 uuid: 11328
 ---
-<p><em>Advance Protein & Cell Harvest, Purification, End Product Characterization & Formulation for Commercially Viable Fermentation Proteins & Cellular Agriculture Products</em></p>
-<p>The Downstream Processing for Alternative Proteins & Cellular Agriculture Summit is your dedicated community to help you evaluate current downstream strategies to reduce cost, improve titer, and guarantee quality for commercial scalability.</p>
-<p>Across 3 hands-on workshops and 2 days of data-driven case studies, the Downstream Processing for Alternative Proteins & Cellular Agriculture Summit will share recent advances in downstream processing that have unlocked next-gen novel foods’ commercial viability from the likes of Impossible Foods, BlueNalu, Remilk, Helaina, and Finless Foods.</p>
-<p>Join 60+ CTOs, process engineers, regulatory and quality specialists, product developers, and analytical chemists at the only dedicated downstream processing meeting within the fast-evolving world of next gen novel foods. Return to the office with practical insights to rapidly scale-up your alternative novel foods’ production and bring your product to customers.</p>
+*Advance Protein & Cell Harvest, Purification, End Product
+Characterization & Formulation for Commercially Viable Fermentation
+Proteins & Cellular Agriculture Products*
+
+The Downstream Processing for Alternative Proteins & Cellular
+Agriculture Summit is your dedicated community to help you evaluate
+current downstream strategies to reduce cost, improve titer, and
+guarantee quality for commercial scalability.
+
+Across 3 hands-on workshops and 2 days of data-driven case studies, the
+Downstream Processing for Alternative Proteins & Cellular Agriculture
+Summit will share recent advances in downstream processing that have
+unlocked next-gen novel foods' commercial viability from the likes of
+Impossible Foods, BlueNalu, Remilk, Helaina, and Finless Foods.
+
+Join 60+ CTOs, process engineers, regulatory and quality specialists,
+product developers, and analytical chemists at the only dedicated
+downstream processing meeting within the fast-evolving world of next gen
+novel foods. Return to the office with practical insights to rapidly
+scale-up your alternative novel foods' production and bring your product
+to customers.

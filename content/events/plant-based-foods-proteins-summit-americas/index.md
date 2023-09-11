@@ -22,6 +22,13 @@ draft: false
 weight: 5000
 uuid: 10332
 ---
-<p>Bridge2Food brings together key leaders from all along the value chain who are working to drive transformation.</p>
-<p>How do we capitalize on the opportunities the plant-based foods market offers? How do we tackle the challenges of sustainability, affordability, and investment?</p>
-<p>Join us for three days to learn the latest innovations and research, find solutions and strategies, grow your network, and discover where the plant-based sector is heading next</p>
+Bridge2Food brings together key leaders from all along the value chain
+who are working to drive transformation.
+
+How do we capitalize on the opportunities the plant-based foods market
+offers? How do we tackle the challenges of sustainability,
+affordability, and investment?
+
+Join us for three days to learn the latest innovations and research,
+find solutions and strategies, grow your network, and discover where the
+plant-based sector is heading next

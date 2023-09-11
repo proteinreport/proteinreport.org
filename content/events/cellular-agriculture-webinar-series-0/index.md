@@ -20,5 +20,9 @@ draft: false
 weight: 5000
 uuid: 11363
 ---
-<p>Join the <em><strong>third session</strong> </em>of the CellAgri Webinar Series on <strong>September 6th</strong> to hear from global and industry leaders as they highlight how the cellular agriculture field is moving forward.</p>
-<p>Get your <em>free</em> ticket today and learn about the future of food with cellular agriculture. </p>
+Join the ***third session** *of the CellAgri Webinar Series
+on **September 6th** to hear from global and industry leaders as they
+highlight how the cellular agriculture field is moving forward.
+
+Get your *free* ticket today and learn about the future of food with
+cellular agriculture. 

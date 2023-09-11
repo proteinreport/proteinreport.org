@@ -20,15 +20,30 @@ draft: false
 weight: 5000
 uuid: 10013
 ---
-<p><strong>Objectives</strong><br />
-The ThinkTech! educational programme will enable you to develop skills related to novel food processing technologies focusing on technical aspects, as well as the related soft skills.</p>
-<p>Thus, your critical thinking on the development of sustainable food technology solutions will be enhanced, so that you are able to appraise unintended consequences like product performance or sustainability implications.</p>
-<p><strong>Advantages</strong><br />
-Our mission is to give you detailed theoretical and practical knowledge about several technologies and skills:</p>
-<p>Approaches for protein fractionation from plant and microbial sources (EMF = electro-membrane filtration, PLE = Pressurized Liquid Extraction, PCT = Pressure Change Technology)<br />
-Extrusion technology for processing of alternative proteins<br />
-Inspection of sustainability aspects of the production and advanced technologies</p>
-<p><strong>Career Opportunities</strong><br />
-Get experiences in the knowledge of new technologies and the processing of alternative proteins. This may help to step into new workplaces.</p>
-<p><strong>Duration & Dates</strong><br />
-This course will take place on December 8th and 9th of 2021.</p>
+**Objectives**\
+The ThinkTech! educational programme will enable you to develop skills
+related to novel food processing technologies focusing on technical
+aspects, as well as the related soft skills.
+
+Thus, your critical thinking on the development of sustainable food
+technology solutions will be enhanced, so that you are able to appraise
+unintended consequences like product performance or sustainability
+implications.
+
+**Advantages**\
+Our mission is to give you detailed theoretical and practical knowledge
+about several technologies and skills:
+
+Approaches for protein fractionation from plant and microbial sources
+(EMF = electro-membrane filtration, PLE = Pressurized Liquid Extraction,
+PCT = Pressure Change Technology)\
+Extrusion technology for processing of alternative proteins\
+Inspection of sustainability aspects of the production and advanced
+technologies
+
+**Career Opportunities**\
+Get experiences in the knowledge of new technologies and the processing
+of alternative proteins. This may help to step into new workplaces.
+
+**Duration & Dates**\
+This course will take place on December 8th and 9th of 2021.

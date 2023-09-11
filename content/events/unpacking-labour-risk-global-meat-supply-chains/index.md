@@ -19,5 +19,12 @@ draft: false
 weight: 5000
 uuid: 11249
 ---
-<p>Join us on 16 February for an in depth look at the state of labour risk in the meatpacking industry. Sian Jones, ESG Analyst at FAIRR, will take us through the findings of our Working Conditions Phase 2 engagement report before turning to James Ritchie, Assistant General Secretary, IUF Global, and Nadira Narine, Senior Program Director, Interfaith Center on Corporate Responsibility, for an overview of the industry's labour issues more closely.</p>
-<p><strong>Time:</strong> Feb 16, 2023 03:00 PM in <a href=";">London</a></p>
+Join us on 16 February for an in depth look at the state of labour risk
+in the meatpacking industry. Sian Jones, ESG Analyst at FAIRR, will take
+us through the findings of our Working Conditions Phase 2 engagement
+report before turning to James Ritchie, Assistant General Secretary, IUF
+Global, and Nadira Narine, Senior Program Director, Interfaith Center on
+Corporate Responsibility, for an overview of the industry\'s labour
+issues more closely.
+
+**Time:** Feb 16, 2023 03:00 PM in [London](;)

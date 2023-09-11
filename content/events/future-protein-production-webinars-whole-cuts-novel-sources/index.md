@@ -20,5 +20,11 @@ draft: false
 weight: 5000
 uuid: 11114
 ---
-<p>The holy grail for alternative meats is a whole cut indistinguishable from that of traditional meats. In this session, we will hear from the companies that are solving the challenges faced by companies getting alternative whole cuts to consumers.</p>
-<p>This is a free to attend 2-hour webinar. Attendees will have the opportunity to hear from industry experts as well as interact through Q&A sessions and networking slots.</p>
+The holy grail for alternative meats is a whole cut indistinguishable
+from that of traditional meats. In this session, we will hear from the
+companies that are solving the challenges faced by companies getting
+alternative whole cuts to consumers.
+
+This is a free to attend 2-hour webinar. Attendees will have the
+opportunity to hear from industry experts as well as interact through
+Q&A sessions and networking slots.

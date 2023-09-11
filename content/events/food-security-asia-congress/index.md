@@ -22,4 +22,14 @@ draft: false
 weight: 5000
 uuid: 11224
 ---
-<p>Food Security Asia Congress is to be held in-person on the 23rd to 24th May 2023 in Jakarta, Indonesia. This international gathering of industry leaders will be categorize into 2 focus streams, with the first executive summit titled: “International Livestock, Poultry, Animal Health & Feed Meet” and the second stream titled: “Plant Genomics Microbiome & Agritech 2.0”.  Set to feature a stellar speaker line-up of global industry leaders, over 250 senior executive attendees, world class sponsors and exhibiting brands as well as endorsement from globally recognized supporting organizations, media, and government departments, this event will address the latest challenges, topics, trends and technologies that will shape the future of food.</p>
+Food Security Asia Congress is to be held in-person on the 23rd to 24th
+May 2023 in Jakarta, Indonesia. This international gathering of industry
+leaders will be categorize into 2 focus streams, with the first
+executive summit titled: "International Livestock, Poultry, Animal
+Health & Feed Meet" and the second stream titled: "Plant Genomics
+Microbiome & Agritech 2.0".  Set to feature a stellar speaker line-up of
+global industry leaders, over 250 senior executive attendees, world
+class sponsors and exhibiting brands as well as endorsement from
+globally recognized supporting organizations, media, and government
+departments, this event will address the latest challenges, topics,
+trends and technologies that will shape the future of food.

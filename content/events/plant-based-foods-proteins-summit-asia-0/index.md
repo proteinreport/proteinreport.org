@@ -21,6 +21,15 @@ draft: false
 weight: 5000
 uuid: 11258
 ---
-<p>Our global Summits provide an invaluable platform for networking opportunities for the industry's thought leaders and disruptors, enabling them to share their latest findings and insights into the advances of the entire value chain.</p>
-<p>They discuss the impact of the latest trends connected with animal-free proteins, such as fermentation and cell-based technology.</p>
-<p>Bridge2Food is the go-to platform for debates regarding the current challenges and opportunities within the sector, such as taste and texture, sustainability, affordability, nutrition, supply chain issues, and consumer trends.</p>
+Our global Summits provide an invaluable platform for networking
+opportunities for the industry\'s thought leaders and disruptors,
+enabling them to share their latest findings and insights into the
+advances of the entire value chain.
+
+They discuss the impact of the latest trends connected with animal-free
+proteins, such as fermentation and cell-based technology.
+
+Bridge2Food is the go-to platform for debates regarding the current
+challenges and opportunities within the sector, such as taste and
+texture, sustainability, affordability, nutrition, supply chain issues,
+and consumer trends.

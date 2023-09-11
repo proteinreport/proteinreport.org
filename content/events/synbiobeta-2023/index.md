@@ -22,4 +22,8 @@ draft: false
 weight: 5000
 uuid: 11219
 ---
-<p>SynBioBeta is the premier innovation network for biological engineers, innovators, entrepreneurs, and investors who share a passion for using biology to build a better, more sustainable planet. The Global Synthetic Biology Summit showcases the cutting-edge developments in biology that are transforming how we fuel, heal, and feed the world.</p>
+SynBioBeta is the premier innovation network for biological engineers,
+innovators, entrepreneurs, and investors who share a passion for using
+biology to build a better, more sustainable planet. The Global Synthetic
+Biology Summit showcases the cutting-edge developments in biology that
+are transforming how we fuel, heal, and feed the world.

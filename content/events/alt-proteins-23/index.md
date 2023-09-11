@@ -22,6 +22,18 @@ draft: false
 weight: 5000
 uuid: 11270
 ---
-<p>AltProteins 23 is a must for anyone engaged or interested in the plant-based meat, cultivated meat or precision fermentation sectors—from primary production, investment and R&D, to manufacturing, foodservice and retail.</p>
-<p>After last year’s sold out, heavily waitlisted inaugural event, AltProteins has become Australia and New Zealand's premier alternative proteins conference, bringing our region’s vibrant ecosystem together under one roof to explore the latest success stories, learnings, and insights that you can’t get anywhere else.</p>
-<p>In a clear sign of investment and support for emerging proteins, the Victorian Government returns as the lead sponsor. This year’s event is expanding to accommodate 500 delegates, more concurrent programming and it will have a food menu that will not disappoint!</p>
+AltProteins 23 is a must for anyone engaged or interested in the
+plant-based meat, cultivated meat or precision fermentation
+sectors---from primary production, investment and R&D, to manufacturing,
+foodservice and retail.
+
+After last year's sold out, heavily waitlisted inaugural event,
+AltProteins has become Australia and New Zealand\'s premier alternative
+proteins conference, bringing our region's vibrant ecosystem together
+under one roof to explore the latest success stories, learnings, and
+insights that you can't get anywhere else.
+
+In a clear sign of investment and support for emerging proteins, the
+Victorian Government returns as the lead sponsor. This year's event is
+expanding to accommodate 500 delegates, more concurrent programming and
+it will have a food menu that will not disappoint!

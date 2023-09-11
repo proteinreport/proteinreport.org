@@ -22,4 +22,8 @@ draft: false
 weight: 5000
 uuid: 11250
 ---
-<p>MEVO is a leaders summit that exclusively brings in-person decision makers from prominent to small-sized manufacturers, commercial producers, investors, cutting-edge technology providers, intellectuals, brands and future food vanguards who want to increase their knowledge and foothold in this lucrative growth market.</p>
+MEVO is a leaders summit that exclusively brings in-person decision
+makers from prominent to small-sized manufacturers, commercial
+producers, investors, cutting-edge technology providers, intellectuals,
+brands and future food vanguards who want to increase their knowledge
+and foothold in this lucrative growth market.

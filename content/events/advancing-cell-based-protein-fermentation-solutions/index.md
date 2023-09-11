@@ -21,5 +21,10 @@ draft: false
 weight: 5000
 uuid: 10294
 ---
-<p>As technology advances for cell based protein production , can it disrupt the global meat/seafood market? CMT has lined up a top panel of speakers/experts and promising start ups that will share new developments, advancing cell-based protein for commercial global production.</p>
-<p>Join us at this Hybrid conference in Singapore or Virtually.</p>
+As technology advances for cell based protein production , can it
+disrupt the global meat/seafood market? CMT has lined up a top panel of
+speakers/experts and promising start ups that will share new
+developments, advancing cell-based protein for commercial global
+production.
+
+Join us at this Hybrid conference in Singapore or Virtually.

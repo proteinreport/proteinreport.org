@@ -21,7 +21,24 @@ draft: false
 weight: 5000
 uuid: 11215
 ---
-<p>ID Capital, the entity spearheading the development of the Future Food Asia (FFA) platform, is delighted to announce that Dr Ismahane Elouafi, Chief Scientist at the Food and Agriculture Organization of the United Nations (FAO) will be the Guest of Honour at the seventh edition of the FFA Conference, on 17th – 18th of May 2023.</p>
-<p>Since its inception in 2017, FFA has acted as a catalyst for collaborations accelerating the work of technology entrepreneurs in the agrifood sector, and a pioneer in the then-nascent agrifoodtech vertical in Asia-Pacific.</p>
-<p>FFA will also be innovating the conference style and for the first time convene Chief Technology Officers, Chief Sustainability Officers and Investors for exclusive roundtables to identify and accelerate innovations and business models that are most critical to Asia-Pacific, to build a more sustainable and inclusive food future.</p>
-<p>This new conference format, along with the well-established FFA Award of US$ 100,000, will combine the vision of leaders in the industry and investors with the energy of start-ups and entrepreneurs. More details will be communicated on the Award as applications open in January 2023.</p>
+ID Capital, the entity spearheading the development of the Future Food
+Asia (FFA) platform, is delighted to announce that Dr Ismahane Elouafi,
+Chief Scientist at the Food and Agriculture Organization of the United
+Nations (FAO) will be the Guest of Honour at the seventh edition of the
+FFA Conference, on 17th -- 18th of May 2023.
+
+Since its inception in 2017, FFA has acted as a catalyst for
+collaborations accelerating the work of technology entrepreneurs in the
+agrifood sector, and a pioneer in the then-nascent agrifoodtech vertical
+in Asia-Pacific.
+
+FFA will also be innovating the conference style and for the first time
+convene Chief Technology Officers, Chief Sustainability Officers and
+Investors for exclusive roundtables to identify and accelerate
+innovations and business models that are most critical to Asia-Pacific,
+to build a more sustainable and inclusive food future.
+
+This new conference format, along with the well-established FFA Award of
+US\$ 100,000, will combine the vision of leaders in the industry and
+investors with the energy of start-ups and entrepreneurs. More details
+will be communicated on the Award as applications open in January 2023.

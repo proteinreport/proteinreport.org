@@ -22,5 +22,11 @@ draft: false
 weight: 5000
 uuid: 11261
 ---
-<p>Our Courses were created to accelerate innovation, share ideas, and showcase the latest developments in alternative proteins and plant-based foods across the entire formulation process, providing a hands-on approach that is one of a kind.</p>
-<p>Our driving force is to advance actions for a better food world and to help accelerate the protein transition. Enjoy the combination of theory and practice. Feel, smell, taste, and have fun!</p>
+Our Courses were created to accelerate innovation, share ideas, and
+showcase the latest developments in alternative proteins and plant-based
+foods across the entire formulation process, providing a hands-on
+approach that is one of a kind.
+
+Our driving force is to advance actions for a better food world and to
+help accelerate the protein transition. Enjoy the combination of theory
+and practice. Feel, smell, taste, and have fun!

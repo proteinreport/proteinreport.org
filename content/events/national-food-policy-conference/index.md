@@ -22,5 +22,6 @@ draft: false
 weight: 5000
 uuid: 11265
 ---
-<p><strong>*Virtual option available</strong></p>
-<p>Organized by the Consumer Federation of America. </p>
+**\*Virtual option available**
+
+Organized by the Consumer Federation of America. 

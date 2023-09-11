@@ -22,4 +22,4 @@ draft: false
 weight: 5000
 uuid: 11216
 ---
-<h6>Canada SynBio is back for its fifth anniversary edition that will take place in-person in Toronto, Canada June 13-15, 2023.</h6>
+###### Canada SynBio is back for its fifth anniversary edition that will take place in-person in Toronto, Canada June 13-15, 2023.

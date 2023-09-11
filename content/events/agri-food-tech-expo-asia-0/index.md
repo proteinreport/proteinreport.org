@@ -21,7 +21,21 @@ draft: false
 weight: 5000
 uuid: 11341
 ---
-<p>Agri-Food Tech Expo Asia is a strategic platform that evolves with the industry and is shaped by leaders and experts to explore strategies and solutions for sustainable systems and production to build a vibrant Agri-Food hub in Asia.</p>
-<p>The trade fair provides a focused exhibition platform with a “living lab” environment, thematic experiential zones, sandbox and community-based learning for emerging and established industry players in the agri-food industry to launch, showcase and testbed their solutions.</p>
-<p>The second edition of the trade fair will focus on key themes such as Aquaculture & Urban Protein Production, Food Safety & Security, Food Waste Management, and Smart Farming.</p>
-<p>Agri-Food Tech Expo Asia is an event of Constellar with international partner, DLG (Deutsche Landwirtschafts-Gesellschaft – German Agricultural Society).</p>
+Agri-Food Tech Expo Asia is a strategic platform that evolves with the
+industry and is shaped by leaders and experts to explore strategies and
+solutions for sustainable systems and production to build a vibrant
+Agri-Food hub in Asia.
+
+The trade fair provides a focused exhibition platform with a "living
+lab" environment, thematic experiential zones, sandbox and
+community-based learning for emerging and established industry players
+in the agri-food industry to launch, showcase and testbed their
+solutions.
+
+The second edition of the trade fair will focus on key themes such as
+Aquaculture & Urban Protein Production, Food Safety & Security, Food
+Waste Management, and Smart Farming.
+
+Agri-Food Tech Expo Asia is an event of Constellar with international
+partner, DLG (Deutsche Landwirtschafts-Gesellschaft -- German
+Agricultural Society).

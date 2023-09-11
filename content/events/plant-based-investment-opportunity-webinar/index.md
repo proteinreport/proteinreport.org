@@ -20,9 +20,30 @@ draft: false
 weight: 5000
 uuid: 10525
 ---
-<p>Plant-based foods are key to meeting our climate goals.</p>
-<p><a href="https://bridge2food.com/">Bridge2Food</a> and <a href="https://plantbasedfoodalliance.eu/">European Alliance for Plant-Based Foods (EAPF)</a> are proud to lead a coalition of 60 organisations calling for increased research funding for plant-based foods. This is essential to accelerate the shift to sustainable & healthy food systems.</p>
-<p>Learn more in this webinar with<a href="https://www.linkedin.com/in/gerardkleinessink/"> Gerard Klein</a>, CEO of Bridge2Food, and <a href="https://www.linkedin.com/in/siska-pottie-7071155/">Siska Pottie</a>, Secretary General of EAPF, about why there is a need and how it relates to building healthy food systems for our communities.</p>
-<p><strong>Register here: </strong><a href="https://www.eventbrite.ca/e/the-plant-based-investment-opportunity-tickets-272811395227">https://www.eventbrite.ca/e/the-plant-based-investment-opportunity-tick…</a></p>
-<p>This discussion was started with the release of a <a href="https://bridge2food.com/wp-content/uploads/2021/11/Bridge2Food_2021_Position_Paper_EAPF.pdf">joint paper</a>, and key stakeholders will gather at the <a href="https://bridge2food.com/summits/europe/">Plant-Based Foods & Proteins Summit Europe</a> in June to help define a research investment agenda.</p>
-<p>Interested in learning more? Check out the <a href="https://bridge2food.com/video-chat-series-investment-agenda/">video chat series</a> with key leaders.</p>
+Plant-based foods are key to meeting our climate goals.
+
+[Bridge2Food](https://bridge2food.com/) and [European Alliance for
+Plant-Based Foods (EAPF)](https://plantbasedfoodalliance.eu/) are proud
+to lead a coalition of 60 organisations calling for increased research
+funding for plant-based foods. This is essential to accelerate the shift
+to sustainable & healthy food systems.
+
+Learn more in this webinar with [Gerard
+Klein](https://www.linkedin.com/in/gerardkleinessink/), CEO of
+Bridge2Food, and [Siska
+Pottie](https://www.linkedin.com/in/siska-pottie-7071155/), Secretary
+General of EAPF, about why there is a need and how it relates to
+building healthy food systems for our communities.
+
+**Register
+here: **[https://www.eventbrite.ca/e/the-plant-based-investment-opportunity-tick...](https://www.eventbrite.ca/e/the-plant-based-investment-opportunity-tickets-272811395227)
+
+This discussion was started with the release of a [joint
+paper](https://bridge2food.com/wp-content/uploads/2021/11/Bridge2Food_2021_Position_Paper_EAPF.pdf),
+and key stakeholders will gather at the [Plant-Based Foods & Proteins
+Summit Europe](https://bridge2food.com/summits/europe/) in June to help
+define a research investment agenda.
+
+Interested in learning more? Check out the [video chat
+series](https://bridge2food.com/video-chat-series-investment-agenda/)
+with key leaders.

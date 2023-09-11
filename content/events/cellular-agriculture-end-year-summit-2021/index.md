@@ -20,4 +20,6 @@ draft: false
 weight: 5000
 uuid: 10047
 ---
-<p>CellAgri is excited to present the <strong>Cellular Agriculture: End of the Year Summit 2021</strong> to bring together leaders in the cellular agriculture field to highlight the field's achievements and accomplishments.</p>
+CellAgri is excited to present the **Cellular Agriculture: End of the
+Year Summit 2021** to bring together leaders in the cellular agriculture
+field to highlight the field\'s achievements and accomplishments.

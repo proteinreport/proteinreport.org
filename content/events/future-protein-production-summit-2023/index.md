@@ -20,8 +20,24 @@ draft: false
 weight: 5000
 uuid: 11171
 ---
-<p>The world's online meeting place for accelerating the commercialization of alternative proteins.</p>
-<p>The Future of Protein Production Summit is the must-attend virtual event for any company involved in making the global food system more sustainable, kind and fair for the planet, people, and animals.</p>
-<p>The senior executive-level conference presents an unbiased opportunity to explore and discuss this complex issue with world-leading experts. Discover a wide range of solutions that will have a positive impact through abolishing animal cruelty, reducing global pollution and improving human health.</p>
-<p>The online conference presents an unbiased opportunity to explore and discuss this complex issue with world-leading experts. Discover a wide range of solutions that will have a positive impact through abolishing animal cruelty, reducing global pollution, and improving human health.</p>
-<p>Stay up-to-date with the most recent solutions, technology, policy, and concepts across the food system. And get the best opportunities to meet key industry contributors.</p>
+The world\'s online meeting place for accelerating the commercialization
+of alternative proteins.
+
+The Future of Protein Production Summit is the must-attend virtual event
+for any company involved in making the global food system more
+sustainable, kind and fair for the planet, people, and animals.
+
+The senior executive-level conference presents an unbiased opportunity
+to explore and discuss this complex issue with world-leading experts.
+Discover a wide range of solutions that will have a positive impact
+through abolishing animal cruelty, reducing global pollution and
+improving human health.
+
+The online conference presents an unbiased opportunity to explore and
+discuss this complex issue with world-leading experts. Discover a wide
+range of solutions that will have a positive impact through abolishing
+animal cruelty, reducing global pollution, and improving human health.
+
+Stay up-to-date with the most recent solutions, technology, policy, and
+concepts across the food system. And get the best opportunities to meet
+key industry contributors.

@@ -22,4 +22,5 @@ draft: false
 weight: 5000
 uuid: 11321
 ---
-<p>The GPC Pulses Conference is the industry’s largest global event, bringing together key players from more than 50 countries.</p>
+The GPC Pulses Conference is the industry's largest global event,
+bringing together key players from more than 50 countries.

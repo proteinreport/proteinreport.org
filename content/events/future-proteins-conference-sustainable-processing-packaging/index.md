@@ -22,6 +22,15 @@ draft: false
 weight: 5000
 uuid: 11214
 ---
-<p>Join us at the first ever Future Proteins Conference on Sustainable Processing & Packaging on February 1-2, 2023.</p>
-<p>The two-day event promises to be a unique opportunity to gain valuable insight from esteemed keynote speakers from the field, to network with experts and your peers, and to experience first-hand a wide range of state-of-the-art, sustainable processing and packaging solutions.</p>
-<p>Join us for a third day (Friday, February 3) and take advantage of one-on-one meetings with experts from the field of processing and packaging. You can also attend guided tours at the Conference’s two hosting companies – MULTIVAC and Handtmann.</p>
+Join us at the first ever Future Proteins Conference on Sustainable
+Processing & Packaging on February 1-2, 2023.
+
+The two-day event promises to be a unique opportunity to gain valuable
+insight from esteemed keynote speakers from the field, to network with
+experts and your peers, and to experience first-hand a wide range of
+state-of-the-art, sustainable processing and packaging solutions.
+
+Join us for a third day (Friday, February 3) and take advantage of
+one-on-one meetings with experts from the field of processing and
+packaging. You can also attend guided tours at the Conference's two
+hosting companies -- MULTIVAC and Handtmann.

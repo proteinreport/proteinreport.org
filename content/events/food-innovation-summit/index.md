@@ -22,10 +22,23 @@ draft: false
 weight: 5000
 uuid: 11083
 ---
-<p>Food Innovation Summit - the largest plant-based food innovation conference in the Baltics and the Nordics.</p>
-<p>The fourth Food Innovation Summit brings together leading food experts from around the world to analyze developments in alternative protein production and consumption in recent years that are already profoundly reshaping the present and future of the food sector.</p>
-<p>The conference will highlight the latest trends, technologies and the biggest growth engines in the field of plant-based food and cultivated meat. Meeat, TFTAK, Thormi, Selver and many others will speak at the conference. There is also a food fair, where you can taste exciting plant-based products. The conference will be held in English. </p>
-<p>Come and get to know the fastest growing food sector in the world and create an effective network of specialists in your field!</p>
-<p>Ticket price:<br />
-Early bird 77 € (until September 1, later 97 €)<br />
-Student ticket 25 € (based on the document certifying the discount)</p>
+Food Innovation Summit - the largest plant-based food innovation
+conference in the Baltics and the Nordics.
+
+The fourth Food Innovation Summit brings together leading food experts
+from around the world to analyze developments in alternative protein
+production and consumption in recent years that are already profoundly
+reshaping the present and future of the food sector.
+
+The conference will highlight the latest trends, technologies and the
+biggest growth engines in the field of plant-based food and cultivated
+meat. Meeat, TFTAK, Thormi, Selver and many others will speak at the
+conference. There is also a food fair, where you can taste exciting
+plant-based products. The conference will be held in English. 
+
+Come and get to know the fastest growing food sector in the world and
+create an effective network of specialists in your field!
+
+Ticket price:\
+Early bird 77 € (until September 1, later 97 €)\
+Student ticket 25 € (based on the document certifying the discount)

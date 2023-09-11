@@ -22,6 +22,23 @@ draft: false
 weight: 5000
 uuid: 10740
 ---
-<p>Do we need to recall the numbers? The numbers of how the global meat industry harms both the planet and the people living on it? The numbers of the environmental damages caused by eggs and dairy? Probably not. Instead, we would like to shed light on <strong>how innovation can solve the carnivore conundrum.</strong></p>
-<p>Humans have been using fermentation to produce bread, cheese or beer for many thousand years. Since then, we have come to scientifically understand the processes of <strong>fermentation and their potential for a more sustainable food system</strong> as well as for our wellbeing.</p>
-<p>Today, fat, proteins and dairy are being produced as well as taste enhancers, colors and packaging – all by using microorganisms such as fungi, algae and bacteria, which can be chosen, or engineered, for very specific purposes. In fact, Fermentation is expected to be a key component in the shift toward alternative proteins. Fungi are becoming the new cows. Already, the <strong>investment bonanza has started.</strong> In 2020 alone, fermentation companies raised $587 million USD. What once started with barrels of magically bubbling liquids has turned into the science of precision fermentation.</p>
+Do we need to recall the numbers? The numbers of how the global meat
+industry harms both the planet and the people living on it? The numbers
+of the environmental damages caused by eggs and dairy? Probably not.
+Instead, we would like to shed light on **how innovation can solve the
+carnivore conundrum.**
+
+Humans have been using fermentation to produce bread, cheese or beer for
+many thousand years. Since then, we have come to scientifically
+understand the processes of **fermentation and their potential for a
+more sustainable food system** as well as for our wellbeing.
+
+Today, fat, proteins and dairy are being produced as well as taste
+enhancers, colors and packaging -- all by using microorganisms such as
+fungi, algae and bacteria, which can be chosen, or engineered, for very
+specific purposes. In fact, Fermentation is expected to be a key
+component in the shift toward alternative proteins. Fungi are becoming
+the new cows. Already, the **investment bonanza has started.** In 2020
+alone, fermentation companies raised \$587 million USD. What once
+started with barrels of magically bubbling liquids has turned into the
+science of precision fermentation.

@@ -20,4 +20,8 @@ draft: false
 weight: 5000
 uuid: 10657
 ---
-<p>From cell-based meat and dairy, learn from the leaders across sectors in the cellular agriculture industry. Whether you're looking to discover the ecosystem landscape or understand the scaling challanges to commercialize - we've got you covered with a wide range of presentations, panel discussions, and networking sessions.</p>
+From cell-based meat and dairy, learn from the leaders across sectors in
+the cellular agriculture industry. Whether you\'re looking to discover
+the ecosystem landscape or understand the scaling challanges to
+commercialize - we\'ve got you covered with a wide range of
+presentations, panel discussions, and networking sessions.

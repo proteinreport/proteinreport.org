@@ -22,4 +22,8 @@ draft: false
 weight: 5000
 uuid: 11221
 ---
-<p>Future Food-Tech’s European flagship is back in London on September 28-29, bringing together over 800 leaders from food brands, ingredient providers, pioneering entrepreneurs, and investors, to address the challenges in creating foods that are nutritious, accessible, and climate-smart.</p>
+Future Food-Tech's European flagship is back in London on September
+28-29, bringing together over 800 leaders from food brands, ingredient
+providers, pioneering entrepreneurs, and investors, to address the
+challenges in creating foods that are nutritious, accessible, and
+climate-smart.

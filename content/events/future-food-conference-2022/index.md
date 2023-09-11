@@ -22,4 +22,7 @@ draft: false
 weight: 5000
 uuid: 10977
 ---
-<p>The Future of Food Conference is a high-level forum, providing a platform for all the stakeholders of the food system to discuss the most pressing challenges in the EU’s agrifood sector and co-create innovative solutions.</p>
+The Future of Food Conference is a high-level forum, providing a
+platform for all the stakeholders of the food system to discuss the most
+pressing challenges in the EU's agrifood sector and co-create innovative
+solutions.

@@ -20,5 +20,8 @@ draft: false
 weight: 5000
 uuid: 10513
 ---
-<p>A virtual symposium dedicated to the role of cellular agriculture technology in space.</p>
-<p>Cell-based meat technology in applications of outer space research, space travel, and deep space exploration.</p>
+A virtual symposium dedicated to the role of cellular agriculture
+technology in space.
+
+Cell-based meat technology in applications of outer space research,
+space travel, and deep space exploration.
