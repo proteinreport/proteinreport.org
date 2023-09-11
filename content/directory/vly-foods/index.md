@@ -2,7 +2,7 @@
 title: "Vly Foods"
 date: 2020-01-23 17:50:43
 lastmod: 2020-01-23 17:50:43
-slug: /vly-foods
+slug: vly-foods
 description: "Vly is a plant-based milk alternative."
 proteins: [Plant-Based]
 products: [Dairy]

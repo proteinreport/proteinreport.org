@@ -2,7 +2,7 @@
 title: "Optimizing oat protein using fermentation and extrusion"
 date: 2020-05-09 08:36:35
 lastmod: 2020-05-09 08:36:35
-slug: /optimizing-oat-protein-using-fermentation-and-extrusion
+slug: optimizing-oat-protein-using-fermentation-and-extrusion
 description: "Our Science of Alternative Protein seminar series continues May 28 with guest speaker Mari-Liis Tammik from Center of Food and Fermentation Technologies."
 proteins: [Plant-Based]
 products: [Ingredients]
@@ -20,4 +20,6 @@ draft: false
 weight: 5000
 uuid: 6848
 ---
-<p>Our Science of Alternative Protein seminar series continues May 28 with guest speaker Mari-Liis Tammik from Center of Food and Fermentation Technologies.</p>
+Our Science of Alternative Protein seminar series continues May 28 with
+guest speaker Mari-Liis Tammik from Center of Food and Fermentation
+Technologies.

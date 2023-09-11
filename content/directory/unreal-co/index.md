@@ -2,7 +2,7 @@
 title: "Unreal Co"
 date: 2020-01-23 17:50:55
 lastmod: 2020-01-23 17:50:55
-slug: /unreal-co
+slug: unreal-co
 description: "Unreal Co. is an Australian creator of premium plant-based foods. Unreal Co. was founded on the principles of compassion and sustainability."
 proteins: [Plant-Based]
 products: [Meat]

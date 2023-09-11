@@ -2,7 +2,7 @@
 title: "Brightseed"
 date: 2020-09-16 12:26:35
 lastmod: 2020-09-16 12:26:35
-slug: /brightseed
+slug: brightseed
 description: "Brightseed enables a healthier future by illuminating and activating the connections between people and plants. Despite centuries of wisdom proving the critical roles plants play in supporting our health, the majority of active compounds in the plant kingdom remain unexplored. Our artificial intelligence, Forager, reveals powerful compounds hidden in nature and our team scientifically validates their impact."
 proteins: [Plant-Based]
 products: [Ingredients]

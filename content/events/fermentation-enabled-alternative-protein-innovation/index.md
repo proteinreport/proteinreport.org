@@ -2,7 +2,7 @@
 title: "Fermentation-Enabled Alternative Protein Innovation"
 date: 2022-07-29 11:22:07
 lastmod: 2022-07-29 11:22:07
-slug: /fermentation-enabled-alternative-protein-innovation
+slug: fermentation-enabled-alternative-protein-innovation
 description: "The 3rd annual Fermentation-Enabled Alternative Protein Summit, as the only industry-led forum uniting the entire biomass and precision fermentation ecosystem, will return to San Francisco as an in-person meeting. Hosting 150+ key decision-makers from biotech and food tech, multinational consumer packaged goods, independent food brands, and ingredient suppliers, this 3-days summit will help you scale-up and successfully commercialize fermentation-enabled alternative with speed to market. "
 proteins: [Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

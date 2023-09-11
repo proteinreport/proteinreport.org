@@ -2,7 +2,7 @@
 title: "Slaughter-Free Sushi for You and Me"
 date: 2021-11-03 08:55:20
 lastmod: 2021-11-03 08:55:20
-slug: /slaughter-free-sushi-you-and-me
+slug: slaughter-free-sushi-you-and-me
 description: "This is a Student Essay Contest 2021 runner-up. Jake Marko is a PhD student in Biomedical Engineering at Tufts University."
 excerpt: "This is a Student Essay Contest 2021 runner-up. Jake Marko is a PhD student in Biomedical Engineering at Tufts University."
 proteins: [Cell-Based]

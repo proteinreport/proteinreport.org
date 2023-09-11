@@ -2,7 +2,7 @@
 title: "Mission Barns Raises $24M Series A to Scale Up its Cultivated Fat Technology and Build Pilot Production Facility"
 date: 2021-04-07 17:16:56
 lastmod: 2021-04-07 17:16:56
-slug: /mission-barns-raises-24m-series-scale-its-cultivated-fat-technology-and-build-pilot
+slug: mission-barns-raises-24m-series-scale-its-cultivated-fat-technology-and-build-pilot
 company: 5827
 description: "Silicon Valley-based cellular agriculture company Mission Barns today announced a $24M Series A to scale up its cultivated fat technology and build a pilot manufacturing plant in the Bay Area."
 excerpt: "Silicon Valley-based cellular agriculture company Mission Barns today announced a $24M Series A to scale up its cultivated fat technology and build a pilot manufacturing plant in the Bay Area."

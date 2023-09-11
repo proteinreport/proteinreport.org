@@ -2,7 +2,7 @@
 title: "Brevel Raises $8.4M Seed Round on Their Path to Become the Leading Alternative Protein"
 date: 2022-06-02 13:00:00
 lastmod: 2022-06-02 13:00:00
-slug: /brevel-raises-84m-seed-round-their-path-become-leading-alternative-protein
+slug: brevel-raises-84m-seed-round-their-path-become-leading-alternative-protein
 company: 10918
 description: "Brevel, the leading microalgae-based alternative protein company, today announced it has raised $8.4M in a Seed funding round. The funding will be utilized to build a commercial pilot factory which will serve as the basis for scaling Brevel’s proprietary technology and enhancing R&D capabilities."
 excerpt: "Brevel, the leading microalgae-based alternative protein company, today announced it has raised $8.4M in a Seed funding round. The funding will be utilized to build a commercial pilot factory which will serve as the basis for scaling Brevel’s proprietary technology and enhancing R&D capabilities."

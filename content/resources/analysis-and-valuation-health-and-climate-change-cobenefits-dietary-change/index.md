@@ -2,7 +2,7 @@
 title: "Analysis and valuation of the health and climate change cobenefits of dietary change"
 date: 2020-12-12 05:54:22
 lastmod: 2020-12-12 05:54:22
-slug: /analysis-and-valuation-health-and-climate-change-cobenefits-dietary-change
+slug: analysis-and-valuation-health-and-climate-change-cobenefits-dietary-change
 description: "What we eat greatly influences our personal health and the environment we all share. Recent analyses have highlighted the likely dual health and environmental benefits of reducing the fraction of animal-sourced foods in our diets. Here, we couple for the first time, to our knowledge, a region-specific global health model based on dietary and weight-related risk factors with emissions accounting and economic valuation modules to quantify the linked health and environmental consequences of dietary changes."
 excerpt: "What we eat greatly influences our personal health and the environment we all share. Recent analyses have highlighted the likely dual health and environmental benefits of reducing the fraction of animal-sourced foods in our diets. Here, we couple for the first time, to our knowledge, a region-specific global health model based on dietary and weight-related risk factors with emissions accounting and economic valuation modules to quantify the linked health and environmental consequences of dietary changes."
 resource_type: [academic]

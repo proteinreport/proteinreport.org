@@ -2,7 +2,7 @@
 title: "New School Foods Unveils Scalable Muscle Fiber and Scaffolding Technology for Whole-Cut Meat Alternatives"
 date: 2023-02-02 11:00:00
 lastmod: 2023-02-02 11:00:00
-slug: /new-school-foods-unveils-scalable-muscle-fiber-and-scaffolding-technology-whole-cut-meat
+slug: new-school-foods-unveils-scalable-muscle-fiber-and-scaffolding-technology-whole-cut-meat
 company: 10387
 description: "Plant-based seafood producer New School Foods publicly announces its proprietary, scalable technologies for the plant-based meat industry, capable of producing whole-cut fish alternatives that look and cook just like ordinary seafood."
 excerpt: "Plant-based seafood producer New School Foods publicly announces its proprietary, scalable technologies for the plant-based meat industry, capable of producing whole-cut fish alternatives that look and cook just like ordinary seafood."

@@ -2,7 +2,7 @@
 title: "Sisterhood of Israeli Food-Tech Leaders Celebrates, Forges Community"
 date: 2023-03-29 08:05:59
 lastmod: 2023-03-29 08:05:59
-slug: /sisterhood-israeli-food-tech-leaders-celebrates-forges-community
+slug: sisterhood-israeli-food-tech-leaders-celebrates-forges-community
 company: 7654
 description: "On Sunday, March 26, the 26 women selected as the top leaders driving Israel’s food-tech revolution gathered to celebrate their accomplishments and forge a unified community of entrepreneurs, scientists, and investment experts."
 excerpt: "On Sunday, March 26, the 26 women selected as the top leaders driving Israel’s food-tech revolution gathered to celebrate their accomplishments and forge a unified community of entrepreneurs, scientists, and investment experts."

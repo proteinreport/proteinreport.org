@@ -2,7 +2,7 @@
 title: "Tofuna Fysh"
 date: 2020-01-23 17:50:28
 lastmod: 2020-01-23 17:50:28
-slug: /tofuna-fysh
+slug: tofuna-fysh
 description: "Tofuna Fysh is a new and exciting food brand! Unlike fish that’s acquired in mostly environmentally harmful ways, Tofuna Fysh is completely plant-based."
 proteins: [Plant-Based]
 products: [Seafood]

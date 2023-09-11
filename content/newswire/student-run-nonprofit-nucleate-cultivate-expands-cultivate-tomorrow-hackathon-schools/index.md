@@ -2,7 +2,7 @@
 title: "Student-run Nonprofit Nucleate Cultivate Expands Cultivate Tomorrow Hackathon to Schools Beyond the US"
 date: 2022-10-18 16:40:51
 lastmod: 2022-10-18 16:40:51
-slug: /student-run-nonprofit-nucleate-cultivate-expands-cultivate-tomorrow-hackathon-schools
+slug: student-run-nonprofit-nucleate-cultivate-expands-cultivate-tomorrow-hackathon-schools
 company: 10728
 description: "Registration is open until November 10th for students to take part in the hackathon, get mentored by industry leaders, and apply their knowledge and skills to reimagine the future of food."
 excerpt: "Registration is open until November 10th for students to take part in the hackathon, get mentored by industry leaders, and apply their knowledge and skills to reimagine the future of food."

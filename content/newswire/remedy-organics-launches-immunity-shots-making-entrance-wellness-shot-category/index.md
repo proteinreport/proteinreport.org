@@ -2,7 +2,7 @@
 title: "Remedy Organics Launches Immunity+ Shots, Making an Entrance Into the Wellness Shot Category"
 date: 2021-01-12 18:12:10
 lastmod: 2021-01-12 18:12:10
-slug: /remedy-organics-launches-immunity-shots-making-entrance-wellness-shot-category
+slug: remedy-organics-launches-immunity-shots-making-entrance-wellness-shot-category
 company_name: "Remedy Organics"
 company_link: "https://www.remedyorganics.com/"
 description: "Remedy Organics, a leading producer of plant-based functional wellness shakes, today announced its expansion into the wellness shot category with the launch of their new line of Immunity+ Shots."

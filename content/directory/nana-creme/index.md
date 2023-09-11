@@ -2,7 +2,7 @@
 title: "Nana Creme"
 date: 2020-01-23 17:50:48
 lastmod: 2020-01-23 17:50:48
-slug: /nana-creme
+slug: nana-creme
 description: "Nana Creme is a banana based, non-dairy ice cream that is free of the eight most common allergens."
 proteins: [Plant-Based]
 products: [Dairy]

@@ -2,7 +2,7 @@
 title: "Cultivated Meat: 2019 State of the Industry Report"
 date: 2020-05-13 15:59:19
 lastmod: 2020-05-13 15:59:19
-slug: /cultivated-meat-2019-state-industry-report
+slug: cultivated-meat-2019-state-industry-report
 description: "This open-access report provides a global analysis of the cultivated meat industry. GFI experts detail the investments, competitive landscape, consumer insights, and scientific progress in this rapidly accelerating, transformative market sector."
 excerpt: "This open-access report provides a global analysis of the cultivated meat industry. GFI experts detail the investments, competitive landscape, consumer insights, and scientific progress in this rapidly accelerating, transformative market sector."
 proteins: [Cell-Based]

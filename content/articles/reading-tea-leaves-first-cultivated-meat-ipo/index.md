@@ -2,7 +2,7 @@
 title: "Reading the Tea Leaves for the First Cultivated Meat IPO"
 date: 2021-02-24 08:27:16
 lastmod: 2021-02-24 08:27:16
-slug: /reading-tea-leaves-first-cultivated-meat-ipo
+slug: reading-tea-leaves-first-cultivated-meat-ipo
 description: "Over the next two years, many cultivated meat startups will bring products to market leading to acquisitions and IPOs as the industry matures. Looking toward this future, it’s worth considering how valuable these companies could be."
 excerpt: "Over the next two years, many cultivated meat startups will bring products to market leading to acquisitions and IPOs as the industry matures. Looking toward this future, it’s worth considering how valuable these companies could be."
 proteins: [Cell-Based]

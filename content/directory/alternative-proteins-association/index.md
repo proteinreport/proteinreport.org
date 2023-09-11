@@ -2,7 +2,7 @@
 title: "Alternative Proteins Association"
 date: 2022-03-16 14:18:18
 lastmod: 2022-03-16 14:18:18
-slug: /alternative-proteins-association
+slug: alternative-proteins-association
 description: "APA is a trade association and non-profit organisation that exists to fuel collaboration across the value chain. APA works to protect and enhance the reputation of the alternative proteins industry and give a voice to people across the food & agriculture industry."
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: []

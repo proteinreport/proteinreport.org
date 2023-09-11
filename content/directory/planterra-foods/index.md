@@ -2,7 +2,7 @@
 title: "Planterra Foods"
 date: 2020-03-04 10:33:53
 lastmod: 2020-03-04 10:33:53
-slug: /planterra-foods
+slug: planterra-foods
 description: "Planterra Foods is a new, innovative plant-based protein start-up company based in Colorado dedicated to bringing exceptional variety and thoughtful plant-based protein choices — that are beneficial to both you and the planet — to the table. Innovation, convenience and taste are at the forefront of Planterra Foods and OZO, the first plant-based protein brand Planterra Foods is bringing to market in 2020."
 proteins: [Plant-Based]
 products: [Meat]

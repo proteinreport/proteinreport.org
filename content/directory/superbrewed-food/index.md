@@ -2,7 +2,7 @@
 title: "Superbrewed Food"
 date: 2020-04-07 09:08:09
 lastmod: 2020-04-07 09:08:09
-slug: /superbrewed-food
+slug: superbrewed-food
 description: "Superbrewed Food, based in New Castle Delaware, uses anaerobic fermentation to generate microbial protein that balances nutrition, affordability and performance."
 proteins: [Microbial]
 products: [Ingredients, Feed]

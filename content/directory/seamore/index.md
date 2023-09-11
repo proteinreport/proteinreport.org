@@ -2,7 +2,7 @@
 title: "Seamore"
 date: 2020-01-23 17:50:48
 lastmod: 2020-01-23 17:50:48
-slug: /seamore
+slug: seamore
 description: "Seamore is a fast-growing startup that is turning seaweed into an everyday food with its disruptive pasta and bacon alternatives."
 proteins: [Plant-Based]
 products: [Meat]

@@ -2,7 +2,7 @@
 title: "JUST Egg Expands at Kroger, Walmart, Albertsons, Safeway and other stores nationwide"
 date: 2020-09-02 10:38:01
 lastmod: 2020-09-02 10:38:01
-slug: /just-egg-expands-kroger-walmart-albertsons-safeway-and-other-stores-nationwide
+slug: just-egg-expands-kroger-walmart-albertsons-safeway-and-other-stores-nationwide
 company: 234
 description: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the largest expansion yet for its award-winning plant-based egg."
 excerpt: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, today announced the largest expansion yet for its award-winning plant-based egg."

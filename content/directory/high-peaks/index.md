@@ -2,7 +2,7 @@
 title: "High Peaks"
 date: 2020-01-16 19:23:28
 lastmod: 2020-01-16 19:23:28
-slug: /high-peaks
+slug: high-peaks
 description: "High Peaks plant-based sausage manufactures delicious sausage made from white beans, fresh vegetables and premium seasonings. High Peaks was designed by a third-generation sausage maker to fuel active lifestyles with real, whole foods. Always meat-free, high in protein, and non-GMO."
 proteins: [Plant-Based]
 products: [Meat]

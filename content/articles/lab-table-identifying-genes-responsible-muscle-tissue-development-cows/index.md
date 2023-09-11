@@ -2,7 +2,7 @@
 title: "Lab to Table: Identifying the Genes Responsible For Muscle Tissue Development in Cows"
 date: 2021-04-13 09:07:08
 lastmod: 2021-04-13 09:07:08
-slug: /lab-table-identifying-genes-responsible-muscle-tissue-development-cows
+slug: lab-table-identifying-genes-responsible-muscle-tissue-development-cows
 description: "What distinguishes a muscle cell from a fat cell or a skin cell? The answer is “gene expression.” Although genome sequencing and analysis has been employed vastly in the study of disease and pharmaceuticals, there has been little application in the emerging field of cellular agriculture."
 excerpt: "What distinguishes a muscle cell from a fat cell or a skin cell? The answer is “gene expression.” Although genome sequencing and analysis has been employed vastly in the study of disease and pharmaceuticals, there has been little application in the emerging field of cellular agriculture."
 proteins: [Cell-Based]

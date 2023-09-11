@@ -2,7 +2,7 @@
 title: "BRIEF: CellulaREvolution Rasies £1 Million for Scalable Cell-Based Meat Tech"
 date: 2021-02-08 12:23:07
 lastmod: 2021-02-08 12:23:07
-slug: /brief-cellularevolution-rasies-ps1-million-scalable-cell-based-meat-tech
+slug: brief-cellularevolution-rasies-ps1-million-scalable-cell-based-meat-tech
 description: "UK-based startup CellulaREvolution has announced new funding to accelerate development of their technology which promises to solve key scalability challenges in cell-based meat production."
 excerpt: "UK-based startup CellulaREvolution has announced new funding to accelerate development of their technology which promises to solve key scalability challenges in cell-based meat production."
 proteins: [Cell-Based]

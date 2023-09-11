@@ -2,7 +2,7 @@
 title: "Future Food-Tech unveils 19 innovators with moonshot-potential technologies"
 date: 2021-02-16 16:41:12
 lastmod: 2021-02-16 16:41:12
-slug: /future-food-tech-unveils-19-innovators-moonshot-potential-technologies
+slug: future-food-tech-unveils-19-innovators-moonshot-potential-technologies
 company_name: "Future Food-Tech"
 company_link: "https://www.futurefoodtechsf.com"
 description: "At Future Food-Tech’s flagship summit on March 11-12, nineteen start-ups will showcase their breakthrough technologies, their transformative solutions and, above all, their passion to drive forward change across the most pressing topics in the industry: Gut Health and the Microbiome, Plant-Based Alternatives, Cell-Based Proteins, Ingredient Innovation, Food Waste and the Supply Chain."

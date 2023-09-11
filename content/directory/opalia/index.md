@@ -2,7 +2,7 @@
 title: "Opalia"
 date: 2021-01-25 16:33:04
 lastmod: 2021-01-25 16:33:04
-slug: /opalia
+slug: opalia
 description: "Opalia (Previously BetterMilk) is the first Canadian company to make cow milk with mammary cells"
 proteins: [Cell-Based]
 products: [Dairy]

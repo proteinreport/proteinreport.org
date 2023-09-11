@@ -2,7 +2,7 @@
 title: "Alternative Proteins and Cultured Meat"
 date: 2022-01-24 07:54:39
 lastmod: 2022-01-24 07:54:39
-slug: /alternative-proteins-and-cultured-meat
+slug: alternative-proteins-and-cultured-meat
 description: "Alternative Proteins and Cultured MeatZETA has many years of process experience and in-depth product know-how for the biotech and food industry. The specialist for aseptic production processes also keeps a close eye on current trends. Find out in this ZETA webinar how your company can benefit from our scale-up know-how for the fermentation processes of alternative proteins and cultured meat."
 proteins: [Cell-Based, Microbial, Algae]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]

@@ -2,7 +2,7 @@
 title: "Food systems are responsible for a third of global anthropogenic GHG emissions"
 date: 2021-08-11 18:48:57
 lastmod: 2021-08-11 18:48:57
-slug: /food-systems-are-responsible-third-global-anthropogenic-ghg-emissions
+slug: food-systems-are-responsible-third-global-anthropogenic-ghg-emissions
 description: "We have developed a new global food emissions database (EDGAR-FOOD) estimating greenhouse gas (GHG; CO2, CH4, N2O, fluorinated gases) emissions for the years 1990–2015, building on the Emissions Database of Global Atmospheric Research (EDGAR), complemented with land use/land-use change emissions from the FAOSTAT emissions database."
 excerpt: "We have developed a new global food emissions database (EDGAR-FOOD) estimating greenhouse gas (GHG; CO2, CH4, N2O, fluorinated gases) emissions for the years 1990–2015, building on the Emissions Database of Global Atmospheric Research (EDGAR), complemented with land use/land-use change emissions from the FAOSTAT emissions database."
 proteins: [Animal]

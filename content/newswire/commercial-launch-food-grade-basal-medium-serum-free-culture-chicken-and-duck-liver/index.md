@@ -2,7 +2,7 @@
 title: "Commercial launch of food grade basal medium, serum-free culture of chicken and duck liver-derived cells by CulNet"
 date: 2022-04-01 13:01:59
 lastmod: 2022-04-01 13:01:59
-slug: /commercial-launch-food-grade-basal-medium-serum-free-culture-chicken-and-duck-liver
+slug: commercial-launch-food-grade-basal-medium-serum-free-culture-chicken-and-duck-liver
 company: 5818
 description: "IntegriCulture Inc. performed the first successful cultivation of chicken and duck liver-derived cells in a serum-free basal medium by the CulNet system, which emulates natural inter-organ interactions. The cost of cultivation using IntegriCulture’s basal medium (product name: I-MEM) and CulNet system has been estimated to be about 1/60 of media using animal serum. The company aims to launch cell-cultured foie gras this year as its first line of cell-cultured meat products."
 excerpt: "IntegriCulture Inc. performed the first successful cultivation of chicken and duck liver-derived cells in a serum-free basal medium by the CulNet system, which emulates natural inter-organ interactions. The cost of cultivation using IntegriCulture’s basal medium (product name: I-MEM) and CulNet system has been estimated to be about 1/60 of media using animal serum. The company aims to launch cell-cultured foie gras this year as its first line of cell-cultured meat products."

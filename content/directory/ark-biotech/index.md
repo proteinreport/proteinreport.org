@@ -2,7 +2,7 @@
 title: "Ark Biotech"
 date: 2022-03-13 12:36:29
 lastmod: 2022-03-13 12:36:29
-slug: /ark-biotech
+slug: ark-biotech
 description: "Building fit-for-purpose, affordable bioreactors and operating systems for the industrial production of cultivated meat."
 proteins: [Cell-Based]
 products: [Technology & Equipment]

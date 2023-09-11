@@ -2,7 +2,7 @@
 title: "Breast Milk Start-Up Helaina Aims to Improve Upon an Old Formula"
 date: 2020-06-03 18:25:08
 lastmod: 2020-06-03 18:25:08
-slug: /breast-milk-start-helaina-aims-improve-upon-old-formula
+slug: breast-milk-start-helaina-aims-improve-upon-old-formula
 description: "While most grocery stores now stock a seemingly endless variety of dairy alternatives derived from nuts, seeds, or grains, what most consumers don’t yet know is that a new kind of real milk—created not by cows but scientists—will likely be joining them on the shelves very soon."
 excerpt: "While most grocery stores now stock a seemingly endless variety of dairy alternatives derived from nuts, seeds, or grains, what most consumers don’t yet know is that a new kind of real milk—created not by cows but scientists—will likely be joining them on the shelves very soon."
 proteins: [Microbial]

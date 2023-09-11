@@ -2,7 +2,7 @@
 title: "Eileen McNamara"
 date: 2021-10-12 10:52:28
 lastmod: 2021-10-12 10:52:28
-slug: /eileen-mcnamara
+slug: eileen-mcnamara
 description: ""
 excerpt: ""
 images: ["eileen.jpg"]

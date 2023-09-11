@@ -2,7 +2,7 @@
 title: "AlgaEurope 2022"
 date: 2022-08-04 13:09:56
 lastmod: 2022-08-04 13:09:56
-slug: /algaeurope-2022
+slug: algaeurope-2022
 description: "Organized in cooperation with EABA - European Algae Biomass Association and DLG Benelux, AlgaEurope is a unique opportunity to learn and understand all about algae production and commercialization and interact with over 350 key players from more than 45 countries."
 proteins: [Algae]
 products: [Seafood, Ingredients]

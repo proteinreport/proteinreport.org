@@ -2,7 +2,7 @@
 title: "Hodo"
 date: 2020-01-23 17:50:34
 lastmod: 2020-01-23 17:50:34
-slug: /hodo
+slug: hodo
 description: "Hodo is an organic plant-based foods company based in Oakland, CA. Founded in 2004, Hodo is the largest artisan tofu maker and only producer of fresh, organic yuba in the United States."
 proteins: [Plant-Based]
 products: [Meat, Eggs]

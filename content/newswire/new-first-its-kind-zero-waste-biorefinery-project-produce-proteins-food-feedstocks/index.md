@@ -2,7 +2,7 @@
 title: "New first-of-its-kind zero-waste biorefinery project to produce proteins for food from feedstocks"
 date: 2020-04-30 10:10:36
 lastmod: 2020-04-30 10:10:36
-slug: /new-first-its-kind-zero-waste-biorefinery-project-produce-proteins-food-feedstocks
+slug: new-first-its-kind-zero-waste-biorefinery-project-produce-proteins-food-feedstocks
 company: 5865
 description: "Ten partners from industry and research launch a project (known as ‘PLENITUDE’) to build a first-of-its-kind, large-scale, integrated biorefinery facility to produce proteins for food from low-cost sustainable feedstocks."
 excerpt: "Ten partners from industry and research launch a project (known as ‘PLENITUDE’) to build a first-of-its-kind, large-scale, integrated biorefinery facility to produce proteins for food from low-cost sustainable feedstocks."

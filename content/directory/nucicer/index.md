@@ -2,7 +2,7 @@
 title: "NuCicer"
 date: 2021-12-20 18:44:13
 lastmod: 2021-12-20 18:44:13
-slug: /nucicer
+slug: nucicer
 description: "NuCicer develops novel, high-protein chickpea varieties that enable scalable, sustainable ingredients spanning whole beans, gluten-free flours, and protein ingredients. It partners with growers who are attracted to chickpea’s capacity for nitrogen fixation and interested in NuCicer’s potential to increase the crop’s environmental resilience. NuCicer also partners with top ingredient manufacturers and food and beverage companies who recognize the potential of chickpea as a sustainable, functional ingredient."
 proteins: [Plant-Based]
 products: [Ingredients]

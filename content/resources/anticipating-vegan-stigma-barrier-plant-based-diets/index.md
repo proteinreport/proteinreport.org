@@ -2,7 +2,7 @@
 title: "Anticipating vegan stigma as a barrier to plant-based diets"
 date: 2019-11-09 15:56:53
 lastmod: 2019-11-09 15:56:53
-slug: /anticipating-vegan-stigma-barrier-plant-based-diets
+slug: anticipating-vegan-stigma-barrier-plant-based-diets
 description: "A significant body of literature has developed which examines why meat consumption continues to be so important to Americans. Our paper contributes to this literature by examining how fear of stigmatization may be a barrier to avoiding meat consumption. This is an important subject because there is evidence that suggests that individuals who avoid meat, especially vegans, are stigmatized for disrupting social conventions related to food."
 excerpt: "A significant body of literature has developed which examines why meat consumption continues to be so important to Americans. Our paper contributes to this literature by examining how fear of stigmatization may be a barrier to avoiding meat consumption. This is an important subject because there is evidence that suggests that individuals who avoid meat, especially vegans, are stigmatized for disrupting social conventions related to food."
 resource_type: [academic]

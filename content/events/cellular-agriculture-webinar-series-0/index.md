@@ -2,7 +2,7 @@
 title: "Cellular Agriculture Webinar Series"
 date: 2023-08-25 07:16:24
 lastmod: 2023-08-25 07:16:24
-slug: /cellular-agriculture-webinar-series-0
+slug: cellular-agriculture-webinar-series-0
 description: "Join the third session of the CellAgri Webinar Series on September 6th to hear from global and industry leaders as they highlight how the cellular agriculture field is moving forward.Get your free ticket today and learn about the future of food with cellular agriculture. "
 proteins: [Cell-Based]
 products: [Meat, Dairy, Seafood, Ingredients]

@@ -2,7 +2,7 @@
 title: "Heuros"
 date: 2020-01-23 18:09:57
 lastmod: 2020-01-23 18:09:57
-slug: /heuros
+slug: heuros
 description: "Heuros is working on producing healthy, tasty and sustainable meat.The company is growing muscle cells without using foetal bovine serum (FBS), blood products, genetic engineering/modification (GE/GM), recombinant growth factors, pluripotent stem cells, steroids, or antibiotics.They are developing this technology to product cultivated meat on a commercial&nbsp;scale."
 proteins: [Cell-Based]
 products: [Meat]

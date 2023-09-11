@@ -2,7 +2,7 @@
 title: "Aliga Microalgae"
 date: 2022-09-07 08:54:29
 lastmod: 2022-09-07 08:54:29
-slug: /aliga-microalgae
+slug: aliga-microalgae
 description: "Aliga Microalgae is a Danish food-tech company specialising in developing, producing and commercialising protein-rich and functional Chlorella algae ingredients for food and supplement applications. Currently, it is the only industrial producer of Chlorella microalgae in Scandinavia. The company has developed a proprietary white Chlorella ingredients with improved organoleptic properties."
 proteins: [Algae]
 products: [Ingredients]

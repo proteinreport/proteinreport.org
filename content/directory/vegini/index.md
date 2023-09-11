@@ -2,7 +2,7 @@
 title: "Vegini"
 date: 2020-01-23 17:50:57
 lastmod: 2020-01-23 17:50:57
-slug: /vegini
+slug: vegini
 description: "We are pioneers in the production of natural, 100% plant based meat alternatives made from pea protein."
 proteins: [Plant-Based]
 products: [Meat]

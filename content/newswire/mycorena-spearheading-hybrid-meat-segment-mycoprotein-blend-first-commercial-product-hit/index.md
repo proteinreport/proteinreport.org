@@ -2,7 +2,7 @@
 title: "Mycorena Spearheading Hybrid Meat Segment With Mycoprotein Blend - First Commercial Product to Hit Shelves in Q4 2023   "
 date: 2023-01-04 14:50:24
 lastmod: 2023-01-04 14:50:24
-slug: /mycorena-spearheading-hybrid-meat-segment-mycoprotein-blend-first-commercial-product-hit
+slug: mycorena-spearheading-hybrid-meat-segment-mycoprotein-blend-first-commercial-product-hit
 company: 5899
 description: "Gothenburg-based FoodTech company Mycorena endeavours to accelerate a new category of hybrid meat products alongside Swedish food industry actors Nybergs Deli and ICA."
 excerpt: "Gothenburg-based FoodTech company Mycorena endeavours to accelerate a new category of hybrid meat products alongside Swedish food industry actors Nybergs Deli and ICA."

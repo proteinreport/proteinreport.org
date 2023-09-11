@@ -2,7 +2,7 @@
 title: "Odontella"
 date: 2020-01-23 17:50:28
 lastmod: 2020-01-23 17:50:28
-slug: /odontella
+slug: odontella
 description: "The company has filed patents relating to the use of marine microalgae authorized for human consumption. These patents concern the formulation, based on marine microalgae, of a wide range of new healthy food products."
 proteins: [Algae]
 products: [Ingredients]

@@ -2,7 +2,7 @@
 title: "Rapid global phaseout of animal agriculture has the potential to stabilize greenhouse gas levels for 30 years and offset 68 percent of CO2 emissions this century"
 date: 2022-02-21 23:15:43
 lastmod: 2022-02-21 23:15:43
-slug: /rapid-global-phaseout-animal-agriculture-has-potential-stabilize-greenhouse-gas-levels-30
+slug: rapid-global-phaseout-animal-agriculture-has-potential-stabilize-greenhouse-gas-levels-30
 description: "Animal agriculture contributes significantly to global warming through ongoing emissions of the potent greenhouse gases methane and nitrous oxide, and displacement of biomass carbon on the land used to support livestock. However, because estimates of the magnitude of the effect of ending animal agriculture often focus on only one factor, the full potential benefit of a more radical change remains underappreciated."
 excerpt: "Animal agriculture contributes significantly to global warming through ongoing emissions of the potent greenhouse gases methane and nitrous oxide, and displacement of biomass carbon on the land used to support livestock. However, because estimates of the magnitude of the effect of ending animal agriculture often focus on only one factor, the full potential benefit of a more radical change remains underappreciated."
 proteins: [Animal]

@@ -2,7 +2,7 @@
 title: "Moolec Science"
 date: 2020-11-10 10:47:38
 lastmod: 2020-11-10 10:47:38
-slug: /moolec-science
+slug: moolec-science
 description: "Moolec Science is the first company to introduce a unique hybrid concept between plant-based and cell-based in the alternative proteins landscape using Molecular Farming technology."
 proteins: [Molecular Farming]
 products: [Dairy, Ingredients]

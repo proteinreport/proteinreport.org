@@ -2,7 +2,7 @@
 title: "BioBQ"
 date: 2020-09-11 06:46:53
 lastmod: 2020-09-11 06:46:53
-slug: /biobq
+slug: biobq
 description: "BioBQ is a cultivated meat company, which means we grow meat using cells from the animals, rather than the slaughtered parts of animals.  Based in Austin, Texas, known for BBQ, we aim to be the first to offer cultivated beef jerky and beef brisket.  The foundation of our BioBQing process is a unique cell scaffolding technology that helps create tasty layers and marbling."
 proteins: [Cell-Based]
 products: [Meat]

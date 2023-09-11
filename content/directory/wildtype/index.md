@@ -2,7 +2,7 @@
 title: "Wildtype"
 date: 2019-12-03 19:25:31
 lastmod: 2019-12-03 19:25:31
-slug: /wildtype
+slug: wildtype
 description: "Our mission is to create the cleanest, most sustainable fish and meat on the planet. We believe this is the most impactful way to address the pressing challenges of our generation: climate change, food security, and health."
 proteins: [Cell-Based]
 products: [Seafood]

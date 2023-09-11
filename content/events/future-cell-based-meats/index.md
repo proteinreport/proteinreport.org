@@ -2,7 +2,7 @@
 title: "The future of cell-based meats"
 date: 2021-07-07 08:51:19
 lastmod: 2021-07-07 08:51:19
-slug: /future-cell-based-meats
+slug: future-cell-based-meats
 description: "Curtis & Wyss Group is pleased to invite you to the Future of Cell-Based Meats Summit, scheduled for September 30th-October 1st, 2021 in Barcelona, Spain. This premier B2B event will enable the participants to learn about the latest trends and developments in the cellular meat innovative field."
 proteins: [Cell-Based]
 products: [Meat]
@@ -22,4 +22,8 @@ draft: false
 weight: 5000
 uuid: 9272
 ---
-<p>Curtis & Wyss Group is pleased to invite you to the Future of Cell-Based Meats Summit, scheduled for September 30th-October 1st, 2021 in Barcelona, Spain. This premier B2B event will enable the participants to learn about the latest trends and developments in the cellular meat innovative field.</p>
+Curtis & Wyss Group is pleased to invite you to the Future of Cell-Based
+Meats Summit, scheduled for September 30th-October 1st, 2021 in
+Barcelona, Spain. This premier B2B event will enable the participants to
+learn about the latest trends and developments in the cellular meat
+innovative field.

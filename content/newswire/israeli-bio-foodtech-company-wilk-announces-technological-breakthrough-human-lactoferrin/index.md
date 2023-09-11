@@ -2,7 +2,7 @@
 title: "Israeli Bio-FoodTech Company Wilk Announces Technological Breakthrough: Human Lactoferrin Proteins Successfully Produced in Laboratory Setting"
 date: 2022-06-13 14:30:17
 lastmod: 2022-06-13 14:30:17
-slug: /israeli-bio-foodtech-company-wilk-announces-technological-breakthrough-human-lactoferrin
+slug: israeli-bio-foodtech-company-wilk-announces-technological-breakthrough-human-lactoferrin
 company: 8844
 description: "Wilk , a developer of authentic, cell-based human and animal milk and milk components, today announced it was able to successfully produce the breast milk protein, lactoferrin, in internal testing in its laboratories."
 excerpt: "Wilk , a developer of authentic, cell-based human and animal milk and milk components, today announced it was able to successfully produce the breast milk protein, lactoferrin, in internal testing in its laboratories."

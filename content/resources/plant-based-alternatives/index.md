@@ -2,7 +2,7 @@
 title: "Plant-based alternatives"
 date: 2019-10-20 20:34:08
 lastmod: 2019-10-20 20:34:08
-slug: /plant-based-alternatives
+slug: plant-based-alternatives
 description: "The growth of plant-based alternatives presents investment opportunities for established food and beverage companies which could have a significant benefit on increasing market share and&nbsp;profitability."
 excerpt: "The growth of plant-based alternatives presents investment opportunities for established food and beverage companies which could have a significant benefit on increasing market share and&nbsp;profitability."
 proteins: [Cell-Based, Plant-Based]

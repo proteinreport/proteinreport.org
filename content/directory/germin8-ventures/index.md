@@ -2,7 +2,7 @@
 title: "Germin8 Ventures"
 date: 2020-09-16 12:39:56
 lastmod: 2020-09-16 12:39:56
-slug: /germin8-ventures
+slug: germin8-ventures
 description: "Germin8 Ventures is a leading FoodTech & AgTech venture capital firm, partnering with the most courageous and brilliant founders actively driving a 21st century food system upgrade."
 proteins: []
 products: []

@@ -2,7 +2,7 @@
 title: "How Do Consumers Perceive Cultured Meat in Croatia, Greece, and Spain?"
 date: 2021-04-15 13:10:10
 lastmod: 2021-04-15 13:10:10
-slug: /how-do-consumers-perceive-cultured-meat-croatia-greece-and-spain
+slug: how-do-consumers-perceive-cultured-meat-croatia-greece-and-spain
 description: "The meat production industry is one of the leading contributors of greenhouse gas emissions. Cultured meat presents itself as a potential eco- and animal-friendly meat substitute which has the potential to eradicate animal cruelty and reduce both the environmental footprint and the risk of zoonotic illnesses, while delivering a nutrient-dense product. The purpose of this study was to investigate how consumers perceive cultured meat and if the frequency of meat consumption is related to their intention of trying or purchasing cultured meat."
 excerpt: "The meat production industry is one of the leading contributors of greenhouse gas emissions. Cultured meat presents itself as a potential eco- and animal-friendly meat substitute which has the potential to eradicate animal cruelty and reduce both the environmental footprint and the risk of zoonotic illnesses, while delivering a nutrient-dense product. The purpose of this study was to investigate how consumers perceive cultured meat and if the frequency of meat consumption is related to their intention of trying or purchasing cultured meat."
 proteins: [Cell-Based]

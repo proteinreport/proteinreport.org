@@ -2,7 +2,7 @@
 title: "The Global Status of Seaweed Production, Trade and Utilization"
 date: 2020-12-19 21:07:56
 lastmod: 2020-12-19 21:07:56
-slug: /global-status-seaweed-production-trade-and-utilization
+slug: global-status-seaweed-production-trade-and-utilization
 description: "This report is an update of the status of the global seaweed market: production figures from culture and capture, the size of the international market for seaweed and its commercially important extracts, the leading nations by region, developments in processing and utilization technology, and innovations in the industry, as well as the challenges and outlook for the industry."
 excerpt: "This report is an update of the status of the global seaweed market: production figures from culture and capture, the size of the international market for seaweed and its commercially important extracts, the leading nations by region, developments in processing and utilization technology, and innovations in the industry, as well as the challenges and outlook for the industry."
 proteins: [Algae]

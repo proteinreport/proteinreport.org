@@ -2,7 +2,7 @@
 title: "Smallfood"
 date: 2021-04-21 15:50:54
 lastmod: 2021-04-21 15:50:54
-slug: /smallfood
+slug: smallfood
 description: "At Smallfood, our quest for a sustainable solution to the world’s massive protein – and food production – challenge resulted in the discovery of something ‘small’ with very ‘BIG’ potential. Through our unique strain of microalgae and proprietary biomass fermentation process, we are delivering to the world a more perfect protein."
 proteins: [Microbial, Algae]
 products: [Ingredients]

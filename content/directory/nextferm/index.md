@@ -2,7 +2,7 @@
 title: "NextFerm"
 date: 2020-01-23 18:20:44
 lastmod: 2020-01-23 18:20:44
-slug: /nextferm
+slug: nextferm
 description: "NextFerm is a science oriented industrial company, representing a new era in fermentation and fermentation-derived nutrients for supplements, food, infant nutrition and animal feed."
 proteins: [Microbial]
 products: [Ingredients, Feed]

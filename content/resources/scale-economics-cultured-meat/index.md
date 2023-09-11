@@ -2,7 +2,7 @@
 title: "Scale-up economics for cultured meat"
 date: 2021-06-14 13:22:22
 lastmod: 2021-06-14 13:22:22
-slug: /scale-economics-cultured-meat
+slug: scale-economics-cultured-meat
 description: "This analysis examines the potential of “cultured meat” products made from edible animal cell culture to measurably displace the global consumption of conventional meat. Recognizing that the scalability of such products must in turn depend on the scale and process intensity of animal cell production, this study draws on technoeconomic analysis perspectives in industrial fermentation and upstream biopharmaceuticals to assess the extent to which animal cell culture could be scaled like a fermentation process."
 excerpt: "This analysis examines the potential of “cultured meat” products made from edible animal cell culture to measurably displace the global consumption of conventional meat. Recognizing that the scalability of such products must in turn depend on the scale and process intensity of animal cell production, this study draws on technoeconomic analysis perspectives in industrial fermentation and upstream biopharmaceuticals to assess the extent to which animal cell culture could be scaled like a fermentation process."
 proteins: [Cell-Based]

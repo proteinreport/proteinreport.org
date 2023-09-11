@@ -2,7 +2,7 @@
 title: "The Future of Meat: Meat Alternatives on the Rise"
 date: 2020-05-09 08:46:23
 lastmod: 2020-05-09 08:46:23
-slug: /future-meat-meat-alternatives-rise
+slug: future-meat-meat-alternatives-rise
 description: "Meat alternatives mount a tremendous challenge to the status quo of the industry, both in terms of quality of product and impact on the environment. To bring this exciting trend to the attention of our audience we have invited two up-and-coming players from the industry. The Swiss start-up Planted Foods will introduce us to the advantages of plant-based meat. We also have invited Avant Meats from Hong Kong, which produces meat using stem cells."
 proteins: [Cell-Based, Plant-Based]
 products: [Meat]
@@ -20,4 +20,10 @@ draft: false
 weight: 5000
 uuid: 6849
 ---
-<p>Meat alternatives mount a tremendous challenge to the status quo of the industry, both in terms of quality of product and impact on the environment. To bring this exciting trend to the attention of our audience we have invited two up-and-coming players from the industry. The Swiss start-up Planted Foods will introduce us to the advantages of plant-based meat. We also have invited Avant Meats from Hong Kong, which produces meat using stem cells.</p>
+Meat alternatives mount a tremendous challenge to the status quo of the
+industry, both in terms of quality of product and impact on the
+environment. To bring this exciting trend to the attention of our
+audience we have invited two up-and-coming players from the industry.
+The Swiss start-up Planted Foods will introduce us to the advantages of
+plant-based meat. We also have invited Avant Meats from Hong Kong, which
+produces meat using stem cells.

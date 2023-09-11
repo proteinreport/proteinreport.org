@@ -2,7 +2,7 @@
 title: "Thinking about the future of food safety"
 date: 2022-03-08 07:59:21
 lastmod: 2022-03-08 07:59:21
-slug: /thinking-about-future-food-safety
+slug: thinking-about-future-food-safety
 description: "Agrifood systems are undergoing a transformation with the aim to provide safer, more affordable, and healthier diets for all, produced in a sustainable manner while delivering just and equitable livelihoods: a key to achieving the UN’s 2030 Agenda for Sustainable Development. However, this transformation needs to be executed in the global context of major challenges facing the food and agriculture sectors, with drivers such as climate change, population growth, urbanization, and natural resources depletion compounding these challenges."
 excerpt: "Agrifood systems are undergoing a transformation with the aim to provide safer, more affordable, and healthier diets for all, produced in a sustainable manner while delivering just and equitable livelihoods: a key to achieving the UN’s 2030 Agenda for Sustainable Development. However, this transformation needs to be executed in the global context of major challenges facing the food and agriculture sectors, with drivers such as climate change, population growth, urbanization, and natural resources depletion compounding these challenges."
 proteins: [Cell-Based, Plant-Based, Animal]

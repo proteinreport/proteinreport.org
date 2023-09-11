@@ -2,7 +2,7 @@
 title: "Wilk"
 date: 2021-04-22 10:38:50
 lastmod: 2021-04-22 10:38:50
-slug: /wilk
+slug: wilk
 description: "Wilk is at the forefront of cell-grown milk production, developing solutions that answer the long-term needs of the milk markets. Previously BioMilk."
 proteins: [Cell-Based]
 products: [Dairy]

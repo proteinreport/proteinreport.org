@@ -2,7 +2,7 @@
 title: "Clean Meat – the food of the future?"
 date: 2019-12-18 20:39:55
 lastmod: 2019-12-18 20:39:55
-slug: /clean-meat-food-future
+slug: clean-meat-food-future
 description: "Clean meat is set to revolutionize the food industry. Can it provide a viable alternative to conventional meat that is healthier, more ethical and better for our&nbsp;planet?"
 excerpt: "Clean meat is set to revolutionize the food industry. Can it provide a viable alternative to conventional meat that is healthier, more ethical and better for our&nbsp;planet?"
 proteins: [Cell-Based]

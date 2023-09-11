@@ -2,7 +2,7 @@
 title: "Canada SynBio"
 date: 2022-12-16 09:00:49
 lastmod: 2022-12-16 09:00:49
-slug: /canada-synbio
+slug: canada-synbio
 description: "Canada SynBio is back for its fifth anniversary edition that will take place in-person in Toronto, Canada June 13-15, 2023."
 proteins: [Cell-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

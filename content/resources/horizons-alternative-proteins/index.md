@@ -2,7 +2,7 @@
 title: "Horizons: Alternative Proteins"
 date: 2021-07-23 09:48:38
 lastmod: 2021-07-23 09:48:38
-slug: /horizons-alternative-proteins
+slug: horizons-alternative-proteins
 description: "While global demand for sustainable protein grows as a solution to an increasingly food-insecure world, ramping up efficient, safe, production is relatively uncharted territory. A groundbreaking new report from CRB – a leading provider of sustainable engineering, architecture, construction and consulting solutions to the food industry, probes the rewards and risks of traversing this new market."
 excerpt: "While global demand for sustainable protein grows as a solution to an increasingly food-insecure world, ramping up efficient, safe, production is relatively uncharted territory. A groundbreaking new report from CRB – a leading provider of sustainable engineering, architecture, construction and consulting solutions to the food industry, probes the rewards and risks of traversing this new market."
 proteins: [Cell-Based, Plant-Based, Microbial]

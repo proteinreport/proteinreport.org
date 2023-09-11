@@ -2,7 +2,7 @@
 title: "Innovative North East tech disruptor secures funding to scale globally"
 date: 2019-11-22 13:55:27
 lastmod: 2019-11-22 13:55:27
-slug: /innovative-north-east-tech-disruptor-secures-funding-scale-globally
+slug: innovative-north-east-tech-disruptor-secures-funding-scale-globally
 company: 5855
 description: "Northstar-backed technology disruptor CellulaREvolution, which aims to revolutionise the way cells are grown at industrial scale, has secured £380,000 in funding to grow the company - a spin out from Newcastle University. CellulaREvolution has identified a significant opportunity in how to make the culturing of cells more efficient and affordable, which will benefit medical and pharmaceutical industries, and also the fast-increasing interest in cultured meat."
 excerpt: "Northstar-backed technology disruptor CellulaREvolution, which aims to revolutionise the way cells are grown at industrial scale, has secured £380,000 in funding to grow the company - a spin out from Newcastle University. CellulaREvolution has identified a significant opportunity in how to make the culturing of cells more efficient and affordable, which will benefit medical and pharmaceutical industries, and also the fast-increasing interest in cultured meat."

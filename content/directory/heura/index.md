@@ -2,7 +2,7 @@
 title: "Heura"
 date: 2020-01-23 17:50:55
 lastmod: 2020-01-23 17:50:55
-slug: /heura
+slug: heura
 description: "Heura is the Spanish Start-Up founded in 2017 seeking to change the food system by offering 100% sustainable, nutritious, but above all, delicious vegetable options. Their way of promoting better foods is to make them irresistible. Heura also offer other products like Mediterannean Chunks, Spiced Chunks, Spiced Tacos, Heura Pizza, and a Heura Burger."
 proteins: [Plant-Based]
 products: [Meat]

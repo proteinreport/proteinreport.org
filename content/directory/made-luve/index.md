@@ -2,7 +2,7 @@
 title: "Made with Luve"
 date: 2020-01-23 17:50:28
 lastmod: 2020-01-23 17:50:28
-slug: /made-luve
+slug: made-luve
 description: "LUVE it is a brand of Prolupin GmbH, it contains the unique protein of the domestic sweet lupine. It is therefore not only purely vegetable and without genetic engineering, but is naturally lactose-free, gluten-free (except ice-cream with biscuit) and soy-free."
 proteins: [Plant-Based]
 products: [Dairy]

@@ -2,7 +2,7 @@
 title: "Remediiate"
 date: 2020-03-25 13:31:11
 lastmod: 2020-03-25 13:31:11
-slug: /remediiate
+slug: remediiate
 description: "'Remediiate'​ enables emitters of CO2 to transform their waste output into valuable Fish and animal Feed. By deploying CO2-eating algae, we produce a tonne of Feed for every 2 tonnes of CO2. (We also produce 1 tonne of life-giving Oxygen)."
 proteins: [Algae]
 products: [Feed]

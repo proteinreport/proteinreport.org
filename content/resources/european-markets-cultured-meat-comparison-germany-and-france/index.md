@@ -2,7 +2,7 @@
 title: "European Markets for Cultured Meat: A Comparison of Germany and France"
 date: 2020-11-16 14:59:31
 lastmod: 2020-11-16 14:59:31
-slug: /european-markets-cultured-meat-comparison-germany-and-france
+slug: european-markets-cultured-meat-comparison-germany-and-france
 description: "The negative impacts of meat consumption for animals, the environment, and human health are more pressing than ever. Although some evidence points to an ongoing reduction in meat consumption in Europe, consumers are overall unwilling to cut their meat consumption in a substantial way. The present study investigates dietary identities and perceptions of cultured meat in nationally representative samples from Germany (n = 1000) and France (n = 1000)."
 excerpt: "The negative impacts of meat consumption for animals, the environment, and human health are more pressing than ever. Although some evidence points to an ongoing reduction in meat consumption in Europe, consumers are overall unwilling to cut their meat consumption in a substantial way. The present study investigates dietary identities and perceptions of cultured meat in nationally representative samples from Germany (n = 1000) and France (n = 1000)."
 proteins: [Cell-Based]

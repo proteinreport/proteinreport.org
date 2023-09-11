@@ -2,7 +2,7 @@
 title: "Meat substitutes: Resource demands and environmental footprints"
 date: 2023-07-26 08:02:18
 lastmod: 2023-07-26 08:02:18
-slug: /meat-substitutes-resource-demands-and-environmental-footprints
+slug: meat-substitutes-resource-demands-and-environmental-footprints
 description: "The modern food system is characterized with high environmental impact, which is in many cases associated with increased rates of animal production and overconsumption. The adoption of alternatives to meat proteins (insects, plants, mycoprotein, microalgae, cultured meat, etc.) might potentially influence the environmental impact and human health in a positive or negative way but could also trigger indirect impacts with higher consumption rates."
 excerpt: "The modern food system is characterized with high environmental impact, which is in many cases associated with increased rates of animal production and overconsumption. The adoption of alternatives to meat proteins (insects, plants, mycoprotein, microalgae, cultured meat, etc.) might potentially influence the environmental impact and human health in a positive or negative way but could also trigger indirect impacts with higher consumption rates."
 proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Animal]

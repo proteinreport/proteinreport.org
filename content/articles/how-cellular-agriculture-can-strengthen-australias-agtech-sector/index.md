@@ -2,7 +2,7 @@
 title: "How Cellular Agriculture Can Strengthen Australia’s Agtech Sector"
 date: 2020-07-28 13:36:28
 lastmod: 2020-07-28 13:36:28
-slug: /how-cellular-agriculture-can-strengthen-australias-agtech-sector
+slug: how-cellular-agriculture-can-strengthen-australias-agtech-sector
 description: "As global demand for protein grows steadily, our sources of animal protein must diversify to keep up. And Australia is well placed to become an international powerhouse for an emerging research field that could transform the way we produce and eat meat: cellular agriculture."
 excerpt: "As global demand for protein grows steadily, our sources of animal protein must diversify to keep up. And Australia is well placed to become an international powerhouse for an emerging research field that could transform the way we produce and eat meat: cellular agriculture."
 proteins: [Cell-Based]

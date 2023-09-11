@@ -2,7 +2,7 @@
 title: "A multi-billion-dollar opportunity – Repurposing agricultural support to transform food systems"
 date: 2021-09-27 08:08:53
 lastmod: 2021-09-27 08:08:53
-slug: /multi-billion-dollar-opportunity-repurposing-agricultural-support-transform-food-systems
+slug: multi-billion-dollar-opportunity-repurposing-agricultural-support-transform-food-systems
 description: "Public support mechanisms for agriculture in many cases hinder the transformation towards healthier, more sustainable, equitable, and efficient food systems, thus actively steering us away from meeting the Sustainable Development Goals and targets of the Paris Agreement."
 excerpt: "Public support mechanisms for agriculture in many cases hinder the transformation towards healthier, more sustainable, equitable, and efficient food systems, thus actively steering us away from meeting the Sustainable Development Goals and targets of the Paris Agreement."
 proteins: [Animal]

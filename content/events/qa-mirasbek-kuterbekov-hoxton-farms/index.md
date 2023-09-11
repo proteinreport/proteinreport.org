@@ -2,7 +2,7 @@
 title: "Q&A with Mirasbek Kuterbekov from Hoxton Farms"
 date: 2021-10-13 21:09:06
 lastmod: 2021-10-13 21:09:06
-slug: /qa-mirasbek-kuterbekov-hoxton-farms
+slug: qa-mirasbek-kuterbekov-hoxton-farms
 description: "Join us for a Q&A event with senior scientist Mirasbek Kuterbekov, who will introduce his work at Hoxton Farms and talk about his career journey into the space. He will also answer your questions about cellular agriculture and working in the field.Based in London, Hoxton Farms is cultivating a revolution. They combine cell biology and mathematical modelling to make a better kind of fat. Starting from just a few cells, they grow purified animal fat in bioreactors to produce a delicious, cruelty-free and sustainable ingredient."
 proteins: [Cell-Based]
 products: [Ingredients]

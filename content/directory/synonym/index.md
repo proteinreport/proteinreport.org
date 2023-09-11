@@ -2,7 +2,7 @@
 title: "Synonym"
 date: 2023-02-15 15:06:57
 lastmod: 2023-02-15 15:06:57
-slug: /synonym
+slug: synonym
 description: "Synonym is accelerating the world's biological future by developing, financing and building commercial-scale biomanufacturing facilities. We provide synthetic biology (synbio) producers – from startups to the Fortune 500 – with flexible production capacity while giving infrastructure investors access to a new, carbon-negative biomanufacturing asset class that we are calling “fermentation farms.&quot;"
 proteins: [Microbial]
 products: [Technology & Equipment]

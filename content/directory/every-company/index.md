@@ -2,7 +2,7 @@
 title: "The Every Company"
 date: 2020-01-15 15:41:50
 lastmod: 2020-01-15 15:41:50
-slug: /every-company
+slug: every-company
 description: "The Every Company is a Silicon Valley venture-backed company working towards a disruptive advance in food technology by creating the world’s first animal-free egg white and a slew of other performance protein products for sports nutrition, baking, and industrial uses."
 proteins: [Microbial]
 products: [Eggs, Ingredients]

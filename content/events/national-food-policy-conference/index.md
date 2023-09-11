@@ -2,7 +2,7 @@
 title: "National Food Policy Conference"
 date: 2023-02-17 08:41:29
 lastmod: 2023-02-17 08:41:29
-slug: /national-food-policy-conference
+slug: national-food-policy-conference
 description: "*Virtual option availableOrganized by the Consumer Federation of America. "
 proteins: [Plant-Based, Animal]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

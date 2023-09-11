@@ -2,7 +2,7 @@
 title: "The $12-Trillion Opportunity Within Our Food System"
 date: 2020-05-14 11:20:07
 lastmod: 2020-05-14 11:20:07
-slug: /12-trillion-opportunity-within-our-food-system
+slug: 12-trillion-opportunity-within-our-food-system
 description: "It’s a sick and tragic sight. Across the US, dairy producers are currently dumping tens of thousands of gallons of milk into fields and lagoons, as demand continues to plummet. It makes me think about the country’s more than 9 million dairy cows, forced to live out their highly unnatural lives, in dark, cramped milk-making prisons, often sick and in pain — just to keep pumping out a useless commodity. The same could be said of the US meat industry, which slaughters 9.59 billion land animals a year. To make matters worse, President Trump ordered slaughterhouses to stay open despite the clear danger to public health. This is something we can fix."
 excerpt: "It’s a sick and tragic sight. Across the US, dairy producers are currently dumping tens of thousands of gallons of milk into fields and lagoons, as demand continues to plummet. It makes me think about the country’s more than 9 million dairy cows, forced to live out their highly unnatural lives, in dark, cramped milk-making prisons, often sick and in pain — just to keep pumping out a useless commodity. The same could be said of the US meat industry, which slaughters 9.59 billion land animals a year. To make matters worse, President Trump ordered slaughterhouses to stay open despite the clear danger to public health. This is something we can fix."
 proteins: [Animal]

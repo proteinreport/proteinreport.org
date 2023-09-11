@@ -2,7 +2,7 @@
 title: "Cultivated marine protein company Avant announces 90% cost reduction, new strategic partnership to accelerate scale up"
 date: 2021-03-08 11:40:12
 lastmod: 2021-03-08 11:40:12
-slug: /cultivated-marine-protein-company-avant-announces-90-cost-reduction-new-strategic
+slug: cultivated-marine-protein-company-avant-announces-90-cost-reduction-new-strategic
 company: 5810
 description: "Avant, the first cultivated meat company in China and the first cultivated fish company in Asia, announces today a strategic partnership with QuaCell, an emerging leader in the biopharmaceutical industry in China."
 excerpt: "Avant, the first cultivated meat company in China and the first cultivated fish company in Asia, announces today a strategic partnership with QuaCell, an emerging leader in the biopharmaceutical industry in China."

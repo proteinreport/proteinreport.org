@@ -2,7 +2,7 @@
 title: "Investing in the Cultivated Meat Industry: An Independent Analysis of Agronomics"
 date: 2021-07-06 09:48:24
 lastmod: 2021-07-06 09:48:24
-slug: /investing-cultivated-meat-industry-independent-analysis-agronomics
+slug: investing-cultivated-meat-industry-independent-analysis-agronomics
 description: "Rarely do retail investors have the opportunity to gain exposure and access to a new technology this early. That’s partly because Agronomics — which bills itself as “a thematic investment play into the clean meat sector” — is one of the only publicly traded options available to those who see the potential in cultivated meat."
 excerpt: "Rarely do retail investors have the opportunity to gain exposure and access to a new technology this early. That’s partly because Agronomics — which bills itself as “a thematic investment play into the clean meat sector” — is one of the only publicly traded options available to those who see the potential in cultivated meat."
 proteins: [Cell-Based]

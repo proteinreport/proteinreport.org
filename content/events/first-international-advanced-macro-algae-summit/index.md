@@ -2,7 +2,7 @@
 title: "First International Advanced Macro-Algae Summit"
 date: 2021-01-29 16:45:01
 lastmod: 2021-01-29 16:45:01
-slug: /first-international-advanced-macro-algae-summit
+slug: first-international-advanced-macro-algae-summit
 description: "Macro-algae is  the source of all plants, one of the healthiest and most nutritional foods on earth, they act as the primal source of food for all life on earth. Growing them on-land enables us to produce a premium product, clean, rich in protein, minerals, nutritional fibers, vitamins and antioxidants.Seakura is proud to invite you to the first conference with the best opinion leaders who will reveal the latest updates and innovations in this field. "
 proteins: [Algae]
 products: [Ingredients]
@@ -20,6 +20,16 @@ draft: false
 weight: 5000
 uuid: 8367
 ---
-<p>Macro-algae is  the source of all plants, one of the healthiest and most nutritional foods on earth, they act as the primal source of food for all life on earth. Growing them on-land enables us to produce a premium product, clean, rich in protein, minerals, nutritional fibers, vitamins and antioxidants.</p>
-<p>Seakura is proud to invite you to the first conference with the best opinion leaders who will reveal the latest updates and innovations in this field. </p>
-<p>Join us to learn more about the fascinating world of macro-algae, and the ways they can be used in the food, cosmetics, nutraceuticals and biotechnology fields.</p>
+Macro-algae is  the source of all plants, one of the healthiest and most
+nutritional foods on earth, they act as the primal source of food for
+all life on earth. Growing them on-land enables us to produce a premium
+product, clean, rich in protein, minerals, nutritional fibers, vitamins
+and antioxidants.
+
+Seakura is proud to invite you to the first conference with the best
+opinion leaders who will reveal the latest updates and innovations in
+this field. 
+
+Join us to learn more about the fascinating world of macro-algae, and
+the ways they can be used in the food, cosmetics, nutraceuticals and
+biotechnology fields.

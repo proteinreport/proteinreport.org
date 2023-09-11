@@ -2,7 +2,7 @@
 title: "Spanish startup Cocuus raises €2,5M in Funding to scale its 3D bioprinting technology for the production of alternative proteins"
 date: 2022-06-08 08:44:38
 lastmod: 2022-06-08 08:44:38
-slug: /spanish-startup-cocuus-raises-eu25m-funding-scale-its-3d-bioprinting-technology-production
+slug: spanish-startup-cocuus-raises-eu25m-funding-scale-its-3d-bioprinting-technology-production
 company: 8457
 description: "Spanish startup Cocuus has raised 2,5 million euros in its Pre Series A funding round for its innovative process for producing plant or cell-based animal protein food analogs."
 excerpt: "Spanish startup Cocuus has raised 2,5 million euros in its Pre Series A funding round for its innovative process for producing plant or cell-based animal protein food analogs."

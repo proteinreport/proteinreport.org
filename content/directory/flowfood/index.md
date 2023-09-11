@@ -2,7 +2,7 @@
 title: "Flowfood"
 date: 2020-01-23 17:50:28
 lastmod: 2020-01-23 17:50:28
-slug: /flowfood
+slug: flowfood
 description: "Flowfood’s healthy green meat alternatives are made using norwegian seaweed and vegetables, locally sourced and produced with passion and the highest quality. The products are rich in minerals, fibre, protein and antioxidants. Flowfood products are sustainable, tasty and come in natural and exotic flavours."
 proteins: [Plant-Based]
 products: [Meat]

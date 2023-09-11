@@ -2,7 +2,7 @@
 title: "Nuggs"
 date: 2020-01-23 17:50:45
 lastmod: 2020-01-23 17:50:45
-slug: /nuggs
+slug: nuggs
 description: "NUGGS are made with innovative protein technologies enabling us to create a tender and meatier nugget that is more advanced than an animal-based nugget."
 proteins: [Plant-Based]
 products: [Meat]

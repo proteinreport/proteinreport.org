@@ -2,7 +2,7 @@
 title: "Agri-Food Tech Expo Asia"
 date: 2022-02-14 09:26:54
 lastmod: 2022-02-14 09:26:54
-slug: /agri-food-tech-expo-asia
+slug: agri-food-tech-expo-asia
 description: "Agri-Food Tech Expo Asia provides a leading focused exhibiting platform for companies in agri-food related industries to launch, showcase and testbed their solutions. These companies will be part of an essential growing network of key emerging and established industry players, as they embark on collaborative initiatives, partnerships, prototype developments and pilot projects together, towards strengthening the resilience and sustainability of Asia’s food production sectors."
 proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Seafood, Ingredients]

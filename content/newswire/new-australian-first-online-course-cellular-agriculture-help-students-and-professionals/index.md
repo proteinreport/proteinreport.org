@@ -2,7 +2,7 @@
 title: "New Australian-First Online Course in Cellular Agriculture to Help Students and Professionals Break into the Sector"
 date: 2022-08-02 04:00:00
 lastmod: 2022-08-02 04:00:00
-slug: /new-australian-first-online-course-cellular-agriculture-help-students-and-professionals
+slug: new-australian-first-online-course-cellular-agriculture-help-students-and-professionals
 company: 7131
 description: "Cellular Agriculture Australia’s new online course will provide students and professionals the foundational knowledge to make their own impact in cellular agriculture, whether it be  joining a company, investing in the sector, or pursuing further education in the area"
 excerpt: "Cellular Agriculture Australia’s new online course will provide students and professionals the foundational knowledge to make their own impact in cellular agriculture, whether it be  joining a company, investing in the sector, or pursuing further education in the area"

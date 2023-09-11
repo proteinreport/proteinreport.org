@@ -2,7 +2,7 @@
 title: "Gardein"
 date: 2020-01-08 08:00:53
 lastmod: 2020-01-08 08:00:53
-slug: /gardein
+slug: gardein
 description: "Gardein is a sustainable protein brand that delivers the great taste, texture and nutrition of meat with no cholesterol, less fat and calories. Gardein makes the widest variety of award-winning meatless meals and snacks that are good for you and good for the planet."
 proteins: [Plant-Based]
 products: [Meat]

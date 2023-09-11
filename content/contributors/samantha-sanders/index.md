@@ -2,7 +2,7 @@
 title: "Samantha Sanders"
 date: 2020-12-14 13:22:48
 lastmod: 2020-12-14 13:22:48
-slug: /samantha-sanders
+slug: samantha-sanders
 description: "Contributing Editor"
 excerpt: "Contributing Editor"
 images: ["ss.jpg"]

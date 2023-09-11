@@ -2,7 +2,7 @@
 title: "Helaina"
 date: 2020-05-30 09:27:36
 lastmod: 2020-05-30 09:27:36
-slug: /helaina
+slug: helaina
 description: "We’re here to support parents with breastfeeding. We’re building better breast milk alternatives for the modern parent."
 proteins: [Microbial]
 products: [Dairy]

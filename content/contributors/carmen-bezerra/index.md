@@ -2,7 +2,7 @@
 title: "Carmen Bezerra"
 date: 2021-11-02 11:43:52
 lastmod: 2021-11-02 11:43:52
-slug: /carmen-bezerra
+slug: carmen-bezerra
 description: ""
 excerpt: ""
 images: ["carmen.jpg"]

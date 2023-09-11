@@ -2,7 +2,7 @@
 title: "Seed round oversubscribed: Bluu Biosciences secures €7 million – Europe's first cell-based fish biotech company takes off"
 date: 2021-03-26 10:29:42
 lastmod: 2021-03-26 10:29:42
-slug: /seed-round-oversubscribed-bluu-biosciences-secures-eu7-million-europes-first-cell-based
+slug: seed-round-oversubscribed-bluu-biosciences-secures-eu7-million-europes-first-cell-based
 company: 7856
 description: "Berlin-based biotech startup Bluu Biosciences has closed its seed funding round at 7 million euros less than ten months after its foundation. Bluu Biosciences is the first company in Europe to specialize in the development and production of cell-based fish."
 excerpt: "Berlin-based biotech startup Bluu Biosciences has closed its seed funding round at 7 million euros less than ten months after its foundation. Bluu Biosciences is the first company in Europe to specialize in the development and production of cell-based fish."

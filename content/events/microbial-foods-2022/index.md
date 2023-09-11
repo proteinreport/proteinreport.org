@@ -2,7 +2,7 @@
 title: "Microbial Foods 2022"
 date: 2022-04-28 08:47:43
 lastmod: 2022-04-28 08:47:43
-slug: /microbial-foods-2022
+slug: microbial-foods-2022
 description: "About the conference"
 proteins: [Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

@@ -2,7 +2,7 @@
 title: "Cellular Agriculture Europe formally launched to create shared voice for new cultivated meat, seafood and ingredient industry"
 date: 2021-12-03 11:15:57
 lastmod: 2021-12-03 11:15:57
-slug: /cellular-agriculture-europe-formally-launched-create-shared-voice-new-cultivated-meat
+slug: cellular-agriculture-europe-formally-launched-create-shared-voice-new-cultivated-meat
 company: 10129
 description: "Cellular Agriculture Europe, the newly established association representing the cellular agriculture industry in Europe, held this week its first General Assembly meeting."
 excerpt: "Cellular Agriculture Europe, the newly established association representing the cellular agriculture industry in Europe, held this week its first General Assembly meeting."

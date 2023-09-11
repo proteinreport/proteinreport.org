@@ -2,7 +2,7 @@
 title: "From Cell Culture to Food: Making it a European Reality #3"
 date: 2020-04-29 15:59:04
 lastmod: 2020-04-29 15:59:04
-slug: /cell-culture-food-making-it-european-reality-3
+slug: cell-culture-food-making-it-european-reality-3
 description: "Academia and cellular agricultureTopic 1: How to convert existing knowledge and infrastructure to cellular agriculture? with Tom Ben-AryeTopic 2: How to get publishable research in cellular agriculture? with Mark Post"
 proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood]
@@ -20,6 +20,10 @@ draft: false
 weight: 5000
 uuid: 6758
 ---
-<p>Academia and cellular agriculture</p>
-<p>Topic 1: How to convert existing knowledge and infrastructure to cellular agriculture? with Tom Ben-Arye</p>
-<p>Topic 2: How to get publishable research in cellular agriculture? with Mark Post</p>
+Academia and cellular agriculture
+
+Topic 1: How to convert existing knowledge and infrastructure to
+cellular agriculture? with Tom Ben-Arye
+
+Topic 2: How to get publishable research in cellular agriculture? with
+Mark Post

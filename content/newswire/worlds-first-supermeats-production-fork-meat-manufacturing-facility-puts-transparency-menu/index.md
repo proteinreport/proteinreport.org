@@ -2,7 +2,7 @@
 title: "World's First: SuperMeat’s Production-To-Fork Meat Manufacturing Facility Puts Transparency on the Menu"
 date: 2021-03-18 10:05:09
 lastmod: 2021-03-18 10:05:09
-slug: /worlds-first-supermeats-production-fork-meat-manufacturing-facility-puts-transparency-menu
+slug: worlds-first-supermeats-production-fork-meat-manufacturing-facility-puts-transparency-menu
 company: 5817
 description: "Food tech company SuperMeat has launched the world’s first production-to-fork cultured meat manufacturing facility. The facility was introduced at a live event at the Future Food-Tech conference, where the cultured meat manufacturing process was demonstrated from chicken cell to chicken burger for the first time. During the event, the company announced that they have cut down their production cost by 50%, bringing a 100% cultured meat burger down to $30."
 excerpt: "Food tech company SuperMeat has launched the world’s first production-to-fork cultured meat manufacturing facility. The facility was introduced at a live event at the Future Food-Tech conference, where the cultured meat manufacturing process was demonstrated from chicken cell to chicken burger for the first time. During the event, the company announced that they have cut down their production cost by 50%, bringing a 100% cultured meat burger down to $30."

@@ -2,7 +2,7 @@
 title: "The Vegg"
 date: 2020-01-23 17:50:48
 lastmod: 2020-01-23 17:50:48
-slug: /vegg
+slug: vegg
 description: "The Vegg produces and distributes the world’s healthiest 100% plant based-egg substitutes. The Vegg's products are all 100% plant-based, cholesterol free, gluten free and Kosher."
 proteins: [Plant-Based]
 products: [Eggs]

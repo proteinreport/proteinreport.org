@@ -2,7 +2,7 @@
 title: "40 Alt-Protein Start-Ups Featured at New York’s Future Food-Tech Summit"
 date: 2022-05-31 11:01:31
 lastmod: 2022-05-31 11:01:31
-slug: /40-alt-protein-start-ups-featured-new-yorks-future-food-tech-summit
+slug: 40-alt-protein-start-ups-featured-new-yorks-future-food-tech-summit
 company_name: "Future Food-Tech"
 company_link: "https://www.futurefoodtechprotein.com/"
 description: "Leading food technology event series, Future Food-Tech, today announced the 40 startups that will be participating in their Future Food-Tech Alternative Proteins summit taking place in New York on June 21-22."

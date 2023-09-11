@@ -2,7 +2,7 @@
 title: "Scale-Up Technologies for the Manufacture of Adherent Cells"
 date: 2020-11-04 13:41:42
 lastmod: 2020-11-04 13:41:42
-slug: /scale-technologies-manufacture-adherent-cells
+slug: scale-technologies-manufacture-adherent-cells
 description: "Great importance is being given to the impact our food supply chain and consumers’ food habits are having on the environment, human health, and animal welfare. One of the latest developments aiming at positively changing the food ecosystem is represented by cultured meat. This form of cellular agriculture has the objective to generate slaughter-free meat products starting from the cultivation of few cells harvested from the animal tissue of interest. As a consequence, a large number of cells has to be generated at a reasonable cost."
 excerpt: "Great importance is being given to the impact our food supply chain and consumers’ food habits are having on the environment, human health, and animal welfare. One of the latest developments aiming at positively changing the food ecosystem is represented by cultured meat. This form of cellular agriculture has the objective to generate slaughter-free meat products starting from the cultivation of few cells harvested from the animal tissue of interest. As a consequence, a large number of cells has to be generated at a reasonable cost."
 proteins: [Cell-Based]

@@ -2,7 +2,7 @@
 title: "Gardenburger"
 date: 2020-01-13 21:01:59
 lastmod: 2020-01-13 21:01:59
-slug: /gardenburger
+slug: gardenburger
 description: "Gardenburger is the brand name of a veggie burger that originated in 1985 and is owned by the Kellogg Company."
 proteins: [Plant-Based]
 products: [Meat]

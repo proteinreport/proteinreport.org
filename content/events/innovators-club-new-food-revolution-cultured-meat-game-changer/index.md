@@ -2,7 +2,7 @@
 title: "Innovators´ Club: The New Food Revolution - Cultured Meat as a game changer"
 date: 2022-02-12 18:26:33
 lastmod: 2022-02-12 18:26:33
-slug: /innovators-club-new-food-revolution-cultured-meat-game-changer
+slug: innovators-club-new-food-revolution-cultured-meat-game-changer
 description: "Is the world ready for cultured meat as a new source of food?The evidence suggests that it is, and 66% of our surveyed scientists would be open to try it. Learn more about the impact of cultured meat on society, the food industry and the future of meat consumption at our upcoming online Innovators´ Club on February 23, 2022!"
 proteins: [Cell-Based]
 products: [Meat]

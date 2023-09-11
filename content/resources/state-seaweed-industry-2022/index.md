@@ -2,7 +2,7 @@
 title: "State of the Seaweed Industry 2022"
 date: 2022-01-17 12:40:48
 lastmod: 2022-01-17 12:40:48
-slug: /state-seaweed-industry-2022
+slug: state-seaweed-industry-2022
 description: "Phyconomy's first annual State of the Seaweed Industry report shines a light on the trends and events of the past year in Europe, the Americas, and Oceania."
 excerpt: "Phyconomy's first annual State of the Seaweed Industry report shines a light on the trends and events of the past year in Europe, the Americas, and Oceania."
 proteins: [Algae]

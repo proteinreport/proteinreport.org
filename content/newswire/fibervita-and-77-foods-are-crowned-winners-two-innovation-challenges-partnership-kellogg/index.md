@@ -2,7 +2,7 @@
 title: "Fibervita and 77 Foods are crowned the winners of two Innovation Challenges in partnership with Kellogg Company and Unilever"
 date: 2021-03-12 04:00:18
 lastmod: 2021-03-12 04:00:18
-slug: /fibervita-and-77-foods-are-crowned-winners-two-innovation-challenges-partnership-kellogg
+slug: fibervita-and-77-foods-are-crowned-winners-two-innovation-challenges-partnership-kellogg
 company_name: "Future Food-Tech"
 company_link: "https://futurefoodtechsf.com/"
 description: "​​​​​​​Ambitious food-tech start-ups FIBERVITA and 77 FOODS have been announced as the two winners, after over 100 international entries were received across the two challenges."

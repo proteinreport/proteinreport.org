@@ -2,7 +2,7 @@
 title: "New Harvest"
 date: 2019-11-24 11:30:41
 lastmod: 2019-11-24 11:30:41
-slug: /new-harvest
+slug: new-harvest
 description: "Established in 2004, New Harvest is the non-profit research institute building the field of cellular agriculture. We strategically fund and conduct open, public, collaborative research that reinvents the way we make animal products - without animals. Our mission is to build and establish the field of cellular agriculture."
 proteins: [Cell-Based]
 products: [Meat]

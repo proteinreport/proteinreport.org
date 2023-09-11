@@ -2,7 +2,7 @@
 title: "Bioengineered Lab-Grown Meat-like Constructs through 3D Bioprinting of Antioxidative Protein Hydrolysates"
 date: 2022-08-05 14:42:38
 lastmod: 2022-08-05 14:42:38
-slug: /bioengineered-lab-grown-meat-constructs-through-3d-bioprinting-antioxidative-protein
+slug: bioengineered-lab-grown-meat-constructs-through-3d-bioprinting-antioxidative-protein
 description: "Lab-grown bovine meat analogues are emerging alternatives to animal sacrifices for cultured meat production. The most challenging aspect of the production process is the rapid proliferation of cells and establishment of the desired 3D structure for mass production."
 excerpt: "Lab-grown bovine meat analogues are emerging alternatives to animal sacrifices for cultured meat production. The most challenging aspect of the production process is the rapid proliferation of cells and establishment of the desired 3D structure for mass production."
 proteins: [Cell-Based]

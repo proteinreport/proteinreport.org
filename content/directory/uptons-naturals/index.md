@@ -2,7 +2,7 @@
 title: "Upton's Naturals"
 date: 2020-01-23 17:50:45
 lastmod: 2020-01-23 17:50:45
-slug: /uptons-naturals
+slug: uptons-naturals
 description: "Dedicated to simplicity and the use of real, recognizable ingredients, Upton’s Naturals takes recipes that have been around for thousands of years and updates them for today."
 proteins: [Plant-Based]
 products: [Meat]

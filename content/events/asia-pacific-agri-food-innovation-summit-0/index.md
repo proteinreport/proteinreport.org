@@ -2,7 +2,7 @@
 title: "Asia-Pacific Agri-Food Innovation Summit"
 date: 2022-05-26 17:28:50
 lastmod: 2022-05-26 17:28:50
-slug: /asia-pacific-agri-food-innovation-summit-0
+slug: asia-pacific-agri-food-innovation-summit-0
 description: "2022 Theme: Building Agri-Food Capacity, Security & Resilience in AsiaAs the anchor event of Singapore International Agri-Food Week (SIAW), the Asia-Pacific Agri-Food Innovation Summit will bring together over 900 global leaders to identify the strategic priorities as we build greater capacity, security and resilience in Asia’s agri-food system."
 proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

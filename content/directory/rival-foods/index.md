@@ -2,7 +2,7 @@
 title: "Rival Foods"
 date: 2020-01-23 17:51:00
 lastmod: 2020-01-23 17:51:00
-slug: /rival-foods
+slug: rival-foods
 description: "Rival Foods connects culinary and plant-based cooking with unique, whole-cut ingredients that provide amazing texture, bite and juiciness in the production of the alternative meats."
 proteins: [Plant-Based]
 products: [Meat]

@@ -2,7 +2,7 @@
 title: "4th Annual Research Spotlight Meeting"
 date: 2023-02-02 16:11:29
 lastmod: 2023-02-02 16:11:29
-slug: /4th-annual-research-spotlight-meeting
+slug: 4th-annual-research-spotlight-meeting
 description: "We are thrilled to announce PPIC’s 4th Annual Research Spotlight Meeting on March 29-30, 2023. This year, the meeting will be held over a day and a half! The meeting will showcase research that is actively being conducted in the plant proteins space, including the projects funded by PPIC. The event features presentations from several researchers, internal and external to the PPIC researcher cohort. New this year, there will be two panel discussions from PPIC member industry representatives who will discuss challenges and opportunities for plant protein innovation."
 proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

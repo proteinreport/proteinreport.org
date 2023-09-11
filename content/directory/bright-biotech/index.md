@@ -2,7 +2,7 @@
 title: "Bright Biotech"
 date: 2022-02-21 12:51:10
 lastmod: 2022-02-21 12:51:10
-slug: /bright-biotech
+slug: bright-biotech
 description: "A proprietary light-driven, protein expression technology that uses chloroplasts to make extraordinarily high yields of proteins in plants. This game-changing manufacturing system is sustainable, free of animal pathogens and bacterial endotoxins, and highly scalable. Suitable for the recombinant protein contract manufacturing and development market. Bright Biotech is currently producing recombinant growth factors, which aid cell growth to promote regenerative medicine practices, and also industry processes such as clean meat production."
 proteins: [Cell-Based, Molecular Farming]
 products: [Ingredients, Cell Culture Media]

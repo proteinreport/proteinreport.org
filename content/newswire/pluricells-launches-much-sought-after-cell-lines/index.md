@@ -2,7 +2,7 @@
 title: "PluriCells launches much-sought-after cell lines"
 date: 2023-08-21 13:21:36
 lastmod: 2023-08-21 13:21:36
-slug: /pluricells-launches-much-sought-after-cell-lines
+slug: pluricells-launches-much-sought-after-cell-lines
 company_name: "PluriCells"
 company_link: "https://pluricells.co.uk/"
 description: "Nottingham-based bio-technology organisation, PluriCells, is pleased to announce the official launch of their high-quality, fully traceable, pluripotent animal stem cell lines available under research and commercial licence from the University of Nottingham. "

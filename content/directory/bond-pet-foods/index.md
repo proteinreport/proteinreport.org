@@ -2,7 +2,7 @@
 title: "Bond Pet Foods"
 date: 2020-01-14 14:33:41
 lastmod: 2020-01-14 14:33:41
-slug: /bond-pet-foods
+slug: bond-pet-foods
 description: "Bond Pet Foods, Inc. is a Boulder, Colorado-based pet food company using biotechnology to create food that's nutritionally comparable to conventional meat but without all the bad stuff - so people, pets, farm animals and the planet all win. Using some of the same processes that are employed in craft brewing, Bond produces high-quality animal proteins through fermentation, harvests them to better meet the nutritional requirements of companion animals, and uses the ingredients as the foundation of its complete recipes."
 proteins: [Microbial]
 products: [Meat, Pet Food]

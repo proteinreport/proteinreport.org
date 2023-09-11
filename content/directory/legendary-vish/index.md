@@ -2,7 +2,7 @@
 title: "Legendary Vish"
 date: 2020-07-07 12:01:47
 lastmod: 2020-07-07 12:01:47
-slug: /legendary-vish
+slug: legendary-vish
 description: "We are creating the next generation of plant-based seafood, produced with 3D Food Printing. Full structure, rich taste, and no harm to the oceans."
 proteins: [Plant-Based]
 products: [Seafood]

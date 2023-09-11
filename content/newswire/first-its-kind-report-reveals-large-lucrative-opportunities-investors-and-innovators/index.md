@@ -2,7 +2,7 @@
 title: "First-of-Its-Kind Report Reveals Large & Lucrative Opportunities for Investors and Innovators"
 date: 2021-11-05 01:41:28
 lastmod: 2021-11-05 01:41:28
-slug: /first-its-kind-report-reveals-large-lucrative-opportunities-investors-and-innovators
+slug: first-its-kind-report-reveals-large-lucrative-opportunities-investors-and-innovators
 company_name: "The Mills Fabrica"
 company_link: "https://www.themillsfabrica.com/"
 description: "White space analysis shows next-gen materials set to follow alternative proteins in growth and profitability"

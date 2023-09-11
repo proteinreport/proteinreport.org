@@ -2,7 +2,7 @@
 title: "Perennial"
 date: 2020-01-23 17:50:54
 lastmod: 2020-01-23 17:50:54
-slug: /perennial
+slug: perennial
 description: "Perennial was crafterd to help living healthier and thriving at any age. As a progressive health science company, Perennial aims to take a new approach to global adult nutrition by harnessing the power of plants. Through relentless innovation, they strive for a cleaner, more personalized and thoughtful approach to aging well, with delicious products that improve human life, and redefine what it means to be 50+."
 proteins: [Plant-Based]
 products: [Dairy]

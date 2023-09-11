@@ -2,7 +2,7 @@
 title: "Marvelous Foods"
 date: 2022-02-23 13:10:07
 lastmod: 2022-02-23 13:10:07
-slug: /marvelous-foods
+slug: marvelous-foods
 description: "Marvelous Foods is a plant-based snack foods start-up for the Chinese market."
 proteins: [Plant-Based]
 products: [Dairy]

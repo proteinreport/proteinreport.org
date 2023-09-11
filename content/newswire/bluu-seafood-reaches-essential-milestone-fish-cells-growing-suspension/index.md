@@ -2,7 +2,7 @@
 title: "Bluu Seafood reaches essential milestone with fish cells growing in suspension"
 date: 2022-12-13 09:45:04
 lastmod: 2022-12-13 09:45:04
-slug: /bluu-seafood-reaches-essential-milestone-fish-cells-growing-suspension
+slug: bluu-seafood-reaches-essential-milestone-fish-cells-growing-suspension
 company: 7856
 description: "Bluu Seafood, the leading cultivated fish company in Europe, has successfully adapted its proprietary fish cell lines to growth in suspension without the use of microcarriers or other scaffolds. This is a crucial step that will enable fish cell production in large scale stirred-tank bioreactors."
 excerpt: "Bluu Seafood, the leading cultivated fish company in Europe, has successfully adapted its proprietary fish cell lines to growth in suspension without the use of microcarriers or other scaffolds. This is a crucial step that will enable fish cell production in large scale stirred-tank bioreactors."

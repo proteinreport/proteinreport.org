@@ -2,7 +2,7 @@
 title: "Amy's Kitchen"
 date: 2020-01-23 17:50:37
 lastmod: 2020-01-23 17:50:37
-slug: /amys-kitchen
+slug: amys-kitchen
 description: "Amy’s Kitchen offers over 250 varieties of organic frozen and packaged foods. Amy's products are widely available in the U.S. as well as more than 30 other countries around the globe."
 proteins: [Plant-Based]
 products: [Meat]

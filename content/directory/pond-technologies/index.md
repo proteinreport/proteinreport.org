@@ -2,7 +2,7 @@
 title: "Pond Technologies"
 date: 2020-01-27 16:19:46
 lastmod: 2020-01-27 16:19:46
-slug: /pond-technologies
+slug: pond-technologies
 description: "Pond Technologies is a Canadian technology company with applications in pollution abatement, nutrition, the food, and cannabis industries. We create value from emissions. Pond’s technology was originally developed as universal algae platform that provides optimal growth conditions for virtually any algae strain. The sensor-laden growth platform can be applied to terrestrial plants, as well as bacteria. Pond can grow algae using pure, food grade carbon dioxide (the same gas that makes the bubbles in beer and soda) to make algae-based nutraceuticals, food colouring, or animal feed."
 proteins: [Algae]
 products: [Ingredients, Feed]

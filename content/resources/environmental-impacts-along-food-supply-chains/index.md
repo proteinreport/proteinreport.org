@@ -2,7 +2,7 @@
 title: "Environmental impacts along food supply chains"
 date: 2022-12-08 18:59:51
 lastmod: 2022-12-08 18:59:51
-slug: /environmental-impacts-along-food-supply-chains
+slug: environmental-impacts-along-food-supply-chains
 description: "Food systems exert major pressures on the environment. This paper reviews what is known and not known about environmental impacts along food supply chains, looking at the contribution of different stages of the supply chain, the impact of different products, heterogeneity among producers, and the role of international trade. This review shows that most environmental impacts in food supply chains occur through land use change or at the stage of agricultural production. Livestock (especially ruminant livestock) has a higher footprint than plant-based food."
 excerpt: "Food systems exert major pressures on the environment. This paper reviews what is known and not known about environmental impacts along food supply chains, looking at the contribution of different stages of the supply chain, the impact of different products, heterogeneity among producers, and the role of international trade. This review shows that most environmental impacts in food supply chains occur through land use change or at the stage of agricultural production. Livestock (especially ruminant livestock) has a higher footprint than plant-based food."
 proteins: [Animal]

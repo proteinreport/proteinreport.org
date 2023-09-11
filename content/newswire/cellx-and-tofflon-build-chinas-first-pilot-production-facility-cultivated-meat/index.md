@@ -2,7 +2,7 @@
 title: "CellX and Tofflon to build China’s first pilot production facility for cultivated meat"
 date: 2023-02-05 13:29:52
 lastmod: 2023-02-05 13:29:52
-slug: /cellx-and-tofflon-build-chinas-first-pilot-production-facility-cultivated-meat
+slug: cellx-and-tofflon-build-chinas-first-pilot-production-facility-cultivated-meat
 company: 8329
 description: "On February 1st, CellX and Tofflon signed a strategic partnership agreement to work together in the field of cultivated meat, developing innovative equipment and building a pilot production plant, as well as local and global facilities for commercial production"
 excerpt: "On February 1st, CellX and Tofflon signed a strategic partnership agreement to work together in the field of cultivated meat, developing innovative equipment and building a pilot production plant, as well as local and global facilities for commercial production"

@@ -2,7 +2,7 @@
 title: "Lisanatti"
 date: 2020-01-23 17:50:39
 lastmod: 2020-01-23 17:50:39
-slug: /lisanatti
+slug: lisanatti
 description: "Lisanatti Foods is a second-generation, family owned business located in Oregon, making high quality cheese alternatives since 1976."
 proteins: [Plant-Based]
 products: [Dairy]

@@ -2,7 +2,7 @@
 title: "Hinoman"
 date: 2020-01-23 17:50:54
 lastmod: 2020-01-23 17:50:54
-slug: /hinoman
+slug: hinoman
 description: "Hinoman Ltd.’s food tech platform enables exceptional scalability for cultivation, with a minimal ecological footprint. Hinoman developed an optimal, precision-agriculture solution to produce a safe, nutritious vegetable protein source."
 proteins: [Plant-Based]
 products: [Ingredients]

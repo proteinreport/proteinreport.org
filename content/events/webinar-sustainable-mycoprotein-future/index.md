@@ -2,7 +2,7 @@
 title: "Webinar: The Sustainable MycoProtein Future"
 date: 2022-02-14 04:09:03
 lastmod: 2022-02-14 04:09:03
-slug: /webinar-sustainable-mycoprotein-future
+slug: webinar-sustainable-mycoprotein-future
 description: "Learn more about sustainable fermentation with the Plenitude Project partners.Proposed Schedule4-4:05 — Welcome | Gerard Klein Essink, CEO, Bridge2Food4:05-4:20 — Investing in a Green & Sustainable Future | Luisa Mascia, project officer, CBE4:20-4:40 — Future of Mycoprotein: Plenitude project | Jim Laird, CEO, Enough4:40-4:55 — Research Outlook | Martijn Bekker, project leader, Wageningen University4:55-5:20 — Panel discussion on the Business Interest of Mycoprotein:"
 proteins: [Plant-Based, Fungi]
 products: [Meat, Ingredients, Technology & Equipment]

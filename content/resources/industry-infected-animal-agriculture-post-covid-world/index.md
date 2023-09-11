@@ -2,7 +2,7 @@
 title: "An Industry Infected: Animal agriculture in a post-COVID world"
 date: 2020-06-05 12:45:15
 lastmod: 2020-06-05 12:45:15
-slug: /industry-infected-animal-agriculture-post-covid-world
+slug: industry-infected-animal-agriculture-post-covid-world
 description: "This FAIRR report aims to provide investors with insights into the financially material impacts of the current crisis on the animal protein sector, and highlights the risk the industry faces due to its potential to foster future pandemics."
 excerpt: "This FAIRR report aims to provide investors with insights into the financially material impacts of the current crisis on the animal protein sector, and highlights the risk the industry faces due to its potential to foster future pandemics."
 proteins: [Animal]

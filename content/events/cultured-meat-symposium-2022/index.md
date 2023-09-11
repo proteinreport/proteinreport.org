@@ -2,7 +2,7 @@
 title: "Cultured Meat Symposium 2022"
 date: 2022-04-26 07:58:36
 lastmod: 2022-04-26 07:58:36
-slug: /cultured-meat-symposium-2022
+slug: cultured-meat-symposium-2022
 description: "Join the cellular agriculture industry at the 5th edition of the Cultured Meat Symposium. This landmark event is taking place in Downtown San Francisco on Friday, October 28th and Saturday, October 29th.Creativity + Commerce. The theme of CMS22 embraces the path to commercial scale as the industry matures."
 proteins: [Cell-Based, Microbial]
 products: [Meat, Dairy, Seafood, Ingredients]

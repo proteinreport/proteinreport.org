@@ -2,7 +2,7 @@
 title: "Beyond Investing"
 date: 2019-11-24 17:11:50
 lastmod: 2019-11-24 17:11:50
-slug: /beyond-investing
+slug: beyond-investing
 description: "Beyond Investing was formed in 2017, by a group of seasoned investment professionals, for the purpose of creating the first ever publicly available animal-friendly and environmentally conscious investment products."
 proteins: []
 products: []

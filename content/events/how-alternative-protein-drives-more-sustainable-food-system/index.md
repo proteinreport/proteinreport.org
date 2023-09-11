@@ -2,7 +2,7 @@
 title: "How Alternative Protein Drives a More Sustainable Food System"
 date: 2023-08-31 16:39:59
 lastmod: 2023-08-31 16:39:59
-slug: /how-alternative-protein-drives-more-sustainable-food-system
+slug: how-alternative-protein-drives-more-sustainable-food-system
 description: "Dive into the world of alternative proteins and their vital role in building a more sustainable food system. Gain valuable insights from industry experts on prevailing trends, challenges, and opportunities within this dynamic industry, and the cutting-edge technologies empowering researchers and manufacturers to create more sustainable and nutritious food options. Register Now!"
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming]
 products: [Meat, Dairy, Seafood, Ingredients]

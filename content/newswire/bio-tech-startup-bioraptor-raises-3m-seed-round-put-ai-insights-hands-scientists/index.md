@@ -2,7 +2,7 @@
 title: "Bio-Tech Startup BioRaptor Raises $3M Seed Round To Put AI-Insights In The Hands of Scientists"
 date: 2022-10-31 08:00:00
 lastmod: 2022-10-31 08:00:00
-slug: /bio-tech-startup-bioraptor-raises-3m-seed-round-put-ai-insights-hands-scientists
+slug: bio-tech-startup-bioraptor-raises-3m-seed-round-put-ai-insights-hands-scientists
 company: 11176
 description: "Today BioRaptor announces a $3M funding round to innovate the biotech industry by putting the power of AI-generated insights into the hands of every scientist"
 excerpt: "Today BioRaptor announces a $3M funding round to innovate the biotech industry by putting the power of AI-generated insights into the hands of every scientist"

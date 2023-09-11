@@ -2,7 +2,7 @@
 title: "Livestock's Long Shadow"
 date: 2018-12-08 18:19:00
 lastmod: 2018-12-08 18:19:00
-slug: /livestocks-long-shadow
+slug: livestocks-long-shadow
 description: "This report aims to assess the full impact of the livestock sector on environmental problems, along with potential technical and policy approaches to mitigation. The assessment is based on the most recent and complete data available, taking into account direct impacts, along with the impacts of feedcrop agriculture required for livestock production."
 excerpt: "This report aims to assess the full impact of the livestock sector on environmental problems, along with potential technical and policy approaches to mitigation. The assessment is based on the most recent and complete data available, taking into account direct impacts, along with the impacts of feedcrop agriculture required for livestock production."
 proteins: [Animal]

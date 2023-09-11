@@ -2,7 +2,7 @@
 title: "Plant-Based Meat: A Healthier Choice?"
 date: 2020-08-28 13:21:45
 lastmod: 2020-08-28 13:21:45
-slug: /plant-based-meat-healthier-choice
+slug: plant-based-meat-healthier-choice
 description: "Plant-Based Meat: A Healthier Choice?is a collaboration between Food Frontier, Australia and New Zealand’s not-for-profit think tank on alternative proteins, and Teri Lichtenstein, a leading Australian Accredited Practising Dietitian. It compares the nutritional averages of plant-based meat categories to similarly processed, conventional meats, from sausages and burgers to chicken-style pieces and more."
 excerpt: "Plant-Based Meat: A Healthier Choice?is a collaboration between Food Frontier, Australia and New Zealand’s not-for-profit think tank on alternative proteins, and Teri Lichtenstein, a leading Australian Accredited Practising Dietitian. It compares the nutritional averages of plant-based meat categories to similarly processed, conventional meats, from sausages and burgers to chicken-style pieces and more."
 proteins: [Plant-Based]

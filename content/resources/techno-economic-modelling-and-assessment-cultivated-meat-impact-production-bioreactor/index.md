@@ -2,7 +2,7 @@
 title: "Techno-Economic Modelling and Assessment of Cultivated Meat: Impact of Production Bioreactor Scale"
 date: 2022-06-23 18:23:38
 lastmod: 2022-06-23 18:23:38
-slug: /techno-economic-modelling-and-assessment-cultivated-meat-impact-production-bioreactor
+slug: techno-economic-modelling-and-assessment-cultivated-meat-impact-production-bioreactor
 description: "Increases in global meat demands cannot be sustainably met with current methods of livestock farming, which has a substantial impact on greenhouse gas emissions, land use, and water consumption. Cultivated meat is a rapidly advancing technology that produces meat products by proliferating and differentiating animal stem cells in large bioreactors, avoiding conventional live-animal farming."
 excerpt: "Increases in global meat demands cannot be sustainably met with current methods of livestock farming, which has a substantial impact on greenhouse gas emissions, land use, and water consumption. Cultivated meat is a rapidly advancing technology that produces meat products by proliferating and differentiating animal stem cells in large bioreactors, avoiding conventional live-animal farming."
 proteins: [Cell-Based]

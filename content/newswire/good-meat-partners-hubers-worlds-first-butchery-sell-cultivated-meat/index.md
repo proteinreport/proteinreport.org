@@ -2,7 +2,7 @@
 title: "GOOD Meat Partners with Huber’s, World’s First Butchery to Sell Cultivated Meat"
 date: 2022-12-08 08:58:09
 lastmod: 2022-12-08 08:58:09
-slug: /good-meat-partners-hubers-worlds-first-butchery-sell-cultivated-meat
+slug: good-meat-partners-hubers-worlds-first-butchery-sell-cultivated-meat
 company: 234
 description: "GOOD Meat, the cultivated meat division of food technology company Eat Just, Inc., announced today that Huber’s Butchery, one of Singapore’s premier producers and suppliers of high-quality meat products, will become the first butchery in the world to sell and serve cultivated meat."
 excerpt: "GOOD Meat, the cultivated meat division of food technology company Eat Just, Inc., announced today that Huber’s Butchery, one of Singapore’s premier producers and suppliers of high-quality meat products, will become the first butchery in the world to sell and serve cultivated meat."

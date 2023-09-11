@@ -2,7 +2,7 @@
 title: "Plenti"
 date: 2020-01-23 17:50:28
 lastmod: 2020-01-23 17:50:28
-slug: /plenti
+slug: plenti
 description: "Ojah is a producer of Plenti which is a 100% plant-based meat alternative. Plenti has a unique texture and is developed in The Netherlands. It is made from only two ingredients: soya beans (non-GMO) and water. Plenti is good for humans and the environment. It is suitable for almost every diet. Plenti is stacked with high quality proteins and is very rich in dietary fibers. It contains low quantities of fat and carbohydrates."
 proteins: [Plant-Based]
 products: [Meat]

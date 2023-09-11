@@ -2,7 +2,7 @@
 title: "45th Annual National Food Policy Conference"
 date: 2022-08-03 06:09:27
 lastmod: 2022-08-03 06:09:27
-slug: /45th-annual-national-food-policy-conference
+slug: 45th-annual-national-food-policy-conference
 description: "*Virtual option availableOrganized by the Consumer Federation of America, this years topics will include:Consumer trends in the face of inflationUltra-processed foods: scoundrel or scapegoat?Regionalizing the food systemFood and racism: the fight for food justiceNew frontiers of food assistance programs"
 proteins: [Plant-Based, Animal]
 products: [Meat, Dairy, Eggs, Ingredients]

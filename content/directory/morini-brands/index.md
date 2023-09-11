@@ -2,7 +2,7 @@
 title: "Morini Brands"
 date: 2020-01-23 17:50:48
 lastmod: 2020-01-23 17:50:48
-slug: /morini-brands
+slug: morini-brands
 description: "Risofu (rhee-ZOE- foo) is a new food which clearly separates Morini Brands from every company offering soy-based and other vegetarian meat analogues. Risofu is the name for the creation of the world’s first rice curd/rice tofu - based meat alternative."
 proteins: [Plant-Based]
 products: [Meat]

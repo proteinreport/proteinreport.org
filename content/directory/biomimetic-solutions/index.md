@@ -2,7 +2,7 @@
 title: "Biomimetic Solutions"
 date: 2020-01-23 18:10:00
 lastmod: 2020-01-23 18:10:00
-slug: /biomimetic-solutions
+slug: biomimetic-solutions
 description: "The biotechnology B2B startup working on 3D scaffolds for cultivated meat layering, they are developing high quality nanomaterials for Tissue Engineering applications."
 proteins: [Cell-Based]
 products: [Scaffolding & Structure]

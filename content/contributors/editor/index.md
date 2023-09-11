@@ -2,7 +2,7 @@
 title: "Editor"
 date: 2020-12-13 19:49:23
 lastmod: 2020-12-13 19:49:23
-slug: /editor
+slug: editor
 description: "Your editor at Protein Report."
 excerpt: "Your editor at Protein Report."
 images: ["favicon.png"]

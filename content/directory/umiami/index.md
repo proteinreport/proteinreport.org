@@ -2,7 +2,7 @@
 title: "Umiami"
 date: 2021-07-05 07:48:49
 lastmod: 2021-07-05 07:48:49
-slug: /umiami
+slug: umiami
 description: "At Umiami, we love meat but we don't like its impact on health, animals and the environment. We are on a mission to offer 100% meat-free products without any compromise.To create the world's first plant-based whole-cuts, we use an unprecedented technique to texturize plant proteins. Our process is the first in the world that can create thick fibrous chicken breasts at scale. It is also cleaner-label than current industrially available technologies."
 proteins: [Plant-Based]
 products: [Meat]

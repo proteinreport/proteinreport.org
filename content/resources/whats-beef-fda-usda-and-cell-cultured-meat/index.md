@@ -2,7 +2,7 @@
 title: "What’s the Beef? The FDA, USDA, and Cell-Cultured Meat"
 date: 2022-07-19 13:12:15
 lastmod: 2022-07-19 13:12:15
-slug: /whats-beef-fda-usda-and-cell-cultured-meat
+slug: whats-beef-fda-usda-and-cell-cultured-meat
 description: "Over the past ten years, administrative law scholarship has increasingly focused on interactions between multiple agencies. As part of this trend, most scholars have called for policymakers to combine multiple agencies, rather than rely on a single agency, to solve policy problems. The literature in this area espouses the benefits of shared regulatory space. But very little of this scholarship addresses when shared jurisdiction is problematic."
 excerpt: "Over the past ten years, administrative law scholarship has increasingly focused on interactions between multiple agencies. As part of this trend, most scholars have called for policymakers to combine multiple agencies, rather than rely on a single agency, to solve policy problems. The literature in this area espouses the benefits of shared regulatory space. But very little of this scholarship addresses when shared jurisdiction is problematic."
 proteins: [Cell-Based]

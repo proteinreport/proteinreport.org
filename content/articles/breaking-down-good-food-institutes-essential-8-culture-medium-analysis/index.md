@@ -2,7 +2,7 @@
 title: "Breaking Down the Good Food Institute’s Essential 8 Culture Medium Analysis"
 date: 2020-08-28 10:17:04
 lastmod: 2020-08-28 10:17:04
-slug: /breaking-down-good-food-institutes-essential-8-culture-medium-analysis
+slug: breaking-down-good-food-institutes-essential-8-culture-medium-analysis
 description: "By optimizing culture media ingredients specifically for cultivated meat production, and by producing those ingredients at scale, costs may be reduced to as little as $0.24 per liter. This would enable cell-cultured meat produced in bioreactors to reach prices competitive with their animal-based counterparts. But investment and demand needed to reach those economies of scale remain a constraint on lowering cultivated meat production costs."
 excerpt: "By optimizing culture media ingredients specifically for cultivated meat production, and by producing those ingredients at scale, costs may be reduced to as little as $0.24 per liter. This would enable cell-cultured meat produced in bioreactors to reach prices competitive with their animal-based counterparts. But investment and demand needed to reach those economies of scale remain a constraint on lowering cultivated meat production costs."
 proteins: [Cell-Based]

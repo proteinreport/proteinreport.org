@@ -2,7 +2,7 @@
 title: "BioscienZ"
 date: 2020-01-14 14:24:52
 lastmod: 2020-01-14 14:24:52
-slug: /bioscienz
+slug: bioscienz
 description: "BioscienZ is an industrial biotechnology company founded by Wim de Laat in 2010 and is developing new technologies based on microbial fermentation as a core competence. The company provides contract research besides serving as an incubator for proprietary technologies."
 proteins: [Microbial]
 products: [Meat, Eggs]

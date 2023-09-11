@@ -2,7 +2,7 @@
 title: "Brevel Completes $18.5m Seed Financing Round, Bringing to Market the Most Sustainable Protein on the Planet"
 date: 2023-07-25 12:40:07
 lastmod: 2023-07-25 12:40:07
-slug: /brevel-completes-185m-seed-financing-round-bringing-market-most-sustainable-protein-planet
+slug: brevel-completes-185m-seed-financing-round-bringing-market-most-sustainable-protein-planet
 company: 10918
 description: "Brevel, the leading microalgae-based alternative protein company, announced today it has completed its seed funding round of $18.5m."
 excerpt: "Brevel, the leading microalgae-based alternative protein company, announced today it has completed its seed funding round of $18.5m."

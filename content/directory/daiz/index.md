@@ -2,7 +2,7 @@
 title: "Daiz"
 date: 2020-06-03 10:45:34
 lastmod: 2020-06-03 10:45:34
-slug: /daiz
+slug: daiz
 description: "Daiz develops, produces, and sells of plant-based meats and foods that use soybean-derived functional substances."
 proteins: [Plant-Based]
 products: [Meat]

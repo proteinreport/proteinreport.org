@@ -2,7 +2,7 @@
 title: "Reducing meat consumption: the case for social marketing"
 date: 2019-11-09 16:14:24
 lastmod: 2019-11-09 16:14:24
-slug: /reducing-meat-consumption-case-social-marketing
+slug: reducing-meat-consumption-case-social-marketing
 description: "Purpose: The purpose of this paper is to explore reasons behind meat consumption. It aims to find out what motivates meat consumers and explore the opportunities of social marketing to counteract negative environmental and health trends. Design/methodology/approach: An exploratory Australian survey of Sydney consumer red meat choices is used covering dietary preferences, meat eating patterns, reasons and levels of concern for economic and environmental issues. Analysis of dietary guidelines and marketing campaigns in relation to the survey findings is conducted."
 excerpt: "Purpose: The purpose of this paper is to explore reasons behind meat consumption. It aims to find out what motivates meat consumers and explore the opportunities of social marketing to counteract negative environmental and health trends. Design/methodology/approach: An exploratory Australian survey of Sydney consumer red meat choices is used covering dietary preferences, meat eating patterns, reasons and levels of concern for economic and environmental issues. Analysis of dietary guidelines and marketing campaigns in relation to the survey findings is conducted."
 resource_type: [academic]

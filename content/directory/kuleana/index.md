@@ -2,7 +2,7 @@
 title: "Kuleana"
 date: 2020-01-15 12:10:39
 lastmod: 2020-01-15 12:10:39
-slug: /kuleana
+slug: kuleana
 description: "Kuleana is a food technology company which creates next generation seafood through the power of plants and biotechnology."
 proteins: [Plant-Based]
 products: [Seafood]

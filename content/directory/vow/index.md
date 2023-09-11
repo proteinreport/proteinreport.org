@@ -2,7 +2,7 @@
 title: "Vow"
 date: 2020-01-23 18:09:57
 lastmod: 2020-01-23 18:09:57
-slug: /vow
+slug: vow
 description: "Vow is, at its core, a food company, powered by a team of technologists, designers and scientists, underpinned by biotechnology breakthroughs.Vow is built around three simple philosophies:- Nature is the ultimate source of inspiration - with food secrets in abundance, waiting to be discovered.- Domesticating the cells of animals, and not the animals themselves, will achieve new heights in flavour, texture, and nutrition.- The future of food can have it all, with no compromise."
 proteins: [Cell-Based]
 products: [Meat]

@@ -2,7 +2,7 @@
 title: "From Cell Culture to Food: Making it a European Reality #1"
 date: 2020-05-06 12:30:23
 lastmod: 2020-05-06 12:30:23
-slug: /cell-culture-food-making-it-european-reality-1
+slug: cell-culture-food-making-it-european-reality-1
 description: "Webinar on the European cellular agriculture scene.Topic 1: The European Cellular Agriculture Scene: who are active now and where are we missing activity? with Alexander HolstTopic 2: Consumer Attitude in Europe and how to frame the debate? with Nathalie Rolland"
 proteins: [Cell-Based]
 products: [Meat, Dairy, Seafood, Ingredients]
@@ -20,6 +20,10 @@ draft: false
 weight: 5000
 uuid: 6814
 ---
-<p>Webinar on the European cellular agriculture scene.</p>
-<p>Topic 1: The European Cellular Agriculture Scene: who are active now and where are we missing activity? with Alexander Holst</p>
-<p>Topic 2: Consumer Attitude in Europe and how to frame the debate? with Nathalie Rolland</p>
+Webinar on the European cellular agriculture scene.
+
+Topic 1: The European Cellular Agriculture Scene: who are active now and
+where are we missing activity? with Alexander Holst
+
+Topic 2: Consumer Attitude in Europe and how to frame the debate? with
+Nathalie Rolland

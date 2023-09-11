@@ -2,7 +2,7 @@
 title: "Future of Protein Production Webinars - Flavour and colour in analogue products"
 date: 2022-06-06 17:39:02
 lastmod: 2022-06-06 17:39:02
-slug: /future-protein-production-webinars-flavour-and-colour-analogue-products
+slug: future-protein-production-webinars-flavour-and-colour-analogue-products
 description: "June 29th, 1:00 pm CET - 3:00 PM CET.In this webinar, we will hear about the latest in colours and flavourings for alternative products. Industry leaders will share their knowledge of current and emerging technologies.This is a free to attend 2-hour webinar. Attendees will have the opportunity to hear from industry experts as well as interact through Q&A sessions and networking slots.Find out more and register for free today."
 proteins: [Cell-Based, Molecular Farming]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

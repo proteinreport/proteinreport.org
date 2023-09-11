@@ -2,7 +2,7 @@
 title: "Startmate"
 date: 2020-06-24 13:46:45
 lastmod: 2020-06-24 13:46:45
-slug: /startmate
+slug: startmate
 description: "The Startmate Accelerator is a 12-week program for startups who are changing the way we work, live and play, and we’re powered by the most successful entrepreneurs and venture capitalists in Australia and New Zealand. Alongside the regular program we run the Climate Cohort, for startups addressing the climate crisis."
 proteins: []
 products: []

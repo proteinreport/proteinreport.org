@@ -2,7 +2,7 @@
 title: "4th Australian Pulse Conference"
 date: 2023-02-02 16:23:12
 lastmod: 2023-02-02 16:23:12
-slug: /4th-australian-pulse-conference
+slug: 4th-australian-pulse-conference
 description: "The first symposium day investigates “Future Food” and will be devoted to developing linkages between agricultural researchers and end-product users such as food manufacturers and international markets. Pulses are uniquely placed to dominate any discussion about protein in a world concerned about sustainability. This “Future Food” focus will be open to single day registrants to encourage broader participation beyond the traditional pulse scientific research community, in particular the domestic food manufacturing industry."
 proteins: [Plant-Based]
 products: [Ingredients]

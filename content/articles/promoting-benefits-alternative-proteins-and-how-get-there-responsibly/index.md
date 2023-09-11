@@ -2,7 +2,7 @@
 title: "Promoting the Benefits of Alternative Proteins and How to Get There Responsibly"
 date: 2021-08-10 14:46:44
 lastmod: 2021-08-10 14:46:44
-slug: /promoting-benefits-alternative-proteins-and-how-get-there-responsibly
+slug: promoting-benefits-alternative-proteins-and-how-get-there-responsibly
 description: "Though opportunity in this space is abundant, government regulators have not yet caught up to the pace of new product innovation. Given the significant implications that new regulations and guidance can have for the alternative protein industry, it is important to ensure that the end results are inclusive and comprehensive."
 excerpt: "Though opportunity in this space is abundant, government regulators have not yet caught up to the pace of new product innovation. Given the significant implications that new regulations and guidance can have for the alternative protein industry, it is important to ensure that the end results are inclusive and comprehensive."
 proteins: [Plant-Based]

@@ -2,7 +2,7 @@
 title: "New Harvest Funds Australian Research on Cell-Based Crayfish Meat"
 date: 2020-10-29 13:40:05
 lastmod: 2020-10-29 13:40:05
-slug: /new-harvest-funds-australian-research-cell-based-crayfish-meat
+slug: new-harvest-funds-australian-research-cell-based-crayfish-meat
 description: "An aquaculture researcher from the University of the Sunshine Coast (USC) has secured a seed grant from US-based research institute New Harvest to develop cell-based crayfish meat."
 excerpt: "An aquaculture researcher from the University of the Sunshine Coast (USC) has secured a seed grant from US-based research institute New Harvest to develop cell-based crayfish meat."
 proteins: [Cell-Based]

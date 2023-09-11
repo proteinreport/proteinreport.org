@@ -2,7 +2,7 @@
 title: "Roka Kakehi"
 date: 2021-10-14 10:56:00
 lastmod: 2021-10-14 10:56:00
-slug: /roka-kakehi
+slug: roka-kakehi
 description: ""
 excerpt: ""
 images: ["roka.jpg"]

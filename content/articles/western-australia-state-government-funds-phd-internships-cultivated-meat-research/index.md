@@ -2,7 +2,7 @@
 title: "Western Australia State Government Funds PhD Internships for Cultivated Meat Research"
 date: 2020-10-06 08:48:00
 lastmod: 2020-10-06 08:48:00
-slug: /western-australia-state-government-funds-phd-internships-cultivated-meat-research
+slug: western-australia-state-government-funds-phd-internships-cultivated-meat-research
 description: "Three late-stage PhD candidates have been accepted into a government-funded industry internship program to undertake cultivated meat research."
 excerpt: "Three late-stage PhD candidates have been accepted into a government-funded industry internship program to undertake cultivated meat research."
 proteins: [Cell-Based]

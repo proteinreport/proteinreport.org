@@ -2,7 +2,7 @@
 title: "Terra Bio"
 date: 2021-08-03 23:20:38
 lastmod: 2021-08-03 23:20:38
-slug: /terra-bio
+slug: terra-bio
 description: "Terra Bio is a Canadian company improving the world’s food security by producing a plant-based protein created from spent grain – a widely accessible resource. Our vision is to supply markets with the most sustainable protein on earth by repurposing agro-food residues, and contribute to Canada's circular economy. Terra Bio’s unique technology (patent pending) converts the spent grain from breweries into a functional plant based protein that can simply be added into food, like meat replacement products."
 proteins: [Plant-Based]
 products: [Ingredients]

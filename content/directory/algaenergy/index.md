@@ -2,7 +2,7 @@
 title: "AlgaEnergy"
 date: 2020-02-21 19:45:55
 lastmod: 2020-02-21 19:45:55
-slug: /algaenergy
+slug: algaenergy
 description: "AlgaEnergy is a biotech company consolidating over 4 decades cutting edge know-how in the field of microalgae."
 proteins: [Algae]
 products: [Ingredients]

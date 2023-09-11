@@ -2,7 +2,7 @@
 title: "Taifun"
 date: 2020-01-23 17:50:58
 lastmod: 2020-01-23 17:50:58
-slug: /taifun
+slug: taifun
 description: "Taifun-Tofu GmbH has been producing organic tofu products for more than 30 years. More than 75 farmers cultivate GMO-free soybeans for the company, on over 1400 hectares of land in Central Europe. To bring their product to market, Taifun-Tofu handles complex processes beginning with growing the soybeans, to supporting farmers, to production and sales."
 proteins: [Plant-Based]
 products: [Meat]

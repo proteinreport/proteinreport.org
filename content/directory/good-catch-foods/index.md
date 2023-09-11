@@ -2,7 +2,7 @@
 title: "Good Catch Foods"
 date: 2019-12-03 19:27:19
 lastmod: 2019-12-03 19:27:19
-slug: /good-catch-foods
+slug: good-catch-foods
 description: "Good Catch is a chef-driven revolutionary food company developing flavorful, 100% plant-based seafood alternatives. Founded by pioneering chefs Chad and Derek Sarno, Good Catch products offer the taste, texture, nutrition, and experience of seafood without harming the environment."
 proteins: [Plant-Based]
 products: [Seafood]

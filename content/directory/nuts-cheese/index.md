@@ -2,7 +2,7 @@
 title: "Nuts For Cheese"
 date: 2020-01-29 21:04:02
 lastmod: 2020-01-29 21:04:02
-slug: /nuts-cheese
+slug: nuts-cheese
 description: "Artisan plant based cashew cheeses made in London, Ontario. Available for purchase at select retailers and grocers across Canada."
 proteins: [Plant-Based]
 products: [Dairy]

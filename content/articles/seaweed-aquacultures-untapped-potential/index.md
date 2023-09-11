@@ -2,7 +2,7 @@
 title: "Seaweed Aquaculture's Untapped Potential"
 date: 2021-10-12 08:33:08
 lastmod: 2021-10-12 08:33:08
-slug: /seaweed-aquacultures-untapped-potential
+slug: seaweed-aquacultures-untapped-potential
 description: "Seaweed is the collective noun for a group of at least 10,000 species of macroalgae, and new species are being discovered each year. Although seaweeds have been consumed for millennia, they’re increasingly (and rightly) viewed as a hero ingredient. With only half a dozen species cultivated at scale right now, seaweed’s potential for the alt-protein industry is only just starting to unfold."
 excerpt: "Seaweed is the collective noun for a group of at least 10,000 species of macroalgae, and new species are being discovered each year. Although seaweeds have been consumed for millennia, they’re increasingly (and rightly) viewed as a hero ingredient. With only half a dozen species cultivated at scale right now, seaweed’s potential for the alt-protein industry is only just starting to unfold."
 proteins: [Algae]

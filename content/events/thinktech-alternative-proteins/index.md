@@ -2,7 +2,7 @@
 title: "ThinkTech! - Alternative Proteins"
 date: 2021-11-13 15:35:50
 lastmod: 2021-11-13 15:35:50
-slug: /thinktech-alternative-proteins
+slug: thinktech-alternative-proteins
 description: "ObjectivesThe ThinkTech! educational programme will enable you to develop skills related to novel food processing technologies focusing on technical aspects, as well as the related soft skills.Thus, your critical thinking on the development of sustainable food technology solutions will be enhanced, so that you are able to appraise unintended consequences like product performance or sustainability implications."
 proteins: [Plant-Based, Microbial]
 products: [Meat, Seafood, Ingredients]

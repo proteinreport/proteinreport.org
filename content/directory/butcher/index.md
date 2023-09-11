@@ -2,7 +2,7 @@
 title: "Before the Butcher"
 date: 2020-01-08 07:28:28
 lastmod: 2020-01-08 07:28:28
-slug: /butcher
+slug: butcher
 description: "Producer of Uncut. A family of Certified 100% plant-based, high in protein, gluten-free and non-GMO Project verified foods that taste amazing. And since Uncut is plant-based, it’s also good for you and the planet."
 proteins: [Plant-Based]
 products: [Meat]

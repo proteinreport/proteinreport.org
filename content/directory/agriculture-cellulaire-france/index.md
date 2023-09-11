@@ -2,7 +2,7 @@
 title: "Agriculture Cellulaire France"
 date: 2020-09-10 12:01:11
 lastmod: 2020-09-10 12:01:11
-slug: /agriculture-cellulaire-france
+slug: agriculture-cellulaire-france
 description: "Agriculture Cellulaire France is a French association whose goal is to inform and stimulate reflection on cellular agriculture. Cellular agriculture allows the production of animal products from cells rather than animals, helping to solve problems associated with factory farming. To accomplish our mission, and with the help of our advisers, we make information available and create synergies between the various players in this emerging sector."
 proteins: [Cell-Based]
 products: []

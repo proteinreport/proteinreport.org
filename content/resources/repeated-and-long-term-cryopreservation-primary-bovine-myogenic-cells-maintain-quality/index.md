@@ -2,7 +2,7 @@
 title: "Repeated and long-term cryopreservation of primary bovine myogenic cells to maintain quality in biomimetic cultured meat"
 date: 2023-04-17 07:09:30
 lastmod: 2023-04-17 07:09:30
-slug: /repeated-and-long-term-cryopreservation-primary-bovine-myogenic-cells-maintain-quality
+slug: repeated-and-long-term-cryopreservation-primary-bovine-myogenic-cells-maintain-quality
 description: "Cultured meat produced using cell culture technology can potentially alleviate many of the ethical, environmental, and public health concerns associated with conventional livestock meat production. The industrialization of cultured meat for wide-spread adoption requires new methods to efficiently collect high-quality cells and to preserve their cell quality. Cryopreservation is a widely used technique to enable the long-term storage of cells without causing severe damage."
 excerpt: "Cultured meat produced using cell culture technology can potentially alleviate many of the ethical, environmental, and public health concerns associated with conventional livestock meat production. The industrialization of cultured meat for wide-spread adoption requires new methods to efficiently collect high-quality cells and to preserve their cell quality. Cryopreservation is a widely used technique to enable the long-term storage of cells without causing severe damage."
 proteins: [Cell-Based]

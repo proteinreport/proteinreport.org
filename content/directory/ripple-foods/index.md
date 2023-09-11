@@ -2,7 +2,7 @@
 title: "Ripple Foods"
 date: 2020-01-08 09:40:42
 lastmod: 2020-01-08 09:40:42
-slug: /ripple-foods
+slug: ripple-foods
 description: "Berkeley-based Ripple Foods is a leader in developing innovative and delicious non-dairy products. Ripple products are powered by Ripptein, the purest plant protein on Earth."
 proteins: [Plant-Based]
 products: [Dairy]

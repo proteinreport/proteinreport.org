@@ -2,7 +2,7 @@
 title: "Manus Bio"
 date: 2020-01-23 18:20:46
 lastmod: 2020-01-23 18:20:46
-slug: /manus-bio
+slug: manus-bio
 description: "Manus Bio recreates plant processes in microorganisms to produce natural ingredients through fermentation. The microbial platform has been optimized to convert inexpensive carbon and plant-derived substrates into rare and expensive ingredients with applications as flavors, fragrances, food ingredients, cosmetics, vitamins, pharmaceuticals and agricultural chemicals. Ultimately, the technology provides a low-cost, sustainable, and environmentally-friendly source for many ingredients used in daily lives."
 proteins: [Plant-Based]
 products: [Ingredients]

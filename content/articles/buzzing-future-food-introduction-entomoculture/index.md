@@ -2,7 +2,7 @@
 title: "The Buzzing Future of Food: An Introduction to Entomoculture"
 date: 2020-08-06 13:48:13
 lastmod: 2020-08-06 13:48:13
-slug: /buzzing-future-food-introduction-entomoculture
+slug: buzzing-future-food-introduction-entomoculture
 description: "Cultured insect meat products might look more like normal burgers and steaks than you’d expect. But what is entomoculture, why might we need it, how does it work, and who’s leading the research? Prodigious young science writer and New Harvest summer intern, Avery Parkinson, answers all your questions."
 excerpt: "Cultured insect meat products might look more like normal burgers and steaks than you’d expect. But what is entomoculture, why might we need it, how does it work, and who’s leading the research? Prodigious young science writer and New Harvest summer intern, Avery Parkinson, answers all your questions."
 proteins: [Cell-Based, Insect]

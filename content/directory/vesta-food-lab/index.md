@@ -2,7 +2,7 @@
 title: "Vesta Food Lab"
 date: 2021-04-19 11:39:17
 lastmod: 2021-04-19 11:39:17
-slug: /vesta-food-lab
+slug: vesta-food-lab
 description: "Vesta Food Lab, based in Beijing, creates plant-based meat products by recombining carefully selected local vegetable proteins which simulate the aroma and color of animal meat, and optimize nutritional composition."
 proteins: [Plant-Based]
 products: [Meat]

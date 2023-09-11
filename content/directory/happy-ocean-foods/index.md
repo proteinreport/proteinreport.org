@@ -2,7 +2,7 @@
 title: "Happy Ocean Foods"
 date: 2020-06-18 11:57:42
 lastmod: 2020-06-18 11:57:42
-slug: /happy-ocean-foods
+slug: happy-ocean-foods
 description: "In order to restore the ecological balance in the oceans, Happy Ocean Foods develops tasty, healthy and sustainable plant-based seafood. The first product is a plant based shrimp, which looks, feels and tastes similarly to a real shrimp and is rich in protein and omega-3 fatty acids."
 proteins: [Plant-Based]
 products: [Seafood]

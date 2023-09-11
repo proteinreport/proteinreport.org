@@ -2,7 +2,7 @@
 title: "Global report on the state of dietary data"
 date: 2022-03-17 10:55:34
 lastmod: 2022-03-17 10:55:34
-slug: /global-report-state-dietary-data
+slug: global-report-state-dietary-data
 description: "This joint FAO and Intake publication is the first ever Global report on the state of dietary data.  The purpose of the report is to take stock and celebrate the collection and use of dietary data in LMICs, while generating further momentum for investment in dietary surveys."
 excerpt: "This joint FAO and Intake publication is the first ever Global report on the state of dietary data.  The purpose of the report is to take stock and celebrate the collection and use of dietary data in LMICs, while generating further momentum for investment in dietary surveys."
 proteins: [Animal]

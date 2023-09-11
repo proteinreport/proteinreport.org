@@ -2,7 +2,7 @@
 title: "Purple Orange Ventures"
 date: 2020-06-16 16:49:35
 lastmod: 2020-06-16 16:49:35
-slug: /purple-orange-ventures
+slug: purple-orange-ventures
 description: "POV is an entrepreneur-led impact seed fund based in Berlin.  We back mission-driven founders leveraging science & technology to solve some of the world's most pressing challenges.  We seek early-stage teams across the globe devoted to removing animals from the global food system and sustainably feeding the world."
 proteins: []
 products: []

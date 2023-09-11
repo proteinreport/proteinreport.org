@@ -2,7 +2,7 @@
 title: "BioCraft Pet Nutrition"
 date: 2020-01-23 18:10:00
 lastmod: 2020-01-23 18:10:00
-slug: /biocraft-pet-nutrition
+slug: biocraft-pet-nutrition
 description: "BioCraft Pet Nutrition (previously Because Animals), founded in 2016, is the first and only biotech company to create meat-based pet food that doesn’t come at the expense of slaughtering other animals. In 2021, BioCraft introduced the first cultured meat product for the pet trade—cat treats made from mouse cells—a milestone for the company and the entire industry."
 proteins: [Cell-Based]
 products: [Meat, Pet Food]

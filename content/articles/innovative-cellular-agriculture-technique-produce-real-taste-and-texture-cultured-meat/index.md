@@ -2,7 +2,7 @@
 title: "Innovative Cellular Agriculture Technique to Produce Real Taste and Texture in Cultured Meat"
 date: 2021-11-03 08:55:10
 lastmod: 2021-11-03 08:55:10
-slug: /innovative-cellular-agriculture-technique-produce-real-taste-and-texture-cultured-meat
+slug: innovative-cellular-agriculture-technique-produce-real-taste-and-texture-cultured-meat
 description: "This essay is third-place winner of the Student Essay Contest 2021. Rahul Harshath Elangovan is a master’s degree student in the Department of Food Science at the University of Melbourne."
 excerpt: "This essay is third-place winner of the Student Essay Contest 2021. Rahul Harshath Elangovan is a master’s degree student in the Department of Food Science at the University of Melbourne."
 proteins: [Cell-Based, Algae]

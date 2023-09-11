@@ -2,7 +2,7 @@
 title: "International Scientific Conference on Cultured Meat"
 date: 2023-03-30 09:12:22
 lastmod: 2023-03-30 09:12:22
-slug: /international-scientific-conference-cultured-meat
+slug: international-scientific-conference-cultured-meat
 description: "NA"
 proteins: [Cell-Based]
 products: [Meat, Seafood]

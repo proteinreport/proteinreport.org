@@ -2,7 +2,7 @@
 title: "Cultivated Meat and Alt Proteins Week Events"
 date: 2022-08-09 05:32:04
 lastmod: 2022-08-09 05:32:04
-slug: /cultivated-meat-and-alt-proteins-week-events
+slug: cultivated-meat-and-alt-proteins-week-events
 description: "Monday, September 12, 8:30am-5:00pm PT: Cultured Meat and Alternative Proteins Summit (in-person and virtual attendance options).  Learn more about this cutting-edge field from leaders in academia, government, and private industry who, together, are advancing research and development to break down the barriers to commercialization.Register here by 9/9/22: https://registration.ucdavis.edu/Item/Details/860"
 proteins: [Cell-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

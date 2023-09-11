@@ -2,7 +2,7 @@
 title: "Global Retail Giant Carrefour Launches HEROTEIN’s Plant-based Meat Products, as Alternative Protein Category Continues to Grow"
 date: 2022-11-24 09:08:31
 lastmod: 2022-11-24 09:08:31
-slug: /global-retail-giant-carrefour-launches-heroteins-plant-based-meat-products-alternative
+slug: global-retail-giant-carrefour-launches-heroteins-plant-based-meat-products-alternative
 company: 8412
 description: "Shanghai-based plant-based meat company HEROTEIN’s plant-based chicken, beef, and ready-to-eat meals have landed on Carrefour shelves, as the only brand for this leading retailer."
 excerpt: "Shanghai-based plant-based meat company HEROTEIN’s plant-based chicken, beef, and ready-to-eat meals have landed on Carrefour shelves, as the only brand for this leading retailer."

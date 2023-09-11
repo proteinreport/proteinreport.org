@@ -2,7 +2,7 @@
 title: "Spanish Food Tech Keeps Growing in 2022"
 date: 2022-12-21 12:27:18
 lastmod: 2022-12-21 12:27:18
-slug: /spanish-food-tech-keeps-growing-2022
+slug: spanish-food-tech-keeps-growing-2022
 company: 10963
 description: "Eatable Adventures presents data from its annual report \"The State of Foodtech in Spain 2022\""
 excerpt: "Eatable Adventures presents data from its annual report \"The State of Foodtech in Spain 2022\""

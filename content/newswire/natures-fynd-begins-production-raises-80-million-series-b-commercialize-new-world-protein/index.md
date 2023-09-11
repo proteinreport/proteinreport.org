@@ -2,7 +2,7 @@
 title: "Nature’s Fynd Begins Production, Raises $80 Million Series B to Commercialize a New-to-the-World Protein"
 date: 2020-03-24 10:31:53
 lastmod: 2020-03-24 10:31:53
-slug: /natures-fynd-begins-production-raises-80-million-series-b-commercialize-new-world-protein
+slug: natures-fynd-begins-production-raises-80-million-series-b-commercialize-new-world-protein
 company: 5861
 description: "Generation Investment Management and Breakthrough Energy Ventures co-lead investment in alternative meat and dairy company"
 excerpt: "Generation Investment Management and Breakthrough Energy Ventures co-lead investment in alternative meat and dairy company"

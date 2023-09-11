@@ -2,7 +2,7 @@
 title: "Food Innovation & Investment Summit"
 date: 2022-01-12 11:49:09
 lastmod: 2022-01-12 11:49:09
-slug: /food-innovation-investment-summit
+slug: food-innovation-investment-summit
 description: "With a focus on showcasing future food innovations, the Food Innovation & Investment Summit aims to bring key players within the food industry together to discuss leading macro food trends that are shaping the future of the industry - from scaling innovative foods to understanding what makes an attractive investment opportunity for investors."
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Ingredients]

@@ -2,7 +2,7 @@
 title: "Osprey Biotechnics"
 date: 2020-01-23 18:20:46
 lastmod: 2020-01-23 18:20:46
-slug: /osprey-biotechnics
+slug: osprey-biotechnics
 description: "Osprey Biotechnics' sole business is industrial microbiology. Osprey Biotechnics is an expert in isolating, characterizing, growing, and stabilizing beneficial bacteria. The company is producing high quality custom culture concentrates through toll manufacturing of client's proprietary strains. Osprey also markets its own innovative microbial products by forming strategic alliances with market leaders in their respective fields."
 proteins: [Microbial]
 products: [Ingredients]

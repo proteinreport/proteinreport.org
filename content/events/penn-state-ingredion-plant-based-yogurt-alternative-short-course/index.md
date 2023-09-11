@@ -2,7 +2,7 @@
 title: "Penn State-Ingredion Plant-Based Yogurt Alternative Short Course"
 date: 2021-01-22 19:38:28
 lastmod: 2021-01-22 19:38:28
-slug: /penn-state-ingredion-plant-based-yogurt-alternative-short-course
+slug: penn-state-ingredion-plant-based-yogurt-alternative-short-course
 description: "In this 3-day virtual short course, the class participants will be able to understand the difference and challenges in formulating yogurt alternatives versus traditional yogurts, understand the breadth and functionality or plant-proteins that are available for formulation, and take away a toolbox of solutions to formulating and processing in the yogurt alternative space."
 proteins: [Plant-Based]
 products: [Dairy]
@@ -20,4 +20,9 @@ draft: false
 weight: 5000
 uuid: 8320
 ---
-<p>In this 3-day virtual short course, the class participants will be able to understand the difference and challenges in formulating yogurt alternatives versus traditional yogurts, understand the breadth and functionality or plant-proteins that are available for formulation, and take away a toolbox of solutions to formulating and processing in the yogurt alternative space.</p>
+In this 3-day virtual short course, the class participants will be able
+to understand the difference and challenges in formulating yogurt
+alternatives versus traditional yogurts, understand the breadth and
+functionality or plant-proteins that are available for formulation, and
+take away a toolbox of solutions to formulating and processing in the
+yogurt alternative space.

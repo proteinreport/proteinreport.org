@@ -2,7 +2,7 @@
 title: "Boca"
 date: 2020-01-06 12:12:22
 lastmod: 2020-01-06 12:12:22
-slug: /boca
+slug: boca
 description: "Boca, strives to bring delicious and convenient plant-based eats. They offer and vegetarian patties, bowls, nuggets, crumbles, falafels, and skillet meals are packed with flavor for are as delicious as they are easy to prepare."
 proteins: [Plant-Based]
 products: [Meat]

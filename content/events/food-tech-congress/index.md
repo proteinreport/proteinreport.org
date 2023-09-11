@@ -2,7 +2,7 @@
 title: "Food Tech Congress"
 date: 2022-03-21 07:47:54
 lastmod: 2022-03-21 07:47:54
-slug: /food-tech-congress
+slug: food-tech-congress
 description: "The annual Food Tech Congress is where innovation thrives, bold ideas spark and business gets done. In two action-packed days, we host the most prominent food tech entrepreneurs, innovators, investors, and government leaders from all around the globe to solve the most pressing challenges of the industry."
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

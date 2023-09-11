@@ -2,7 +2,7 @@
 title: "Vegetarian Plus"
 date: 2020-01-23 17:50:34
 lastmod: 2020-01-23 17:50:34
-slug: /vegetarian-plus
+slug: vegetarian-plus
 description: "Vegetarian Plus is the premier product line of VegeUSA, an American corporation headquartered in Monrovia, California."
 proteins: [Plant-Based]
 products: [Meat, Seafood]

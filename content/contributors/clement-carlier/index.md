@@ -2,7 +2,7 @@
 title: "Clément Carlier"
 date: 2020-12-14 13:12:47
 lastmod: 2020-12-14 13:12:47
-slug: /clement-carlier
+slug: clement-carlier
 description: "Clément Carlier is the COO and co-founder of Tiamat Sciences."
 excerpt: "Clément Carlier is the COO and co-founder of Tiamat Sciences."
 images: ["cc.jpg"]

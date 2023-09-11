@@ -2,7 +2,7 @@
 title: "Asian Cropportunities"
 date: 2020-12-07 15:06:37
 lastmod: 2020-12-07 15:06:37
-slug: /asian-cropportunities
+slug: asian-cropportunities
 description: "A comprehensive summary of the many lucrative opportunities for Asian nations to supply raw materials for plant-based meat production."
 excerpt: "A comprehensive summary of the many lucrative opportunities for Asian nations to supply raw materials for plant-based meat production."
 proteins: [Plant-Based]

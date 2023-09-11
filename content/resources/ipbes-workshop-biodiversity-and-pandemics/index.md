@@ -2,7 +2,7 @@
 title: "IPBES Workshop on Biodiversity and Pandemics"
 date: 2020-11-01 09:40:15
 lastmod: 2020-11-01 09:40:15
-slug: /ipbes-workshop-biodiversity-and-pandemics
+slug: ipbes-workshop-biodiversity-and-pandemics
 description: "Future pandemics will emerge more often, spread more rapidly, do more damage to the world economy and kill more people than COVID-19 unless there is a transformative change in the global approach to dealing with infectious diseases, warns a major new report on biodiversity and pandemics by 22 leading experts from around the world."
 excerpt: "Future pandemics will emerge more often, spread more rapidly, do more damage to the world economy and kill more people than COVID-19 unless there is a transformative change in the global approach to dealing with infectious diseases, warns a major new report on biodiversity and pandemics by 22 leading experts from around the world."
 proteins: [Animal]

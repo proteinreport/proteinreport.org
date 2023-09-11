@@ -2,7 +2,7 @@
 title: "Livalta"
 date: 2021-11-09 14:07:48
 lastmod: 2021-11-09 14:07:48
-slug: /livalta
+slug: livalta
 description: "We responsibly source and produce local, traceable proteins and transform them into functional, protein-rich feed and food ingredients using the latest scientific and technological innovations. Our high performance protein ingredients don’t just provide excellent nutrition, they also offer additional functionality; boosting performance and optimising wellbeing by supporting the healthy development of people and animals."
 proteins: [Plant-Based, Microbial, Algae]
 products: [Ingredients, Feed]

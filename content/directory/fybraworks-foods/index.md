@@ -2,7 +2,7 @@
 title: "Fybraworks Foods"
 date: 2022-02-21 11:59:20
 lastmod: 2022-02-21 11:59:20
-slug: /fybraworks-foods
+slug: fybraworks-foods
 description: "Fybraworks develops animal-free fermentation-based meat alternatives to help food ingredient companies and pet food companies formulate affordable and tasty meat alternatives by combining natural texture of fungi as well as nutrition from tailored muscle proteins."
 proteins: [Microbial, Fungi]
 products: [Meat, Pet Food, Ingredients]

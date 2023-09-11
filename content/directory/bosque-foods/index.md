@@ -2,7 +2,7 @@
 title: "Bosque Foods"
 date: 2022-02-21 14:28:35
 lastmod: 2022-02-21 14:28:35
-slug: /bosque-foods
+slug: bosque-foods
 description: "At Bosque Foods, we envision a world in which our future generations can prosper and thrive, without compromising the health of our planet. Our mission is to create better-than-meat products that deliver on the entire taste experience, nutrition, and price of traditional meat without compromise. Our solution is to create the best clean-image, minimally processed whole-cut meat and fish alternatives grown naturally from fungal mycelium."
 proteins: [Fungi]
 products: [Meat]

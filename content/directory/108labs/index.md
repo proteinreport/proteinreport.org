@@ -2,7 +2,7 @@
 title: "108Labs"
 date: 2021-03-08 17:20:18
 lastmod: 2021-03-08 17:20:18
-slug: /108labs
+slug: 108labs
 description: "108Labs is pioneering mammary cell agriculture and secretory antibodies for development of Colostrupedics™ whole-human infant formula with secretory IgA."
 proteins: [Cell-Based]
 products: [Dairy]

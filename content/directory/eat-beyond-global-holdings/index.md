@@ -2,7 +2,7 @@
 title: "Eat Beyond Global Holdings"
 date: 2020-11-16 09:33:31
 lastmod: 2020-11-16 09:33:31
-slug: /eat-beyond-global-holdings
+slug: eat-beyond-global-holdings
 description: "Eat Beyond Global Holdings is an investment issuer that identifies and makes equity investments in global companies that are developing and commercializing innovative food tech as well as plant-based and alternative food products."
 proteins: []
 products: []

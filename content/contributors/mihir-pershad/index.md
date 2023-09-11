@@ -2,7 +2,7 @@
 title: "Mihir Pershad"
 date: 2020-12-14 13:30:22
 lastmod: 2020-12-14 13:30:22
-slug: /mihir-pershad
+slug: mihir-pershad
 description: ""
 excerpt: ""
 images: ["mp.jpg"]

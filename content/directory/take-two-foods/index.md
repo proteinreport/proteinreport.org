@@ -2,7 +2,7 @@
 title: "Take Two Foods"
 date: 2020-06-15 13:17:56
 lastmod: 2020-06-15 13:17:56
-slug: /take-two-foods
+slug: take-two-foods
 description: "Take Two Foods is a plant-based food and beverage company committed to creating second chances for our health and the planet. Take Two makes it easier and exciting for consumers to eat a more plant-rich diet by providing the best plant-based products found anywhere."
 proteins: [Plant-Based]
 products: [Dairy]

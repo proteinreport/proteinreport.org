@@ -2,7 +2,7 @@
 title: "Sea-Stematic"
 date: 2021-06-01 11:23:03
 lastmod: 2021-06-01 11:23:03
-slug: /sea-stematic
+slug: sea-stematic
 description: "Sea-Stematic is a frontier food company focused on manufacturing cell-based seafood. They are committed to satisfying the global consumer demand for fish, while addressing broader climatic and health issues. Their integrity to deliver great tasting, quality and nutritionally superior seafood products is further defined by partnering with leading scientists and stakeholders to achieve this sustainably."
 proteins: [Cell-Based]
 products: [Seafood]

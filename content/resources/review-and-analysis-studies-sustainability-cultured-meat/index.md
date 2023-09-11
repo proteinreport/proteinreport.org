@@ -2,7 +2,7 @@
 title: "Review and analysis of studies on sustainability of cultured meat"
 date: 2022-03-01 19:37:45
 lastmod: 2022-03-01 19:37:45
-slug: /review-and-analysis-studies-sustainability-cultured-meat
+slug: review-and-analysis-studies-sustainability-cultured-meat
 description: "Protein alternatives are crucial for a sustainable food production in future. Cultured meat is presented as a good alternative for consumers who want to be more sustainable but do not wish to change their diet. To validate this sustainability claim, this report evaluates four LCA studies on cultured meat."
 excerpt: "Protein alternatives are crucial for a sustainable food production in future. Cultured meat is presented as a good alternative for consumers who want to be more sustainable but do not wish to change their diet. To validate this sustainability claim, this report evaluates four LCA studies on cultured meat."
 proteins: [Cell-Based]

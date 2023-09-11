@@ -2,7 +2,7 @@
 title: "Alpha Foods"
 date: 2020-01-08 07:40:37
 lastmod: 2020-01-08 07:40:37
-slug: /alpha-foods
+slug: alpha-foods
 description: "A producer of plant-based, protein-packed, convenient foods that make delicious meals for every lifestyle."
 proteins: [Plant-Based]
 products: [Meat]

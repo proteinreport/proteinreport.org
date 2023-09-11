@@ -2,7 +2,7 @@
 title: "2nd EU Sustainable Plant Protein & Fermentation Solutions"
 date: 2023-06-28 03:22:18
 lastmod: 2023-06-28 03:22:18
-slug: /2nd-eu-sustainable-plant-protein-fermentation-solutions
+slug: 2nd-eu-sustainable-plant-protein-fermentation-solutions
 description: "Sustainability is a crucial component underpinning the plant-based trendConsumers are increasingly asking for clean label credentials, traceability of the product supply chain, nutrition & environmental impact of the products they consume."
 proteins: [Plant-Based, Microbial, Fungi]
 products: [Ingredients]

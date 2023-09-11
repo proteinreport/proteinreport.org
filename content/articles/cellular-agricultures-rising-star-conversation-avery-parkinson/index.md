@@ -2,7 +2,7 @@
 title: "Cellular Agriculture's Rising Star: A Conversation With Avery Parkinson"
 date: 2021-09-21 09:29:21
 lastmod: 2021-09-21 09:29:21
-slug: /cellular-agricultures-rising-star-conversation-avery-parkinson
+slug: cellular-agricultures-rising-star-conversation-avery-parkinson
 description: "Every now and again a young person comes along whose intellect and wisdom seem to defy their age. Over the past year, we’ve had the privilege of working closely with one such individual. If you haven’t yet heard of her, you probably soon will. Meet cellular agriculture’s rising star, Avery Parkinson."
 excerpt: "Every now and again a young person comes along whose intellect and wisdom seem to defy their age. Over the past year, we’ve had the privilege of working closely with one such individual. If you haven’t yet heard of her, you probably soon will. Meet cellular agriculture’s rising star, Avery Parkinson."
 proteins: [Cell-Based]

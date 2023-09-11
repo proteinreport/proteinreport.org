@@ -2,7 +2,7 @@
 title: "The Better Meat Co."
 date: 2020-01-08 08:57:06
 lastmod: 2020-01-08 08:57:06
-slug: /better-meat-co
+slug: better-meat-co
 description: "The Better Meat Co. is a business-to-business company helping food-sellers boost their meat products by using less meat and more plants. In short, we provide innovative plant protein formulas for foodservice providers and meat processors to make their meat, in a word, better. Our various lines of delicious plant proteins blend seamlessly into ground meat products, enabling our customers to enhance taste, nutrition, and sustainability, all in a cost-competitive way."
 proteins: [Plant-Based, Fungi]
 products: [Meat]

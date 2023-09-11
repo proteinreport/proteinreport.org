@@ -2,7 +2,7 @@
 title: "Sustainable Plant Based Protein & Fermentation Solutions EU"
 date: 2022-07-29 07:45:34
 lastmod: 2022-07-29 07:45:34
-slug: /sustainable-plant-based-protein-fermentation-solutions-eu
+slug: sustainable-plant-based-protein-fermentation-solutions-eu
 description: "Promising proteins from fava beans, mycelium, sunflower to algae - Taste, texturisation & supply challengesShift towards plant-based & meat alternatives protein continues to play a major role in human nutrition. A wider variety by alternative proteins, new ingredients and production methods are constantly developed  to mimic the taste, texture and consistency.     "
 proteins: [Plant-Based, Microbial, Molecular Farming, Algae, Fungi, Insect, Animal]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

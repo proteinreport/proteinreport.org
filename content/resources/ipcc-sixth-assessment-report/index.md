@@ -2,7 +2,7 @@
 title: "IPCC Sixth Assessment Report"
 date: 2022-03-02 10:01:01
 lastmod: 2022-03-02 10:01:01
-slug: /ipcc-sixth-assessment-report
+slug: ipcc-sixth-assessment-report
 description: "The Working Group II contribution to the IPCC Sixth Assessment Report assesses the impacts of climate change, looking at ecosystems, biodiversity, and human communities at global and regional levels. It also reviews vulnerabilities and the capacities and limits of the natural world and human societies to adapt to climate change."
 excerpt: "The Working Group II contribution to the IPCC Sixth Assessment Report assesses the impacts of climate change, looking at ecosystems, biodiversity, and human communities at global and regional levels. It also reviews vulnerabilities and the capacities and limits of the natural world and human societies to adapt to climate change."
 proteins: [Cell-Based, Plant-Based, Animal]

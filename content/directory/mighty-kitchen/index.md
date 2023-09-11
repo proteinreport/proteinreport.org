@@ -2,7 +2,7 @@
 title: "The Mighty Kitchen"
 date: 2020-01-23 17:50:43
 lastmod: 2020-01-23 17:50:43
-slug: /mighty-kitchen
+slug: mighty-kitchen
 description: "The Mighty Kitchen is a food technology company using data modelling and materials chemistry to make delicious, fibrous, plant-based poultry products and ingredients."
 proteins: [Plant-Based]
 products: [Meat]

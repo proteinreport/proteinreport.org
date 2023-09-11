@@ -2,7 +2,7 @@
 title: "Engineered whole cut meat-like tissue by the assembly of cell fibers using tendon-gel integrated bioprinting"
 date: 2021-08-31 14:13:40
 lastmod: 2021-08-31 14:13:40
-slug: /engineered-whole-cut-meat-tissue-assembly-cell-fibers-using-tendon-gel-integrated
+slug: engineered-whole-cut-meat-tissue-assembly-cell-fibers-using-tendon-gel-integrated
 description: "With the current interest in cultured meat, mammalian cell-based meat has mostly been unstructured. There is thus still a high demand for artificial steak-like meat. We demonstrate in vitro construction of engineered steak-like tissue assembled of three types of bovine cell fibers (muscle, fat, and vessel). Because actual meat is an aligned assembly of the fibers connected to the tendon for the actions of contraction and relaxation, tendon-gel integrated bioprinting was developed to construct tendon-like gels."
 excerpt: "With the current interest in cultured meat, mammalian cell-based meat has mostly been unstructured. There is thus still a high demand for artificial steak-like meat. We demonstrate in vitro construction of engineered steak-like tissue assembled of three types of bovine cell fibers (muscle, fat, and vessel). Because actual meat is an aligned assembly of the fibers connected to the tendon for the actions of contraction and relaxation, tendon-gel integrated bioprinting was developed to construct tendon-like gels."
 proteins: [Cell-Based]

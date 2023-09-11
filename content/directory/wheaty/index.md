@@ -2,7 +2,7 @@
 title: "Wheaty"
 date: 2020-01-23 17:50:58
 lastmod: 2020-01-23 17:50:58
-slug: /wheaty
+slug: wheaty
 description: "Wheaty is a range of organic, plant-based meat analogs based on wheat gluten, taking further the Asian tradition of seitan. Produced in Germany, Wheaty products are available in many organic shops throughout Europe."
 proteins: [Plant-Based]
 products: [Meat]

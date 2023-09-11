@@ -2,7 +2,7 @@
 title: "Kojo"
 date: 2020-01-23 17:50:54
 lastmod: 2020-01-23 17:50:54
-slug: /kojo
+slug: kojo
 description: "Kojo was created so people could still savor the meaty jerky taste they love, without sacrificing the values. That’s the future of jerky."
 proteins: [Plant-Based]
 products: [Meat]

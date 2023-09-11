@@ -2,7 +2,7 @@
 title: "Leaders in Alternative Protein: A Virtual Panel"
 date: 2021-04-20 07:12:04
 lastmod: 2021-04-20 07:12:04
-slug: /leaders-alternative-protein-virtual-panel
+slug: leaders-alternative-protein-virtual-panel
 description: "Join us to discuss trends in food biotechnology as we move towards a more sustainable food system. Our speakers will share their experiences in the alternative protein industry, the challenges they face, and our role in accelerating the switch to a more sustainable future."
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Dairy]
@@ -20,4 +20,7 @@ draft: false
 weight: 5000
 uuid: 8815
 ---
-<p>Join us to discuss trends in food biotechnology as we move towards a more sustainable food system. Our speakers will share their experiences in the alternative protein industry, the challenges they face, and our role in accelerating the switch to a more sustainable future.</p>
+Join us to discuss trends in food biotechnology as we move towards a
+more sustainable food system. Our speakers will share their experiences
+in the alternative protein industry, the challenges they face, and our
+role in accelerating the switch to a more sustainable future.

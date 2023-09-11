@@ -2,7 +2,7 @@
 title: "Closing the Loop: Cellular Agriculture Meets the Circular Economy"
 date: 2021-08-11 12:45:26
 lastmod: 2021-08-11 12:45:26
-slug: /closing-loop-cellular-agriculture-meets-circular-economy
+slug: closing-loop-cellular-agriculture-meets-circular-economy
 description: "“Many other industries use a linear model — take, make, use, and dispose — which is clearly unsustainable. Once a supply chain is established,” says New Harvest Research Fellow Dawne Skinner, “it is essentially locked in because it is too costly to reconfigure. Given that the cell-based industry is nascent, we are in the stage of initiating a new supply chain. My research aims to figure out how we can start this supply chain off on the right foot.”"
 excerpt: "“Many other industries use a linear model — take, make, use, and dispose — which is clearly unsustainable. Once a supply chain is established,” says New Harvest Research Fellow Dawne Skinner, “it is essentially locked in because it is too costly to reconfigure. Given that the cell-based industry is nascent, we are in the stage of initiating a new supply chain. My research aims to figure out how we can start this supply chain off on the right foot.”"
 proteins: [Cell-Based]

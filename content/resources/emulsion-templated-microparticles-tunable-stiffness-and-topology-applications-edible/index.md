@@ -2,7 +2,7 @@
 title: "Emulsion-templated microparticles with tunable stiffness and topology: Applications as edible microcarriers for cultured meat"
 date: 2022-08-05 14:41:02
 lastmod: 2022-08-05 14:41:02
-slug: /emulsion-templated-microparticles-tunable-stiffness-and-topology-applications-edible
+slug: emulsion-templated-microparticles-tunable-stiffness-and-topology-applications-edible
 description: "Cultured meat has potential to diversify methods for protein production, but innovations in production efficiency will be required to make cultured meat a feasible protein alternative. Microcarriers provide a strategy to culture sufficient volumes of adherent cells in a bioreactor that are required for meat products. However, cell culture on inedible microcarriers involves extra downstream processing to dissociate cells prior to consumption. Here, we present edible microcarriers that can support the expansion and differentiation of myogenic cells in a single bioreactor system."
 excerpt: "Cultured meat has potential to diversify methods for protein production, but innovations in production efficiency will be required to make cultured meat a feasible protein alternative. Microcarriers provide a strategy to culture sufficient volumes of adherent cells in a bioreactor that are required for meat products. However, cell culture on inedible microcarriers involves extra downstream processing to dissociate cells prior to consumption. Here, we present edible microcarriers that can support the expansion and differentiation of myogenic cells in a single bioreactor system."
 proteins: [Cell-Based]

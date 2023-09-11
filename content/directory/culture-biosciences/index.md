@@ -2,7 +2,7 @@
 title: "Culture Biosciences"
 date: 2020-01-23 18:20:48
 lastmod: 2020-01-23 18:20:48
-slug: /culture-biosciences
+slug: culture-biosciences
 description: "Our vision of Culture Biosciences is to make biomanufacturing a digital experience, the company is making running bioreactors as easy as running code in a data center. They have developed a digital biomanufacturing platform to enable scientists to run, monitor and analyze bioreactors faster and more conveniently than traditional approaches. The have built it from the ground up by integrating automated bioreactors, robotic sample handling, and cloud data monitoring and analysis."
 proteins: [Cell-Based]
 products: [Technology & Equipment]

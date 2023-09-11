@@ -2,7 +2,7 @@
 title: "Enzymit Partners with Aleph Farms to Reduce Production Costs and Shorten Time-to-Market for Cultivated Meat"
 date: 2023-05-16 12:30:00
 lastmod: 2023-05-16 12:30:00
-slug: /enzymit-partners-aleph-farms-reduce-production-costs-and-shorten-time-market-cultivated
+slug: enzymit-partners-aleph-farms-reduce-production-costs-and-shorten-time-market-cultivated
 company_name: "Enzymit"
 company_link: "https://www.enzymit.com/"
 description: "Enzymit Employs AI and Deep Learning to Develop Novel Insulin Substituents as Processing Aids for Cost-Efficient Cultivated Meat Production"

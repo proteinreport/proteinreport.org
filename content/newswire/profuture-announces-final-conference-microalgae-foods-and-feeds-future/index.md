@@ -2,7 +2,7 @@
 title: "ProFuture Announces Final Conference: Microalgae for the Foods and Feeds of the Future"
 date: 2023-07-17 08:37:16
 lastmod: 2023-07-17 08:37:16
-slug: /profuture-announces-final-conference-microalgae-foods-and-feeds-future
+slug: profuture-announces-final-conference-microalgae-foods-and-feeds-future
 company: 7873
 description: "ProFuture, an EU-funded project belonging to the Horizon 2020 program, focused on advancing the potential of microalgae proteins in Europe, is delighted to announce its final conference titled \"Microalgae for the Foods and Feeds of the Future.\""
 excerpt: "ProFuture, an EU-funded project belonging to the Horizon 2020 program, focused on advancing the potential of microalgae proteins in Europe, is delighted to announce its final conference titled \"Microalgae for the Foods and Feeds of the Future.\""

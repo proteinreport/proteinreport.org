@@ -2,7 +2,7 @@
 title: "Exploring factors determining German consumers’ intention to eat meat alternatives"
 date: 2022-05-03 11:56:58
 lastmod: 2022-05-03 11:56:58
-slug: /exploring-factors-determining-german-consumers-intention-eat-meat-alternatives
+slug: exploring-factors-determining-german-consumers-intention-eat-meat-alternatives
 description: "A growing number of consumers indicate that they are reducing the amount of meat they eat or are completely abstaining from meat consumption. Some of them have partly shifted to meat substitutes. In order to gain insights into the factors determining the decision to eat or not to eat meat alternatives, the present study extends the Theory of Planned Behavior (TPB) with three factors: animal welfare, environmental and health concerns."
 excerpt: "A growing number of consumers indicate that they are reducing the amount of meat they eat or are completely abstaining from meat consumption. Some of them have partly shifted to meat substitutes. In order to gain insights into the factors determining the decision to eat or not to eat meat alternatives, the present study extends the Theory of Planned Behavior (TPB) with three factors: animal welfare, environmental and health concerns."
 proteins: [Plant-Based]

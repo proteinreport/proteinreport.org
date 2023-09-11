@@ -2,7 +2,7 @@
 title: "Unicorn Biotechnologies"
 date: 2022-03-13 12:47:09
 lastmod: 2022-03-13 12:47:09
-slug: /unicorn-biotechnologies
+slug: unicorn-biotechnologies
 description: "Unicorn Biotechnologies is developing a next generation biomanufacturing platform to affordably and rapidly scale cellular agriculture manufacturing.Our full stack platform combines hardware, software and analytics to completely automate biomanufacturing, reducing costs and increasing product quality.By providing a clear path to scale cellular agriculture, we will improve human and planetary health and drive the transition to animal free agriculture."
 proteins: [Cell-Based]
 products: [Technology & Equipment]

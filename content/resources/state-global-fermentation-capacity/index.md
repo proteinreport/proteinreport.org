@@ -2,7 +2,7 @@
 title: "State of Global Fermentation Capacity"
 date: 2023-02-23 07:51:27
 lastmod: 2023-02-23 07:51:27
-slug: /state-global-fermentation-capacity
+slug: state-global-fermentation-capacity
 description: "This report, published by Synonym, offers new and valuable details on types of facilities by geography, bioreactor sizes, product expertise and more."
 excerpt: "This report, published by Synonym, offers new and valuable details on types of facilities by geography, bioreactor sizes, product expertise and more."
 proteins: [Microbial]

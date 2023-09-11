@@ -2,7 +2,7 @@
 title: "SCiFi Foods"
 date: 2020-01-23 18:09:57
 lastmod: 2020-01-23 18:09:57
-slug: /scifi-foods
+slug: scifi-foods
 description: "We are making meat with the same taste, texture, and nutrition as conventional meat, but without any of the cruelty or cost to the planet. Our cultivated meat is something everyone can feel good about. Real beef, re-imagined. (Previously Artemys Foods)"
 proteins: [Cell-Based]
 products: [Meat]

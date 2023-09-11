@@ -2,7 +2,7 @@
 title: "Fumi Ingredients"
 date: 2020-01-23 18:20:47
 lastmod: 2020-01-23 18:20:47
-slug: /fumi-ingredients
+slug: fumi-ingredients
 description: "Fumi Ingredients is bringing groundbreaking, scalable and ready to use technology to the market to remove the egg from the food-system. The company has been developing egg-replacers based on natural micro-organisms since 2015 and have started scaling up technology since mid 2019 to provide ingredients for clients."
 proteins: [Microbial, Algae]
 products: [Eggs]

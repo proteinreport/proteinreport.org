@@ -2,7 +2,7 @@
 title: "MeliBio, Inc."
 date: 2020-09-22 23:56:13
 lastmod: 2020-09-22 23:56:13
-slug: /melibio-inc
+slug: melibio-inc
 description: "The future of honey. Better for humans. Better for bees."
 proteins: [Microbial]
 products: [Ingredients]

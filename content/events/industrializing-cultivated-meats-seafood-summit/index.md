@@ -2,7 +2,7 @@
 title: "Industrializing Cultivated Meats & Seafood Summit"
 date: 2023-06-07 14:45:52
 lastmod: 2023-06-07 14:45:52
-slug: /industrializing-cultivated-meats-seafood-summit
+slug: industrializing-cultivated-meats-seafood-summit
 description: "The demand for meat is set to grow by 70% by 2050 making the need for cleaner, more sustainable sources greater than ever. Despite this need, a costly bioprocess and scale-up procedure are stalling the advancement of cultivated meat and seafood products reaching our menus and supermarket shelves."
 proteins: [Cell-Based]
 products: [Meat, Seafood]

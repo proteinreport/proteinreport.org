@@ -2,7 +2,7 @@
 title: "Dao Foods"
 date: 2020-01-23 17:50:27
 lastmod: 2020-01-23 17:50:27
-slug: /dao-foods
+slug: dao-foods
 description: "Dao Foods International, Inc. is an impact investment firm that aims to help entrepreneurs develop exciting new plant-based meat and alternative protein products in China to reduce the consumer demand for industrial animal agriculture. Dao Foods believes that supporting talented entrepreneurs who are targeting the 400m millennials in China with new, exciting, and delicious plant based proteins is a huge business opportunity with massive social impact."
 proteins: []
 products: []

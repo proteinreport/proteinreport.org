@@ -2,7 +2,7 @@
 title: "Follow Your Heart"
 date: 2020-01-13 20:17:19
 lastmod: 2020-01-13 20:17:19
-slug: /follow-your-heart
+slug: follow-your-heart
 description: "Follow Your Heart is a market & cafe based in Southern California, as well as a line of plant-based foods.  Our solar-powered manufacturing facility, Earth Island, is located just a few miles away. We strive to provide everyone access to delicious, healthy foods and to be stewards of the environment."
 proteins: [Plant-Based]
 products: [Dairy, Eggs]

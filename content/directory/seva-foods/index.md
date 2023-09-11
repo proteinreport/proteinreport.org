@@ -2,7 +2,7 @@
 title: "Seva Foods"
 date: 2020-01-23 17:50:46
 lastmod: 2020-01-23 17:50:46
-slug: /seva-foods
+slug: seva-foods
 description: "Seva has developed Space Ice Kream, a non-dairy, freeze dried ice cream and Coconut Jerky, a plant-based jerky."
 proteins: [Plant-Based]
 products: [Meat, Dairy]

@@ -2,7 +2,7 @@
 title: "Proeon"
 date: 2020-12-29 06:11:11
 lastmod: 2020-12-29 06:11:11
-slug: /proeon
+slug: proeon
 description: "We are an ingredient manufacturer and supplier based out of India. At Proeon foods, we are creating high quality plant-based protein ingredients with superior nutritional, functional and sensory profile for global customers in alternative meat, dairy and functional food industries. We collaborate with consumer-facing brands and food innovators to solve their formulation and production challenges through ingredient innovation and R&D."
 proteins: [Plant-Based]
 products: [Ingredients]

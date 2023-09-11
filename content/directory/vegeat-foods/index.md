@@ -2,7 +2,7 @@
 title: "Vegeat Foods"
 date: 2020-01-23 17:50:58
 lastmod: 2020-01-23 17:50:58
-slug: /vegeat-foods
+slug: vegeat-foods
 description: "Vegeat Foods is a leader in great tasting plant-based meals packed with protein."
 proteins: [Plant-Based]
 products: [Meat]

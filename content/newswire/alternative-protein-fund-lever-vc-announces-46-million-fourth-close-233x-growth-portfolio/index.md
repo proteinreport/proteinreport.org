@@ -2,7 +2,7 @@
 title: "Alternative Protein Fund Lever VC Announces $46 Million Fourth Close, 2.33x Growth in Portfolio Value"
 date: 2021-04-13 08:34:58
 lastmod: 2021-04-13 08:34:58
-slug: /alternative-protein-fund-lever-vc-announces-46-million-fourth-close-233x-growth-portfolio
+slug: alternative-protein-fund-lever-vc-announces-46-million-fourth-close-233x-growth-portfolio
 company: 1332
 description: "Global alternative protein venture capital fund Lever VC announced today the recent completion of a $46 million fourth close of its Lever VC Fund I. The Fund’s third and fourth close included the addition of three corporate strategic investors from Europe and Asia—including one of the world’s largest Agri-Food companies, with annual revenue over $50 billion USD—as well as capital from NFL and NBA athletes, British nobility, and a global range of family offices."
 excerpt: "Global alternative protein venture capital fund Lever VC announced today the recent completion of a $46 million fourth close of its Lever VC Fund I. The Fund’s third and fourth close included the addition of three corporate strategic investors from Europe and Asia—including one of the world’s largest Agri-Food companies, with annual revenue over $50 billion USD—as well as capital from NFL and NBA athletes, British nobility, and a global range of family offices."

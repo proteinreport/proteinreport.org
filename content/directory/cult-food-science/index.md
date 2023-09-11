@@ -2,7 +2,7 @@
 title: "Cult Food Science"
 date: 2022-03-28 14:32:51
 lastmod: 2022-03-28 14:32:51
-slug: /cult-food-science
+slug: cult-food-science
 description: "CULT Food Science is an investment company focused on supporting and advancing the technology behind the future of food. It identifies and makes equity investments in global cultivated meat and dairy companies that are developing and commercializing innovative food technologies that enable a kinder, more secure, and more sustainable food supplychain."
 proteins: [Cell-Based, Microbial]
 products: []

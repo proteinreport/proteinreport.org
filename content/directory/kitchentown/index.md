@@ -2,7 +2,7 @@
 title: "KitchenTown"
 date: 2021-08-10 13:37:46
 lastmod: 2021-08-10 13:37:46
-slug: /kitchentown
+slug: kitchentown
 description: "KitchenTown champions innovation in all its forms so we can drive positive change in our food system from the ground up. We play a critical role in the development, commercialization, and launch of impact-driven and transformational food products. We are actively building a global community of food entrepreneurs and innovators to support each other and create a new sustainable food system."
 proteins: []
 products: []

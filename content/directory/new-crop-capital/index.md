@@ -2,7 +2,7 @@
 title: "New Crop Capital"
 date: 2019-11-24 16:41:21
 lastmod: 2019-11-24 16:41:21
-slug: /new-crop-capital
+slug: new-crop-capital
 description: "We provide Angel, Seed and Series A funding to early-stage companies with the potential to transform the trillion-dollar global market of industrial animal agriculture--a system at its economic, environmental, and ethical breaking point."
 proteins: []
 products: []

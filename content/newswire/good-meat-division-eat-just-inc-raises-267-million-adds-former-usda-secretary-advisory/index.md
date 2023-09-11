@@ -2,7 +2,7 @@
 title: "GOOD Meat, a Division of Eat Just, Inc., Raises $267 Million, Adds Former USDA Secretary to Advisory Board"
 date: 2021-09-20 14:28:03
 lastmod: 2021-09-20 14:28:03
-slug: /good-meat-division-eat-just-inc-raises-267-million-adds-former-usda-secretary-advisory
+slug: good-meat-division-eat-just-inc-raises-267-million-adds-former-usda-secretary-advisory
 company: 234
 description: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, announced today that its GOOD Meat division has secured $97 million in new funding, adding to the initial $170 million publicized in May."
 excerpt: "Eat Just, Inc., a company that applies cutting-edge science and technology to create healthier, more sustainable foods, announced today that its GOOD Meat division has secured $97 million in new funding, adding to the initial $170 million publicized in May."

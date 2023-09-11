@@ -2,7 +2,7 @@
 title: "Orbillion Bio Joins AMPS Innovation"
 date: 2021-06-15 08:28:47
 lastmod: 2021-06-15 08:28:47
-slug: /orbillion-bio-joins-amps-innovation
+slug: orbillion-bio-joins-amps-innovation
 company: 7349
 description: "“The potential of cell-cultured meat is only potential until eaters choose it again and again and again,” Orbillion Co-Founder and CEO, Patricia Bubner recently stated.As we look toward regulatory approval of cell cultured meat in the United States, we’re working back from our goal of more flavorful and sustainable meat that is accessible to all. To make this vision of better food a reality, consumers must decide to try, buy and eat it."
 excerpt: "“The potential of cell-cultured meat is only potential until eaters choose it again and again and again,” Orbillion Co-Founder and CEO, Patricia Bubner recently stated.As we look toward regulatory approval of cell cultured meat in the United States, we’re working back from our goal of more flavorful and sustainable meat that is accessible to all. To make this vision of better food a reality, consumers must decide to try, buy and eat it."

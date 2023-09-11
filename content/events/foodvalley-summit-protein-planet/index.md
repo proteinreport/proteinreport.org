@@ -2,7 +2,7 @@
 title: "Foodvalley Summit: The Protein Plan(et)"
 date: 2020-01-06 13:58:11
 lastmod: 2020-01-06 13:58:11
-slug: /foodvalley-summit-protein-planet
+slug: foodvalley-summit-protein-planet
 description: "The Foodvalley Summit offered food and agri companies with focus on protein an excellent platform to showcase their brand, launch new products, expand relationships and engage with food producers, growers, breeders, investors, research institutes and the government."
 proteins: [Plant-Based, Fungi, Insect, Animal]
 products: [NA]
@@ -21,4 +21,7 @@ draft: false
 weight: 5000
 uuid: 1125
 ---
-<p>The Foodvalley Summit offered food and agri companies with focus on protein an excellent platform to showcase their brand, launch new products, expand relationships and engage with food producers, growers, breeders, investors, research institutes and the government.</p>
+The Foodvalley Summit offered food and agri companies with focus on
+protein an excellent platform to showcase their brand, launch new
+products, expand relationships and engage with food producers, growers,
+breeders, investors, research institutes and the government.

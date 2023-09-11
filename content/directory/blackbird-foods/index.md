@@ -2,7 +2,7 @@
 title: "Blackbird Foods"
 date: 2021-02-18 18:16:19
 lastmod: 2021-02-18 18:16:19
-slug: /blackbird-foods
+slug: blackbird-foods
 description: "Blackbird Foods is a plant-based food company producing wholesale and retail seitan, frozen pizza, and plant-based meat."
 proteins: [Plant-Based]
 products: [Meat]

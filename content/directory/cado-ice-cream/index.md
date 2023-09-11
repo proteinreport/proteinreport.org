@@ -2,7 +2,7 @@
 title: "Cado Ice Cream"
 date: 2020-01-23 17:50:40
 lastmod: 2020-01-23 17:50:40
-slug: /cado-ice-cream
+slug: cado-ice-cream
 description: "Cado Avocado Ice Cream is the first of its kind — a line of organic, dairy-free, avocado based ice creams. Our avocado base provides a rich, creamy canvas for classic ice cream favorites like mint chocolate chip, dark chocolate & lemon sorbet. Enjoy a whole avocado in every pint!"
 proteins: [Plant-Based]
 products: [Dairy]

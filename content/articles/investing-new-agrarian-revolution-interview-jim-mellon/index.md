@@ -2,7 +2,7 @@
 title: "Investing in the New Agrarian Revolution: An Interview with Jim Mellon"
 date: 2021-02-01 14:59:29
 lastmod: 2021-02-01 14:59:29
-slug: /investing-new-agrarian-revolution-interview-jim-mellon
+slug: investing-new-agrarian-revolution-interview-jim-mellon
 description: "Investor and author Jim Mellon talks one-on-one with Doug Grant, host of the Brave New Meat podcast, to discuss his new book, Moo’s Law, and the investment opportunity in cultivated meat."
 excerpt: "Investor and author Jim Mellon talks one-on-one with Doug Grant, host of the Brave New Meat podcast, to discuss his new book, Moo’s Law, and the investment opportunity in cultivated meat."
 proteins: [Cell-Based]

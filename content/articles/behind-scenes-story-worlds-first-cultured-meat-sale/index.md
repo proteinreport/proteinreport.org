@@ -2,7 +2,7 @@
 title: "The Behind-the-Scenes Story of the World’s First Cultured Meat Sale"
 date: 2020-06-23 10:13:20
 lastmod: 2020-06-23 10:13:20
-slug: /behind-scenes-story-worlds-first-cultured-meat-sale
+slug: behind-scenes-story-worlds-first-cultured-meat-sale
 description: "On December 29, 2017, just two days before New Year’s Eve, Josh Tetrick, the CEO of JUST, and his golden retriever, Elie, boarded a nonstop KLM Royal Dutch Airlines flight in San Francisco that would take him halfway around the world to Amsterdam, where he hoped to make the first commercial sale of cell-cultured meat. This article is an excerpt from BILLION DOLLAR BURGER: Inside Big Tech’s Race for the Future of Food by Chase Purdy, with permission from Portfolio, an imprint of Penguin Publishing Group, a division of Penguin Random House LLC. Copyright © 2020 by Chase Purdy."
 excerpt: "On December 29, 2017, just two days before New Year’s Eve, Josh Tetrick, the CEO of JUST, and his golden retriever, Elie, boarded a nonstop KLM Royal Dutch Airlines flight in San Francisco that would take him halfway around the world to Amsterdam, where he hoped to make the first commercial sale of cell-cultured meat. This article is an excerpt from BILLION DOLLAR BURGER: Inside Big Tech’s Race for the Future of Food by Chase Purdy, with permission from Portfolio, an imprint of Penguin Publishing Group, a division of Penguin Random House LLC. Copyright © 2020 by Chase Purdy."
 proteins: [Cell-Based]

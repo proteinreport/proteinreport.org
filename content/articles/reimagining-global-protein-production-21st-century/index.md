@@ -2,7 +2,7 @@
 title: "Reimagining Global Protein Production for the 21st Century"
 date: 2022-03-15 11:48:59
 lastmod: 2022-03-15 11:48:59
-slug: /reimagining-global-protein-production-21st-century
+slug: reimagining-global-protein-production-21st-century
 description: "What options are on the food-tech menu for achieving long-term protein security? Cell culture, plants, microorganisms, algae, and fungi may all have roles to play. But from a sustainability and resilience perspective, is there a clear winner?"
 excerpt: "What options are on the food-tech menu for achieving long-term protein security? Cell culture, plants, microorganisms, algae, and fungi may all have roles to play. But from a sustainability and resilience perspective, is there a clear winner?"
 proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi, Insect, Animal]

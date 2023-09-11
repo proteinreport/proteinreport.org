@@ -2,7 +2,7 @@
 title: "MicroHarvest"
 date: 2023-04-18 11:00:04
 lastmod: 2023-04-18 11:00:04
-slug: /microharvest
+slug: microharvest
 description: "MicroHarvest is a biotechnology company that produces sustainable proteins through microbial fermentation, using agricultural byproducts as feedstock. Their proprietary technology allows them to produce protein ingredients much faster and using significantly less water and space compared to animal or plant-derived ingredients. The dried biomass is then combined with other ingredients to make food products, with applications ranging from feed to pet food and human food."
 proteins: [Microbial]
 products: [Ingredients]

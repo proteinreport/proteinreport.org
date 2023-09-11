@@ -2,7 +2,7 @@
 title: "UC Davis Cultivated Meat Short Course"
 date: 2022-07-22 17:35:30
 lastmod: 2022-07-22 17:35:30
-slug: /uc-davis-cultivated-meat-short-course-0
+slug: uc-davis-cultivated-meat-short-course-0
 description: "Sponsored by the UC Davis Biotechnology Program & Cultivated Meat Consortium, this virtual short course will touch on a range of topics related to the development of cultivated meat, including:"
 proteins: [Cell-Based]
 products: [Meat]

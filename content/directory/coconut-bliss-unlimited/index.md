@@ -2,7 +2,7 @@
 title: "Coconut Bliss Unlimited"
 date: 2020-01-23 17:50:39
 lastmod: 2020-01-23 17:50:39
-slug: /coconut-bliss-unlimited
+slug: coconut-bliss-unlimited
 description: "Coconut Bliss is a dairy-free ice cream producer creating 100 percent plant-based flavors of ice cream pints, bars and sandwiches. USDA Certified Organic and Non-GMO Project verified, Coconut Bliss is made with cholesterol-free coconut milk and sweetened with agave syrup."
 proteins: [Plant-Based]
 products: [Dairy]

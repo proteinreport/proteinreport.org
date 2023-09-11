@@ -2,7 +2,7 @@
 title: "Technological Review of Algae-based Proteins for Alternative Protein Applications"
 date: 2021-03-30 06:41:19
 lastmod: 2021-03-30 06:41:19
-slug: /technological-review-algae-based-proteins-alternative-protein-applications
+slug: technological-review-algae-based-proteins-alternative-protein-applications
 description: "The Good Food Institute India’s mission to accelerate the alternative protein sector includes exploring diverse, sustainable protein sources in India and around the globe. This analysis on algal protein is the first in our protein sources strategic analysis series. The presence of already established companies producing food-grade microalgae and the potential to utilize India’s 8100 km long coastline for seaweed cultivation provides the foundation for the algal protein industry. But the industry in India is at a nascent stage."
 excerpt: "The Good Food Institute India’s mission to accelerate the alternative protein sector includes exploring diverse, sustainable protein sources in India and around the globe. This analysis on algal protein is the first in our protein sources strategic analysis series. The presence of already established companies producing food-grade microalgae and the potential to utilize India’s 8100 km long coastline for seaweed cultivation provides the foundation for the algal protein industry. But the industry in India is at a nascent stage."
 proteins: [Algae]

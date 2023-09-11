@@ -2,7 +2,7 @@
 title: "Tiba Tempeh"
 date: 2022-01-11 12:24:41
 lastmod: 2022-01-11 12:24:41
-slug: /tiba-tempeh
+slug: tiba-tempeh
 description: "Tiba Tempeh was founded in 2019 by Alex and Ross Longton, food industry veterans with 30 years of experience in senior sales and marketing positions at Kraft Heinz and other food industry leaders. Tiba Tempeh specialises in innovative tempeh products and launched the first ever tempeh burger in UK supermarkets."
 proteins: [Plant-Based]
 products: [Meat, Ingredients]

@@ -2,7 +2,7 @@
 title: "2nd Fermentation-Enabled Alternative Protein Innovation Summit"
 date: 2021-10-15 07:57:03
 lastmod: 2021-10-15 07:57:03
-slug: /2nd-fermentation-enabled-alternative-protein-innovation-summit
+slug: 2nd-fermentation-enabled-alternative-protein-innovation-summit
 description: "The 2nd Fermentation-Enabled Alternative Protein Innovation Summit will be taking place January 18-20 in San Francisco. It will host decision-makers from biotech, food tech, multinationals, independent food brands and more for those looking to up-scale and commercialize fermentation-enabled alternative proteins.This is the only industry-led forum dedicated to scaling-up production platforms to commercialize clean-label, animal-free and regulatory approved alternative meat, diary, eggs and functional protein ingredients."
 proteins: [Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

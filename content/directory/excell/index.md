@@ -2,7 +2,7 @@
 title: "Excell"
 date: 2020-04-18 10:07:56
 lastmod: 2020-04-18 10:07:56
-slug: /excell
+slug: excell
 description: "Our mycelium structure supports cell from adhesion through to differentiation. Excell provides the ideal scaffold for cultured meat, tissue engineering, and biomedical applications."
 proteins: [Cell-Based]
 products: [Scaffolding & Structure]

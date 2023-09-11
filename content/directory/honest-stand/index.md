@@ -2,7 +2,7 @@
 title: "The Honest Stand"
 date: 2020-01-23 17:50:36
 lastmod: 2020-01-23 17:50:36
-slug: /honest-stand
+slug: honest-stand
 description: "The Honest Stand is dedicated to bringing plant-based convenient comfort foods. The is producing Certified Organic, Dairy Free and Gluten Free Cheese Style Dips."
 proteins: [Plant-Based]
 products: [Dairy]

@@ -2,7 +2,7 @@
 title: "Fermentalg"
 date: 2020-01-23 18:20:47
 lastmod: 2020-01-23 18:20:47
-slug: /fermentalg
+slug: fermentalg
 description: "Fermentalg’s industrial team produces highly concentrated Omega-3 with lower content of saturated fatty acids for the proper functioning of human cardiovascular, cerebral or visual systems."
 proteins: [Algae]
 products: [Ingredients]

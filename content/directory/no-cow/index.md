@@ -2,7 +2,7 @@
 title: "No Cow"
 date: 2020-01-23 17:50:46
 lastmod: 2020-01-23 17:50:46
-slug: /no-cow
+slug: no-cow
 description: "No Cow, is a foodtech company revolutionizing the nutrition industry using alternative, plant-based proteins. No Cow delivers better taste, AND better nutrition, using plants (not cows) as our foundation, and science and technology as our guides. We are developing the first plant-based, sustainable protein alternatives that are truly superior in every “whey.”"
 proteins: [Plant-Based]
 products: [Dairy]

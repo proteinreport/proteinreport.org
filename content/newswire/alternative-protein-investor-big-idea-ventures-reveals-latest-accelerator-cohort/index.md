@@ -2,7 +2,7 @@
 title: "Alternative protein investor Big Idea Ventures reveals latest accelerator cohort"
 date: 2022-05-02 08:40:01
 lastmod: 2022-05-02 08:40:01
-slug: /alternative-protein-investor-big-idea-ventures-reveals-latest-accelerator-cohort
+slug: alternative-protein-investor-big-idea-ventures-reveals-latest-accelerator-cohort
 company: 6600
 description: "Big Idea Ventures, global leader in early-stage investments in the alternative protein sector, revealed its latest accelerator cohort today."
 excerpt: "Big Idea Ventures, global leader in early-stage investments in the alternative protein sector, revealed its latest accelerator cohort today."

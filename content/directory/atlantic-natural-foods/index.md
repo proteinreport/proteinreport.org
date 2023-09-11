@@ -2,7 +2,7 @@
 title: "Atlantic Natural Foods"
 date: 2020-01-08 08:39:03
 lastmod: 2020-01-08 08:39:03
-slug: /atlantic-natural-foods
+slug: atlantic-natural-foods
 description: "Our Mission is to create affordable, sustainable, healthy, shelf-stable sources of protein for all people & available everywhere. We provide plant-based proteins with bold, inspiring flavors and beloved traditional recipes to help people live healthier longer lives."
 proteins: [Plant-Based]
 products: [Meat]

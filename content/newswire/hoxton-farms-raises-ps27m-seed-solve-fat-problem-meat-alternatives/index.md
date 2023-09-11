@@ -2,7 +2,7 @@
 title: "Hoxton Farms Raises £2.7M Seed to Solve a Fat Problem for Meat Alternatives"
 date: 2021-02-09 10:47:02
 lastmod: 2021-02-09 10:47:02
-slug: /hoxton-farms-raises-ps27m-seed-solve-fat-problem-meat-alternatives
+slug: hoxton-farms-raises-ps27m-seed-solve-fat-problem-meat-alternatives
 company: 8360
 description: "UK-based Hoxton Farms has announced a £2.7 million seed round to cultivate animal fat and solve an urgent issue for the rapidly growing meat alternatives market."
 excerpt: "UK-based Hoxton Farms has announced a £2.7 million seed round to cultivate animal fat and solve an urgent issue for the rapidly growing meat alternatives market."

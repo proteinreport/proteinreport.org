@@ -2,7 +2,7 @@
 title: "Protein Innovation - Shaping the Future of Microalgae Foods in Europe Webinar"
 date: 2022-03-04 15:56:18
 lastmod: 2022-03-04 15:56:18
-slug: /protein-innovation-shaping-future-microalgae-foods-europe-webinar
+slug: protein-innovation-shaping-future-microalgae-foods-europe-webinar
 description: "Learn insights from the ProFuture project which is shaping the future of microalgae proteins in Europe.Register here: https://www.eventbrite.ca/e/protein-innovation-shaping-the-future-of-mi…Highlighting some of the innovations and uses for microalgae in foods:"
 proteins: [Algae]
 products: [Ingredients]

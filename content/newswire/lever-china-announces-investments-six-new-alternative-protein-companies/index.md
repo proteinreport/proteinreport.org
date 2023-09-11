@@ -2,7 +2,7 @@
 title: "Lever China Announces Investments in Six New Alternative Protein Companies"
 date: 2022-06-20 08:16:16
 lastmod: 2022-06-20 08:16:16
-slug: /lever-china-announces-investments-six-new-alternative-protein-companies
+slug: lever-china-announces-investments-six-new-alternative-protein-companies
 company: 1332
 description: "Lever China unveiled today early stage investments it has completed in recent months into six new alternative protein companies, expanding its portfolio to a total of 12 startups across plant-based meat and dairy, plant protein, precision and biomass fermentation, and cultivated meat."
 excerpt: "Lever China unveiled today early stage investments it has completed in recent months into six new alternative protein companies, expanding its portfolio to a total of 12 startups across plant-based meat and dairy, plant protein, precision and biomass fermentation, and cultivated meat."

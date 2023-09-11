@@ -2,7 +2,7 @@
 title: "Audra Labs"
 date: 2022-03-13 13:02:15
 lastmod: 2022-03-13 13:02:15
-slug: /audra-labs
+slug: audra-labs
 description: "Audra Labs develops products and technologies for plant-based and cultured-meat."
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Seafood, Ingredients]

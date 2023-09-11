@@ -2,7 +2,7 @@
 title: "Food and Agriculture — RethinkX"
 date: 2019-11-26 19:24:47
 lastmod: 2019-11-26 19:24:47
-slug: /food-and-agriculture-rethinkx
+slug: food-and-agriculture-rethinkx
 description: "By 2030, the number of cows in the U.S. will have fallen by 50% and the cattle farming industry will be all but bankrupt. All other livestock industries will suffer a similar fate, while the knock-on effects for crop farmers and businesses throughout the value chain will be&nbsp;severe."
 excerpt: "By 2030, the number of cows in the U.S. will have fallen by 50% and the cattle farming industry will be all but bankrupt. All other livestock industries will suffer a similar fate, while the knock-on effects for crop farmers and businesses throughout the value chain will be&nbsp;severe."
 proteins: [Cell-Based, Plant-Based, Microbial, Animal]

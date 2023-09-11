@@ -2,7 +2,7 @@
 title: "Nutrients from CO2: Arkeon Increases Capitalization to €10+ Million in Additional Fundraiser"
 date: 2022-12-23 16:13:36
 lastmod: 2022-12-23 16:13:36
-slug: /nutrients-co2-arkeon-increases-capitalization-eu10-million-additional-fundraiser
+slug: nutrients-co2-arkeon-increases-capitalization-eu10-million-additional-fundraiser
 company: 10527
 description: "Austria-based ingredients startup Arkeon turns CO2 into next-generation protein ingredients and raises another €4+ million to do more, sooner."
 excerpt: "Austria-based ingredients startup Arkeon turns CO2 into next-generation protein ingredients and raises another €4+ million to do more, sooner."

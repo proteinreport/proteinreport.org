@@ -2,7 +2,7 @@
 title: "IntegriCulture's skincare ingredient utilizing cellular agriculture technology CELLAMENT adopted in a new product of BASEPLUS"
 date: 2022-06-01 13:05:55
 lastmod: 2022-06-01 13:05:55
-slug: /integricultures-skincare-ingredient-utilizing-cellular-agriculture-technology-cellament
+slug: integricultures-skincare-ingredient-utilizing-cellular-agriculture-technology-cellament
 company: 5818
 description: "IntegriCulture, a Japanese startup pioneering revolutionary advancements in cellular agriculture, today announced that CELLAMENT™[2], an egg-derived skincare ingredient utilizing its proprietary cell culture technology, has been adopted in new skincare brand l'oeuf by essensebase launched today by BASEPLUS Co., Ltd."
 excerpt: "IntegriCulture, a Japanese startup pioneering revolutionary advancements in cellular agriculture, today announced that CELLAMENT™[2], an egg-derived skincare ingredient utilizing its proprietary cell culture technology, has been adopted in new skincare brand l'oeuf by essensebase launched today by BASEPLUS Co., Ltd."

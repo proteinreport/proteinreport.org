@@ -2,7 +2,7 @@
 title: "Risks and benefits of consuming edible seaweeds"
 date: 2022-01-08 15:42:39
 lastmod: 2022-01-08 15:42:39
-slug: /risks-and-benefits-consuming-edible-seaweeds
+slug: risks-and-benefits-consuming-edible-seaweeds
 description: "Recent interest in seaweeds as a source of macronutrients, micronutrients, and bioactive components has highlighted prospective applications within the functional food and nutraceutical industries, with impetus toward the alleviation of risk factors associated with noncommunicable diseases such as obesity, type 2 diabetes, and cardiovascular disease."
 excerpt: "Recent interest in seaweeds as a source of macronutrients, micronutrients, and bioactive components has highlighted prospective applications within the functional food and nutraceutical industries, with impetus toward the alleviation of risk factors associated with noncommunicable diseases such as obesity, type 2 diabetes, and cardiovascular disease."
 proteins: [Algae]

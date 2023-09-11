@@ -2,7 +2,7 @@
 title: "All You Can Eat, Just Order the Meat"
 date: 2021-11-03 08:55:00
 lastmod: 2021-11-03 08:55:00
-slug: /all-you-can-eat-just-order-meat
+slug: all-you-can-eat-just-order-meat
 description: "This essay is first-place winner of the Student Essay Contest 2021. Eva Koffeman graduated from the University of Amsterdam in August 2021 with an MBA in Consumer Marketing."
 excerpt: "This essay is first-place winner of the Student Essay Contest 2021. Eva Koffeman graduated from the University of Amsterdam in August 2021 with an MBA in Consumer Marketing."
 proteins: [Animal]

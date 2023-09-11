@@ -2,7 +2,7 @@
 title: "Future Food-Tech San Francisco"
 date: 2022-11-04 07:14:38
 lastmod: 2022-11-04 07:14:38
-slug: /future-food-tech-san-francisco-1
+slug: future-food-tech-san-francisco-1
 description: "Strengthening Sustainable & Nutritious Food SystemsAs the world adjusts to the impacts of climate change, conflict, and a changing economic landscape, securing access to sustainable and nutritious food is more important than ever."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

@@ -2,7 +2,7 @@
 title: "Gold&Green Foods"
 date: 2020-01-23 17:50:28
 lastmod: 2020-01-23 17:50:28
-slug: /goldgreen-foods
+slug: goldgreen-foods
 description: "Gold&Green Foods is a cross-cultural food tech company, selling and developing novel, delicious, and sustainable plant protein foods. We combine the latest Nordic food science findings and the pure, natural and trendy Nordic ingredients with some specific Asian food technologies in our innovative products."
 proteins: [Plant-Based]
 products: [Meat]

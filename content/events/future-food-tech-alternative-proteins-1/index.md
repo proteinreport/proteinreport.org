@@ -2,7 +2,7 @@
 title: "Future Food-Tech Alternative Proteins"
 date: 2022-12-16 09:36:23
 lastmod: 2022-12-16 09:36:23
-slug: /future-food-tech-alternative-proteins-1
+slug: future-food-tech-alternative-proteins-1
 description: "Future Food-Tech’s Alternative Proteins Summit returns to New York in 2023, bringing together the world’s leading players from the alt-protein industry to delve into the challenges facing the sector and identify strategies for success in today’s market.Taking place on June 27-28 at the Marriott Marquis Times Square, the summit will welcome 800+ leaders in cell-based proteins, precision fermentation and next-generation plant-based ingredients to address challenges and opportunities across the supply chain and accelerate high profile, catalytic networking."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

@@ -2,7 +2,7 @@
 title: "Numu"
 date: 2020-01-23 17:50:43
 lastmod: 2020-01-23 17:50:43
-slug: /numu
+slug: numu
 description: "Numu is a plant-based mozzarella designed to make the best tasting and textured cheese for pizza, lasagnas and more."
 proteins: [Plant-Based]
 products: [Dairy]

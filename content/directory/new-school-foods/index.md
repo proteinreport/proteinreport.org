@@ -2,7 +2,7 @@
 title: "New School Foods"
 date: 2022-02-04 09:42:32
 lastmod: 2022-02-04 09:42:32
-slug: /new-school-foods
+slug: new-school-foods
 description: "Whole-muscle seafood. Made from plants."
 proteins: [Plant-Based]
 products: [Seafood]

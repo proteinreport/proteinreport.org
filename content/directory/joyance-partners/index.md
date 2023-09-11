@@ -2,7 +2,7 @@
 title: "Joyance Partners"
 date: 2020-08-20 12:53:39
 lastmod: 2020-08-20 12:53:39
-slug: /joyance-partners
+slug: joyance-partners
 description: "Joyance Partners is a $20M venture capital partnership that invests in companies with the capacity to deliver, or contribute to the delivery of, Delightful Moments."
 proteins: []
 products: []

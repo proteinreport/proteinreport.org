@@ -2,7 +2,7 @@
 title: "Plant Protein Innovator Proeon Raises USD 2.4 Million in Seed Round"
 date: 2021-09-06 11:30:55
 lastmod: 2021-09-06 11:30:55
-slug: /plant-protein-innovator-proeon-raises-usd-24-million-seed-round
+slug: plant-protein-innovator-proeon-raises-usd-24-million-seed-round
 company: 8176
 description: "Committed to building a sustainable and environment friendly food ecosystem, Pune based food ingredient start-up Proeon, has recently raised USD 2.4 million as seed capital."
 excerpt: "Committed to building a sustainable and environment friendly food ecosystem, Pune based food ingredient start-up Proeon, has recently raised USD 2.4 million as seed capital."

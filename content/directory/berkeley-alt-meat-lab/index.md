@@ -2,7 +2,7 @@
 title: "Berkeley Alt Meat Lab"
 date: 2020-07-02 14:32:07
 lastmod: 2020-07-02 14:32:07
-slug: /berkeley-alt-meat-lab
+slug: berkeley-alt-meat-lab
 description: "The Alt: Meat Lab is a hub connecting students, entrepreneurs, venture capitalists and industry leaders interested in creating the plant-based food of the future. First and foremost an academic resource, the Lab aims to research and educate. Led by Dr. Ricardo San Martin, the Lab works in conjunction with — but independent from — various partners on projects that put the Lab on the front lines of our changing culinary landscape."
 proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Algae]
 products: []

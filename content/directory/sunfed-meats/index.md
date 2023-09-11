@@ -2,7 +2,7 @@
 title: "Sunfed Meats"
 date: 2020-01-23 17:50:28
 lastmod: 2020-01-23 17:50:28
-slug: /sunfed-meats
+slug: sunfed-meats
 description: "Sunfed meats are made from premium yellow pea protein, they cook, feel and taste just like animal meat but are healthier, both for you and the planet."
 proteins: [Plant-Based]
 products: [Meat]

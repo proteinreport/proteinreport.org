@@ -2,7 +2,7 @@
 title: "Ishita Isha"
 date: 2021-11-02 11:43:18
 lastmod: 2021-11-02 11:43:18
-slug: /ishita-isha
+slug: ishita-isha
 description: ""
 excerpt: ""
 images: ["ishita.jpg"]

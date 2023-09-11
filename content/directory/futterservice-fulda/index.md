@@ -2,7 +2,7 @@
 title: "Futterservice Fulda"
 date: 2020-01-13 15:54:58
 lastmod: 2020-01-13 15:54:58
-slug: /futterservice-fulda
+slug: futterservice-fulda
 description: "Futterservice Fulda offers healthy, animal-friendly food for dogs and cats."
 proteins: [Plant-Based]
 products: [Pet Food]

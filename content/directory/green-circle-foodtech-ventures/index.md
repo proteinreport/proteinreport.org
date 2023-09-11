@@ -2,7 +2,7 @@
 title: "Green Circle Foodtech Ventures"
 date: 2022-03-16 16:20:38
 lastmod: 2022-03-16 16:20:38
-slug: /green-circle-foodtech-ventures
+slug: green-circle-foodtech-ventures
 description: "Green Circle Foodtech Ventures partners with companies that will power and/or disrupt the production/distribution of food and beverages. Our team of experienced investment professionals and former food/beverage operators invests in bold entrepreneurs leading the technology revolution in the global food industry. The operational experience of our team and scientific expertise of our advisors makes Green Circle a true value-added investor."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi]
 products: []

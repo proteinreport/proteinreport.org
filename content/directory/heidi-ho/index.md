@@ -2,7 +2,7 @@
 title: "Heidi Ho"
 date: 2020-01-23 17:50:33
 lastmod: 2020-01-23 17:50:33
-slug: /heidi-ho
+slug: heidi-ho
 description: "Heidi Ho! makes authentically awesome plant-powered foods that are packed with veggies."
 proteins: [Plant-Based]
 products: [Dairy]

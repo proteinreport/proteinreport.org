@@ -2,7 +2,7 @@
 title: "90 Reasons to Consider Cellular Agriculture"
 date: 2020-03-14 11:54:18
 lastmod: 2020-03-14 11:54:18
-slug: /90-reasons-consider-cellular-agriculture
+slug: 90-reasons-consider-cellular-agriculture
 description: "Farming animals for products like meat, dairy, and leather have been common globally for over 9,000 years. While animal products have been incredibly positive for society over multiple generations, today they are proving more destructive than beneficial with the rise of factory farming. After thousands of years depending on animals for agriculture, humanity has finally attained the biotechnological means to supersede this necessity through a new practice called cellular agriculture."
 excerpt: "Farming animals for products like meat, dairy, and leather have been common globally for over 9,000 years. While animal products have been incredibly positive for society over multiple generations, today they are proving more destructive than beneficial with the rise of factory farming. After thousands of years depending on animals for agriculture, humanity has finally attained the biotechnological means to supersede this necessity through a new practice called cellular agriculture."
 proteins: [Cell-Based]

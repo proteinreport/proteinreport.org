@@ -2,7 +2,7 @@
 title: "Building the Plant-Based Dairy Revolution: Lessons from an Indian trailblazer"
 date: 2020-04-29 15:49:05
 lastmod: 2020-04-29 15:49:05
-slug: /building-plant-based-dairy-revolution-lessons-indian-trailblazer
+slug: building-plant-based-dairy-revolution-lessons-indian-trailblazer
 description: "Globally, plant-based milk is the most developed plant-based food category. However in India, dairy is inherent to our socio-economic & cultural history. Learn how to navigate this and build a plant-based dairy brand in our next webinar ft Abhay Rangan & Spurti Ravi of GoodMylk."
 proteins: [Plant-Based]
 products: [Dairy]
@@ -20,4 +20,8 @@ draft: false
 weight: 5000
 uuid: 6757
 ---
-<p>Globally, plant-based milk is the most developed plant-based food category. However in India, dairy is inherent to our socio-economic & cultural history. Learn how to navigate this and build a plant-based dairy brand in our next webinar ft Abhay Rangan & Spurti Ravi of GoodMylk.</p>
+Globally, plant-based milk is the most developed plant-based food
+category. However in India, dairy is inherent to our socio-economic &
+cultural history. Learn how to navigate this and build a plant-based
+dairy brand in our next webinar ft Abhay Rangan & Spurti Ravi of
+GoodMylk.

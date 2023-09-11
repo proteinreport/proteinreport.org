@@ -2,7 +2,7 @@
 title: "Oatly"
 date: 2020-01-23 17:50:43
 lastmod: 2020-01-23 17:50:43
-slug: /oatly
+slug: oatly
 description: "Oatly, the original Swedish oat drink company. The company turns liquid oats into food and drinks with maximum nutritional value and minimal environmental impact."
 proteins: [Plant-Based]
 products: [Dairy]

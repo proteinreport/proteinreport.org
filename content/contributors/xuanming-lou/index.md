@@ -2,7 +2,7 @@
 title: "Xuanming Lou"
 date: 2021-10-20 15:22:21
 lastmod: 2021-10-20 15:22:21
-slug: /xuanming-lou
+slug: xuanming-lou
 description: ""
 excerpt: ""
 images: ["photo_louxm.jpg"]

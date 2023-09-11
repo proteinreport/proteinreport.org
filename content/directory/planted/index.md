@@ -2,7 +2,7 @@
 title: "Planted"
 date: 2020-01-23 17:50:58
 lastmod: 2020-01-23 17:50:58
-slug: /planted
+slug: planted
 description: "At Planted we make 'meat'​ entirely from plants - delicious, healthy, cruelty-free and sustainable. Our meats taste and feel like animal meat. Only ours is not butchered. We take only the best raw materials from plants and create that tasty, nutritious, high-protein and juicy planted that you’ll love. Loads of sunshine included."
 proteins: [Plant-Based]
 products: [Meat]

@@ -2,7 +2,7 @@
 title: "Back of the Yards Algae Sciences"
 date: 2020-01-23 18:10:00
 lastmod: 2020-01-23 18:10:00
-slug: /back-yards-algae-sciences
+slug: back-yards-algae-sciences
 description: "Back of the Yards Algae Sciences (BYAS) is a specialty algal ingredients company supplying unique and sustainable products for food, beverage, general agriculture and cellular agriculture&nbsp;applications."
 proteins: [Algae]
 products: [Ingredients]

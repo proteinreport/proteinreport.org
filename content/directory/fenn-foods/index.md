@@ -2,7 +2,7 @@
 title: "Fenn Foods"
 date: 2020-08-13 07:31:47
 lastmod: 2020-08-13 07:31:47
-slug: /fenn-foods
+slug: fenn-foods
 description: "Fenn Foods is a producer of premium plant-based foods based on the Sunshine Coast, Queensland."
 proteins: [Plant-Based]
 products: [Meat]

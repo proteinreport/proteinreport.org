@@ -2,7 +2,7 @@
 title: "Synonym Launches Scaler, first-of-its-kind techno-economic analysis solution"
 date: 2023-06-28 15:01:33
 lastmod: 2023-06-28 15:01:33
-slug: /synonym-launches-scaler-first-its-kind-techno-economic-analysis-solution
+slug: synonym-launches-scaler-first-its-kind-techno-economic-analysis-solution
 company: 11262
 description: "Synonym, a New York-based developer of biomanufacturing infrastructure, today publicly launched ScalerTM, the first fully interactive, free, online tool enabling synthetic biology companies to project their costs of production and operations at commercial scale."
 excerpt: "Synonym, a New York-based developer of biomanufacturing infrastructure, today publicly launched ScalerTM, the first fully interactive, free, online tool enabling synthetic biology companies to project their costs of production and operations at commercial scale."

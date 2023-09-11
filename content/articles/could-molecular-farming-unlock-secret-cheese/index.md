@@ -2,7 +2,7 @@
 title: "Could Molecular Farming Unlock the Secret of Cheese?"
 date: 2022-03-01 14:00:09
 lastmod: 2022-03-01 14:00:09
-slug: /could-molecular-farming-unlock-secret-cheese
+slug: could-molecular-farming-unlock-secret-cheese
 description: "Gene-recombinant biotechnologies aim to produce key animal proteins at a fraction of the cost of conventional animal husbandry. The implications for research, medicine, food systems, and the climate could be huge. But can these emergent technologies scale quickly enough to spur system-wide change?"
 excerpt: "Gene-recombinant biotechnologies aim to produce key animal proteins at a fraction of the cost of conventional animal husbandry. The implications for research, medicine, food systems, and the climate could be huge. But can these emergent technologies scale quickly enough to spur system-wide change?"
 proteins: [Cell-Based, Molecular Farming]

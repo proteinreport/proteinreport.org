@@ -2,7 +2,7 @@
 title: "Biopolis"
 date: 2020-01-23 18:20:46
 lastmod: 2020-01-23 18:20:46
-slug: /biopolis
+slug: biopolis
 description: "Biopolis, S.L. is a leading microbial biotechnology company based in Valencia (Spain) offering Contract Research and Manufacturing. Our core competences are the isolation, selection, design, characterization, validation and production of microorganisms and cellular metabolites with applications in agrifood, feed, pharmaceutical, chemical and environment industries."
 proteins: [Microbial]
 products: [Ingredients]

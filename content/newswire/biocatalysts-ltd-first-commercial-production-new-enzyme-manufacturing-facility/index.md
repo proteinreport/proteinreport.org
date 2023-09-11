@@ -2,7 +2,7 @@
 title: "Biocatalysts Ltd First Commercial Production in New Enzyme Manufacturing Facility"
 date: 2021-05-19 15:35:45
 lastmod: 2021-05-19 15:35:45
-slug: /biocatalysts-ltd-first-commercial-production-new-enzyme-manufacturing-facility
+slug: biocatalysts-ltd-first-commercial-production-new-enzyme-manufacturing-facility
 company: 8967
 description: "Specialty enzyme company, Biocatalysts Ltd, have delivered the first customer product that was fermented and processed in their state-of-the-art enzyme manufacturing facility."
 excerpt: "Specialty enzyme company, Biocatalysts Ltd, have delivered the first customer product that was fermented and processed in their state-of-the-art enzyme manufacturing facility."

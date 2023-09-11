@@ -2,7 +2,7 @@
 title: "Orbillion's big Davos announcement: their cultured meat products will achieve price parity by 2026"
 date: 2022-05-25 13:00:51
 lastmod: 2022-05-25 13:00:51
-slug: /orbillions-big-davos-announcement-their-cultured-meat-products-will-achieve-price-parity
+slug: orbillions-big-davos-announcement-their-cultured-meat-products-will-achieve-price-parity
 company: 7349
 description: "Orbillion’s cell-cultured meats will reach price parity in 2026, and commodity pricing for beef in 2030. The recent announcement comes just days before CEO and Co-Founder, Patricia Bubner, PhD, will present in Davos, Switzerland, where the World Economic Forum (WEF) is holding its annual meeting. Bubner will share how they plan to democratize access to delicious and healthful cell-cultured meat to help address food insecurity."
 excerpt: "Orbillion’s cell-cultured meats will reach price parity in 2026, and commodity pricing for beef in 2030. The recent announcement comes just days before CEO and Co-Founder, Patricia Bubner, PhD, will present in Davos, Switzerland, where the World Economic Forum (WEF) is holding its annual meeting. Bubner will share how they plan to democratize access to delicious and healthful cell-cultured meat to help address food insecurity."

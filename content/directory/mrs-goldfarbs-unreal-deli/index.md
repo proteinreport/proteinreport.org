@@ -2,7 +2,7 @@
 title: "Mrs. Goldfarb's Unreal Deli"
 date: 2020-01-23 17:50:54
 lastmod: 2020-01-23 17:50:54
-slug: /mrs-goldfarbs-unreal-deli
+slug: mrs-goldfarbs-unreal-deli
 description: "Mrs. Goldfarb's Unreal Deli makes authentic NY deli meat&nbsp;from plants."
 proteins: [Plant-Based]
 products: [Meat]

@@ -2,7 +2,7 @@
 title: "Future Food Studio by Eat Just opens its doors in Shanghai"
 date: 2020-09-23 06:03:25
 lastmod: 2020-09-23 06:03:25
-slug: /future-food-studio-eat-just-opens-its-doors-shanghai
+slug: future-food-studio-eat-just-opens-its-doors-shanghai
 company: 234
 description: "Eat Just is excited to announce the opening of its first-ever Future Food Studio in China— the country’s first 100% plant-based culinary studio, featuring dishes made with JUST Egg, an entirely plant-based egg alternative that cooks and looks like conventional chicken eggs. At the Future Food Studio, you will learn how to cook delicious plant-based dishes without sacrificing flavor, nutrition and quality; getting us closer to the goal of halving our individual meat consumption by 2030."
 excerpt: "Eat Just is excited to announce the opening of its first-ever Future Food Studio in China— the country’s first 100% plant-based culinary studio, featuring dishes made with JUST Egg, an entirely plant-based egg alternative that cooks and looks like conventional chicken eggs. At the Future Food Studio, you will learn how to cook delicious plant-based dishes without sacrificing flavor, nutrition and quality; getting us closer to the goal of halving our individual meat consumption by 2030."

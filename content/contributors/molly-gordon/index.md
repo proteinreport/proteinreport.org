@@ -2,7 +2,7 @@
 title: "Molly Gordon"
 date: 2021-10-12 10:07:30
 lastmod: 2021-10-12 10:07:30
-slug: /molly-gordon
+slug: molly-gordon
 description: ""
 excerpt: ""
 images: ["molly.jpg"]

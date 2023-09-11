@@ -2,7 +2,7 @@
 title: "Mogale Meat Company"
 date: 2022-02-21 11:50:30
 lastmod: 2022-02-21 11:50:30
-slug: /mogale-meat-company
+slug: mogale-meat-company
 description: "Mogale Meat Co. uses cutting edge scientific research and innovation to produce cell cultivated meat from free-roaming livestock and wildlife; with the goal of improving the health, socio-economic and environmental impact of consumer meat products, one meal at a time."
 proteins: [Cell-Based]
 products: [Meat]

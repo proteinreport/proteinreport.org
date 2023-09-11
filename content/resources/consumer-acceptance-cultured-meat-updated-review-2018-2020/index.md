@@ -2,7 +2,7 @@
 title: "Consumer Acceptance of Cultured Meat: An Updated Review (2018–2020)"
 date: 2020-08-25 10:46:46
 lastmod: 2020-08-25 10:46:46
-slug: /consumer-acceptance-cultured-meat-updated-review-2018-2020
+slug: consumer-acceptance-cultured-meat-updated-review-2018-2020
 description: "Cultured meat is one of a number of alternative proteins which can help to reduce the demand for meat from animals in the future. As cultured meat nears commercialization, research on consumers’ perceptions of the technology has proliferated. We build on our 2018 systematic review to identify 26 empirical studies on consumer acceptance of cultured meat published in peer-reviewed journals since then. We find support for many of the findings of our previous review, as well as novel insights into the market for cultured meat."
 excerpt: "Cultured meat is one of a number of alternative proteins which can help to reduce the demand for meat from animals in the future. As cultured meat nears commercialization, research on consumers’ perceptions of the technology has proliferated. We build on our 2018 systematic review to identify 26 empirical studies on consumer acceptance of cultured meat published in peer-reviewed journals since then. We find support for many of the findings of our previous review, as well as novel insights into the market for cultured meat."
 proteins: [Cell-Based]

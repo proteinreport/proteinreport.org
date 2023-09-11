@@ -2,7 +2,7 @@
 title: "Loca"
 date: 2020-01-23 17:50:42
 lastmod: 2020-01-23 17:50:42
-slug: /loca
+slug: loca
 description: "Loca plant-based cheese sauce is made with non-GMO ingredients and is free from added flavors and sugars. It works great as a dip, sauce or topping; on tacos, burgers, french fries, chips, bake potatoes, pretzels… the possibilities are endless!"
 proteins: [Plant-Based]
 products: [Dairy]

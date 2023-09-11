@@ -2,7 +2,7 @@
 title: "Plant-Based Foods & Proteins Summit Americas"
 date: 2023-02-13 14:17:12
 lastmod: 2023-02-13 14:17:12
-slug: /plant-based-foods-proteins-summit-americas-0
+slug: plant-based-foods-proteins-summit-americas-0
 description: "Join us at Summit Americas to position yourself amongst the top plant-based foods and proteins industry thought leaders and disruptors in North America, and the world. The Summit will provide invaluable networking opportunities and experts will share the latest findings and insights of the entire value chain.Summit Americas will focus on the market, current trends, investments, and collaboration opportunities. Themes of affordability, accessibility, healthy diets & nutrition, and sustainability will be central, which are focal points of the Sustainable Development Goals."
 proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

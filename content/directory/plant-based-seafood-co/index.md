@@ -2,7 +2,7 @@
 title: "The Plant-Based Seafood Co."
 date: 2020-09-16 12:56:31
 lastmod: 2020-09-16 12:56:31
-slug: /plant-based-seafood-co
+slug: plant-based-seafood-co
 description: "We are an all female, family owned company with a passion for creating healthy and delicious seafood experiences that are so close to the real thing."
 proteins: [Plant-Based]
 products: [Seafood]

@@ -2,7 +2,7 @@
 title: "TEA of cultivated meat. Future projections of different scenarios"
 date: 2021-03-13 07:51:56
 lastmod: 2021-03-13 07:51:56
-slug: /tea-cultivated-meat-future-projections-different-scenarios
+slug: tea-cultivated-meat-future-projections-different-scenarios
 description: "This report provides a Techno-Economic Analysis of industrial scale production of cultivated meat (CM) as projected for the&nbsp;2030s."
 excerpt: "This report provides a Techno-Economic Analysis of industrial scale production of cultivated meat (CM) as projected for the&nbsp;2030s."
 proteins: [Cell-Based]

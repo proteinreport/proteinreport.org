@@ -2,7 +2,7 @@
 title: "The Very Good Butchers"
 date: 2020-01-08 09:28:40
 lastmod: 2020-01-08 09:28:40
-slug: /very-good-butchers
+slug: very-good-butchers
 description: "Our objective at The Very Good Butchers is to produce organic, wholesome, real food without tricks or gimmicks. Very Good Butchers butcher beans, not animals. Plant-based meats handcrafted in Victoria, BC with 100% real, whole-food ingredients."
 proteins: [Plant-Based]
 products: [Meat]

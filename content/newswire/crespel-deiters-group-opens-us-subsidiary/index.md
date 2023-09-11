@@ -2,7 +2,7 @@
 title: "Crespel & Deiters Group Opens US Subsidiary"
 date: 2023-04-04 13:29:01
 lastmod: 2023-04-04 13:29:01
-slug: /crespel-deiters-group-opens-us-subsidiary
+slug: crespel-deiters-group-opens-us-subsidiary
 company_name: "Crespel & Deiters Group"
 company_link: "https://www.crespeldeitersgroup.com/"
 description: "Leading European wheat processor now offers plant-based solution expertise to manufacturers in Central and North America"

@@ -2,7 +2,7 @@
 title: "Nutpods"
 date: 2020-01-23 17:50:43
 lastmod: 2020-01-23 17:50:43
-slug: /nutpods
+slug: nutpods
 description: "Nutpods is an independent, natural foods manufacturer based in Seattle, Washington, dedicated to introducing dairy-free creamers from plant-based ingredients."
 proteins: [Plant-Based]
 products: [Dairy]

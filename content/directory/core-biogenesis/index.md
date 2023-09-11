@@ -2,7 +2,7 @@
 title: "Core Biogenesis"
 date: 2021-01-25 16:43:21
 lastmod: 2021-01-25 16:43:21
-slug: /core-biogenesis
+slug: core-biogenesis
 description: "Core Biogenesis is building the world's most scalable bioproduction platform."
 proteins: [Microbial]
 products: [Technology & Equipment]

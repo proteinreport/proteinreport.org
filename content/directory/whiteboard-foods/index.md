@@ -2,7 +2,7 @@
 title: "Whiteboard Foods"
 date: 2021-08-04 21:51:27
 lastmod: 2021-08-04 21:51:27
-slug: /whiteboard-foods
+slug: whiteboard-foods
 description: "Whiteboard Foods develops scaffolding technology to bring cell-based and plant-based protein to kitchen tables and restaurant menus around the world."
 proteins: [Cell-Based, Plant-Based]
 products: [Scaffolding & Structure]

@@ -2,7 +2,7 @@
 title: "Paradis Vegetarien"
 date: 2020-01-23 17:50:28
 lastmod: 2020-01-23 17:50:28
-slug: /paradis-vegetarien
+slug: paradis-vegetarien
 description: "Paradis Vegetarien is a supplier of more than 200 varieties of vegetarian products and mock meats made from the highest quality non-GMO soybeans and shitake mushrooms."
 proteins: [Plant-Based]
 products: [Meat]

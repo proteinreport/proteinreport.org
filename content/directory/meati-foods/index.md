@@ -2,7 +2,7 @@
 title: "Meati Foods"
 date: 2019-11-24 11:20:57
 lastmod: 2019-11-24 11:20:57
-slug: /meati-foods
+slug: meati-foods
 description: "Sustainable plant-based meats made from natural ingredients that have the nutrition profile of real meat, plus all the nutrition and fiber of vegetables. Meati has been produced by Emergy Foods."
 proteins: [Plant-Based, Fungi]
 products: [Meat]

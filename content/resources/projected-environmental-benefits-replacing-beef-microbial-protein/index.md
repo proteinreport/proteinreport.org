@@ -2,7 +2,7 @@
 title: "Projected environmental benefits of replacing beef with microbial protein"
 date: 2022-05-14 16:45:23
 lastmod: 2022-05-14 16:45:23
-slug: /projected-environmental-benefits-replacing-beef-microbial-protein
+slug: projected-environmental-benefits-replacing-beef-microbial-protein
 description: "Ruminant meat provides valuable protein to humans, but livestock production has many negative environmental impacts, especially in terms of deforestation, greenhouse gas emissions, water use and eutrophication. In addition to a dietary shift towards plant-based diets, imitation products, including plant-based meat, cultured meat and fermentation-derived microbial protein (MP), have been proposed as means to reduce the externalities of livestock production."
 excerpt: "Ruminant meat provides valuable protein to humans, but livestock production has many negative environmental impacts, especially in terms of deforestation, greenhouse gas emissions, water use and eutrophication. In addition to a dietary shift towards plant-based diets, imitation products, including plant-based meat, cultured meat and fermentation-derived microbial protein (MP), have been proposed as means to reduce the externalities of livestock production."
 proteins: [Microbial, Animal]

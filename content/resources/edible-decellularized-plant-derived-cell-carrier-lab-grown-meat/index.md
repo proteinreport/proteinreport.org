@@ -2,7 +2,7 @@
 title: "An Edible, Decellularized Plant Derived Cell Carrier for Lab Grown Meat"
 date: 2022-06-07 13:54:16
 lastmod: 2022-06-07 13:54:16
-slug: /edible-decellularized-plant-derived-cell-carrier-lab-grown-meat
+slug: edible-decellularized-plant-derived-cell-carrier-lab-grown-meat
 description: "Rapidly expanding skeletal muscle satellite cells with cost-effective methods have been presented as a solution for meeting the growing global demand for meat. A common strategy for scaling cell proliferation employs microcarriers, small beads designed to support anchorage-dependent cells in suspension-style bioreactors. No carrier has yet been marketed for the cultivation of lab-grown meat. The objective of this study was to demonstrate a rapid, food safe, decellularization procedure to yield cell-free extracellular matrix scaffolds and evaluate them as cell carriers for lab grown meat."
 excerpt: "Rapidly expanding skeletal muscle satellite cells with cost-effective methods have been presented as a solution for meeting the growing global demand for meat. A common strategy for scaling cell proliferation employs microcarriers, small beads designed to support anchorage-dependent cells in suspension-style bioreactors. No carrier has yet been marketed for the cultivation of lab-grown meat. The objective of this study was to demonstrate a rapid, food safe, decellularization procedure to yield cell-free extracellular matrix scaffolds and evaluate them as cell carriers for lab grown meat."
 proteins: [Cell-Based]

@@ -2,7 +2,7 @@
 title: "Future Food-Tech"
 date: 2022-04-12 09:38:46
 lastmod: 2022-04-12 09:38:46
-slug: /future-food-tech-2
+slug: future-food-tech-2
 description: "Designing Foods to Improve Human and Planetary HealthAt a time of heightened fragility in the global agri-food supply chain, there has never been a more urgent need for food-tech innovation that protects both human and planetary health."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

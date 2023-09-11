@@ -2,7 +2,7 @@
 title: "Anita's Coconut Yogurt"
 date: 2020-01-23 17:50:40
 lastmod: 2020-01-23 17:50:40
-slug: /anitas-coconut-yogurt
+slug: anitas-coconut-yogurt
 description: "Anita’s is a creamy, full-fat yogurt made from coconut milk, cultured with own proprietary blend of probiotics which give the consistency of whole milk Greek-yogurt."
 proteins: [Plant-Based]
 products: [Dairy]

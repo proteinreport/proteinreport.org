@@ -2,7 +2,7 @@
 title: "Imagindairy"
 date: 2021-06-11 11:11:10
 lastmod: 2021-06-11 11:11:10
-slug: /imagindairy
+slug: imagindairy
 description: "Imagindairy, a Foodtech company, is addressing the industry bottleneck by integrating deep tech with system biology to develop a commercial and viable animal free protein-based dairy product."
 proteins: [Microbial]
 products: [Dairy]

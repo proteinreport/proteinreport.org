@@ -2,7 +2,7 @@
 title: "Bluu Biosciences appoints Chris Dammann as inaugural Chief Operating Officer"
 date: 2021-08-19 07:39:00
 lastmod: 2021-08-19 07:39:00
-slug: /bluu-biosciences-appoints-chris-dammann-inaugural-chief-operating-officer
+slug: bluu-biosciences-appoints-chris-dammann-inaugural-chief-operating-officer
 company: 7856
 description: "Europe's first company for cultivated fish onboards renowned expert to speed up large-scale production of cultivated fish products."
 excerpt: "Europe's first company for cultivated fish onboards renowned expert to speed up large-scale production of cultivated fish products."

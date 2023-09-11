@@ -2,7 +2,7 @@
 title: "Protein Literacy Basics: Antimicrobial Resistance"
 date: 2021-04-27 13:55:17
 lastmod: 2021-04-27 13:55:17
-slug: /protein-literacy-basics-antimicrobial-resistance
+slug: protein-literacy-basics-antimicrobial-resistance
 description: "Although antibiotics are generally thought of in the context of treating infections within our healthcare systems, that’s not where most are actually used. Globally, around 73% of all antibiotics are used in animals grown for food."
 excerpt: "Although antibiotics are generally thought of in the context of treating infections within our healthcare systems, that’s not where most are actually used. Globally, around 73% of all antibiotics are used in animals grown for food."
 proteins: [Animal]

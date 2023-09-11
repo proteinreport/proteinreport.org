@@ -2,7 +2,7 @@
 title: "Tiamat Sciences - Using Plants in Place of Bioreactors to Meet the Future Needs of Cellular Agriculture"
 date: 2020-07-15 09:15:15
 lastmod: 2020-07-15 09:15:15
-slug: /tiamat-sciences-using-plants-place-bioreactors-meet-future-needs-cellular-agriculture
+slug: tiamat-sciences-using-plants-place-bioreactors-meet-future-needs-cellular-agriculture
 description: "In 2040, one third of the meat on our plates could be grown outside of animals, drastically reducing the leading sources of CO2 emissions and water pollution, while answering the question of how to feed a global population of nine billion. Cellular agriculture companies such as Memphis Meats, BlueNalu, and Mosa Meat are racing to bring their products to market, but they are still missing a key ingredient: affordable culture media available in large quantities. Brussels-based startup Tiamat Sciences believes their technology platform could become the best option to bridge that gap."
 excerpt: "In 2040, one third of the meat on our plates could be grown outside of animals, drastically reducing the leading sources of CO2 emissions and water pollution, while answering the question of how to feed a global population of nine billion. Cellular agriculture companies such as Memphis Meats, BlueNalu, and Mosa Meat are racing to bring their products to market, but they are still missing a key ingredient: affordable culture media available in large quantities. Brussels-based startup Tiamat Sciences believes their technology platform could become the best option to bridge that gap."
 proteins: [Cell-Based, Molecular Farming]

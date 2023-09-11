@@ -2,7 +2,7 @@
 title: "Devon Garden Foods"
 date: 2020-05-12 11:05:25
 lastmod: 2020-05-12 11:05:25
-slug: /devon-garden-foods
+slug: devon-garden-foods
 description: "We’ve crafted a delicious, smooth and creamy milk alternative from yellow split peas that has more proteins, more fibre, and significantly less sugars than other alternatives. So, join the cause and help us build a resilient food system that benefits our planet and all its inhabitants."
 proteins: [Plant-Based]
 products: [Dairy]

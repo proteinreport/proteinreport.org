@@ -2,7 +2,7 @@
 title: "Benovo"
 date: 2020-01-13 14:56:33
 lastmod: 2020-01-13 14:56:33
-slug: /benovo
+slug: benovo
 description: "Benevo is an independent pet food company based in Hampshire in the UK. Established in 2005, Benevo provides the most ethical alternative to commercial meat pet foods."
 proteins: [Plant-Based]
 products: [Pet Food]

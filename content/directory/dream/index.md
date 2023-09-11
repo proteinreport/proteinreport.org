@@ -2,7 +2,7 @@
 title: "Dream"
 date: 2020-01-23 17:50:30
 lastmod: 2020-01-23 17:50:30
-slug: /dream
+slug: dream
 description: "DREAM has redefined what is possible for the dairy-free with a large variety of plant based offerings, including plant based beverages, frozen desserts, yogurts & chocolate, all enrolled in the Non-GMO Project. They’re nutritious and loaded with flavor."
 proteins: [Plant-Based]
 products: [Dairy]

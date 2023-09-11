@@ -2,7 +2,7 @@
 title: "Yemoja"
 date: 2020-04-06 07:56:23
 lastmod: 2020-04-06 07:56:23
-slug: /yemoja
+slug: yemoja
 description: "Yemoja is an innovative company specializing in industrial, multi-species microalgae production. Our state of the art technology changes the concept of algaculture manufacturing. Thanks to our expertise and our unique patented technology, we are able to produce high quantities of products extracted from microalgae Our mission is to rely on our expertise to provide our clients with microalgae-derived high-value products, with the highest production standards and quality."
 proteins: [Algae]
 products: [Ingredients]

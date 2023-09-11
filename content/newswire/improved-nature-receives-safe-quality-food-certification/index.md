@@ -2,7 +2,7 @@
 title: "Improved Nature Receives Safe Quality Food Certification"
 date: 2020-05-19 10:49:02
 lastmod: 2020-05-19 10:49:02
-slug: /improved-nature-receives-safe-quality-food-certification
+slug: improved-nature-receives-safe-quality-food-certification
 company: 1153
 description: "Improved Nature, a plant-based protein company, is proud to share that it has earned the Safe Quality Food Certification for its Nature’s PRIME™ products."
 excerpt: "Improved Nature, a plant-based protein company, is proud to share that it has earned the Safe Quality Food Certification for its Nature’s PRIME™ products."

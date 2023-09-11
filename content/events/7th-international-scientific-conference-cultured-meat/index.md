@@ -2,7 +2,7 @@
 title: "7th International Scientific Conference on Cultured Meat"
 date: 2021-07-28 09:54:46
 lastmod: 2021-07-28 09:54:46
-slug: /7th-international-scientific-conference-cultured-meat
+slug: 7th-international-scientific-conference-cultured-meat
 description: "Save the date! 29-30-1 Nov-Dec 2021!Abstract submission is already possible. Registration information will follow shortly."
 proteins: [Cell-Based]
 products: [Meat]
@@ -22,5 +22,7 @@ draft: false
 weight: 5000
 uuid: 9390
 ---
-<p>Save the date! 29-30-1 Nov-Dec 2021!</p>
-<p>Abstract submission is already possible. Registration information will follow shortly.</p>
+Save the date! 29-30-1 Nov-Dec 2021!
+
+Abstract submission is already possible. Registration information will
+follow shortly.

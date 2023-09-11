@@ -2,7 +2,7 @@
 title: "Pulses 23"
 date: 2023-05-26 07:04:13
 lastmod: 2023-05-26 07:04:13
-slug: /pulses-23
+slug: pulses-23
 description: "The GPC Pulses Conference is the industry’s largest global event, bringing together key players from more than 50 countries."
 proteins: [Plant-Based]
 products: [Ingredients]

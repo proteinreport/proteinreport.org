@@ -2,7 +2,7 @@
 title: "Life Cycle Assessment of Burger Patties Produced with Extruded Meat Substitutes"
 date: 2021-04-26 15:13:00
 lastmod: 2021-04-26 15:13:00
-slug: /life-cycle-assessment-burger-patties-produced-extruded-meat-substitutes
+slug: life-cycle-assessment-burger-patties-produced-extruded-meat-substitutes
 description: "Extruded meat substitutes, due to their high protein content, meat-like texture and meat processing compatibility, are very popular as the main ingredient of plant-based burger patties. The extrusion of plant-based proteins can be performed by two technologies: high moisture extrudates (HME) and low moisture texturized vegetable proteins (TVP). The largest difference between the technologies relates to the moisture content prevailing inside the extrusion barrel. The extrusion processes also vary in their throughput, and yields."
 excerpt: "Extruded meat substitutes, due to their high protein content, meat-like texture and meat processing compatibility, are very popular as the main ingredient of plant-based burger patties. The extrusion of plant-based proteins can be performed by two technologies: high moisture extrudates (HME) and low moisture texturized vegetable proteins (TVP). The largest difference between the technologies relates to the moisture content prevailing inside the extrusion barrel. The extrusion processes also vary in their throughput, and yields."
 proteins: [Plant-Based]

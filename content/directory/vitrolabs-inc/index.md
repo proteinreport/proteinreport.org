@@ -2,7 +2,7 @@
 title: "VitroLabs Inc"
 date: 2021-01-26 18:00:46
 lastmod: 2021-01-26 18:00:46
-slug: /vitrolabs-inc
+slug: vitrolabs-inc
 description: "Vitrolabs is bringing to market a true replacement for high-quality leather. They are rebuilding the leather supply chain by growing only the leather you need, where and when you need it with complete transparency, traceability, and a significantly reduced environmental footprint. Grown in a lab from the skin cells of cows, there is no harm to animals, ever. Harnessing science and nature to cultivate authentic materials starting with slaughter-free lab-grown leather."
 proteins: [Cell-Based]
 products: [Materials]

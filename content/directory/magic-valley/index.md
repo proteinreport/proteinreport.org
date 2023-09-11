@@ -2,7 +2,7 @@
 title: "Magic Valley"
 date: 2021-04-23 12:26:33
 lastmod: 2021-04-23 12:26:33
-slug: /magic-valley
+slug: magic-valley
 description: "Magic Valley is an Australia based food company developing healthy and delicious cell-based meat products."
 proteins: [Cell-Based]
 products: [Meat]

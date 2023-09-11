@@ -2,7 +2,7 @@
 title: "Cellular Agriculture: End of the Year Summit 2021"
 date: 2021-11-18 12:46:48
 lastmod: 2021-11-18 12:46:48
-slug: /cellular-agriculture-end-year-summit-2021
+slug: cellular-agriculture-end-year-summit-2021
 description: "CellAgri is excited to present the Cellular Agriculture: End of the Year Summit 2021 to bring together leaders in the cellular agriculture field to highlight the field's achievements and accomplishments."
 proteins: [Cell-Based, Microbial]
 products: [Meat, Dairy, Seafood, Ingredients]

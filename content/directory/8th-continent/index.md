@@ -2,7 +2,7 @@
 title: "8th Continent"
 date: 2020-01-23 17:50:30
 lastmod: 2020-01-23 17:50:30
-slug: /8th-continent
+slug: 8th-continent
 description: "Stremicks Heritage Foods is a family run business. The company produces and sells the high quality plant-based dairy products at affordable prices . "
 proteins: [Plant-Based]
 products: [Dairy]

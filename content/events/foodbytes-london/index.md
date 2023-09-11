@@ -2,7 +2,7 @@
 title: "FoodBytes! London"
 date: 2019-11-03 12:16:01
 lastmod: 2019-11-03 12:16:01
-slug: /foodbytes-london
+slug: foodbytes-london
 description: "NA"
 proteins: [Cell-Based, Plant-Based, Insect]
 products: [NA]

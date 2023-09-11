@@ -2,7 +2,7 @@
 title: "Cultivating Multidisciplinarity: Manufacturing and Sensing Challenges in Cultured Meat Production"
 date: 2021-03-09 15:07:06
 lastmod: 2021-03-09 15:07:06
-slug: /cultivating-multidisciplinarity-manufacturing-and-sensing-challenges-cultured-meat
+slug: cultivating-multidisciplinarity-manufacturing-and-sensing-challenges-cultured-meat
 description: "United Nations estimates that by the year 2050, the population of nearly 10 billion people will have 70% higher food demands than the current food systems can provide for. This needs to be observed in the context of the on-going climate change and related negative effects of the traditional agriculture. Conventional livestock-based value chains contribute to the high greenhouse gas emissions. Meat cultivation via cellular agriculture holds great promise as a method for future food production."
 excerpt: "United Nations estimates that by the year 2050, the population of nearly 10 billion people will have 70% higher food demands than the current food systems can provide for. This needs to be observed in the context of the on-going climate change and related negative effects of the traditional agriculture. Conventional livestock-based value chains contribute to the high greenhouse gas emissions. Meat cultivation via cellular agriculture holds great promise as a method for future food production."
 proteins: [Cell-Based]

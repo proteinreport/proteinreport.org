@@ -2,7 +2,7 @@
 title: "Engineering carotenoid production in mammalian cells for nutritionally enhanced cell-cultured foods"
 date: 2020-12-16 19:35:59
 lastmod: 2020-12-16 19:35:59
-slug: /engineering-carotenoid-production-mammalian-cells-nutritionally-enhanced-cell-cultured
+slug: engineering-carotenoid-production-mammalian-cells-nutritionally-enhanced-cell-cultured
 description: "Metabolic engineering of mammalian cells has to-date focused primarily on biopharmaceutical protein production or the manipulation of native metabolic processes towards therapeutic aims. However, significant potential exists for expanding these techniques to diverse applications by looking across the taxonomic tree to bioactive metabolites not synthesized in animals. Namely, cross-taxa metabolic engineering of mammalian cells could offer value in applications ranging fromfood and nutrition to regenerative medicine and gene therapy."
 excerpt: "Metabolic engineering of mammalian cells has to-date focused primarily on biopharmaceutical protein production or the manipulation of native metabolic processes towards therapeutic aims. However, significant potential exists for expanding these techniques to diverse applications by looking across the taxonomic tree to bioactive metabolites not synthesized in animals. Namely, cross-taxa metabolic engineering of mammalian cells could offer value in applications ranging fromfood and nutrition to regenerative medicine and gene therapy."
 proteins: [Cell-Based]

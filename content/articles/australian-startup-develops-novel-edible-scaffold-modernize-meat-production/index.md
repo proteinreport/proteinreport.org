@@ -2,7 +2,7 @@
 title: "Australian Startup Develops Novel Edible Scaffold to Modernize Meat Production"
 date: 2020-07-20 13:03:12
 lastmod: 2020-07-20 13:03:12
-slug: /australian-startup-develops-novel-edible-scaffold-modernize-meat-production
+slug: australian-startup-develops-novel-edible-scaffold-modernize-meat-production
 description: "A recently founded startup from Australia has developed a novel edible scaffold for cultivated meat production, addressing one of the key challenges facing the cellular agriculture industry. Perth-based Cass Materials has harnessed the natural fermentation processes discovered in the production of nata de coco — a coconut jelly commonly used in desserts in the Philippines — to manufacture a nanocellulose fiber matrix within which meat cells can adhere and grow."
 excerpt: "A recently founded startup from Australia has developed a novel edible scaffold for cultivated meat production, addressing one of the key challenges facing the cellular agriculture industry. Perth-based Cass Materials has harnessed the natural fermentation processes discovered in the production of nata de coco — a coconut jelly commonly used in desserts in the Philippines — to manufacture a nanocellulose fiber matrix within which meat cells can adhere and grow."
 proteins: [Cell-Based]

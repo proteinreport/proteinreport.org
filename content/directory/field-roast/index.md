@@ -2,7 +2,7 @@
 title: "Field Roast"
 date: 2020-01-06 14:07:25
 lastmod: 2020-01-06 14:07:25
-slug: /field-roast
+slug: field-roast
 description: "The original maker of grain meats, Field Roast uses fresh whole food ingredients — grains, vegetables, legumes and spices — to craft our artisanal plant-based meats and cheeses. Since launch in 1997, the brand has been a pioneer in the plant-based industry by using traditional food-making practices to create flavor-forward foods that celebrate plants. Our ever-expanding portfolio of plant-based products includes roasts, sausages, deli slices, loaves, a frankfurter, and a burger, as well as our very own Chao Creamery cheese."
 proteins: [Plant-Based, Fungi]
 products: [Meat]

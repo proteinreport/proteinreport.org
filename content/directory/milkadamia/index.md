@@ -2,7 +2,7 @@
 title: "Milkadamia"
 date: 2020-01-23 17:50:52
 lastmod: 2020-01-23 17:50:52
-slug: /milkadamia
+slug: milkadamia
 description: "Plant-based drinks company milkadamia supplies the soil beneficial organic matter in the form of its own compost. From these soils comes more nutrient dense food, loaded with phytonutrients, nature’s own protective compounds, eliminating the need for chemical sprays. Milkadamia also keeps the soil protected with cover growth between their macadamia trees, and encourages the growth of native shrubs and trees around the property to ensure biodiversity."
 proteins: [Plant-Based]
 products: [Dairy]

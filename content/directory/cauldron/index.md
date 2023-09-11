@@ -2,7 +2,7 @@
 title: "Cauldron"
 date: 2020-01-13 15:08:47
 lastmod: 2020-01-13 15:08:47
-slug: /cauldron
+slug: cauldron
 description: "Cauldron is the UK based producer of plant-based foods including tofu, falafel, sausages, and a range of ready to eat products."
 proteins: [Plant-Based]
 products: [Meat, Ingredients]

@@ -2,7 +2,7 @@
 title: "Nobell Foods"
 date: 2021-07-22 14:58:35
 lastmod: 2021-07-22 14:58:35
-slug: /nobell-foods
+slug: nobell-foods
 description: "We make delicious cheese from plant-derived dairy proteins, supporting a larger mission of creating a radically more humane and sustainable food system. Our cheese stretches, melts, and tastes as great as the ones from cows and goats - minus the animals."
 proteins: [Molecular Farming]
 products: [Dairy]

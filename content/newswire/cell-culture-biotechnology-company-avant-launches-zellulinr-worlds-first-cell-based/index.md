@@ -2,7 +2,7 @@
 title: "Cell culture biotechnology company Avant launches Zellulin®, the world’s first cell-based functional protein ingredient for skincare"
 date: 2021-02-15 08:25:40
 lastmod: 2021-02-15 08:25:40
-slug: /cell-culture-biotechnology-company-avant-launches-zellulinr-worlds-first-cell-based
+slug: cell-culture-biotechnology-company-avant-launches-zellulinr-worlds-first-cell-based
 company: 5810
 description: "Avant announces today the launch of Zellulin®, an ethically and sustainably sourced bioactive ingredient produced in a fully traceable and controlled environment, using Avant's cell culture biotechnology."
 excerpt: "Avant announces today the launch of Zellulin®, an ethically and sustainably sourced bioactive ingredient produced in a fully traceable and controlled environment, using Avant's cell culture biotechnology."

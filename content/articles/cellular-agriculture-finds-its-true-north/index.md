@@ -2,7 +2,7 @@
 title: "Cellular Agriculture Finds Its True North"
 date: 2021-06-16 08:46:47
 lastmod: 2021-06-16 08:46:47
-slug: /cellular-agriculture-finds-its-true-north
+slug: cellular-agriculture-finds-its-true-north
 description: "Though perhaps not thought of as immediately as startup magnets like Silicon Valley, Singapore, or Israel, it would be a mistake to overlook the innovation culture of Canada — the outlook for cellular agriculture there is highly optimistic."
 excerpt: "Though perhaps not thought of as immediately as startup magnets like Silicon Valley, Singapore, or Israel, it would be a mistake to overlook the innovation culture of Canada — the outlook for cellular agriculture there is highly optimistic."
 proteins: [Cell-Based]

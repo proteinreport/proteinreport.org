@@ -2,7 +2,7 @@
 title: "Akua"
 date: 2020-01-23 17:50:37
 lastmod: 2020-01-23 17:50:37
-slug: /akua
+slug: akua
 description: "Akua is a sustainable, seaweed-based jerky snack brand on a mission to create food in the right way: healthy, delicious and with a positive impact on the planet. Ajua creates seaweed-based snacks made from ocean farmed kelp. The company sources its kelp from its network of New England-based ocean farms that require no fresh water, dry land, fertilizer or feed to grow."
 proteins: [Algae]
 products: [Meat]

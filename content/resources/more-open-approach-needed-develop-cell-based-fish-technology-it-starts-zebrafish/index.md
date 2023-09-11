@@ -2,7 +2,7 @@
 title: "A More Open Approach Is Needed to Develop Cell-Based Fish Technology: It Starts with Zebrafish"
 date: 2020-07-29 10:43:02
 lastmod: 2020-07-29 10:43:02
-slug: /more-open-approach-needed-develop-cell-based-fish-technology-it-starts-zebrafish
+slug: more-open-approach-needed-develop-cell-based-fish-technology-it-starts-zebrafish
 description: "The global demand for fish is rising and projected to increase for years to come. However, there is uncertainty whether this increased demand can be met by the conventional approaches of capture fisheries and fish farming because of wild stock depletion, natural resource requirements, and environmental impact concerns. One proposed complementary solution is to manufacture the same meat directly from fish cells, as cell-based fish."
 excerpt: "The global demand for fish is rising and projected to increase for years to come. However, there is uncertainty whether this increased demand can be met by the conventional approaches of capture fisheries and fish farming because of wild stock depletion, natural resource requirements, and environmental impact concerns. One proposed complementary solution is to manufacture the same meat directly from fish cells, as cell-based fish."
 proteins: [Cell-Based]

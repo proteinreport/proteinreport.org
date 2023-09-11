@@ -2,7 +2,7 @@
 title: "Next Gen Foods"
 date: 2021-04-20 10:46:46
 lastmod: 2021-04-20 10:46:46
-slug: /next-gen-foods
+slug: next-gen-foods
 description: "Next Gen Foods creates plant-based chicken with the intention of making consumers forget why animals were ever needed."
 proteins: [Plant-Based]
 products: [Meat]

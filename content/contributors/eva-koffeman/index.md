@@ -2,7 +2,7 @@
 title: "Eva Koffeman"
 date: 2021-10-12 09:41:42
 lastmod: 2021-10-12 09:41:42
-slug: /eva-koffeman
+slug: eva-koffeman
 description: ""
 excerpt: ""
 images: ["eva_1.jpg"]

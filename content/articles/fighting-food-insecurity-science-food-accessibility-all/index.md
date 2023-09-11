@@ -2,7 +2,7 @@
 title: "Fighting Food Insecurity with Science: Food Accessibility for All"
 date: 2021-11-03 08:55:05
 lastmod: 2021-11-03 08:55:05
-slug: /fighting-food-insecurity-science-food-accessibility-all
+slug: fighting-food-insecurity-science-food-accessibility-all
 description: "This essay is second-place winner of the Student Essay Contest 2021. Eileen McNamara is a Neuroscience PhD Candidate Researcher at the Uniformed Services University of the Health Sciences and a Cellular Agriculture Society Fellow."
 excerpt: "This essay is second-place winner of the Student Essay Contest 2021. Eileen McNamara is a Neuroscience PhD Candidate Researcher at the Uniformed Services University of the Health Sciences and a Cellular Agriculture Society Fellow."
 proteins: [Cell-Based]

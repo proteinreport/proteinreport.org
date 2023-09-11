@@ -2,7 +2,7 @@
 title: "BLUU Seafood raises EUR 16 million in Series A funding to bring cultivated fish to market"
 date: 2023-06-28 13:20:23
 lastmod: 2023-06-28 13:20:23
-slug: /bluu-seafood-raises-eur-16-million-series-funding-bring-cultivated-fish-market
+slug: bluu-seafood-raises-eur-16-million-series-funding-bring-cultivated-fish-market
 company: 7856
 description: "BLUU Seafood, the leading European food biotech company to produce cultivated fish, continues its growth path and successfully closes its Series A. By raising EUR 16 million, the German start-up secures the necessary capital to further advance the work on their groundbreaking technology and the market launch of first products."
 excerpt: "BLUU Seafood, the leading European food biotech company to produce cultivated fish, continues its growth path and successfully closes its Series A. By raising EUR 16 million, the German start-up secures the necessary capital to further advance the work on their groundbreaking technology and the market launch of first products."

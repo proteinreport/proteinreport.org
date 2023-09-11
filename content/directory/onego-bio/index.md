@@ -2,7 +2,7 @@
 title: "Onego Bio"
 date: 2022-03-13 12:20:22
 lastmod: 2022-03-13 12:20:22
-slug: /onego-bio
+slug: onego-bio
 description: "Onego Bio biotech company producing animal-free egg white with precision fermentation."
 proteins: [Microbial]
 products: [Eggs, Ingredients]

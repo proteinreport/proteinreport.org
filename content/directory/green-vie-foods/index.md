@@ -2,7 +2,7 @@
 title: "Green Vie Foods"
 date: 2020-01-23 17:50:58
 lastmod: 2020-01-23 17:50:58
-slug: /green-vie-foods
+slug: green-vie-foods
 description: "Green Vie is a range of dairy free delights. Green Vie offers a whole range of plant-based cheeses, spreads and stuffed antipasti."
 proteins: [Plant-Based]
 products: [Dairy]

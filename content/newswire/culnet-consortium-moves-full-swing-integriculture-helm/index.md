@@ -2,7 +2,7 @@
 title: "CulNet Consortium Moves into Full Swing with IntegriCulture at the Helm"
 date: 2021-06-18 12:18:29
 lastmod: 2021-06-18 12:18:29
-slug: /culnet-consortium-moves-full-swing-integriculture-helm
+slug: culnet-consortium-moves-full-swing-integriculture-helm
 company: 5818
 description: "Cellular agriculture pioneer IntegriCulture announces the CulNet Consortium, an open innovation platform for cellular agriculture."
 excerpt: "Cellular agriculture pioneer IntegriCulture announces the CulNet Consortium, an open innovation platform for cellular agriculture."

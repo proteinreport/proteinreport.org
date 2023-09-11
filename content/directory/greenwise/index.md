@@ -2,7 +2,7 @@
 title: "Greenwise"
 date: 2020-01-15 16:10:09
 lastmod: 2020-01-15 16:10:09
-slug: /greenwise
+slug: greenwise
 description: "Russian startup Greenwise, produces plant-based meat alternatives — meat and jerky — that are structurally almost identical to meat. Their products look, feel, and chew like real meat. Their plant-based meat comes in dry form and it absorbs the taste. The products of Greenwise are made to replace meat in dishes without having to compromise on taste or texture. They appeal to a fast growing consumer base of environmentally or ethically conscious people who want to reduce their impact but not ready to give up meat."
 proteins: [Plant-Based]
 products: [Meat]

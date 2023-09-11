@@ -2,7 +2,7 @@
 title: "Rebbl"
 date: 2020-01-23 17:50:46
 lastmod: 2020-01-23 17:50:46
-slug: /rebbl
+slug: rebbl
 description: "REBBL is a beverage brand on a mission to fight modern-day slavery. The Coconut-Milk Elixirs soulfully crafted with the best ingredients of the Plant Queendom. The beverages are made of an organic ingredient, the mighty Brazil nuts, one of over 70 that REBBL sources from around the world to help uplift communities."
 proteins: [Plant-Based]
 products: [Dairy]

@@ -2,7 +2,7 @@
 title: "Float Foods"
 date: 2021-06-11 11:15:53
 lastmod: 2021-06-11 11:15:53
-slug: /float-foods
+slug: float-foods
 description: "Float Foods is bringing about change in our environment by transforming how we eat and what we eat. They aim to build up their local capabilities by offering tasty nutrient-dense plant-based foods, by leveraging food tech and innovation. They plan to invest in local production to impact food security."
 proteins: [Plant-Based]
 products: [Eggs, Ingredients]

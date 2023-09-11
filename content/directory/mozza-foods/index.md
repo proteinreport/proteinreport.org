@@ -2,7 +2,7 @@
 title: "Mozza Foods"
 date: 2021-04-08 13:30:46
 lastmod: 2021-04-08 13:30:46
-slug: /mozza-foods
+slug: mozza-foods
 description: "Mozza Foods is a Los Angeles based startup working on producing cheese made from the proteins found in cows milk using plants rather than the cow. The intention is to create products with all the same functionality associated with cheese while promoting a greener planet."
 proteins: [Molecular Farming]
 products: [Dairy]

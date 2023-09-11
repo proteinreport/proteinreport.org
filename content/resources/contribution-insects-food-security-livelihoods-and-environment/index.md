@@ -2,7 +2,7 @@
 title: "The Contribution of Insects to Food Security, Livelihoods and the Environment"
 date: 2018-12-08 18:15:07
 lastmod: 2018-12-08 18:15:07
-slug: /contribution-insects-food-security-livelihoods-and-environment
+slug: contribution-insects-food-security-livelihoods-and-environment
 description: "Can insects contribute to food and feed security?Yes. Population growth, urbanization and the rising middle class have increased the global demand for food, especially animal based protein sources."
 excerpt: "Can insects contribute to food and feed security?Yes. Population growth, urbanization and the rising middle class have increased the global demand for food, especially animal based protein sources."
 proteins: [Insect]

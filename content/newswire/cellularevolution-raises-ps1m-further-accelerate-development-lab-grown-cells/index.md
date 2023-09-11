@@ -2,7 +2,7 @@
 title: "CellulaREvolution raises £1m to further accelerate the development of lab grown cells"
 date: 2021-02-05 16:28:46
 lastmod: 2021-02-05 16:28:46
-slug: /cellularevolution-raises-ps1m-further-accelerate-development-lab-grown-cells
+slug: cellularevolution-raises-ps1m-further-accelerate-development-lab-grown-cells
 company: 5855
 description: "Technology disrupter CellulaREvolution, which aims to revolutionise the way cells are grown in labs, has raised £1million from a set of strategic investors including CPT Capital, Stephan Schmidt, Orange Light Ventures, and funds managed by Northstar Ventures, the North East Innovation Fund supported by the European Regional Development Fund and the newly launched Northern Accelerator Seed Investment Fund (NASIF)."
 excerpt: "Technology disrupter CellulaREvolution, which aims to revolutionise the way cells are grown in labs, has raised £1million from a set of strategic investors including CPT Capital, Stephan Schmidt, Orange Light Ventures, and funds managed by Northstar Ventures, the North East Innovation Fund supported by the European Regional Development Fund and the newly launched Northern Accelerator Seed Investment Fund (NASIF)."

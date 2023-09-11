@@ -2,7 +2,7 @@
 title: "My Ey"
 date: 2020-01-23 17:50:57
 lastmod: 2020-01-23 17:50:57
-slug: /my-ey
+slug: my-ey
 description: "Plant-based egg alternatives for baking and cooking."
 proteins: [Plant-Based]
 products: [Eggs]

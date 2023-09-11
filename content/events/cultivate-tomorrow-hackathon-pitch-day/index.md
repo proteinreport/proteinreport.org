@@ -2,7 +2,7 @@
 title: "Cultivate Tomorrow Hackathon Pitch Day"
 date: 2021-12-30 08:12:00
 lastmod: 2021-12-30 08:12:00
-slug: /cultivate-tomorrow-hackathon-pitch-day
+slug: cultivate-tomorrow-hackathon-pitch-day
 description: "Get immersed in the Cultivated Food, Cell Ag, Precision Fermentation Industry!About this event**This event is for those interested in viewing the final hackathon presentations, as well as those already registered to participate in the hackathon. Registering here does not enroll participants in the hackathon challenge.***Location: Virtual, Hopin Platform"
 proteins: [Cell-Based]
 products: [Meat, Dairy, Seafood]

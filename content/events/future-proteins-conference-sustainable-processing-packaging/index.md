@@ -2,7 +2,7 @@
 title: "Future Proteins Conference on Sustainable Processing & Packaging"
 date: 2022-12-16 08:12:04
 lastmod: 2022-12-16 08:12:04
-slug: /future-proteins-conference-sustainable-processing-packaging
+slug: future-proteins-conference-sustainable-processing-packaging
 description: "Join us at the first ever Future Proteins Conference on Sustainable Processing & Packaging on February 1-2, 2023.The two-day event promises to be a unique opportunity to gain valuable insight from esteemed keynote speakers from the field, to network with experts and your peers, and to experience first-hand a wide range of state-of-the-art, sustainable processing and packaging solutions."
 proteins: [Cell-Based, Plant-Based, Microbial, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

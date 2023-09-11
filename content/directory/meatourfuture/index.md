@@ -2,7 +2,7 @@
 title: "MeatOurFuture"
 date: 2021-08-02 20:27:22
 lastmod: 2021-08-02 20:27:22
-slug: /meatourfuture
+slug: meatourfuture
 description: "MeatOurFuture's mission is to establish the framework for a regional network of public-private innovation centers advancing the inter-disciplinary field of cell cultured meat engineering and biomanufacture at scale. This network of local and international facilities is committed to feeding the next billion people with healthy and nutritious cell-culture meat products, to the benefit of animals, people, and the environment."
 proteins: [Cell-Based]
 products: []

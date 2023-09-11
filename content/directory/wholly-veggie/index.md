@@ -2,7 +2,7 @@
 title: "Wholly Veggie"
 date: 2020-01-23 17:50:54
 lastmod: 2020-01-23 17:50:54
-slug: /wholly-veggie
+slug: wholly-veggie
 description: "Wholly Veggie products offer a simple way to incorporate vegetables into the diet since they are all made from plant-based ingredients. Perfect for afternoon cravings, they are a great way for children to get a delicious, healthy snack at the end of the day. They’re also an amazing alternative to traditional sweet or salty snacks, making them the perfect way to start up your new year, new you resolutions."
 proteins: [Plant-Based]
 products: [Meat]

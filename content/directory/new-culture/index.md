@@ -2,7 +2,7 @@
 title: "New Culture"
 date: 2020-01-17 19:11:03
 lastmod: 2020-01-17 19:11:03
-slug: /new-culture
+slug: new-culture
 description: "New Culture is focusing on producing casein, a protein that coagulates to give mozzarella cheese its stretchy texture."
 proteins: [Microbial]
 products: [Dairy]

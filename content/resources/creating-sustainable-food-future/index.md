@@ -2,7 +2,7 @@
 title: "Creating a Sustainable Food Future"
 date: 2020-01-20 20:48:00
 lastmod: 2020-01-20 20:48:00
-slug: /creating-sustainable-food-future
+slug: creating-sustainable-food-future
 description: "Can we feed the world without destroying the planet? The ‘World Resources Report: Creating a Sustainable Food Future’ shows that it is possible – but there is no silver&nbsp;bullet."
 excerpt: "Can we feed the world without destroying the planet? The ‘World Resources Report: Creating a Sustainable Food Future’ shows that it is possible – but there is no silver&nbsp;bullet."
 proteins: [Plant-Based, Animal]

@@ -2,7 +2,7 @@
 title: "CellX Raises $6.5M Series A+ to Build China's First Cultivated Meat Pilot Facility"
 date: 2023-06-25 18:10:00
 lastmod: 2023-06-25 18:10:00
-slug: /cellx-raises-65m-series-build-chinas-first-cultivated-meat-pilot-facility
+slug: cellx-raises-65m-series-build-chinas-first-cultivated-meat-pilot-facility
 company: 8329
 description: "Chinese leading cellular agriculture company CellX raised $6.5M in its Series A+ funding"
 excerpt: "Chinese leading cellular agriculture company CellX raised $6.5M in its Series A+ funding"

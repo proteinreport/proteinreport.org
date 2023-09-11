@@ -2,7 +2,7 @@
 title: "The Psychology of Eating Animals"
 date: 2019-11-09 15:44:49
 lastmod: 2019-11-09 15:44:49
-slug: /psychology-eating-animals
+slug: psychology-eating-animals
 description: "Most people both eat animals and care about animals. Research has begun to examine the psychological processes that allow people to negotiate this “meat paradox.” To understand the psychology of eating animals, we examine characteristics of the eaters (people), the eaten (animals), and the eating (the behavior). People who value masculinity, enjoy meat and do not see it as a moral issue, and find dominance and inequality acceptable are most likely to consume animals."
 excerpt: "Most people both eat animals and care about animals. Research has begun to examine the psychological processes that allow people to negotiate this “meat paradox.” To understand the psychology of eating animals, we examine characteristics of the eaters (people), the eaten (animals), and the eating (the behavior). People who value masculinity, enjoy meat and do not see it as a moral issue, and find dominance and inequality acceptable are most likely to consume animals."
 resource_type: [academic]

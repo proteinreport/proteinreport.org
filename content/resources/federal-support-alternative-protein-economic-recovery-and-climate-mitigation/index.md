@@ -2,7 +2,7 @@
 title: "Federal Support for Alternative Protein for Economic Recovery and Climate Mitigation"
 date: 2020-05-12 15:58:31
 lastmod: 2020-05-12 15:58:31
-slug: /federal-support-alternative-protein-economic-recovery-and-climate-mitigation
+slug: federal-support-alternative-protein-economic-recovery-and-climate-mitigation
 description: "The United States has been a world leader in the nascent alternative protein sector, which has quickly produced innovative, high-demand foods with lower carbon emissions than animal protein sources, while avoiding risk of zoonotic disease. These foods include meat and dairy products made from plants, fungi or mycoprotein, insects, algae, fermentation, and cultivated (“lab-grown” or “cell-based”) meat."
 excerpt: "The United States has been a world leader in the nascent alternative protein sector, which has quickly produced innovative, high-demand foods with lower carbon emissions than animal protein sources, while avoiding risk of zoonotic disease. These foods include meat and dairy products made from plants, fungi or mycoprotein, insects, algae, fermentation, and cultivated (“lab-grown” or “cell-based”) meat."
 proteins: [Cell-Based, Plant-Based, Algae, Fungi]

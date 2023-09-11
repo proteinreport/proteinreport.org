@@ -2,7 +2,7 @@
 title: "Agulos Biotech"
 date: 2020-01-23 18:10:01
 lastmod: 2020-01-23 18:10:01
-slug: /agulos-biotech
+slug: agulos-biotech
 description: "Simulated Platelet Lysate (porcine); a replacement for FBS"
 proteins: [Cell-Based]
 products: [Cell Culture Media]

@@ -2,7 +2,7 @@
 title: "Eat Just Announces $25 Million Investment from C2 Capital"
 date: 2022-08-17 06:49:26
 lastmod: 2022-08-17 06:49:26
-slug: /eat-just-announces-25-million-investment-c2-capital
+slug: eat-just-announces-25-million-investment-c2-capital
 company: 234
 description: "Eat Just, Inc., a company that applies cutting-edge science and technology on a mission to create healthier, more sustainable foods, today announced a $25 million investment and strategic partnership with private equity firm C2 Capital Partners."
 excerpt: "Eat Just, Inc., a company that applies cutting-edge science and technology on a mission to create healthier, more sustainable foods, today announced a $25 million investment and strategic partnership with private equity firm C2 Capital Partners."

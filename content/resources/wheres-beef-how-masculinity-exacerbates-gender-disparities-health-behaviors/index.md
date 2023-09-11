@@ -2,7 +2,7 @@
 title: "Where’s the Beef? How Masculinity Exacerbates Gender Disparities in Health Behaviors"
 date: 2020-01-26 08:29:55
 lastmod: 2020-01-26 08:29:55
-slug: /wheres-beef-how-masculinity-exacerbates-gender-disparities-health-behaviors
+slug: wheres-beef-how-masculinity-exacerbates-gender-disparities-health-behaviors
 description: "Men in the United States have higher rates of life-threatening diseases than do women, in part due to behavioral differences in health practices. We argue that men’s enactment of masculinity in their daily lives contributes to health behavior differences. We focus on meat consumption, a masculine-stereotyped dietary practice that epidemiological studies have linked to negative health outcomes. In study 1, nationally representative survey data indicate men report less healthy lifestyle preferences than do women, including less willingness to reduce meat consumption."
 excerpt: "Men in the United States have higher rates of life-threatening diseases than do women, in part due to behavioral differences in health practices. We argue that men’s enactment of masculinity in their daily lives contributes to health behavior differences. We focus on meat consumption, a masculine-stereotyped dietary practice that epidemiological studies have linked to negative health outcomes. In study 1, nationally representative survey data indicate men report less healthy lifestyle preferences than do women, including less willingness to reduce meat consumption."
 resource_type: [academic]

@@ -2,7 +2,7 @@
 title: "InnovoPro"
 date: 2020-05-01 10:39:07
 lastmod: 2020-05-01 10:39:07
-slug: /innovopro
+slug: innovopro
 description: "InnovoPro is committed to bringing unique plant-based protein ingredients to the global food market to create nutritious, affordable, tasty, safe, and sustainable food products. With an excellent nutrition profile, good taste, wide usability properties, InnovoPro’s chickpea protein is the best choice for the growing plant-based protein market."
 proteins: [Plant-Based]
 products: [Ingredients]

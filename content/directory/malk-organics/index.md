@@ -2,7 +2,7 @@
 title: "Malk Organics"
 date: 2020-01-23 17:50:34
 lastmod: 2020-01-23 17:50:34
-slug: /malk-organics
+slug: malk-organics
 description: "MALK is more than a product—it’s a passion.Born with a severe dairy allergy, founder August Vega spent most of her lifetime struggling to find foods that wouldn’t make her sick."
 proteins: [Plant-Based]
 products: [Dairy]

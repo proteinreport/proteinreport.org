@@ -2,7 +2,7 @@
 title: "Hilary's"
 date: 2020-01-23 17:50:34
 lastmod: 2020-01-23 17:50:34
-slug: /hilarys
+slug: hilarys
 description: "Hilary’s believes that tasty, plant-powered nourishment that is always free from common food allergens can be a gateway to pure joy. The company takes care about creating great tasting foods that are completely safe for those who must live a life free from one or more food allergens, as well as those who chose to eat “free from” simply because."
 proteins: [Plant-Based]
 products: [Meat]

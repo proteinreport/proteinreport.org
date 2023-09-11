@@ -2,7 +2,7 @@
 title: "Smart Protein Summit 2021"
 date: 2021-10-22 14:08:07
 lastmod: 2021-10-22 14:08:07
-slug: /smart-protein-summit-2021
+slug: smart-protein-summit-2021
 description: "The 3-day virtual event will bring together the most important stakeholders within the ecosystem: businesses, venture capital firms, entrepreneurs, scientists, students, researchers, and policymakers. An audience that moves the smart protein sector forward like no other. The Smart Protein Summit 2021 will include major announcements of market launches and policy support for the space, and include both public-facing panels and closed-door roundtable sessions aimed at helping key stakeholders forge collaborations."
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood]

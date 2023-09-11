@@ -2,7 +2,7 @@
 title: "The Amazing Protein Company"
 date: 2020-01-23 17:50:45
 lastmod: 2020-01-23 17:50:45
-slug: /amazing-protein-company
+slug: amazing-protein-company
 description: "Love Lika has been created by The Amazing Protein Company who has worked to create delicious products that let consumers enjoy the foods they already love while perfectly preserving or improving flavor, texture, and nutrition."
 proteins: [Plant-Based]
 products: [Meat]

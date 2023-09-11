@@ -2,7 +2,7 @@
 title: "2nd Cultivated Protein & Fermentation Solutions"
 date: 2023-06-28 02:24:23
 lastmod: 2023-06-28 02:24:23
-slug: /2nd-cultivated-protein-fermentation-solutions
+slug: 2nd-cultivated-protein-fermentation-solutions
 description: "Join the race to work towards Scalability, Affordability, Efficiency of cultivated protein production !According to a recent study done by the University of Helsinki, completely replacing traditional meat with cultured meat would result in a massive 78-98% reduction in GHG emissions, a 99% reduction in land use and 45% reduction in energy use."
 proteins: [Cell-Based, Microbial]
 products: [Meat, Dairy, Seafood]

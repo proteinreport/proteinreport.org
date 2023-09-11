@@ -2,7 +2,7 @@
 title: "De Novo Dairy"
 date: 2022-02-21 12:11:56
 lastmod: 2022-02-21 12:11:56
-slug: /de-novo-dairy
+slug: de-novo-dairy
 description: "De Novo Dairy is on a mission to create nature-identical, sustainable and most importantly, healthy dairy proteins for human nutrition."
 proteins: [Microbial]
 products: [Dairy]

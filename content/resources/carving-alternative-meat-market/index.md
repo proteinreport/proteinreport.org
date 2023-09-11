@@ -2,7 +2,7 @@
 title: "Carving up the alternative meat market"
 date: 2019-12-29 16:03:39
 lastmod: 2019-12-29 16:03:39
-slug: /carving-alternative-meat-market
+slug: carving-alternative-meat-market
 description: "Can the rise of the alternative meat industry help provide a solution to concerns over health and large-scale farming’s impacts on climate change, animal welfare and&nbsp;waste?"
 excerpt: "Can the rise of the alternative meat industry help provide a solution to concerns over health and large-scale farming’s impacts on climate change, animal welfare and&nbsp;waste?"
 proteins: [Cell-Based, Plant-Based]

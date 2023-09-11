@@ -2,7 +2,7 @@
 title: "A Comparative Study on the Taste Characteristics of Satellite Cell Cultured Meat Derived from Chicken and Cattle Muscles"
 date: 2022-01-23 20:39:00
 lastmod: 2022-01-23 20:39:00
-slug: /comparative-study-taste-characteristics-satellite-cell-cultured-meat-derived-chicken-and
+slug: comparative-study-taste-characteristics-satellite-cell-cultured-meat-derived-chicken-and
 description: "This study investigated the amino acid and nucleotide-related compound composition and taste characteristics of cultured muscle tissue (CMT) obtained by culturing satellite cells isolated from chicken and cattle and compared them to those of traditional meat (TM). The content of all amino acids except valine and tyrosine was significantly different between CMT and TM (p&lt;0.05)."
 excerpt: "This study investigated the amino acid and nucleotide-related compound composition and taste characteristics of cultured muscle tissue (CMT) obtained by culturing satellite cells isolated from chicken and cattle and compared them to those of traditional meat (TM). The content of all amino acids except valine and tyrosine was significantly different between CMT and TM (p&lt;0.05)."
 proteins: [Cell-Based]

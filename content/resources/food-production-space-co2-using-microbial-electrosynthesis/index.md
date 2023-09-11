@@ -2,7 +2,7 @@
 title: "Food production in space from CO2 using microbial electrosynthesis"
 date: 2022-12-24 12:42:24
 lastmod: 2022-12-24 12:42:24
-slug: /food-production-space-co2-using-microbial-electrosynthesis
+slug: food-production-space-co2-using-microbial-electrosynthesis
 description: "The current food method in space is launching prepackaged food which is costly and unsustainable. Alternatives include growing crops and microalgae single cell protein (SCP) using artificial light photosynthesis, which are energy inefficient. Prepackaged food and microalgae food were compared to microbial electrosynthesis of acetic acid (MES-AA)."
 excerpt: "The current food method in space is launching prepackaged food which is costly and unsustainable. Alternatives include growing crops and microalgae single cell protein (SCP) using artificial light photosynthesis, which are energy inefficient. Prepackaged food and microalgae food were compared to microbial electrosynthesis of acetic acid (MES-AA)."
 proteins: [Microbial]

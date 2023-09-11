@@ -2,7 +2,7 @@
 title: "Agri Vision-2024"
 date: 2023-06-06 16:21:13
 lastmod: 2023-06-06 16:21:13
-slug: /agri-vision-2024
+slug: agri-vision-2024
 description: "The 6th International Conference on Agriculture for Sustainable Development (Agri Vision- 2024) is being organized by the Society for Agricultural Research and Management (SARM). This International Agriculture Conference will be held from January 19-21, 2024 at Cuttack, Odisha, India."
 proteins: [Plant-Based]
 products: [Ingredients]

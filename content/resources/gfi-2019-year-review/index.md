@@ -2,7 +2,7 @@
 title: "GFI 2019 Year in Review"
 date: 2020-02-25 15:54:06
 lastmod: 2020-02-25 15:54:06
-slug: /gfi-2019-year-review
+slug: gfi-2019-year-review
 description: "The year 2019 saw stunning developments across the plant-based and cultivated meat industries. It also marked GFI’s most ambitious and impactful year to date."
 excerpt: "The year 2019 saw stunning developments across the plant-based and cultivated meat industries. It also marked GFI’s most ambitious and impactful year to date."
 proteins: [Cell-Based, Plant-Based]

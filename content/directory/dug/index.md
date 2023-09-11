@@ -2,7 +2,7 @@
 title: "Dug"
 date: 2021-08-08 19:08:26
 lastmod: 2021-08-08 19:08:26
-slug: /dug
+slug: dug
 description: "DUG is a Swedish brand with its roots in science and research by Professor Eva Tornberg at Lund university. It’s where our patented emulsion technology was developed, and where we continue to develop new ways to harness the power of potatoes. Our plant-based drinks are currently sold in stores in Sweden and the UK.The DUG brand is owned by Veg of Lund."
 proteins: [Plant-Based]
 products: [Dairy]

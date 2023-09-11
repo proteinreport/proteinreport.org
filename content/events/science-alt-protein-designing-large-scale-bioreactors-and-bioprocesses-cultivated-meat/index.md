@@ -2,7 +2,7 @@
 title: "The Science of Alt. Protein: Designing large-scale bioreactors and bioprocesses for cultivated meat"
 date: 2021-03-09 13:20:29
 lastmod: 2021-03-09 13:20:29
-slug: /science-alt-protein-designing-large-scale-bioreactors-and-bioprocesses-cultivated-meat
+slug: science-alt-protein-designing-large-scale-bioreactors-and-bioprocesses-cultivated-meat
 description: "How can bioreactors and bioprocesses be optimally designed for cultivated meat production? Realizing the potential of cultivated meat and seafood requires adapting current technologies and innovating new bioprocess design. The scales needed to achieve significant levels of food production are far greater than for other tissue-engineered products. Plus, unlike many biomedical applications of tissue engineering bioprocessing which produce high-value products, cultivated meat needs to compete on cost with much more affordable products. Dr."
 proteins: [Cell-Based]
 products: [Meat, Seafood]
@@ -20,5 +20,15 @@ draft: false
 weight: 5000
 uuid: 8557
 ---
-<p>How can bioreactors and bioprocesses be optimally designed for cultivated meat production? Realizing the potential of cultivated meat and seafood requires adapting current technologies and innovating new bioprocess design. The scales needed to achieve significant levels of food production are far greater than for other tissue-engineered products. Plus, unlike many biomedical applications of tissue engineering bioprocessing which produce high-value products, cultivated meat needs to compete on cost with much more affordable products. Dr. Ellis will discuss her team’s approach to bioreactor and bioprocess design for the affordable large-scale production of cultivated meat.</p>
-<p><strong>Time: </strong>10:00 AM Pacific Time</p>
+How can bioreactors and bioprocesses be optimally designed for
+cultivated meat production? Realizing the potential of cultivated meat
+and seafood requires adapting current technologies and innovating new
+bioprocess design. The scales needed to achieve significant levels of
+food production are far greater than for other tissue-engineered
+products. Plus, unlike many biomedical applications of tissue
+engineering bioprocessing which produce high-value products, cultivated
+meat needs to compete on cost with much more affordable products. Dr.
+Ellis will discuss her team's approach to bioreactor and bioprocess
+design for the affordable large-scale production of cultivated meat.
+
+**Time: **10:00 AM Pacific Time

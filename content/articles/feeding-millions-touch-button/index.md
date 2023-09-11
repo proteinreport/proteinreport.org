@@ -2,7 +2,7 @@
 title: "Feeding Millions by the Touch of a Button"
 date: 2021-11-03 08:55:10
 lastmod: 2021-11-03 08:55:10
-slug: /feeding-millions-touch-button
+slug: feeding-millions-touch-button
 description: "This is a Student Essay Contest 2021 runner-up. Keerthana Reddy is a master’s degree student in Mechanical and Materials Engineering at University of Nebraska–Lincoln. Tasneem Bouzid, PhD student in Mechanical and Materials Engineering at University of Nebraska–Lincoln, also contributed to this essay."
 excerpt: "This is a Student Essay Contest 2021 runner-up. Keerthana Reddy is a master’s degree student in Mechanical and Materials Engineering at University of Nebraska–Lincoln. Tasneem Bouzid, PhD student in Mechanical and Materials Engineering at University of Nebraska–Lincoln, also contributed to this essay."
 proteins: [Cell-Based]

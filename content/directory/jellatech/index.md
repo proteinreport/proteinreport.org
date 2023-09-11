@@ -2,7 +2,7 @@
 title: "Jellatech"
 date: 2021-07-05 07:25:19
 lastmod: 2021-07-05 07:25:19
-slug: /jellatech
+slug: jellatech
 description: "Jellatech is a B2B biotech business based in Raleigh, NC and with R&D in Wageningen, Netherlands. Jellatech is producing high quality, pure, animal-free collagen and gelatin. Founded by a group of innovators, dreamers, entrepreneurs and scientists, Jellatech is eliminating the dependency on animals, to make better ingredient products - starting with collagen and gelatin."
 proteins: [Cell-Based]
 products: [Ingredients]

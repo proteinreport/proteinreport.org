@@ -2,7 +2,7 @@
 title: "Hooked Foods"
 date: 2021-01-25 16:12:28
 lastmod: 2021-01-25 16:12:28
-slug: /hooked-foods
+slug: hooked-foods
 description: "Leading the transition to a healthier seafood ecosystem by serving delicious plant-based seafood for everyone to enjoy."
 proteins: [Plant-Based]
 products: [Seafood]

@@ -2,7 +2,7 @@
 title: "The Future of Protein Production Announces Preliminary Speaker Line-up for 2022 Virtual Summit"
 date: 2021-12-10 01:05:34
 lastmod: 2021-12-10 01:05:34
-slug: /future-protein-production-announces-preliminary-speaker-line-2022-virtual-summit
+slug: future-protein-production-announces-preliminary-speaker-line-2022-virtual-summit
 company_name: "Future-Proof Group"
 company_link: "https://www.future-proofgroup.com/"
 description: "Organisers of the Future of Protein Production Summit have announced the preliminary speaker line-up for their upcoming conference, scheduled for March 8-10, 2022. "

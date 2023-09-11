@@ -2,7 +2,7 @@
 title: "Agronomics"
 date: 2020-02-13 18:53:03
 lastmod: 2020-02-13 18:53:03
-slug: /agronomics
+slug: agronomics
 description: "We invest in opportunities within the Life Science sector, concentrating on, but not limited to, environmentally friendly alternatives to the traditional production of meat and plant-based nutrition sources such as cellular agriculture, cellular aquaculture and the alternative protein space. We focus on investments that provide scalable and commercially viable opportunities."
 proteins: []
 products: []

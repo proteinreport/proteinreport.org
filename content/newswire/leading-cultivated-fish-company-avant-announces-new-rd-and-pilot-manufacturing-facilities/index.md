@@ -2,7 +2,7 @@
 title: "Leading cultivated fish company Avant announces new R&D and pilot manufacturing facilities plan in Singapore"
 date: 2021-04-26 06:26:11
 lastmod: 2021-04-26 06:26:11
-slug: /leading-cultivated-fish-company-avant-announces-new-rd-and-pilot-manufacturing-facilities
+slug: leading-cultivated-fish-company-avant-announces-new-rd-and-pilot-manufacturing-facilities
 company: 5810
 description: "Avant, the first cultivated meat company in China and the first cultivated fish company in Asia, announced today it is establishing new Research & Development and pilot manufacturing facilities plan in Singapore, with the support of the Singapore Economic Development Board."
 excerpt: "Avant, the first cultivated meat company in China and the first cultivated fish company in Asia, announced today it is establishing new Research & Development and pilot manufacturing facilities plan in Singapore, with the support of the Singapore Economic Development Board."

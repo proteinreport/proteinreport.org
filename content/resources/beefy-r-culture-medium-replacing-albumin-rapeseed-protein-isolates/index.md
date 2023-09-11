@@ -2,7 +2,7 @@
 title: "A Beefy-R culture medium: replacing albumin with rapeseed protein isolates"
 date: 2022-09-07 11:58:08
 lastmod: 2022-09-07 11:58:08
-slug: /beefy-r-culture-medium-replacing-albumin-rapeseed-protein-isolates
+slug: beefy-r-culture-medium-replacing-albumin-rapeseed-protein-isolates
 description: "The development of cost-effective serum-free media is essential for the economic viability of cultured meat. A key challenge facing this goal is high-cost recombinant albumin that is necessary in some available serum-free media formulations. As such, there is substantial interest in finding albumin alternatives which are low-cost, effective, scalable, sustainable, and suitable for food applications."
 excerpt: "The development of cost-effective serum-free media is essential for the economic viability of cultured meat. A key challenge facing this goal is high-cost recombinant albumin that is necessary in some available serum-free media formulations. As such, there is substantial interest in finding albumin alternatives which are low-cost, effective, scalable, sustainable, and suitable for food applications."
 proteins: [Cell-Based]

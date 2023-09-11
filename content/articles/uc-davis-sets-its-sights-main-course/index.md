@@ -2,7 +2,7 @@
 title: "UC Davis Sets Its Sights on the Main Course"
 date: 2021-03-24 12:39:49
 lastmod: 2021-03-24 12:39:49
-slug: /uc-davis-sets-its-sights-main-course
+slug: uc-davis-sets-its-sights-main-course
 description: "How do you feed 10 billion people? The university that helped turn California’s wine industry from afterthought into economic juggernaut has set its sights on cultivated meat."
 excerpt: "How do you feed 10 billion people? The university that helped turn California’s wine industry from afterthought into economic juggernaut has set its sights on cultivated meat."
 proteins: [Cell-Based]

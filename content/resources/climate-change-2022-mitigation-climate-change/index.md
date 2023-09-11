@@ -2,7 +2,7 @@
 title: "Climate Change 2022: Mitigation of Climate Change"
 date: 2022-04-05 10:56:31
 lastmod: 2022-04-05 10:56:31
-slug: /climate-change-2022-mitigation-climate-change
+slug: climate-change-2022-mitigation-climate-change
 description: "The Working Group III report provides an updated global assessment of climate change mitigation progress and pledges, and examines the sources of global emissions. It explains developments in emission reduction and mitigation efforts, assessing the impact of national climate pledges in relation to long-term emissions goals."
 excerpt: "The Working Group III report provides an updated global assessment of climate change mitigation progress and pledges, and examines the sources of global emissions. It explains developments in emission reduction and mitigation efforts, assessing the impact of national climate pledges in relation to long-term emissions goals."
 proteins: [Animal]

@@ -2,7 +2,7 @@
 title: "Ajoyo"
 date: 2020-01-23 17:50:40
 lastmod: 2020-01-23 17:50:40
-slug: /ajoyo
+slug: ajoyo
 description: "SmithFoods Inc. is producing Ajoyo Almond milk made from almonds, which are toasted, pulped and then blended with pure filtered water. The company does not add artificial ingredients. Ajoyo contains protein, calcium, and vitamins D, E, and B12. "
 proteins: [Plant-Based]
 products: [Dairy]

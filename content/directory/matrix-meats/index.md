@@ -2,7 +2,7 @@
 title: "Matrix Meats"
 date: 2019-10-29 08:48:34
 lastmod: 2019-10-29 08:48:34
-slug: /matrix-meats
+slug: matrix-meats
 description: "Matrix Meats is a manufacturer of 3D nanofibrous matrices that produce significantly more volume of meat cell culture per batch. Our custom designed electrospun fiber products are covered by over 50 issued and pending patents that help facilitate cultured meat that looks, feels, and tastes like real meat."
 proteins: [Cell-Based]
 products: [Meat, Scaffolding & Structure]

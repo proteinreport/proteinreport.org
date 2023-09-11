@@ -2,7 +2,7 @@
 title: "MycoTechnology"
 date: 2020-01-23 18:20:48
 lastmod: 2020-01-23 18:20:48
-slug: /mycotechnology
+slug: mycotechnology
 description: "MycoTechnology, Inc. is a food technology company that has developed a novel food processing platform using mycelial fermentation to transform agricultural products. MycoTechnology's flagship product, ClearTaste, is a versatile and multifunctional ingredient that can improve food products by blocking bitterness and improving taste defects. Their second product, PureTaste Protein, is a high-quality, clean-tasting, complete protein that has a nutritional profile unlike any other plant-based protein on the market."
 proteins: [Fungi]
 products: [Ingredients]

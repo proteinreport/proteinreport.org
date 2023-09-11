@@ -2,7 +2,7 @@
 title: "Vly Raises €6.1M Series A for its Plant-based Dairy of the Future"
 date: 2021-05-20 13:17:11
 lastmod: 2021-05-20 13:17:11
-slug: /vly-raises-eu61m-series-its-plant-based-dairy-future
+slug: vly-raises-eu61m-series-its-plant-based-dairy-future
 company: 5662
 description: "Vly, provider of a pea-based milk alternative, has today announced an investment of €6.1M from FoodTech investors Five Seasons Ventures, alongside previous investors Global Founders Capital and Good Seed Ventures."
 excerpt: "Vly, provider of a pea-based milk alternative, has today announced an investment of €6.1M from FoodTech investors Five Seasons Ventures, alongside previous investors Global Founders Capital and Good Seed Ventures."

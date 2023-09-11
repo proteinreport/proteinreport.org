@@ -2,7 +2,7 @@
 title: "Ful Foods"
 date: 2020-05-03 15:52:30
 lastmod: 2020-05-03 15:52:30
-slug: /ful-foods
+slug: ful-foods
 description: "Harnessing the benefits of earth’s oldest life sources to create sustainable, nourishing and delicious products to power generations of tomorrow. FUL offers food and beverage products centered around a trademarked carbon negative ingredient featuring key protein and nutrients from microalgae."
 proteins: [Algae]
 products: [Ingredients]

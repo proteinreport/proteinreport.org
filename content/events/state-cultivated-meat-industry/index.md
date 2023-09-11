@@ -2,7 +2,7 @@
 title: "The State of the Cultivated Meat Industry"
 date: 2020-05-21 15:48:59
 lastmod: 2020-05-21 15:48:59
-slug: /state-cultivated-meat-industry
+slug: state-cultivated-meat-industry
 description: "We are on the cusp of making secure, ethical, sustainable, and real cultivated animal meat a reality. Join GFI Startup Growth Specialist Nate Crosser and GFI Senior Scientist Dr. Elliot Swartz for a global analysis of the cultivated meat industry. In this presentation, we will dive into the investments, competitive landscape, consumer insights, and scientific progress in this rapidly accelerating, transformative market sector."
 proteins: [Cell-Based]
 products: [Meat]
@@ -20,4 +20,10 @@ draft: false
 weight: 5000
 uuid: 6948
 ---
-<p>We are on the cusp of making secure, ethical, sustainable, and real cultivated animal meat a reality. Join GFI Startup Growth Specialist Nate Crosser and GFI Senior Scientist Dr. Elliot Swartz for a global analysis of the cultivated meat industry. In this presentation, we will dive into the investments, competitive landscape, consumer insights, and scientific progress in this rapidly accelerating, transformative market sector.</p>
+We are on the cusp of making secure, ethical, sustainable, and real
+cultivated animal meat a reality. Join GFI Startup Growth Specialist
+Nate Crosser and GFI Senior Scientist Dr. Elliot Swartz for a global
+analysis of the cultivated meat industry. In this presentation, we will
+dive into the investments, competitive landscape, consumer insights, and
+scientific progress in this rapidly accelerating, transformative market
+sector.

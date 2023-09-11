@@ -2,7 +2,7 @@
 title: "Banyan Foods"
 date: 2020-01-23 17:50:40
 lastmod: 2020-01-23 17:50:40
-slug: /banyan-foods
+slug: banyan-foods
 description: "Founded in 1978 as a family business, Banyan Foods is an innovative company based in Houston, Texas. The company sells mainly in Texas (they deliver to Houston, San Antonio, Austin, and Dallas), although the products can be found in smaller towns throughout the state."
 proteins: [Plant-Based]
 products: [Meat, Dairy]

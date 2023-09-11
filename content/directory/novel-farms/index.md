@@ -2,7 +2,7 @@
 title: "Novel Farms"
 date: 2020-08-13 07:58:34
 lastmod: 2020-08-13 07:58:34
-slug: /novel-farms
+slug: novel-farms
 description: "Novel Farms is dedicated to craft whole cuts of cultivated meat delicacies and bring culinary excellence and sustainability into the future of food. By cultivating meat from conventional as well as highly prized animal breeds, they seek to captivate the palates of all meat lovers while satisfying environmentally-conscious eaters."
 proteins: [Cell-Based]
 products: [Meat, Scaffolding & Structure]

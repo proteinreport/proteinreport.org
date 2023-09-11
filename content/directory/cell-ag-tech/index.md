@@ -2,7 +2,7 @@
 title: "Cell Ag Tech"
 date: 2020-01-23 18:10:00
 lastmod: 2020-01-23 18:10:00
-slug: /cell-ag-tech
+slug: cell-ag-tech
 description: "Dedicated to developing and commercializing cellular agriculture&nbsp;technologies."
 proteins: [Cell-Based]
 products: [Meat, Seafood]

@@ -2,7 +2,7 @@
 title: "Three Trees"
 date: 2020-01-23 17:50:46
 lastmod: 2020-01-23 17:50:46
-slug: /three-trees
+slug: three-trees
 description: "Founded by Jenny Eu in 2013, Three Trees is committed to creating the purest, most delicious and most nourishing nutmilk on the market, for a better health and a better planet. Three Trees plant-based milks are thoughtfully made with only 2-5 real food ingredients and are naturally delicious."
 proteins: [Plant-Based]
 products: [Dairy]

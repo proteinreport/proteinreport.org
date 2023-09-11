@@ -2,7 +2,7 @@
 title: "Vegafit"
 date: 2020-01-23 17:50:55
 lastmod: 2020-01-23 17:50:55
-slug: /vegafit
+slug: vegafit
 description: "Vegafit is producing plant based meat alternative which, so far, are available in Netherlands, Germany, Ireland and Spain."
 proteins: [Plant-Based]
 products: [Meat]

@@ -2,7 +2,7 @@
 title: "Shiru"
 date: 2020-06-24 14:15:02
 lastmod: 2020-06-24 14:15:02
-slug: /shiru
+slug: shiru
 description: "Shiru rapidly and efficiently identifies high value functional food proteins via an innovative computational platform that integrates machine learning and molecular modeling and creates them through precision biology."
 proteins: [Plant-Based, Microbial]
 products: [Ingredients]

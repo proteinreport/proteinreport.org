@@ -2,7 +2,7 @@
 title: "Future Food Asia"
 date: 2022-12-16 08:53:39
 lastmod: 2022-12-16 08:53:39
-slug: /future-food-asia
+slug: future-food-asia
 description: "ID Capital, the entity spearheading the development of the Future Food Asia (FFA) platform, is delighted to announce that Dr Ismahane Elouafi, Chief Scientist at the Food and Agriculture Organization of the United Nations (FAO) will be the Guest of Honour at the seventh edition of the FFA Conference, on 17th – 18th of May 2023.Since its inception in 2017, FFA has acted as a catalyst for collaborations accelerating the work of technology entrepreneurs in the agrifood sector, and a pioneer in the then-nascent agrifoodtech vertical in Asia-Pacific."
 proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

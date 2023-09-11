@@ -2,7 +2,7 @@
 title: "Maika Foods"
 date: 2020-01-23 17:50:57
 lastmod: 2020-01-23 17:50:57
-slug: /maika-foods
+slug: maika-foods
 description: "Young innovative Company dedicated to produce Artisan Crafted premium , veggie based products. It is our Mission to provide you with fresh, local, sustainable and nutritious foods like you’ve never seen before."
 proteins: [Plant-Based]
 products: [Meat]

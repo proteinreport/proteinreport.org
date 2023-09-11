@@ -2,7 +2,7 @@
 title: "Industrializing Cell-Based Meats Summit Returns for 2nd Year"
 date: 2020-02-04 12:10:59
 lastmod: 2020-02-04 12:10:59
-slug: /industrializing-cell-based-meats-summit-returns-2nd-year
+slug: industrializing-cell-based-meats-summit-returns-2nd-year
 company_name: "Hanson Wade"
 company_link: "https://hansonwade.com"
 description: "The Industrializing Cell-Based Meats Summit returns for the 2nd year to unite the world’s leading minds from industry, academia and regulation to share the latest scientific progress in the field."

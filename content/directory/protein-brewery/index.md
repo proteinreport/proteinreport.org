@@ -2,7 +2,7 @@
 title: "The Protein Brewery"
 date: 2020-01-17 19:30:42
 lastmod: 2020-01-17 19:30:42
-slug: /protein-brewery
+slug: protein-brewery
 description: "The protein Brewery is working on launching the Fermotein from 2021 onwards as an ingredient for meat substitutes, processed meats, bread, protein bars, bakery products and more."
 proteins: [Microbial]
 products: [Ingredients]

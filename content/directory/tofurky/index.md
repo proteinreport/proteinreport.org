@@ -2,7 +2,7 @@
 title: "Tofurky"
 date: 2020-01-08 08:48:18
 lastmod: 2020-01-08 08:48:18
-slug: /tofurky
+slug: tofurky
 description: "Founded in 1980, Tofurky is the leading independent plant-based protein producer in the nation, making lip-smacking plant-based foods that are kind to people, animals and the environment."
 proteins: [Plant-Based]
 products: [Meat]

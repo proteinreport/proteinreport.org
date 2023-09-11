@@ -2,7 +2,7 @@
 title: "Protein Report"
 date: 2020-02-19 12:44:26
 lastmod: 2020-02-19 12:44:26
-slug: /protein-report
+slug: protein-report
 description: "From alt. to default. Changing how the world thinks about food. Protein economy news and industry platform."
 proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Algae]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]

@@ -2,7 +2,7 @@
 title: "Plant-based proteins: Building a sustainable future"
 date: 2021-04-27 11:21:07
 lastmod: 2021-04-27 11:21:07
-slug: /plant-based-proteins-building-sustainable-future
+slug: plant-based-proteins-building-sustainable-future
 description: "Data and infographics from the Economist Intelligence Unit."
 excerpt: "Data and infographics from the Economist Intelligence Unit."
 proteins: [Plant-Based]

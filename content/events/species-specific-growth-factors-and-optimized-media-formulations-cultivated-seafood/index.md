@@ -2,7 +2,7 @@
 title: "Species-specific growth factors and optimized media formulations for cultivated seafood"
 date: 2021-05-13 10:06:17
 lastmod: 2021-05-13 10:06:17
-slug: /species-specific-growth-factors-and-optimized-media-formulations-cultivated-seafood
+slug: species-specific-growth-factors-and-optimized-media-formulations-cultivated-seafood
 description: "Join GFI for a Seafood Webinar and Informal Networking (SWIM) event on June 10th where we will hear from experts on cell culture media for cultivated seafood. We will then move to an optional networking session to build bridges and identify opportunities for collaboration."
 proteins: [Cell-Based]
 products: [Seafood]
@@ -20,4 +20,7 @@ draft: false
 weight: 5000
 uuid: 8966
 ---
-<p>Join GFI for a Seafood Webinar and Informal Networking (SWIM) event on June 10th where we will hear from experts on cell culture media for cultivated seafood. We will then move to an optional networking session to build bridges and identify opportunities for collaboration.</p>
+Join GFI for a Seafood Webinar and Informal Networking (SWIM) event on
+June 10th where we will hear from experts on cell culture media for
+cultivated seafood. We will then move to an optional networking session
+to build bridges and identify opportunities for collaboration.

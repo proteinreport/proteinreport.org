@@ -2,7 +2,7 @@
 title: "Blue Horizon Ventures"
 date: 2020-01-12 15:41:13
 lastmod: 2020-01-12 15:41:13
-slug: /blue-horizon-ventures
+slug: blue-horizon-ventures
 description: "Blue Horizon Ventures is a food technology-focused venture capital fund founded in 2018 by serial entrepreneurs and investors Roger Lienhard and Michael Kleindl. The fund aims to support the movement towards a more sustainable food system through innovation, technology and entrepreneurship. The underlying mission of the fund is to support and promote a positive global impact on the environment, human health, and animal welfare."
 proteins: []
 products: []

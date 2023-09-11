@@ -2,7 +2,7 @@
 title: "Chunk Foods"
 date: 2021-04-29 10:12:52
 lastmod: 2021-04-29 10:12:52
-slug: /chunk-foods
+slug: chunk-foods
 description: "Chunk Foods is combining plant-based ingredients and food-grade microorganisms to deliver the textures, flavours, and nutritional benefits of whole muscle cut meat without its moral and environmental costs."
 proteins: [Plant-Based]
 products: [Meat]

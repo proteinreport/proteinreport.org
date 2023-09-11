@@ -2,7 +2,7 @@
 title: "Yoconut Dairy Free"
 date: 2020-08-13 07:41:49
 lastmod: 2020-08-13 07:41:49
-slug: /yoconut-dairy-free
+slug: yoconut-dairy-free
 description: "Yoconut Dairy Free is a plant-based food innovation company. We are people obsessed about creating delicious food that is healthy and allergy friendly (safe). That means, aside from coconuts, you will never find any of the big 8 most common food allergens in our foods."
 proteins: [Plant-Based]
 products: [Dairy]

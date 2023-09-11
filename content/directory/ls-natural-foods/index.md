@@ -2,7 +2,7 @@
 title: "LS Natural Foods"
 date: 2020-01-23 17:50:40
 lastmod: 2020-01-23 17:50:40
-slug: /ls-natural-foods
+slug: ls-natural-foods
 description: "LS Natural Foods is a producer of plant-based jerky, meat and milk alternatives including the Stonewall’s Jerquee brand."
 proteins: [Plant-Based]
 products: [Meat, Dairy]

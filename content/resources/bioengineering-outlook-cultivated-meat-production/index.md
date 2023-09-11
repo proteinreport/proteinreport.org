@@ -2,7 +2,7 @@
 title: "Bioengineering Outlook on Cultivated Meat Production"
 date: 2022-03-03 11:34:59
 lastmod: 2022-03-03 11:34:59
-slug: /bioengineering-outlook-cultivated-meat-production
+slug: bioengineering-outlook-cultivated-meat-production
 description: "Cultured meat (also referred to as cultivated meat or cell-based meat)—CM—is fabricated through the process of cellular agriculture (CA), which entails application of bioengineering, i.e., tissue engineering (TE) principles to the production of food."
 excerpt: "Cultured meat (also referred to as cultivated meat or cell-based meat)—CM—is fabricated through the process of cellular agriculture (CA), which entails application of bioengineering, i.e., tissue engineering (TE) principles to the production of food."
 proteins: [Cell-Based]

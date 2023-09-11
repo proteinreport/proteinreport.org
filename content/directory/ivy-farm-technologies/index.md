@@ -2,7 +2,7 @@
 title: "Ivy Farm Technologies"
 date: 2021-05-31 11:45:38
 lastmod: 2021-05-31 11:45:38
-slug: /ivy-farm-technologies
+slug: ivy-farm-technologies
 description: "Ivy Farm is an inquisitive bunch of bioengineers, scientists and animal lovers who are pro bacon sandwiches and against the effects of industrialized farming. They use novel cell technology created by the University of Oxford to grow real meat that’s free from slaughter and antibiotics, low in saturated fat, and tastes fantastic."
 proteins: [Cell-Based]
 products: [Meat]

@@ -2,7 +2,7 @@
 title: "The Socio-economic Impact of Cultivated Meat in the UK"
 date: 2021-10-08 12:12:19
 lastmod: 2021-10-08 12:12:19
-slug: /socio-economic-impact-cultivated-meat-uk
+slug: socio-economic-impact-cultivated-meat-uk
 description: "Oxford Economics researchers looked at the economic contribution to the UK based on solely domestic consumer spending on cultivated meat in the year 2030 and found:"
 excerpt: "Oxford Economics researchers looked at the economic contribution to the UK based on solely domestic consumer spending on cultivated meat in the year 2030 and found:"
 proteins: [Cell-Based]

@@ -2,7 +2,7 @@
 title: "Hooray Foods"
 date: 2020-01-23 17:50:45
 lastmod: 2020-01-23 17:50:45
-slug: /hooray-foods
+slug: hooray-foods
 description: "Hooray Foods have been founded by Sri Artham who experimented with crafting bacon by mixing plant ingredients in his San Francisco kitchen. He has created the first plant-based pork."
 proteins: [Plant-Based]
 products: [Meat]

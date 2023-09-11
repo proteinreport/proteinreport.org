@@ -2,7 +2,7 @@
 title: "Golden meat: Engineering cow cells to produce beta carotene"
 date: 2020-10-15 13:21:07
 lastmod: 2020-10-15 13:21:07
-slug: /golden-meat-engineering-cow-cells-produce-beta-carotene
+slug: golden-meat-engineering-cow-cells-produce-beta-carotene
 company: 697
 description: "Scientists prove cell-cultured meat products can offer enhanced nutrition compared to conventionally produced meat."
 excerpt: "Scientists prove cell-cultured meat products can offer enhanced nutrition compared to conventionally produced meat."

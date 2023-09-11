@@ -2,7 +2,7 @@
 title: "Cultured Decadence"
 date: 2021-01-25 15:49:31
 lastmod: 2021-01-25 15:49:31
-slug: /cultured-decadence
+slug: cultured-decadence
 description: "Cultured Decadence is a cellular aquaculture startup creating novel methods to make crustacean products using cell culture and tissue engineering techniques."
 proteins: [Cell-Based]
 products: [Seafood]

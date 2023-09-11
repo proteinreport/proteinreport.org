@@ -2,7 +2,7 @@
 title: "Meat alternatives and the alternative protein market"
 date: 2019-10-20 20:34:09
 lastmod: 2019-10-20 20:34:09
-slug: /meat-alternatives-and-alternative-protein-market
+slug: meat-alternatives-and-alternative-protein-market
 description: "Animal protein producers face a range of sustainability risks. By diversifying into sustainable proteins, these businesses can hedge these risks and enter a fast-growing&nbsp;market."
 excerpt: "Animal protein producers face a range of sustainability risks. By diversifying into sustainable proteins, these businesses can hedge these risks and enter a fast-growing&nbsp;market."
 proteins: [Cell-Based, Plant-Based]

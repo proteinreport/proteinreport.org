@@ -2,7 +2,7 @@
 title: "Fermentation-Enabled Alternative Protein Summit Europe"
 date: 2023-03-09 14:27:47
 lastmod: 2023-03-09 14:27:47
-slug: /fermentation-enabled-alternative-protein-summit-europe
+slug: fermentation-enabled-alternative-protein-summit-europe
 description: "The 2nd Fermentation-Enabled Alternative Protein Summit Europe returns this summer with unmissable content on the technical implications for the production of novel foods: "
 proteins: [Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

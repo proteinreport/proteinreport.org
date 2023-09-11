@@ -2,7 +2,7 @@
 title: "Opo Bio"
 date: 2022-11-21 08:28:27
 lastmod: 2022-11-21 08:28:27
-slug: /opo-bio
+slug: opo-bio
 description: "B2B supplier of livestock cells for cultivated meat production. Opo is New Zealand's first cultivated meat company."
 proteins: [Cell-Based]
 products: [Meat]

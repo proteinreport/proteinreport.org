@@ -2,7 +2,7 @@
 title: "The Plant-Based Investment Opportunity Webinar"
 date: 2022-03-04 16:16:23
 lastmod: 2022-03-04 16:16:23
-slug: /plant-based-investment-opportunity-webinar
+slug: plant-based-investment-opportunity-webinar
 description: "Plant-based foods are key to meeting our climate goals.Bridge2Food and European Alliance for Plant-Based Foods (EAPF) are proud to lead a coalition of 60 organisations calling for increased research funding for plant-based foods. This is essential to accelerate the shift to sustainable & healthy food systems."
 proteins: [Plant-Based]
 products: [Ingredients]

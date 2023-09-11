@@ -2,7 +2,7 @@
 title: "Planet Oat"
 date: 2020-03-06 20:28:40
 lastmod: 2020-03-06 20:28:40
-slug: /planet-oat
+slug: planet-oat
 description: "Planet Oat is where all the awesome of oat is available in a rich, creamy, naturally-sweet oatmilk that’s dairy free, peanut free, soy free & gluten free."
 proteins: [Plant-Based]
 products: [Dairy]

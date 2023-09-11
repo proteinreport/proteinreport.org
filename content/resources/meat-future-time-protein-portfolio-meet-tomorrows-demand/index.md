@@ -2,7 +2,7 @@
 title: "Meat: the Future Time for a Protein Portfolio to Meet Tomorrow’s Demand"
 date: 2019-08-26 04:56:32
 lastmod: 2019-08-26 04:56:32
-slug: /meat-future-time-protein-portfolio-meet-tomorrows-demand
+slug: meat-future-time-protein-portfolio-meet-tomorrows-demand
 description: "The provision of universally accessible, affordable, safe and sustainable protein in line with the UN Sustainable Development Goals (“21st-century protein”) is a pressing issue that cuts across systemic challenges, such as consumption, the environment, food security, health and trade&nbsp;issues."
 excerpt: "The provision of universally accessible, affordable, safe and sustainable protein in line with the UN Sustainable Development Goals (“21st-century protein”) is a pressing issue that cuts across systemic challenges, such as consumption, the environment, food security, health and trade&nbsp;issues."
 proteins: [Animal]

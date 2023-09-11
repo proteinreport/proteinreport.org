@@ -2,7 +2,7 @@
 title: "SeaSpire unveils its plant-based whole-cut snapper for APAC"
 date: 2022-06-17 09:12:38
 lastmod: 2022-06-17 09:12:38
-slug: /seaspire-unveils-its-plant-based-whole-cut-snapper-apac
+slug: seaspire-unveils-its-plant-based-whole-cut-snapper-apac
 company: 9427
 description: "SeaSpire, an Indian alternative seafood startup, today revealed its plant-based, whole-cut snapper made using only seven clean label ingredients via their proprietary bioprinting platform."
 excerpt: "SeaSpire, an Indian alternative seafood startup, today revealed its plant-based, whole-cut snapper made using only seven clean label ingredients via their proprietary bioprinting platform."

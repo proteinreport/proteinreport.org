@@ -2,7 +2,7 @@
 title: "HackSummit"
 date: 2023-01-31 12:33:10
 lastmod: 2023-01-31 12:33:10
-slug: /hacksummit
+slug: hacksummit
 description: "The HackSummit brings together the brightest minds in Food and ClimateTech on May 11-12.Across the two days, the world’s founders and funders will meet in Lausanne for the ClimateTech event Europe deserves.We'll cover hot topics from alternative climate financing to overcoming scale up bottlenecks, molecular farming to new biomaterials, and everything in-between.  More than anything - it's a time to meet fellow founders, funders and industry insiders in what we think will probably be the most fun ClimateTech event of the year."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi, Animal]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients, Materials]

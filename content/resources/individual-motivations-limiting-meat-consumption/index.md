@@ -2,7 +2,7 @@
 title: "Individual motivations for limiting meat consumption"
 date: 2019-08-27 15:26:34
 lastmod: 2019-08-27 15:26:34
-slug: /individual-motivations-limiting-meat-consumption
+slug: individual-motivations-limiting-meat-consumption
 description: "PurposeThe aim of this paper is to identify predictors of meat consumption and the intention to reduce it. Since meat consumption is one of the major contributors to human made environmental destruction including climate change, biodiversity loss or water and air pollution and at the same time under volitional control meat consumption is an interesting target for&nbsp;interventions."
 excerpt: "PurposeThe aim of this paper is to identify predictors of meat consumption and the intention to reduce it. Since meat consumption is one of the major contributors to human made environmental destruction including climate change, biodiversity loss or water and air pollution and at the same time under volitional control meat consumption is an interesting target for&nbsp;interventions."
 resource_type: [academic]

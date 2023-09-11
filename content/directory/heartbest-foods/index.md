@@ -2,7 +2,7 @@
 title: "Heartbest Foods"
 date: 2020-01-28 22:35:27
 lastmod: 2020-01-28 22:35:27
-slug: /heartbest-foods
+slug: heartbest-foods
 description: "A Mexican food-tech focused on transforming plants like peas and amaranth to create dairy alternatives that allow to enjoy the foods that people like so much. Heartbest foods was founded in 2017 with the aim of normalizing food from plants for all. The first products, vegicheez & pea & amarantmilk (cheese & milk based on peas and amaranth) are available in +600 points of sale throughout Mexico in chains such as Costco, Walmart, La Comer, among others giving much love and well-being of a delicious way."
 proteins: [Plant-Based]
 products: [Dairy]

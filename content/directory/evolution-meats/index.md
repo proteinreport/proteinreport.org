@@ -2,7 +2,7 @@
 title: "Evolution Meats"
 date: 2020-01-23 17:51:00
 lastmod: 2020-01-23 17:51:00
-slug: /evolution-meats
+slug: evolution-meats
 description: "Evolution Meats was established in early 2018 by three founders from the food industry to make 100% vegetable meat substitutes."
 proteins: [Plant-Based]
 products: [Meat]

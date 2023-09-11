@@ -2,7 +2,7 @@
 title: "Sunflower Family"
 date: 2020-01-23 17:50:57
 lastmod: 2020-01-23 17:50:57
-slug: /sunflower-family
+slug: sunflower-family
 description: "SunflowerFamily, founded in 2016, offers four different varieties of mince: “Pure Sunflower Mince”, “Bolognese”, “Chili sin Carne”, and “Mushroom Pan”. All of them come with a spice mix. Being perfectly easy to handle, the shred product is as versatile as minced meat."
 proteins: [Plant-Based]
 products: [Meat]

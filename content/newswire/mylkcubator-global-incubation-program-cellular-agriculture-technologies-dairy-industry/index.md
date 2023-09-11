@@ -2,7 +2,7 @@
 title: "Mylkcubator, the global incubation program for cellular agriculture technologies in the dairy industry, kicks off its second cohort"
 date: 2022-06-22 11:09:17
 lastmod: 2022-06-22 11:09:17
-slug: /mylkcubator-global-incubation-program-cellular-agriculture-technologies-dairy-industry
+slug: mylkcubator-global-incubation-program-cellular-agriculture-technologies-dairy-industry
 company: 10963
 description: "The incubator will help the selected startups in their business and R&D advancement strategies, preparing them for growth and investment rounds"
 excerpt: "The incubator will help the selected startups in their business and R&D advancement strategies, preparing them for growth and investment rounds"

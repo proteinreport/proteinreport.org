@@ -2,7 +2,7 @@
 title: "Biobritte Agro Solutions"
 date: 2022-07-01 13:02:05
 lastmod: 2022-07-01 13:02:05
-slug: /biobritte-agro-solutions
+slug: biobritte-agro-solutions
 description: "Biobritte agro is fungi protein-based company. Biobritte is working on a fungi-based protein that can replace meat-based proteins. Biobritte grows different medicinal mushrooms. Biobritte was established in 2018 and became India's top mushroom company in a little span of time."
 proteins: [Fungi]
 products: [Ingredients]

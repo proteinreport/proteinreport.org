@@ -2,7 +2,7 @@
 title: "Meating Demand – The lean, green money-making machine"
 date: 2020-12-24 06:49:43
 lastmod: 2020-12-24 06:49:43
-slug: /meating-demand-lean-green-money-making-machine
+slug: meating-demand-lean-green-money-making-machine
 description: "Global meat market revenues are expected to almost double over the next 20 years; however, its growth looks set to be driven by the plant- and cell-based meat subsectors. Plant-based products should dominate the meat alternatives space over the next five years, where innovation is creating a credible consumer proposition. Products can now mimic the sensory profile of conventional meat, where tastes and textures offer a meat-like experience."
 excerpt: "Global meat market revenues are expected to almost double over the next 20 years; however, its growth looks set to be driven by the plant- and cell-based meat subsectors. Plant-based products should dominate the meat alternatives space over the next five years, where innovation is creating a credible consumer proposition. Products can now mimic the sensory profile of conventional meat, where tastes and textures offer a meat-like experience."
 proteins: [Plant-Based]

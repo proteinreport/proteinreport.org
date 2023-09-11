@@ -2,7 +2,7 @@
 title: "SuperMeat"
 date: 2020-01-23 18:09:58
 lastmod: 2020-01-23 18:09:58
-slug: /supermeat
+slug: supermeat
 description: "SuperMeat is a scientific and ideological driven effort to supply the world animal-friendly and sustainable means to produce meat. SuperMeat joined forces with leading players from the biotech and conventional meat industries, working together to form the next agricultural revolution of meat&nbsp;production."
 proteins: [Cell-Based]
 products: [Meat]

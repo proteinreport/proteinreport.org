@@ -2,7 +2,7 @@
 title: "VegMe"
 date: 2020-01-23 17:50:50
 lastmod: 2020-01-23 17:50:50
-slug: /vegme
+slug: vegme
 description: "VegMe is a new innovative vegetarian alternative developed by a Swedish chef family with taste and consistency in the center."
 proteins: [Plant-Based]
 products: [Meat, Eggs]

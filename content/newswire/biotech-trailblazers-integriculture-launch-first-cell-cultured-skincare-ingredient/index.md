@@ -2,7 +2,7 @@
 title: "Biotech Trailblazers Integriculture Launch First Cell-Cultured Skincare Ingredient"
 date: 2021-06-15 16:00:49
 lastmod: 2021-06-15 16:00:49
-slug: /biotech-trailblazers-integriculture-launch-first-cell-cultured-skincare-ingredient
+slug: biotech-trailblazers-integriculture-launch-first-cell-cultured-skincare-ingredient
 company: 5818
 description: "IntegriCulture Inc., the Japanese biotechnology startup pioneering revolutionary advancements in cellular agriculture, today announced the launch of Cellament®️, the first in a new generation of bioactive skincare ingredients based on cutting-edge cell-culture technology."
 excerpt: "IntegriCulture Inc., the Japanese biotechnology startup pioneering revolutionary advancements in cellular agriculture, today announced the launch of Cellament®️, the first in a new generation of bioactive skincare ingredients based on cutting-edge cell-culture technology."

@@ -2,7 +2,7 @@
 title: "Diverse Farm Co."
 date: 2020-10-22 14:16:40
 lastmod: 2020-10-22 14:16:40
-slug: /diverse-farm-co
+slug: diverse-farm-co
 description: "Japan's second cultivated meat startup."
 proteins: [Cell-Based]
 products: [Meat]

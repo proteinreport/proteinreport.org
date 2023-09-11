@@ -2,7 +2,7 @@
 title: "Characterization of cultivated mackerel muscle cells with Michael Saad"
 date: 2021-11-24 14:40:57
 lastmod: 2021-11-24 14:40:57
-slug: /characterization-cultivated-mackerel-muscle-cells-michael-saad
+slug: characterization-cultivated-mackerel-muscle-cells-michael-saad
 description: "Generating cell lines for cultivated seafood is relatively understudied, especially when compared to mammalian species. After screening different aquatic organisms, the Kaplan Lab at Tufts University successfully isolated satellite cells from mackerel (Scomber scombrus). Characterization is underway, as proof of satellite cell stemness, myogenic differentiation efficiency, and transdifferentiation into adipocyte-like cells have all been demonstrated. Join Michael Saad, a Ph.D."
 proteins: [Cell-Based]
 products: [Seafood]

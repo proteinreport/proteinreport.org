@@ -2,7 +2,7 @@
 title: "Cultivate Tomorrow"
 date: 2022-04-15 09:30:51
 lastmod: 2022-04-15 09:30:51
-slug: /cultivate-tomorrow
+slug: cultivate-tomorrow
 description: "Cultivate Tomorrow is the first US hackathon focused solely on cellular agriculture and cell cultured food. This hackathon will work to lower the barrier to enter the cell cultured food industry for STEM and non-STEM individuals. We will create a large network and community of diverse individuals with different backgrounds, skills, and interests. Together we will brainstorm, innovate, and re-imagine the future of food."
 proteins: [Cell-Based, Microbial]
 products: []

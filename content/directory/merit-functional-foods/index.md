@@ -2,7 +2,7 @@
 title: "Merit Functional Foods"
 date: 2020-06-23 12:29:40
 lastmod: 2020-06-23 12:29:40
-slug: /merit-functional-foods
+slug: merit-functional-foods
 description: "We’re here to uproot the industry’s perception of plant-based protein with high quality functional ingredients that are exceptional in taste, unmatched in purity, superior in solubility. As demand for a healthier, plant-based food system continues to grow, we are responding with proprietary non-GMO pea and canola protein ingredients that exceed the industry’s standards for taste, labeling, quality, and more."
 proteins: [Plant-Based]
 products: [Ingredients]

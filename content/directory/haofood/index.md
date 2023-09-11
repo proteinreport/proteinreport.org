@@ -2,7 +2,7 @@
 title: "Haofood"
 date: 2021-04-08 16:37:51
 lastmod: 2021-04-08 16:37:51
-slug: /haofood
+slug: haofood
 description: "Haofood is startup based in Shanghai, China focusing on the development of plant-based chicken. They make use of peanut protein in order to replicate the textural qualities commonly associated with meat."
 proteins: [Plant-Based]
 products: [Meat]

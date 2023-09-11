@@ -2,7 +2,7 @@
 title: "Cultivated Biosciences Raises $1.5M Pre-seed for Innovative Animal-Free Fats for Plant-Based Dairy"
 date: 2022-09-06 06:33:55
 lastmod: 2022-09-06 06:33:55
-slug: /cultivated-biosciences-raises-15m-pre-seed-innovative-animal-free-fats-plant-based-dairy
+slug: cultivated-biosciences-raises-15m-pre-seed-innovative-animal-free-fats-plant-based-dairy
 company: 10547
 description: "Cultivated Biosciences, an innovative ingredient company founded by Swiss entrepreneurs Tomas Turner and Dimitri Zogg, has just raised a $1.5M pre-seed round. The funding will enable the growing team to further optimise its production processes, research food applications and start product development with their first clients."
 excerpt: "Cultivated Biosciences, an innovative ingredient company founded by Swiss entrepreneurs Tomas Turner and Dimitri Zogg, has just raised a $1.5M pre-seed round. The funding will enable the growing team to further optimise its production processes, research food applications and start product development with their first clients."

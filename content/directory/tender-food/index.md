@@ -2,7 +2,7 @@
 title: "Tender Food"
 date: 2020-07-07 19:47:23
 lastmod: 2020-07-07 19:47:23
-slug: /tender-food
+slug: tender-food
 description: "Tender Food is solving the texture problem in the production of alternative meat products. For this new industry to grow, several breakthroughs will be key, including recreating the real texture and taste of meat and scaling it for food production. Tender Food’s team brings cumulative decades of experience to the problem, and has developed highly scalable technologies for recreating the texture in plant-based and cell-cultured meats. (Previously Boston Meats)"
 proteins: [Cell-Based, Plant-Based]
 products: [Meat, Scaffolding & Structure]

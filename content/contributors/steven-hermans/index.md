@@ -2,7 +2,7 @@
 title: "Steven Hermans"
 date: 2021-10-07 08:29:26
 lastmod: 2021-10-07 08:29:26
-slug: /steven-hermans
+slug: steven-hermans
 description: "Steven reports on the emerging seaweed economy at Phyconomy."
 excerpt: "Steven reports on the emerging seaweed economy at Phyconomy."
 images: ["steven-profile-pic-300x300.jpg"]

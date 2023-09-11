@@ -2,7 +2,7 @@
 title: "A Convention on Animal Protection to Prevent Future Pandemics"
 date: 2022-03-09 15:12:22
 lastmod: 2022-03-09 15:12:22
-slug: /convention-animal-protection-prevent-future-pandemics
+slug: convention-animal-protection-prevent-future-pandemics
 description: "With the COVID-19 death toll approaching three million in March of 2021, twenty-five heads of state echoed the World Health Organisation’s call for a global pandemic treaty. With the majority of the world's focus since being dedicated to pandemic preparedness and response, insufficient attention has been paid to our ability to prevent pandemics in the first place."
 proteins: [Animal]
 products: [Meat, Dairy, Eggs, Seafood]

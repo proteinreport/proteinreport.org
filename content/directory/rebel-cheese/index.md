@@ -2,7 +2,7 @@
 title: "Rebel Cheese"
 date: 2020-01-29 21:10:02
 lastmod: 2020-01-29 21:10:02
-slug: /rebel-cheese
+slug: rebel-cheese
 description: "Rebel Cheese offers the largest selection of fresh, homemade, and unique artisan plant-based cheeses that taste the same, if not better, than their dairy counterparts."
 proteins: [Plant-Based]
 products: [Dairy]

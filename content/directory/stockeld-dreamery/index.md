@@ -2,7 +2,7 @@
 title: "Stockeld Dreamery"
 date: 2020-01-23 17:50:52
 lastmod: 2020-01-23 17:50:52
-slug: /stockeld-dreamery
+slug: stockeld-dreamery
 description: "Creating the world's most ambitious cheese."
 proteins: [Plant-Based]
 products: [Dairy]

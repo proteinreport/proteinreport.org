@@ -2,7 +2,7 @@
 title: "NextGen Proteins Conference"
 date: 2022-12-20 13:41:05
 lastmod: 2022-12-20 13:41:05
-slug: /nextgen-proteins-conference
+slug: nextgen-proteins-conference
 description: "Demand for proteins is increasing for food and feed applications.To meet the increasing demand, production will have to double by 2050. However, current protein production, both animal- and vegetal based, has severe negative environmental impacts in terms of greenhouse gas emissions, land and water use, as well as biodiversity loss. The EU is not self-sufficient when it comes to protein production and a large proportion of the demand is met with imported proteins with concerns regarding food security and the general competitiveness of the EU."
 proteins: [Plant-Based, Microbial, Fungi, Animal]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

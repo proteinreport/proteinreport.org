@@ -2,7 +2,7 @@
 title: "Green Slice"
 date: 2020-01-23 17:50:40
 lastmod: 2020-01-23 17:50:40
-slug: /green-slice
+slug: green-slice
 description: "Green Slice makes a plant-based diet more appealing and accessible with plant based foods that still have the meaty taste, and taste great!"
 proteins: [Plant-Based]
 products: [Meat]

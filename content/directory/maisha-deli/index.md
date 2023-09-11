@@ -2,7 +2,7 @@
 title: "Maisha Deli"
 date: 2020-01-23 17:50:28
 lastmod: 2020-01-23 17:50:28
-slug: /maisha-deli
+slug: maisha-deli
 description: "MAiSHA offers 100% plant-based range which consists of Buttery Spread, Mild Cheese and Mollie."
 proteins: [Plant-Based]
 products: [Dairy]

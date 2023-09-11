@@ -2,7 +2,7 @@
 title: "Future Fields"
 date: 2020-01-23 18:09:57
 lastmod: 2020-01-23 18:09:57
-slug: /future-fields
+slug: future-fields
 description: "Startup  creating custom growth media solutions for the cellular agriculture industry - cost effective, scalable, and optimized for the future of&nbsp;food."
 proteins: [Cell-Based]
 products: [Cell Culture Media]

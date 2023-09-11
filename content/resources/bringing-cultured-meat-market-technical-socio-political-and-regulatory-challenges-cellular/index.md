@@ -2,7 +2,7 @@
 title: "Bringing cultured meat to market: Technical, socio-political, and regulatory challenges in cellular agriculture"
 date: 2019-11-09 16:16:32
 lastmod: 2019-11-09 16:16:32
-slug: /bringing-cultured-meat-market-technical-socio-political-and-regulatory-challenges-cellular
+slug: bringing-cultured-meat-market-technical-socio-political-and-regulatory-challenges-cellular
 description: "Background: Cultured meat forms part of the emerging field of cellular agriculture. Still an early stage field it seeks to deliver products traditionally made through livestock rearing in novel forms that require no, or significantly reduced, animal involvement. Key examples include cultured meat, milk, egg white and leather. Here, we focus upon cultured meat and its technical, socio-political and regulatory challenges and opportunities. Scope and approach: The paper reports the thinking of an interdisciplinary team, all of whom have been active in the field for a number of years."
 excerpt: "Background: Cultured meat forms part of the emerging field of cellular agriculture. Still an early stage field it seeks to deliver products traditionally made through livestock rearing in novel forms that require no, or significantly reduced, animal involvement. Key examples include cultured meat, milk, egg white and leather. Here, we focus upon cultured meat and its technical, socio-political and regulatory challenges and opportunities. Scope and approach: The paper reports the thinking of an interdisciplinary team, all of whom have been active in the field for a number of years."
 resource_type: [academic]

@@ -2,7 +2,7 @@
 title: "PlantLX"
 date: 2020-01-23 17:50:43
 lastmod: 2020-01-23 17:50:43
-slug: /plantlx
+slug: plantlx
 description: "PlantLX is a biotech startup using high-throughput methods to leverage crop biodiversity for functional protein sourcing. Towards this end, PlantLX catalogs the most abundant proteins in relevant crops, develops predictive algorithms to identify functional proteins, and makes these proteins accessible to the food industry."
 proteins: [Plant-Based]
 products: [Ingredients]

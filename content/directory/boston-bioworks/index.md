@@ -2,7 +2,7 @@
 title: "Boston Bioworks"
 date: 2022-09-21 13:47:37
 lastmod: 2022-09-21 13:47:37
-slug: /boston-bioworks
+slug: boston-bioworks
 description: "We are a service provider company that is helping fermentation-based food ingredient / alternative protein companies ferment at scale. Founded by industry leaders with decades of experience in precision fermentation / bioprocess and commercial expertise, our vision is to remove the capacity and knowledge bottlenecks experienced within the global food industry."
 proteins: [Microbial]
 products: [Ingredients]

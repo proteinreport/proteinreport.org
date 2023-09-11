@@ -2,7 +2,7 @@
 title: "Plant-based and cell-based approaches to meat production"
 date: 2020-12-15 20:10:36
 lastmod: 2020-12-15 20:10:36
-slug: /plant-based-and-cell-based-approaches-meat-production
+slug: plant-based-and-cell-based-approaches-meat-production
 description: "Advances in farming technology and intensification of animal agriculture increase the cost-efficiency and production volume of meat. Thus, in developed nations, meat is relatively inexpensive and accessible. While beneficial for consumer satisfaction, intensive meat production inflicts negative externalities on public health, the environment and animal welfare. In response, groups within academia and industry are working to improve the sensory characteristics of plant-based meat and pursuing nascent approaches through cellular agriculture methodology (i.e., cell-based meat)."
 excerpt: "Advances in farming technology and intensification of animal agriculture increase the cost-efficiency and production volume of meat. Thus, in developed nations, meat is relatively inexpensive and accessible. While beneficial for consumer satisfaction, intensive meat production inflicts negative externalities on public health, the environment and animal welfare. In response, groups within academia and industry are working to improve the sensory characteristics of plant-based meat and pursuing nascent approaches through cellular agriculture methodology (i.e., cell-based meat)."
 proteins: [Cell-Based, Plant-Based]

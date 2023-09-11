@@ -2,7 +2,7 @@
 title: "UC Davis Cultivated Meat Short Course"
 date: 2023-07-24 06:53:01
 lastmod: 2023-07-24 06:53:01
-slug: /uc-davis-cultivated-meat-short-course-1
+slug: uc-davis-cultivated-meat-short-course-1
 description: "This virtual introductory course will provide technical information and is suitable for new researchers and professional practitioners in the field of cultivated meat and alt proteins. The short course will touch on a range of topics related to the development of cultivated meat, including:"
 proteins: [Cell-Based]
 products: [Meat, Seafood]

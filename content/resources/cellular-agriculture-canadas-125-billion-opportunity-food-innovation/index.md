@@ -2,7 +2,7 @@
 title: "Cellular Agriculture: Canada's $12.5 Billion Opportunity in Food Innovation"
 date: 2021-11-24 10:27:51
 lastmod: 2021-11-24 10:27:51
-slug: /cellular-agriculture-canadas-125-billion-opportunity-food-innovation
+slug: cellular-agriculture-canadas-125-billion-opportunity-food-innovation
 description: "Led by Ontario Genomics and developed and written in partnership with the Food and Agriculture Institute at the University of the Fraser Valley, this report features extensive stakeholder input and an economic analysis, providing critical considerations for Canada's emerging cellular agriculture industry."
 excerpt: "Led by Ontario Genomics and developed and written in partnership with the Food and Agriculture Institute at the University of the Fraser Valley, this report features extensive stakeholder input and an economic analysis, providing critical considerations for Canada's emerging cellular agriculture industry."
 proteins: [Cell-Based]

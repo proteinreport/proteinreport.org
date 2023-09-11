@@ -2,7 +2,7 @@
 title: "Innocent Meat"
 date: 2020-01-23 18:09:57
 lastmod: 2020-01-23 18:09:57
-slug: /innocent-meat
+slug: innocent-meat
 description: "Innocent Meat is the first German start-up, which aims to produce Cultured Meat in Germany, make it commercially viable and available to&nbsp;anybody."
 proteins: [Cell-Based]
 products: [Meat]

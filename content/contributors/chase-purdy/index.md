@@ -2,7 +2,7 @@
 title: "Chase Purdy"
 date: 2020-12-14 13:19:12
 lastmod: 2020-12-14 13:19:12
-slug: /chase-purdy
+slug: chase-purdy
 description: "Chase Purdy is a New York-based writer and author of BILLION DOLLAR BURGER, a narrative non-fiction book published by Penguin Random House that documents the rise of cell-cultured meat and the global race to get it to market."
 excerpt: "Chase Purdy is a New York-based writer and author of BILLION DOLLAR BURGER, a narrative non-fiction book published by Penguin Random House that documents the rise of cell-cultured meat and the global race to get it to market."
 images: ["author photo_credit Cait Kelly.jpg"]

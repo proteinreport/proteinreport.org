@@ -2,7 +2,7 @@
 title: "Delivery Hero-backed DX Ventures invests in Bluu Biosciences to pave the way for cell-based fish in Europe’s kitchens"
 date: 2021-05-11 08:05:45
 lastmod: 2021-05-11 08:05:45
-slug: /delivery-hero-backed-dx-ventures-invests-bluu-biosciences-pave-way-cell-based-fish-europes
+slug: delivery-hero-backed-dx-ventures-invests-bluu-biosciences-pave-way-cell-based-fish-europes
 company: 7856
 description: "Since its successful launch in January, Delivery Hero-backed DX Ventures has focused on becoming a trusted venture capital partner for innovative technology startups across a diverse range of industries. With its investment in Bluu Biosciences as part of the company’s seed funding round, DX Ventures continues to support efforts to create a more sustainable global food system. "
 excerpt: "Since its successful launch in January, Delivery Hero-backed DX Ventures has focused on becoming a trusted venture capital partner for innovative technology startups across a diverse range of industries. With its investment in Bluu Biosciences as part of the company’s seed funding round, DX Ventures continues to support efforts to create a more sustainable global food system. "

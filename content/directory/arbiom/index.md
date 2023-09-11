@@ -2,7 +2,7 @@
 title: "Arbiom"
 date: 2020-08-20 15:58:35
 lastmod: 2020-08-20 15:58:35
-slug: /arbiom
+slug: arbiom
 description: "Arbiom’s bioprocessing and fermentation technology enables an economically viable production pathway from wood to food. SylPro is a single-cell protein yeast that is approved for use in feed and food in the US, Canada, and EU."
 proteins: [Plant-Based]
 products: [Ingredients, Feed]

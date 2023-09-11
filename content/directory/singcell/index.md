@@ -2,7 +2,7 @@
 title: "SingCell"
 date: 2020-08-20 16:07:00
 lastmod: 2020-08-20 16:07:00
-slug: /singcell
+slug: singcell
 description: "SingCell offers process development and contract manufacturing services for stem cell therapy and clean meat companies. SingCell leverages its proprietary technology to improve manufacturing processes and offer high consistent quality stem cells."
 proteins: [Cell-Based]
 products: [Meat]

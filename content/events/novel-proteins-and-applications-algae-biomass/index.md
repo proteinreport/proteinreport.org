@@ -2,7 +2,7 @@
 title: "Novel proteins and applications from algae biomass"
 date: 2021-03-27 06:59:24
 lastmod: 2021-03-27 06:59:24
-slug: /novel-proteins-and-applications-algae-biomass
+slug: novel-proteins-and-applications-algae-biomass
 description: "NA"
 proteins: [Algae]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

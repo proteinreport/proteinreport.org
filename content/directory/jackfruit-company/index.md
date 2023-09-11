@@ -2,7 +2,7 @@
 title: "The Jackfruit Company"
 date: 2020-01-23 17:50:45
 lastmod: 2020-01-23 17:50:45
-slug: /jackfruit-company
+slug: jackfruit-company
 description: "The Jackfruit Company’s mission is to make a positive impact on farmers’ livelihoods, humanity’s eco-footprint, health and wellbeing by mainstreaming the planet’s meatiest plant -- jackfruit.  The company was founded by Annie Ryu, and today works with more than 1,000 farming families in southern India to source organically-grown jackfruit to bring delicious meal starters and Frozen Entrees to the US market."
 proteins: [Plant-Based]
 products: [Meat]

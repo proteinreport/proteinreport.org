@@ -2,7 +2,7 @@
 title: "Future Food-Tech London"
 date: 2022-12-16 09:51:33
 lastmod: 2022-12-16 09:51:33
-slug: /future-food-tech-london-0
+slug: future-food-tech-london-0
 description: "Future Food-Tech’s European flagship is back in London on September 28-29, bringing together over 800 leaders from food brands, ingredient providers, pioneering entrepreneurs, and investors, to address the challenges in creating foods that are nutritious, accessible, and climate-smart."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

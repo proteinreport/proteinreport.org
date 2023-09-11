@@ -2,7 +2,7 @@
 title: "Q&A with David Welch of GFI"
 date: 2020-01-13 10:56:33
 lastmod: 2020-01-13 10:56:33
-slug: /qa-david-welch-gfi
+slug: qa-david-welch-gfi
 description: " Dr. David Welch, the Director of Science and Technology at The Good Food Institute will illuminate opportunities for scientists and engineers to build a sustainable, healthy, and compassionate paradigm for feeding 10 billion people by 2050.The primary goal of this event is to give you plenty of time to ask your specific and detailed questions. There will also be time to connect with other attendees. This event will be most useful for those with an interest in the scientific and technical aspects of cellular agriculture, but all are welcome."
 proteins: [Cell-Based]
 products: [NA]
@@ -21,6 +21,15 @@ draft: false
 weight: 5000
 uuid: 1225
 ---
-<p> Dr. David Welch, the Director of Science and Technology at The Good Food Institute </p>
-<p>will illuminate opportunities for scientists and engineers to build a sustainable, healthy, and compassionate paradigm for feeding 10 billion people by 2050.</p>
-<p>The primary goal of this event is to give you plenty of time to ask your specific and detailed questions. There will also be time to connect with other attendees. This event will be most useful for those with an interest in the scientific and technical aspects of cellular agriculture, but all are welcome.</p>
+ Dr. David Welch, the Director of Science and Technology at The Good
+Food Institute 
+
+will illuminate opportunities for scientists and engineers to build a
+sustainable, healthy, and compassionate paradigm for feeding 10 billion
+people by 2050.
+
+The primary goal of this event is to give you plenty of time to ask your
+specific and detailed questions. There will also be time to connect with
+other attendees. This event will be most useful for those with an
+interest in the scientific and technical aspects of cellular
+agriculture, but all are welcome.

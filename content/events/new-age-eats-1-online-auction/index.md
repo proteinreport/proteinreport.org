@@ -2,7 +2,7 @@
 title: "New Age Eats #1 Online Auction"
 date: 2023-04-05 17:36:28
 lastmod: 2023-04-05 17:36:28
-slug: /new-age-eats-1-online-auction
+slug: new-age-eats-1-online-auction
 description: "Silicon Valley Disposition will conducting a Global Online Auction for the assets of New Age Eats in Alameda, CA and Berkeley, CA. The first auction for the assets in Alameda, CA is scheduled for April 11–13, 2023."
 proteins: [Cell-Based]
 products: [Meat]

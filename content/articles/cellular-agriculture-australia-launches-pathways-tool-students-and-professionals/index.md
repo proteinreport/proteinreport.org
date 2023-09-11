@@ -2,7 +2,7 @@
 title: "Cellular Agriculture Australia Launches Pathways Tool for Students and Professionals"
 date: 2021-03-16 16:37:34
 lastmod: 2021-03-16 16:37:34
-slug: /cellular-agriculture-australia-launches-pathways-tool-students-and-professionals
+slug: cellular-agriculture-australia-launches-pathways-tool-students-and-professionals
 description: "There is no shortage of intelligent and passionate people who want to get involved in cellular agriculture, but there are few resources directing them to the various pathways into the field. In order to solve this problem, Cellular Agriculture Australia has developed an online resource called “Pathways into Cellular Agriculture.”"
 excerpt: "There is no shortage of intelligent and passionate people who want to get involved in cellular agriculture, but there are few resources directing them to the various pathways into the field. In order to solve this problem, Cellular Agriculture Australia has developed an online resource called “Pathways into Cellular Agriculture.”"
 proteins: [Cell-Based]

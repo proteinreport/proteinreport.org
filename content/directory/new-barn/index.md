@@ -2,7 +2,7 @@
 title: "New Barn"
 date: 2020-01-23 17:50:34
 lastmod: 2020-01-23 17:50:34
-slug: /new-barn
+slug: new-barn
 description: "New Barn Organics makes plant-based, organic foods that are sold nationwide in natural, specialty and mainstream channels. Founded in 2015, it has grown into a platform brand that offers customers the organic foods they crave in multiple categories. The company is guided by its commitments to transparent and organic practices, as well as its belief that its products should contain the Fewest, Cleanest, Simplest Ingredients. New Barn Organics is represented by Presence Marketing and is distributed by UNFI, KeHE and other leading distributors."
 proteins: [Plant-Based]
 products: [Dairy]

@@ -2,7 +2,7 @@
 title: "From Circuits to Cells"
 date: 2021-11-03 08:55:05
 lastmod: 2021-11-03 08:55:05
-slug: /circuits-cells
+slug: circuits-cells
 description: "This is a Student Essay Contest 2021 runner-up. Nam Tran is a Biophysics PhD candidate in the Department of Physics and Astronomy at Swinburne University of Technology."
 excerpt: "This is a Student Essay Contest 2021 runner-up. Nam Tran is a Biophysics PhD candidate in the Department of Physics and Astronomy at Swinburne University of Technology."
 proteins: [Cell-Based]

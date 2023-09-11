@@ -2,7 +2,7 @@
 title: "Fifty Years"
 date: 2020-02-21 19:40:10
 lastmod: 2020-02-21 19:40:10
-slug: /fifty-years
+slug: fifty-years
 description: "Fifty Years is an entrepreneur-run early stage venture capital firm based in San Francisco. They partner with companies that inspire. Specifically, they back companies that, if successful, will be both massively profitable and make a serious dent in achieving one of the Sustainable Development Goals."
 proteins: []
 products: []

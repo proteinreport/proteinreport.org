@@ -2,7 +2,7 @@
 title: "NotCo"
 date: 2020-01-23 17:50:48
 lastmod: 2020-01-23 17:50:48
-slug: /notco
+slug: notco
 description: "NotCo is a food tech company that uses artificial intelligence to create delicious, sustainable and accessible foods, all from plants."
 proteins: [Plant-Based]
 products: [Dairy, Eggs]

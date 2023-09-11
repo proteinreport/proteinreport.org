@@ -2,7 +2,7 @@
 title: "Sustainable Food Ventures"
 date: 2021-01-12 11:47:12
 lastmod: 2021-01-12 11:47:12
-slug: /sustainable-food-ventures
+slug: sustainable-food-ventures
 description: "Our mission is to support founders developing sustainable food products and scaling profitable companies in the global $12 Trillion food and grocery retail market.We back early stage founders building leading food companies that are: • Plant-based• Cell-based• Recombinant SFV will not invest in any companies involved in animal agriculture."
 proteins: []
 products: []

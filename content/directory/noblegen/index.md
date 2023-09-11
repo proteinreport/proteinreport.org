@@ -2,7 +2,7 @@
 title: "Noblegen"
 date: 2020-01-27 13:51:52
 lastmod: 2020-01-27 13:51:52
-slug: /noblegen
+slug: noblegen
 description: "Noblegen is an advanced ingredients company that produces protein, oil and beta-glucan ingredients for the healthy living industry. Harvested from an ancient, non-GMO microorganism, our ingredients are naturally nutritious and offer a range of functional benefits in baked goods, beverages, bars, dietary supplements, and more. Using a proprietary fermentation method we call Facilitated Expression, we naturally grow our ancient microorganism culture without unnecessary chemicals, pesticides or processing. The result is real, allergen free, and fully customized ingredients you can trust."
 proteins: [Microbial]
 products: [Ingredients]

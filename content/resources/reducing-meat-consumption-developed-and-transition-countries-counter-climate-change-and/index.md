@@ -2,7 +2,7 @@
 title: "Reducing meat consumption in developed and transition countries to counter climate change and biodiversity loss: a review of influence factors"
 date: 2019-11-09 16:12:11
 lastmod: 2019-11-09 16:12:11
-slug: /reducing-meat-consumption-developed-and-transition-countries-counter-climate-change-and
+slug: reducing-meat-consumption-developed-and-transition-countries-counter-climate-change-and
 description: "A dietary shift towards reduced meat consumption is an efficient strategy for countering biodiversity loss and climate change in regions (developed and transition countries) where consumption is already at a very high level or is rapidly expanding (such as China). Biodiversity is being degraded and lost to a considerable extent, with 70 % of the world’s deforestation a result of stripping in order to grow animal feed. Furthermore, about 14.5 % of the world’s anthropogenic greenhouse gas emissions (GHG) are calculated to be the result of (mainly industrial) livestock farming."
 excerpt: "A dietary shift towards reduced meat consumption is an efficient strategy for countering biodiversity loss and climate change in regions (developed and transition countries) where consumption is already at a very high level or is rapidly expanding (such as China). Biodiversity is being degraded and lost to a considerable extent, with 70 % of the world’s deforestation a result of stripping in order to grow animal feed. Furthermore, about 14.5 % of the world’s anthropogenic greenhouse gas emissions (GHG) are calculated to be the result of (mainly industrial) livestock farming."
 resource_type: [academic]

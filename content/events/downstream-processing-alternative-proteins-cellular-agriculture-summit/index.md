@@ -2,7 +2,7 @@
 title: "Downstream Processing for Alternative Proteins & Cellular Agriculture Summit"
 date: 2023-06-12 07:36:39
 lastmod: 2023-06-12 07:36:39
-slug: /downstream-processing-alternative-proteins-cellular-agriculture-summit
+slug: downstream-processing-alternative-proteins-cellular-agriculture-summit
 description: "Advance Protein & Cell Harvest, Purification, End Product Characterization & Formulation for Commercially Viable Fermentation Proteins & Cellular Agriculture ProductsThe Downstream Processing for Alternative Proteins & Cellular Agriculture Summit is your dedicated community to help you evaluate current downstream strategies to reduce cost, improve titer, and guarantee quality for commercial scalability."
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients]

@@ -2,7 +2,7 @@
 title: "Designing a Future That Works for All"
 date: 2023-03-07 07:56:27
 lastmod: 2023-03-07 07:56:27
-slug: /designing-future-works-all
+slug: designing-future-works-all
 description: "The general assumption is that technology is intrinsically neutral — it can be used for either good or bad and the outcome depends on the person or group who uses it. However, history has shown us time and again that this is not entirely true."
 excerpt: "The general assumption is that technology is intrinsically neutral — it can be used for either good or bad and the outcome depends on the person or group who uses it. However, history has shown us time and again that this is not entirely true."
 proteins: [Cell-Based, Microbial]

@@ -2,7 +2,7 @@
 title: "Cultivated Meat and Alternative Protein Summit"
 date: 2023-08-14 09:36:01
 lastmod: 2023-08-14 09:36:01
-slug: /cultivated-meat-and-alternative-protein-summit
+slug: cultivated-meat-and-alternative-protein-summit
 description: "Join us at the University of California, Davis on September 11th, 2023 for a gathering of forward thinking academia, industry leaders, and policymakers working to navigate the hurdles for cultivated meat and alternative protein commercialization in the US and abroad.This year’s Summit will include:"
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

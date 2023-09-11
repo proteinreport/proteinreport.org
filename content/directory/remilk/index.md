@@ -2,7 +2,7 @@
 title: "Remilk"
 date: 2020-05-07 11:34:00
 lastmod: 2020-05-07 11:34:00
-slug: /remilk
+slug: remilk
 description: "We love milk, but using animals to make our food is as primitive as starting a fire with stones. So we teamed up with technology to reshape dairy products without compromising on deliciousness."
 proteins: [Microbial]
 products: [Dairy]

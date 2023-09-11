@@ -2,7 +2,7 @@
 title: "Parmela Creamery"
 date: 2020-01-23 17:50:39
 lastmod: 2020-01-23 17:50:39
-slug: /parmela-creamery
+slug: parmela-creamery
 description: "Parmela Creamery is an artisanal, plant-based cheese company. Parmela uses traditional cheese making techniques for its cashew-based cheese products, resulting in authentic taste and meltability. The company sells shreds, slices, sauces, dips, spreads, blocks and a new line of raviolis."
 proteins: [Plant-Based]
 products: [Dairy]

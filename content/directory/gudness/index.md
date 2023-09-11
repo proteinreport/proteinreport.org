@@ -2,7 +2,7 @@
 title: "Gudness"
 date: 2020-02-11 10:24:34
 lastmod: 2020-02-11 10:24:34
-slug: /gudness
+slug: gudness
 description: "Gudness is an innovative plant-based alternative to conventional deli meats exclusively developed & produced in South Africa. The base ingredients are soy and pea protein."
 proteins: [Plant-Based]
 products: [Meat]

@@ -2,7 +2,7 @@
 title: "IntegriCulture"
 date: 2020-01-23 18:09:58
 lastmod: 2020-01-23 18:09:58
-slug: /integriculture
+slug: integriculture
 description: "IntegriCulture is a startup creating full-stack cellular agriculture and leading an open-source movement."
 proteins: [Cell-Based]
 products: [Meat, Ingredients, Technology & Equipment]

@@ -2,7 +2,7 @@
 title: "SynBioBeta 2022"
 date: 2021-11-05 13:39:19
 lastmod: 2021-11-05 13:39:19
-slug: /synbiobeta-2022
+slug: synbiobeta-2022
 description: "Live and in person January 25th - 27th 2022 @ the Oakland Marriott City Center"
 proteins: [Cell-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients, Materials]

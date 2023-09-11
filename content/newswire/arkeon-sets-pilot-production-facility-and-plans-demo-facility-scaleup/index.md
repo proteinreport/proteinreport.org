@@ -2,7 +2,7 @@
 title: "Arkeon Sets Up Pilot Production Facility and Plans Demo Facility for Scaleup"
 date: 2023-07-06 13:33:55
 lastmod: 2023-07-06 13:33:55
-slug: /arkeon-sets-pilot-production-facility-and-plans-demo-facility-scaleup
+slug: arkeon-sets-pilot-production-facility-and-plans-demo-facility-scaleup
 company: 10527
 description: "Biotech startup Arkeon transforms CO2 into functional protein ingredients using gas fermentation. The commissioning of a 150L pilot production plant marks an important step forward and paves the way for the company's future scaling."
 excerpt: "Biotech startup Arkeon transforms CO2 into functional protein ingredients using gas fermentation. The commissioning of a 150L pilot production plant marks an important step forward and paves the way for the company's future scaling."

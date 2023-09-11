@@ -2,7 +2,7 @@
 title: "Cellular Agriculture Curriculum: Feeding Two Birds with One Scone"
 date: 2021-11-03 08:55:15
 lastmod: 2021-11-03 08:55:15
-slug: /cellular-agriculture-curriculum-feeding-two-birds-one-scone
+slug: cellular-agriculture-curriculum-feeding-two-birds-one-scone
 description: "This is a Student Essay Contest 2021 runner-up. Molly Gordon is a PhD candidate in Cell Biology at Johns Hopkins University."
 excerpt: "This is a Student Essay Contest 2021 runner-up. Molly Gordon is a PhD candidate in Cell Biology at Johns Hopkins University."
 proteins: [Cell-Based]

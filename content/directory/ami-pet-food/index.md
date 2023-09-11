@@ -2,7 +2,7 @@
 title: "Ami Pet Food"
 date: 2020-01-13 14:42:34
 lastmod: 2020-01-13 14:42:34
-slug: /ami-pet-food
+slug: ami-pet-food
 description: "Amì is an Italian company producing a plant-based pet food and distributing it to the international market."
 proteins: [Plant-Based]
 products: [Pet Food]

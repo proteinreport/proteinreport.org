@@ -2,7 +2,7 @@
 title: "Change Foods"
 date: 2020-09-08 07:04:33
 lastmod: 2020-09-08 07:04:33
-slug: /change-foods
+slug: change-foods
 description: "Change Foods is using bioengineering innovations and microbial fermentation to create real animal-free cheese and dairy products that are sustainable and better for you - with no compromise on taste, function or texture. All lactose free, hormone free and hypoallergenic. Our mission is to deliver sustainable, healthier and more ethical food supplies for the future."
 proteins: [Microbial]
 products: [Dairy]

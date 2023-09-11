@@ -2,7 +2,7 @@
 title: "NapiFeryn BioTech"
 date: 2020-08-03 10:08:17
 lastmod: 2020-08-03 10:08:17
-slug: /napiferyn-biotech
+slug: napiferyn-biotech
 description: "A novel, environmentally friendly technology for production of natural, fully functional rapeseed protein isolates is offered by NapiFeryn BioTech (NFB in short), a Polish biotechnology company.NapiFeryn BioTech solutions are dedicated to oilseed processing companies and will be subject to license."
 proteins: [Plant-Based]
 products: [Ingredients, Technology & Equipment]

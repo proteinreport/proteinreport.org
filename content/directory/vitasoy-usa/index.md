@@ -2,7 +2,7 @@
 title: "Vitasoy USA"
 date: 2020-01-23 17:50:50
 lastmod: 2020-01-23 17:50:50
-slug: /vitasoy-usa
+slug: vitasoy-usa
 description: "Vitasoy is the producer of soya based milk alternatives and tofu."
 proteins: [Plant-Based]
 products: [Dairy]

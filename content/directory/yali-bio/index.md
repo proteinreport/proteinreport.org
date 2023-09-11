@@ -2,7 +2,7 @@
 title: "Yali Bio"
 date: 2022-03-13 13:08:24
 lastmod: 2022-03-13 13:08:24
-slug: /yali-bio
+slug: yali-bio
 description: "At Yali Bio, we're building a synthetic biology platform to tailor-make climate-smart foods from renewable resources. Synthetic biology and NGS food genomics can revolutionize food production and mitigate the exploitation of our fragile ecosystem."
 proteins: [Microbial]
 products: [Ingredients]

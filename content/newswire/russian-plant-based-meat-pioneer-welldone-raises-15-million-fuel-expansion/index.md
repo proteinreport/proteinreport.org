@@ -2,7 +2,7 @@
 title: "Russian plant-based meat pioneer Welldone raises $1.5 million to fuel expansion"
 date: 2021-07-16 10:09:56
 lastmod: 2021-07-16 10:09:56
-slug: /russian-plant-based-meat-pioneer-welldone-raises-15-million-fuel-expansion
+slug: russian-plant-based-meat-pioneer-welldone-raises-15-million-fuel-expansion
 company: 9334
 description: "Fast-growing Russian plant-based meat startup Welldone announced today the close of a $1.5 million funding round to significantly expand production capacity to meet the company’s rapid growth in sales. The round was led by Phystech Ventures, an international fund investing in deep tech startups globally, with participation from Lever VC, a leading global investor in the alternative protein category."
 excerpt: "Fast-growing Russian plant-based meat startup Welldone announced today the close of a $1.5 million funding round to significantly expand production capacity to meet the company’s rapid growth in sales. The round was led by Phystech Ventures, an international fund investing in deep tech startups globally, with participation from Lever VC, a leading global investor in the alternative protein category."

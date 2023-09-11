@@ -2,7 +2,7 @@
 title: "Formo"
 date: 2020-01-15 16:05:20
 lastmod: 2020-01-15 16:05:20
-slug: /formo
+slug: formo
 description: "Formo is aiming to give people dairy milk without the destructive environmental and ethical consequences. Through a fermentation process, Formo transforms microorganisms and sugar into milk protein and then on to dairy products. Dairy milk without cows."
 proteins: [Microbial]
 products: [Dairy]

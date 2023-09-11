@@ -2,7 +2,7 @@
 title: "Unprecedented Collaboration between Industry and Academia to Explore the Future of Cell Ag"
 date: 2022-01-25 17:28:07
 lastmod: 2022-01-25 17:28:07
-slug: /unprecedented-collaboration-between-industry-and-academia-explore-future-cell-ag
+slug: unprecedented-collaboration-between-industry-and-academia-explore-future-cell-ag
 company: 10728
 description: "The Cultivate Tomorrow initiative aims to help bridge the gap between industry and academia, organizing students from all disciplines to tackle key challenges through a cellular agriculture-focused hackathon. To conclude the hackathon, the organization will host a virtual pitch day on February 12, 2022 open to everyone interested in the cultivated food industry, biotechnology applications, and sustainable food and agriculture sectors."
 excerpt: "The Cultivate Tomorrow initiative aims to help bridge the gap between industry and academia, organizing students from all disciplines to tackle key challenges through a cellular agriculture-focused hackathon. To conclude the hackathon, the organization will host a virtual pitch day on February 12, 2022 open to everyone interested in the cultivated food industry, biotechnology applications, and sustainable food and agriculture sectors."

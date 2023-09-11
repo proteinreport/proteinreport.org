@@ -2,7 +2,7 @@
 title: "Global Food Security & Sustainability Summit 2022"
 date: 2022-02-14 09:37:31
 lastmod: 2022-02-14 09:37:31
-slug: /global-food-security-sustainability-summit-2022
+slug: global-food-security-sustainability-summit-2022
 description: "The 2nd Global Food Security & Sustainability Summit 2022 held on the 30 June to 1 July 2022, would be one of the most important events ever held to address the critical issues of food security from the local level to the global level, and from an interdisciplinary and systemic food systems perspective. The event will also showcase the latest technological innovations driving food production that will become a game changer for the food sector."
 proteins: [Cell-Based, Plant-Based, Microbial]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

@@ -2,7 +2,7 @@
 title: "China Alternative Protein News Media Platform, NewProtein.cn, Launched by Lever China"
 date: 2021-08-18 09:38:24
 lastmod: 2021-08-18 09:38:24
-slug: /china-alternative-protein-news-media-platform-newproteincn-launched-lever-china
+slug: china-alternative-protein-news-media-platform-newproteincn-launched-lever-china
 company: 1332
 description: "Comprehensive news portal covers product launches, investments, and other developments for the plant-based and cultivated meat sectors in China"
 excerpt: "Comprehensive news portal covers product launches, investments, and other developments for the plant-based and cultivated meat sectors in China"

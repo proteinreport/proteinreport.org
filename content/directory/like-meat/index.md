@@ -2,7 +2,7 @@
 title: "Like Meat"
 date: 2020-01-23 17:50:28
 lastmod: 2020-01-23 17:50:28
-slug: /like-meat
+slug: like-meat
 description: "LikeMeat is a German company based in Dusseldorf. With the support of his family business from a meat processing background, Timo Recker founded LikeMeat in December 2013.During his studies in England in 2010 he came up with the brilliant idea to produce the most popular meat products, but completely without animal meat. Together with his team he has developed a production technology that finally matches the quality of meat and results in a firm, delicious and succulent texture. Just like meat!"
 proteins: [Plant-Based]
 products: [Meat]

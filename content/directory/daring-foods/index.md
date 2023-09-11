@@ -2,7 +2,7 @@
 title: "Daring Foods"
 date: 2020-01-08 08:06:30
 lastmod: 2020-01-08 08:06:30
-slug: /daring-foods
+slug: daring-foods
 description: "Daring looks, cooks and tastes like chicken, but most definitely not chicken. daring is 100% plant-based, 1000% not chicken, and absolutely delicious."
 proteins: [Plant-Based]
 products: [Meat]

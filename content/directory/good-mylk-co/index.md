@@ -2,7 +2,7 @@
 title: "Good Mylk Co"
 date: 2020-02-11 20:58:01
 lastmod: 2020-02-11 20:58:01
-slug: /good-mylk-co
+slug: good-mylk-co
 description: "Based in Los Angeles, Goodmylk Co. is on a mission to “keep it real” with organic, truly nutritional plant mylks made from good quality ingredients. No chemicals, no binders, no fillers.Goodmylk Co.'s plant mylks are currently available in over 100 California coffee shops including La Colombe, Blue Bottle and Verve Coffee Roasters, and due to popular demand, they’re now available to order directly at goodmylk.co."
 proteins: [Plant-Based]
 products: [Dairy]

@@ -2,7 +2,7 @@
 title: "Plant-Based Foods of Canada"
 date: 2020-06-15 10:47:21
 lastmod: 2020-06-15 10:47:21
-slug: /plant-based-foods-canada
+slug: plant-based-foods-canada
 description: "Plant-Based Foods of Canada (PBFC) acts as a collective voice for the producers of plant-based products. We use our voice to advocate for a modernized regulatory environment that will allow members to market their products effectively and to make them accessible to all consumers."
 proteins: [Plant-Based]
 products: []

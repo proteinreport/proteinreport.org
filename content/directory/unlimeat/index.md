@@ -2,7 +2,7 @@
 title: "Unlimeat"
 date: 2020-02-27 10:53:00
 lastmod: 2020-02-27 10:53:00
-slug: /unlimeat
+slug: unlimeat
 description: "South Korea-based maker of plant-based meats."
 proteins: [Plant-Based]
 products: [Meat]

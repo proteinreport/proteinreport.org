@@ -2,7 +2,7 @@
 title: "FAIRR Initiative"
 date: 2019-11-23 14:50:31
 lastmod: 2019-11-23 14:50:31
-slug: /fairr-initiative
+slug: fairr-initiative
 description: "FAIRR believes that intensive animal production poses material risks to the global financial system and hinders sustainable development. Our mission is to build a global network of investors who are focused and engaged on the risks linked to intensive animal production within the broader food system. FAIRR helps investors to exercise their influence as responsible stewards of capital to engage and safeguard the long-term value of their investment portfolios."
 proteins: [Animal]
 products: []

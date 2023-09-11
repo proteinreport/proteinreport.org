@@ -2,7 +2,7 @@
 title: "Plant-Based Protein Americas Summit Concludes With Collective Call for Action on Protein Transition"
 date: 2021-10-01 16:22:26
 lastmod: 2021-10-01 16:22:26
-slug: /plant-based-protein-americas-summit-concludes-collective-call-action-protein-transition
+slug: plant-based-protein-americas-summit-concludes-collective-call-action-protein-transition
 company_name: "Bridge2Food"
 company_link: "https://bridge2food.com/"
 description: "There’s a very clear call for the plant-based sector to come together in order to accelerate change for a healthy and sustainable future, delegates heard at the most recent Bridge2Food summit."

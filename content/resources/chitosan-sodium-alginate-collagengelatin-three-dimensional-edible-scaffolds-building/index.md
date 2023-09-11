@@ -2,7 +2,7 @@
 title: "Chitosan‑sodium alginate-collagen/gelatin three-dimensional edible scaffolds for building a structured model for cell cultured meat"
 date: 2022-06-07 10:56:24
 lastmod: 2022-06-07 10:56:24
-slug: /chitosan-sodium-alginate-collagengelatin-three-dimensional-edible-scaffolds-building
+slug: chitosan-sodium-alginate-collagengelatin-three-dimensional-edible-scaffolds-building
 description: "Cell cultured meat (CCM) production is an innovative technology that does not depend on livestock farming practices to produce meat. The construction of structured CCM requires a three-dimensional (3D) scaffold to mimic the extracellular matrix to provide mechanical support for the cells. Furthermore, the 3D scaffolds should be edible and have good biocompatibility and tissue-like texture."
 excerpt: "Cell cultured meat (CCM) production is an innovative technology that does not depend on livestock farming practices to produce meat. The construction of structured CCM requires a three-dimensional (3D) scaffold to mimic the extracellular matrix to provide mechanical support for the cells. Furthermore, the 3D scaffolds should be edible and have good biocompatibility and tissue-like texture."
 proteins: [Cell-Based, Algae]

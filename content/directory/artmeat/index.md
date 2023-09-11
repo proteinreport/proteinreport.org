@@ -2,7 +2,7 @@
 title: "ArtMeat"
 date: 2020-01-23 18:10:01
 lastmod: 2020-01-23 18:10:01
-slug: /artmeat
+slug: artmeat
 description: "ArtMeat is a startup working on cultivated horse and sturgeon&nbsp;cells."
 proteins: [Cell-Based]
 products: [Meat]

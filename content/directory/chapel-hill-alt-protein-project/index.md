@@ -2,7 +2,7 @@
 title: "Chapel Hill Alt. Protein Project"
 date: 2020-06-15 15:38:51
 lastmod: 2020-06-15 15:38:51
-slug: /chapel-hill-alt-protein-project
+slug: chapel-hill-alt-protein-project
 description: "The UNC Chapel Hill Alt. Protein Project strives to build a healthy, sustainable, and just food system by creating a vibrant and robust community for alternative protein research and innovation at University of North Carolina at Chapel Hill."
 proteins: [Cell-Based, Plant-Based]
 products: []

@@ -2,7 +2,7 @@
 title: "It's Jerky Yall"
 date: 2020-01-23 17:50:55
 lastmod: 2020-01-23 17:50:55
-slug: /its-jerky-yall
+slug: its-jerky-yall
 description: "All Y’alls Foods is a Texas Plant-Based snack company and their first product is It’s Jerky Y’all which is a tasty Texas plant-based jerky where the flavors of Texas meet whole soybeans to create the future of jerky."
 proteins: [Plant-Based]
 products: [Meat]

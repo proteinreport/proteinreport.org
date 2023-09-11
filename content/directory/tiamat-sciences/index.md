@@ -2,7 +2,7 @@
 title: "Tiamat Sciences"
 date: 2020-07-08 07:49:53
 lastmod: 2020-07-08 07:49:53
-slug: /tiamat-sciences
+slug: tiamat-sciences
 description: "Tiamat makes culture media, growth-factors & high value proteins for cell culture using a unique plant-based technology."
 proteins: [Cell-Based, Molecular Farming]
 products: [Ingredients, Cell Culture Media]

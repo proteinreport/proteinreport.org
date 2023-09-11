@@ -2,7 +2,7 @@
 title: "Molecular farming start-up Bright Biotech raises $3.2 million to grow and scale"
 date: 2022-11-21 10:21:02
 lastmod: 2022-11-21 10:21:02
-slug: /molecular-farming-start-bright-biotech-raises-32-million-grow-and-scale
+slug: molecular-farming-start-bright-biotech-raises-32-million-grow-and-scale
 company: 10455
 description: "Molecular farming start-up Bright Biotech has closed a $3.2 million funding round. The oversubscribed Seed funding round was led by FoodLabs and includes world-class impact investors Big Idea Ventures, CPT Capital, the FoodHack syndicate and business angels."
 excerpt: "Molecular farming start-up Bright Biotech has closed a $3.2 million funding round. The oversubscribed Seed funding round was led by FoodLabs and includes world-class impact investors Big Idea Ventures, CPT Capital, the FoodHack syndicate and business angels."

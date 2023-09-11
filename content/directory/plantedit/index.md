@@ -2,7 +2,7 @@
 title: "Plantedit"
 date: 2020-01-23 17:50:54
 lastmod: 2020-01-23 17:50:54
-slug: /plantedit
+slug: plantedit
 description: "Plantedit's mission is to produce non-transgenic, regulatory free, sustainable, consumer oriented genome edited plant products. PLANTeDIT is the first biotech company dedicated to use patented next generation genome editing tools CRISPR/Cas9 RNPs® from the key collaborator Toolgen with Plantedit's transformation technology for efficient direct delivery and swift regeneration of genome edited plants."
 proteins: [Cell-Based, Plant-Based]
 products: [Technology & Equipment]

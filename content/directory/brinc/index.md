@@ -2,7 +2,7 @@
 title: "Brinc"
 date: 2020-08-14 09:59:56
 lastmod: 2020-08-14 09:59:56
-slug: /brinc
+slug: brinc
 description: "Brinc has developed a three month program covering Greater Bay Area, spanning Hong Kong, Shenzhen and Guangzhou, designed to support entrepreneurs who are solving the inefficiencies in the food supply chain by developing new protein alternatives to replace animal-based and animal-derived products. Startups accepted in the program will receive investment as well as hands-on support from Brinc’s in-house mentors and network of experts."
 proteins: []
 products: []

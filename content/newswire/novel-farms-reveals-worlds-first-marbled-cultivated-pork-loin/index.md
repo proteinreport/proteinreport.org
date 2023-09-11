@@ -2,7 +2,7 @@
 title: "Novel Farms Reveals World's First Marbled Cultivated Pork Loin"
 date: 2022-08-10 19:26:13
 lastmod: 2022-08-10 19:26:13
-slug: /novel-farms-reveals-worlds-first-marbled-cultivated-pork-loin
+slug: novel-farms-reveals-worlds-first-marbled-cultivated-pork-loin
 company: 7502
 description: "Novel Farms, a food technology startup based in Berkeley, California, unveils today the first-ever marbled cultivated pork loin."
 excerpt: "Novel Farms, a food technology startup based in Berkeley, California, unveils today the first-ever marbled cultivated pork loin."

@@ -2,7 +2,7 @@
 title: "Manta Ray"
 date: 2020-09-16 16:38:02
 lastmod: 2020-09-16 16:38:02
-slug: /manta-ray
+slug: manta-ray
 description: "Manta Ray is an early stage venture capital fund backing mission-driven founders addressing significant global challenges through applying leading edge technologies. We provide flexible and patient capital, leveraging our time, resources and networks as far as possible to support our portfolio companies."
 proteins: []
 products: []

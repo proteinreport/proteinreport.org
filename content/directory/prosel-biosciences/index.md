@@ -2,7 +2,7 @@
 title: "Prosel Biosciences"
 date: 2022-02-21 12:22:40
 lastmod: 2022-02-21 12:22:40
-slug: /prosel-biosciences
+slug: prosel-biosciences
 description: "Prosel Biosciences leverages high-performance computing to unlock the potential of microalgae by developing algal technologies that produce  industrial enzymes and plant-based food proteins. Algaexpress™ produces alternative meat, dairy and plant-based proteins up to 10x higher yields compared to wild type yields."
 proteins: [Microbial, Algae]
 products: [Meat, Dairy, Ingredients]

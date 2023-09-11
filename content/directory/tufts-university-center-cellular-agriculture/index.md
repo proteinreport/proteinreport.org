@@ -2,7 +2,7 @@
 title: "Tufts University Center for Cellular Agriculture"
 date: 2022-09-07 10:27:30
 lastmod: 2022-09-07 10:27:30
-slug: /tufts-university-center-cellular-agriculture
+slug: tufts-university-center-cellular-agriculture
 description: "Tufts University has established the Center for Cellular Agriculture to accelerate cellular agriculture research. We plan to work closely with students and faculty across disciplines within our ecosystem at Tufts, as well as with other universities and colleges and with industry and regulators, to foster the growth of this burgeoning industry. We aim to provide a solid scientific foundation via published, peer-reviewed data, bring innovation in technology, provide consistency in quality measures to guide the field, and foster workforce development and broader educational impact."
 proteins: [Cell-Based, Microbial]
 products: []

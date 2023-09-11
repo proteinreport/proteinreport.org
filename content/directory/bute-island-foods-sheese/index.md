@@ -2,7 +2,7 @@
 title: "Bute Island Foods / Sheese"
 date: 2020-01-23 17:50:37
 lastmod: 2020-01-23 17:50:37
-slug: /bute-island-foods-sheese
+slug: bute-island-foods-sheese
 description: "Bute Island Foods Ltd is headquartered in the UK and operates the business under various segments such as Sheese Blocks, Creamy Sheese, Sheese Wedges, Grated Sheese, and Sheese Slices. The company offers a wide range of dairy-free cheeses under the brand Sheese."
 proteins: [Plant-Based]
 products: [Dairy]

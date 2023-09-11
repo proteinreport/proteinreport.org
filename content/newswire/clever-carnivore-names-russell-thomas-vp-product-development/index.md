@@ -2,7 +2,7 @@
 title: "Clever Carnivore Names Russell Thomas VP of Product Development"
 date: 2023-05-16 16:46:46
 lastmod: 2023-05-16 16:46:46
-slug: /clever-carnivore-names-russell-thomas-vp-product-development
+slug: clever-carnivore-names-russell-thomas-vp-product-development
 company_name: "Clever Carnivore"
 company_link: "http://clevercarnivore.com"
 description: "Clever Carnivore, a Chicago-based biotech startup working to bring cultivated meat — pork, beef and chicken — to consumers, today announced Russell Thomas, MSc, has joined the team as vice president of product development."

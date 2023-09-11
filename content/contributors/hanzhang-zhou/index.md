@@ -2,7 +2,7 @@
 title: "Hanzhang Zhou"
 date: 2021-10-12 12:14:45
 lastmod: 2021-10-12 12:14:45
-slug: /hanzhang-zhou
+slug: hanzhang-zhou
 description: ""
 excerpt: ""
 images: ["zhou.jpg"]

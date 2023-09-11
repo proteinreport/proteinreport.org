@@ -2,7 +2,7 @@
 title: "Drivers of meat consumption"
 date: 2019-08-13 18:23:23
 lastmod: 2019-08-13 18:23:23
-slug: /drivers-meat-consumption
+slug: drivers-meat-consumption
 description: "Increasing global levels of meat consumption are a threat to the environment and to human health. To identify measures that may change consumption patterns towards more plant-based foods, it is necessary to improve our understanding of the causes behind the demand for meat. In this paper we use data from 137 different countries to identify and assess factors that influence meat consumption at the national level using a cross-country multivariate regression analysis."
 excerpt: "Increasing global levels of meat consumption are a threat to the environment and to human health. To identify measures that may change consumption patterns towards more plant-based foods, it is necessary to improve our understanding of the causes behind the demand for meat. In this paper we use data from 137 different countries to identify and assess factors that influence meat consumption at the national level using a cross-country multivariate regression analysis."
 proteins: [Animal]

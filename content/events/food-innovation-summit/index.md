@@ -2,7 +2,7 @@
 title: "Food Innovation Summit"
 date: 2022-07-15 20:10:43
 lastmod: 2022-07-15 20:10:43
-slug: /food-innovation-summit
+slug: food-innovation-summit
 description: "Food Innovation Summit - the largest plant-based food innovation conference in the Baltics and the Nordics.The fourth Food Innovation Summit brings together leading food experts from around the world to analyze developments in alternative protein production and consumption in recent years that are already profoundly reshaping the present and future of the food sector."
 proteins: [Cell-Based, Plant-Based, Microbial, Fungi]
 products: [Meat, Dairy, Seafood]

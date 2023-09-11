@@ -2,7 +2,7 @@
 title: "Cell Ag @ MIT"
 date: 2021-01-08 16:42:37
 lastmod: 2021-01-08 16:42:37
-slug: /cell-ag-mit
+slug: cell-ag-mit
 description: "CellAg @MIT works to spread awareness of the alternative protein field at MIT, encourage cellular agriculture research, and prepare MIT students for cellular agriculture careers. Our vision is to shape MIT as an innovation hub for cellular agriculture and an origin of world-class cellular agriculture scientists."
 proteins: [Cell-Based]
 products: []

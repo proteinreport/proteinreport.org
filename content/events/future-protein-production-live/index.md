@@ -2,7 +2,7 @@
 title: "The Future of Protein Production LIVE"
 date: 2023-05-03 10:00:25
 lastmod: 2023-05-03 10:00:25
-slug: /future-protein-production-live
+slug: future-protein-production-live
 description: "With more than 500 delegates expected and +30 exhibiting companies, this in-person conference and exhibition will boast the same high-quality agenda that has made the annual Future of Protein Production Summit the industry’s preeminent virtual platform for showcasing the latest innovative breakthroughs to help accelerate the commercialization and scaling of alt proteins."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

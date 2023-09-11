@@ -2,7 +2,7 @@
 title: "Michroma Closes $6.4 Million Seed Round to Bring Novel Food Coloring to Market"
 date: 2023-02-01 14:00:00
 lastmod: 2023-02-01 14:00:00
-slug: /michroma-closes-64-million-seed-round-bring-novel-food-coloring-market
+slug: michroma-closes-64-million-seed-round-bring-novel-food-coloring-market
 company: 11244
 description: "Michroma, a leading precision fermentation food ingredient company, today announced it has closed $6.4 million in seed financing."
 excerpt: "Michroma, a leading precision fermentation food ingredient company, today announced it has closed $6.4 million in seed financing."

@@ -2,7 +2,7 @@
 title: "Cultivated Abundance: The man who saved a billion lives"
 date: 2020-04-07 15:25:13
 lastmod: 2020-04-07 15:25:13
-slug: /cultivated-abundance-man-who-saved-billion-lives
+slug: cultivated-abundance-man-who-saved-billion-lives
 description: "In an eponymous book published in 1968, Stanford University Professor Paul R. Ehrlich noted that the rate of population growth would outpace agricultural production, leading to widespread famine and subsequent suffering in the 1970s and 1980s. Many now look back at that prediction and shame it as another example of fear-mongering about a Malthusian catastrophe that has been often repeated throughout history but never come to pass. This post comes from my upcoming book, Cultivated Abundance, which will be published by New Degree Press in July 2020."
 excerpt: "In an eponymous book published in 1968, Stanford University Professor Paul R. Ehrlich noted that the rate of population growth would outpace agricultural production, leading to widespread famine and subsequent suffering in the 1970s and 1980s. Many now look back at that prediction and shame it as another example of fear-mongering about a Malthusian catastrophe that has been often repeated throughout history but never come to pass. This post comes from my upcoming book, Cultivated Abundance, which will be published by New Degree Press in July 2020."
 proteins: [Plant-Based]

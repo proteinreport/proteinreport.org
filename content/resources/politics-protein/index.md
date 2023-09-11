@@ -2,7 +2,7 @@
 title: "The Politics of Protein"
 date: 2022-05-09 12:33:35
 lastmod: 2022-05-09 12:33:35
-slug: /politics-protein
+slug: politics-protein
 description: "A major new report by IPES-Food sheds light on misleading generalisations that dominate public discussion about meat and protein, and warns of the risks of falling for meat techno-fixes."
 excerpt: "A major new report by IPES-Food sheds light on misleading generalisations that dominate public discussion about meat and protein, and warns of the risks of falling for meat techno-fixes."
 proteins: [Cell-Based, Plant-Based, Animal]

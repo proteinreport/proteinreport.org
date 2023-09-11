@@ -2,7 +2,7 @@
 title: "Balletic Foods"
 date: 2020-01-23 18:09:58
 lastmod: 2020-01-23 18:09:58
-slug: /balletic-foods
+slug: balletic-foods
 description: "California based company working towards a sustainable food system by combining science and technology to create new sources of animal-free protein."
 proteins: [Microbial]
 products: [Meat, Ingredients]

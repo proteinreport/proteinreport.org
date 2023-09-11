@@ -2,7 +2,7 @@
 title: "Cultured Meat: Future Protein and Medicine"
 date: 2021-10-14 10:57:04
 lastmod: 2021-10-14 10:57:04
-slug: /cultured-meat-future-protein-and-medicine
+slug: cultured-meat-future-protein-and-medicine
 description: "This is a Student Essay Contest 2021 honorable mention essay. Roka Kakehi is an undergraduate chemistry major at the University of Pennsylvania."
 excerpt: "This is a Student Essay Contest 2021 honorable mention essay. Roka Kakehi is an undergraduate chemistry major at the University of Pennsylvania."
 proteins: [Cell-Based]

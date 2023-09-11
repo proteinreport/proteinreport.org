@@ -2,7 +2,7 @@
 title: "BioTech Foods"
 date: 2020-01-14 14:31:15
 lastmod: 2020-01-14 14:31:15
-slug: /biotech-foods
+slug: biotech-foods
 description: "Biotech Foods develops technology to produce cultured meat, in which animal tissue is grown in a controlled environment using cell culture technology. Ethicameat is the cultured meat brand of BioTech Foods."
 proteins: [Cell-Based]
 products: [Meat]

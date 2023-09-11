@@ -2,7 +2,7 @@
 title: "Veggyness"
 date: 2020-01-23 17:50:58
 lastmod: 2020-01-23 17:50:58
-slug: /veggyness
+slug: veggyness
 description: "Veggyness is producing plant-based alternatives to meat and cheese."
 proteins: [Plant-Based]
 products: [Meat, Dairy]

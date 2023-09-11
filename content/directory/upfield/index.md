@@ -2,7 +2,7 @@
 title: "Upfield"
 date: 2020-02-26 07:55:26
 lastmod: 2020-02-26 07:55:26
-slug: /upfield
+slug: upfield
 description: "We are the largest plant-based food company in the world. Our vision for a “Better Plant-Based Future” drives positive change in people’s health, their daily lives and our planet’s sustainability. Upfield dedicates the sharpest minds to pioneer innovation in the plant-based food industry everyday. Since 1871, we have been the authority in the spreads category which gives us unmatched experience, know-how and inspiration to deliver on our mission.  We want to bring joy to consumers lives whether that's through spreading, baking or cooking."
 proteins: [Plant-Based]
 products: [Dairy]

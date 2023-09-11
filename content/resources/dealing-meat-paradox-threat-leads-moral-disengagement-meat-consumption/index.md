@@ -2,7 +2,7 @@
 title: "Dealing with the meat paradox: Threat leads to moral disengagement from meat consumption"
 date: 2019-11-09 15:42:15
 lastmod: 2019-11-09 15:42:15
-slug: /dealing-meat-paradox-threat-leads-moral-disengagement-meat-consumption
+slug: dealing-meat-paradox-threat-leads-moral-disengagement-meat-consumption
 description: "Meat consumption is conflicted, because meat provides pleasure to many people, but it also causes animals to suffer. This so-called meat paradox elicits discomfort in meat-eaters and they try to reduce their discomfort, for example, by means of moral disengagement. In the present investigation, we tried to scrutinize this process and examine the boundary conditions that increase moral disengagement."
 excerpt: "Meat consumption is conflicted, because meat provides pleasure to many people, but it also causes animals to suffer. This so-called meat paradox elicits discomfort in meat-eaters and they try to reduce their discomfort, for example, by means of moral disengagement. In the present investigation, we tried to scrutinize this process and examine the boundary conditions that increase moral disengagement."
 resource_type: [academic]

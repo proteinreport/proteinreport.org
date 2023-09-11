@@ -2,7 +2,7 @@
 title: "Aqua Cultured Foods"
 date: 2022-02-17 18:55:35
 lastmod: 2022-02-17 18:55:35
-slug: /aqua-cultured-foods
+slug: aqua-cultured-foods
 description: "Aqua Cultured Foods is an innovative food technology startup developing the world’s first whole-muscle cut seafood alternatives created through microbial fermentation. Its novel technology produces a sustainable, complete protein source using only a fraction of the resources required by traditional aquaculture. As an R&D company with a focus on product commercialization, Aqua Cultured Foods occupies a unique position in the burgeoning alt-seafood market as well as within the fermentation industry."
 proteins: [Microbial, Fungi]
 products: [Seafood]

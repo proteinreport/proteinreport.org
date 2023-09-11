@@ -2,7 +2,7 @@
 title: "Good Seed Ventures"
 date: 2020-03-24 13:55:42
 lastmod: 2020-03-24 13:55:42
-slug: /good-seed-ventures
+slug: good-seed-ventures
 description: "Good Seed Ventures is a purpose driven family owned and run innovation fund dedicated towards creating a more sustainable food industry. With our partners we seek more sustainable solutions of producing food for a growing population. Collectively we disrupt the food industry, leveraging our ecosystem of like-minded and complementary businesses."
 proteins: []
 products: []

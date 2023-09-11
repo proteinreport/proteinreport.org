@@ -2,7 +2,7 @@
 title: "MicroHarvest announces strategic partnership with Simon Capital to accelerate path to commercialization"
 date: 2023-05-05 09:18:38
 lastmod: 2023-05-05 09:18:38
-slug: /microharvest-announces-strategic-partnership-simon-capital-accelerate-path
+slug: microharvest-announces-strategic-partnership-simon-capital-accelerate-path
 company: 11296
 description: "Strategic partnership will provide MicroHarvest with invaluable expertise, accelerating the scale-up and manufacturing of its award-winning sustainable protein"
 excerpt: "Strategic partnership will provide MicroHarvest with invaluable expertise, accelerating the scale-up and manufacturing of its award-winning sustainable protein"

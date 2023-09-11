@@ -2,7 +2,7 @@
 title: "Multus Media"
 date: 2019-12-03 19:02:19
 lastmod: 2019-12-03 19:02:19
-slug: /multus-media
+slug: multus-media
 description: "We are a team of scientists and engineers who believe that the single most powerful way to reduce climate change is cutting our consumption of meat. We are developing a cheap, animal-free and sustainable culture media that will accelerate our fight against climate change and can be used to grow mammalian cells in research settings too."
 proteins: [Cell-Based]
 products: [Cell Culture Media]

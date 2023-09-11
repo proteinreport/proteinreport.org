@@ -2,7 +2,7 @@
 title: "China Plant-Based Meat Brand HERO Protein, Crafted by Ex-Beyond Meat and Impossible Foods Senior Staffers, Closes $850K Pre-Seed Round"
 date: 2021-02-09 09:05:38
 lastmod: 2021-02-09 09:05:38
-slug: /china-plant-based-meat-brand-hero-protein-crafted-ex-beyond-meat-and-impossible-foods
+slug: china-plant-based-meat-brand-hero-protein-crafted-ex-beyond-meat-and-impossible-foods
 company: 8412
 description: "Shanghai-based HERO Protein, the first Chinese company to use high-moisture extrusion technology, drawsbacking from senior food industry execs and leading corporates"
 excerpt: "Shanghai-based HERO Protein, the first Chinese company to use high-moisture extrusion technology, drawsbacking from senior food industry execs and leading corporates"

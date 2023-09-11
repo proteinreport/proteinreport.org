@@ -2,7 +2,7 @@
 title: "Investors in Beyond Meat, Impossible Foods Launch New Fund Targeting the Fast-Growing Global Alternative Protein Sector"
 date: 2020-08-18 10:43:17
 lastmod: 2020-08-18 10:43:17
-slug: /investors-beyond-meat-impossible-foods-launch-new-fund-targeting-fast-growing-global
+slug: investors-beyond-meat-impossible-foods-launch-new-fund-targeting-fast-growing-global
 company: 1332
 description: "Lever VC announces first close of Lever VC Fund I; Fund has US$23 million in committed capital and a portfolio of ten trailblazing startups across the U.S., Europe and Asia"
 excerpt: "Lever VC announces first close of Lever VC Fund I; Fund has US$23 million in committed capital and a portfolio of ten trailblazing startups across the U.S., Europe and Asia"

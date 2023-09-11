@@ -2,7 +2,7 @@
 title: "GFIC"
 date: 2020-07-19 18:28:41
 lastmod: 2020-07-19 18:28:41
-slug: /gfic
+slug: gfic
 description: "GFIC is a Shanghai-based consultancy focused on plant-based and cellular agriculture food industries for China. We work with scientists, startups, corporations and investors developing or diversifying into sustainable proteins."
 proteins: [Cell-Based, Plant-Based]
 products: []

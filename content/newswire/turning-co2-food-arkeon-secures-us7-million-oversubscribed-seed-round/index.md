@@ -2,7 +2,7 @@
 title: "Turning CO2 into food: Arkeon secures US$7+ million in an oversubscribed seed round"
 date: 2022-03-07 08:55:13
 lastmod: 2022-03-07 08:55:13
-slug: /turning-co2-food-arkeon-secures-us7-million-oversubscribed-seed-round
+slug: turning-co2-food-arkeon-secures-us7-million-oversubscribed-seed-round
 company: 10527
 description: "Arkeon Biotechnologies, a Vienna-based ingredients startup setting out to create the most sustainable, nutritious, and ethical food system through gas fermentation and ancient microbes, secures more than US$7 million in an oversubscribed seed round."
 excerpt: "Arkeon Biotechnologies, a Vienna-based ingredients startup setting out to create the most sustainable, nutritious, and ethical food system through gas fermentation and ancient microbes, secures more than US$7 million in an oversubscribed seed round."

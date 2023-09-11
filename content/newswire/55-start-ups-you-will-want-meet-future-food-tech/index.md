@@ -2,7 +2,7 @@
 title: "55 Start-Ups You Will Want to Meet at Future Food-Tech"
 date: 2022-02-24 08:22:51
 lastmod: 2022-02-24 08:22:51
-slug: /55-start-ups-you-will-want-meet-future-food-tech
+slug: 55-start-ups-you-will-want-meet-future-food-tech
 company_name: "Future Food-Tech"
 company_link: "https://futurefoodtechsf.com/"
 description: "Food-tech start-ups are trailblazing the future of food. As talented innovators leverage new technologies to bring novel foods to consumers on a global scale, there has never been a more exciting time to touch, taste and smell the breakthrough novel foods.Future Food-Tech reveals 55 start-ups for your innovation radar, as they take the global summit spotlight in San Francisco on March 24-25."

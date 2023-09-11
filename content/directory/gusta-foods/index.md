@@ -2,7 +2,7 @@
 title: "Gusta Foods"
 date: 2020-01-23 17:50:58
 lastmod: 2020-01-23 17:50:58
-slug: /gusta-foods
+slug: gusta-foods
 description: "GUSTA creates and manufactures artisanal products that treat the taste buds, inspiring an easy and tasty cuisine, in order to develop accessible plant-based food, thus contribute to a better world."
 proteins: [Plant-Based]
 products: [Meat, Dairy]

@@ -2,7 +2,7 @@
 title: "Fork & Goode"
 date: 2020-01-23 18:09:58
 lastmod: 2020-01-23 18:09:58
-slug: /fork-goode
+slug: fork-goode
 description: "The company is developing a new approach to growing food: creating pure animal proteins and fats that are clean, traceable, and delicious."
 proteins: [Cell-Based]
 products: [Meat]

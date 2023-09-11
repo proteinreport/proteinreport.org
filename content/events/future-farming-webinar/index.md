@@ -2,7 +2,7 @@
 title: "Future Farming Webinar"
 date: 2021-08-25 06:41:48
 lastmod: 2021-08-25 06:41:48
-slug: /future-farming-webinar
+slug: future-farming-webinar
 description: "Farming is the backbone of every country, and as young scientists, we wish to spread awareness of the advances in this field. In the Future Farming Webinar, our speakers will take you through the journey of how technology/synthetic biology can join hands with farming to feed the growing human population. From intellectual property in agriculture to cellular agriculture we are presenting you the dream speaker line up with great scientists and pioneers of the cellular agriculture field.Speakers:"
 proteins: [Cell-Based, Plant-Based, Microbial, Animal]
 products: [Meat, Dairy, Feed]

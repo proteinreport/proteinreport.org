@@ -2,7 +2,7 @@
 title: "Fi Global CONNECT - Plant-based Ingredients"
 date: 2021-08-06 22:40:10
 lastmod: 2021-08-06 22:40:10
-slug: /fi-global-connect-plant-based-ingredients
+slug: fi-global-connect-plant-based-ingredients
 description: "Fi Global CONNECT - Plant-based Ingredients in the Spotlight will provide an online platform for manufacturers of plant-based products and suppliers of ingredients to connect, do business and access content online over five days"
 proteins: [Plant-Based]
 products: [Ingredients]
@@ -20,4 +20,7 @@ draft: false
 weight: 5000
 uuid: 9454
 ---
-<p>Fi Global CONNECT - Plant-based Ingredients in the Spotlight will provide an online platform for manufacturers of plant-based products and suppliers of ingredients to connect, do business and access content online over five days</p>
+Fi Global CONNECT - Plant-based Ingredients in the Spotlight will
+provide an online platform for manufacturers of plant-based products and
+suppliers of ingredients to connect, do business and access content
+online over five days

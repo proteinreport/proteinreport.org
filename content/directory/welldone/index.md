@@ -2,7 +2,7 @@
 title: "Welldone"
 date: 2021-07-16 09:49:15
 lastmod: 2021-07-16 09:49:15
-slug: /welldone
+slug: welldone
 description: "Since launching in September of 2020, sales of Welldone’s  plant-based burgers and mince have expanded to more than 500 points of sale in 50 cities across Russia, including listings at five national retail chains and another five leading eGrocery companies. Welldone’s deep R&D work has allowed it to produce high quality products at competitive pricing and get on restaurant menus along with major international plant-based meat brands."
 proteins: [Plant-Based]
 products: [Meat]

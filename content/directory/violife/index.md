@@ -2,7 +2,7 @@
 title: "Violife"
 date: 2020-01-13 19:48:58
 lastmod: 2020-01-13 19:48:58
-slug: /violife
+slug: violife
 description: "Violife is a range of award-winning plant-based alternatives to cheese products. They are free from dairy, preservatives, casein, lactose, gluten, nuts and soya. All are based on coconut oil and fortified with Vitamin B12."
 proteins: [Plant-Based]
 products: [Dairy]

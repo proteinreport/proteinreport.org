@@ -2,7 +2,7 @@
 title: "Modern Meat"
 date: 2020-07-22 08:10:08
 lastmod: 2020-07-22 08:10:08
-slug: /modern-meat
+slug: modern-meat
 description: "Modern Meat is a plant-based meat alternative company based in Vancouver, British Columbia. We create a selection of healthy, gourmet food crafted from natural ingredients and derived from plants. Our team is passionate about reducing our environmental footprint by choosing plant-based products over traditional meat. Health-focused, all our products are Soy, Gluten, Nut and GMO free, and made with no artificial preservatives or additives."
 proteins: [Plant-Based]
 products: [Meat]

@@ -2,7 +2,7 @@
 title: "Sophie's Bionutrients"
 date: 2021-01-25 16:25:28
 lastmod: 2021-01-25 16:25:28
-slug: /sophies-bionutrients
+slug: sophies-bionutrients
 description: "Sophie’s Bionutrients is on a mission to unleash the limitless possibilities of nature, restore our planet and eliminate food allergies by creating plant-based, protein-rich alternatives to meat and seafood using microalgae, the mother of all food and plant life."
 proteins: [Microbial, Algae]
 products: [Ingredients]

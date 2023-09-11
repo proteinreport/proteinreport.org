@@ -2,7 +2,7 @@
 title: "CellX"
 date: 2021-01-25 16:05:49
 lastmod: 2021-01-25 16:05:49
-slug: /cellx
+slug: cellx
 description: "Cellular agriculture startup creating cell-cultivated meat products. Our goal is to provide sustainable animal protein, enhance human health, and improve animal welfare."
 proteins: [Cell-Based]
 products: [Meat]

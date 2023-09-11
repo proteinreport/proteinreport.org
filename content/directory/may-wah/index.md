@@ -2,7 +2,7 @@
 title: "May Wah"
 date: 2020-01-23 17:50:40
 lastmod: 2020-01-23 17:50:40
-slug: /may-wah
+slug: may-wah
 description: "May Wah Vegetarian Market was founded in 1995 as a small family business store located at the heart of Chinatown, New York City. After a decade of dedication to providing the highest of quality in both vegetarian consumer products and customer services, May Wah is now one of the largest distributors of vegetarian foods in New York State."
 proteins: [Plant-Based]
 products: [Meat]

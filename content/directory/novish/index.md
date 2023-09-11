@@ -2,7 +2,7 @@
 title: "Novish"
 date: 2020-01-13 19:13:00
 lastmod: 2020-01-13 19:13:00
-slug: /novish
+slug: novish
 description: "Novish focuses entirely on plant-based fish substitutes that are 100% soy-free, have a good flavour and texture, combat overfishing and by-catch and create a balance in the daily diet."
 proteins: [Plant-Based]
 products: [Seafood]

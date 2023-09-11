@@ -2,7 +2,7 @@
 title: "Dual-Crosslinked Alginate-Based Hydrogels with Tunable Mechanical Properties for Cultured Meat"
 date: 2022-09-13 17:12:31
 lastmod: 2022-09-13 17:12:31
-slug: /dual-crosslinked-alginate-based-hydrogels-tunable-mechanical-properties-cultured-meat
+slug: dual-crosslinked-alginate-based-hydrogels-tunable-mechanical-properties-cultured-meat
 description: "Cultured meat refers to the production of animal tissue by utilizing the same techniques as tissue engineering through cell culture. Various biomaterials have been designed to serve as in vitro supports for cell viability, growth, and migration. In this study, visible light and dual-crosslinked alginate hydrogels were designed to enable control of the physical and mechanical properties needed for the fabrication of cultured meat scaffolds."
 excerpt: "Cultured meat refers to the production of animal tissue by utilizing the same techniques as tissue engineering through cell culture. Various biomaterials have been designed to serve as in vitro supports for cell viability, growth, and migration. In this study, visible light and dual-crosslinked alginate hydrogels were designed to enable control of the physical and mechanical properties needed for the fabrication of cultured meat scaffolds."
 proteins: [Cell-Based, Algae]

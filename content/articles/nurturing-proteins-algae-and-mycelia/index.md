@@ -2,7 +2,7 @@
 title: "Nurturing Proteins with Algae and Mycelia"
 date: 2021-09-14 11:07:40
 lastmod: 2021-09-14 11:07:40
-slug: /nurturing-proteins-algae-and-mycelia
+slug: nurturing-proteins-algae-and-mycelia
 description: "Much attention has been given to the innovators producing plant- and cell-based alternatives to traditionally animal-based foods, but less recognized are the ones developing serums and mixes in which those proteins can grow. Some of the most creative are using ancient and simple components—including algae and mycelia—to make the foundations for animal protein alternatives."
 excerpt: "Much attention has been given to the innovators producing plant- and cell-based alternatives to traditionally animal-based foods, but less recognized are the ones developing serums and mixes in which those proteins can grow. Some of the most creative are using ancient and simple components—including algae and mycelia—to make the foundations for animal protein alternatives."
 proteins: [Algae, Fungi]

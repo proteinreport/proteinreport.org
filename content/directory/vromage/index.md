@@ -2,7 +2,7 @@
 title: "Vromage"
 date: 2020-01-29 20:48:48
 lastmod: 2020-01-29 20:48:48
-slug: /vromage
+slug: vromage
 description: "Vromage offers superior-quality artisan cheeses made from nuts and aged to perfection."
 proteins: [Plant-Based]
 products: [Dairy]

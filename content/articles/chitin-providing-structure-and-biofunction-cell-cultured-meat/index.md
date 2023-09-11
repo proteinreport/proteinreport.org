@@ -2,7 +2,7 @@
 title: "Chitin: Providing Structure and Biofunction to Cell-Cultured Meat"
 date: 2022-06-23 12:24:53
 lastmod: 2022-06-23 12:24:53
-slug: /chitin-providing-structure-and-biofunction-cell-cultured-meat
+slug: chitin-providing-structure-and-biofunction-cell-cultured-meat
 description: "Chitin- and chitosan-based scaffolds show promise for improving both the scalability and nutritional value of cell-cultured meat products."
 excerpt: "Chitin- and chitosan-based scaffolds show promise for improving both the scalability and nutritional value of cell-cultured meat products."
 proteins: [Cell-Based, Fungi]

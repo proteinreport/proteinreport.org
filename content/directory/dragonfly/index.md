@@ -2,7 +2,7 @@
 title: "Dragonfly"
 date: 2020-01-23 17:50:27
 lastmod: 2020-01-23 17:50:27
-slug: /dragonfly
+slug: dragonfly
 description: "Dragonfly Foods Limited formed in 1984 from just 2 staff making Tofu by hand in Devon. From humble beginnings, the company has since extended the range and created Organic Burgers and Soysages using tofu as the main ingredient. Dragonfly Foods supplies the majority of the health food wholesalers along with one of the biggest health retailers Holland & Barrett. Dragonfly Foods prides themselves on using organic ingredients."
 proteins: [Plant-Based]
 products: [Meat]

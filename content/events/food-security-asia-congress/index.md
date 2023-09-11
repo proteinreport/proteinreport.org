@@ -2,7 +2,7 @@
 title: "Food Security Asia Congress"
 date: 2022-12-19 11:12:19
 lastmod: 2022-12-19 11:12:19
-slug: /food-security-asia-congress
+slug: food-security-asia-congress
 description: "Food Security Asia Congress is to be held in-person on the 23rd to 24th May 2023 in Jakarta, Indonesia."
 proteins: [Cell-Based, Plant-Based, Microbial, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients, Feed]

@@ -2,7 +2,7 @@
 title: "Pop & Bottle"
 date: 2020-01-23 17:50:46
 lastmod: 2020-01-23 17:50:46
-slug: /pop-bottle
+slug: pop-bottle
 description: "Pop & Bottle manufactures organic, functional plant-based lattes. The brand was founded by Blair Fletcher and Jash Mehta, with the goal to create delicious RTD lattes with clean, functional ingredients and without dairy or refined sugars. All lattes are made from plant-based ingredients such as oats, almonds, dates, cold brew coffee, matcha, turmeric and cacao."
 proteins: [Plant-Based]
 products: [Dairy]

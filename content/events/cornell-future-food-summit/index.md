@@ -2,7 +2,7 @@
 title: "Cornell Future Food Summit"
 date: 2020-02-12 16:32:16
 lastmod: 2020-02-12 16:32:16
-slug: /cornell-future-food-summit
+slug: cornell-future-food-summit
 description: "The Cornell Future Food Summit aims to empower and connect food fighters to build a sustainable, innovative, and collaborative food system."
 proteins: [Plant-Based]
 products: [NA]
@@ -21,4 +21,5 @@ draft: false
 weight: 5000
 uuid: 6129
 ---
-<p>The Cornell Future Food Summit aims to empower and connect food fighters to build a sustainable, innovative, and collaborative food system.</p>
+The Cornell Future Food Summit aims to empower and connect food fighters
+to build a sustainable, innovative, and collaborative food system.

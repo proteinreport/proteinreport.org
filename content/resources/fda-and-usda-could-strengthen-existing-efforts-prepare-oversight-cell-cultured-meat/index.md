@@ -2,7 +2,7 @@
 title: "FDA and USDA Could Strengthen Existing Efforts to Prepare for Oversight of Cell-Cultured Meat"
 date: 2020-05-08 08:38:54
 lastmod: 2020-05-08 08:38:54
-slug: /fda-and-usda-could-strengthen-existing-efforts-prepare-oversight-cell-cultured-meat
+slug: fda-and-usda-could-strengthen-existing-efforts-prepare-oversight-cell-cultured-meat
 description: "What GAO Found"
 excerpt: "What GAO Found"
 proteins: [Cell-Based]

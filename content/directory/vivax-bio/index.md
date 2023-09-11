@@ -2,7 +2,7 @@
 title: "Vivax Bio"
 date: 2020-01-23 18:10:03
 lastmod: 2020-01-23 18:10:03
-slug: /vivax-bio
+slug: vivax-bio
 description: "Headquartered in New York, NY, VIVAX BIO is a global biotech company focusing on 3D bioprinting and working on the whole range of the hardware, materials, technologies, and products constituting this nascent industry."
 proteins: [Cell-Based]
 products: [Technology & Equipment]

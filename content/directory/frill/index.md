@@ -2,7 +2,7 @@
 title: "Frill"
 date: 2020-01-23 17:50:52
 lastmod: 2020-01-23 17:50:52
-slug: /frill
+slug: frill
 description: "Frill is an alternative to ice cream — made simply from whole fruits, vegetables and natural ingredients. All of fruits and vegetables are picked ripe and frozen immediately after harvest, which is the best way to preserve the full sun-ripened taste and nutrients. The  creamy, melt-in-the-mouth Frills are both light and refreshing, yet have half the sugar of regular ice cream and ten times the fibre."
 proteins: [Plant-Based]
 products: [Dairy]

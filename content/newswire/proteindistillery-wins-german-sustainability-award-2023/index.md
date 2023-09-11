@@ -2,7 +2,7 @@
 title: "ProteinDistillery Wins German Sustainability Award 2023"
 date: 2022-12-17 09:43:34
 lastmod: 2022-12-17 09:43:34
-slug: /proteindistillery-wins-german-sustainability-award-2023
+slug: proteindistillery-wins-german-sustainability-award-2023
 company: 11222
 description: "Germany's most sustainable start-up creates protein for the next generation of animal-free meat and egg products from brewer's yeast."
 excerpt: "Germany's most sustainable start-up creates protein for the next generation of animal-free meat and egg products from brewer's yeast."

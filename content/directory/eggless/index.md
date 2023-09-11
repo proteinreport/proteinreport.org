@@ -2,7 +2,7 @@
 title: "Eggless"
 date: 2020-01-23 17:50:27
 lastmod: 2020-01-23 17:50:27
-slug: /eggless
+slug: eggless
 description: "Eggless is a Chilian producer of plant-based mayo."
 proteins: [Plant-Based]
 products: [Eggs]

@@ -2,7 +2,7 @@
 title: "E²JDJ"
 date: 2021-10-31 00:12:55
 lastmod: 2021-10-31 00:12:55
-slug: /e2jdj
+slug: e2jdj
 description: "E²JDJ invests globally in high growth, scalable and sustainable AgriFood technology and science ventures across the value chain from production to consumption."
 proteins: []
 products: []

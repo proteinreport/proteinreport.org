@@ -2,7 +2,7 @@
 title: "Spontaneous immortalization of chicken fibroblasts generates stable, high-yield cell lines for serum-free production of cultured meat"
 date: 2023-01-03 08:17:34
 lastmod: 2023-01-03 08:17:34
-slug: /spontaneous-immortalization-chicken-fibroblasts-generates-stable-high-yield-cell-lines
+slug: spontaneous-immortalization-chicken-fibroblasts-generates-stable-high-yield-cell-lines
 description: "Cellular agriculture could meet growing demand for animal products, but yields are typically low and regulatory bodies restrict genetic modification for cultured meat production. Here we demonstrate the spontaneous immortalization and genetic stability of fibroblasts derived from several chicken breeds. Cell lines were adapted to grow as single-cell suspensions using serum-free culture medium, reaching densities of 108 × 106 cells per ml in continuous culture, corresponding to yields of 36% w/v."
 excerpt: "Cellular agriculture could meet growing demand for animal products, but yields are typically low and regulatory bodies restrict genetic modification for cultured meat production. Here we demonstrate the spontaneous immortalization and genetic stability of fibroblasts derived from several chicken breeds. Cell lines were adapted to grow as single-cell suspensions using serum-free culture medium, reaching densities of 108 × 106 cells per ml in continuous culture, corresponding to yields of 36% w/v."
 proteins: [Cell-Based]

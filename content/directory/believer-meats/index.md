@@ -2,7 +2,7 @@
 title: "Believer Meats"
 date: 2020-01-15 17:29:03
 lastmod: 2020-01-15 17:29:03
-slug: /believer-meats
+slug: believer-meats
 description: "Believer Meats, formerly known as Future Meat Technologies, is a cultivated meat company excited to scale to feed the world. Driven by a mission to ensure that all future generations can enjoy real and delicious meat, Believer’s technology and process will make meat accessible and affordable to all."
 proteins: [Cell-Based]
 products: [Meat]

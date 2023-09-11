@@ -2,7 +2,7 @@
 title: "50 Game-Changing Innovators Revolutionising Agri-Food"
 date: 2022-08-24 10:29:49
 lastmod: 2022-08-24 10:29:49
-slug: /50-game-changing-innovators-revolutionising-agri-food
+slug: 50-game-changing-innovators-revolutionising-agri-food
 company_name: "Rethink Events"
 company_link: "https://agrifoodinnovation.com/"
 description: "The fifth annual Asia-Pacific Agri-Food Innovation Summit presents 50 regional and international innovators who are pioneering breakthrough technologies in agri-food, to ensure food security and build capacity in Asia and beyond."

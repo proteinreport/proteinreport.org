@@ -2,7 +2,7 @@
 title: "Bluu Seafood"
 date: 2020-10-22 14:10:09
 lastmod: 2020-10-22 14:10:09
-slug: /bluu-seafood
+slug: bluu-seafood
 description: "Bluu Seafood (formerly Bluu Biosciences) is the first cultivated seafood company in Europe. With a dedicated focus on creating the most nutritious and delicious fish products, we are creating the future of healthy seafood, made from fish cells."
 proteins: [Cell-Based]
 products: [Seafood]

@@ -2,7 +2,7 @@
 title: "Lavva"
 date: 2020-01-23 17:50:36
 lastmod: 2020-01-23 17:50:36
-slug: /lavva
+slug: lavva
 description: "Lavva is a luscious plant-based yogurt cleanly crafted with nourishing whole food ingredients, and no added sugar. The company thoughtfully sources the ingredients and transforms them into magic, using a blend of pili nuts, coconuts, plantains, organic real fruit, and live probiotic cultures."
 proteins: [Plant-Based]
 products: [Dairy]

@@ -2,7 +2,7 @@
 title: "Rahul Harshath Elangovan"
 date: 2021-10-12 14:20:43
 lastmod: 2021-10-12 14:20:43
-slug: /rahul-harshath-elangovan
+slug: rahul-harshath-elangovan
 description: ""
 excerpt: ""
 images: ["rahul.jpg"]

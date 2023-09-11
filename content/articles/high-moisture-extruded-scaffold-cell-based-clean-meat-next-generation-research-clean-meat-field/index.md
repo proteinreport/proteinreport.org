@@ -2,7 +2,7 @@
 title: "High Moisture Extruded Scaffold for Cell-Based Clean Meat – The Next Generation of Research in the Clean Meat Field"
 date: 2021-11-03 08:55:00
 lastmod: 2021-11-03 08:55:00
-slug: /high-moisture-extruded-scaffold-cell-based-clean-meat-next-generation-research-clean-meat-field
+slug: high-moisture-extruded-scaffold-cell-based-clean-meat-next-generation-research-clean-meat-field
 description: "This is a Student Essay Contest 2021 runner-up. Hanzhang Zhou is a PhD student in the Integrative Science and Engineering Programme, NUS Graduate School, and the Department of Physiology, Yong Loo Lin School of Medicine, at the National University of Singapore. Xuanming Lou is a PhD student in the Department of Physiology, Yong Loo Lin School of Medicine, at the National University of Singapore."
 excerpt: "This is a Student Essay Contest 2021 runner-up. Hanzhang Zhou is a PhD student in the Integrative Science and Engineering Programme, NUS Graduate School, and the Department of Physiology, Yong Loo Lin School of Medicine, at the National University of Singapore. Xuanming Lou is a PhD student in the Department of Physiology, Yong Loo Lin School of Medicine, at the National University of Singapore."
 proteins: [Cell-Based]

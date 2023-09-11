@@ -2,7 +2,7 @@
 title: "Meatable"
 date: 2020-01-23 18:09:58
 lastmod: 2020-01-23 18:09:58
-slug: /meatable
+slug: meatable
 description: "Meatable makes 100% real, delicious, guilt-free meat. With one cell, they are revolutionizing the meat industry's impact on climate change and animal welfare. At the same time the company increases food security, without compromising the culinary experience of eating tasty, real meat."
 proteins: [Cell-Based]
 products: [Meat]

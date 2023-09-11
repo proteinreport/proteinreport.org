@@ -2,7 +2,7 @@
 title: "Cellular Agriculture UK"
 date: 2020-06-15 10:55:48
 lastmod: 2020-06-15 10:55:48
-slug: /cellular-agriculture-uk
+slug: cellular-agriculture-uk
 description: "Cellular Agriculture UK is a hub for the cell ag field in the United Kingdom. Our mission is to help people connect with established organisations, promising individuals, and upcoming opportunities in the cellular agriculture and clean meat space in the UK. We aim to do this by organising regular events to bring the community together, as well as providing an online hub to allow easy communication between interested parties."
 proteins: [Cell-Based]
 products: []

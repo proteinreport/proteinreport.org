@@ -2,7 +2,7 @@
 title: "Plant-Based Foods & Proteins Summit Europe"
 date: 2023-02-13 14:26:14
 lastmod: 2023-02-13 14:26:14
-slug: /plant-based-foods-proteins-summit-europe-0
+slug: plant-based-foods-proteins-summit-europe-0
 description: "Take part in Summit Europe to position yourself amongst the top plant-based foods and proteins industry thought leaders and disruptors in The Netherlands, Europe, and the world. With three tracks to choose from, the Summit will have something for everyone working in the plant-based food formulation sector. If you work for innovative ingredients manufacturers, alternative proteins suppliers, food brands, retailers & foodservice, equipment & processing providers, or related fields, this Summit is for you!"
 proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

@@ -2,7 +2,7 @@
 title: "Pivotal Foods"
 date: 2020-01-23 17:50:40
 lastmod: 2020-01-23 17:50:40
-slug: /pivotal-foods
+slug: pivotal-foods
 description: "Pivotal Foods produces plant-based mayo, butter, and jackfruit-based meat alternatives."
 proteins: [Plant-Based]
 products: [Meat, Dairy]

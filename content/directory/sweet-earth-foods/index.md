@@ -2,7 +2,7 @@
 title: "Sweet Earth Foods"
 date: 2020-01-13 16:16:55
 lastmod: 2020-01-13 16:16:55
-slug: /sweet-earth-foods
+slug: sweet-earth-foods
 description: "Based in Moss Landing, California, Sweet Earth Foods is an award-winning and fast-growing vegetarian food innovator that brings consumers flavor-forward, nutrient-dense, sustainably-minded products. As a leader in the Modern Food Movement, their on-trend products feature global flavors and plant-based proteins like seitan (wheat-based), tofu and legumes like lentils, chickpeas and beans, and span three core platforms: entrees, breakfast and plant-based proteins, called Righteous Meats®."
 proteins: [Plant-Based]
 products: [Meat]

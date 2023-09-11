@@ -2,7 +2,7 @@
 title: "Plant Forward"
 date: 2022-05-30 08:10:02
 lastmod: 2022-05-30 08:10:02
-slug: /plant-forward
+slug: plant-forward
 description: "Plant Forward is the first-ever international event showcasing Canada’s plant-based ingredient and food supply and innovation.We're inviting CEOs, CFOs, R&D leaders and investors at the forefront of the global food industry to:"
 proteins: [Plant-Based]
 products: [Meat, Dairy, Eggs, Seafood, Ingredients]

@@ -2,7 +2,7 @@
 title: "Tomorrow Foods"
 date: 2020-02-11 13:04:48
 lastmod: 2020-02-11 13:04:48
-slug: /tomorrow-foods
+slug: tomorrow-foods
 description: "Tomorrow Foods is researching, developing and producing plant based ingredients and additives for the Global Food Industry, thus enabling healthier and more sustainable diets and lifestyles."
 proteins: [Plant-Based]
 products: [Ingredients]

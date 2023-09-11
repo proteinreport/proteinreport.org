@@ -2,7 +2,7 @@
 title: "MicroHarvest announced as winners at prestigious 2023 BloombergNEF (BNEF) Pioneers awards"
 date: 2023-04-17 11:15:58
 lastmod: 2023-04-17 11:15:58
-slug: /microharvest-announced-winners-prestigious-2023-bloombergnef-bnef-pioneers-awards
+slug: microharvest-announced-winners-prestigious-2023-bloombergnef-bnef-pioneers-awards
 company: 11296
 description: "Company recognized as only European changemaker among the 12 winnersBiomass fermentation–based technology recognized as instrumental in driving the low-carbon transitionSustainable protein ingredient produced reduces required land use by 99%"
 excerpt: "Company recognized as only European changemaker among the 12 winnersBiomass fermentation–based technology recognized as instrumental in driving the low-carbon transitionSustainable protein ingredient produced reduces required land use by 99%"

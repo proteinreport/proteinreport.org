@@ -2,7 +2,7 @@
 title: "Plant-Based Meat Alternatives Could Have Significant Impact on the Economy, Environment, and Animal Welfare"
 date: 2022-02-15 14:47:04
 lastmod: 2022-02-15 14:47:04
-slug: /plant-based-meat-alternatives-could-have-significant-impact-economy-environment-and-animal
+slug: plant-based-meat-alternatives-could-have-significant-impact-economy-environment-and-animal
 company_name: "Breakthrough Institute"
 company_link: "https://thebreakthrough.org/"
 description: "New research shows degree of climate benefits depend on extent consumers are willing to shift diets, structure of meat industry, and livestock industry"

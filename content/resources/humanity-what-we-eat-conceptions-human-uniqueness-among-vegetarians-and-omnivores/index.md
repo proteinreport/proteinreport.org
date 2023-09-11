@@ -2,7 +2,7 @@
 title: "The humanity of what we eat: Conceptions of human uniqueness among vegetarians and omnivores"
 date: 2019-11-09 16:01:57
 lastmod: 2019-11-09 16:01:57
-slug: /humanity-what-we-eat-conceptions-human-uniqueness-among-vegetarians-and-omnivores
+slug: humanity-what-we-eat-conceptions-human-uniqueness-among-vegetarians-and-omnivores
 description: "Studies on dehumanization demonstrated that denying certain human characteristics might serve as a strategy for moral disengagement. Meat consumption—especially in the times of cruel animal farming—is related to the exclusion of animals from the human scope of justice. In the present research, it was hypothesized that the conception of human uniqueness (denying animals certain psychological characteristics) might be a strategy of meat‐eaters’ moral disengagement."
 excerpt: "Studies on dehumanization demonstrated that denying certain human characteristics might serve as a strategy for moral disengagement. Meat consumption—especially in the times of cruel animal farming—is related to the exclusion of animals from the human scope of justice. In the present research, it was hypothesized that the conception of human uniqueness (denying animals certain psychological characteristics) might be a strategy of meat‐eaters’ moral disengagement."
 resource_type: [academic]

@@ -2,7 +2,7 @@
 title: "Female-owned biotech startup Tiamat Sciences raise an extension of $2M to accelerate product validation and strategic partnerships"
 date: 2023-03-09 13:22:52
 lastmod: 2023-03-09 13:22:52
-slug: /female-owned-biotech-startup-tiamat-sciences-raise-extension-2m-accelerate-product
+slug: female-owned-biotech-startup-tiamat-sciences-raise-extension-2m-accelerate-product
 company: 7241
 description: "Biotechnology startup Tiamat Sciences today announced its $2 million seed-extension financing round led by 8090 Industries with participation from new and existing investors."
 excerpt: "Biotechnology startup Tiamat Sciences today announced its $2 million seed-extension financing round led by 8090 Industries with participation from new and existing investors."

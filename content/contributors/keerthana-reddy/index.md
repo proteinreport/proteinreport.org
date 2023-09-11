@@ -2,7 +2,7 @@
 title: "Keerthana Reddy"
 date: 2021-10-12 10:33:06
 lastmod: 2021-10-12 10:33:06
-slug: /keerthana-reddy
+slug: keerthana-reddy
 description: ""
 excerpt: ""
 images: ["keerthana.jpg"]

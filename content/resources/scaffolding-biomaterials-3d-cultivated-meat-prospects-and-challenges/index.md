@@ -2,7 +2,7 @@
 title: "Scaffolding Biomaterials for 3D Cultivated Meat: Prospects and Challenges"
 date: 2021-11-18 10:27:27
 lastmod: 2021-11-18 10:27:27
-slug: /scaffolding-biomaterials-3d-cultivated-meat-prospects-and-challenges
+slug: scaffolding-biomaterials-3d-cultivated-meat-prospects-and-challenges
 description: "Cultivating meat from stem cells rather than by raising animals is a promising solution to concerns about the negative externalities of meat production. For cultivated meat to fully mimic conventional meat's organoleptic and nutritional properties, innovations in scaffolding technology are required. Many scaffolding technologies are already developed for use in biomedical tissue engineering."
 excerpt: "Cultivating meat from stem cells rather than by raising animals is a promising solution to concerns about the negative externalities of meat production. For cultivated meat to fully mimic conventional meat's organoleptic and nutritional properties, innovations in scaffolding technology are required. Many scaffolding technologies are already developed for use in biomedical tissue engineering."
 proteins: [Cell-Based]

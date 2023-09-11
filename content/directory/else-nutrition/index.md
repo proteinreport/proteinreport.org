@@ -2,7 +2,7 @@
 title: "Else Nutrition"
 date: 2020-01-23 17:50:52
 lastmod: 2020-01-23 17:50:52
-slug: /else-nutrition
+slug: else-nutrition
 description: "Tel-Aviv based startup Else Nutrition was established in 2018, following years of R&D. It creates novel, plant-based nutrition products for the infant, toddler, children and adult markets. Its revolutionary 100% plant-based non-soy alternative to dairy-based baby formula received the &quot;Best Health and Diet Solutions&quot;​ award in the Global Food Innovation Summit in Milan in May 2017."
 proteins: [Plant-Based]
 products: [Dairy]

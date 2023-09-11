@@ -2,7 +2,7 @@
 title: "Karana"
 date: 2020-07-09 15:47:21
 lastmod: 2020-07-09 15:47:21
-slug: /karana
+slug: karana
 description: "Karana is re-imagining Asian Food - we're on a crusade against compromise. Our range of whole -plant based Asian foods combine taste, health, and sustainability in every bite. No trade-offs. We take natural, whole-plant ingrdeients and we transforme them into irresistibly meaty dumplings and baos without any heavy processing or artificial nasties."
 proteins: [Plant-Based]
 products: [Meat]

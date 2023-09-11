@@ -2,7 +2,7 @@
 title: "Building Political Will to Fund Academic Research in Cellular Agriculture"
 date: 2023-05-16 13:00:00
 lastmod: 2023-05-16 13:00:00
-slug: /building-political-will-fund-academic-research-cellular-agriculture
+slug: building-political-will-fund-academic-research-cellular-agriculture
 description: "By taking the tools of tissue engineering and adapting them to work on a scale as large as agriculture, cell-cultured meat could change the world. But first, we need political will to fund foundational academic research in this field."
 excerpt: "By taking the tools of tissue engineering and adapting them to work on a scale as large as agriculture, cell-cultured meat could change the world. But first, we need political will to fund foundational academic research in this field."
 proteins: [Cell-Based]

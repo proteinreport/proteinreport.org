@@ -2,7 +2,7 @@
 title: "Miyoko's"
 date: 2020-01-13 20:30:10
 lastmod: 2020-01-13 20:30:10
-slug: /miyokos
+slug: miyokos
 description: "Miyoko’s is revolutionizing the dairy industry by combining proprietary technology with age-old creamery methods to craft cheese and butter from plants."
 proteins: [Plant-Based]
 products: [Dairy]

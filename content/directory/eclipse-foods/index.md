@@ -2,7 +2,7 @@
 title: "Eclipse Foods"
 date: 2020-01-08 09:44:47
 lastmod: 2020-01-08 09:44:47
-slug: /eclipse-foods
+slug: eclipse-foods
 description: "Eclipse Foods makes plant-based milk that is indistinguishable from conventional dairy, in taste, texture and functionality. Our products are made without soy, nuts, coconut, gluten, GMO’s, gums or stabilizers, making them free from all common allergens and much cleaner than other products."
 proteins: [Plant-Based]
 products: [Dairy]

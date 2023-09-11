@@ -2,7 +2,7 @@
 title: "Biomilq"
 date: 2020-02-18 10:37:47
 lastmod: 2020-02-18 10:37:47
-slug: /biomilq
+slug: biomilq
 description: "We leverage our patent-pending technology to produce nutritionally equivalent breastmilk from cultured human mammary cells. With Biomilq, families can achieve the recommended six months of exclusive breastfeeding while alleviating the climate impacts of bovine-based infant formula."
 proteins: [Cell-Based]
 products: [Dairy]

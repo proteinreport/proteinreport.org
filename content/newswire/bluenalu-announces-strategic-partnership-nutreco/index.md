@@ -2,7 +2,7 @@
 title: "BlueNalu Announces Strategic Partnership with Nutreco"
 date: 2020-01-16 11:58:58
 lastmod: 2020-01-16 11:58:58
-slug: /bluenalu-announces-strategic-partnership-nutreco
+slug: bluenalu-announces-strategic-partnership-nutreco
 company: 5829
 description: "BlueNalu, a leading innovative food company developing seafood products directly from fish cells, today announced a strategic partnership with Nutreco, a global leader in animal nutrition and aquafeed."
 excerpt: "BlueNalu, a leading innovative food company developing seafood products directly from fish cells, today announced a strategic partnership with Nutreco, a global leader in animal nutrition and aquafeed."

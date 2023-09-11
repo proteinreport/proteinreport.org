@@ -2,7 +2,7 @@
 title: "VBites"
 date: 2020-01-23 17:50:58
 lastmod: 2020-01-23 17:50:58
-slug: /vbites
+slug: vbites
 description: "Founded in 1993 by Heather Mills, the popular plant-based food brand VBites which has an extensive range of meat and dairy-free products."
 proteins: [Plant-Based]
 products: [Meat, Dairy, Seafood]

@@ -2,7 +2,7 @@
 title: "Future Food Enthusiasts Release Children’s Book Dedicated to Cellular Agriculture Technology"
 date: 2021-07-21 07:12:52
 lastmod: 2021-07-21 07:12:52
-slug: /future-food-enthusiasts-release-childrens-book-dedicated-cellular-agriculture-technology
+slug: future-food-enthusiasts-release-childrens-book-dedicated-cellular-agriculture-technology
 company_name: "Where do Hot Dogs Come From?"
 company_link: "http://www.hotdog.fyi"
 description: "The children’s book, entitled “Where do Hot Dogs Come From? A Children’s Book About Cellular Agriculture” aims to educate children in the age 3 to 7 about cell-cultured meat technology and inspire young readers to develop a love for STEM."

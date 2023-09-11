@@ -2,7 +2,7 @@
 title: "Starfield"
 date: 2020-05-11 14:19:55
 lastmod: 2020-05-11 14:19:55
-slug: /starfield
+slug: starfield
 description: "Starfield researches, produces, and supplies plant-based meat and protein products. With its own in-house R&D team, Starfield has five production lines with a total output capacity of 1,700 tons per month."
 proteins: [Plant-Based]
 products: [Meat]

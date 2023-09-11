@@ -2,7 +2,7 @@
 title: "Roger Lienhard"
 date: 2020-12-14 13:28:09
 lastmod: 2020-12-14 13:28:09
-slug: /roger-lienhard
+slug: roger-lienhard
 description: ""
 excerpt: ""
 images: ["rl.jpg"]

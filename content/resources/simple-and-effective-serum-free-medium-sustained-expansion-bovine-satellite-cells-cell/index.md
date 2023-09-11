@@ -2,7 +2,7 @@
 title: "Simple and effective serum-free medium for sustained expansion of bovine satellite cells for cell cultured meat"
 date: 2021-05-31 07:11:12
 lastmod: 2021-05-31 07:11:12
-slug: /simple-and-effective-serum-free-medium-sustained-expansion-bovine-satellite-cells-cell
+slug: simple-and-effective-serum-free-medium-sustained-expansion-bovine-satellite-cells-cell
 description: "Cell-cultured meat offers the potential for a more sustainable, ethical, resilient, and healthy food system. However, research and development has been hindered by the lack of suitable serum-free media that enable the robust expansion of relevant cells (e.g., muscle satellite cells) over multiple passages. Recently, a low-cost serum-free media (B8) was described for induced pluripotent stem cells."
 excerpt: "Cell-cultured meat offers the potential for a more sustainable, ethical, resilient, and healthy food system. However, research and development has been hindered by the lack of suitable serum-free media that enable the robust expansion of relevant cells (e.g., muscle satellite cells) over multiple passages. Recently, a low-cost serum-free media (B8) was described for induced pluripotent stem cells."
 proteins: [Cell-Based]

@@ -2,7 +2,7 @@
 title: "Continuous fish muscle cell line with capacity for myogenic and adipogenic-like phenotypes"
 date: 2023-04-06 08:25:01
 lastmod: 2023-04-06 08:25:01
-slug: /continuous-fish-muscle-cell-line-capacity-myogenic-and-adipogenic-phenotypes
+slug: continuous-fish-muscle-cell-line-capacity-myogenic-and-adipogenic-phenotypes
 description: "Cell-cultivated fish offers the potential for a more ethical, sustainable, and safe seafood system. However, fish cell culture is relatively understudied in comparison to mammalian cells. Here, we established and characterized a continuous Atlantic mackerel (Scomber scombrus) skeletal muscle cell line (“Mack” cells). The cells were isolated from muscle biopsies of fresh-caught fish, with separate isolations performed from two distinct fish. Mack1 cells (cells from the first isolation) were cultured for over a year and subcultured over 130 times."
 excerpt: "Cell-cultivated fish offers the potential for a more ethical, sustainable, and safe seafood system. However, fish cell culture is relatively understudied in comparison to mammalian cells. Here, we established and characterized a continuous Atlantic mackerel (Scomber scombrus) skeletal muscle cell line (“Mack” cells). The cells were isolated from muscle biopsies of fresh-caught fish, with separate isolations performed from two distinct fish. Mack1 cells (cells from the first isolation) were cultured for over a year and subcultured over 130 times."
 proteins: [Cell-Based]

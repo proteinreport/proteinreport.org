@@ -2,7 +2,7 @@
 title: "Another Fish"
 date: 2021-08-02 20:14:23
 lastmod: 2021-08-02 20:14:23
-slug: /another-fish
+slug: another-fish
 description: "Another Fish aims to democratize access to delicious, nutritious, and radically more sustainable whitefish fillet without any animal compromise. Their product will substitute conventional fish in traditional seafood recipes, bringing the same sensory and cultural experience that fish lovers expect."
 proteins: [Cell-Based]
 products: [Seafood]

@@ -2,7 +2,7 @@
 title: "How, Why and When Clean Agriculture Will Take Over the World"
 date: 2021-01-20 16:44:10
 lastmod: 2021-01-20 16:44:10
-slug: /how-why-and-when-clean-agriculture-will-take-over-world
+slug: how-why-and-when-clean-agriculture-will-take-over-world
 description: "The confluence of the coronavirus pandemic of 2020, the rapid development of new food technologies and the rising global demand for protein mean that we are on the cusp of a huge and profitable investment wave into new forms of agriculture. The greatest beneficiaries of this investment wave will be cultured and plant-based foods."
 excerpt: "The confluence of the coronavirus pandemic of 2020, the rapid development of new food technologies and the rising global demand for protein mean that we are on the cusp of a huge and profitable investment wave into new forms of agriculture. The greatest beneficiaries of this investment wave will be cultured and plant-based foods."
 proteins: [Cell-Based, Plant-Based, Microbial]

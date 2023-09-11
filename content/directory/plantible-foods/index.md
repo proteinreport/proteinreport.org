@@ -2,7 +2,7 @@
 title: "Plantible Foods"
 date: 2020-05-01 11:03:37
 lastmod: 2020-05-01 11:03:37
-slug: /plantible-foods
+slug: plantible-foods
 description: "Plantible Foods is a B2B food technology company with the goal to develop the most functional and applicable plant-based protein in the world using scalable and sustainable aqua-farming and extraction technologies."
 proteins: [Plant-Based]
 products: [Ingredients]

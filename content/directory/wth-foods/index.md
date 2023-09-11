@@ -2,7 +2,7 @@
 title: "WTH Foods"
 date: 2020-08-13 07:22:35
 lastmod: 2020-08-13 07:22:35
-slug: /wth-foods
+slug: wth-foods
 description: "WTH Foods is a plant-based meat company from the Philippines. We aim to lead Asia’s transition to sustainable meat alternatives by innovating with carefully-sourced local produce and taking inspiration from local flavors."
 proteins: [Plant-Based]
 products: [Meat]

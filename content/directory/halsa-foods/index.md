@@ -2,7 +2,7 @@
 title: "Halsa Foods"
 date: 2020-01-23 17:50:36
 lastmod: 2020-01-23 17:50:36
-slug: /halsa-foods
+slug: halsa-foods
 description: "Hälsa produces a healthy plant based probiotic yogurt, oat milk, oat yogurt, oatgurt, organic, halsa, 100% clean. Hälsa has created a healthier way of creating yogurt: A simple process that keeps intact all the beneficial nutrients of whole grain oats. Nothing is removed, and nothing artificial is added."
 proteins: [Plant-Based]
 products: [Dairy]

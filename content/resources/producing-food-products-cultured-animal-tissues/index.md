@@ -2,7 +2,7 @@
 title: "Producing Food Products from Cultured Animal Tissues"
 date: 2020-05-07 12:15:43
 lastmod: 2020-05-07 12:15:43
-slug: /producing-food-products-cultured-animal-tissues
+slug: producing-food-products-cultured-animal-tissues
 description: "Cell cultivated meat is a relatively new (only about 20 years old) idea using a technology that has been around for over one hundred years. The technology necessary to culture cells for human consumption is developing at a rapid pace. The concept is relativity simple in that it uses cells of animal origin and raises them in a bioreactor to produce food that closely mimics meat products traditionally derived from harvesting animals. While the concept of producing cell cultivated meat is simple, the implementation has proven to be very challenging."
 excerpt: "Cell cultivated meat is a relatively new (only about 20 years old) idea using a technology that has been around for over one hundred years. The technology necessary to culture cells for human consumption is developing at a rapid pace. The concept is relativity simple in that it uses cells of animal origin and raises them in a bioreactor to produce food that closely mimics meat products traditionally derived from harvesting animals. While the concept of producing cell cultivated meat is simple, the implementation has proven to be very challenging."
 proteins: [Cell-Based]

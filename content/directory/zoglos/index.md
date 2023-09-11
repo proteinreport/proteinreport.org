@@ -2,7 +2,7 @@
 title: "Zoglo's"
 date: 2020-01-23 17:50:31
 lastmod: 2020-01-23 17:50:31
-slug: /zoglos
+slug: zoglos
 description: "Zoglo’s is a dedicated manufacturer of fine meatless alternatives with protein and vegetable entrées, and finger foods which are easy to prepare in just a few minutes. Zoglo’s products combine taste, technology and the highest levels of research and development."
 proteins: [Plant-Based]
 products: [Meat]

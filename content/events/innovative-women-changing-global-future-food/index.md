@@ -2,7 +2,7 @@
 title: "Innovative Women Changing the Global Future of Food"
 date: 2021-09-10 18:31:11
 lastmod: 2021-09-10 18:31:11
-slug: /innovative-women-changing-global-future-food
+slug: innovative-women-changing-global-future-food
 description: "The UC Davis Cultivated Meat Research Consortium is proud to present“Innovative Women Changing the Global Future of Food”"
 proteins: [Cell-Based]
 products: [Meat, Dairy]

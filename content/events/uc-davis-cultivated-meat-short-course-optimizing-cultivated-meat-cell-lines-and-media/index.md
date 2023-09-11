@@ -2,7 +2,7 @@
 title: "UC Davis Cultivated Meat Short Course: Optimizing Cultivated Meat Cell Lines and Media"
 date: 2022-04-16 06:53:17
 lastmod: 2022-04-16 06:53:17
-slug: /uc-davis-cultivated-meat-short-course-optimizing-cultivated-meat-cell-lines-and-media
+slug: uc-davis-cultivated-meat-short-course-optimizing-cultivated-meat-cell-lines-and-media
 description: "Sponsored by the UC Davis Biotechnology Program & the UC Davis Cultivated Meat ConsortiumJoin the UC Davis Cultivated Meat Consortium faculty and research team members for an overview of the latest research approaches used to generate cell lines and optimize media for use in cultivated meat fermentations, as well as a look at the potential role of edible microcarriers."
 proteins: [Cell-Based]
 products: [Meat, Ingredients]

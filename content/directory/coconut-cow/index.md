@@ -2,7 +2,7 @@
 title: "The Coconut Cow"
 date: 2020-01-27 20:34:45
 lastmod: 2020-01-27 20:34:45
-slug: /coconut-cow
+slug: coconut-cow
 description: "The Coconut Cow is the original coconut oil yogurt. Made only with natural ingredients and mct oil, it’s known for its memory boosting properties."
 proteins: [Plant-Based]
 products: [Dairy]

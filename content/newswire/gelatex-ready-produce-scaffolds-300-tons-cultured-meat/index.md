@@ -2,7 +2,7 @@
 title: "Gelatex ready to produce scaffolds for 300 tons of cultured meat"
 date: 2022-04-28 13:52:24
 lastmod: 2022-04-28 13:52:24
-slug: /gelatex-ready-produce-scaffolds-300-tons-cultured-meat
+slug: gelatex-ready-produce-scaffolds-300-tons-cultured-meat
 company: 8981
 description: "Techstars-backed materials technology company Gelatex is on the mission to make cultured meat available in supermarkets. As a pioneer in making scaffolds for cultured meat, Gelatex has opened a new research, engineering and manufacturing facility to take the development and production of their nanofibrous materials to the next level. Thus, removing one of the barriers in scaling cultured meat."
 excerpt: "Techstars-backed materials technology company Gelatex is on the mission to make cultured meat available in supermarkets. As a pioneer in making scaffolds for cultured meat, Gelatex has opened a new research, engineering and manufacturing facility to take the development and production of their nanofibrous materials to the next level. Thus, removing one of the barriers in scaling cultured meat."

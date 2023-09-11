@@ -2,7 +2,7 @@
 title: "The Dutch Weed Burger"
 date: 2020-01-23 17:50:27
 lastmod: 2020-01-23 17:50:27
-slug: /dutch-weed-burger
+slug: dutch-weed-burger
 description: "Dutch Weed Burger is made from Dutch-grown seaweed, nutrient-dense, protein-rich food in the sea. The entrepreneurs behind it are hoping that it will help kickstart a new type of sustainable agriculture–seagriculture–in the Netherlands."
 proteins: [Algae]
 products: [Meat]

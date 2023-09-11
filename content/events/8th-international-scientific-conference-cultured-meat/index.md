@@ -2,7 +2,7 @@
 title: "8th International Scientific Conference on Cultured Meat"
 date: 2022-07-29 11:27:10
 lastmod: 2022-07-29 11:27:10
-slug: /8th-international-scientific-conference-cultured-meat
+slug: 8th-international-scientific-conference-cultured-meat
 description: "Abstract submissions due August 14!"
 proteins: [Cell-Based]
 products: [Meat, Seafood]

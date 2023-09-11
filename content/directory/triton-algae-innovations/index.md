@@ -2,7 +2,7 @@
 title: "Triton Algae Innovations"
 date: 2020-01-23 17:51:00
 lastmod: 2020-01-23 17:51:00
-slug: /triton-algae-innovations
+slug: triton-algae-innovations
 description: "Triton is determined to disrupt the unsustainable food ecosystem with solutions that provide better nutrition, better health, and better tasting food. Triton is the first company to develop a scalable fermentation strategy for producing heme and other meat-like compounds from a non-GMO organism. An alternative meat or plant based product with Essential Red algae achieves the raw to cooked experienced desired by many."
 proteins: [Microbial, Algae]
 products: [Meat, Ingredients]

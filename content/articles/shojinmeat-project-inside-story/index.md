@@ -2,7 +2,7 @@
 title: "The Shojinmeat Project Inside Story"
 date: 2021-09-07 09:55:11
 lastmod: 2021-09-07 09:55:11
-slug: /shojinmeat-project-inside-story
+slug: shojinmeat-project-inside-story
 description: "Japan is forging a unique development path for cellular agriculture — one in which no one is left behind and anyone interested can get involved in helping create an open, inclusive future for the technology. This is the story of the Shojinmeat Project and how a citizen science experiment came to have big impact on national policy."
 excerpt: "Japan is forging a unique development path for cellular agriculture — one in which no one is left behind and anyone interested can get involved in helping create an open, inclusive future for the technology. This is the story of the Shojinmeat Project and how a citizen science experiment came to have big impact on national policy."
 proteins: [Cell-Based]

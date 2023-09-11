@@ -2,7 +2,7 @@
 title: "Good Seed Burger"
 date: 2020-01-23 17:50:36
 lastmod: 2020-01-23 17:50:36
-slug: /good-seed-burger
+slug: good-seed-burger
 description: "Good Seed re-invents the veggie burger with it’s bold flavor blends and premium ingredients, liberating veggie eaters from the highly processed burgers of the past."
 proteins: [Plant-Based]
 products: [Meat]

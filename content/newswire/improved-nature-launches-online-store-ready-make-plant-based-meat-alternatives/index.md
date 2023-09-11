@@ -2,7 +2,7 @@
 title: "Improved Nature Launches Online Store with Ready-to-Make Plant-Based Meat Alternatives"
 date: 2020-01-15 11:53:52
 lastmod: 2020-01-15 11:53:52
-slug: /improved-nature-launches-online-store-ready-make-plant-based-meat-alternatives
+slug: improved-nature-launches-online-store-ready-make-plant-based-meat-alternatives
 company: 1153
 description: "Improved Nature, a plant-based protein company, is excited to introduce its e-commerce website."
 excerpt: "Improved Nature, a plant-based protein company, is excited to introduce its e-commerce website."

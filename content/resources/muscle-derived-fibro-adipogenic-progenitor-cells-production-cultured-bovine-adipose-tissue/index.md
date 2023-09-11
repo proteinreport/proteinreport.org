@@ -2,7 +2,7 @@
 title: "Muscle-derived fibro-adipogenic progenitor cells for production of cultured bovine adipose tissue"
 date: 2022-01-25 21:46:35
 lastmod: 2022-01-25 21:46:35
-slug: /muscle-derived-fibro-adipogenic-progenitor-cells-production-cultured-bovine-adipose-tissue
+slug: muscle-derived-fibro-adipogenic-progenitor-cells-production-cultured-bovine-adipose-tissue
 description: "Cultured meat is an emergent technology with the potential for significant environmental and animal welfare benefits. Accurate mimicry of traditional meat requires fat tissue; a key contributor to both the flavour and texture of meat. Here, we show that fibro-adipogenic progenitor cells (FAPs) are present in bovine muscle, and are transcriptionally and immunophenotypically distinct from satellite cells. These two cell types can be purified from a single muscle sample using a simple fluorescence-activated cell sorting (FACS) strategy."
 excerpt: "Cultured meat is an emergent technology with the potential for significant environmental and animal welfare benefits. Accurate mimicry of traditional meat requires fat tissue; a key contributor to both the flavour and texture of meat. Here, we show that fibro-adipogenic progenitor cells (FAPs) are present in bovine muscle, and are transcriptionally and immunophenotypically distinct from satellite cells. These two cell types can be purified from a single muscle sample using a simple fluorescence-activated cell sorting (FACS) strategy."
 proteins: [Cell-Based]

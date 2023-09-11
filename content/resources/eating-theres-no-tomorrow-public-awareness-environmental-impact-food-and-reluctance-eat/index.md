@@ -2,7 +2,7 @@
 title: "Eating like there's no tomorrow: Public awareness of the environmental impact of food and reluctance to eat less meat as part of a sustainable diet"
 date: 2019-08-26 04:56:32
 lastmod: 2019-08-26 04:56:32
-slug: /eating-theres-no-tomorrow-public-awareness-environmental-impact-food-and-reluctance-eat
+slug: eating-theres-no-tomorrow-public-awareness-environmental-impact-food-and-reluctance-eat
 description: "Reducing meat consumption is central to many of the scientific debates on healthy, sustainable diets because of the high environmental impact of meat production. Missing from these debates are the public perspectives about eating less meat and consideration of cultural and social values associated with meat. The aim of this study was to explore public awareness of the environmental impact of food and their willingness to reduce meat consumption."
 excerpt: "Reducing meat consumption is central to many of the scientific debates on healthy, sustainable diets because of the high environmental impact of meat production. Missing from these debates are the public perspectives about eating less meat and consideration of cultural and social values associated with meat. The aim of this study was to explore public awareness of the environmental impact of food and their willingness to reduce meat consumption."
 resource_type: [academic]

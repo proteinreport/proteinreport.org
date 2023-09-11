@@ -2,7 +2,7 @@
 title: "Cellular Agriculture 101 for Students and Young Generations"
 date: 2020-07-05 09:50:31
 lastmod: 2020-07-05 09:50:31
-slug: /cellular-agriculture-101-students-and-young-generations
+slug: cellular-agriculture-101-students-and-young-generations
 description: "Aleph Farms, The Knowledge Society, Cellular Agriculture Society and the Good Food Institute are hosting a panel about how can Gen Z get involved in high-impact technology-driven solutions that will change the future of food, and beyond."
 proteins: [Cell-Based]
 products: [Meat]
@@ -20,4 +20,7 @@ draft: false
 weight: 5000
 uuid: 7226
 ---
-<p>Aleph Farms, The Knowledge Society, Cellular Agriculture Society and the Good Food Institute are hosting a panel about how can Gen Z get involved in high-impact technology-driven solutions that will change the future of food, and beyond.</p>
+Aleph Farms, The Knowledge Society, Cellular Agriculture Society and the
+Good Food Institute are hosting a panel about how can Gen Z get involved
+in high-impact technology-driven solutions that will change the future
+of food, and beyond.

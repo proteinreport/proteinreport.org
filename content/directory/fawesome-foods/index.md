@@ -2,7 +2,7 @@
 title: "Fawesome Foods"
 date: 2020-01-23 17:50:37
 lastmod: 2020-01-23 17:50:37
-slug: /fawesome-foods
+slug: fawesome-foods
 description: "Plant-based jerky made of only the finest sourced, sustainable, organic, and non-gmo ingredients."
 proteins: [Plant-Based]
 products: [Meat]

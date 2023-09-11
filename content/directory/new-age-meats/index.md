@@ -2,7 +2,7 @@
 title: "New Age Meats"
 date: 2020-01-23 18:09:58
 lastmod: 2020-01-23 18:09:58
-slug: /new-age-meats
+slug: new-age-meats
 description: "New Age Meats is an early-stage startup making healthy cell-cultured meat without animal&nbsp;slaughter."
 proteins: [Cell-Based]
 products: [Meat]

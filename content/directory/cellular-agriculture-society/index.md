@@ -2,7 +2,7 @@
 title: "Cellular Agriculture Society"
 date: 2020-06-15 11:13:07
 lastmod: 2020-06-15 11:13:07
-slug: /cellular-agriculture-society
+slug: cellular-agriculture-society
 description: "CAS is the international 501(c)(3) non-profit advancing cellular agriculture, a field of biotechnology producing animal products without animals."
 proteins: [Cell-Based]
 products: []

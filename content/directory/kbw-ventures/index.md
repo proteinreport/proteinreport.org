@@ -2,7 +2,7 @@
 title: "KBW Ventures"
 date: 2020-02-27 10:48:53
 lastmod: 2020-02-27 10:48:53
-slug: /kbw-ventures
+slug: kbw-ventures
 description: "Focusing exclusively on venture capital, value creation and growth equity, KBW Ventures is an asset management company that targets direct investments in some of the world’s most highly sought-after private companies."
 proteins: []
 products: []

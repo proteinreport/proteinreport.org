@@ -2,7 +2,7 @@
 title: "What do European consumers think about alternative proteins?"
 date: 2022-01-26 21:16:05
 lastmod: 2022-01-26 21:16:05
-slug: /what-do-european-consumers-think-about-alternative-proteins
+slug: what-do-european-consumers-think-about-alternative-proteins
 description: "Join our webinar on Feb."
 proteins: [Plant-Based, Algae, Fungi, Insect]
 products: [Meat, Dairy, Seafood, Ingredients, Feed]

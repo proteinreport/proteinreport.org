@@ -2,7 +2,7 @@
 title: "BlueNalu"
 date: 2020-01-23 18:09:58
 lastmod: 2020-01-23 18:09:58
-slug: /bluenalu
+slug: bluenalu
 description: "BlueNalu's mission is to be the global leader in cellular aquaculture, providing consumers with great tasting, healthy, safe, and trusted seafood products that support the sustainability and diversity of our oceans."
 proteins: [Cell-Based]
 products: [Seafood]

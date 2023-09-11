@@ -2,7 +2,7 @@
 title: "Are consumers willing to pay for in-vitro meat? An investigation of naming effects"
 date: 2022-03-18 12:15:03
 lastmod: 2022-03-18 12:15:03
-slug: /are-consumers-willing-pay-vitro-meat-investigation-naming-effects
+slug: are-consumers-willing-pay-vitro-meat-investigation-naming-effects
 description: "Currently, there is an ongoing debate about whether ‘in-vitro meat’ (IVM) should be labelled and communicated differently from conventional meat. Naming and labelling IVM can have significant implications and consequences for consumers’ acceptance of this new product as well as for future labelling policies. We provide, for the first time, information on how the use of different terms (i.e., ‘cultured’, ‘lab-grown’ and ‘artificial’) shapes US consumers’ preferences and marginal willingness to pay for IVM."
 excerpt: "Currently, there is an ongoing debate about whether ‘in-vitro meat’ (IVM) should be labelled and communicated differently from conventional meat. Naming and labelling IVM can have significant implications and consequences for consumers’ acceptance of this new product as well as for future labelling policies. We provide, for the first time, information on how the use of different terms (i.e., ‘cultured’, ‘lab-grown’ and ‘artificial’) shapes US consumers’ preferences and marginal willingness to pay for IVM."
 proteins: [Cell-Based]

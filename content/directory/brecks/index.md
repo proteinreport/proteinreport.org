@@ -2,7 +2,7 @@
 title: "Brecks"
 date: 2020-01-15 12:02:02
 lastmod: 2020-01-15 12:02:02
-slug: /brecks
+slug: brecks
 description: "UK based supplier of extruded cereals and meat free products to industry and retail."
 proteins: [Plant-Based]
 products: [Meat, Ingredients]

@@ -2,7 +2,7 @@
 title: "Future of Protein Production Summit 2023"
 date: 2022-10-19 15:30:16
 lastmod: 2022-10-19 15:30:16
-slug: /future-protein-production-summit-2023
+slug: future-protein-production-summit-2023
 description: "The world's online meeting place for accelerating the commercialization of alternative proteins.The Future of Protein Production Summit is the must-attend virtual event for any company involved in making the global food system more sustainable, kind and fair for the planet, people, and animals."
 proteins: [Cell-Based, Plant-Based, Microbial, Molecular Farming, Algae, Fungi]
 products: [Meat, Dairy, Eggs, Seafood, Pet Food, Ingredients, Feed]

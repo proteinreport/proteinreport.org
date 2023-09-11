@@ -2,7 +2,7 @@
 title: "Earth Balance"
 date: 2020-01-27 18:01:23
 lastmod: 2020-01-27 18:01:23
-slug: /earth-balance
+slug: earth-balance
 description: "Earth Balance produces a line of deliciously plant-made snacks, mac & cheese, buttery spreads, nut butters, mayonnaise and coconut spread. All Earth Balance products are plant-based, without artificial ingredients and hydrogenated oils, free of lactose and eggs."
 proteins: [Plant-Based]
 products: [Dairy, Eggs, Ingredients]

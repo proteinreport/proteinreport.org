@@ -2,7 +2,7 @@
 title: "Molecular Farming startup PoLoPo secures $1.75m Pre-seed round to double down on its unique approach for animal-based proteins, growing in plants"
 date: 2023-03-20 08:00:00
 lastmod: 2023-03-20 08:00:00
-slug: /molecular-farming-startup-polopo-secures-175m-pre-seed-round-double-down-its-unique
+slug: molecular-farming-startup-polopo-secures-175m-pre-seed-round-double-down-its-unique
 company_name: "PoLoPo"
 company_link: "https://www.linkedin.com/company/polopo/"
 description: "Israeli molecular farming company PoLoPo has closed  a $1.75m funding round to double down on developing its proprietary technology to grow egg proteins in potatoes"

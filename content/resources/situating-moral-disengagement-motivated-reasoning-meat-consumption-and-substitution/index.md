@@ -2,7 +2,7 @@
 title: "Situating moral disengagement: Motivated reasoning in meat consumption and substitution"
 date: 2019-11-09 14:48:40
 lastmod: 2019-11-09 14:48:40
-slug: /situating-moral-disengagement-motivated-reasoning-meat-consumption-and-substitution
+slug: situating-moral-disengagement-motivated-reasoning-meat-consumption-and-substitution
 description: "This work advances towards an increased understanding of moral disengagement and individual differences in the maintenance of widespread and cherished harmful behaviors. Drawing on meat consumption and substitution as an opportunity to study the process of moral self-regulation in situ, it presents a measure of selective deactivation of moral self-regulatory processes when considering the impact of meat consumption (i.e. the Moral Disengagement in Meat Questionnaire — MDMQ). The MDMQ developed from four sequential studies following a mixed-methods approach."
 excerpt: "This work advances towards an increased understanding of moral disengagement and individual differences in the maintenance of widespread and cherished harmful behaviors. Drawing on meat consumption and substitution as an opportunity to study the process of moral self-regulation in situ, it presents a measure of selective deactivation of moral self-regulatory processes when considering the impact of meat consumption (i.e. the Moral Disengagement in Meat Questionnaire — MDMQ). The MDMQ developed from four sequential studies following a mixed-methods approach."
 resource_type: [academic]

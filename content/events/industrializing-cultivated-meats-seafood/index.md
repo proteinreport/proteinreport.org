@@ -2,7 +2,7 @@
 title: "Industrializing Cultivated Meats & Seafood"
 date: 2022-04-20 15:43:53
 lastmod: 2022-04-20 15:43:53
-slug: /industrializing-cultivated-meats-seafood
+slug: industrializing-cultivated-meats-seafood
 description: "Returning for its 4th year, Industrializing Cultivated Meats & Seafood will host the industry leaders from Food Techs, Investors, Multinational Consumer Packaged Goods, and Food Brands and Manufacturers, to focus on preparing for Cultivated Meat & Seafood Commercialization.With the growing need for sustainable food alternatives from both the mainstream and animal-free industry, it’s now vital to prepare for the commercialization of cultivated products, through scaling-up to meet market demands and remaining competitive."
 proteins: [Cell-Based, Microbial]
 products: [Meat, Seafood]

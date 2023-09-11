@@ -2,7 +2,7 @@
 title: "Asante"
 date: 2020-01-23 17:50:54
 lastmod: 2020-01-23 17:50:54
-slug: /asante
+slug: asante
 description: "Asante is a plant-based meat producer based in Mexico."
 proteins: [Plant-Based]
 products: [Meat]

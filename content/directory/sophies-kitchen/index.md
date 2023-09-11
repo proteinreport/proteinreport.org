@@ -2,7 +2,7 @@
 title: "Sophie's Kitchen"
 date: 2020-01-23 17:50:45
 lastmod: 2020-01-23 17:50:45
-slug: /sophies-kitchen
+slug: sophies-kitchen
 description: "Sophie's Kitchen is the California-based company creating plant-based seafood alternatives including canned tuna, crab cakes, smoked salmon, and new entrées such as lobster macaroni and cheese and seafood jambalaya."
 proteins: [Plant-Based]
 products: [Seafood]

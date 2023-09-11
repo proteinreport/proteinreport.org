@@ -2,7 +2,7 @@
 title: "WayFare"
 date: 2020-01-23 17:50:45
 lastmod: 2020-01-23 17:50:45
-slug: /wayfare
+slug: wayfare
 description: "WayFare is creating delicious dairy alternative products 100% plant based."
 proteins: [Plant-Based]
 products: [Dairy]

@@ -2,7 +2,7 @@
 title: "Sesamilk"
 date: 2020-08-18 10:55:01
 lastmod: 2020-08-18 10:55:01
-slug: /sesamilk
+slug: sesamilk
 description: "Sesamilk is the 100% sesame milk that we invented and developed the extracting method of the value of premium grade Thai sesame seeds through the innovation that can bring out the most benefits of sesame seeds in the form of milk. It is a new alternative for consumers who care about health because at the present there is an increasing number of people who are allergic to dairy milk, in which 15-30% is more likely to be allergic to soy milk as well."
 proteins: [Plant-Based]
 products: [Dairy]

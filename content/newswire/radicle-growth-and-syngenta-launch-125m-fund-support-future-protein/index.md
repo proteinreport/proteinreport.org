@@ -2,7 +2,7 @@
 title: "Radicle Growth and Syngenta Launch $1.25m Fund to Support the Future of Protein"
 date: 2020-05-14 10:26:15
 lastmod: 2020-05-14 10:26:15
-slug: /radicle-growth-and-syngenta-launch-125m-fund-support-future-protein
+slug: radicle-growth-and-syngenta-launch-125m-fund-support-future-protein
 company_name: "Radicle Growth"
 company_link: "https://radicle.vc/"
 description: "Radicle Growth, an acceleration fund, and Syngenta, a leading agriculture company helping to improve global food security, today announced the launch of The Radicle Protein Challenge by Syngenta."

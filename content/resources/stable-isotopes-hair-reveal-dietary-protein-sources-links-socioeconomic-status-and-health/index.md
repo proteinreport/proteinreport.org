@@ -2,7 +2,7 @@
 title: "Stable isotopes in hair reveal dietary protein sources with links to socioeconomic status and health"
 date: 2020-08-04 13:40:23
 lastmod: 2020-08-04 13:40:23
-slug: /stable-isotopes-hair-reveal-dietary-protein-sources-links-socioeconomic-status-and-health
+slug: stable-isotopes-hair-reveal-dietary-protein-sources-links-socioeconomic-status-and-health
 description: "Carbon and nitrogen isotope ratios in hair sampled from 65 communities across the central and intermountain regions of the United States and more intensively throughout 29 ZIP codes in the Salt Lake Valley, Utah, revealed a dietary divergence related to socioeconomic status as measured by cost of living, household income, and adjusted gross income."
 excerpt: "Carbon and nitrogen isotope ratios in hair sampled from 65 communities across the central and intermountain regions of the United States and more intensively throughout 29 ZIP codes in the Salt Lake Valley, Utah, revealed a dietary divergence related to socioeconomic status as measured by cost of living, household income, and adjusted gross income."
 proteins: [Animal]

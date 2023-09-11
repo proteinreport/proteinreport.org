@@ -2,7 +2,7 @@
 title: "Spread'Em Kitchen"
 date: 2020-01-23 17:50:34
 lastmod: 2020-01-23 17:50:34
-slug: /spreadem-kitchen
+slug: spreadem-kitchen
 description: "Spread’Em Kitchen is a producer of plant-based cheeses on a mission to change the way people eat and transform the food industry for the better."
 proteins: [Plant-Based]
 products: [Dairy]

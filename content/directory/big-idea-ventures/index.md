@@ -2,7 +2,7 @@
 title: "Big Idea Ventures"
 date: 2020-04-03 12:25:31
 lastmod: 2020-04-03 12:25:31
-slug: /big-idea-ventures
+slug: big-idea-ventures
 description: "Big Idea Ventures is a hybrid venture firm: Our first fund is the New Protein Fund, which is raising up to $50 million to invest in the best companies in the plant-based foods and alternative protein ecosystem. We combine capital and partnership to support and grow the world’s most compelling plant based food companies and protein alternatives. Our first investment is into Shiok Meat which is the first clean meat company in Asia and first to have graduated from Y Combinator."
 proteins: []
 products: []

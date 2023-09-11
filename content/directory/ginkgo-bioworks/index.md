@@ -2,7 +2,7 @@
 title: "Ginkgo Bioworks"
 date: 2021-11-15 09:12:50
 lastmod: 2021-11-15 09:12:50
-slug: /ginkgo-bioworks
+slug: ginkgo-bioworks
 description: "Ginkgo is building a platform to enable customers to program cells as easily as we can program computers. The company's platform is enabling biotechnology applications across diverse markets, from food and agriculture to industrial chemicals to pharmaceuticals."
 proteins: [Cell-Based, Microbial]
 products: [Technology & Equipment]

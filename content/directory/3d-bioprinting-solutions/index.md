@@ -2,7 +2,7 @@
 title: "3D Bioprinting Solutions"
 date: 2020-07-17 09:52:44
 lastmod: 2020-07-17 09:52:44
-slug: /3d-bioprinting-solutions
+slug: 3d-bioprinting-solutions
 description: "3D Bioprinting Solutions is a Laboratory for Biotechnological Research founded by INVITRO, the largest private medical company in Russia. The laboratory develops and produces bioprinters and materials for 3D bioprinting, and also develops innovative technologies in the field of biofabrication."
 proteins: [Cell-Based]
 products: [Technology & Equipment]

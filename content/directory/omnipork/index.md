@@ -2,7 +2,7 @@
 title: "OmniPork"
 date: 2020-01-24 10:33:18
 lastmod: 2020-01-24 10:33:18
-slug: /omnipork
+slug: omnipork
 description: "OmniPork is launched by OmniFoods, a venture under the Green Monday Holdings. With our game-changing OmnipPork, it is designed to be an all-purpose plant-based pork analogue that is nutritionally superior and environmentally friendly."
 proteins: [Plant-Based]
 products: [Meat]

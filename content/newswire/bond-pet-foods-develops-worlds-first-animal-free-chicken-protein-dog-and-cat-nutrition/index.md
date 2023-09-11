@@ -2,7 +2,7 @@
 title: "Bond Pet Foods Develops World’s First Animal-Free Chicken Protein for Dog and Cat Nutrition"
 date: 2020-08-25 18:45:24
 lastmod: 2020-08-25 18:45:24
-slug: /bond-pet-foods-develops-worlds-first-animal-free-chicken-protein-dog-and-cat-nutrition
+slug: bond-pet-foods-develops-worlds-first-animal-free-chicken-protein-dog-and-cat-nutrition
 company: 1269
 description: "Bond Pet Foods, Inc., the Boulder-based company working with biotechnology to make animal-free and protein-rich pet food, today announced the creation of the world’s first animal-free, cultured chicken meat protein for pet food applications."
 excerpt: "Bond Pet Foods, Inc., the Boulder-based company working with biotechnology to make animal-free and protein-rich pet food, today announced the creation of the world’s first animal-free, cultured chicken meat protein for pet food applications."

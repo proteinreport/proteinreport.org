@@ -2,7 +2,7 @@
 title: "Vixen Kitchen"
 date: 2020-01-23 17:50:46
 lastmod: 2020-01-23 17:50:46
-slug: /vixen-kitchen
+slug: vixen-kitchen
 description: "Vixen Kitchen is Northern California’s locally made, plant-based gelato created out of the amazing combination of organic raw cashews and organic maple syrup."
 proteins: [Plant-Based]
 products: [Dairy]

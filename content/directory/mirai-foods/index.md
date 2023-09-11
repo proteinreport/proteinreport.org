@@ -2,7 +2,7 @@
 title: "Mirai Foods"
 date: 2020-01-23 18:09:57
 lastmod: 2020-01-23 18:09:57
-slug: /mirai-foods
+slug: mirai-foods
 description: "Founded in 2019, Mirai Foods AG is a young, Switzerland-based biotech start-up that aims to bring Cultured Meat to the masses. Mirai does not want to convert the 95% meat-eating population to vegetarians. Instead, they want to create an improved meat that gives all the taste and nutrients of “legacy meat” but is produced in a clean-room environment by growing animal stem cells into muscle tissue."
 proteins: [Cell-Based]
 products: [Meat]

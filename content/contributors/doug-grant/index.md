@@ -2,7 +2,7 @@
 title: "Doug Grant"
 date: 2020-12-25 10:43:34
 lastmod: 2020-12-25 10:43:34
-slug: /doug-grant
+slug: doug-grant
 description: "Doug Grant is the host of Brave New Meat, a podcast featuring entrepreneurs and investors in the cultivated meat industry."
 excerpt: "Doug Grant is the host of Brave New Meat, a podcast featuring entrepreneurs and investors in the cultivated meat industry."
 images: ["doug_grant.png"]

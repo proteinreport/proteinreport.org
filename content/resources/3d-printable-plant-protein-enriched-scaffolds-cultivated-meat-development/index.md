@@ -2,7 +2,7 @@
 title: "3D-printable plant protein-enriched scaffolds for cultivated meat development"
 date: 2022-03-29 20:03:48
 lastmod: 2022-03-29 20:03:48
-slug: /3d-printable-plant-protein-enriched-scaffolds-cultivated-meat-development
+slug: 3d-printable-plant-protein-enriched-scaffolds-cultivated-meat-development
 description: "Cultivated meat harnesses tissue engineering (TE) concepts to create sustainable, edible muscle tissues, for addressing the rising meat product demands and their global consequences. As 3D-printing is a promising method for creating thick and complex structures, two plant-protein-enriched scaffolding compositions were primarily assessed in our work as 3D-printable platforms for bovine satellite cells (BSC) maturation."
 excerpt: "Cultivated meat harnesses tissue engineering (TE) concepts to create sustainable, edible muscle tissues, for addressing the rising meat product demands and their global consequences. As 3D-printing is a promising method for creating thick and complex structures, two plant-protein-enriched scaffolding compositions were primarily assessed in our work as 3D-printable platforms for bovine satellite cells (BSC) maturation."
 proteins: [Cell-Based, Plant-Based]

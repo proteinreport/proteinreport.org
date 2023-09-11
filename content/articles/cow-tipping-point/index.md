@@ -2,7 +2,7 @@
 title: "The Cow-Tipping Point"
 date: 2020-12-29 14:00:57
 lastmod: 2020-12-29 14:00:57
-slug: /cow-tipping-point
+slug: cow-tipping-point
 description: "Cultivated ground meat has the potential to unravel the business model of the beef industry."
 excerpt: "Cultivated ground meat has the potential to unravel the business model of the beef industry."
 proteins: [Cell-Based]

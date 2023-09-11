@@ -2,7 +2,7 @@
 title: "Cultured Meat Symposium"
 date: 2019-11-03 12:06:56
 lastmod: 2019-11-03 12:06:56
-slug: /cultured-meat-symposium
+slug: cultured-meat-symposium
 description: "NA"
 proteins: [Cell-Based]
 products: [NA]

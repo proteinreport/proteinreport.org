@@ -2,7 +2,7 @@
 title: "Vegusto"
 date: 2020-01-23 17:50:57
 lastmod: 2020-01-23 17:50:57
-slug: /vegusto
+slug: vegusto
 description: "The Vegi-Service AG was founded in 1997 with the vision to create tasty meat and cheese alternatives. The complete Vegusto range includes more than 60 products, allowing you to convert almost any conventional recipe into a plant-based and cholesterol-free alternative."
 proteins: [Plant-Based]
 products: [Meat, Dairy]

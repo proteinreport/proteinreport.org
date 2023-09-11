@@ -2,7 +2,7 @@
 title: "Anne Hathaway Makes First B2B Investment, Backing Future of Food Leader The Every Co."
 date: 2023-02-01 14:00:00
 lastmod: 2023-02-01 14:00:00
-slug: /anne-hathaway-makes-first-b2b-investment-backing-future-food-leader-every-co
+slug: anne-hathaway-makes-first-b2b-investment-backing-future-food-leader-every-co
 company: 1299
 description: "The EVERY Co., a pioneering food tech company that is accelerating the world’s transition to animal-free protein, announced that Anne Hathaway has invested in its platform."
 excerpt: "The EVERY Co., a pioneering food tech company that is accelerating the world’s transition to animal-free protein, announced that Anne Hathaway has invested in its platform."

@@ -2,7 +2,7 @@
 title: "Climax Foods"
 date: 2020-09-03 08:24:44
 lastmod: 2020-09-03 08:24:44
-slug: /climax-foods
+slug: climax-foods
 description: "Climax Foods is a data science company innovating the future of food. It has developed sophisticated machine intelligence tools to unlock smarter paths from plants to products, creating a new generation of plant-based foods that will out-compete animal-based predecessors. Together, a team of top data and food scientists from around the globe are intelligently harnessing the vast biodiversity of the plant kingdom to create the pinnacle of flavor, texture, and nutrition — at a price point for everyone."
 proteins: [Plant-Based]
 products: [Ingredients]

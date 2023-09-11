@@ -2,7 +2,7 @@
 title: "An Outsider’s Perspective on Cultivated Meat"
 date: 2021-01-12 18:12:48
 lastmod: 2021-01-12 18:12:48
-slug: /outsiders-perspective-cultivated-meat
+slug: outsiders-perspective-cultivated-meat
 description: "What I’ve learned through my first eleven Brave New Meat podcast interviews with founders and investors in the cultivated meat industry"
 excerpt: "What I’ve learned through my first eleven Brave New Meat podcast interviews with founders and investors in the cultivated meat industry"
 proteins: [Cell-Based]

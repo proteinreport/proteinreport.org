@@ -2,7 +2,7 @@
 title: "Gelatex Awarded 760,000 Euro Grant to Develop Edible Microcarriers for Industrial Cultured Meat Production"
 date: 2023-05-11 10:37:21
 lastmod: 2023-05-11 10:37:21
-slug: /gelatex-awarded-760000-euro-grant-develop-edible-microcarriers-industrial-cultured-meat
+slug: gelatex-awarded-760000-euro-grant-develop-edible-microcarriers-industrial-cultured-meat
 company: 8981
 description: "Gelatex Technologies, a materials technology company enabling industrial tissue engineering and cell culture, has received a grant of 760,000 euros from the Estonian Business and Innovation Agency to develop edible microcarriers and microcarrier production technologies for industrial cellular agriculture and cultured meat."
 excerpt: "Gelatex Technologies, a materials technology company enabling industrial tissue engineering and cell culture, has received a grant of 760,000 euros from the Estonian Business and Innovation Agency to develop edible microcarriers and microcarrier production technologies for industrial cellular agriculture and cultured meat."

@@ -2,7 +2,7 @@
 title: "Moving Mountains"
 date: 2019-12-03 20:32:09
 lastmod: 2019-12-03 20:32:09
-slug: /moving-mountains
+slug: moving-mountains
 description: "Moving Mountains is a ground-breaking British food tech company owned by Founder & CEO, Simeon Van Der Molen, creating plant-based meat and fish alternatives. The widely popular Moving Mountains range of products are available globally."
 proteins: [Plant-Based]
 products: [Meat]

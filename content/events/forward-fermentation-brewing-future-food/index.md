@@ -2,7 +2,7 @@
 title: "Forward to Fermentation: Brewing the Future of Food"
 date: 2022-04-20 11:24:14
 lastmod: 2022-04-20 11:24:14
-slug: /forward-fermentation-brewing-future-food
+slug: forward-fermentation-brewing-future-food
 description: "Do we need to recall the numbers? The numbers of how the global meat industry harms both the planet and the people living on it? The numbers of the environmental damages caused by eggs and dairy? Probably not. Instead, we would like to shed light on how innovation can solve the carnivore conundrum."
 proteins: [Microbial, Algae, Fungi]
 products: [Dairy, Eggs, Pet Food, Ingredients, Materials]

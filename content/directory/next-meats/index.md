@@ -2,7 +2,7 @@
 title: "Next Meats"
 date: 2021-04-19 11:47:44
 lastmod: 2021-04-19 11:47:44
-slug: /next-meats
+slug: next-meats
 description: "Next Meats, based in Tokyo, is developing plant-based meat products as a preventative measure against the food crisis caused by the deterioration of the environment."
 proteins: [Plant-Based]
 products: [Meat]

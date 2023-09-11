@@ -2,7 +2,7 @@
 title: "Recombinant production of growth factors for application in cell culture"
 date: 2022-02-21 09:14:30
 lastmod: 2022-02-21 09:14:30
-slug: /recombinant-production-growth-factors-application-cell-culture
+slug: recombinant-production-growth-factors-application-cell-culture
 description: "Culturing eukaryotic cells has widespread applications in research and industry, including the emerging field of cell-cultured meat production colloquially referred to as “cellular agriculture”. These applications are often restricted by the high cost of growth medium necessary for cell growth. Mitogenic protein growth factors (GFs) are essential components of growth medium and account for upwards of 90% of the total costs."
 excerpt: "Culturing eukaryotic cells has widespread applications in research and industry, including the emerging field of cell-cultured meat production colloquially referred to as “cellular agriculture”. These applications are often restricted by the high cost of growth medium necessary for cell growth. Mitogenic protein growth factors (GFs) are essential components of growth medium and account for upwards of 90% of the total costs."
 proteins: [Cell-Based, Microbial]
