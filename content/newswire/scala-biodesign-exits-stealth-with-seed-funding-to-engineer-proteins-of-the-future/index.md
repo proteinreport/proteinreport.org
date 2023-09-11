@@ -1,7 +1,7 @@
 ---
 title: Scala Biodesign exits stealth with Seed funding to engineer proteins of
   the future
-date: 2023-09-11 15:11:15
+date: 2023-09-11 13:45:15
 lastmod: 2023-09-11 15:27:53
 company_name: Scala
 company_link: https://www.scala-bio.com/
