@@ -462,7 +462,6 @@ collections:
     create: true # Allow users to create new documents in this collection
     # slug: "{{slug}}/index.md" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - { label: "Layout", name: "layout", widget: "hidden", default: "jobs" }
       - { label: "Name", name: "title", widget: "string" }
       - label: "Company"
         name: "company"
@@ -485,3 +484,42 @@ collections:
       - { label: "Description", name: "description", widget: "text" }
       - { label: "UUID", name: "uuid", widget: "uuid" }
       - { label: "Content", name: "body", widget: "markdown" }
+
+  ########## Partners ##########
+  - name: "partners" # Used in routes, e.g., /admin/collections/blog
+    label: "Partners" # Used in the UI
+    label_singular: "Partner"
+    folder: "content/partners" # The path to the folder where the documents are stored
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
+    create: true # Allow users to create new documents in this collection
+    # slug: "{{slug}}/index.md" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Name", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+      - { label: "Updated", name: "lastmod", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+      - { label: "Slug", name: "slug", widget: "string", required: false }
+      - { label: "Link", name: "link", widget: "string", required: false }
+      - label: "Partner Type"
+        name: "partner_type"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          ["Event-Media", "Sponsor", "Essay Contest 2021 Judge"]
+      - { label: "Image", name: "featured_image", widget: "image", required: false }
+      - { label: "Active", name: "active", widget: "boolean", required: false }
+      - { label: "Weight", name: "weight", widget: "number", required: false, default: 5000, value_type: "int"}
+      - { label: "UUID", name: "uuid", widget: "uuid" }
+      - label: "_build"
+        name: "_build"
+        widget: "object"
+        collapsed: true
+        hint: "Do NOT change anything here."
+        fields:
+          - {label: "list", name: "list", widget: "boolean", default: true}
+          - {label: "publishResources", name: "publishResources", widget: "boolean", default: true}
+          - {label: "render", name: "render", widget: "boolean", default: false}
+
+
