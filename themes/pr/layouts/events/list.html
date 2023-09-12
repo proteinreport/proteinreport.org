@@ -14,14 +14,23 @@
     </div>
       
       <div class="w-full mt-8 grid grid-cols-1 auto-rows-fr gap-8">
-          {{ $all_events := where .Site.RegularPages "Section" "events" }}
-          {{ range (sort $all_events ".Params.start_date" "asc") }}
-            {{ $start := (time .Params.start_date).Unix }}
-            {{ $now := now.Unix }}
-            {{ if (gt $start $now) }}
-              {{ partial "event/card.html" . }}
-            {{ end }}
+
+          {{ $date := now.Format "2006-01-02" }}
+          {{ $events := where .Site.RegularPages "Section" "events" }}
+          
+          {{ $filteredEvents := slice }}
+          {{ range $events }}
+              {{ $endDate := .Params.end_date | dateFormat "2006-01-02" }}
+              {{ if ge $endDate $date }}
+                  {{ $filteredEvents = $filteredEvents | union (slice .) }}
+              {{ end }}
           {{ end }}
+      
+          {{ $filteredEvents = sort $filteredEvents "Params.start_date" "asc" }}
+          {{ range $filteredEvents }}
+            {{ partial "event/card.html" . }}
+          {{ end }}
+
       </div>
   </div>
 </section>

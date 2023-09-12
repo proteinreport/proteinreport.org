@@ -140,7 +140,7 @@
 <!-- BEGIN EVENTS SECTION -->
 
     <mj-raw>
-      {{ if .Params.research }}
+      {{ if .Params.events }}
     </mj-raw>
 
     <mj-section full-width="full-width" background-color="#2f323b" padding-bottom="0px" padding-top="0">

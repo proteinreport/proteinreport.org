@@ -1,5 +1,18 @@
 <div class="flex flex-col w-full gap-4">
-    {{ range first 5 ( where .FirstSection.RegularPages "Permalink" "ne" .Permalink ) }}
+    {{ $date := now.Format "2006-01-02" }}
+    {{ $events := where .FirstSection.RegularPages "Permalink" "ne" .Permalink }}
+    
+    {{ $filteredEvents := slice }}
+    {{ range $events }}
+        {{ $endDate := .Params.end_date | dateFormat "2006-01-02" }}
+        {{ if ge $endDate $date }}
+            {{ $filteredEvents = $filteredEvents | union (slice .) }}
+        {{ end }}
+    {{ end }}
+
+    {{ $filteredEvents = sort $filteredEvents "Params.start_date" "asc" }}
+    {{ range first 5 $filteredEvents }}
+
     {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
     <article class="flex flex-row w-full bg-white transition hover:shadow-xl border">
 

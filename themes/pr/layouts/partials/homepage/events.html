@@ -5,16 +5,19 @@
             <p>Upcoming conferences and summits</p>
         </div>
         <div class="w-full grid grid-cols-1 auto-rows-fr gap-8">
-            {{/* Build slice of future events. */}}
-            {{ $p := slice }}
-            {{ range where site.RegularPages "Section" "events" }}
-                {{ if (.Params.start_date | time.AsTime).After now }}
-                    {{ $p = $p | append . }}
+            {{ $date := now.Format "2006-01-02" }}
+            {{ $events := where .Site.RegularPages "Section" "events" }}
+            
+            {{ $filteredEvents := slice }}
+            {{ range $events }}
+                {{ $endDate := .Params.end_date | dateFormat "2006-01-02" }}
+                {{ if ge $endDate $date }}
+                    {{ $filteredEvents = $filteredEvents | union (slice .) }}
                 {{ end }}
             {{ end }}
-
-            {{/* Sort and show the first 5. */}}
-            {{ range sort $p "Params.start_date" | first 5 }}
+        
+            {{ $filteredEvents = sort $filteredEvents "Params.start_date" "asc" }}
+            {{ range first 5 $filteredEvents }}
                 {{ partial "event/card.html" . }}
             {{ end }}
         </div>
