@@ -29,8 +29,8 @@ images:
   - slftop.png
 featured_image: sfl.png
 banner_image: slftop.png
-start_date: 2023-11-05T23:00:00.000Z
-end_date: 2023-11-06T23:00:00.000Z
+start_date: 2023-11-06
+end_date: 2023-11-07
 country: United Kingdom
 city: London
 website: https://sustainablefoodsevent.com/
