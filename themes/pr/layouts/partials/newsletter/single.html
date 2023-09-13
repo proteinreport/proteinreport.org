@@ -1,6 +1,11 @@
 {{ $logo := "logo-stacked-inverted-small.png" }}
 {{ $logo = printf "%s%s" .Site.BaseURL $logo }}
 {{ $date := .Params.date }}
+{{ $items := 5 }}
+{{ $location_icon := printf "%s%s" .Site.BaseURL "images/icons/location.png" }}
+{{ $calendar_icon := printf "%s%s" .Site.BaseURL "images/icons/calendar.png" }}
+{{ $computer_icon := printf "%s%s" .Site.BaseURL "images/icons/computer.png" }}
+{{ $clock_icon := printf "%s%s" .Site.BaseURL "images/icons/clock.png" }}
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 
@@ -74,21 +79,6 @@
         max-width: 100%;
       }
 
-      .mj-column-px-400 {
-        width: 400px !important;
-        max-width: 400px;
-      }
-
-      .mj-column-px-200 {
-        width: 200px !important;
-        max-width: 200px;
-      }
-
-      .mj-column-per-50 {
-        width: 50% !important;
-        max-width: 50%;
-      }
-
       .mj-column-per-25 {
         width: 25% !important;
         max-width: 25%;
@@ -99,19 +89,24 @@
         max-width: 75%;
       }
 
-      .mj-column-per-16-6 {
-        width: 16.6% !important;
-        max-width: 16.6%;
+      .mj-column-px-300 {
+        width: 300px !important;
+        max-width: 300px;
       }
 
-      .mj-column-per-66-6 {
-        width: 66.6% !important;
-        max-width: 66.6%;
+      .mj-column-px-200 {
+        width: 200px !important;
+        max-width: 200px;
       }
 
-      .mj-column-per-33-3 {
-        width: 33.3% !important;
-        max-width: 33.3%;
+      .mj-column-px-400 {
+        width: 400px !important;
+        max-width: 400px;
+      }
+
+      .mj-column-per-50 {
+        width: 50% !important;
+        max-width: 50%;
       }
 
       .mj-column-per-33-333333333333336 {
@@ -127,21 +122,6 @@
       max-width: 100%;
     }
 
-    .moz-text-html .mj-column-px-400 {
-      width: 400px !important;
-      max-width: 400px;
-    }
-
-    .moz-text-html .mj-column-px-200 {
-      width: 200px !important;
-      max-width: 200px;
-    }
-
-    .moz-text-html .mj-column-per-50 {
-      width: 50% !important;
-      max-width: 50%;
-    }
-
     .moz-text-html .mj-column-per-25 {
       width: 25% !important;
       max-width: 25%;
@@ -152,19 +132,24 @@
       max-width: 75%;
     }
 
-    .moz-text-html .mj-column-per-16-6 {
-      width: 16.6% !important;
-      max-width: 16.6%;
+    .moz-text-html .mj-column-px-300 {
+      width: 300px !important;
+      max-width: 300px;
     }
 
-    .moz-text-html .mj-column-per-66-6 {
-      width: 66.6% !important;
-      max-width: 66.6%;
+    .moz-text-html .mj-column-px-200 {
+      width: 200px !important;
+      max-width: 200px;
     }
 
-    .moz-text-html .mj-column-per-33-3 {
-      width: 33.3% !important;
-      max-width: 33.3%;
+    .moz-text-html .mj-column-px-400 {
+      width: 400px !important;
+      max-width: 400px;
+    }
+
+    .moz-text-html .mj-column-per-50 {
+      width: 50% !important;
+      max-width: 50%;
     }
 
     .moz-text-html .mj-column-per-33-333333333333336 {
@@ -225,75 +210,13 @@
         </tbody>
       </table>
     </div>
-    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#fa8739" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-    <div style="background:#fa8739;background-color:#fa8739;margin:0px auto;max-width:600px;">
-      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#fa8739;background-color:#fa8739;width:100%;">
-        <tbody>
-          <tr>
-            <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-top:0;text-align:center;">
-              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><![endif]-->
-              {{ $articles := where .Site.RegularPages "Section" "articles" }}
-              {{ $articles = sort $articles "Date" "desc" }}
-              {{ $articles = where $articles "Params.date" "lt" $date }}
-              {{ range first 1 $articles }}
-              {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
-              {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
-              <!--[if mso | IE]><td class="" style="vertical-align:top;width:400px;" ><![endif]-->
-              <div class="mj-column-px-400 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
-                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
-                  <tbody>
-                    <tr>
-                      <td align="center" style="font-size:0px;padding:10px 25px;padding-top:0;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word;">
-                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
-                          <tbody>
-                            <tr>
-                              <td style="width:400px;">
-                                <img alt="{{ .Params.title }}" src="{{ $image.RelPermalink }}" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="400" height="auto">
-                              </td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-              <!--[if mso | IE]></td><td class="" style="vertical-align:top;width:200px;" ><![endif]-->
-              <div class="mj-column-px-200 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
-                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
-                  <tbody>
-                    <tr>
-                      <td align="left" style="font-size:0px;padding:10px 25px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;word-break:break-word;">
-                        <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:40px;line-height:1;text-align:left;color:#ffffff;">
-                          <p style="font-size: 17px; font-weight: 500; line-height: 1.25;">{{ .Params.title | upper }}</p>
-                        </div>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center" vertical-align="middle" style="font-size:0px;padding:10px 20px;padding-right:20px;padding-bottom:10px;padding-left:20px;word-break:break-word;">
-                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;">
-                          <tbody>
-                            <tr>
-                              <td align="center" bgcolor="#ffffff" role="presentation" style="border:none;border-radius:3px;cursor:auto;mso-padding-alt:10px 25px;background:#ffffff;" valign="middle">
-                                <a href="{{ $link }}" style="display:inline-block;background:#ffffff;color:#fa8739;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:3px;" target="_blank"> READ ARTICLE </a>
-                              </td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-              <!--[if mso | IE]></td><![endif]-->
-              {{ end }}
-              <!--[if mso | IE]></tr></table><![endif]-->
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
     <!--[if mso | IE]></td></tr></table><![endif]-->
+    <!-- BEGIN ARTICLES SECTION -->{{ if .Params.articles }}
+    {{ if .Params.articles_items }}
+    {{ $items = .Params.articles_items }}
+    {{ else }}
+    {{ $items = 5 }}
+    {{ end }}
     <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#2f323b;background-color:#2f323b;width:100%;">
       <tbody>
         <tr>
@@ -304,14 +227,28 @@
                 <tbody>
                   <tr>
                     <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-top:0;text-align:center;">
-                      <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
-                      <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
-                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                      <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:middle;width:150px;" ><![endif]-->
+                      <div class="mj-column-per-25 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
                           <tbody>
                             <tr>
                               <td align="left" style="font-size:0px;padding:10px 25px;padding-top:10px;padding-right:25px;padding-bottom:10px;padding-left:25px;word-break:break-word;">
                                 <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:18px;line-height:1;text-align:left;color:#ffffff;">
                                   <p>ARTICLES</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <!--[if mso | IE]></td><td class="" style="vertical-align:middle;width:450px;" ><![endif]-->
+                      <div class="mj-column-per-75 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;padding-top:10px;padding-right:25px;padding-bottom:10px;padding-left:25px;word-break:break-word;">
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:1;text-align:left;color:#ffffff;">
+                                  <p>Insight and analysis from subject-matter experts</p>
                                 </div>
                               </td>
                             </tr>
@@ -329,102 +266,170 @@
         </tr>
       </tbody>
     </table>
-    <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-    <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
-      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+    {{ $articles := where .Site.RegularPages "Section" "articles" }}
+    {{ $articles = sort $articles "Date" "desc" }}
+    {{ $articles = where $articles "Params.date" "lt" $date }}
+    {{ $i := 1 }}
+    {{ range first $items $articles }}
+    {{ $image := "" }}
+    {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+    {{ $image = $image.Fill "600x400" }}
+    {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+    {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}{{ if ne (mod $i 2) 0 }}
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+      <tbody>
+        <tr>
+          <td>
+            <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+            <div style="margin:0px auto;max-width:600px;">
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                <tbody>
+                  <tr>
+                    <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-top:0;text-align:center;">
+                      <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:middle;width:300px;" ><![endif]-->
+                      <div class="mj-column-px-300 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                          <tbody>
+                            <tr>
+                              <td style="vertical-align:middle;padding-top:15px;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" class="list-image" style="width: 200px; height: 133px; font-size: 0px; padding: 10px 25px; padding-top: 0; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-word;" width="200" height="133">
+                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;" class="mj-full-width-mobile">
+                                          <tbody>
+                                            <tr>
+                                              <td style="width:300px;" class="mj-full-width-mobile">
+                                                <a href="{{ $link }}" target="_blank">
+                                                  <img alt="{{ .Params.title }}" src="{{ $image }}" style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" width="300" height="auto">
+                                                </a>
+                                              </td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <!--[if mso | IE]></td><td class="" style="vertical-align:middle;width:300px;" ><![endif]-->
+                      <div class="mj-column-px-300 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;padding-top:15px;padding-right:15px;padding-bottom:0px;padding-left:15px;word-break:break-word;">
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+                                  <p style="line-height: 1.2;">{{ .Params.excerpt }}</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <!--[if mso | IE]></td></tr></table><![endif]-->
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!--[if mso | IE]></td></tr></table><![endif]-->
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    {{ $i = add $i 1 }}
+    {{ else }}
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+      <tbody>
+        <tr>
+          <td>
+            <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+            <div style="margin:0px auto;max-width:600px;">
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                <tbody>
+                  <tr>
+                    <td style="direction:rtl;font-size:0px;padding:20px 0;padding-bottom:0px;padding-top:0;text-align:center;">
+                      <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:middle;width:300px;" ><![endif]-->
+                      <div class="mj-column-px-300 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                          <tbody>
+                            <tr>
+                              <td style="vertical-align:middle;padding-top:15px;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center" class="list-image" style="width: 200px; height: 133px; font-size: 0px; padding: 10px 25px; padding-top: 0; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-word;" width="200" height="133">
+                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;" class="mj-full-width-mobile">
+                                          <tbody>
+                                            <tr>
+                                              <td style="width:300px;" class="mj-full-width-mobile">
+                                                <a href="{{ $link }}" target="_blank">
+                                                  <img alt="{{ .Params.title }}" src="{{ $image }}" style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" width="300" height="auto">
+                                                </a>
+                                              </td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <!--[if mso | IE]></td><td class="" style="vertical-align:middle;width:300px;" ><![endif]-->
+                      <div class="mj-column-px-300 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;padding-top:15px;padding-right:15px;padding-bottom:0px;padding-left:15px;word-break:break-word;">
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+                                  <p style="line-height: 1.2;">{{ .Params.excerpt  }}</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <!--[if mso | IE]></td></tr></table><![endif]-->
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!--[if mso | IE]></td></tr></table><![endif]-->
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    {{ $i = add $i 1 }}
+    {{ end }}
+    {{ end }}
+    <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
         <tbody>
           <tr>
-            <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:20px;text-align:center;">
-              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:bottom;width:300px;" ><![endif]-->
-              <div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:bottom;width:100%;">
-                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:bottom;" width="100%">
-                  <tbody>
-                    <tr>
-                      <td align="center" style="font-size:0px;padding:10px 25px;padding-top:20px;padding-right:0px;padding-bottom:20px;padding-left:0px;word-break:break-word;">
-                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
-                          <tbody>
-                            <tr>
-                              <td style="width:129px;">
-                                <img alt="Verdant cap" src="http://191n.mj.am/img/191n/3s/x4h.jpg" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="129" height="auto">
-                              </td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center" style="font-size:0px;padding:10px 25px;padding-top:0;padding-right:25px;padding-bottom:0px;padding-left:25px;word-break:break-word;">
-                        <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:15px;font-weight:bold;line-height:1;text-align:center;color:#000000;">
-                          <p>VERDANT CAP</p>
-                          <p style="color: rgb(250, 135, 57);">20&#x20AC;</p>
-                        </div>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center" vertical-align="middle" style="font-size:0px;padding:15px 30px;padding-top:0;padding-right:25px;padding-bottom:10px;padding-left:25px;word-break:break-word;">
-                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;">
-                          <tbody>
-                            <tr>
-                              <td align="center" bgcolor="#fa8739" role="presentation" style="border:none;border-radius:3px;cursor:auto;mso-padding-alt:10px 25px;background:#fa8739;" valign="middle">
-                                <a href="https://mjml.io" style="display:inline-block;background:#fa8739;color:#ffffff;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:3px;" target="_blank"> BUY NOW </a>
-                              </td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-              <!--[if mso | IE]></td><td class="" style="vertical-align:bottom;width:300px;" ><![endif]-->
-              <div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:bottom;width:100%;">
-                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:bottom;" width="100%">
-                  <tbody>
-                    <tr>
-                      <td align="center" style="font-size:0px;padding:10px 25px;padding-top:20px;padding-right:0px;padding-bottom:20px;padding-left:0px;word-break:break-word;">
-                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
-                          <tbody>
-                            <tr>
-                              <td style="width:72px;">
-                                <img alt="Sketch floral" src="http://191n.mj.am/img/191n/3s/x4j.jpg" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="72" height="auto">
-                              </td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center" style="font-size:0px;padding:10px 25px;padding-top:0;padding-right:25px;padding-bottom:0px;padding-left:25px;word-break:break-word;">
-                        <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:15px;font-weight:bold;line-height:1;text-align:center;color:#000000;">
-                          <p>SKETCH FLORAL</p>
-                          <p style="color: rgb(250, 135, 57);">23&#x20AC;</p>
-                        </div>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center" vertical-align="middle" style="font-size:0px;padding:15px 30px;padding-top:0;padding-bottom:10px;word-break:break-word;">
-                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;">
-                          <tbody>
-                            <tr>
-                              <td align="center" bgcolor="#fa8739" role="presentation" style="border:none;border-radius:3px;cursor:auto;mso-padding-alt:10px 25px;background:#fa8739;" valign="middle">
-                                <a href="https://mjml.io" style="display:inline-block;background:#fa8739;color:#ffffff;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:3px;" target="_blank"> BUY NOW </a>
-                              </td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-              <!--[if mso | IE]></td></tr></table><![endif]-->
+            <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr></tr></table><![endif]-->
             </td>
           </tr>
         </tbody>
       </table>
     </div>
     <!--[if mso | IE]></td></tr></table><![endif]-->
-    <!-- BEGIN NEWSWIRE SECTION -->{{ if .Params.newswire }}
+    {{ end }}<!-- END ARTICLES SECTION --><!-- BEGIN NEWSWIRE SECTION -->{{ if .Params.newswire }}
+    {{ if .Params.newswire_items }}
+    {{ $items = .Params.newswire_items }}
+    {{ else }}
+    {{ $items = 5 }}
+    {{ end }}
     <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#2f323b;background-color:#2f323b;width:100%;">
       <tbody>
         <tr>
@@ -488,7 +493,7 @@
                       {{ $articles := where .Site.RegularPages "Section" "newswire" }}
                       {{ $articles = sort $articles "Date" "desc" }}
                       {{ $articles = where $articles "Params.date" "lt" $date }}
-                      {{ range first 5 $articles }}
+                      {{ range first $items $articles }}
                       {{ $image := "" }}
                       {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
                       {{ $image = $image.Fill "600x400" }}
@@ -551,7 +556,12 @@
         </tr>
       </tbody>
     </table>
-    {{ end }}<!-- END NEWSWIRE SECTION --><!-- BEGIN EVENTS SECTION -->{{ if .Params.research }}
+    {{ end }}<!-- END NEWSWIRE SECTION --><!-- BEGIN EVENTS SECTION -->{{ if .Params.events }}
+    {{ if .Params.events_items }}
+    {{ $items = .Params.events_items }}
+    {{ else }}
+    {{ $items = 5 }}
+    {{ end }}
     <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#2f323b;background-color:#2f323b;width:100%;">
       <tbody>
         <tr>
@@ -612,17 +622,17 @@
                   <tr>
                     <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:40px;padding-top:0;text-align:center;">
                       <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><![endif]-->
-                      {{ $articles := where .Site.RegularPages "Section" "events" }}
-                      {{ $articles = sort $articles "Date" "desc" }}
                       {{ $parsedDate := $date | dateFormat "2006-01-02" }}
+                      {{ $articles := where .Site.RegularPages "Section" "events" }}
                       {{ $filteredArticles := slice }}
                       {{ range $articles }}
-                      {{ $startDate := .Params.start_date | dateFormat "2006-01-02" }}
-                      {{ if gt $startDate $parsedDate }}
+                      {{ $endDate := .Params.end_date | dateFormat "2006-01-02" }}
+                      {{ if ge $endDate $parsedDate }}
                       {{ $filteredArticles = $filteredArticles | union (slice .) }}
                       {{ end }}
                       {{ end }}
-                      {{ range first 5 $filteredArticles }}
+                      {{ $filteredArticles = sort $filteredArticles "Params.start_date" "asc" }}
+                      {{ range first $items $filteredArticles }}
                       {{ $image := "" }}
                       {{ if .Params.featured_image }}
                       {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
@@ -634,7 +644,6 @@
                       {{ end }}
                       {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
                       {{ $location := "" }}
-                      {{ $online := "" }}
                       {{ if or (.Params.city) (.Params.country) }}
                       {{ if .Params.city }}
                       {{ if .Params.country }}
@@ -650,22 +659,24 @@
                       {{ $location = printf "%s" .Params.country }}
                       {{ end }}
                       {{ end }}
-                      <!--[if mso | IE]><td class="" style="vertical-align:middle;width:600px;" ><![endif]-->
-                      <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0;line-height:0;text-align:left;display:inline-block;width:100%;direction:ltr;vertical-align:middle;">
-                        <!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:middle;width:99px;" ><![endif]-->
-                        <div class="mj-column-per-16-6 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:16.6%;">
+                      <!--[if mso | IE]><td class="event-row-outlook" style="vertical-align:middle;width:600px;" ><![endif]-->
+                      <div class="mj-column-per-100 mj-outlook-group-fix event-row" style="padding: 15px 0; font-size: 0; line-height: 0; text-align: left; display: inline-block; width: 100%; direction: ltr; vertical-align: middle;">
+                        <!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:middle;width:150px;" ><![endif]-->
+                        <div class="mj-column-per-25 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:25%;">
                           <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
                             <tbody>
                               <tr>
-                                <td style="vertical-align:middle;padding:10px;">
+                                <td style="background-color:#ffffff;vertical-align:middle;padding:10px;">
                                   <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
                                     <tbody>
                                       <tr>
-                                        <td align="center" style="background:#ffffff;font-size:0px;padding:10px 25px;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;word-break:break-word;">
-                                          <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:center;color:#333333;"><span style="font-size: 11px; font-weight: 500;">{{ dateFormat "Jan" .Params.start_date | upper }}</span>
-                                            <br>
-                                            <span style="font-size: 32px; font-weight: 500;">{{ dateFormat "2" .Params.start_date }}</span>
-                                          </div>
+                                        <td align="center" class="cal-border" style="border-bottom: 2px solid #eee; font-size: 0px; padding: 0 0 3px 0; word-break: break-word;">
+                                          <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:11px;font-weight:500;line-height:1;text-align:center;color:#333333;">{{ dateFormat "Jan" .Params.start_date | upper }}</div>
+                                        </td>
+                                      </tr>
+                                      <tr>
+                                        <td align="center" style="font-size:0px;padding:0;word-break:break-word;">
+                                          <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:48px;font-weight:500;line-height:1;text-align:center;color:#333333;">{{ dateFormat "2" .Params.start_date }}</div>
                                         </td>
                                       </tr>
                                     </tbody>
@@ -675,51 +686,40 @@
                             </tbody>
                           </table>
                         </div>
-                        <!--[if mso | IE]></td><td style="vertical-align:middle;width:399px;" ><![endif]-->
-                        <div class="mj-column-per-66-6 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:66.6%;">
+                        <!--[if mso | IE]></td><td style="vertical-align:middle;width:450px;" ><![endif]-->
+                        <div class="mj-column-per-75 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:75%;">
                           <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
                             <tbody>
                               <tr>
                                 <td align="left" style="font-size:0px;padding:10px 25px;padding-top:0;padding-right:15px;padding-bottom:0px;padding-left:15px;word-break:break-word;">
-                                  <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
-                                    <br>
+                                  <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a></div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" style="font-size:0px;padding:10px 25px;padding-top:3px;padding-right:15px;padding-bottom:0px;padding-left:15px;word-break:break-word;">
+                                  <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><mj-raw>{{ if $location }}</mj-raw>
+                                    <span>
+                                      <img src="{{ $location_icon }}" height="16" width="16">
+                                    </span>
                                     <span>{{ $location }}</span>
-                                    <mj-raw>
-                                      {{ if .Params.online }}
-                                    </mj-raw>
+                                    <mj-raw>{{ end }}</mj-raw>
+                                    <mj-raw>{{ if .Params.online }}</mj-raw>
+                                    <span style="padding-right: 5px;">
+                                      <img src="{{ $computer_icon }}" height="16" width="16">
+                                    </span>
                                     <span>Online</span>
-                                    <mj-raw>
-                                      {{ end }}
-                                    </mj-raw>
+                                    <mj-raw>{{ end }}</mj-raw>
                                   </div>
                                 </td>
                               </tr>
                             </tbody>
                           </table>
                         </div>
-                        <!--[if mso | IE]></td><td style="vertical-align:middle;width:99px;" ><![endif]-->
-                        <div class="mj-column-per-16-6 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:16.6%;">
-                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
-                            <tbody>
-                              <tr>
-                                <td align="center" class="list-image" style="width: 200px; height: 133px; font-size: 0px; padding: 10px 25px; padding-top: 0; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-word;" width="200" height="133">
-                                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
-                                    <tbody>
-                                      <tr>
-                                        <td style="width:99px;">
-                                          <a href="{{ $link }}" target="_blank">
-                                            <img alt="{{ .Params.title }}" src="{{ $image }}" style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" width="99" height="auto">
-                                          </a>
-                                        </td>
-                                      </tr>
-                                    </tbody>
-                                  </table>
-                                </td>
-                              </tr>
-                            </tbody>
-                          </table>
-                        </div>
-                        <!--[if mso | IE]></td></tr></table><![endif]-->
+                        <!--[if mso | IE]></td><![endif]-->
+                        <!-- <mj-column width="20%" vertical-align="middle">
+          <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="false" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        </mj-column> -->
+                        <!--[if mso | IE]></tr></table><![endif]-->
                       </div>
                       <!--[if mso | IE]></td><![endif]-->
                       {{ end }}
@@ -734,7 +734,12 @@
         </tr>
       </tbody>
     </table>
-    {{ end }}<!-- END EVENTS SECTION --><!-- BEGIN JOBS SECTION -->{{ if .Params.research }}
+    {{ end }}<!-- END EVENTS SECTION --><!-- BEGIN JOBS SECTION -->{{ if .Params.jobs }}
+    {{ if .Params.jobs_items }}
+    {{ $items = .Params.jobs_items }}
+    {{ else }}
+    {{ $items = 5 }}
+    {{ end }}
     <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#2f323b;background-color:#2f323b;width:100%;">
       <tbody>
         <tr>
@@ -798,6 +803,7 @@
                       {{ $articles := where .Site.RegularPages "Section" "jobs" }}
                       {{ $articles = sort $articles "Date" "desc" }}
                       {{ $articles = where $articles "Params.date" "lt" $date }}
+                      {{ $closing := "" }}
                       {{ range first 5 $articles }}
                       {{ $image := "" }}
                       {{ if .Params.company}}
@@ -811,11 +817,30 @@
                       {{ end }}
                       {{ end }}
                       {{ end }}
+                      {{ if .Params.closing_date }}
+                      {{ $closing = .Params.closing_date | dateFormat "2006-01-02" }}
+                      {{ end }}
+                      {{ $location := "" }}
+                      {{ if or (.Params.city) (.Params.country) }}
+                      {{ if .Params.city }}
+                      {{ if .Params.country }}
+                      {{ if ne .Params.city .Params.country }}
+                      {{ $location = printf "%s, %s" .Params.city .Params.country }}
+                      {{ else }}
+                      {{ $location = printf "%s" .Params.city }}
+                      {{ end }}
+                      {{ else }}
+                      {{ $location = printf "%s" .Params.city }}
+                      {{ end }}
+                      {{ else if .Params.country }}
+                      {{ $location = printf "%s" .Params.country }}
+                      {{ end }}
+                      {{ end }}
                       {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
                       <!--[if mso | IE]><td class="" style="width:600px;" ><![endif]-->
                       <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0;line-height:0;text-align:left;display:inline-block;width:100%;direction:ltr;">
-                        <!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:middle;width:199px;" ><![endif]-->
-                        <div class="mj-column-per-33-3 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:33.3%;">
+                        <!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:middle;width:150px;" ><![endif]-->
+                        <div class="mj-column-per-25 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:25%;">
                           <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
                             <tbody>
                               <tr>
@@ -828,9 +853,9 @@
                                           <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
                                             <tbody>
                                               <tr>
-                                                <td style="width:199px;">
+                                                <td style="width:150px;">
                                                   <a href="{{ $link }}" target="_blank">
-                                                    <img alt="{{ .Params.title }}" src="{{ $image }}" style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" width="199" height="auto">
+                                                    <img alt="{{ .Params.title }}" src="{{ $image }}" style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" width="150" height="auto">
                                                   </a>
                                                 </td>
                                               </tr>
@@ -854,13 +879,36 @@
                             </tbody>
                           </table>
                         </div>
-                        <!--[if mso | IE]></td><td style="vertical-align:middle;width:399px;" ><![endif]-->
-                        <div class="mj-column-per-66-6 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:66.6%;">
+                        <!--[if mso | IE]></td><td style="vertical-align:middle;width:450px;" ><![endif]-->
+                        <div class="mj-column-per-75 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:75%;">
                           <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
                             <tbody>
                               <tr>
                                 <td align="left" style="font-size:0px;padding:10px 25px;padding-top:15px;padding-right:15px;padding-bottom:0px;padding-left:15px;word-break:break-word;">
                                   <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a></div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" style="font-size:0px;padding:10px 25px;padding-top:3px;padding-right:15px;padding-bottom:0px;padding-left:15px;word-break:break-word;">
+                                  <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><mj-raw>{{ if $location }}</mj-raw>
+                                    <span>
+                                      <img src="{{ $location_icon }}" height="16" width="16">
+                                    </span>
+                                    <span>{{ $location }}</span>
+                                    <mj-raw>{{ end }}</mj-raw>
+                                    <mj-raw>{{ if .Params.remote }}</mj-raw>
+                                    <span style="padding-right: 5px;">
+                                      <img src="{{ $computer_icon }}" height="16" width="16">
+                                    </span>
+                                    <span>Remote</span>
+                                    <mj-raw>{{ end }}</mj-raw>
+                                    <mj-raw>{{ if .Params.closing_date }}</mj-raw>
+                                    <span>
+                                      <img src="{{ $clock_icon }}" height="16" width="16">
+                                    </span>
+                                    <span style="font-weight: 500;">Closing: </span><span>{{ $closing | dateFormat "Jan 2, 2006" }}</span>
+                                    <mj-raw>{{ end }}</mj-raw>
+                                  </div>
                                 </td>
                               </tr>
                             </tbody>
@@ -882,6 +930,11 @@
       </tbody>
     </table>
     {{ end }}<!-- END JOBS SECTION --><!-- BEGIN RESOURCES SECTION -->{{ if .Params.research }}
+    {{ if .Params.research_items }}
+    {{ $items = .Params.research_items }}
+    {{ else }}
+    {{ $items = 5 }}
+    {{ end }}
     <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#2f323b;background-color:#2f323b;width:100%;">
       <tbody>
         <tr>

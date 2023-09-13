@@ -22,12 +22,23 @@
       .company-name a {
         margin: auto;
       }
+      .event-row {
+        padding: 15px 0;
+      }
+      .cal-border {
+        border-bottom: 2px solid #eee;
+      }
     </mj-style> 
   </mj-head>
 <mj-raw position="file-start">
 {{ $logo := "logo-stacked-inverted-small.png" }}
 {{ $logo = printf "%s%s" .Site.BaseURL $logo }}
 {{ $date := .Params.date }}
+{{ $items := 5 }}
+{{ $location_icon := printf "%s%s" .Site.BaseURL "images/icons/location.png" }}
+{{ $calendar_icon := printf "%s%s" .Site.BaseURL "images/icons/calendar.png" }}
+{{ $computer_icon := printf "%s%s" .Site.BaseURL "images/icons/computer.png" }}
+{{ $clock_icon := printf "%s%s" .Site.BaseURL "images/icons/clock.png" }}
 </mj-raw>
   <mj-body background-color="#eee">
 
@@ -36,61 +47,96 @@
         <mj-image href="https://www.proteinreport.org" src="{{ $logo }}" alt="Protein Report logo" align="center" padding="10px"></mj-image>
       </mj-column>
     </mj-section>
+    
+    <!-- BEGIN ARTICLES SECTION -->
 
-    <mj-section background-color="#fa8739" padding-bottom="0px" padding-top="0">
-      <mj-raw>
-        {{ $articles := where .Site.RegularPages "Section" "articles" }}
-        {{ $articles = sort $articles "Date" "desc" }}
-        {{ $articles = where $articles "Params.date" "lt" $date }}
-        {{ range first 1 $articles }}
-        {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
-        {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
-      </mj-raw>
-      <mj-column width="400px">
-        <mj-image src="{{ $image.RelPermalink }}" alt="{{ .Params.title }}" align="center" border="none" width="400px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
-      </mj-column>
-      <mj-column width="200px">
-        <mj-text align="left" color="#fff" font-size="40px" padding-left="20px" padding-right="20px" padding-bottom="10px" padding-top="10px">
-          <p style="font-size: 17px; font-weight: 500; line-height: 1.25;">{{ .Params.title | upper }}</p>
-        </mj-text>
-        <mj-button background-color="#fff" color="#fa8739" font-size="16px" align="center" padding="10px 20px" href="{{ $link }}" padding-left="20px" padding-right="20px" padding-bottom="10px">READ ARTICLE</mj-button>
-      </mj-column>
-      <mj-raw>
+    <mj-raw>
+      {{ if .Params.articles }}
+        {{ if .Params.articles_items }}
+          {{ $items = .Params.articles_items }}
+        {{ else }}
+          {{ $items = 5 }}
         {{ end }}
-      </mj-raw>
-    </mj-section>
+    </mj-raw>
 
     <mj-section full-width="full-width" background-color="#2f323b" padding-bottom="0px" padding-top="0">
-      <mj-column width="100%">
+      <mj-column width="25%" vertical-align="middle">
         <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
           <p>ARTICLES</p>
         </mj-text>
       </mj-column>
-    </mj-section>
-    
-    <mj-section background-color="#fff" padding-bottom="20px">
-      <mj-column vertical-align="bottom">
-        <mj-image src="http://191n.mj.am/img/191n/3s/x4h.jpg" alt="Verdant cap" align="center" border="none" width="129px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="20px"></mj-image>
-        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
-          <p>VERDANT CAP</p>
-          <p style="color: rgb(250, 135, 57);">20&#x20AC;</p>
+      <mj-column width="75%" vertical-align="middle">
+        <mj-text align="left" color="#fff" font-size="16px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <p>Insight and analysis from subject-matter experts</p>
         </mj-text>
-        <mj-button background-color="#fa8739" color="#fff" font-size="13px" align="center" border="none" padding="15px 30px" border-radius="3px" href="https://mjml.io" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
-      </mj-column>
-      <mj-column vertical-align="bottom">
-        <mj-image src="http://191n.mj.am/img/191n/3s/x4j.jpg" alt="Sketch floral" align="center" border="none" width="72px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="20px"></mj-image>
-        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
-          <p>SKETCH FLORAL</p>
-          <p style="color: rgb(250, 135, 57);">23&#x20AC;</p>
-        </mj-text>
-        <mj-button background-color="#fa8739" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="https://mjml.io" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
       </mj-column>
     </mj-section>
+
+    <mj-raw>
+      {{ $articles := where .Site.RegularPages "Section" "articles" }}
+      {{ $articles = sort $articles "Date" "desc" }}
+      {{ $articles = where $articles "Params.date" "lt" $date }}
+      {{ $i := 1 }}
+      {{ range first $items $articles }}
+        {{ $image := "" }}
+        {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+        {{ $image = $image.Fill "600x400" }}
+        {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+        {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+    </mj-raw>
+
+    <mj-raw>
+      {{ if ne (mod $i 2) 0 }}
+    </mj-raw>
+
+    <mj-section full-width="full-width" padding-bottom="0px" padding-top="0">
+      <mj-column width="300px" padding-top="15px" vertical-align="middle">
+        <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+      <mj-column width="300px" vertical-align="middle">
+        <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="15px">
+          <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+          <p style="line-height: 1.2;">{{ .Params.excerpt }}</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      {{ $i = add $i 1 }}
+      {{ else }}
+    </mj-raw>
+    <mj-section full-width="full-width" padding-bottom="0px" padding-top="0" direction="rtl">
+      <mj-column width="300px" padding-top="15px" vertical-align="middle">
+        <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+      <mj-column width="300px" vertical-align="middle">
+        <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="15px">
+          <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+          <p style="line-height: 1.2;">{{ .Params.excerpt  }}</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      {{ $i = add $i 1 }}
+      {{ end }}
+    {{ end }}
+    </mj-raw>
+    <mj-section padding="20px 0">
+    </mj-section>
+    <mj-raw>
+      {{ end }}
+    </mj-raw>
+
+<!-- END ARTICLES SECTION -->
 
 <!-- BEGIN NEWSWIRE SECTION -->
 
     <mj-raw>
       {{ if .Params.newswire }}
+        {{ if .Params.newswire_items }}
+          {{ $items = .Params.newswire_items }}
+        {{ else }}
+          {{ $items = 5 }}
+        {{ end }}
     </mj-raw>
 
     <mj-section full-width="full-width" background-color="#2f323b" padding-bottom="0px" padding-top="0">
@@ -111,12 +157,12 @@
         {{ $articles := where .Site.RegularPages "Section" "newswire" }}
         {{ $articles = sort $articles "Date" "desc" }}
         {{ $articles = where $articles "Params.date" "lt" $date }}
-        {{ range first 5 $articles }}
-        {{ $image := "" }}
-        {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
-        {{ $image = $image.Fill "600x400" }}
-        {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
-        {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+        {{ range first $items $articles }}
+          {{ $image := "" }}
+          {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+          {{ $image = $image.Fill "600x400" }}
+          {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+          {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
       </mj-raw>
       <mj-column width="200px" padding-top="15px" vertical-align="middle">
         <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
@@ -141,6 +187,11 @@
 
     <mj-raw>
       {{ if .Params.events }}
+      {{ if .Params.events_items }}
+          {{ $items = .Params.events_items }}
+        {{ else }}
+          {{ $items = 5 }}
+        {{ end }}
     </mj-raw>
 
     <mj-section full-width="full-width" background-color="#2f323b" padding-bottom="0px" padding-top="0">
@@ -158,20 +209,19 @@
 
     <mj-section full-width="full-width" padding-bottom="40px" padding-top="0">
       <mj-raw>
-        {{ $articles := where .Site.RegularPages "Section" "events" }}
-        {{ $articles = sort $articles "Date" "desc" }}
-
         {{ $parsedDate := $date | dateFormat "2006-01-02" }}
+        {{ $articles := where .Site.RegularPages "Section" "events" }}
 
         {{ $filteredArticles := slice }}
         {{ range $articles }}
-            {{ $startDate := .Params.start_date | dateFormat "2006-01-02" }}
-            {{ if gt $startDate $parsedDate }}
+            {{ $endDate := .Params.end_date | dateFormat "2006-01-02" }}
+            {{ if ge $endDate $parsedDate }}
                 {{ $filteredArticles = $filteredArticles | union (slice .) }}
             {{ end }}
         {{ end }}
 
-        {{ range first 5 $filteredArticles }}
+        {{ $filteredArticles = sort $filteredArticles "Params.start_date" "asc" }}
+        {{ range first $items $filteredArticles }}
         {{ $image := "" }}
         {{ if .Params.featured_image }}
           {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
@@ -183,7 +233,6 @@
         {{ end }}
         {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
         {{ $location := "" }}
-        {{ $online := "" }}
         {{ if or (.Params.city) (.Params.country) }}
             {{ if .Params.city }}
                 {{ if .Params.country }}
@@ -200,31 +249,39 @@
             {{ end }}
         {{ end }}
       </mj-raw>
-      <mj-group vertical-align="middle">
-        <mj-column width="16.6%" padding="10px" vertical-align="middle">
-          <mj-text align="center" container-background-color="#fff" color="#333" font-size="13px" padding-left="5px" padding-right="5px" padding-bottom="5px" padding-top="5px">
-            <span style="font-size: 11px; font-weight: 500;">{{ dateFormat "Jan" .Params.start_date | upper }}</span>
-            <br />
-            <span style="font-size: 32px; font-weight: 500;">{{ dateFormat "2" .Params.start_date }}</span>
+      <mj-group vertical-align="middle" css-class="event-row">
+        <mj-column width="25%" padding="10px" vertical-align="middle" background-color="#fff">
+          <mj-text align="center" color="#333" font-size="11px" font-weight="500" padding="0 0 3px 0" css-class="cal-border">
+            {{ dateFormat "Jan" .Params.start_date | upper }}
+          </mj-text>
+          <mj-text align="center" color="#333" font-size="48px" font-weight="500" padding="0">
+            {{ dateFormat "2" .Params.start_date }}
           </mj-text>
         </mj-column>
-        <mj-column width="66.6%" vertical-align="middle">
+        <mj-column width="75%" vertical-align="middle">
           <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="0">
             <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
-            <br />
+          </mj-text>
+          <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="3px">
+            <mj-raw>{{ if $location }}</mj-raw>
+            <span>
+              <img src="{{ $location_icon }}" height="16" width="16">
+            </span>
             <span>{{ $location }}</span>
-            <mj-raw>
-              {{ if .Params.online }}
-            </mj-raw>
+            <mj-raw>{{ end }}</mj-raw>
+            <mj-raw>{{ if .Params.online }}</mj-raw>
+            <span style="padding-right: 5px;">
+              <img src="{{ $computer_icon }}" height="16" width="16">
+            </span>
             <span>Online</span>
-            <mj-raw>
-              {{ end }}
-            </mj-raw>
+            <mj-raw>{{ end }}</mj-raw>
           </mj-text>
         </mj-column>
-        <mj-column width="16.6%" vertical-align="middle">
+        <!--
+        <mj-column width="20%" vertical-align="middle">
           <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="false" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
         </mj-column>
+        -->
       </mj-group>
       <mj-raw>
         {{ end }}
@@ -239,7 +296,12 @@
 <!-- BEGIN JOBS SECTION -->
 
     <mj-raw>
-      {{ if .Params.research }}
+      {{ if .Params.jobs }}
+      {{ if .Params.jobs_items }}
+          {{ $items = .Params.jobs_items }}
+        {{ else }}
+          {{ $items = 5 }}
+        {{ end }}
     </mj-raw>
 
     <mj-section full-width="full-width" background-color="#2f323b" padding-bottom="0px" padding-top="0">
@@ -260,6 +322,7 @@
         {{ $articles := where .Site.RegularPages "Section" "jobs" }}
         {{ $articles = sort $articles "Date" "desc" }}
         {{ $articles = where $articles "Params.date" "lt" $date }}
+        {{ $closing := "" }}
         {{ range first 5 $articles }}
           {{ $image := "" }}
           {{ if .Params.company}}
@@ -273,10 +336,29 @@
               {{ end }}
             {{ end }}
           {{ end }}
+          {{ if .Params.closing_date }}
+            {{ $closing = .Params.closing_date | dateFormat "2006-01-02" }}
+          {{ end }}
+          {{ $location := "" }}
+          {{ if or (.Params.city) (.Params.country) }}
+              {{ if .Params.city }}
+                  {{ if .Params.country }}
+                      {{ if ne .Params.city .Params.country }}
+                          {{ $location = printf "%s, %s" .Params.city .Params.country }}
+                      {{ else }}
+                          {{ $location = printf "%s" .Params.city }}
+                      {{ end }}
+                  {{ else }}
+                      {{ $location = printf "%s" .Params.city }}
+                  {{ end }}
+              {{ else if .Params.country }}
+                  {{ $location = printf "%s" .Params.country }}
+              {{ end }}
+          {{ end }}
         {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
       </mj-raw>
       <mj-group>
-      <mj-column width="33.3%" padding-top="15px" vertical-align="middle">
+      <mj-column width="25%" padding-top="15px" vertical-align="middle">
         <mj-raw>
           {{ if $image }}
         </mj-raw>
@@ -291,9 +373,29 @@
           {{ end }}
         </mj-raw>
       </mj-column>
-      <mj-column width="66.6%" vertical-align="middle">
+      <mj-column width="75%" vertical-align="middle">
         <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="15px">
           <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+        </mj-text>
+        <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="3px">
+          <mj-raw>{{ if $location }}</mj-raw>
+          <span>
+            <img src="{{ $location_icon }}" height="16" width="16">
+          </span>
+          <span>{{ $location }}</span>
+          <mj-raw>{{ end }}</mj-raw>
+          <mj-raw>{{ if .Params.remote }}</mj-raw>
+          <span style="padding-right: 5px;">
+            <img src="{{ $computer_icon }}" height="16" width="16">
+          </span>
+          <span>Remote</span>
+          <mj-raw>{{ end }}</mj-raw>
+          <mj-raw>{{ if .Params.closing_date }}</mj-raw>
+            <span>
+              <img src="{{ $clock_icon }}" height="16" width="16">
+            </span>
+            <span style="font-weight: 500;">Closing: </span><span>{{ $closing | dateFormat "Jan 2, 2006" }}</span>
+          <mj-raw>{{ end }}</mj-raw>
         </mj-text>
       </mj-column>
       </mj-group>
@@ -311,6 +413,11 @@
 
     <mj-raw>
       {{ if .Params.research }}
+      {{ if .Params.research_items }}
+          {{ $items = .Params.research_items }}
+        {{ else }}
+          {{ $items = 5 }}
+        {{ end }}
     </mj-raw>
 
     <mj-section full-width="full-width" background-color="#2f323b" padding-bottom="0px" padding-top="0">
