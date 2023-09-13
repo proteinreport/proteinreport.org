@@ -90,7 +90,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
+    <mj-section padding-top="15px" padding-bottom="0"></mj-section>
     <mj-raw>
       {{ $articles := where .Site.RegularPages "Section" "articles" }}
       {{ $articles = sort $articles "Date" "desc" }}
