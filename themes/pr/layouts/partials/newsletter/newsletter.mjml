@@ -183,6 +183,56 @@
 
 <!-- END NEWSWIRE SECTION -->
 
+<!-- BEGIN SPONSORED SECTION -->
+
+    <mj-raw>
+      {{ if .Params.sponsored }}
+        {{ if .Params.sponsored_items }}
+          {{ $items = .Params.sponsored_items }}
+        {{ else }}
+          {{ $items = 5 }}
+        {{ end }}
+    </mj-raw>
+
+    <mj-section full-width="full-width" background-color="#2f323b" padding-bottom="0px" padding-top="0">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <p>SPONSORED</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section full-width="full-width" background-color="#f5e6e9" padding-bottom="40px" padding-top="0">
+      <mj-raw>
+        {{ $articles := where .Site.RegularPages "Section" "sponsored" }}
+        {{ $articles = sort $articles "Date" "desc" }}
+        {{ $articles = where $articles "Params.date" "lt" $date }}
+        {{ range first $items $articles }}
+          {{ $image := "" }}
+          {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+          {{ $image = $image.Fill "600x150 q100" }}
+          {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+          {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+      </mj-raw>
+      <mj-column width="600px" padding-top="15px" vertical-align="middle">
+        <mj-image href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+      <mj-column width="600px" vertical-align="middle">
+        <mj-text align="left" color="#333" font-size="16px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="0">
+          <p style="line-height: 1.2;">{{ .Content | markdownify }}</p>
+          <a href="{{ $link }}" target="_blank" style="font-size: 16px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.cta | upper }}</a>
+        </mj-text>
+      </mj-column>
+      <mj-raw>
+        {{ end }}
+      </mj-raw>
+    </mj-section>
+    <mj-raw>
+      {{ end }}
+    </mj-raw>
+
+<!-- END SPONSORED SECTION -->
+
 <!-- BEGIN EVENTS SECTION -->
 
     <mj-raw>
