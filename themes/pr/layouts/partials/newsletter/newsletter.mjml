@@ -42,9 +42,14 @@
 </mj-raw>
   <mj-body background-color="#eee">
 
-    <mj-section background-color="#ffffff">
-      <mj-column width="100%">
-        <mj-image href="https://www.proteinreport.org" src="{{ $logo }}" alt="Protein Report logo" align="center" padding="10px"></mj-image>
+    <mj-section>
+      <mj-column width="30%">
+        <mj-image align="left" href="{{ .Site.BaseURL }}" src="{{ $logo }}" alt="Protein Report logo" align="center" padding="0"></mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text align="right" font-size="18px">
+          <span>{{ .Params.date | dateFormat "Jan 2, 2006" }}</span>
+        </mj-text>
       </mj-column>
     </mj-section>
     
@@ -196,7 +201,7 @@
 
     <mj-section full-width="full-width" background-color="#2f323b" padding-bottom="0px" padding-top="0">
       <mj-column width="100%" vertical-align="middle">
-        <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+        <mj-text align="center" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
           <p>SPONSORED</p>
         </mj-text>
       </mj-column>
@@ -520,47 +525,6 @@
     </mj-raw>
 
 <!-- END RESOURCES SECTION -->
-
-    <mj-section background-color="#2f323b" padding-bottom="0px" padding-top="0">
-      <mj-column>
-        <mj-text align="left" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
-          <p style="font-size: 19px;">ALDER TWO JONES JACKET</p>
-          <p style="font-size: 36px;">100&#x20AC;</p>
-          <p>Colour-block design, zip entry, oxford hood lining, side pockets &amp; TC lining.</p>
-        </mj-text>
-        <mj-button background-color="#fa8739" color="#fff" padding="15px 30px" border-radius="3px" href="https://mjml.io" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
-      </mj-column>
-      <mj-column>
-        <mj-image src="http://191n.mj.am/img/191n/3s/xj6.jpg" alt="Man 2" align="center" border="none" width="302px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="#fa8739" padding-bottom="0px" padding-top="0">
-      <mj-column>
-        <mj-text align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-          <p style="font-size: 14px;">DISCOVER OUR</p>
-          <p style="font-size: 27px;">SUMMER COLLECTION</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#fff" padding-bottom="20px" padding-top="20px">
-      <mj-column>
-        <mj-image src="http://191n.mj.am/img/191n/3s/x4q.jpg" alt="Topaz C3 shoes" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0"></mj-image>
-        <mj-text align="center" color="#000" font-size="15px" font-weight="bold" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
-          <p>TOPAZ C3 SHOES</p>
-          <p style="color: rgb(250, 135, 57);">70&#x20AC;</p>
-        </mj-text>
-        <mj-button background-color="#fa8739" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="https://mjml.io" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
-      </mj-column>
-      <mj-column>
-        <mj-image src="http://191n.mj.am/img/191n/3s/x4r.jpg" alt="Camden backpack" align="center" border="none" width="199px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0"></mj-image>
-        <mj-text align="center" color="#000" font-size="15px" font-weight="bold" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
-          <p>CAMDEN BACKPACK</p>
-          <p style="color: rgb(250, 135, 57);">50&#x20AC;</p>
-        </mj-text>
-        <mj-button background-color="#fa8739" color="#fff" padding="15px 30px" border-radius="3px" href="https://mjml.io" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
-      </mj-column>
-    </mj-section>
 
     <mj-section background-color="#2f323b" padding-bottom="20px" padding-top="20px">
       <mj-column>
