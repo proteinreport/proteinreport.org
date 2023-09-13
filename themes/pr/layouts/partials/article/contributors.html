@@ -3,6 +3,7 @@
 <div class="flex flex-row flex-wrap md:flex-col divide-y-4 border-y-2">
 {{ range $p }}
   {{ $image := .Resources.GetMatch .Params.featured_image }}
+  {{ $img_alt := printf "%s%s" .Title " profile photo" }}
   <!-- {{ $image = $image.Resize "160x160 webp q95" -}} -->
   <a href="{{ .RelPermalink }}" class="flex flex-row sm:w-full md:max-w-1/2 lg:w-full items-center">
     {{ if $image }}
@@ -10,12 +11,12 @@
             {{ partial "picture" (dict
             "ctx" .
             "src" $image
-            "alt" .Title
+            "alt" $img_alt
             "widths" (slice 40 70 150)
             "class" "img-fluid blur-up w-1/3 md:w-1/5 aspect-square w-full object-cover"
             )}}
         {{ else }}
-            <img src="{{ $image.RelPermalink }}" class="aspect-square w-1/3 md:w-1/5 object-cover">
+            <img src="{{ $image.RelPermalink }}" class="aspect-square w-1/3 md:w-1/5 object-cover" alt="{{ $img_alt }}">
         {{ end }}
     {{ end }}
     <p class="text-xl pl-4">{{.Title}}</p>
