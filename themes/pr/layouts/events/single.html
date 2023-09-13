@@ -42,17 +42,18 @@
           <h2 class="text-lg font-bold border-b-2 py-2">Organizer:</h2>
           {{ $logo := .Resources.GetMatch .Params.featured_image -}}
           {{ if $logo -}}
+            {{ $img_alt := printf "%s%s" .Title " logo" }}
             <a class="flex my-2 w-1/2" href="{{ .Params.website }}" target="_blank">
               {{ if .Site.Params.hyas_images }}
                 {{ partial "picture" (dict
                 "ctx" .
                 "src" $logo
-                "alt" .Title
+                "alt" $img_alt
                 "widths" (slice 40 70 150 224 480)
                 "class" "img-fluid blur-up aspect-video object-contain my-2"
                 )}}
               {{ else }}
-                <img src="{{ $logo.RelPermalink }}" class="aspect-video object-contain my-2">
+                <img src="{{ $logo.RelPermalink }}" class="aspect-video object-contain my-2" alt="{{ $img_alt }}">
               {{ end }}
             </a>
           {{ end }}

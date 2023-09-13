@@ -1,4 +1,5 @@
 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+{{ $img_alt := printf "%s%s" .Title " logo" }}
 
 <article class="flex items-center w-full bg-white transition hover:shadow-xl border">
 
@@ -8,12 +9,12 @@
                 {{ partial "picture" (dict
                 "ctx" .
                 "src" $image
-                "alt" .Title
+                "alt" $img_alt
                 "widths" (slice 40 70 150 224 480)
                 "class" "img-fluid blur-up aspect-square w-full object-contain"
                 )}}
             {{ else }}
-                <img src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain">
+                <img src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain" alt="{{ $img_alt }}">
             {{ end }}
         {{ end }}
     </a>
