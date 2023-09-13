@@ -84,6 +84,11 @@
         max-width: 70%;
       }
 
+      .mj-column-per-100 {
+        width: 100% !important;
+        max-width: 100%;
+      }
+
       .mj-column-per-25 {
         width: 25% !important;
         max-width: 25%;
@@ -109,11 +114,6 @@
         max-width: 400px;
       }
 
-      .mj-column-per-100 {
-        width: 100% !important;
-        max-width: 100%;
-      }
-
       .mj-column-px-600 {
         width: 600px !important;
         max-width: 600px;
@@ -135,6 +135,11 @@
     .moz-text-html .mj-column-per-70 {
       width: 70% !important;
       max-width: 70%;
+    }
+
+    .moz-text-html .mj-column-per-100 {
+      width: 100% !important;
+      max-width: 100%;
     }
 
     .moz-text-html .mj-column-per-25 {
@@ -160,11 +165,6 @@
     .moz-text-html .mj-column-px-400 {
       width: 400px !important;
       max-width: 400px;
-    }
-
-    .moz-text-html .mj-column-per-100 {
-      width: 100% !important;
-      max-width: 100%;
     }
 
     .moz-text-html .mj-column-px-600 {
@@ -243,7 +243,33 @@
       </table>
     </div>
     <!--[if mso | IE]></td></tr></table><![endif]-->
-    <!-- BEGIN ARTICLES SECTION -->{{ if .Params.articles }}
+    <!-- BEGIN MESSAGE SECTION -->{{ if .Params.message }}
+    <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                  <tbody>
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                        <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:1.5;text-align:left;color:#333333;">{{ .Content | markdownify }}</div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><![endif]-->
+    {{ end }}<!-- END MESSAGE SECTION --><!-- BEGIN ARTICLES SECTION -->{{ if .Params.articles }}
     {{ if .Params.articles_items }}
     {{ $items = .Params.articles_items }}
     {{ else }}
@@ -320,25 +346,17 @@
                     <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-top:0;text-align:center;">
                       <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:middle;width:300px;" ><![endif]-->
                       <div class="mj-column-px-300 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
-                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
                           <tbody>
                             <tr>
-                              <td style="vertical-align:middle;padding-top:15px;">
-                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
+                              <td align="center" class="list-image" style="width: 200px; height: 133px; font-size: 0px; padding: 10px 25px; padding-top: 0; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-word;" width="200" height="133">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;" class="mj-full-width-mobile">
                                   <tbody>
                                     <tr>
-                                      <td align="center" class="list-image" style="width: 200px; height: 133px; font-size: 0px; padding: 10px 25px; padding-top: 0; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-word;" width="200" height="133">
-                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;" class="mj-full-width-mobile">
-                                          <tbody>
-                                            <tr>
-                                              <td style="width:300px;" class="mj-full-width-mobile">
-                                                <a href="{{ $link }}" target="_blank">
-                                                  <img alt="{{ .Params.title }}" src="{{ $image }}" style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" width="300" height="auto">
-                                                </a>
-                                              </td>
-                                            </tr>
-                                          </tbody>
-                                        </table>
+                                      <td style="width:300px;" class="mj-full-width-mobile">
+                                        <a href="{{ $link }}" target="_blank">
+                                          <img alt="{{ .Params.title }}" src="{{ $image }}" style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" width="300" height="auto">
+                                        </a>
                                       </td>
                                     </tr>
                                   </tbody>
@@ -387,25 +405,17 @@
                     <td style="direction:rtl;font-size:0px;padding:20px 0;padding-bottom:0px;padding-top:0;text-align:center;">
                       <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:middle;width:300px;" ><![endif]-->
                       <div class="mj-column-px-300 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
-                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
                           <tbody>
                             <tr>
-                              <td style="vertical-align:middle;padding-top:15px;">
-                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
+                              <td align="center" class="list-image" style="width: 200px; height: 133px; font-size: 0px; padding: 10px 25px; padding-top: 0; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-word;" width="200" height="133">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;" class="mj-full-width-mobile">
                                   <tbody>
                                     <tr>
-                                      <td align="center" class="list-image" style="width: 200px; height: 133px; font-size: 0px; padding: 10px 25px; padding-top: 0; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-word;" width="200" height="133">
-                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;" class="mj-full-width-mobile">
-                                          <tbody>
-                                            <tr>
-                                              <td style="width:300px;" class="mj-full-width-mobile">
-                                                <a href="{{ $link }}" target="_blank">
-                                                  <img alt="{{ .Params.title }}" src="{{ $image }}" style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" width="300" height="auto">
-                                                </a>
-                                              </td>
-                                            </tr>
-                                          </tbody>
-                                        </table>
+                                      <td style="width:300px;" class="mj-full-width-mobile">
+                                        <a href="{{ $link }}" target="_blank">
+                                          <img alt="{{ .Params.title }}" src="{{ $image }}" style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" width="300" height="auto">
+                                        </a>
                                       </td>
                                     </tr>
                                   </tbody>
@@ -1199,7 +1209,7 @@
                               <td align="left" style="font-size:0px;padding:10px 25px;padding-top:15px;padding-right:15px;padding-bottom:0px;padding-left:15px;word-break:break-word;">
                                 <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#333333;"><a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
                                   <br>
-                                  <p><a href="{{ $link }}" target="_blank">{{ replace $u.Hostname "www." "" }}</a></p>
+                                  <p><a href="{{ $link }}" target="_blank" style="text-decoration: none; color: #3b4f41;">{{ replace $u.Hostname "www." "" }}</a></p>
                                 </div>
                               </td>
                             </tr>
