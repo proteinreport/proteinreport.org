@@ -119,8 +119,8 @@
       {{ $image := "" }}
       {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
       {{ $image = $image.Fill "600x400" }}
-      {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
-      {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+      {{ $image = $image.Permalink }}
+      {{ $link := .Permalink }}
     </mj-raw>
 
     <mj-raw>
@@ -199,8 +199,8 @@
         {{ $image := "" }}
         {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
         {{ $image = $image.Fill "600x400" }}
-        {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
-        {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+        {{ $image = $image.Permalink }}
+        {{ $link := .Permalink }}
       </mj-raw>
       <mj-column width="200px" padding-top="15px" vertical-align="middle">
         <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
@@ -249,8 +249,8 @@
         {{ $image := "" }}
         {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
         {{ $image = $image.Fill "600x150 q100" }}
-        {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
-        {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+        {{ $image = $image.Permalink }}
+        {{ $link := .Params.link }}
       </mj-raw>
       <mj-column width="100%" padding-top="15px" vertical-align="middle">
         <mj-image href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
@@ -310,32 +310,32 @@
 
         {{ $filteredArticles = sort $filteredArticles "Params.start_date" "asc" }}
         {{ range first $items $filteredArticles }}
-        {{ $image := "" }}
-        {{ if .Params.featured_image }}
-        {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
-        {{ $image = $image.Fit "400x400" }}
-        {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
-        {{ else }}
-        {{ $image = resources.Get "images/article_placeholder_wide.png" }}
-        {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
-        {{ end }}
-        {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
-        {{ $location := "" }}
-        {{ if or (.Params.city) (.Params.country) }}
-        {{ if .Params.city }}
-        {{ if .Params.country }}
-        {{ if ne .Params.city .Params.country }}
-        {{ $location = printf "%s, %s" .Params.city .Params.country }}
-        {{ else }}
-        {{ $location = printf "%s" .Params.city }}
-        {{ end }}
-        {{ else }}
-        {{ $location = printf "%s" .Params.city }}
-        {{ end }}
-        {{ else if .Params.country }}
-        {{ $location = printf "%s" .Params.country }}
-        {{ end }}
-        {{ end }}
+          {{ $image := "" }}
+          {{ if .Params.featured_image }}
+            {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+            {{ $image = $image.Fit "400x400" }}
+            {{ $image = $image.Permalink }}
+          {{ else }}
+            {{ $image = resources.Get "images/article_placeholder_wide.png" }}
+            {{ $image = $image.Permalink }}
+          {{ end }}
+          {{ $link := .Permalink }}
+          {{ $location := "" }}
+          {{ if or (.Params.city) (.Params.country) }}
+            {{ if .Params.city }}
+              {{ if .Params.country }}
+                {{ if ne .Params.city .Params.country }}
+                  {{ $location = printf "%s, %s" .Params.city .Params.country }}
+                {{ else }}
+                  {{ $location = printf "%s" .Params.city }}
+                {{ end }}
+              {{ else }}
+                {{ $location = printf "%s" .Params.city }}
+              {{ end }}
+            {{ else if .Params.country }}
+              {{ $location = printf "%s" .Params.country }}
+            {{ end }}
+          {{ end }}
       </mj-raw>
       <mj-group vertical-align="middle" css-class="event-row">
         <mj-column width="25%" padding="10px" vertical-align="middle" background-color="#fff">
@@ -365,11 +365,6 @@
             <mj-raw>{{ end }}</mj-raw>
           </mj-text>
         </mj-column>
-        <!--
-        <mj-column width="20%" vertical-align="middle">
-          <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="false" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
-        </mj-column>
-        -->
       </mj-group>
       <mj-raw>
         {{ end }}
@@ -412,38 +407,38 @@
         {{ $articles = where $articles "Params.date" "lt" $date }}
         {{ $closing := "" }}
         {{ range first 5 $articles }}
-        {{ $image := "" }}
-        {{ if .Params.company}}
-        {{ $company_uuid := .Params.company }}
-        {{ $companies := where site.RegularPages "Type" "directory" }}
-        {{ with where $companies ".Params.uuid" $company_uuid }}
-        {{ with index . 0 }}
-        {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
-        {{ $image = $image.Fit "600x400" }}
-        {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
-        {{ end }}
-        {{ end }}
-        {{ end }}
-        {{ if .Params.closing_date }}
-        {{ $closing = .Params.closing_date | dateFormat "2006-01-02" }}
-        {{ end }}
-        {{ $location := "" }}
-        {{ if or (.Params.city) (.Params.country) }}
-        {{ if .Params.city }}
-        {{ if .Params.country }}
-        {{ if ne .Params.city .Params.country }}
-        {{ $location = printf "%s, %s" .Params.city .Params.country }}
-        {{ else }}
-        {{ $location = printf "%s" .Params.city }}
-        {{ end }}
-        {{ else }}
-        {{ $location = printf "%s" .Params.city }}
-        {{ end }}
-        {{ else if .Params.country }}
-        {{ $location = printf "%s" .Params.country }}
-        {{ end }}
-        {{ end }}
-        {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+          {{ $image := "" }}
+          {{ if .Params.company}}
+            {{ $company_uuid := .Params.company }}
+            {{ $companies := where site.RegularPages "Type" "directory" }}
+            {{ with where $companies ".Params.uuid" $company_uuid }}
+              {{ with index . 0 }}
+                {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+                {{ $image = $image.Fit "600x400" }}
+                {{ $image = $image.Permalink }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          {{ if .Params.closing_date }}
+            {{ $closing = .Params.closing_date | dateFormat "2006-01-02" }}
+          {{ end }}
+          {{ $location := "" }}
+          {{ if or (.Params.city) (.Params.country) }}
+            {{ if .Params.city }}
+              {{ if .Params.country }}
+                {{ if ne .Params.city .Params.country }}
+                  {{ $location = printf "%s, %s" .Params.city .Params.country }}
+                {{ else }}
+                  {{ $location = printf "%s" .Params.city }}
+                {{ end }}
+              {{ else }}
+                {{ $location = printf "%s" .Params.city }}
+              {{ end }}
+            {{ else if .Params.country }}
+              {{ $location = printf "%s" .Params.country }}
+            {{ end }}
+          {{ end }}
+          {{ $link := .Permalink }}
       </mj-raw>
       <mj-group>
         <mj-column width="25%" padding-top="15px" vertical-align="middle">
@@ -527,17 +522,17 @@
         {{ $articles = sort $articles "Date" "desc" }}
         {{ $articles = where $articles "Params.date" "lt" $date | shuffle }}
         {{ range first 5 $articles }}
-        {{ $image := "" }}
-        {{ if .Params.featured_image }}
-        {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
-        {{ $image = $image.Fill "600x400" }}
-        {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
-        {{ else }}
-        {{ $image = resources.Get "images/article_placeholder_wide.png" }}
-        {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
-        {{ end }}
-        {{ $link := .Params.link }}
-        {{ $u := urls.Parse $link }}
+          {{ $image := "" }}
+          {{ if .Params.featured_image }}
+            {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+            {{ $image = $image.Fill "600x400" }}
+            {{ $image = $image.Permalink }}
+          {{ else }}
+            {{ $image = resources.Get "images/article_placeholder_wide.png" }}
+            {{ $image = $image.Permalink }}
+          {{ end }}
+          {{ $link := .Params.link }}
+          {{ $u := urls.Parse $link }}
       </mj-raw>
       <mj-column width="200px" padding-top="15px" vertical-align="middle">
         <mj-image href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>

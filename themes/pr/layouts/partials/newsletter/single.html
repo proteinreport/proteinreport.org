@@ -359,8 +359,8 @@
     {{ $image := "" }}
     {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
     {{ $image = $image.Fill "600x400" }}
-    {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
-    {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}{{ if ne (mod $i 2) 0 }}
+    {{ $image = $image.Permalink }}
+    {{ $link := .Permalink }}{{ if ne (mod $i 2) 0 }}
     <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
       <tbody>
         <tr>
@@ -566,8 +566,8 @@
                       {{ $image := "" }}
                       {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
                       {{ $image = $image.Fill "600x400" }}
-                      {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
-                      {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+                      {{ $image = $image.Permalink }}
+                      {{ $link := .Permalink }}
                       <!--[if mso | IE]><td class="" style="vertical-align:middle;width:200px;" ><![endif]-->
                       <div class="mj-column-px-200 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
@@ -684,8 +684,8 @@
                       {{ $image := "" }}
                       {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
                       {{ $image = $image.Fill "600x150 q100" }}
-                      {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
-                      {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+                      {{ $image = $image.Permalink }}
+                      {{ $link := .Params.link }}
                       <!--[if mso | IE]><td class="" style="vertical-align:middle;width:600px;" ><![endif]-->
                       <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
@@ -825,12 +825,12 @@
                       {{ if .Params.featured_image }}
                       {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
                       {{ $image = $image.Fit "400x400" }}
-                      {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+                      {{ $image = $image.Permalink }}
                       {{ else }}
                       {{ $image = resources.Get "images/article_placeholder_wide.png" }}
-                      {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+                      {{ $image = $image.Permalink }}
                       {{ end }}
-                      {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+                      {{ $link := .Permalink }}
                       {{ $location := "" }}
                       {{ if or (.Params.city) (.Params.country) }}
                       {{ if .Params.city }}
@@ -903,11 +903,7 @@
                             </tbody>
                           </table>
                         </div>
-                        <!--[if mso | IE]></td><![endif]-->
-                        <!-- <mj-column width="20%" vertical-align="middle">
-          <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="false" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
-        </mj-column> -->
-                        <!--[if mso | IE]></tr></table><![endif]-->
+                        <!--[if mso | IE]></td></tr></table><![endif]-->
                       </div>
                       <!--[if mso | IE]></td><![endif]-->
                       {{ end }}
@@ -1001,7 +997,7 @@
                       {{ with index . 0 }}
                       {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
                       {{ $image = $image.Fit "600x400" }}
-                      {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+                      {{ $image = $image.Permalink }}
                       {{ end }}
                       {{ end }}
                       {{ end }}
@@ -1024,7 +1020,7 @@
                       {{ $location = printf "%s" .Params.country }}
                       {{ end }}
                       {{ end }}
-                      {{ $link := printf "%s%s" .Site.BaseURL .RelPermalink }}
+                      {{ $link := .Permalink }}
                       <!--[if mso | IE]><td class="" style="width:600px;" ><![endif]-->
                       <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0;line-height:0;text-align:left;display:inline-block;width:100%;direction:ltr;">
                         <!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:middle;width:150px;" ><![endif]-->
@@ -1191,10 +1187,10 @@
                       {{ if .Params.featured_image }}
                       {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
                       {{ $image = $image.Fill "600x400" }}
-                      {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+                      {{ $image = $image.Permalink }}
                       {{ else }}
                       {{ $image = resources.Get "images/article_placeholder_wide.png" }}
-                      {{ $image = printf "%s%s" .Site.BaseURL $image.RelPermalink }}
+                      {{ $image = $image.Permalink }}
                       {{ end }}
                       {{ $link := .Params.link }}
                       {{ $u := urls.Parse $link }}
