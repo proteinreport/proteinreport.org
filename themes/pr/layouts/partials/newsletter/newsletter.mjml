@@ -576,7 +576,7 @@
           {{ range .Site.Menus.main }}
         </mj-raw>
         <mj-text align="center" color="#fff" font-size="13px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0">
-          <a style="color: #fff; text-decoration: none; line-height: 2;" href="{{ .URL }}">{{ .Name }}</a>
+          <a style="color: #fff; text-decoration: none; line-height: 2;" href="{{ $.Site.BaseURL }}{{ .URL }}">{{ .Name }}</a>
         </mj-text>
         <mj-raw>
           {{ end }}
@@ -590,7 +590,7 @@
           {{ range .Site.Menus.technology }}
         </mj-raw>
         <mj-text align="center" color="#fff" font-size="13px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0">
-          <a style="color: #fff; text-decoration: none; line-height: 2;" href="{{ .URL }}">{{ .Name }}</a>
+          <a style="color: #fff; text-decoration: none; line-height: 2;" href="{{ $.Site.BaseURL }}{{ .URL }}">{{ .Name }}</a>
         </mj-text>
         <mj-raw>
           {{ end }}
@@ -604,7 +604,7 @@
           {{ range .Site.Menus.topics }}
         </mj-raw>
         <mj-text align="center" color="#fff" font-size="13px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0">
-          <a style="color: #fff; text-decoration: none; line-height: 2;" href="{{ .URL }}">{{ .Name }}</a>
+          <a style="color: #fff; text-decoration: none; line-height: 2;" href="{{ $.Site.BaseURL }}{{ .URL }}">{{ .Name }}</a>
         </mj-text>
         <mj-raw>
           {{ end }}
@@ -621,7 +621,7 @@
           {{ range .Site.Menus.products }}
         </mj-raw>
         <mj-text align="center" color="#fff" font-size="13px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0">
-          <a style="color: #fff; text-decoration: none; line-height: 2;" href="{{ .URL }}">{{ .Name }}</a>
+          <a style="color: #fff; text-decoration: none; line-height: 2;" href="{{ $.Site.BaseURL }}{{ .URL }}">{{ .Name }}</a>
         </mj-text>
         <mj-raw>
           {{ end }}
@@ -635,7 +635,7 @@
           {{ range .Site.Menus.regions }}
         </mj-raw>
         <mj-text align="center" color="#fff" font-size="13px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0">
-          <a style="color: #fff; text-decoration: none; line-height: 2;" href="{{ .URL }}">{{ .Name }}</a>
+          <a style="color: #fff; text-decoration: none; line-height: 2;" href="{{ $.Site.BaseURL }}{{ .URL }}">{{ .Name }}</a>
         </mj-text>
         <mj-raw>
           {{ end }}
@@ -649,7 +649,7 @@
           {{ range .Site.Menus.about }}
         </mj-raw>
         <mj-text align="center" color="#fff" font-size="13px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0">
-          <a style="color: #fff; text-decoration: none; line-height: 2;" href="{{ .URL }}">{{ .Name }}</a>
+          <a style="color: #fff; text-decoration: none; line-height: 2;" href="{{ $.Site.BaseURL }}{{ .URL }}">{{ .Name }}</a>
         </mj-text>
         <mj-raw>
           {{ end }}

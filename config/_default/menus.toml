@@ -11,32 +11,32 @@
 
 [[technology]]
   name = "Agriculture & Plant Protein"
-  pageRef = "/agriculture-plant-protein"
+  pageRef = "/plant-based"
   weight = 20
 
 [[technology]]
   name = "Microbial & Recombinant"
-  pageRef = "/microbial-recombinant"
+  pageRef = "/microbial"
   weight = 30
 
 [[technology]]
   name = "Cell Culture & Tissue Engineering"
-  pageRef = "/cell-culture-tissue-engineering"
+  pageRef = "/cell-based"
   weight = 40
 
 [[technology]]
   name = "Fungiculture & Mycoprotein"
-  pageRef = "/fungiculture-mycoprotein"
+  pageRef = "/fungi"
   weight = 50
 
 [[technology]]
   name = "Algaculture & Algal Protein"
-  pageRef = "/algaculture-algal-protein"
+  pageRef = "/algae"
   weight = 60
 
 [[technology]]
   name = "Livestock & Animals"
-  pageRef = "/livestock-animals"
+  pageRef = "/animal"
   weight = 70
 
 # Products Menu
