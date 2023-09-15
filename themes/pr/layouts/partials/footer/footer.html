@@ -89,92 +89,16 @@
                 </div>
 
                 <div class="col-span-2 sm:col-span-1">
-                    <p class="font-medium text-gray-900">Technology</p>
+                    <p class="font-medium text-gray-900">Technologies</p>
 
                     <ul class="mt-6 space-y-4 text-sm">
-                        <li>
-                            <a href="/plant-based" class="text-gray-700 transition hover:opacity-75">
-                                Agriculture & Plant Protein
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/microbial" class="text-gray-700 transition hover:opacity-75">
-                                Microbial & Recombinant
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/cell-based" class="text-gray-700 transition hover:opacity-75">
-                                Cell Culture & Tissue Engineering
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/fungi" class="text-gray-700 transition hover:opacity-75">
-                                Fungiculture & Mycoprotein
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/algae" class="text-gray-700 transition hover:opacity-75">
-                                Algaculture & Algal Protein
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/animal" class="text-gray-700 transition hover:opacity-75">
-                                Livestock & Animals
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-span-2 sm:col-span-1">
-                    <p class="font-medium text-gray-900">Products</p>
-
-                    <ul class="mt-6 space-y-4 text-sm">
-                        <li>
-                            <a href="/meat" class="text-gray-700 transition hover:opacity-75">
-                                Meat
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/dairy" class="text-gray-700 transition hover:opacity-75">
-                                Dairy
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/eggs" class="text-gray-700 transition hover:opacity-75">
-                                Eggs
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/seafood" class="text-gray-700 transition hover:opacity-75">
-                                Seafood
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/ingredients" class="text-gray-700 transition hover:opacity-75">
-                                Ingredients
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/pet-food" class="text-gray-700 transition hover:opacity-75">
-                                Pet Food
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/feed" class="text-gray-700 transition hover:opacity-75">
-                                Feed
-                            </a>
-                        </li>
+                        {{ range .Site.Menus.technology }}
+                            <li>
+                                <a href="{{ .URL }}" class="text-gray-700 transition hover:opacity-75">
+                                    {{ .Name }}
+                                </a>
+                            </li>
+                        {{ end }}
                     </ul>
                 </div>
 
@@ -182,83 +106,41 @@
                     <p class="font-medium text-gray-900">Topics</p>
 
                     <ul class="mt-6 space-y-4 text-sm">
-                        <li>
-                            <a href="/business" class="text-gray-700 transition hover:opacity-75">
-                                Business
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/environment" class="text-gray-700 transition hover:opacity-75">
-                                Environment
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/policy" class="text-gray-700 transition hover:opacity-75">
-                                Policy
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/sci-tech" class="text-gray-700 transition hover:opacity-75">
-                                Sci-Tech
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/health" class="text-gray-700 transition hover:opacity-75">
-                                Health
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/culture" class="text-gray-700 transition hover:opacity-75">
-                                Culture
-                            </a>
-                        </li>
+                        {{ range .Site.Menus.topics }}
+                            <li>
+                                <a href="{{ .URL }}" class="text-gray-700 transition hover:opacity-75">
+                                    {{ .Name }}
+                                </a>
+                            </li>
+                        {{ end }}
                     </ul>
                 </div>
 
                 <div class="col-span-2 sm:col-span-1">
-                    <p class="font-medium text-gray-900">Explore</p>
+                    <p class="font-medium text-gray-900">Products</p>
 
                     <ul class="mt-6 space-y-4 text-sm">
-                        <li>
-                            <a href="/articles" class="text-gray-700 transition hover:opacity-75">
-                                Articles
-                            </a>
-                        </li>
+                        {{ range .Site.Menus.products }}
+                            <li>
+                                <a href="{{ .URL }}" class="text-gray-700 transition hover:opacity-75">
+                                    {{ .Name }}
+                                </a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                </div>
 
-                        <li>
-                            <a href="/newswire" class="text-gray-700 transition hover:opacity-75">
-                                Newswire
-                            </a>
-                        </li>
+                <div class="col-span-2 sm:col-span-1">
+                    <p class="font-medium text-gray-900">Regions</p>
 
-                        <li>
-                            <a href="/events" class="text-gray-700 transition hover:opacity-75">
-                                Events
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/jobs" class="text-gray-700 transition hover:opacity-75">
-                                Jobs
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/directory" class="text-gray-700 transition hover:opacity-75">
-                                Directory
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/resources" class="text-gray-700 transition hover:opacity-75">
-                                Resources
-                            </a>
-                        </li>
+                    <ul class="mt-6 space-y-4 text-sm">
+                        {{ range .Site.Menus.regions }}
+                            <li>
+                                <a href="{{ .URL }}" class="text-gray-700 transition hover:opacity-75">
+                                    {{ .Name }}
+                                </a>
+                            </li>
+                        {{ end }}
                     </ul>
                 </div>
 
@@ -266,47 +148,13 @@
                     <p class="font-medium text-gray-900">About</p>
 
                     <ul class="mt-6 space-y-4 text-sm">
-                        <li>
-                            <a href="/about" class="text-gray-700 transition hover:opacity-75">
-                                About
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/contributors" class="text-gray-700 transition hover:opacity-75">
-                                Authors
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/code-of-practice" class="text-gray-700 transition hover:opacity-75">
-                                Code of Practice
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/write-for-us" class="text-gray-700 transition hover:opacity-75">
-                                Write for Us
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/student-essay-contest-2021" class="text-gray-700 transition hover:opacity-75">
-                                Student Essay Contest
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/support-us" class="text-gray-700 transition hover:opacity-75">
-                                Support Us
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/contact" class="text-gray-700 transition hover:opacity-75">
-                                Contact
-                            </a>
-                        </li>
+                        {{ range .Site.Menus.about }}
+                            <li>
+                                <a href="{{ .URL }}" class="text-gray-700 transition hover:opacity-75">
+                                    {{ .Name }}
+                                </a>
+                            </li>
+                        {{ end }}
                     </ul>
                 </div>
 
