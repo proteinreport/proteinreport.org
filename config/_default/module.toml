@@ -78,3 +78,7 @@
 [[mounts]]
   source = "node_modules/@glide/glidejs/dist"
   target = "assets"
+
+[[mounts]]
+  source = "node_modules/@tabler"
+  target = "assets"

@@ -1,38 +1,247 @@
 #[[main]]
 #  name = "GitHub"
-#  url = "https://github.com/h-enk/hyas"
+#  url = "https://github.com/proteinreport/proteinreport.org"
 #  weight = 10
 
-[[main]]
+# Technology Menu
+# [[technology]]
+#  name = "Technology"
+#  pageRef = "/technology"
+#  weight = 10
+
+[[technology]]
   name = "Agriculture & Plant Protein"
-  weight = 10
+  pageRef = "/agriculture-plant-protein"
+  weight = 20
+
+[[technology]]
+  name = "Microbial & Recombinant"
+  pageRef = "/microbial-recombinant"
+  weight = 30
+
+[[technology]]
+  name = "Cell Culture & Tissue Engineering"
+  pageRef = "/cell-culture-tissue-engineering"
+  weight = 40
+
+[[technology]]
+  name = "Fungiculture & Mycoprotein"
+  pageRef = "/fungiculture-mycoprotein"
+  weight = 50
+
+[[technology]]
+  name = "Algaculture & Algal Protein"
+  pageRef = "/algaculture-algal-protein"
+  weight = 60
+
+[[technology]]
+  name = "Livestock & Animals"
+  pageRef = "/livestock-animals"
+  weight = 70
+
+# Products Menu
+#[[products]]
+#  name = "Products"
+#  pageRef = "/products"
+#  weight = 10
+
+[[products]]
+  name = "Meat"
+  pageRef = "/meat"
+  weight = 20
+
+[[products]]
+  name = "Dairy"
+  pageRef = "/dairy"
+  weight = 30
+
+[[products]]
+  name = "Eggs"
+  pageRef = "/eggs"
+  weight = 40
+
+[[products]]
+  name = "Seafood"
+  pageRef = "/seafood"
+  weight = 50
+
+[[products]]
+  name = "Ingredients"
+  pageRef = "/ingredients"
+  weight = 60
+
+[[products]]
+  name = "Pet Food"
+  pageRef = "/pet-food"
+  weight = 70
+
+[[products]]
+  name = "Feed"
+  pageRef = "/feed"
+  weight = 80
+
+# Topics Menu
+#[[topics]]
+#  name = "Topics"
+#  pageRef = "/topics"
+#  weight = 10
+
+[[topics]]
+  name = "Business"
+  pageRef = "/business"
+  weight = 20
+
+[[topics]]
+  name = "Environment"
+  pageRef = "/environment"
+  weight = 30
+
+[[topics]]
+  name = "Policy"
+  pageRef = "/policy"
+  weight = 40
+
+[[topics]]
+  name = "Sci-Tech"
+  pageRef = "/sci-tech"
+  weight = 50
+
+[[topics]]
+  name = "Health"
+  pageRef = "/health"
+  weight = 60
+
+[[topics]]
+  name = "Culture"
+  pageRef = "/culture"
+  weight = 70
+
+# Regions Menu
+#[[regions]]
+#  name = "Regions"
+#  pageRef = "/regions"
+#  weight = 10
+
+[[regions]]
+  name = "Africa"
+  pageRef = "/africa"
+  weight = 20
+
+[[regions]]
+  name = "Asia"
+  pageRef = "/asia"
+  weight = 30
+
+[[regions]]
+  name = "Europe"
+  pageRef = "/europe"
+  weight = 40
+
+[[regions]]
+  name = "Latin America & Caribbean"
+  pageRef = "/latin-america-caribbean"
+  weight = 50
+
+[[regions]]
+  name = "Middle East"
+  pageRef = "/middle-east"
+  weight = 60
+
+[[regions]]
+  name = "Oceania"
+  pageRef = "/oceania"
+  weight = 70
+
+[[regions]]
+  name = "US & Canada"
+  pageRef = "/us-canada"
+  weight = 80
+
+[[regions]]
+  name = "International"
+  pageRef = "/international"
+  weight = 90
+
+# Main Menu
 
 [[main]]
-  name = "Fungiculture & Mycoprotein"
+  name = "Articles"
+  pageRef = "/articles"
   weight = 20
 
 [[main]]
-  name = "Algaculture & Algal Protein"
+  name = "Newswire"
+  pageRef = "/newswire"
   weight = 30
 
 [[main]]
-  name = "Microbial & Recombinant Protein"
+  name = "Events"
+  pageRef = "/events"
   weight = 40
 
 [[main]]
-  name = "Cell Culture & Tissue Engineering"
+  name = "Jobs"
+  pageRef = "/jobs"
   weight = 50
 
 [[main]]
-  name = "Livestock & Animals"
+  name = "Directory"
+  pageRef = "/directory"
   weight = 60
+
+[[main]]
+  name = "Resources"
+  pageRef = "/resources"
+  weight = 70
+
+[[main]]
+  name = "About"
+  pageRef = "/about"
+  weight = 80
+
+# About Menu
+[[about]]
+  name = "About"
+  pageRef = "/about"
+  weight = 10
+
+[[about]]
+  name = "Authors"
+  pageRef = "/authors"
+  weight = 20
+
+[[about]]
+  name = "Code of Practice"
+  pageRef = "/code-of-practice"
+  weight = 30
+
+[[about]]
+  name = "Write for Us"
+  pageRef = "/write-for-us"
+  weight = 40
+
+[[about]]
+  name = "Student Essay Contest"
+  pageRef = "/student-essay-contest-2021"
+  weight = 50
+
+[[about]]
+  name = "Support Us"
+  pageRef = "/support-us"
+  weight = 60
+
+[[about]]
+  name = "Contact"
+  pageRef = "/contact"
+  weight = 70
+
 
 [[social]]
   name = "LinkedIn"
-  url = "https://www.linkedin.com/in/henkverlinde/"
+  url = "https://www.linkedin.com/company/proteinreport"
   weight = 20
 
 [[social]]
   name = "Twitter"
-  url = "https://twitter.com/henkverlinde"
+  url = "https://twitter.com/Protein_Report"
   weight = 30

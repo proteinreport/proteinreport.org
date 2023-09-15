@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="49.817989mm"
+   height="26.342188mm"
+   viewBox="0 0 49.81799 26.342188"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo-inverted.svg"
+   inkscape:export-filename="C:\Users\N\Desktop\Google Drive Sync\PR\Logo\logo-inverted.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.5011257"
+     inkscape:cx="153.27932"
+     inkscape:cy="45.39666"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-73.071896,227.07752)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.93408191;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 180.78516,53.189453 V 0.96679688 H 0.96679688 V 86.634766 H 53.089844"
+       transform="matrix(0.26458333,0,0,0.26458333,73.071896,-227.07752)"
+       id="rect968"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25em;font-family:Voltaire;-inkscape-font-specification:Voltaire;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="78.62542"
+       y="-212.82153"
+       id="text837-7-9-84-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan835-1-9-4-2-2"
+         x="78.62542"
+         y="-212.82153"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Medium';fill:#ffffff;stroke-width:0.26458332;">protein</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25em;font-family:Voltaire;-inkscape-font-specification:Voltaire;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="89.737923"
+       y="-203.27533"
+       id="text841-5-0-9-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan839-2-3-3-7-7"
+         x="89.737923"
+         y="-203.27533"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;stroke-width:0.26458332;">report</tspan></text>
+  </g>
+</svg>
