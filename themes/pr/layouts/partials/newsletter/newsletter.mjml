@@ -59,17 +59,24 @@
   <mj-body background-color="#eee">
 
     <mj-section>
-      <mj-column width="30%">
-        <mj-image align="left" href="{{ .Site.BaseURL }}" src="{{ $logo }}" alt="Protein Report logo" align="center" padding="0"></mj-image>
-      </mj-column>
-      <mj-column width="70%">
-        <mj-text align="right" font-size="14px" font-weight="500" color="#333">
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="#333">
           <a href="{$url}" style="color: #333;">View this email in your browser</a>
         </mj-text>
-        <mj-text align="right" font-size="16px" color="#333">
-          <span>{{ .Params.date | dateFormat "January 2, 2006" | upper }}</span>
-        </mj-text>
       </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image align="left" href="{{ .Site.BaseURL }}" src="{{ $logo }}" alt="Protein Report logo" align="center" padding="0"></mj-image>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text align="right" font-size="16px" color="#333">
+            <span>{{ .Params.date | dateFormat "January 2, 2006" | upper }}</span>
+          </mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
 
     <!-- BEGIN MESSAGE SECTION -->
@@ -97,15 +104,15 @@
       {{ end }}
     </mj-raw>
 
-    <mj-section full-width="full-width" background-color="#444" padding-bottom="0px" padding-top="0">
+    <mj-section full-width="full-width" background-color="#444" padding="25px 10px">
       <mj-column width="25%" vertical-align="middle">
-        <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-          <p>ARTICLES</p>
+        <mj-text align="left" color="#fff" font-size="18px" padding="5px">
+          <span>ARTICLES</span>
         </mj-text>
       </mj-column>
       <mj-column width="75%" vertical-align="middle">
-        <mj-text align="left" color="#fff" font-size="16px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-          <p>Insight and analysis from subject-matter experts</p>
+        <mj-text align="left" color="#fff" font-size="16px" padding="5px">
+          <span>Insight and analysis from subject-matter experts</span>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -177,15 +184,15 @@
       {{ end }}
     </mj-raw>
 
-    <mj-section full-width="full-width" background-color="#444" padding-bottom="0px" padding-top="0">
+    <mj-section full-width="full-width" background-color="#444" padding="25px 10px">
       <mj-column width="25%" vertical-align="middle">
-        <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-          <p>NEWSWIRE</p>
+        <mj-text align="left" color="#fff" font-size="18px" padding="5px">
+          <span>NEWSWIRE</span>
         </mj-text>
       </mj-column>
       <mj-column width="75%" vertical-align="middle">
-        <mj-text align="left" color="#fff" font-size="16px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-          <p>Press releases from companies and organizations</p>
+        <mj-text align="left" color="#fff" font-size="16px" padding="5px">
+          <span>Press releases from companies and organizations</span>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -282,15 +289,15 @@
       {{ end }}
     </mj-raw>
 
-    <mj-section full-width="full-width" background-color="#444" padding-bottom="0px" padding-top="0">
+    <mj-section full-width="full-width" background-color="#444" padding="25px 10px">
       <mj-column width="25%" vertical-align="middle">
-        <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-          <p>EVENTS</p>
+        <mj-text align="left" color="#fff" font-size="18px" padding="5px">
+          <span>EVENTS</span>
         </mj-text>
       </mj-column>
       <mj-column width="75%" vertical-align="middle">
-        <mj-text align="left" color="#fff" font-size="16px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-          <p>Upcoming conferences and summits</p>
+        <mj-text align="left" color="#fff" font-size="16px" padding="5px">
+          <span>Upcoming conferences and summits</span>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -387,15 +394,15 @@
       {{ end }}
     </mj-raw>
 
-    <mj-section full-width="full-width" background-color="#444" padding-bottom="0px" padding-top="0">
+    <mj-section full-width="full-width" background-color="#444" padding="25px 10px">
       <mj-column width="25%" vertical-align="middle">
-        <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-          <p>JOBS</p>
+        <mj-text align="left" color="#fff" font-size="18px" padding="5px">
+          <span>JOBS</span>
         </mj-text>
       </mj-column>
       <mj-column width="75%" vertical-align="middle">
-        <mj-text align="left" color="#fff" font-size="16px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-          <p>Career and consulting opportunities</p>
+        <mj-text align="left" color="#fff" font-size="16px" padding="5px">
+          <span>Career and consulting opportunities</span>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -503,15 +510,15 @@
       {{ end }}
     </mj-raw>
 
-    <mj-section full-width="full-width" background-color="#444" padding-bottom="0px" padding-top="0">
+    <mj-section full-width="full-width" background-color="#444" padding="25px 10px">
       <mj-column width="25%" vertical-align="middle">
-        <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-          <p>RESOURCES</p>
+        <mj-text align="left" color="#fff" font-size="18px" padding="5px">
+          <span>RESOURCES</span>
         </mj-text>
       </mj-column>
       <mj-column width="75%" vertical-align="middle">
-        <mj-text align="left" color="#fff" font-size="16px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-          <p>Academic articles and industry reports</p>
+        <mj-text align="left" color="#fff" font-size="16px" padding="5px">
+          <span>Academic articles and industry reports</span>
         </mj-text>
       </mj-column>
     </mj-section>
