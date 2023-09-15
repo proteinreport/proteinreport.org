@@ -1,5 +1,3 @@
-console.log("Script is loaded");
-
 // Cookie functions
 function setCookie(name, value, days) {
     const date = new Date();
@@ -61,8 +59,6 @@ if (!getCookie('popupClosedOrSubmitted')) {
 
         const scrollPosition = window.scrollY + window.innerHeight;
         const halfPage = document.documentElement.scrollHeight / 2;
-
-        console.log("Scroll position:", scrollPosition, "Half page:", halfPage);
 
         if (scrollPosition > halfPage) {
             popup.style.display = 'flex';
