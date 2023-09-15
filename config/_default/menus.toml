@@ -194,12 +194,8 @@
   pageRef = "/resources"
   weight = 70
 
-[[main]]
-  name = "About"
-  pageRef = "/about"
-  weight = 80
-
 # About Menu
+
 [[about]]
   name = "About"
   pageRef = "/about"
@@ -207,7 +203,7 @@
 
 [[about]]
   name = "Authors"
-  pageRef = "/authors"
+  pageRef = "/contributors"
   weight = 20
 
 [[about]]
@@ -224,11 +220,6 @@
   name = "Student Essay Contest"
   pageRef = "/student-essay-contest-2021"
   weight = 50
-
-[[about]]
-  name = "Support Us"
-  pageRef = "/support-us"
-  weight = 60
 
 [[about]]
   name = "Contact"
