@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-style inline="inline">
+    <mj-style>
       .list-image {
         width: 200px;
         height: 133px;
@@ -97,11 +97,11 @@
 
     <mj-raw>
       {{ if .Params.articles }}
-      {{ if .Params.articles_items }}
-      {{ $items = .Params.articles_items }}
-      {{ else }}
-      {{ $items = 5 }}
-      {{ end }}
+        {{ if .Params.articles_items }}
+          {{ $items = .Params.articles_items }}
+        {{ else }}
+          {{ $items = 5 }}
+        {{ end }}
     </mj-raw>
 
     <mj-section full-width="full-width" background-color="#444" padding="25px 10px">
@@ -123,11 +123,11 @@
       {{ $articles = where $articles "Params.date" "lt" $date }}
       {{ $i := 1 }}
       {{ range first $items $articles }}
-      {{ $image := "" }}
-      {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
-      {{ $image = $image.Fill "600x400" }}
-      {{ $image = $image.Permalink }}
-      {{ $link := .Permalink }}
+        {{ $image := "" }}
+        {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+        {{ $image = $image.Fill "600x400" }}
+        {{ $image = $image.Permalink }}
+        {{ $link := .Permalink }}
     </mj-raw>
 
     <mj-raw>
@@ -135,30 +135,34 @@
     </mj-raw>
 
     <mj-section full-width="full-width" padding-bottom="0px" padding-top="0">
-      <mj-column width="300px" vertical-align="middle">
-        <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
-      </mj-column>
-      <mj-column width="300px" vertical-align="middle">
-        <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="15px">
-          <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
-          <p style="line-height: 1.2;">{{ .Params.excerpt }}</p>
-        </mj-text>
-      </mj-column>
+      
+        <mj-column width="300px" vertical-align="middle">
+          <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        </mj-column>
+        <mj-column width="300px" vertical-align="middle">
+          <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="15px">
+            <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+            <p style="line-height: 1.2;">{{ .Params.excerpt }}</p>
+          </mj-text>
+        </mj-column>
+      
     </mj-section>
     <mj-raw>
       {{ $i = add $i 1 }}
       {{ else }}
     </mj-raw>
     <mj-section full-width="full-width" padding-bottom="0px" padding-top="0" direction="rtl">
-      <mj-column width="300px" vertical-align="middle">
-        <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
-      </mj-column>
-      <mj-column width="300px" vertical-align="middle">
-        <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="15px">
-          <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
-          <p style="line-height: 1.2;">{{ .Params.excerpt  }}</p>
-        </mj-text>
-      </mj-column>
+      
+        <mj-column width="300px" vertical-align="middle">
+          <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        </mj-column>
+        <mj-column width="300px" vertical-align="middle">
+          <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="15px">
+            <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+            <p style="line-height: 1.2;">{{ .Params.excerpt  }}</p>
+          </mj-text>
+        </mj-column>
+      
     </mj-section>
     <mj-raw>
       {{ $i = add $i 1 }}
@@ -177,11 +181,11 @@
 
     <mj-raw>
       {{ if .Params.newswire }}
-      {{ if .Params.newswire_items }}
-      {{ $items = .Params.newswire_items }}
-      {{ else }}
-      {{ $items = 5 }}
-      {{ end }}
+        {{ if .Params.newswire_items }}
+          {{ $items = .Params.newswire_items }}
+        {{ else }}
+          {{ $items = 5 }}
+        {{ end }}
     </mj-raw>
 
     <mj-section full-width="full-width" background-color="#444" padding="25px 10px">
@@ -203,21 +207,25 @@
         {{ $articles = sort $articles "Date" "desc" }}
         {{ $articles = where $articles "Params.date" "lt" $date }}
         {{ range first $items $articles }}
-        {{ $image := "" }}
-        {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
-        {{ $image = $image.Fill "600x400" }}
-        {{ $image = $image.Permalink }}
-        {{ $link := .Permalink }}
+          {{ $image := "" }}
+          {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+          {{ $image = $image.Fill "600x400" }}
+          {{ $image = $image.Permalink }}
+          {{ $link := .Permalink }}
       </mj-raw>
-      <mj-column width="200px" padding-top="15px" vertical-align="middle">
-        <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
-      </mj-column>
-      <mj-column width="400px" vertical-align="middle">
-        <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="15px">
-          <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
-          <p style="line-height: 1.2;">{{ .Params.excerpt | truncate 120 }}</p>
-        </mj-text>
-      </mj-column>
+      
+        <mj-column width="33.3%" padding-top="15px" vertical-align="middle">
+          <mj-image css-class="list-image" href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        </mj-column>
+        <mj-column width="66.6%" vertical-align="middle">
+          <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="15px">
+            <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+            <!--
+            <p style="line-height: 1.2;">{{ .Params.excerpt | truncate 120 }}</p>
+            -->
+          </mj-text>
+        </mj-column>
+      
       <mj-raw>
         {{ end }}
       </mj-raw>
@@ -232,11 +240,11 @@
 
     <mj-raw>
       {{ if .Params.sponsored }}
-      {{ if .Params.sponsored_items }}
-      {{ $items = .Params.sponsored_items }}
-      {{ else }}
-      {{ $items = 5 }}
-      {{ end }}
+        {{ if .Params.sponsored_items }}
+          {{ $items = .Params.sponsored_items }}
+        {{ else }}
+          {{ $items = 5 }}
+        {{ end }}
     </mj-raw>
 
     <mj-section full-width="full-width" background-color="#444" padding-bottom="0px" padding-top="0">
@@ -253,11 +261,11 @@
         {{ $articles = sort $articles "Date" "desc" }}
         {{ $articles = where $articles "Params.date" "lt" $date }}
         {{ range first $items $articles }}
-        {{ $image := "" }}
-        {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
-        {{ $image = $image.Fill "600x150 q100" }}
-        {{ $image = $image.Permalink }}
-        {{ $link := .Params.link }}
+          {{ $image := "" }}
+          {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+          {{ $image = $image.Fill "600x150 q100" }}
+          {{ $image = $image.Permalink }}
+          {{ $link := .Params.link }}
       </mj-raw>
       <mj-column width="100%" padding-top="15px" vertical-align="middle">
         <mj-image href="{{ $link }}" fluid-on-mobile="true" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
@@ -309,10 +317,10 @@
 
         {{ $filteredArticles := slice }}
         {{ range $articles }}
-        {{ $endDate := .Params.end_date | dateFormat "2006-01-02" }}
-        {{ if ge $endDate $parsedDate }}
-        {{ $filteredArticles = $filteredArticles | union (slice .) }}
-        {{ end }}
+          {{ $endDate := .Params.end_date | dateFormat "2006-01-02" }}
+          {{ if ge $endDate $parsedDate }}
+            {{ $filteredArticles = $filteredArticles | union (slice .) }}
+          {{ end }}
         {{ end }}
 
         {{ $filteredArticles = sort $filteredArticles "Params.start_date" "asc" }}

@@ -1,0 +1,106 @@
+<mjml>
+  <mj-raw position="file-start">
+    {{ $logo := "images/logo/logo-small.png" }}
+    {{ $logo = printf "%s%s" .Site.BaseURL $logo }}
+    {{ $logo_inverted := "images/logo/logo-inverted-small.png" }}
+    {{ $logo_inverted = printf "%s%s" .Site.BaseURL $logo_inverted }}
+    {{ $date := .Params.date }}
+    {{ $items := 5 }}
+    {{ $location_icon := printf "%s%s" .Site.BaseURL "images/icons/location.png" }}
+    {{ $calendar_icon := printf "%s%s" .Site.BaseURL "images/icons/calendar.png" }}
+    {{ $computer_icon := printf "%s%s" .Site.BaseURL "images/icons/computer.png" }}
+    {{ $clock_icon := printf "%s%s" .Site.BaseURL "images/icons/clock.png" }}
+    {{ $linkedin := printf "%s%s" .Site.BaseURL "images/icons/li-w.png" }}
+    {{ $x := printf "%s%s" .Site.BaseURL "images/icons/x-w.png" }}
+    {{ $instagram := printf "%s%s" .Site.BaseURL "images/icons/instagram-w.png" }}
+    {{ $facebook := printf "%s%s" .Site.BaseURL "images/icons/facebook-w.png" }}
+    {{ $mastodon := printf "%s%s" .Site.BaseURL "images/icons/mastodon-w.png" }}
+    {{ $slack := printf "%s%s" .Site.BaseURL "images/icons/slack-w.png" }}
+    {{ $rss := printf "%s%s" .Site.BaseURL "images/icons/rss-w.png" }}
+  </mj-raw>
+  <mj-body background-color="#eee">
+
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="#333">
+          <a href="{$url}" style="color: #333;">View this email in your browser</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-group>
+        <mj-column>
+          <mj-image align="left" href="{{ .Site.BaseURL }}" src="{{ $logo }}" alt="Protein Report logo" align="center" padding="0"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-text align="right" font-size="16px" color="#333">
+            <span>{{ .Params.date | dateFormat "January 2, 2006" | upper }}</span>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <!-- BEGIN NEWSWIRE SECTION -->
+
+    <mj-raw>
+      {{ if .Params.newswire }}
+        {{ if .Params.newswire_items }}
+          {{ $items = .Params.newswire_items }}
+        {{ else }}
+          {{ $items = 5 }}
+        {{ end }}
+    </mj-raw>
+
+    <mj-section full-width="full-width" background-color="#444" padding="25px 10px">
+      <mj-column width="25%">
+        <mj-text align="left" color="#fff" font-size="18px" padding="5px">
+          <span>NEWSWIRE</span>
+        </mj-text>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text align="left" color="#fff" font-size="16px" padding="5px">
+          <span>Press releases from companies and organizations</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section full-width="full-width" padding-bottom="40px" padding-top="0">
+      <mj-raw>
+        {{ $articles := where .Site.RegularPages "Section" "newswire" }}
+        {{ $articles = sort $articles "Date" "desc" }}
+        {{ $articles = where $articles "Params.date" "lt" $date }}
+        {{ range first $items $articles }}
+          {{ $image := "" }}
+          {{ $image = .Page.Resources.GetMatch .Params.featured_image }}
+          {{ $image = $image.Fill "600x400" }}
+          {{ $image = $image.Permalink }}
+          {{ $link := .Permalink }}
+      </mj-raw>
+      
+        <mj-column width="33.3%" padding-top="15px">
+          <mj-image href="{{ $link }}" src="{{ $image }}" alt="{{ .Params.title }}" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        </mj-column>
+        <mj-column width="66.6%">
+          <mj-text align="left" color="#333" font-size="13px" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="15px">
+            <a href="{{ $link }}" target="_blank" style="font-size: 18px; font-weight: 500; line-height: 1.2; text-decoration: none; color: #333;">{{ .Params.title | upper }}</a>
+            <!--
+            <p style="line-height: 1.2;">{{ .Params.excerpt | truncate 120 }}</p>
+            -->
+          </mj-text>
+        </mj-column>
+      
+      <mj-raw>
+        {{ end }}
+      </mj-raw>
+    </mj-section>
+    <mj-raw>
+      {{ end }}
+    </mj-raw>
+
+    <!-- END NEWSWIRE SECTION -->
+
+    <mj-section padding-bottom="20px" padding-top="0px"></mj-section>
+  </mj-body>
+</mjml>
