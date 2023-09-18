@@ -60,5 +60,11 @@
     Feature-Policy = "geolocation 'self'"
     Cache-Control= '''
     public,
-    max-age=86400'''
+    max-age=31536000'''
     Access-Control-Allow-Origin = "*"
+
+# Shorter cache for HTML files to ensure fresher content for users
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=600" # 10 minutes caching for HTML files
