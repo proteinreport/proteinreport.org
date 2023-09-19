@@ -52,7 +52,7 @@ seo:
       breadcrumbs: true
   title_tag:
     separator: "|"
-    home_text: "News and information resource"
+    home_text: "Protein economy news and information resource"
   og_article_types: [post, posts, blog, news, article, articles, event, events, course, courses]
   jsonld_article_types: [article, articles]
   jsonld_news_article_types: [news, updates, newswire]
