@@ -26,6 +26,7 @@ regions:
   - Asia
 directory:
   - 5818
+images: [integriculture.jpg]
 featured_image: integriculture.jpg
 uuid: AjFfbklRlXCCF1RsG7MV
 ---
