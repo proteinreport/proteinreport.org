@@ -160,3 +160,7 @@ body.hide { overflow: hidden; }
 .prose figcaption, .prose figcaption p {
   margin-top: 0.5em;
 }
+
+.prose a {
+  word-break: break-all;
+}
