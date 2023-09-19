@@ -26,8 +26,9 @@ regions:
   - Asia
 directory:
   - 5818
-images: [integriculture.jpg]
 featured_image: integriculture.jpg
+images:
+  - integriculture.jpg
 uuid: AjFfbklRlXCCF1RsG7MV
 ---
 **Tokyo, Japan, September 19, 2023** - IntegriCulture Inc., a cellular agriculture infrastructure company, in a joint effort with JT Group under the scheme of CulNet Consortium, has developed “I-MEM 2.0”, a food grade basal medium that minimizes the use of highly refined materials.
@@ -48,14 +49,14 @@ JT's Processed Food business is working to develop new foods while actively util
 
 **Editor’s Note:**
 
-1. Environmental impacts of cultured meat: A cradle-to-gate life cycle assessment Derrick Risner, Yoonbin Kim, Cuong Nguyen, Justin B. Siegel, Edward S. Spang bioRxiv 2023.04.21.537778; doi: https://doi.org/10.1101/2023.04.21.537778
+1. Environmental impacts of cultured meat: A cradle-to-gate life cycle assessment Derrick Risner, Yoonbin Kim, Cuong Nguyen, Justin B. Siegel, Edward S. Spang bioRxiv 2023.04.21.537778; doi: <https://doi.org/10.1101/2023.04.21.537778>
 2. Primary cells refer to cells obtained directly from living tissue.
 3. Epithelial cells are the cells that cover the surface of the body, body cavities and organs.
 4. Dulbecco’s MEM (DMEM) is a basal media commonly used in the biotechnology industry for applications such as drug discovery and regenerative medicine.
 
 **About the CulNet Consortium**
 
-The CulNet consortium, established in April 2021, is an open innovation platform for cellular agriculture with 13 participating companies including IntegriCulture, the founding organizer. Although cellular agriculture products like cell-cultured meat have attracted widespread attention for simulating the “real thing” better than plant-based substitutes, the industry must first reduce production costs, confirm safety, and develop practical manufacturing plants that enable commercial production. The CulNet Consortium consists of companies with high technological capabilities in various fields, including media, cultivation, and equipment, who together are collaborating to overcome barriers through open innovation. More information: https://integriculture.com/product/
+The CulNet consortium, established in April 2021, is an open innovation platform for cellular agriculture with 13 participating companies including IntegriCulture, the founding organizer. Although cellular agriculture products like cell-cultured meat have attracted widespread attention for simulating the “real thing” better than plant-based substitutes, the industry must first reduce production costs, confirm safety, and develop practical manufacturing plants that enable commercial production. The CulNet Consortium consists of companies with high technological capabilities in various fields, including media, cultivation, and equipment, who together are collaborating to overcome barriers through open innovation. More information: <https://integriculture.com/product/>
 
 **About I-MEM**
 
@@ -65,10 +66,10 @@ IntegriCulture Inc. has developed a chemically defined universal basal medium tr
 
 IntegriCulture Inc. takes the proprietary cell-type and species agnostic "CulNet® system" technology to a biomanufacturing infrastructure for applications such as food, cosmetics, ingredients and materials. Our pilot scale effort has already achieved the production of serum components, which have historically been a costly component in cell culture. This achievement eliminates the need for expensive inputs such as fetal bovine serum (FBS), insulin, transferrin and growth factors, resulting in significant cost savings in cellular agriculture and its supply chain management. Our goal is to create a future with a universally accessible infrastructure of cellular agriculture utilized by entities of different sizes and sectors.
 
-https://integriculture.com
+<https://integriculture.com>
 
 **About JT Group - Processed Food Business**
 
 Japan Tobacco Inc.'s Processed Food business covers the frozen food and room temperature food businesses led by TableMark Co., Ltd., and the seasoning business led by Fuji Foods Corporation. In addition to these businesses, we are exploring various growth opportunities for further business growth beyond the traditional framework. TableMark's Food Research and Development Institute was established in 2022 as a research and development organization for all aspects of the processed food business. In order to realize its business purpose, TableMark is actively engaged in exploring business seeds for the future, developing technologies owned by JT Group, and actively engaging in open innovation with other businesses and industries.
 
-https://www.jt.com/about/division/food/index.html
+<https://www.jt.com/about/division/food/index.html>
