@@ -162,5 +162,5 @@ body.hide { overflow: hidden; }
 }
 
 .prose a {
-  word-break: break-all;
+  word-break: break-word;
 }
