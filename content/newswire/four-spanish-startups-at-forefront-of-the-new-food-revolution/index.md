@@ -24,8 +24,9 @@ flags:
   - Investments
 directory:
   - 10963
+images: [presentation_event.jpeg]
 featured_image: presentation_event.jpeg
-draft: true
+draft: false
 uuid: XP0hx25uSumL3UddFxQq
 ---
 **Madrid, September 27** — Spain Foodtech Startups’ Program, an acceleration program promoted by Eatable Adventures and supported by ICEX and CNTA, presents its 2023 cohort. The program will be backed by an investment of 10 million euros to support the selected startups over the next three years.
