@@ -1,7 +1,7 @@
 ---
 title: Aliga Microalgae Wins World Plant-Based Innovation Award 2023 for White
   Chlorella Ingredient
-date: 2023-09-28 07:00:54
+date: 2023-09-25 07:00:54
 lastmod: 2023-09-28 09:05:54
 slug: aliga-microalgae-wins-world-plant-based-innovation-award-2023-white-chlorella-ingredient
 company: 11143
@@ -22,6 +22,7 @@ regions:
   - US & Canada
 directory:
   - 11143
+images: [aliga-winning-pbwe.jpg]
 featured_image: aliga-winning-pbwe.jpg
 uuid: KKpEc4Wr8CIDbCqEIIB0
 ---
