@@ -6,12 +6,21 @@
     {{ range $index, $val := $.Params.additional_images }}
         {{ $image = $.Resources.Get .src }}
         {{ $image_small = $image.Resize "300x webp"}}
+        
         {{ if $image }}
             <a href="{{ $image.RelPermalink }}" class="glightbox" data-glightbox="description: .image-caption-{{ $index }};">
-                <img src="{{ $image_small.RelPermalink }}" alt="{{ .caption | safeHTML }}" class="w-full aspect-video object-cover">
+                <img src="{{ $image_small.RelPermalink }}" alt="{{ if .caption }}{{ .caption | safeHTML }}{{ end }}" class="w-full aspect-video object-cover">
             </a>
+            {{ if .caption }}
+            <div class="glightbox-desc image-caption-{{ $index }}"> 
+                <span>{{ .caption | safeHTML }}</span>
+            </div>
+            {{ else }}
+            <div class="glightbox-desc image-caption-{{ $index }}">
+                <span></span>
+            </div>
+            {{ end}}
         {{ end }}
-        <span class="glightbox-desc image-caption-{{ $index }}">{{ .caption | safeHTML }}</span>
     {{ end }}
     </div>
 {{ end }}
