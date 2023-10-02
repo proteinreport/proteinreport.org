@@ -8,7 +8,7 @@
         {{ $image_small = $image.Resize "300x webp"}}
         
         {{ if $image }}
-            <a href="{{ $image.RelPermalink }}" class="glightbox" data-glightbox="description: .image-caption-{{ $index }};">
+            <a href="{{ $image.RelPermalink }}" class="glightbox" aria-label="{{if .caption}}{{ .caption | safeHTML }}{{else}}additional images {{$index}}{{end}}" data-glightbox="description: .image-caption-{{ $index }};">
                 <img src="{{ $image_small.RelPermalink }}" alt="{{ if .caption }}{{ .caption | safeHTML }}{{ end }}" class="w-full aspect-video object-cover">
             </a>
             {{ if .caption }}
