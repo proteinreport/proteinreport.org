@@ -26,6 +26,7 @@ regions:
 directory:
   - 9143
   - 5897
+images: [image1.jpeg, orf-seawith-mou.jpeg, linkedin-post.jpg]
 featured_image: orf-seawith-mou.jpeg
 additional_images:
   - src: image1.jpeg
