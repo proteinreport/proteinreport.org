@@ -25,6 +25,7 @@ regions:
   - Europe
 directory:
   - 9900
+images: [dr-deepika-rajesh-cso.jpg]
 featured_image: dr-deepika-rajesh-cso.jpg
 uuid: mQFKuWq9e1QxtXz92fQ
 ---
