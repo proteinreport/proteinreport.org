@@ -4,8 +4,9 @@ title: Katapult Ocean Fund Invests in NewFish as Biotechnology Venture Develops
 date: 2023-10-05 19:00:48
 lastmod: 2023-10-05 20:37:22
 slug: katapult-ocean-fund-invests-newfish-biotechnology-venture-develops-marine-whey-protein-80-prototype
-company_name: NewFish
-company_link: https://newfish.co.nz/
+company: O6km6eKbAK0hyC7zJCR
+company_name: ""
+company_link: ""
 description: NewFish, a leading New Zealand biotechnology nutrition venture, has
   been selected to receive investment from Oslo-based Katapult. Days prior to
   receiving investment, NewFish announced a world-first Marine Whey Protein 80%
