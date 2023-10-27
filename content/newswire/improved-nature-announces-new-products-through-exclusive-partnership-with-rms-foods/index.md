@@ -27,6 +27,8 @@ flags:
   - New Products
 directory:
   - 1153
+  - 698
+  - 6139
 featured_image: 230511-natures-meat-korean-bulgogi-white-plate-sheet-pan-background.jpg
 images:
   - 230511-natures-meat-korean-bulgogi-white-plate-sheet-pan-background.jpg
@@ -44,8 +46,8 @@ Plant-based protein is one of the food industry’s fastest growing trends. Acco
 
 “At RMS Foods, we have been focused on producing quality plant-based products for 23 years,” said RMS Foods President and CEO Sam D. Cobb. “Our manufacturing efficiency was not available to the general market until now. With the Improved Nature process, paired with our experience and capabilities, we will be able to provide highly cost-effective plant-based protein products that are sure to please both businesses and consumers across the nation.” 
 
-Improved Nature will be showcasing the new products at PLMA’s Private Label Trade Show Nov. 12-14 in Chicago. The company invites all attendees to stop by booth F2015 during the show to taste the difference. For more information about Improved Nature, visit [www.ImprovedNature.com](www.ImprovedNature.com). 
+Improved Nature will be showcasing the new products at PLMA’s Private Label Trade Show Nov. 12-14 in Chicago. The company invites all attendees to stop by booth F2015 during the show to taste the difference. For more information about Improved Nature, visit [www.ImprovedNature.com](https://improvednature.com/). 
 
 **About Improved Nature**
 
-Improved Nature’s plant-based proteins are the cleanest and most versatile plant-powered products on the market. The company’s plant-based protein products are made from only one ingredient that provides complete protein. The products deliver meat-like texture and neutral flavor which allows for unlimited menu possibilities. Improved Nature is on a mission to feed the growing population with better protein. To learn more, visit [www.ImprovedNature.com](www.ImprovedNature.com).
+Improved Nature’s plant-based proteins are the cleanest and most versatile plant-powered products on the market. The company’s plant-based protein products are made from only one ingredient that provides complete protein. The products deliver meat-like texture and neutral flavor which allows for unlimited menu possibilities. Improved Nature is on a mission to feed the growing population with better protein. To learn more, visit [www.ImprovedNature.com](https://improvednature.com/).
