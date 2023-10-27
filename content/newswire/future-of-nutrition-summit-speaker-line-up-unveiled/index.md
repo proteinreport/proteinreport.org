@@ -1,6 +1,6 @@
 ---
 title: Future of Nutrition Summit Speaker Line-up Unveiled
-date: 2023-10-27 19:13:36
+date: 2023-10-25 19:13:36
 lastmod: 2023-10-27 19:13:36
 slug: future-of-nutrition-summit-speaker-line-up-unveiled
 company_name: Informa Markets
