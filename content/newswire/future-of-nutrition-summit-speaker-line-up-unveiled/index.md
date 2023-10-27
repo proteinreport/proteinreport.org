@@ -19,6 +19,7 @@ proteins:
   - Cell-Based
   - Microbial
   - Algae
+  - Molecular Farming
 products:
   - Meat
   - Dairy
