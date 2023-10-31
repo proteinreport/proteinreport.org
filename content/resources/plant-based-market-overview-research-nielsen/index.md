@@ -11,7 +11,7 @@ topics: [Business]
 regions: [US & Canada]
 images: ["HeaderImage2.jpg"]
 featured_image: "HeaderImage2.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.gfi.org/marketresearch
 source: gfi.org
 draft: false

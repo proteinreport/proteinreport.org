@@ -11,7 +11,7 @@ topics: [Environment]
 regions: [International]
 images: ["livestock's long shadow.jpg"]
 featured_image: "livestock's long shadow.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: http://www.fao.org/docrep/010/a0701e/a0701e00.HTM
 source: fao.org
 draft: false

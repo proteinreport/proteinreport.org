@@ -11,7 +11,7 @@ topics: [Environment]
 regions: [International]
 images: ["090224_logo_CE-Delft_RGB_kleur.png"]
 featured_image: "090224_logo_CE-Delft_RGB_kleur.png"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.cedelft.eu/en/publications/2610/lca-of-cultivated-meat-future-projections-for-different-scenarios
 source: cedelft.eu
 draft: false

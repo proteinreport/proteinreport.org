@@ -11,7 +11,7 @@ topics: [Business]
 regions: [Europe]
 images: ["sustainable-proteins_0.png"]
 featured_image: "sustainable-proteins_0.png"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.fairr.org/article/alternative-protein-market/
 source: fairr.org
 draft: false

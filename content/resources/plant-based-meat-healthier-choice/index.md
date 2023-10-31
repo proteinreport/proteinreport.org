@@ -11,7 +11,7 @@ topics: [Health]
 regions: [Oceania]
 images: ["ff.jpg"]
 featured_image: "ff.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.foodfrontier.org/reports
 source: foodfrontier.org
 draft: false

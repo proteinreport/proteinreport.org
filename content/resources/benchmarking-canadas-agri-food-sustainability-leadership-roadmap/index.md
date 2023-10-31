@@ -11,7 +11,7 @@ topics: [Environment]
 regions: [US & Canada]
 images: ["social.jpg"]
 featured_image: "social.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.proteinindustriescanada.ca/news/report-champions-a-new-sustainability-index-for-canadas-agri-food-sector
 source: proteinindustriescanada.ca
 draft: false

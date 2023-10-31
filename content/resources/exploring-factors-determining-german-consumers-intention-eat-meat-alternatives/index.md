@@ -9,7 +9,7 @@ proteins: [Plant-Based]
 products: [Meat]
 topics: [Business]
 regions: [Europe]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/abs/pii/S0950329322000854
 draft: false
 uuid: 10808

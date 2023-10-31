@@ -9,7 +9,7 @@ proteins: [Cell-Based, Microbial]
 products: [Ingredients]
 topics: [Sci-Tech]
 regions: [US & Canada]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.biorxiv.org/content/10.1101/2022.02.15.480596v1
 draft: false
 uuid: 10443

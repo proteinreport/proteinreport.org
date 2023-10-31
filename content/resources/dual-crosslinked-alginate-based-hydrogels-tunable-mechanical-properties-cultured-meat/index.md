@@ -9,7 +9,7 @@ proteins: [Cell-Based, Algae]
 products: [Meat, Ingredients, Scaffolding & Structure]
 topics: [Sci-Tech]
 regions: [US & Canada]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.mdpi.com/2304-8158/11/18/2829
 draft: false
 uuid: 11150

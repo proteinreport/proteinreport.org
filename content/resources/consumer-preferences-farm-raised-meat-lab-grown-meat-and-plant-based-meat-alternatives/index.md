@@ -9,7 +9,7 @@ proteins: [Cell-Based, Plant-Based, Animal]
 products: [Meat]
 topics: [Business]
 regions: [US & Canada]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/pii/S0306919220301354
 draft: false
 uuid: 9744

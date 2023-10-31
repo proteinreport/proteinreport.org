@@ -11,7 +11,7 @@ topics: [Environment, Health]
 regions: [International]
 images: ["medium_mNhPZA6GMJwWDuBraICqBSTDZ-F4SlMDrr935xlxIXU.JPG"]
 featured_image: "medium_mNhPZA6GMJwWDuBraICqBSTDZ-F4SlMDrr935xlxIXU.JPG"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.weforum.org/whitepapers/meat-the-future-time-for-a-protein-portfolio-to-meet-tomorrow-s-demand/
 source: weforum.org
 draft: false

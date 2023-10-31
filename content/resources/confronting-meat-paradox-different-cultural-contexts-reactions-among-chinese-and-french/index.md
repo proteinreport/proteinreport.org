@@ -5,7 +5,7 @@ lastmod: 2019-11-09 15:37:21
 slug: confronting-meat-paradox-different-cultural-contexts-reactions-among-chinese-and-french
 description: "As a well-known source of nutrition and pleasure, meat plays an important role in most people’s diet. However, awareness of the “meat paradox”–the association of liking to eat meat but not wanting to kill animals–often implies the experience of cognitive dissonance."
 excerpt: "As a well-known source of nutrition and pleasure, meat plays an important role in most people’s diet. However, awareness of the “meat paradox”–the association of liking to eat meat but not wanting to kill animals–often implies the experience of cognitive dissonance."
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/abs/pii/S0195666315300209?via%3Dihub=
 draft: false
 uuid: 511

@@ -5,7 +5,7 @@ lastmod: 2020-01-19 17:24:08
 slug: conflict-over-cell-based-meat-who-should-coordinate-agencies-us-biotechnology-regulation
 description: "The technology to create meat from cellular cultures has nearly arrived, with potential environmental, animal welfare, and nutritional benefits over traditional animal agriculture. However, considerable uncertainty over the regulatory framework for this emerging biotechnology arose throughout 2018, driven by overlapping statutory authority for the Food and Drug Administration (FDA) and the U.S. Department of Agriculture (USDA) with insufficient guidance from the Coordinated Framework for Regulation of Biotechnology."
 excerpt: "The technology to create meat from cellular cultures has nearly arrived, with potential environmental, animal welfare, and nutritional benefits over traditional animal agriculture. However, considerable uncertainty over the regulatory framework for this emerging biotechnology arose throughout 2018, driven by overlapping statutory authority for the Food and Drug Administration (FDA) and the U.S. Department of Agriculture (USDA) with insufficient guidance from the Coordinated Framework for Regulation of Biotechnology."
-resource_type: [academic]
+resource_type: "academic"
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3506296
 draft: false
 uuid: 1392

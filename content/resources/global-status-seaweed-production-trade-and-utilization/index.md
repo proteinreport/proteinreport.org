@@ -11,7 +11,7 @@ topics: [Business]
 regions: [International]
 images: ["report cover_0.jpg"]
 featured_image: "report cover_0.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: http://www.fao.org/in-action/globefish/publications/details-publication/en/c/1154074/
 source: fao.org
 draft: false

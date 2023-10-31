@@ -11,7 +11,7 @@ topics: [Business, Environment]
 regions: [International]
 images: ["fairr.jpg"]
 featured_image: "fairr.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.fairr.org/article/global-investor-engagement-on-meat-sourcing/
 draft: false
 uuid: 5946

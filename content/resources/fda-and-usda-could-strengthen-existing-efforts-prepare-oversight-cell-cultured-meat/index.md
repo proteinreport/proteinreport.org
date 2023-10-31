@@ -11,7 +11,7 @@ topics: [Policy]
 regions: [US & Canada]
 images: ["cover.png"]
 featured_image: "cover.png"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.gao.gov/products/GAO-20-325
 draft: false
 uuid: 6841

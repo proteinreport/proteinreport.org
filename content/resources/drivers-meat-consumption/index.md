@@ -9,7 +9,7 @@ proteins: [Animal]
 products: [Meat]
 topics: [Business, Policy]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/abs/pii/S0195666319301047
 draft: false
 uuid: 10554

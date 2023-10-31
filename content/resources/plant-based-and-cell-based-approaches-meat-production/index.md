@@ -8,7 +8,7 @@ excerpt: "Advances in farming technology and intensification of animal agricultu
 proteins: [Cell-Based, Plant-Based]
 products: [Meat]
 topics: [Health, Business, Environment]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.nature.com/articles/s41467-020-20061-y
 draft: false
 uuid: 8122

@@ -11,7 +11,7 @@ topics: [Business, Culture, Environment, Health, Policy]
 regions: [International]
 images: ["politicsofprotein_0.jpg"]
 featured_image: "politicsofprotein_0.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.ipes-food.org/pages/politicsofprotein
 source: ipes-food.org
 draft: false

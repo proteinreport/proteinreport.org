@@ -11,7 +11,7 @@ topics: [Business]
 regions: [International]
 images: ["cover_0.jpg"]
 featured_image: "cover_0.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.ey.com/en_us/food-system-reimagined/protein-reimagined-challenges-and-opportunities-in-the-alternative-meat-industry
 source: ey.com
 draft: false

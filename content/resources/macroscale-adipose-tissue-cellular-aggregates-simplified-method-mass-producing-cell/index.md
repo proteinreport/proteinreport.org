@@ -9,7 +9,7 @@ proteins: [Cell-Based, Fungi]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [International, US & Canada]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.biorxiv.org/content/10.1101/2022.06.08.495192v2
 draft: false
 uuid: 11012

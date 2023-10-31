@@ -9,7 +9,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Policy]
 regions: [US & Canada]
-resource_type: [academic]
+resource_type: "academic"
 link: https://scholarlycommons.law.wlu.edu/wlulr/vol78/iss5/4/
 draft: false
 uuid: 11098

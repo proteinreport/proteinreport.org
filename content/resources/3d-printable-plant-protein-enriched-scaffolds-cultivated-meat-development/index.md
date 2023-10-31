@@ -9,7 +9,7 @@ proteins: [Cell-Based, Plant-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [Middle East]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/abs/pii/S0142961222001260
 draft: false
 uuid: 10656

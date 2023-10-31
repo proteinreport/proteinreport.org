@@ -11,7 +11,7 @@ topics: [Business]
 regions: [International]
 images: ["thumbnail_image001.jpg"]
 featured_image: "thumbnail_image001.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.edisongroup.com/investment-themes/meat-alternatives-an-investment-analysis/28097/
 source: edisongroup.com
 draft: false

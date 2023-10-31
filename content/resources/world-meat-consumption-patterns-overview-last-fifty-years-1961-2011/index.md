@@ -5,7 +5,7 @@ lastmod: 2019-09-07 04:09:32
 slug: world-meat-consumption-patterns-overview-last-fifty-years-1961-2011
 description: "Driven by economic development and urbanisation, animal-based protein (ABP) consumption has surged worldwide over the last 50. years, rising from 61. g per person per day in 1961 to 80. g per person per day in 2011. This contribution analyses the apparent convergence of dietary models worldwide with respect to the proportion of ABP and especially meat in intake."
 excerpt: "Driven by economic development and urbanisation, animal-based protein (ABP) consumption has surged worldwide over the last 50. years, rising from 61. g per person per day in 1961 to 80. g per person per day in 2011. This contribution analyses the apparent convergence of dietary models worldwide with respect to the proportion of ABP and especially meat in intake."
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.mendeley.com/catalogue/world-meat-consumption-patterns-overview-last-fifty-years-19612011/
 draft: false
 uuid: 153

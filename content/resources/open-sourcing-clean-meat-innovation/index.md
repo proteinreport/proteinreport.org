@@ -11,7 +11,7 @@ topics: [Business, Sci-Tech]
 regions: [International]
 images: ["chopped-clean-chicken.jpg"]
 featured_image: "chopped-clean-chicken.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: http://www.gfi.org/mapping-the-clean-meat-industry
 source: gfi.org
 draft: false

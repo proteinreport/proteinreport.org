@@ -11,7 +11,7 @@ topics: [Business, Environment]
 regions: [International]
 images: ["cover.jpg"]
 featured_image: "cover.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.fairr.org/sustainable-proteins/food-tech-spotlight/building-esg-into-the-alternative-protein-terrain/
 source: fairr.org
 draft: false

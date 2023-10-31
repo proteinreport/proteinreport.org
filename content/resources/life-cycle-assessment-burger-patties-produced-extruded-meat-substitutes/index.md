@@ -9,7 +9,7 @@ proteins: [Plant-Based]
 products: [Meat]
 topics: [Environment]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/abs/pii/S0959652621013962
 draft: false
 uuid: 8864

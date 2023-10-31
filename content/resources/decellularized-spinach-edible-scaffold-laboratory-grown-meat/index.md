@@ -5,7 +5,7 @@ lastmod: 2021-03-31 07:11:29
 slug: decellularized-spinach-edible-scaffold-laboratory-grown-meat
 description: "It is projected that by the year 2050, there will be insufficient land suitable for agriculture to feed the world. Cellular agriculture has the potential to produce meat that replicates the structure of traditionally produced meat while minimizing the land needed. There is a need for an edible scaffold suitable for the growth of animal muscle. This study showed that decellularizing spinach leaves produced an edible scaffold that has a vascular network that could potentially maintain the viability of primary bovine satellite cells as they develop into meat."
 excerpt: "It is projected that by the year 2050, there will be insufficient land suitable for agriculture to feed the world. Cellular agriculture has the potential to produce meat that replicates the structure of traditionally produced meat while minimizing the land needed. There is a need for an edible scaffold suitable for the growth of animal muscle. This study showed that decellularizing spinach leaves produced an edible scaffold that has a vascular network that could potentially maintain the viability of primary bovine satellite cells as they develop into meat."
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/pii/S2212429221001115
 draft: false
 uuid: 8684

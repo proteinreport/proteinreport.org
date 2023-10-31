@@ -11,7 +11,7 @@ topics: [Business]
 regions: [International]
 images: ["Kd0vYEsD5aOJQgklTd5OPIZz_jdOj69yZ6ilwSpXNZI_0.png"]
 featured_image: "Kd0vYEsD5aOJQgklTd5OPIZz_jdOj69yZ6ilwSpXNZI_0.png"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.weforum.org/agenda/2019/08/alternative-plant-protein-market-growth-food-industry-response/
 source: weforum.org
 draft: false

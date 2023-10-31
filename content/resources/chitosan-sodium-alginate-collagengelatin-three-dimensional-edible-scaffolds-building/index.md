@@ -9,7 +9,7 @@ proteins: [Cell-Based, Algae]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [Asia]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/abs/pii/S0141813022007516
 draft: false
 uuid: 10952

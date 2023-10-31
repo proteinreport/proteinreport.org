@@ -11,7 +11,7 @@ topics: [Environment]
 regions: [International]
 images: ["ipcc.jpg"]
 featured_image: "ipcc.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.ipcc.ch/report/ar6/wg2/
 source: ipcc.ch
 draft: false

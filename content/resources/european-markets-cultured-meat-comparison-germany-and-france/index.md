@@ -8,7 +8,7 @@ excerpt: "The negative impacts of meat consumption for animals, the environment,
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Business]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.mdpi.com/2304-8158/9/9/1152
 draft: false
 uuid: 7974

@@ -9,7 +9,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Culture]
 regions: [US & Canada]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/abs/pii/S0272494422000032
 draft: false
 uuid: 10306

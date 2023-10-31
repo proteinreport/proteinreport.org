@@ -11,7 +11,7 @@ topics: [Business]
 regions: [US & Canada]
 images: ["meat-alternatives-case-study.jpg"]
 featured_image: "meat-alternatives-case-study.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.brandwatch.com/case-studies/good-food-institute/
 source: brandwatch.com
 draft: false

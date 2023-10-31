@@ -9,7 +9,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [US & Canada]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.mdpi.com/2076-3417/12/10/5155
 draft: false
 uuid: 10958

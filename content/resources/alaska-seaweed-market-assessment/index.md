@@ -11,7 +11,7 @@ topics: [Business]
 regions: [Europe, International, US & Canada]
 images: ["alaska seaweed.jpg"]
 featured_image: "alaska seaweed.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.afdf.org/wp-content/uploads/Alaska-Seaweed-Market-Assessment-2021-08-FINAL.pdf
 source: afdf.org
 draft: false

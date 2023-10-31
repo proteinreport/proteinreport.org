@@ -11,7 +11,7 @@ topics: [Environment, Health]
 regions: [International]
 images: ["map.png"]
 featured_image: "map.png"
-resource_type: [industry]
+resource_type: "industry"
 link: https://storymaps.arcgis.com/stories/58ae71f58fd7418294f34c4f841895d8
 source: arcgis.com
 draft: false

@@ -9,7 +9,7 @@ proteins: [Cell-Based]
 products: [Meat, Ingredients]
 topics: [Sci-Tech]
 regions: [US & Canada]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.nature.com/articles/s42003-022-03423-8
 draft: false
 uuid: 10948

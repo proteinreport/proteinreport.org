@@ -9,7 +9,7 @@ proteins: [Cell-Based]
 products: [Seafood]
 topics: [Sci-Tech]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.nature.com/articles/s41598-023-31822-2
 draft: false
 uuid: 11290

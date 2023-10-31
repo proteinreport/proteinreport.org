@@ -11,7 +11,7 @@ topics: [Business]
 regions: [Asia]
 images: ["report cover.jpg"]
 featured_image: "report cover.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.gfi-apac.org/resources/asian-cropportunities/
 source: gfi-apac.org
 draft: false

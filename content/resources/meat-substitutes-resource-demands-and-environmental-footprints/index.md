@@ -9,7 +9,7 @@ proteins: [Cell-Based, Plant-Based, Microbial, Fungi, Animal]
 products: [Meat, Dairy, Eggs, Seafood]
 topics: [Environment]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/pii/S0921344922006632
 draft: false
 uuid: 11348

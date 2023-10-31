@@ -11,7 +11,7 @@ topics: [Business, Culture, Environment]
 regions: [Europe]
 images: ["Voorkant_studie.jpg"]
 featured_image: "Voorkant_studie.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://think.ing.com/reports/the-protein-shift-will-europeans-change-their-diet/
 draft: false
 uuid: 97

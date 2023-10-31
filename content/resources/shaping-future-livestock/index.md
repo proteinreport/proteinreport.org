@@ -11,7 +11,7 @@ topics: [Environment, Health, Policy]
 regions: [International]
 images: ["shaping future livestock.png"]
 featured_image: "shaping future livestock.png"
-resource_type: [industry]
+resource_type: "industry"
 link: http://www.fao.org/publications/card/en/c/I8384EN/
 draft: false
 uuid: 1377

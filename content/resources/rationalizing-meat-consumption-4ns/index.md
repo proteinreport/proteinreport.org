@@ -5,7 +5,7 @@ lastmod: 2019-11-09 16:17:42
 slug: rationalizing-meat-consumption-4ns
 description: "Recent theorizing suggests that the 4Ns – that is, the belief that eating meat is natural, normal, necessary, and nice – are common rationalizations people use to defend their choice of eating meat. However, such theorizing has yet to be subjected to empirical testing. Six studies were conducted on the 4Ns. Studies 1a and 1b demonstrated that the 4N classification captures the vast majority (83%–91%) of justifications people naturally offer in defense of eating meat."
 excerpt: "Recent theorizing suggests that the 4Ns – that is, the belief that eating meat is natural, normal, necessary, and nice – are common rationalizations people use to defend their choice of eating meat. However, such theorizing has yet to be subjected to empirical testing. Six studies were conducted on the 4Ns. Studies 1a and 1b demonstrated that the 4N classification captures the vast majority (83%–91%) of justifications people naturally offer in defense of eating meat."
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/abs/pii/S0195666315001518?via%3Dihub=
 draft: false
 uuid: 524

@@ -11,7 +11,7 @@ topics: [Business]
 regions: [International]
 images: ["capacitor report_0.JPG"]
 featured_image: "capacitor report_0.JPG"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.capacitor.bio/trends
 source: capacitor.bio
 draft: false

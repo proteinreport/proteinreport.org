@@ -11,7 +11,7 @@ topics: [Environment, Policy]
 regions: [International]
 images: ["cpver.jpg"]
 featured_image: "cpver.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: http://www.fao.org/documents/card/en/c/cb6562en
 source: fao.org
 draft: false

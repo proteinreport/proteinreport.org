@@ -11,7 +11,7 @@ topics: [Health, Policy]
 regions: [International]
 images: ["cell-based food safety.JPG"]
 featured_image: "cell-based food safety.JPG"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.fao.org/documents/card/en/c/cc4855en
 source: fao.org
 draft: false

@@ -11,7 +11,7 @@ topics: [Business]
 regions: [Europe, Latin America & Caribbean, Oceania, US & Canada]
 images: ["cover.jpg"]
 featured_image: "cover.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://phyconomy.net/state-of-the-industry-2022/
 source: phyconomy.net
 draft: false

@@ -9,7 +9,7 @@ proteins: [Cell-Based]
 products: [Meat, Ingredients]
 topics: [Sci-Tech]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://elifesciences.org/articles/82120
 draft: false
 uuid: 11292

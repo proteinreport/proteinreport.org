@@ -9,7 +9,7 @@ proteins: [Plant-Based, Animal]
 products: [Dairy]
 topics: [Business]
 regions: [US & Canada]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.cambridge.org/core/journals/journal-of-agricultural-and-applied-economics/article/are-plantbased-analogues-replacing-cows-milk-in-the-american-diet/F78AE2E32B77214BD3D26A060EC70451
 draft: false
 uuid: 8387

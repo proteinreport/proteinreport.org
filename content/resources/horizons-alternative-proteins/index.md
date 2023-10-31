@@ -11,7 +11,7 @@ topics: [Business]
 regions: [International]
 images: ["Horizons - Alt Proteins Cover photo (1920x1080 ratio)-1.jpg"]
 featured_image: "Horizons - Alt Proteins Cover photo (1920x1080 ratio)-1.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://go.crbgroup.com/horizons-alt-protein
 source: go.crbgroup.com
 draft: false

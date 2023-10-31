@@ -11,7 +11,7 @@ topics: [Business]
 regions: [Europe]
 images: ["cover_0.jpg"]
 featured_image: "cover_0.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://proveg.com/what-we-do/corporate-engagement/proveg-consumer-survey-report-download/
 source: proveg.com
 draft: false

@@ -11,7 +11,7 @@ topics: [Business]
 regions: [International]
 images: ["Alternative-proteins-1536x1536_0.jpg"]
 featured_image: "Alternative-proteins-1536x1536_0.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.mckinsey.com/industries/agriculture/our-insights/alternative-proteins-the-race-for-market-share-is-on
 source: mckinsey.com
 draft: false

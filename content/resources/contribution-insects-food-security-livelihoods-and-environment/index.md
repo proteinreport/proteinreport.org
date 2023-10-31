@@ -11,7 +11,7 @@ topics: [Business, Environment, Health]
 regions: [International]
 images: ["insects.jpg"]
 featured_image: "insects.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: http://www.fao.org/docrep/018/i3264e/i3264e00.pdf
 draft: false
 uuid: 26

@@ -9,7 +9,7 @@ proteins: [Algae]
 products: [Ingredients]
 topics: [Health]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6551690/
 draft: false
 uuid: 10234

@@ -11,7 +11,7 @@ topics: [Health, Policy, Sci-Tech]
 regions: [US & Canada]
 images: ["Cells-in-tube-1920x600_0.jpg"]
 featured_image: "Cells-in-tube-1920x600_0.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.cast-science.org/publication/producing-food-products-from-cultured-animal-tissues/
 source: cast-science.org
 draft: false

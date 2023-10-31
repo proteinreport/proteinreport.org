@@ -11,7 +11,7 @@ topics: [Health, Policy]
 regions: [International]
 images: ["intake-fao-report.jpg"]
 featured_image: "intake-fao-report.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.intake.org/news/global-report-state-dietary-data
 source: intake.org
 draft: false

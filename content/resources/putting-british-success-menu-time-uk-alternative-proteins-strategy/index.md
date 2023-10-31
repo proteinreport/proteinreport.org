@@ -11,7 +11,7 @@ topics: [Policy]
 regions: [Europe]
 images: ["ukap.JPG"]
 featured_image: "ukap.JPG"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.smf.co.uk/publications/putting-british-success-on-the-menu/
 source: smf.co.uk
 draft: false

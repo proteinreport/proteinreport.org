@@ -5,7 +5,7 @@ lastmod: 2019-11-09 16:05:46
 slug: consumers-perceived-barriers-following-plant-based-diet
 description: "Purpose – The purpose of this paper is to analyze the barriers perceived by consumers to lowering their meat consumption levels and adopting a plant-based diet, which means a diet that includes mainly non-meat foods, yet it can contain both vegetarian and meat meals. Design/methodology/approach – The prevalence of different barriers for following a plant-based diet is addressed, as well as consumer profiles considering socio-demographics, values and meat consumption frequencies."
 excerpt: "Purpose – The purpose of this paper is to analyze the barriers perceived by consumers to lowering their meat consumption levels and adopting a plant-based diet, which means a diet that includes mainly non-meat foods, yet it can contain both vegetarian and meat meals. Design/methodology/approach – The prevalence of different barriers for following a plant-based diet is addressed, as well as consumer profiles considering socio-demographics, values and meat consumption frequencies."
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.emerald.com/insight/content/doi/10.1108/BFJ-09-2013-0252/full/html
 draft: false
 uuid: 519

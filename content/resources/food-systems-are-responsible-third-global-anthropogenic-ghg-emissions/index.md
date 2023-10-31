@@ -9,7 +9,7 @@ proteins: [Animal]
 products: [Meat, Dairy, Feed]
 topics: [Environment]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.nature.com/articles/s43016-021-00225-9
 draft: false
 uuid: 9482

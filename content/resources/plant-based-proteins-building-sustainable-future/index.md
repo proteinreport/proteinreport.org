@@ -11,7 +11,7 @@ topics: [Business, Environment]
 regions: [International]
 images: ["cover_1.jpg"]
 featured_image: "cover_1.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://eiuperspectives.economist.com/plantbasedproteins
 source: economist.com
 draft: false

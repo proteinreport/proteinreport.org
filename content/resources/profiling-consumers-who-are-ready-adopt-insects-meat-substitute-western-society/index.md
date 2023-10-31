@@ -5,7 +5,7 @@ lastmod: 2019-08-26 01:04:04
 slug: profiling-consumers-who-are-ready-adopt-insects-meat-substitute-western-society
 description: "This study investigates the readiness of consumers in a Western society, where traditional meat consumption prevails, to adopt insects as a substitute for meat. Using cross-sectional data (n = 368) and binary logistic regression modeling, the study identifies gender, age, familiarity, food neophobia, convenience and environmental food choice motives, as well as meat-related attitudes and future meat consumption intentions as significant predictors."
 excerpt: "This study investigates the readiness of consumers in a Western society, where traditional meat consumption prevails, to adopt insects as a substitute for meat. Using cross-sectional data (n = 368) and binary logistic regression modeling, the study identifies gender, age, familiarity, food neophobia, convenience and environmental food choice motives, as well as meat-related attitudes and future meat consumption intentions as significant predictors."
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/abs/pii/S0950329314001554
 draft: false
 uuid: 100

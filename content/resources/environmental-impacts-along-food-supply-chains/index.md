@@ -9,7 +9,7 @@ proteins: [Animal]
 products: [Meat, Dairy]
 topics: [Environment]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.oecd-ilibrary.org/agriculture-and-food/environmental-impacts-along-food-supply-chains_48232173-en
 draft: false
 uuid: 11209

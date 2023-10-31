@@ -8,7 +8,7 @@ excerpt: "Cultured meats (CMs) are produced by in vitro culture of animal cells.
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Business, Sci-Tech]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(20)30056-1
 draft: false
 uuid: 6886

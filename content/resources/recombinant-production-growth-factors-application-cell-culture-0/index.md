@@ -9,7 +9,7 @@ proteins: [Cell-Based, Microbial]
 products: [Meat, Ingredients, Cell Culture Media]
 topics: [Sci-Tech]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.cell.com/iscience/fulltext/S2589-0042(22)01326-8
 draft: false
 uuid: 11152

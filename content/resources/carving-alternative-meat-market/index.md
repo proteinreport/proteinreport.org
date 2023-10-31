@@ -11,7 +11,7 @@ topics: [Business, Environment, Health]
 regions: [Europe, US & Canada]
 images: ["8896_Barclays_Alt Meat_Hero mage_1024x576.jpg"]
 featured_image: "8896_Barclays_Alt Meat_Hero mage_1024x576.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.investmentbank.barclays.com/our-insights/carving-up-the-alternative-meat-market.html
 source: investmentbank.barclays.com
 draft: false

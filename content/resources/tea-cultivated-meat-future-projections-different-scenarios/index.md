@@ -11,7 +11,7 @@ topics: [Business, Sci-Tech]
 regions: [International]
 images: ["090224_logo_CE-Delft_RGB_kleur_0.png"]
 featured_image: "090224_logo_CE-Delft_RGB_kleur_0.png"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.cedelft.eu/en/publications/2609/tea-of-cultivated-meat-future-projections-of-different-scenarios
 source: cedelft.eu
 draft: false

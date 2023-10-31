@@ -11,7 +11,7 @@ topics: [Health]
 regions: [International]
 images: ["report cover.jpg"]
 featured_image: "report cover.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.unep.org/resources/report/preventing-future-zoonotic-disease-outbreaks-protecting-environment-animals-and
 source: unep.org
 draft: false

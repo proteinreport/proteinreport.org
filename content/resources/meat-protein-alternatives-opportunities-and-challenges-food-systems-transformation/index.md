@@ -9,7 +9,7 @@ proteins: [Cell-Based, Plant-Based, Insect]
 products: [Meat]
 topics: [Business, Environment, Policy]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.oecd-ilibrary.org/agriculture-and-food/meat-protein-alternatives_387d30cf-en
 draft: false
 uuid: 11210

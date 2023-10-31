@@ -9,7 +9,7 @@ proteins: [Cell-Based]
 products: [Meat, Ingredients, Cell Culture Media]
 topics: [Sci-Tech]
 regions: [International, US & Canada]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.biorxiv.org/content/10.1101/2022.09.02.506409v1
 draft: false
 uuid: 11145

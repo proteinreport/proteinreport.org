@@ -11,7 +11,7 @@ topics: [Business, Environment]
 regions: [International]
 images: ["image.jpg"]
 featured_image: "image.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.fairr.org/article/global-investor-engagement-on-meat-sourcing-progress-briefing/
 source: fairr.org
 draft: false

@@ -9,7 +9,7 @@ proteins: [Plant-Based]
 products: [Meat]
 topics: [Environment, Policy]
 regions: [US & Canada]
-resource_type: [academic]
+resource_type: "academic"
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961790
 draft: false
 uuid: 10043

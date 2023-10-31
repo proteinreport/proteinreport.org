@@ -11,7 +11,7 @@ topics: [Business, Environment, Health, Policy]
 regions: [International]
 images: ["fairr.jpg"]
 featured_image: "fairr.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.fairr.org/article/industry-reinfected/
 source: fairr.org
 draft: false

@@ -9,7 +9,7 @@ proteins: [Microbial]
 products: [Ingredients]
 topics: [Sci-Tech]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/pii/S1567539422002717
 draft: false
 uuid: 11231

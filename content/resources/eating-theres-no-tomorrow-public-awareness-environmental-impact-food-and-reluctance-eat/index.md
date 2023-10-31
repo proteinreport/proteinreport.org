@@ -5,7 +5,7 @@ lastmod: 2019-08-26 04:56:32
 slug: eating-theres-no-tomorrow-public-awareness-environmental-impact-food-and-reluctance-eat
 description: "Reducing meat consumption is central to many of the scientific debates on healthy, sustainable diets because of the high environmental impact of meat production. Missing from these debates are the public perspectives about eating less meat and consideration of cultural and social values associated with meat. The aim of this study was to explore public awareness of the environmental impact of food and their willingness to reduce meat consumption."
 excerpt: "Reducing meat consumption is central to many of the scientific debates on healthy, sustainable diets because of the high environmental impact of meat production. Missing from these debates are the public perspectives about eating less meat and consideration of cultural and social values associated with meat. The aim of this study was to explore public awareness of the environmental impact of food and their willingness to reduce meat consumption."
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.semanticscholar.org/paper/Eating-like-there's-no-tomorrow%3A-Public-awareness-a-Macdiarmid-Douglas/568a9200d50b4ba225486849b601824c94be92ba
 draft: false
 uuid: 103

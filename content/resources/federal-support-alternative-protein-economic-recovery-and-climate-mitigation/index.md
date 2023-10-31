@@ -11,7 +11,7 @@ topics: [Policy]
 regions: [US & Canada]
 images: ["AdobeStock_326209485.jpeg"]
 featured_image: "AdobeStock_326209485.jpeg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://thebreakthrough.org/articles/federal-support-for-alt-protein
 source: thebreakthrough.org
 draft: false

@@ -11,7 +11,7 @@ topics: [Business]
 regions: [Europe]
 images: ["cover.jpg"]
 featured_image: "cover.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.oxfordeconomics.com/recent-releases/The-socio-economic-impact-of-cultivated-meat-in-the-UK
 source: oxfordeconomics.com
 draft: false

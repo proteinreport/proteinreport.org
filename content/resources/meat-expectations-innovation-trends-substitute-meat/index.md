@@ -11,7 +11,7 @@ topics: [Business]
 regions: [Oceania]
 images: ["dinner-party-grey.jpg"]
 featured_image: "dinner-party-grey.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.ipaustralia.gov.au/tools-resources/publications-reports/meat-expectations-innovation-trends-substitute-meat
 source: ipaustralia.gov.au
 draft: false

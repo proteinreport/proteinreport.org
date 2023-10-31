@@ -9,7 +9,7 @@ proteins: [Microbial, Fungi]
 products: [Meat, Ingredients]
 topics: [Sci-Tech]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/abs/pii/S0924224422000358
 draft: false
 uuid: 11346

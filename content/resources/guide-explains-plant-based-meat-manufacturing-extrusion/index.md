@@ -11,7 +11,7 @@ topics: [Sci-Tech]
 regions: [International]
 images: ["GettyImages-1145276336-2.jpg"]
 featured_image: "GettyImages-1145276336-2.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.gfi.org/blog-plant-based-manufacturing-guide
 source: gfi.org
 draft: false

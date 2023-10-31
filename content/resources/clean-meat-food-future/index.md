@@ -11,7 +11,7 @@ topics: [Business]
 regions: [International]
 images: ["191113_MKG_ET_CH1_Clean_Meat_Website_PromoIMG_800x600.png"]
 featured_image: "191113_MKG_ET_CH1_Clean_Meat_Website_PromoIMG_800x600.png"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.emdgroup.com/en/research/science-space/envisioning-tomorrow/scarcity-of-resources/cleanmeat.html
 source: emdgroup.com
 draft: false

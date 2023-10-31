@@ -11,7 +11,7 @@ topics: [Business]
 regions: [Europe]
 images: ["cover.jpg"]
 featured_image: "cover.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://think.ing.com/reports/growth-of-meat-and-dairy-alternatives-is-stirring-up-the-european-food-industry/
 source: think.ing.com
 draft: false

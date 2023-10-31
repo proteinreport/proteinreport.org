@@ -8,7 +8,7 @@ excerpt: "Great importance is being given to the impact our food supply chain an
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.frontiersin.org/article/10.3389/fnut.2020.575146/full
 draft: false
 uuid: 7919

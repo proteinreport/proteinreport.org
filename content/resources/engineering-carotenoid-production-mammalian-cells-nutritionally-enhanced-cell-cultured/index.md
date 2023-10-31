@@ -8,7 +8,7 @@ excerpt: "Metabolic engineering of mammalian cells has to-date focused primarily
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/abs/pii/S1096717620301208
 draft: false
 uuid: 8135

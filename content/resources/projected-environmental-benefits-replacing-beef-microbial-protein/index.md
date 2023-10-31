@@ -9,7 +9,7 @@ proteins: [Microbial, Animal]
 products: [Meat]
 topics: [Environment, Sci-Tech]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.nature.com/articles/s41586-022-04629-w
 draft: false
 uuid: 10855

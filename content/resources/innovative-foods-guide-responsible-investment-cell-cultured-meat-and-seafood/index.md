@@ -11,7 +11,7 @@ topics: [Business]
 regions: [International]
 images: ["Food_featured_0.jpg"]
 featured_image: "Food_featured_0.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://business.edf.org/insights/innovative-foods-a-guide-to-responsible-investment-in-cell-cultured-meat-and-seafood/
 source: business.edf.org
 draft: false

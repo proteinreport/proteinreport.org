@@ -5,7 +5,7 @@ lastmod: 2019-11-09 15:58:43
 slug: vitro-meat-solution-problems-meat-production-and-meat-consumption
 description: "In 2013, Mark Post and his colleagues at the University of Maastricht presented the first cultured meat (in-vitromeat) burger made from bovine stem cells. The technological innovation is intended to offer a possibility of reducing or even eliminating the negative effects of current meat production and meat consumption on humans, animals, and the environment. Large scale production, however, is not yet possible, and the question remains whether cultured meat will be able to keep what the developers promise."
 excerpt: "In 2013, Mark Post and his colleagues at the University of Maastricht presented the first cultured meat (in-vitromeat) burger made from bovine stem cells. The technological innovation is intended to offer a possibility of reducing or even eliminating the negative effects of current meat production and meat consumption on humans, animals, and the environment. Large scale production, however, is not yet possible, and the question remains whether cultured meat will be able to keep what the developers promise."
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.ernaehrungs-umschau.de/print-artikel/15-01-2018-in-vitro-fleisch-eine-loesung-der-probleme-der-fleischproduktion-und-des-fleischkonsums/
 draft: false
 uuid: 516

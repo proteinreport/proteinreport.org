@@ -11,7 +11,7 @@ topics: [Business]
 regions: [International]
 images: ["cover.jpg"]
 featured_image: "cover.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.bcg.com/publications/2021/the-benefits-of-plant-based-meats
 source: bcg.com
 draft: false

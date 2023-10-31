@@ -11,7 +11,7 @@ topics: [Business, Policy]
 regions: [International]
 images: ["cover.jpg"]
 featured_image: "cover.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.gfi.org/industry
 source: gfi.org
 draft: false

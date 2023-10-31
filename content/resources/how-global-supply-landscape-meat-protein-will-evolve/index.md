@@ -11,7 +11,7 @@ topics: [Business]
 regions: [International]
 images: ["How-the-global-supply-landscape-1536x1536-700.jpg"]
 featured_image: "How-the-global-supply-landscape-1536x1536-700.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.mckinsey.com/industries/agriculture/our-insights/how-the-global-supply-landscape-for-meat-protein-will-evolve
 source: mckinsey.com
 draft: false

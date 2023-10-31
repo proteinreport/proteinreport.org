@@ -9,7 +9,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Environment]
 regions: [Europe]
-resource_type: [academic]
+resource_type: "academic"
 link: https://research.wur.nl/en/publications/review-and-analysis-of-studies-on-sustainability-of-cultured-meat
 draft: false
 uuid: 10506

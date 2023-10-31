@@ -11,7 +11,7 @@ topics: [Business]
 regions: [US & Canada]
 images: ["dairy-consumers.png"]
 featured_image: "dairy-consumers.png"
-resource_type: [industry]
+resource_type: "industry"
 link: https://foodinsight.org/consumer-research-dairy/
 source: foodinsight.org
 draft: false

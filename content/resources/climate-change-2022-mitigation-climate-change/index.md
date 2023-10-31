@@ -11,7 +11,7 @@ topics: [Environment, Policy]
 regions: [International]
 images: ["ipcc.JPG"]
 featured_image: "ipcc.JPG"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/
 source: ipcc.ch
 draft: false

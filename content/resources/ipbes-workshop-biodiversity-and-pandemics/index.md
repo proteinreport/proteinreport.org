@@ -11,7 +11,7 @@ topics: [Environment, Health, Policy]
 regions: [International]
 images: ["Untitled design (12).jpg"]
 featured_image: "Untitled design (12).jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://ipbes.net/pandemics
 source: ipbes.net
 draft: false

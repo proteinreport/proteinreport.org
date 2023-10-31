@@ -11,7 +11,7 @@ topics: [Business, Policy, Sci-Tech]
 regions: [International]
 images: ["Annotation 2020-02-25 165509.png"]
 featured_image: "Annotation 2020-02-25 165509.png"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.gfi.org/2019
 source: gfi.org
 draft: false

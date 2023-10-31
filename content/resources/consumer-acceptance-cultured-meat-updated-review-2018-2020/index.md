@@ -8,7 +8,7 @@ excerpt: "Cultured meat is one of a number of alternative proteins which can hel
 proteins: [Cell-Based]
 products: [Meat]
 topics: [Business, Culture]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.mdpi.com/2076-3417/10/15/5201
 draft: false
 uuid: 7570

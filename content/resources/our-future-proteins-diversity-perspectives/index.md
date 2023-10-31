@@ -11,7 +11,7 @@ topics: [Business, Culture, Environment, Health, Policy, Sci-Tech]
 regions: [International]
 images: ["futureproteins.jpg"]
 featured_image: "futureproteins.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.wur.nl/en/news-wur/show/book-launch-our-future-proteins-a-diversity-of-perspectives.htm
 source: wur.nl
 draft: false

@@ -540,4 +540,91 @@ collections:
           - {label: "publishResources", name: "publishResources", widget: "boolean", default: true}
           - {label: "render", name: "render", widget: "boolean", default: false}
 
-
+  ########## Resources ##########
+  - name: "resources" # Used in routes, e.g., /admin/collections/blog
+    label: "Resources" # Used in the UI
+    label_singular: "Resource"
+    folder: "content/resources" # The path to the folder where the documents are stored
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
+    create: true # Allow users to create new documents in this collection
+    # slug: "{{slug}}/index.md" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+      - { label: "Updated", name: "lastmod", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+      - { label: "Slug", name: "slug", widget: "string", required: false }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Excerpt", name: "excerpt", widget: "text", required: false }
+      - label: "Proteins"
+        name: "proteins"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          [
+            "Plant-Based",
+            "Cell-Based",
+            "Microbial",
+            "Fungi",
+            "Algae",
+            "Animal",
+            "Insect",
+            "Molecular Farming"
+          ]
+      - label: "Products"
+        name: "products"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          [
+            "Meat",
+            "Dairy",
+            "Eggs",
+            "Seafood",
+            "Ingredients",
+            "Pet Food",
+            "Feed"
+          ]
+      - label: "Topics"
+        name: "topics"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          ["Business", "Environment", "Policy", "Sci-Tech", "Health", "Culture"]
+      - label: "Regions"
+        name: "regions"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          [
+            "Africa",
+            "Asia",
+            "Europe",
+            "International",
+            "Latin America & Caribbean",
+            "Middle East",
+            "Oceania",
+            "US & Canada"
+          ]
+      - { label: "Report Cover", name: "featured_image", widget: "image", required: false }
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        required: false
+        allow_add: true
+        field: {label: "Image", name: "src", widget: "string"}
+      - label: "Resource Type"
+        name: "resource_type"
+        widget: "select"
+        multiple: false
+        required: false
+        options:
+          ["industry", "academic"]
+      - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "UUID", name: "uuid", widget: "uuid" }
+      - { label: "Content", name: "body", widget: "markdown" }

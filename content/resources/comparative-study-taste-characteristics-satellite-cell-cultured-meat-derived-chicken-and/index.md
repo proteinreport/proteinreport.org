@@ -9,7 +9,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [Asia]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.kosfaj.org/archive/view_article?pid=kosfa-42-1-175
 draft: false
 uuid: 10325

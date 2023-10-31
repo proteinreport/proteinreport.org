@@ -11,7 +11,7 @@ topics: [Business, Environment, Health, Policy]
 regions: [International]
 images: ["aquaculture.JPG"]
 featured_image: "aquaculture.JPG"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.fao.org/3/cc0461en/online/cc0461en.html
 source: fao.org
 draft: false

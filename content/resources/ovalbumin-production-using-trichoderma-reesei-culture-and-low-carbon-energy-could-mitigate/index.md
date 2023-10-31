@@ -9,7 +9,7 @@ proteins: [Microbial, Fungi]
 products: [Eggs, Ingredients]
 topics: [Sci-Tech]
 regions: [Europe]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.nature.com/articles/s43016-021-00418-2
 draft: false
 uuid: 10253

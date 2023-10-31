@@ -11,7 +11,7 @@ topics: [Business, Policy]
 regions: [US & Canada]
 images: ["cover.jpg"]
 featured_image: "cover.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://thebreakthrough.org/issues/food/case-for-public-investment-in-alt-proteins
 draft: false
 uuid: 8709

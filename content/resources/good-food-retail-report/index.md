@@ -11,7 +11,7 @@ topics: [Business]
 regions: [US & Canada]
 images: ["COR-RetailReport-LandingPage_CoverThumbnail_Stars.png"]
 featured_image: "COR-RetailReport-LandingPage_CoverThumbnail_Stars.png"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.gfi.org/blog-retail-report-2020
 source: gfi.org
 draft: false

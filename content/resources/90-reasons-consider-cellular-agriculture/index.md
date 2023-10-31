@@ -11,7 +11,7 @@ topics: [Business, Culture, Environment, Health]
 regions: [International]
 images: ["90 reasons.png"]
 featured_image: "90 reasons.png"
-resource_type: [industry]
+resource_type: "industry"
 link: https://dash.harvard.edu/handle/1/38573490
 source: harvard.edu
 draft: false

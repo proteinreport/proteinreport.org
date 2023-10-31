@@ -11,7 +11,7 @@ topics: [Business, Environment, Health, Policy]
 regions: [International]
 images: ["cover.jpg"]
 featured_image: "cover.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.fairr.org/article/industry-infected/
 draft: false
 uuid: 7055

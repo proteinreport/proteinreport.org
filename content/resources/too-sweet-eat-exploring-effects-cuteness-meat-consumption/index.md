@@ -5,7 +5,7 @@ lastmod: 2019-11-09 15:39:00
 slug: too-sweet-eat-exploring-effects-cuteness-meat-consumption
 description: "Although daily meat consumption is a widespread habit, many individuals at the same time put a high value on the welfare of animals. While different psychological mechanisms have been identified to resolve this cognitive tension, such as dissociating the animal from the consumed meat or denying the animal’s moral status, few studies have investigated the effects of the animal’s appearance on the willingness to consume its meat. The present article explored how the perception of cuteness influences hypothetical meat consumption."
 excerpt: "Although daily meat consumption is a widespread habit, many individuals at the same time put a high value on the welfare of animals. While different psychological mechanisms have been identified to resolve this cognitive tension, such as dissociating the animal from the consumed meat or denying the animal’s moral status, few studies have investigated the effects of the animal’s appearance on the willingness to consume its meat. The present article explored how the perception of cuteness influences hypothetical meat consumption."
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/abs/pii/S0195666317306190?via%3Dihub=
 draft: false
 uuid: 512

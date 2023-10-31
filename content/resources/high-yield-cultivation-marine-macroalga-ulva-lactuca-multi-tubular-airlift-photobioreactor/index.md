@@ -9,7 +9,7 @@ proteins: [Algae]
 products: [Ingredients]
 topics: [Sci-Tech]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.sciencedirect.com/science/article/abs/pii/S0959652621039226
 draft: false
 uuid: 10049

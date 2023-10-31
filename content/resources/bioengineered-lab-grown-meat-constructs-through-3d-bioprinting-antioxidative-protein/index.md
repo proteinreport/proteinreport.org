@@ -9,7 +9,7 @@ proteins: [Cell-Based]
 products: [Meat]
 topics: [Sci-Tech]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://pubs.acs.org/doi/abs/10.1021/acsami.2c10620
 draft: false
 uuid: 11120

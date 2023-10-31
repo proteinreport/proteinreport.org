@@ -11,7 +11,7 @@ topics: [Business]
 regions: [International]
 images: ["cover.png"]
 featured_image: "cover.png"
-resource_type: [industry]
+resource_type: "industry"
 link: https://brightgreenpartners.com/resource/ma-corporates-alt-protein/
 draft: false
 uuid: 8708

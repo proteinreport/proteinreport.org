@@ -5,7 +5,7 @@ lastmod: 2019-08-26 01:04:04
 slug: social-temporal-and-situational-influences-meat-consumption-uk-population
 description: "The amount of meat consumed is having a negative impact on both health and the environment. This study investigated the probability of eating meat and the amount eaten at a meal within different social, temporal and situational contexts. Dietary intake data from 4-day diet diaries of adults (19 years and above) taken from the UK National Diet and Nutrition Survey (2008/9-2013/14) were used for the analysis."
 excerpt: "The amount of meat consumed is having a negative impact on both health and the environment. This study investigated the probability of eating meat and the amount eaten at a meal within different social, temporal and situational contexts. Dietary intake data from 4-day diet diaries of adults (19 years and above) taken from the UK National Diet and Nutrition Survey (2008/9-2013/14) were used for the analysis."
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.ncbi.nlm.nih.gov/pubmed/30858068
 draft: false
 uuid: 99

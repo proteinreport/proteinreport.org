@@ -11,7 +11,7 @@ topics: [Business, Environment, Health]
 regions: [International]
 images: ["image.revampimg.1200.high.jpg"]
 featured_image: "image.revampimg.1200.high.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.credit-suisse.com/about-us-news/en/articles/news-and-expertise/sustainable-food-as-an-investment-opportunity-202106.html
 source: credit-suisse.com
 draft: false

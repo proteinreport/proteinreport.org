@@ -11,7 +11,7 @@ topics: [Business, Environment]
 regions: [International]
 images: ["reportcover.JPG"]
 featured_image: "reportcover.JPG"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.bcg.com/publications/2022/combating-climate-crisis-with-alternative-protein
 source: bcg.com
 draft: false

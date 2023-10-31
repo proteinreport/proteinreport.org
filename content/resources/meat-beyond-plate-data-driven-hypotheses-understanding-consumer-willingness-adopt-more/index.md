@@ -5,7 +5,7 @@ lastmod: 2019-08-24 23:12:57
 slug: meat-beyond-plate-data-driven-hypotheses-understanding-consumer-willingness-adopt-more
 description: "A shift towards reduced meat consumption and a more plant-based diet is endorsed to promote sustainability, improve public health, and minimize animal suffering. However, large segments of consumers do not seem willing to make such transition. While it may take a profound societal change to achieve significant progresses on this regard, there have been limited attempts to understand the psychosocial processes that may hinder or facilitate this shift."
 excerpt: "A shift towards reduced meat consumption and a more plant-based diet is endorsed to promote sustainability, improve public health, and minimize animal suffering. However, large segments of consumers do not seem willing to make such transition. While it may take a profound societal change to achieve significant progresses on this regard, there have been limited attempts to understand the psychosocial processes that may hinder or facilitate this shift."
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.mendeley.com/catalogue/meat-beyond-plate-datadriven-hypotheses-understanding-consumer-willingness-adopt-more-plantbased-die/
 draft: false
 uuid: 98

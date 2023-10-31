@@ -11,7 +11,7 @@ topics: [Business, Policy]
 regions: [Oceania]
 images: ["caa_white_paper.JPG"]
 featured_image: "caa_white_paper.JPG"
-resource_type: [industry]
+resource_type: "industry"
 link: https://cellularagricultureaustralia.org/advocacy/
 source: cellularagricultureaustralia.org
 draft: false

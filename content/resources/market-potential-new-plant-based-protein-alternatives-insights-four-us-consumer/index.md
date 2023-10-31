@@ -9,7 +9,7 @@ proteins: [Plant-Based]
 products: [Meat]
 topics: [Business]
 regions: [US & Canada]
-resource_type: [academic]
+resource_type: "academic"
 link: https://onlinelibrary.wiley.com/doi/full/10.1002/aepp.13253
 draft: false
 uuid: 10626

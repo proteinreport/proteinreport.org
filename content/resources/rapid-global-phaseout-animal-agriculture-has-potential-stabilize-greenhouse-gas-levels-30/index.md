@@ -9,7 +9,7 @@ proteins: [Animal]
 products: [Meat, Dairy, Eggs]
 topics: [Environment]
 regions: [International]
-resource_type: [academic]
+resource_type: "academic"
 link: https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000010
 draft: false
 uuid: 10459

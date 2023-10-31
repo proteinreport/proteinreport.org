@@ -11,7 +11,7 @@ topics: [Business]
 regions: [Oceania]
 images: ["Report Cover_0.jpg"]
 featured_image: "Report Cover_0.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.foodfrontier.org/reports/
 draft: false
 uuid: 8590

@@ -11,7 +11,7 @@ topics: [Business, Environment]
 regions: [Asia]
 images: ["aquaculture.jpg"]
 featured_image: "aquaculture.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.fairr.org/article/oceans-and-biodiversity-impact
 source: fairr.org
 draft: false

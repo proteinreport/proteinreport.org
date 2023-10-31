@@ -11,7 +11,7 @@ topics: [Business, Policy]
 regions: [US & Canada]
 images: ["report cover.jpg"]
 featured_image: "report cover.jpg"
-resource_type: [industry]
+resource_type: "industry"
 link: https://www.candesyne.ca/cellular-agriculture
 source: candesyne.ca
 draft: false

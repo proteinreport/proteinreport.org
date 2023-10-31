@@ -8,7 +8,7 @@ excerpt: "The global demand for fish is rising and projected to increase for yea
 proteins: [Cell-Based]
 products: [Seafood]
 topics: [Sci-Tech]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.cell.com/one-earth/fulltext/S2590-3322(20)30294-3
 draft: false
 uuid: 7377

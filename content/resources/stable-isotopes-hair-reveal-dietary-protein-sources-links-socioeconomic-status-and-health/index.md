@@ -8,7 +8,7 @@ excerpt: "Carbon and nitrogen isotope ratios in hair sampled from 65 communities
 proteins: [Animal]
 products: [Meat, Dairy]
 topics: [Health]
-resource_type: [academic]
+resource_type: "academic"
 link: https://www.pnas.org/content/early/2020/07/29/1914087117
 draft: false
 uuid: 7420
