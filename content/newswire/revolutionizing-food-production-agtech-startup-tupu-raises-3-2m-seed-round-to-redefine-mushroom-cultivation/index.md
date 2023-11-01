@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Food Production: AgTech startup Tupu Raises $3.2M Seed
   Round to Redefine Mushroom Cultivation"
-date: 2023-10-01 12:38:27
+date: 2023-10-31 12:38:27
 lastmod: 2023-11-01 12:38:27
 slug: revolutionizing-food-production-agtech-startup-tupu-raises-3-2m-seed-round-redefine-mushroom-cultivation
 company: ""
