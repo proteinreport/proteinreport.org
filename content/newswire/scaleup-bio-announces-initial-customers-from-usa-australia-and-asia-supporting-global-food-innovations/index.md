@@ -102,4 +102,4 @@ At Ultimeat, we focus on creating plant-based meat that delivers texture, taste 
 
 **About Allium Bio**
 
-At Allium Bio, we’re creating sustainable and functional ingredients to replace processed additives. We use a brand-new fermentation technology to grow our plant-based ingredients with better textures, flavours, and functional properties. Better ingredients, better products, and a cleaner ingredients label for everyone. Learn more about c16 Biosciences by visiting <https://www.curieco.com/>.
+At Allium Bio, we’re creating sustainable and functional ingredients to replace processed additives. We use a brand-new fermentation technology to grow our plant-based ingredients with better textures, flavours, and functional properties. Better ingredients, better products, and a cleaner ingredients label for everyone. Learn more about Allium Bio by visiting <https://www.alliumbio.com/>.
