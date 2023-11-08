@@ -13,7 +13,7 @@
       {{ $image := .Resources.GetMatch .Params.featured_image -}}
       {{ $image_caption := .Title }}
       {{ if .Params.featured_image_caption }}
-        {{ $image_caption = .Params.featured_image_caption | markdownify }}
+        {{ $image_caption = .Params.featured_image_caption }}
       {{ end }}
       {{ $image_placeholder := "assets/images/newswire_placeholder" }}
       <div fetchpriority="high" class="w-full relative">
@@ -31,7 +31,7 @@
             <img src="{{ $image.RelPermalink }}" class="aspect-video object-cover w-full">
           {{ end }}
           {{ if .Params.featured_image_caption }}
-            <span class="w-full block px-6 py-2 bg-gray-100">{{ $image_caption }}</span>
+            <span class="w-full block px-6 py-2 bg-gray-100">{{ $image_caption | markdownify }}</span>
           {{ end }}
 
         {{ else }}
