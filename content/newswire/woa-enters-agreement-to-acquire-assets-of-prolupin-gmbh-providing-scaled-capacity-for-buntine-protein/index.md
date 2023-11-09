@@ -27,9 +27,9 @@ regions:
   - Oceania
 flags:
   - Investments
-featured_image: woa.jpg
+featured_image: woa1.jpg
 images:
-  - woa.jpg
+  - woa1.jpg
 uuid: dEY9Sj8tjiUleTqO2NLi
 ---
 * Wide Open Agriculture has entered into an agreement to acquire the assets of Prolupin GmbH, a leading European lupin protein producer, for €2.5m, granting WOA immediate commercial scale manufacturing capabilities to bring Buntine Protein® to market.
