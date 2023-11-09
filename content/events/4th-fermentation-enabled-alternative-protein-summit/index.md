@@ -24,14 +24,14 @@ topics:
 regions:
   - US & Canada
 images:
-  - 4th-fermentation-enabled-alternative-protein-summit.jpg
+  - 35022-protein-report.jpg
 featured_image: 4th-fermentation-enabled-alternative-protein-summit.jpg
-banner_image: 4th-fermentation-enabled-alternative-protein-summit.jpg
+banner_image: 35022-protein-report.jpg
 start_date: 2024-02-13
 end_date: 2024-02-15
 country: United States
 city: San Francisco
-website: https://fermentation-enabled-proteins.com/
+website: https://ter.li/hic2k2
 uuid: R9l4CcsAII56yq6hEdmK
 ---
 The 4th Fermentation-Enabled Alternative Protein Summit returns as your definitive, flagship forum to drill down into the end-to-end technical and strategic challenges of commercializing an alternative protein.
