@@ -1,5 +1,5 @@
 ---
-title: Woa Enters Agreement to Acquire Assets Of Prolupin Gmbh, Providing Scaled
+title: WOA Enters Agreement to Acquire Assets Of Prolupin Gmbh, Providing Scaled
   Capacity For Buntine Protein
 date: 2023-10-10 10:11:28
 lastmod: 2023-11-09 10:11:28
