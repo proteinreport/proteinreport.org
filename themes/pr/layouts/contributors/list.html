@@ -5,7 +5,8 @@
     <p class="md:w-2/3 p-10 lg:text-2xl">Writers, editors, and subject-matter experts</p>
   </div>
   <div class="grid grid-cols-4 gap-4 p-4 w-full 2xl:border-x-2">
-    {{ range .Data.Pages -}}
+    {{ $pages := sort .Data.Pages ".Params.title" }}
+    {{ range $pages -}}
     {{ if not (in .Params.flags "Exclude")}}
     <a href="{{ .RelPermalink }}" class="w-full flex flex-col justify-center items-center">
       {{ $image := .Resources.GetMatch .Params.featured_image -}}
