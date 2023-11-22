@@ -352,17 +352,24 @@ collections:
     create: true # Allow users to create new documents in this collection
     # slug: "{{slug}}/index.md" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - { label: "Layout", name: "layout", widget: "hidden", default: "contributors" }
       - { label: "Name", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+      - { label: "Updated", name: "lastmod", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+      - { label: "Slug", name: "slug", widget: "string", required: false }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Author Image", name: "featured_image", widget: "image", required: false }
       - label: "Images"
         name: "images"
         widget: "list"
-        fields:
-          - { label: "Image", name: "src", widget: "image" }
-          - { label: "Alt", name: "alt", widget: "string" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Caption", name: "caption", widget: "string" }
-      - { label: "Description", name: "description", widget: "text" }
+        required: false
+        allow_add: true
+        field: {label: "Image", name: "src", widget: "string"}
+      - { label: "Website", name: "website", widget: "string", required: false }
+      - { label: "LinkedIn", name: "linkedin", widget: "string", required: false }
+      - { label: "Twitter", name: "twitter", widget: "string", required: false }
+      - { label: "Instagram", name: "instagram", widget: "string", required: false }
+      - { label: "Facebook", name: "facebook", widget: "string", required: false }
+      - { label: "Youtube", name: "youtube", widget: "string", required: false }
       - { label: "UUID", name: "uuid", widget: "uuid" }
       - { label: "Content", name: "body", widget: "markdown" }
   ########## Events ##########
