@@ -370,7 +370,9 @@ collections:
       - { label: "Instagram", name: "instagram", widget: "string", required: false }
       - { label: "Facebook", name: "facebook", widget: "string", required: false }
       - { label: "Youtube", name: "youtube", widget: "string", required: false }
+      - { label : "Draft", name: "draft", widget: "boolean", required: false }
       - { label: "UUID", name: "uuid", widget: "uuid" }
+      - { label: "Weight", name: "weight", widget: "number", required: false, default: 5000, value_type: "int"}
       - { label: "Content", name: "body", widget: "markdown" }
   ########## Events ##########
   - name: "events" # Used in routes, e.g., /admin/collections/blog
