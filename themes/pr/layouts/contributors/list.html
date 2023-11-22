@@ -2,7 +2,7 @@
 {{ partial "main/page-title.html" . }}
 <section id="newswire-list" class="w-full">
   <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
-    <div class="w-full mt-8 grid grid-cols-2 auto-rows-fr gap-8 sm:grid-cols-3 md:grid-cols-4">
+    <div class="w-full mt-8 grid grid-cols-2 auto-rows-fr gap-2 sm:gap-4 md:gap-8 sm:grid-cols-3 md:grid-cols-4">
       {{ $pages := sort .Data.Pages ".Params.title" }}
       {{ range $pages -}}
       {{ if not (in .Params.flags "Exclude")}}
