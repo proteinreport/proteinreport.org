@@ -236,6 +236,7 @@
       "justify-between",
       "justify-center",
       "justify-content-center",
+      "justify-end",
       "justify-start",
       "lazyload",
       "leading-none",
