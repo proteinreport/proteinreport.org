@@ -1,0 +1,58 @@
+{{ $image := .Page.Resources.GetMatch .Params.featured_image }}
+{{ $image_placeholder := "assets/images/article_placeholder.png" }}
+
+<article class="relative flex items-center bg-white transition hover:shadow-xl border">
+
+    <a href="{{ .RelPermalink }}" class="hidden sm:block sm:basis-56">
+        {{ if .Site.Params.hyas_images }}
+            {{ if $image -}}
+                {{ partial "picture" (dict
+                "ctx" .
+                "src" $image
+                "alt" .Title
+                "widths" (slice 100 224 300)
+                "class" "img-fluid blur-up aspect-square w-full object-contain"
+                )}}
+            {{ else }}
+                {{ partial "picture" (dict
+                "ctx" .
+                "src" $image_placeholder
+                "alt" .Title
+                "widths" (slice 100 224 300)
+                "class" "img-fluid blur-up aspect-video w-full rotate-12 object-contain"
+                )}}
+            {{ end -}}
+        {{ else }}
+            {{ if $image }}
+                <img src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain">
+            {{ else }}
+                <img src="{{ $image_placeholder }}" class="aspect-video w-full rotate-12 object-contain">
+            {{ end }}
+        {{ end }}
+    </a>
+
+    <div class="flex flex-1 flex-col justify-center">
+        <div class="border-s border-gray-900/10 p-4 sm:border-l-transparent sm:p-6">
+            <a href="{{ .RelPermalink }}">
+                <h3 class="font-bold uppercase text-gray-900">
+                    {{ .Params.title | truncate 120 }}
+                </h3>
+            </a>
+
+            <p class="mt-4 line-clamp-3 text-sm/relaxed text-gray-700">
+                {{ $url := .Params.link }}
+                {{ $u := urls.Parse $url }}
+                <a target="_blank" href="{{ .Params.link }}">{{ replace $u.Hostname "www." "" }}</a>
+            </p>
+        </div>
+
+        <p class="border-2 border-l-0 p-2 absolute top-4 left-0 bg-white">
+            {{ if in .Params.resource_type "academic" }}
+            Academic Article
+            {{ else if in .Params.resource_type "industry" }}
+            Industry Report
+            {{ end }}
+        </p>
+
+    </div>
+</article>

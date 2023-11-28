@@ -1,0 +1,73 @@
+{{ define "main" }}
+<article>
+  <div class="mx-auto w-full border-y-4 mt-12">
+    <div class="py-12 px-2 mx-auto text-center max-w-7xl 2xl:border-x-4">
+      <h1 class="text-4xl md:text-6xl">{{ .Title }}</h1>
+      <div class="flex pt-4 text-2xl justify-center">
+        {{ partial "event/meta.html" . }}
+      </div>
+    </div>
+  </div>
+  <div class="grid grid-cols-1 gap-6 mx-auto max-w-7xl md:grid-cols-3 2xl:border-x-4">
+    <div class="flex flex-col w-full md:col-span-2">
+      {{ $image := .Resources.GetMatch .Params.banner_image -}}
+      {{ if $image -}}
+        <div class="w-full relative">
+          <a href="{{ .Params.website }}" target="_blank">
+            {{ if .Site.Params.hyas_images }}
+              {{ partial "picture" (dict
+              "ctx" .
+              "src" $image
+              "alt" .Title
+              "class" "img-fluid w-full aspect-[4/1] object-contain"
+              "loading" "auto"
+              )}}
+            {{ else }}
+              <img src="{{ $image.RelPermalink }}" class="w-full aspect-[4/1] object-cover">
+            {{ end }}
+          </a>
+          {{ partial "event/flags.html" . }}
+        </div>
+      {{ end -}}
+      <div class="w-full px-2 prose prose-xl leading-normal mx-auto py-4">
+        {{ .Content }}
+      </div>
+      <div class="px-2 md:px-6 lg:px-12 mt-6 w-full">
+        <a href="{{ .Params.website }}" target="_blank" class="mx-auto w-full text-xl btn-yellow">Event website</a>
+      </div>
+    </div>
+    <div class="flex flex-col w-full gap-6 md:col-span-1">
+      <aside class="flex flex-col gap-4 w-full mt-2 px-2 md:pl-0">
+        <div class="w-full flex flex-col">
+          <h2 class="text-lg font-bold border-b-2 py-2">Organizer:</h2>
+          {{ $logo := .Resources.GetMatch .Params.featured_image -}}
+          {{ if $logo -}}
+            {{ $img_alt := printf "%s%s" .Title " logo" }}
+            <a class="flex my-2 w-1/2" href="{{ .Params.website }}" target="_blank">
+              {{ if .Site.Params.hyas_images }}
+                {{ partial "picture" (dict
+                "ctx" .
+                "src" $logo
+                "alt" $img_alt
+                "widths" (slice 40 70 150 224 480)
+                "class" "img-fluid blur-up aspect-video object-contain my-2"
+                )}}
+              {{ else }}
+                <img src="{{ $logo.RelPermalink }}" class="aspect-video object-contain my-2" alt="{{ $img_alt }}">
+              {{ end }}
+            </a>
+          {{ end }}
+        </div>
+        <div>
+          <h3 class="text-lg font-bold border-b-2 py-2">Categories:</h3>
+          {{ partial "event/categories.html" . }}
+        </div>
+      </aside>
+      <aside class="w-full mt-12 px-2 md:pl-0 md:h-fit md:sticky md:top-0">
+        <h2 class="text-3xl my-2 border-b-2 py-2">Upcoming Events</h2>
+        {{ partial "event/latest.html" . }}
+      </aside>
+    </div>
+  </div>
+</article>
+{{ end }}

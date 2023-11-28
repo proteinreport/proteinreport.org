@@ -1,0 +1,27 @@
+{{ $p := where (where .Site.Pages "Section" "contributors") "Params.uuid" "in" .Params.contributors }}
+
+<div class="flex flex-row flex-wrap md:flex-col divide-y-4 border-y-2">
+{{ range $p }}
+  {{ $image := .Resources.GetMatch .Params.featured_image }}
+  {{ $img_alt := printf "%s%s" .Title " profile photo" }}
+  <!-- {{ $image = $image.Resize "160x160 webp q95" -}} -->
+  <a href="{{ .RelPermalink }}" class="flex flex-row w-full items-center">
+    <div class="w-1/5">
+      {{ if $image }}
+          {{ if .Site.Params.hyas_images }}
+              {{ partial "picture" (dict
+              "ctx" .
+              "src" $image
+              "alt" $img_alt
+              "widths" (slice 40 70 150)
+              "class" "img-fluid blur-up aspect-square object-cover"
+              )}}
+          {{ else }}
+              <img src="{{ $image.RelPermalink }}" class="aspect-square w-full object-cover" alt="{{ $img_alt }}">
+          {{ end }}
+      {{ end }}
+    </div>
+    <p class="text-xl pl-4">{{.Title}}</p>
+  </a>
+{{end}}
+</div>
