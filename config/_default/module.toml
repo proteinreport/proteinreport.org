@@ -28,14 +28,6 @@
   target = "layouts"
 
 [[mounts]]
-  source = "themes/pr/assets"
-  target = "assets"
-
-[[mounts]]
-  source = "themes/pr/layouts"
-  target = "layouts"
-
-[[mounts]]
   source = "assets"
   target = "assets"
 

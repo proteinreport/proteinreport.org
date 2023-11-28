@@ -1,0 +1,37 @@
+{{ define "main" }}
+<article>
+  {{ partial "main/page-title.html" . }}
+  <div class="grid grid-cols-1 gap-6 mx-auto mt-6 max-w-7xl md:grid-cols-2 md:divide-x-2 2xl:border-x-4">
+    <div class="flex items-center justify-center w-full p-4 md:p-12">
+      {{ $image := .Resources.GetMatch .Params.featured_image -}}
+      {{ $img_alt := printf "%s%s" .Title " logo" }}
+      {{ if $image -}}
+        {{ if .Site.Params.hyas_images }}
+          {{ partial "picture.html" (dict
+            "page" .
+            "src" $image
+            "alt" $img_alt
+            "widths" (slice 40 70 150 224 480)
+            "class" "img-fluid aspect-square object-contain"
+            "loading" "auto"
+          )}}
+        {{ else }}
+          <img src="{{ $image.RelPermalink }}" class="img-fluid aspect-square object-contain" alt="{{ $img_alt }}">
+        {{ end }}
+      {{ end -}}
+    </div>
+    <div class="w-full flex items-center prose prose-xl px-4">
+      {{ .Content }}
+    </div>
+    <div class="w-full px-4 md:order-4">
+      {{ partial "directory/links.html" . }}
+    </div>
+    <div class="w-full px-4 md:order-3">
+      {{ partial "directory/details.html" . }}
+    </div>
+  </div>
+  <aside class="">
+    {{ partial "directory/newswire.html" . }}
+  </aside>
+</article>
+{{ end }}
