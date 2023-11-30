@@ -32,14 +32,14 @@ images:
 uuid: KmGzSFyVPyK4RI1NBti
 ---
 * Cellular Agriculture Australia (CAA) is a registered Australian not-for-profit dedicated to advancing the cellular agriculture sector in Australia. Their work is focussed on critical challenges and opportunities facing the cellular agriculture sector in Australia. They work with a diverse range of stakeholders including companies, universities, students, investors, other NFPs, regulators and government agencies who are engaged or looking to engage with the cellular agriculture sector.
-* Cellular Agriculture Australia’s new Language Guide provides a foundation of clear and consistent terms and language, primarily for use by those within the sector.
+* Cellular Agriculture Australia’s new [Language Guide](https://www.cellularagricultureaustralia.org/resources/key-terms) provides a foundation of clear and consistent terms and language, primarily for use by those within the sector.
 * The Language Guide sets out a series of key terms, definitions, and overarching communications principles which have been informed by secondary research and input from sector leaders.
 
 Leading not-for-profit Cellular Agriculture Australia (CAA) has released a Cellular Agriculture Language Guide developed in consultation with the Australian ecosystem. The guide outlines a set of voluntary guidelines designed to harmonise sector-wide terminology and definitions relating to the cellular agriculture sector in Australia, which companies can adapt for their specific marketing and brand positioning needs.
 
 Globally, there is considerable discrepancy in the use and definition of terminology within the cellular agriculture sector. This starts with the fundamental definition of “what is cellular agriculture?”, which is surprisingly inconsistent in its scope and definition.
 
-Despite regional efforts, notably the 2022 memorandum of understanding (MOU) signed between 36 stakeholders in the APAC region, significant inconsistencies persist in the sector's preferred terms.
+Despite regional efforts, notably the [2022 memorandum of understanding (MOU)](https://gfi-apac.org/leading-apac-cellular-agriculture-stakeholders-announce-historic-agreement-in-singapore/) signed between 36 stakeholders in the APAC region, significant inconsistencies persist in the sector's preferred terms.
 
 “The importance of clear, consistent and accurate language cannot be overstated. It plays a crucial role in our ability to build familiarity and trust in the cellular agriculture sector. This is also essential to minimise unnecessary scepticism and criticism generated from inconsistent and inappropriate language,” says Sam Perkins, CEO of CAA.
 
@@ -47,7 +47,7 @@ CAA’s Language Guide, is a result of extensive secondary research and consulta
 
 "Words have power,” says project contributor and Associate Professor Sensory and Consumer Science at Deakin University, Gie Liem. “They shape the consumers’ expectations and sensory experiences of various products. I have witnessed this phenomenon across a diverse range of products and consumers. It was a pleasure to participate in the development of the Key Terms Language Guide for CAA. I was impressed by the multidisciplinary collaboration amongst the different stakeholders involved in this project, such as legal experts, food scientists, and consumer experts”.
 
-In their recent food safety publication, the FAO/WHO called for urgent action to harmonise language use in the sector whilst products produced through cellular agriculture technologies, particularly cultivated foods, are not yet available in most parts of the world.
+In their [recent food safety publication](https://www.who.int/publications/i/item/9789240070943), the FAO/WHO called for urgent action to harmonise language use in the sector whilst products produced through cellular agriculture technologies, particularly cultivated foods, are not yet available in most parts of the world.
 
 With cellular agriculture company Vow currently undergoing its first food regulation assessments in Australia, and other companies gearing up to apply for regulatory approval in 2024, this presents a critical time for the sector to ensure a consistent approach to language.
 
