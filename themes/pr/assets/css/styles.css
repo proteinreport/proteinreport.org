@@ -63,7 +63,8 @@
     filter: unset;
   }
   p > a,
-  .prose > p > a {
+  .prose > p > a,
+  .prose > ul > li > a {
     @apply special-underline;
   }
 }
