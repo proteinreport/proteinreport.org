@@ -1,7 +1,7 @@
 ---
 title: Hi-Food and Alianza Team Europe Win 'Plant-Based Innovation Award' for
   MirrorTissue, a Clean-Label and Allergen-Free Protein Emulsion
-date: 2023-11-30 14:32:24
+date: 2023-11-29 14:32:24
 lastmod: 2023-11-30 16:32:24
 slug: hi-food-alianza-team-europe-win-plant-based-innovation-award-mirrortissue-clean-label-allergen-free-protein-emulsion
 company_name: CSM Ingredients
