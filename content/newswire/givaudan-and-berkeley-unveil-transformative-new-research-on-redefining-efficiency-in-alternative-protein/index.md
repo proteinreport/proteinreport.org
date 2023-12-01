@@ -27,8 +27,8 @@ products:
 topics:
   - Business
 regions:
-  - International
   - US & Canada
+  - Europe
 featured_image: whitepaper.jpg
 images:
   - whitepaper.jpg
@@ -36,7 +36,7 @@ uuid: kNPpzZkeJgpmRcQTeVl
 ---
 *New white paper outlines 10 pathways to more affordable, sustainable plant-based products*
 
-In their fifth annual collaboration, Givaudan and the University of California Berkeley have released transformative research paving the way for enhanced efficiency in alternative protein. The latest white paper entitled ‘10 Alternative Protein Pathways: Opportunities for Greater Efficiency’ outlines key challenges and opportunities on the journey to co-create delicious and nutritious alt-protein experiences that delight consumers.
+**Zurich, November 28, 2023 —** In their fifth annual collaboration, Givaudan and the University of California Berkeley have released transformative research paving the way for enhanced efficiency in alternative protein. The latest white paper entitled ‘10 Alternative Protein Pathways: Opportunities for Greater Efficiency’ outlines key challenges and opportunities on the journey to co-create delicious and nutritious alt-protein experiences that delight consumers.
 
 With more consumers expected to explore plant-based protein, opportunities abound for food producers and retailers to develop sustainable, healthy alternatives that deliver diverse food experiences. With its deep industry knowledge, Givaudan has once again teamed up with the University of California Berkeley Product Development Program to provide practical steps on how industry players can create mouthwatering, affordable, alternative protein products.
 
