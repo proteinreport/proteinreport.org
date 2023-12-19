@@ -20,13 +20,10 @@ collections:
     create: true # Allow users to create new documents in this collection
     # slug: "{{slug}}/index.md" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "article"
-        }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+      - { label: "Updated", name: "lastmod", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+      - { label: "Slug", name: "slug", widget: "string", required: false }
       - label: "Contributors"
         name: "contributors"
         widget: "relation"
@@ -35,19 +32,8 @@ collections:
         search_fields: ["title", "uuid"]
         value_field: "uuid"
         display_fields: ["title"]
-      - label: "Featured Image"
-        name: "featured_image"
-        widget: "image"
-      - label: "Additional Images"
-        name: "additional_images"
-        widget: "list"
-        fields:
-          - { label: "Image", name: "src", widget: "image" }
-          - { label: "Alt", name: "alt", widget: "string" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Caption", name: "caption", widget: "string" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Excerpt", name: "excerpt", widget: "text", required: false }
       - label: "Proteins"
         name: "proteins"
         widget: "select"
@@ -112,15 +98,52 @@ collections:
             "Molecular Farming",
             "Livestock & Animals"
           ]
-      - label: "Related Companies"
+      - label: "Flags"
+        name: "flags"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          [
+            "Featured",
+            "Explainer",
+            "Analysis",
+            "Opinion",
+            "Interview",
+            "Video"
+          ]
+      - label: "Mentioned Companies"
         name: "directory"
         widget: "relation"
         collection: "directory"
         multiple: true
+        required: false
         search_fields: ["title", "uuid"]
         value_field: "uuid"
         display_fields: ["title"]
+      - label: "Featured Image"
+        name: "featured_image"
+        widget: "image"
+        required: false
+      - { label: "Featured Image Caption", name: "featured_image_caption", widget: "string", required: false }
+      - label: "Additional Images"
+        name: "additional_images"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Image", name: "src", widget: "image" }
+          - { label: "Alt", name: "alt", widget: "string", required: false }
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - { label: "Caption", name: "caption", widget: "string", required: false }
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        required: false
+        allow_add: true
+        field: {label: "Image", name: "src", widget: "string"}
+      - { label : "Draft", name: "draft", widget: "boolean", required: false }
       - { label: "UUID", name: "uuid", widget: "uuid" }
+      - { label: "Weight", name: "weight", widget: "number", required: false, default: 5000, value_type: "int"}
       - { label: "Content", name: "body", widget: "markdown" }
   ########## Newswire ##########
   - name: "newswire" # Used in routes, e.g., /admin/collections/blog

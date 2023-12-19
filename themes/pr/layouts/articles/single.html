@@ -17,19 +17,21 @@
       {{ end }}
       {{ if $image }}
         <div fetchpriority="high" class="w-full relative">
+          <a href="{{ $image }}" class="glightbox" aria-label="{{if $image_caption}}{{ $image_caption | safeHTML }}{{end}}">
           {{ if .Site.Params.hyas_images }}
             {{ partial "picture" (dict
             "ctx" .
             "src" $image
             "alt" .Title
-            "class" "img-fluid aspect-video w-full object-cover"
+            "class" "img-fluid aspect-video w-full object-cover glightbox"
             "loading" "auto"
             "widths" (slice 300 450 600 900)
             )}}
           {{ else }}
             <img src="{{ $image.RelPermalink }}" class="aspect-video w-full object-cover" alt="{{ .Title }}">
           {{ end }}
-          {{ if .Params.featured_image_caption }}
+          </a>
+          {{ if $image_caption }}
             <span class="w-full flex px-6 py-2 bg-gray-100">{{ $image_caption }}</span>
           {{ end }}
           {{ partial "article/flags.html" . }}
