@@ -5,14 +5,18 @@ lastmod: 2023-12-19 11:24:45
 slug: microalgae-protein-source-future
 contributors:
   - 8atZav4PU0TlK2fEDpJ
-description: Alongside energy, protein is gaining increasing recognition as the
-  world’s other major sustainability problem. By addressing key cultivation
-  challenges and exploring alternative growth strategies such as mixotrophy,
-  microalgae are emerging as a promising solution.
-excerpt: Alongside energy, protein is gaining increasing recognition as the
-  world’s other major sustainability problem. By addressing key cultivation
-  challenges and exploring alternative growth strategies such as mixotrophy,
-  microalgae are emerging as a promising solution.
+description: Microalgae, those tiny organisms that thrive in water and sunlight,
+  hold immense potential for addressing the world’s protein sustainability
+  challenges. By tackling key cultivation bottlenecks and exploring alternative
+  growth strategies such as mixotrophy, microalgae-based proteins may soon
+  become more accessible to consumers, offering a valuable addition to our diets
+  and food supply chains.
+excerpt: Microalgae, those tiny organisms that thrive in water and sunlight,
+  hold immense potential for addressing the world’s protein sustainability
+  challenges. By tackling key cultivation bottlenecks and exploring alternative
+  growth strategies such as mixotrophy, microalgae-based proteins may soon
+  become more accessible to consumers, offering a valuable addition to our diets
+  and food supply chains.
 proteins:
   - Algae
 products:
