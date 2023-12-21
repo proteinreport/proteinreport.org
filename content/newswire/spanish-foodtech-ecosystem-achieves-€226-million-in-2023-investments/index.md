@@ -39,7 +39,7 @@ additional_images:
   - src: graphic_investment_the-state-of-foodtech-in-spain.png
 images:
   - cover_the-state-of-foodtech-in-spain-2023.jpg
-draft: true
+draft: false
 uuid: QPzevNthFAcN0g0yN8p
 ---
 * Despite the sharp drop in global investment, the Spanish ecosystem is seeing a much more moderate slowdown, experiencing a 16% decline.
@@ -61,11 +61,11 @@ When breaking down into subsectors, in the field of Agritech, the three main cat
 
 **The startups have small teams, a prominent female representation, and preserve their technology with trade secrets**
 
-A la hora de analizar la composición de los equipos de las startups, el estudio evidencia que se caracterizan por equipos más reducidos respecto a la media nacional, con un 60% de las startups encuestadas con un equipo entre 1 y 5 empleados. En cuanto a la representación femenina destaca que el 36% de las startups encuestadas cuenta con una mujer como socia, un dato muy positivo teniendo en cuenta a la media nacional, que se sitúa en tan solo un 18%.
+When analyzing the composition of startup teams, the study indicates that they are characterized by smaller teams compared to the national average, with 60% of surveyed startups having a team of 1 to 5 employees. As for female representation, it is noteworthy that 36% of surveyed startups have a woman as a partner, a very positive figure considering the national average, which is only 18%.
 
-El desarrollo tecnológico de una startup es sin duda uno de los aspectos más relevantes para su éxito. Según evidencia el estudio, el 28% de las startups encuestadas poseen al menos una patente, y el 35% emplea secretos comerciales, lo que supone un aumento de 5 puntos porcentuales en relación al año anterior. Con respecto a las tecnologías más empleadas, la biotecnología es la tecnología más destacada, experimentando un crecimiento significativo desde 2022.
+The technological development of a startup is undoubtedly one of the most relevant aspects for its success. According to the study, 28% of surveyed startups have at least one patent, and 35% use trade secrets, representing a 5 percentage point increase from the previous year. Regarding the most used technologies, biotechnology stands out, experiencing significant growth since 2022.
 
-En cuanto a la madurez tecnológica (TRL), se destaca que la mayoría de las startups demuestra un nivel de desarrollo considerablemente alto, indicando una sólida posición en términos tecnológicos. A pesar de este éxito, surge el desafío de mantener una innovación constante para seguir siendo relevantes en un entorno competitivo y en constante evolución.
+Regarding technological maturity (TRL), it is highlighted that the majority of startups demonstrate a considerably high level of development, indicating a strong position in technological terms. Despite this success, the challenge arises to maintain constant innovation to remain relevant in a competitive and ever-evolving environment.
 
 **Slowdown in global investment: Spain emerges as one of the most resilient ecosystems**
 
@@ -79,7 +79,9 @@ Among the main national investors, Capsa Vida stands out, which has supported ba
 
 When analyzing the most outstanding tools for growth, startups are aligned: learn from the best success stories, facilitate access to public aid, increase media visibility, establish "co-investment" agreements, and collaborate closely with the food industry.
 
-“In the year 2023, the Spanish Foodtech ecosystem has overcome critical challenges, facing the repercussions of the global economic crisis. Despite the slight slowdown in total investment, this period has marked a crucial milestone for the sector. We have not only witnessed the resilience of our ecosystem but also the consolidation and market launch of disruptive technologies, as has been the case of the arrival to the Retail channel of the first 3D bio-printed vegetable bacon by Cocuus and Foody's. This achievement highlights the technological robustness of Spain, reaffirming its prominent position in the international Foodtech field,” commented Mila Valcárcel, Managing Partner of Eatable Adventures. To continue consolidating Spain's strategic role in the Foodtech panorama, however, a greater drive in investment and more strategic collaboration between all the key agents of the food system is needed "If we want to be truly competitive against the most developed international ecosystems We need to be more ambitious and have a vision of the future of this sector that is so strategic for Spain. It is essential to put greater effort into investment and collaboration with the industry, but also to have greater support at the institutional level and to have a strategy aligned between territorial and national initiatives.”
+“*In the year 2023, the Spanish Foodtech ecosystem has overcome critical challenges, facing the repercussions of the global economic crisis. Despite the slight slowdown in total investment, this period has marked a crucial milestone for the sector. We have not only witnessed the resilience of our ecosystem but also the consolidation and market launch of disruptive technologies, as has been the case of the arrival to the Retail channel of the first 3D bio-printed vegetable bacon by Cocuus and Foody's. This achievement highlights the technological robustness of Spain, reaffirming its prominent position in the international Foodtech field*,” commented Mila Valcárcel, Managing Partner of Eatable Adventures.
+
+To continue consolidating Spain's strategic role in the Foodtech panorama, however, a greater drive in investment and more strategic collaboration between all the key agents of the food system is needed: "*If we want to be truly competitive against the most developed international ecosystems We need to be more ambitious and have a vision of the future of this sector that is so strategic for Spain. It is essential to put greater effort into investment and collaboration with the industry, but also to have greater support at the institutional level and to have a strategy aligned between territorial and national initiatives*,” she added.
 
 For more information about the study, download the full report [here](https://eatableadventures.com/report-2023-eng/).
 
