@@ -31,7 +31,7 @@ topics:
   - Business
 regions:
   - Europe
-featured_image: hifood-and-alianza-team-europe-winners-of-the-fi-plant-based-innovation-award.jpg
+featured_image: hifood-and-alianza-team.jpg
 featured_image_caption: HIFOOD and Alianza Team Europe winners of the Fi Plant-Based Innovation Award
 additional_images:
   - src: mirrortissue_sausage_rid.jpg
@@ -39,7 +39,7 @@ additional_images:
     title: MirrorTissue sausage
     caption: MirrorTissue sausage
 images:
-  - hifood-and-alianza-team-europe-winners-of-the-fi-plant-based-innovation-award.jpg
+  - hifood-and-alianza-team.jpg
   - mirrortissue_sausage_rid.jpg
 uuid: EgBvnm3OPoFtmmldNOiT
 ---

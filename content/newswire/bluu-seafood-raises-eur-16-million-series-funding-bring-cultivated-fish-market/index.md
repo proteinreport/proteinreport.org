@@ -12,7 +12,7 @@ topics: [Business]
 regions: [Europe]
 flags: [Press Release, Investments]
 directory: [234, 5831, 7679, 7856]
-images: ["Atlantic salmon in Petri dish_copyright_Bluu GmbH 2023_photo_Anna Brauns.jpg","BLUU’s cultivated fish balls made from trout cells_copyright_Bluu GmbH 2023_photo_Anna Brauns.jpg", "BLUU’s cultivated fish fingers made from trout cells_copyright_Bluu GmbH 2023_photo_Anna Brauns.jpg", "Characterization of isolated primary fish cells with targeted biomarkers_copyright_Bluu GmbH 2023_photo_Anna Brauns.jpg"]
+images: ["Atlantic salmon in Petri dish_copyright_Bluu GmbH 2023_photo_Anna Brauns.jpg","BLUU’s cultivated fish balls made from trout cells_copyright_Bluu GmbH 2023_photo_Anna Brauns.jpg", "BLUU’s cultivated fish fingers made from trout cells_copyright_Bluu GmbH 2023_photo_Anna Brauns.jpg", "Characterization of isolated primary fish cells.jpg"]
 featured_image: "Atlantic salmon in Petri dish_copyright_Bluu GmbH 2023_photo_Anna Brauns.jpg"
 featured_image_caption: "Atlantic salmon in Petri dish. Copyright Bluu GmbH 2023. Photo_Anna Brauns."
 additional_images:
@@ -24,7 +24,7 @@ additional_images:
     caption: "BLUU’s cultivated fish fingers made from trout cells._Copyright Bluu GmbH 2023. Photo by Anna Brauns."
     alt: "BLUU’s cultivated fish fingers made from trout cells._Copyright Bluu GmbH 2023. Photo by Anna Brauns."
     title: "BLUU’s cultivated fish fingers made from trout cells._Copyright Bluu GmbH 2023. Photo by Anna Brauns."
-  - src: "Characterization of isolated primary fish cells with targeted biomarkers_copyright_Bluu GmbH 2023_photo_Anna Brauns.jpg"
+  - src: "Characterization of isolated primary fish cells.jpg"
     caption: "Characterization of isolated primary fish cells with targeted biomarkers. Copyright Bluu GmbH 2023. Photo by Anna Brauns."
     alt: "Characterization of isolated primary fish cells with targeted biomarkers. Copyright Bluu GmbH 2023. Photo by Anna Brauns."
     title: "Characterization of isolated primary fish cells with targeted biomarkers. Copyright Bluu GmbH 2023. Photo by Anna Brauns."
