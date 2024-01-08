@@ -6,23 +6,23 @@
             </a>
         </li>
     {{ end }}
+    {{ range .Site.Menus.products }}
+    <li>
+        <a href="{{ .URL }}" class="text-gray-700 special-underline-sky">
+            {{ .Name | upper }}
+        </a>
+    </li>
+    {{ end }}
     {{ range .Site.Menus.topics }}
         <li>
-            <a href="{{ .URL }}" class="text-gray-700 special-underline">
-                {{ .Name | upper }}
-            </a>
-        </li>
-    {{ end }}
-    {{ range .Site.Menus.products }}
-        <li>
-            <a href="{{ .URL }}" class="text-gray-700 special-underline">
+            <a href="{{ .URL }}" class="text-gray-700 special-underline-orange">
                 {{ .Name | upper }}
             </a>
         </li>
     {{ end }}
     {{ range .Site.Menus.regions }}
         <li>
-            <a href="{{ .URL }}" class="text-gray-700 special-underline">
+            <a href="{{ .URL }}" class="text-gray-700 special-underline-lime">
                 {{ .Name | upper }}
             </a>
         </li>
