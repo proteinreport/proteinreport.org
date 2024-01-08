@@ -461,6 +461,7 @@
       "sm:w-auto",
       "sm:w-full",
       "space-x-2",
+      "space-y-12",
       "space-y-4",
       "sponsored",
       "sr-only",
