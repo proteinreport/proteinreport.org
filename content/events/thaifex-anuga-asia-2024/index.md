@@ -27,7 +27,9 @@ regions:
   - Asia
 images:
   - thaifex-anuga-asia-logo.png
+  - taa24_mobile-masthead.jpg
 featured_image: thaifex-anuga-asia-logo.png
+banner_image: taa24_mobile-masthead.jpg
 start_date: 2024-05-28
 end_date: 2024-06-01
 country: Thailand
