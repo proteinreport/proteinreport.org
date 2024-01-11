@@ -6,7 +6,7 @@ slug: thaifex-horec-asia
 link: https://thaifex-horec.asia/
 partner_type:
   - Event-Media
-featured_image: thaifex-horec-asia_logo.jpg
+featured_image: thaifex-horec-asia_logo.png
 active: true
 weight: 5000
 uuid: pCAAk2YobeEUd0WFPbqf
