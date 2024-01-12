@@ -10,6 +10,9 @@ excerpt: Be part of exciting discussions all around transformations of the
 proteins:
   - Plant-Based
   - Animal
+  - Fungi
+  - Microbial
+  - Cell-Based
 products:
   - Meat
   - Dairy
