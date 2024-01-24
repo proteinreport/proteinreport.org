@@ -222,6 +222,11 @@
   weight = 50
 
 [[about]]
+  name = "Media Partnership"
+  pageRef = "/media-partnership"
+  weight = 60
+
+[[about]]
   name = "Contact"
   pageRef = "/contact"
   weight = 70
