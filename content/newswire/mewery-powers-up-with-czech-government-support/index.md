@@ -49,6 +49,4 @@ Mewery is a Czech startup developing cultivated meat using a unique bio-hybrid c
 
 **About CzechInvest**
 
-CzechInvest plays a key role in the area of supporting business and investments in its comprehensive form. The agency’s unique combination of regional, central and international operations ensures the integrity of services and the ability to connect global trends with regional conditions in the Czech Republic. One of CzechInvest’s main objectives is
-
-transformation of the Czech Republic into an innovation leader of Europe. Established in 1992, CzechInvest is a state contributory organization subordinate to the Ministry of Industry and Trade of the Czech Republic.
+CzechInvest plays a key role in the area of supporting business and investments in its comprehensive form. The agency’s unique combination of regional, central and international operations ensures the integrity of services and the ability to connect global trends with regional conditions in the Czech Republic. One of CzechInvest’s main objectives is transformation of the Czech Republic into an innovation leader of Europe. Established in 1992, CzechInvest is a state contributory organization subordinate to the Ministry of Industry and Trade of the Czech Republic.
