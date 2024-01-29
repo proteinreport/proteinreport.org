@@ -23,9 +23,10 @@
             "page" .
             "src" $image
             "alt" .Title
-            "class" "img-fluid aspect-video w-full object-cover glightbox"
-            "loading" "auto"
-            "widths" (slice 300 450 600 900)
+            "class" "aspect-video w-full object-cover glightbox"
+            "fetchpriority" "high"
+            "loading" "eager"
+            "sizes" "auto"
             )}}
           {{ else }}
             <img src="{{ $image.RelPermalink }}" class="aspect-video w-full object-cover" alt="{{ .Title }}">
