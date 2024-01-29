@@ -60,6 +60,8 @@ Prof. Frederico Ferreira, FEASTS Project Manager & Coordinator from Instituto Su
 
 **About FEASTS**
 
+FEASTS – Fostering European Cellular Agriculture for Sustainable Transition Solutions, started on 1st December 2023, is funded by the European Union’s research and innovation programme under Grant Agreement no. 101136749.
+
 Members of the FEASTS consortium:
 
 IST-ID Associação do Instituto Superior Técnico para a Investigação e Desenvolvimento, Stichting New Harvest Netherlands, Laboratorio Ibérico Internacional de Nanotecnología, Bruno Cell S.L.R, Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V, Wageningen University, Nord Universitet, S2AQUA Laboratório Colaborativo, Technische Universität München, Univerza v Mariboru, acib GmbH, VITAL MEAT, Cultimate Foods UG, Supreme (GOURMEY), EurA AG, Ecoinnovazione srl, RESPECTfarms BV, Aarhus Universitet, Collaborating Centre on Sustainable Consumption and Production gGmbH, Alma Mater Studiorum Università di Bologna, Lunds Universitet, Universidad del País Vasco/Euskal Herriko Unibertsitatea, Lukas Madl (Innov), Safe Food Advocacy Europe, Agricoltura Cellulare Italia, Cellular Agriculture Greece, CellAgri Portugal – Associação Portuguesa para o desenvolvimento da Agricultura Celular, CellAg Deutschland EV, Agriculture Cellulaire France, EIT Food, ShakeUp Factory, Rügenwalder Mühle Carl Müller GmbH & Co. KG, Agri-food Technology Center Ctic Cita, NaTurtle AG, CULT Food Science, Japan Association for Cellular Agriculture (JACA).
