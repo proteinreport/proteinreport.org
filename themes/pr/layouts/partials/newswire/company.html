@@ -13,21 +13,20 @@
                 "page" .
                 "src" $image
                 "alt" $img_alt
-                "class" "img-fluid  aspect-video w-full object-contain my-2"
+                "class" "my-2 w-1/2"
                 )}}
               {{ else }}
                 <img src="{{ $image.RelPermalink }}" class="aspect-video w-full object-contain my-2" alt="{{ $img_alt }}">
               {{ end }}
-              <p class="text-xl pl-4">{{.Title}}</p>
             </a>
           </div>
       {{ end }}
     {{ end }}
   {{ end }}
 {{ else if .Params.company_name }}
-  <div class="flex flex-row flex-wrap border-y-4 m-2">
+  <div class="flex flex-row flex-wrap border-y-4 my-2">
     <a href="{{ .Params.company_link }}" target="_blank" class="flex flex-row sm:w-full md:max-w-1/2 lg:w-full items-center">
-      <p class="text-xl pl-4">{{ .Params.company_name }}</p>
+      <p class="text-xl py-4">{{ .Params.company_name }}</p>
     </a>
   </div>
 {{ end }}
