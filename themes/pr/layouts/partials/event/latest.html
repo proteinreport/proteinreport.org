@@ -18,12 +18,12 @@
 
         <div class="w-1/3">
           {{ if $image }}
-            {{ if .Site.Params.hyas_images }}
+            {{ if .Site.Params.enable_hyas_images }}
               {{ partial "picture" (dict
-                "ctx" .
+                "page" .
                 "src" $image
                 "alt" .Title
-                "class" "img-fluid blur-up aspect-square w-full object-contain p-1"
+                "class" "img-fluid  aspect-square w-full object-contain p-1"
               )}}
             {{ else }}
               <img src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain p-1">

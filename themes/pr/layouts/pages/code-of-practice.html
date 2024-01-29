@@ -6,7 +6,7 @@
       {{ $image := .Resources.GetMatch .Params.featured_image -}} {{ if $image
       -}}
       <div class="w-full relative">
-        <img src="{{ $image.RelPermalink }}" alt="" class="lazyload blur-up img-fluid w-full" />
+        <img src="{{ $image.RelPermalink }}" alt="" class="lazyload img-fluid w-full" />
       </div>
       {{ end -}}
     </div>

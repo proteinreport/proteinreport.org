@@ -43,13 +43,13 @@
     </div>
     <a href="{{ .RelPermalink }}" class="hidden p-4 sm:block sm:basis-56">
         {{ if $image }}
-            {{ if .Site.Params.hyas_images }}
+            {{ if .Site.Params.enable_hyas_images }}
                 {{ partial "picture" (dict
-                "ctx" .
+                "page" .
                 "src" $image
                 "alt" .Title
                 "widths" (slice 40 70 150 224 480)
-                "class" "img-fluid blur-up aspect-video w-full object-contain"
+                "class" "img-fluid  aspect-video w-full object-contain"
                 )}}
             {{ else }}
                 <img src="{{ $image.RelPermalink }}" class="aspect-video w-full object-contain">

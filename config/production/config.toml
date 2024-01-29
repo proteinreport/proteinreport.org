@@ -2,4 +2,4 @@
 baseurl = "https://www.proteinreport.org/"
 
 [params]
-  hyas_images = true
+  enable_hyas_images = true

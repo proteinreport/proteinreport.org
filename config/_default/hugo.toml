@@ -15,7 +15,7 @@ timeout = 600000
 googleAnalytics = "G-KXVQT2THTT"
 
 [params]
-  hyas_images = false
+  enable_hyas_images = true
   event_partners = true
 
 copyRight = "Copyright (c) 2023 Protein Report"

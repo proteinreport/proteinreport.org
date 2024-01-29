@@ -6,9 +6,9 @@
       {{ $image := .Resources.GetMatch .Params.featured_image -}}
       {{ $img_alt := printf "%s%s" .Title " logo" }}
       {{ if $image -}}
-        {{ if .Site.Params.hyas_images }}
+        {{ if .Site.Params.enable_hyas_images }}
           {{ partial "picture" (dict
-            "ctx" .
+            "page" .
             "src" $image
             "alt" $img_alt
             "widths" (slice 40 70 150 224 480)

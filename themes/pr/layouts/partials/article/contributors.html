@@ -8,13 +8,13 @@
   <a href="{{ .RelPermalink }}" class="flex flex-row w-full items-center">
     <div class="w-1/5">
       {{ if $image }}
-          {{ if .Site.Params.hyas_images }}
+          {{ if .Site.Params.enable_hyas_images }}
               {{ partial "picture" (dict
-              "ctx" .
+              "page" .
               "src" $image
               "alt" $img_alt
               "widths" (slice 40 70 150)
-              "class" "img-fluid blur-up aspect-square object-cover"
+              "class" "img-fluid  aspect-square object-cover"
               )}}
           {{ else }}
               <img src="{{ $image.RelPermalink }}" class="aspect-square w-full object-cover" alt="{{ $img_alt }}">

@@ -18,9 +18,9 @@
       {{ $image_placeholder := "assets/images/newswire_placeholder" }}
       <div fetchpriority="high" class="w-full relative">
         {{ if $image -}}
-          {{ if .Site.Params.hyas_images }}
+          {{ if .Site.Params.enable_hyas_images }}
             {{ partial "picture" (dict
-            "ctx" .
+            "page" .
             "src" $image
             "alt" $image_caption
             "class" "img-fluid aspect-video object-cover w-full"
@@ -35,9 +35,9 @@
           {{ end }}
 
         {{ else }}
-          {{ if .Site.Params.hyas_images }}
+          {{ if .Site.Params.enable_hyas_images }}
             {{ partial "picture" (dict
-            "ctx" .
+            "page" .
             "src" $image_placeholder
             "alt" .Title
             "class" "img-fluid aspect-video object-cover w-full"
@@ -45,7 +45,7 @@
             "widths" (slice 300 450 600 900)
             )}}
           {{ else }}
-            <img src="{{ $image_placeholder }}" class="img-fluid blur-up aspect-video object-cover w-full">
+            <img src="{{ $image_placeholder }}" class="img-fluid  aspect-video object-cover w-full">
           {{ end }}
         {{ end -}}
         {{ partial "newswire/flags.html" . }}

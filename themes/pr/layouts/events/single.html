@@ -14,9 +14,9 @@
       {{ if $image -}}
         <div class="w-full relative">
           <a href="{{ .Params.website }}" target="_blank">
-            {{ if .Site.Params.hyas_images }}
+            {{ if .Site.Params.enable_hyas_images }}
               {{ partial "picture" (dict
-              "ctx" .
+              "page" .
               "src" $image
               "alt" .Title
               "class" "img-fluid w-full aspect-[4/1] object-contain"
@@ -44,13 +44,13 @@
           {{ if $logo -}}
             {{ $img_alt := printf "%s%s" .Title " logo" }}
             <a class="flex my-2 w-1/2" href="{{ .Params.website }}" target="_blank">
-              {{ if .Site.Params.hyas_images }}
+              {{ if .Site.Params.enable_hyas_images }}
                 {{ partial "picture" (dict
-                "ctx" .
+                "page" .
                 "src" $logo
                 "alt" $img_alt
                 "widths" (slice 40 70 150 224 480)
-                "class" "img-fluid blur-up aspect-video object-contain my-2"
+                "class" "img-fluid aspect-video object-contain my-2"
                 )}}
               {{ else }}
                 <img src="{{ $logo.RelPermalink }}" class="aspect-video object-contain my-2" alt="{{ $img_alt }}">

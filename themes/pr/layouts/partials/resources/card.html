@@ -1,25 +1,25 @@
 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
-{{ $image_placeholder := "assets/images/article_placeholder.png" }}
+{{ $image_placeholder := "images/article_placeholder.png" }}
 
 <article class="relative flex items-center bg-white transition hover:shadow-xl border">
 
     <a href="{{ .RelPermalink }}" class="hidden sm:block sm:basis-56">
-        {{ if .Site.Params.hyas_images }}
+        {{ if .Site.Params.enable_hyas_images }}
             {{ if $image -}}
                 {{ partial "picture" (dict
-                "ctx" .
+                "page" .
                 "src" $image
                 "alt" .Title
                 "widths" (slice 100 224 300)
-                "class" "img-fluid blur-up aspect-square w-full object-contain"
+                "class" "img-fluid  aspect-square w-full object-contain"
                 )}}
             {{ else }}
                 {{ partial "picture" (dict
-                "ctx" .
+                "page" .
                 "src" $image_placeholder
                 "alt" .Title
                 "widths" (slice 100 224 300)
-                "class" "img-fluid blur-up aspect-video w-full rotate-12 object-contain"
+                "class" "img-fluid  aspect-video w-full rotate-12 object-contain"
                 )}}
             {{ end -}}
         {{ else }}

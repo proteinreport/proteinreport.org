@@ -1,14 +1,14 @@
 {{ define "main" }}
 {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
-{{ $image_placeholder := "assets/images/article_placeholder.png" }}
+{{ $image_placeholder := "images/article_placeholder.png" }}
 <article>
   {{ partial "main/page-title.html" . }}
   <div class="grid grid-cols-1 gap-6 mx-auto mt-6 max-w-7xl md:grid-cols-3 md:divide-x-2 2xl:border-x-4">
     <div class="relative w-full flex justify-center items-center p-6">
       {{ if $image -}}
-        {{ if .Site.Params.hyas_images }}
+        {{ if .Site.Params.enable_hyas_images }}
           {{ partial "picture" (dict
-          "ctx" .
+          "page" .
           "src" $image
           "alt" .Title
           "widths" (slice 40 70 150 224 480)
@@ -19,9 +19,9 @@
           <img src="{{ $image.RelPermalink }}" class="aspect-square object-cover">
         {{ end }}
       {{ else }}
-        {{ if .Site.Params.hyas_images }}
+        {{ if .Site.Params.enable_hyas_images }}
           {{ partial "picture" (dict
-          "ctx" .
+          "page" .
           "src" $image_placeholder
           "alt" .Title
           "widths" (slice 40 70 150 224 480)

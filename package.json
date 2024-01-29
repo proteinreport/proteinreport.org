@@ -16,7 +16,7 @@
     "build": "exec-bin node_modules/.bin/hugo/hugo --minify",
     "preview": "http-server --gzip --brotli --ext=html --cors",
     "clean": "npm run clean:build && npm run clean:lint && npm run clean:install",
-    "clean:build": "shx rm -rf public resources .hugo_build.lock hugo_stats.json",
+    "clean:build": "shx rm -rf public resources .hugo_build.lock",
     "clean:install": "shx rm -rf node_modules package-lock.json yarn.lock pnpm-lock.yaml",
     "clean:lint": "shx rm -rf .eslintcache .stylelintcache",
     "preinfo": "npm version",
@@ -25,10 +25,9 @@
     "postinstall": "shx rm -rf node_modules/.bin/hugo && shx mkdir node_modules/.bin/hugo && shx cp node_modules/gethyas/node_modules/.bin/hugo/* node_modules/.bin/hugo"
   },
   "devDependencies": {
-    "@hyas/images": "^1.0.2",
+    "@hyas/images": "^3.0.0",
     "@hyas/seo": "^1.0.3",
-    "@hyas/tailwindcss": "^1.0.2",
-    "gethyas": "^2.1.0"
+    "@hyas/tailwindcss": "^1.0.2"
   },
   "engines": {
     "node": ">=16.12.0"
@@ -39,6 +38,7 @@
     "@tabler/icons-png": "^2.34.0",
     "axios": "^1.4.0",
     "flexsearch": "^0.7.31",
+    "gethyas": "^2.2.2",
     "glightbox": "^3.2.0",
     "leaflet": "^1.9.4",
     "leaflet-gesture-handling": "^1.2.2",

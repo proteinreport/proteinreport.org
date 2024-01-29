@@ -8,12 +8,12 @@
             {{ $image := .Resources.GetMatch .Params.featured_image }}
             {{ $img_alt := printf "%s%s" .Title " logo" }}
             <a href="{{ .RelPermalink }}" class="flex flex-row items-center sm:w-full md:max-w-1/2 lg:w-full">
-              {{ if .Site.Params.hyas_images }}
+              {{ if .Site.Params.enable_hyas_images }}
                 {{ partial "picture" (dict
-                "ctx" .
+                "page" .
                 "src" $image
                 "alt" $img_alt
-                "class" "img-fluid blur-up aspect-video w-full object-contain my-2"
+                "class" "img-fluid  aspect-video w-full object-contain my-2"
                 )}}
               {{ else }}
                 <img src="{{ $image.RelPermalink }}" class="aspect-video w-full object-contain my-2" alt="{{ $img_alt }}">

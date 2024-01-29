@@ -5,13 +5,13 @@
 
     <a href="{{ .RelPermalink }}" class="p-4 w-1/3">
         {{ if $image }}
-            {{ if .Site.Params.hyas_images }}
+            {{ if .Site.Params.enable_hyas_images }}
                 {{ partial "picture" (dict
-                "ctx" .
+                "page" .
                 "src" $image
                 "alt" $img_alt
                 "widths" (slice 40 70 150 224 480)
-                "class" "img-fluid blur-up aspect-square w-full object-contain"
+                "class" "img-fluid  aspect-square w-full object-contain"
                 )}}
             {{ else }}
                 <img src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain" alt="{{ $img_alt }}">

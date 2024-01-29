@@ -5,12 +5,12 @@
     {{ with index . 0 }}
       {{ $image := .Page.Resources.GetMatch .Params.featured_image }}
       {{ if $image }}
-        {{ if .Site.Params.hyas_images }}
+        {{ if .Site.Params.enable_hyas_images }}
           {{ partial "picture" (dict
-          "ctx" .
+          "page" .
           "src" $image
           "alt" .Title
-          "class" "img-fluid blur-up aspect-square w-full object-contain"
+          "class" "img-fluid  aspect-square w-full object-contain"
           )}}
         {{ else }}
           <img src="{{ $image.RelPermalink }}" class="aspect-square w-full object-contain">

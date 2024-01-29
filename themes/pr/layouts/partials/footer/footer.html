@@ -17,13 +17,13 @@
             {{ if $image }}
                 <li class="glide__slide">
                     <a href="{{ .Params.link }}" target="_blank">
-                        {{ if .Site.Params.hyas_images }}
+                        {{ if .Site.Params.enable_hyas_images }}
                             {{ partial "picture" (dict
-                            "ctx" .
+                            "page" .
                             "src" $image
                             "alt" .Title
                             "widths" (slice 40 70 150 224)
-                            "class" "img-fluid blur-up w-full aspect-video object-contain p-4"
+                            "class" "img-fluid  w-full aspect-video object-contain p-4"
                             )}}
                         {{ else }}
                             <img alt="House" src="{{ $image.RelPermalink }}" class="w-full aspect-video object-contain p-4" />

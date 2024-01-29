@@ -6,9 +6,9 @@
       {{ $image := .Resources.GetMatch .Params.featured_image -}}
       {{ if $image }}
       <div class="w-full relative">
-        {{ if .Site.Params.hyas_images }}
+        {{ if .Site.Params.enable_hyas_images }}
           {{ partial "picture" (dict
-            "ctx" .
+            "page" .
             "src" $image
             "alt" .Title
             "class" "img-fluid w-full"
@@ -239,7 +239,7 @@
         <div class="grid grid-cols-2 gap-4 text-center text-base md:grid-cols-3 lg:grid-cols-4">
           <div class="flex flex-col">
             <img src="jeremiah-johnston.jpg" alt="Jeremiah Johnston"
-              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+              class="aspect-square w-full object-cover lazyload  img-fluid" />
             <p>
               <strong>Jeremiah Johnston</strong><br />Research Program Director,
               New Harvest
@@ -248,7 +248,7 @@
 
           <div class="flex flex-col">
             <img src="bianca-le.jpg" alt="Bianca Lê"
-              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+              class="aspect-square w-full object-cover lazyload  img-fluid" />
             <p>
               <strong>Bianca Lê</strong><br />Director, Cellular Agriculture
               Australia
@@ -257,7 +257,7 @@
 
           <div class="flex flex-col">
             <img src="kara-leong.jpg" alt="Kara Leong"
-              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+              class="aspect-square w-full object-cover lazyload  img-fluid" />
             <p>
               <strong>Kara Leong</strong><br />Development Director, University
               of California, Davis
@@ -266,7 +266,7 @@
 
           <div class="flex flex-col">
             <img src="teni-ekundare.png" alt="Teni Ekundare"
-              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+              class="aspect-square w-full object-cover lazyload  img-fluid" />
             <p>
               <strong>Teni Ekundare</strong><br />Head of Investor Outreach,
               FAIRR Initiative
@@ -275,7 +275,7 @@
 
           <div class="flex flex-col">
             <img src="lenore-newman.jpg" alt="Lenore Newman"
-              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+              class="aspect-square w-full object-cover lazyload  img-fluid" />
             <p>
               <strong>Lenore Newman</strong><br />Director, Food and Agriculture
               Institute, University of the Fraser Valley
@@ -284,7 +284,7 @@
 
           <div class="flex flex-col">
             <img src="alex-shirazi.jpg" alt="Alex Shirazi"
-              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+              class="aspect-square w-full object-cover lazyload  img-fluid" />
             <p>
               <strong>Alex Shirazi</strong><br />Host, Cultured Meat and Future
               Food Show
@@ -293,7 +293,7 @@
 
           <div class="flex flex-col">
             <img src="kate-krueger.jpg" alt="Kate Krueger"
-              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+              class="aspect-square w-full object-cover lazyload  img-fluid" />
             <p>
               <strong>Kate Krueger</strong><br />Founder and CEO, Helikon
               Consulting
@@ -302,7 +302,7 @@
 
           <div class="flex flex-col">
             <img src="matt-clancy.jpg" alt="Matthew Clancy"
-              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+              class="aspect-square w-full object-cover lazyload  img-fluid" />
             <p>
               <strong>Matthew Clancy</strong><br />Assistant Teaching Professor,
               Department of Economics, Iowa State University
@@ -311,7 +311,7 @@
 
           <div class="flex flex-col">
             <img src="galina-hale.jpg" alt="Galina Hale"
-              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+              class="aspect-square w-full object-cover lazyload  img-fluid" />
             <p>
               <strong>Galina Hale</strong><br />Professor of Economics, UC Santa
               Cruz
@@ -320,7 +320,7 @@
 
           <div class="flex flex-col">
             <img src="nicky-quinn.jpg" alt="Nicky Quinn"
-              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+              class="aspect-square w-full object-cover lazyload  img-fluid" />
             <p>
               <strong>Nicky Quinn</strong><br />Global Marketing Director, Aleph
               Farms
@@ -329,7 +329,7 @@
 
           <div class="flex flex-col">
             <img src="andrew-noyes.jpg" alt="Andrew Noyes"
-              class="aspect-square w-full object-cover lazyload blur-up img-fluid" />
+              class="aspect-square w-full object-cover lazyload  img-fluid" />
             <p>
               <strong>Andrew Noyes</strong><br />Head of Global Communications,
               Eat Just, Inc.

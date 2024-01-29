@@ -18,9 +18,9 @@
       {{ if $image }}
         <div fetchpriority="high" class="w-full relative">
           <a href="{{ $image }}" class="glightbox" aria-label="{{if $image_caption}}{{ $image_caption | safeHTML }}{{end}}">
-          {{ if .Site.Params.hyas_images }}
+          {{ if .Site.Params.enable_hyas_images }}
             {{ partial "picture" (dict
-            "ctx" .
+            "page" .
             "src" $image
             "alt" .Title
             "class" "img-fluid aspect-video w-full object-cover glightbox"

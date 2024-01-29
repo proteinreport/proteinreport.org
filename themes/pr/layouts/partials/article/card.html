@@ -12,13 +12,13 @@
 
     <a href="{{ .RelPermalink }}" class="basis-24 sm:basis-56 md:basis-36 lg:basis-56">
         {{ if $image }}
-            {{ if .Site.Params.hyas_images }}
+            {{ if .Site.Params.enable_hyas_images }}
                 {{ partial "picture" (dict
-                "ctx" .
+                "page" .
                 "src" $image
                 "alt" .Title
                 "widths" (slice 100 224 300)
-                "class" "img-fluid blur-up aspect-square w-full object-cover"
+                "class" "img-fluid  aspect-square w-full object-cover"
                 )}}
             {{ else }}
                 <img src="{{ $image.RelPermalink }}" class="aspect-square w-full object-cover">
