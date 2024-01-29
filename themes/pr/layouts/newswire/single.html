@@ -23,9 +23,9 @@
             "page" .
             "src" $image
             "alt" $image_caption
-            "class" "img-fluid aspect-video object-cover w-full"
-            "loading" "auto"
-            "widths" (slice 300 450 600 900)
+            "fetchpriority" "high"
+            "loading" "eager"
+            "sizes" "auto"
             )}}
           {{ else }}
             <img src="{{ $image.RelPermalink }}" class="aspect-video object-cover w-full">
