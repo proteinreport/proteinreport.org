@@ -4,7 +4,7 @@ title: "FEASTS launched: a research project on cultivated meat and seafood
 date: 2024-01-29 11:16:38
 lastmod: 2024-01-29 13:16:38
 slug: feasts-launched-research-project-cultivated-meat-seafood-explores-future-protein
-company: 46YRAQmt5GP9hoxv32la
+company: 2DGcG4B7qG9x147Epcc
 description: FEASTS is a groundbreaking, collaborative research programme funded
   by the EU, with the goal to deliver a comprehensive, unbiased knowledge base
   about cultivated meat and seafood, and their place in the food system.
