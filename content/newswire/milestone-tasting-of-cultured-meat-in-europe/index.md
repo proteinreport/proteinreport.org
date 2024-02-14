@@ -2,7 +2,7 @@
 title: Milestone Tasting of Cultured Meat in Europe
 date: 2024-02-14 13:42:00
 lastmod: 2024-02-14 15:42:52
-slug: milestone-tasting-of-cultured-meat-in-europe
+slug: milestone-tasting-cultured-meat-europe
 company: 5897
 description: Icelandic biotechnology company, ORF Genetics, and Australian novel
   food innovators, Vow, are proud to announce the success of its first of a kind
