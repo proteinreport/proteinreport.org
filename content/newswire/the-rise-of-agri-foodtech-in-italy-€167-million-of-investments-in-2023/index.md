@@ -1,6 +1,6 @@
 ---
 title: "The rise of agri-foodtech in Italy: €167 million of investments in 2023"
-date: 2024-02-19 15:29:00
+date: 2024-02-15 15:29:00
 lastmod: 2024-02-19 17:29:50
 slug: rise-agri-foodtech-italy-167-million-investments-2023
 company: 10963
