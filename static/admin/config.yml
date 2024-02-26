@@ -499,6 +499,7 @@ collections:
       - { label: "City", name: "city", widget: "string", required: false }
       - { label: "Online", name: "online", widget: "boolean", required: false, hint: "Is this a webinar, virtual event, or hybrid event with a virtual option?"}
       - { label: "Website", name: "website", widget: "string", required: false }
+      - { label : "Draft", name: "draft", widget: "boolean", required: false }
       - { label: "UUID", name: "uuid", widget: "uuid" }
       - { label: "Content", name: "body", widget: "markdown" }
   ########## Jobs ##########
