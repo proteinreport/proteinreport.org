@@ -7,7 +7,7 @@ link: https://strain-engineering-development.com/
 partner_type:
   - Event-Media
 featured_image: strain-eng-logo.png
-active: true
+active: false
 weight: 5000
 uuid: jxI7sAA86d5ThmLXitGG
 _build:
