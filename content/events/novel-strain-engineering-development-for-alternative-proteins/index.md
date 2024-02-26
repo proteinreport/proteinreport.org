@@ -35,6 +35,7 @@ end_date: 2024-03-28
 country: United States
 city: San Francisco
 website: https://ter.li/69zisx
+draft: true
 uuid: n6lECvelSYNxHcVjV7SI
 ---
 The Novel Strain Engineering & Development for Alternative Proteins Summit draws on our esteemed Fermentation-Enabled Alternative Protein Series, shifting to a specialized focus on transforming your strain engineering and optimization by leveraging the power of microfluidics, ultra-high throughput, and advanced genetic tools. 
