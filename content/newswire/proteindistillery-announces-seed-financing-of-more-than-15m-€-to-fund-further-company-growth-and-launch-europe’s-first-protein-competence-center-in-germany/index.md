@@ -1,5 +1,5 @@
 ---
-title: ProteinDistillery announces Seed financing of more than 15M € to fund
+title: ProteinDistillery announces Seed financing of more than €15M to fund
   further company growth and launch Europe’s first protein-competence center in
   Germany
 date: 2024-03-07 08:19:00
