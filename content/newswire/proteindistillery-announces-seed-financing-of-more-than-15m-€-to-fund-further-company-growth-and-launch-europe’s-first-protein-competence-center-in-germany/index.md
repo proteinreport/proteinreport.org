@@ -27,6 +27,8 @@ topics:
   - Business
 regions:
   - Europe
+flags:
+  - Investments
 directory:
   - 11222
 featured_image: gruppenfoto_2.jpg
@@ -56,6 +58,4 @@ Support from key venture capital firms includes a significant investment from th
 
 Financial agreements with Kreissparkasse Esslingen-Nürtingen and L-Bank, along with governmental support from the Federal Ministry for Economic Affairs and Climate Protection, provide the essential funding needed. This collaborative effort aims to dramatically increase the availability of clean and functional protein ingredients, thereby enabling food companies to introduce compelling plantbased options to the mainstream market.
 
-"The future of sustainable food production relies heavily on the upcycling of existing industry side streams, establishing an extremely resource-efficient process for producing versatile proteins locally.
-
-This approach eliminates dependency on weather conditions or seasons, ensuring our ability to adapt whether the next facility might be located in the Middle East or South America," says Michael Baunach, Co-Founder of Process & Engineering.
+"The future of sustainable food production relies heavily on the upcycling of existing industry side streams, establishing an extremely resource-efficient process for producing versatile proteins locally. This approach eliminates dependency on weather conditions or seasons, ensuring our ability to adapt whether the next facility might be located in the Middle East or South America," says Michael Baunach, Co-Founder of Process & Engineering.
