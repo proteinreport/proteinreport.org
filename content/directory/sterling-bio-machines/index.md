@@ -7,22 +7,22 @@ featured_image: sterling.jpeg
 images:
   - sterling.jpeg
 description: Building a novel, modular bioreactor platform for synthetic biology
-  to revolutionize how biomanufacturing processes operate and scale.
+  to revolutionise how biomanufacturing processes operate and scale.
 proteins:
   - Microbial
   - Cell-Based
 products:
   - Technology & Equipment
 country: United Kingdom
-city: London
+city: Cambridge, London
 founded: 2023
-founders: Steve Goldenberg
+founders: Steve Goldenberg, Akshaya Ahuja
 website: https://www.sterlingbiomachines.com/
 linkedin: https://www.linkedin.com/company/sterling-bio-machines
 twitter: https://twitter.com/sterlingbioltd
-instagram: https://www.instagram.com/sterlingbiomachines/
+instagram: ""
 crunchbase: https://www.crunchbase.com/organization/sterling-bio-machines
 location_geojson: '{"type":"Point","coordinates":[-0.1271513,51.5018904]}'
 uuid: rre48YjJEBSOYg2dqci
 ---
-Building a novel, modular bioreactor platform for synthetic biology to revolutionize how biomanufacturing processes operate and scale.
+Building a novel, modular bioreactor platform for synthetic biology to revolutionise how biomanufacturing processes operate and scale.
