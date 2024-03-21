@@ -13,6 +13,8 @@ proteins:
   - Cell-Based
 products:
   - Technology & Equipment
+business:
+  - Production
 country: United Kingdom
 city: Cambridge, London
 founded: 2023
