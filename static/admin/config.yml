@@ -336,6 +336,18 @@ collections:
             "Scaffolding & Structure",
             "Materials"
           ]
+      - label: "Business"
+        name: "business"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          [
+            "Production",
+            "Finance",
+            "Nonprofit",
+            "Research"
+          ]
       - label: "Country"
         name: "country"
         widget: "select"
