@@ -22,7 +22,7 @@ topics:
 regions:
   - Middle East
 flags:
-  - Press Release
+  - Investments
 directory:
   - 1303
   - 5660
