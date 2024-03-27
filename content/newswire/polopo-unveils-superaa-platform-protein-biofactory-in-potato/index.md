@@ -23,6 +23,7 @@ products:
   - Ingredients
 topics:
   - Business
+  - Sci-Tech
 regions:
   - Middle East
 directory:
