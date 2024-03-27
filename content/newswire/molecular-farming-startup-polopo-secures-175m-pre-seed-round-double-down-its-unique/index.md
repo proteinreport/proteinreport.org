@@ -28,6 +28,7 @@ directory:
   - 5660
   - 5819
   - 6280
+  - 2pDy3hS3raJLwP1cN9y
 featured_image: 106.jpg
 featured_image_caption: "PoLoPo founders. Photo credit: Amit Alfonta."
 images:
