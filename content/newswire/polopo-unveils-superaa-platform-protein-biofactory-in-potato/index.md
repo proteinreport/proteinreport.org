@@ -29,6 +29,7 @@ regions:
   - Middle East
 directory:
   - 6280
+  - 2pDy3hS3raJLwP1cN9y
 featured_image: copy-of-tal-shahar-080224-img_3736.jpg
 additional_images:
   - src: tal-shahar-080224-img_3647.jpg
