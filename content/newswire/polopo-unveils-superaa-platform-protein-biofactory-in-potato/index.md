@@ -1,10 +1,11 @@
 ---
 title: "PoLoPo Unveils SuperAA Platform: Protein Biofactory in Potato"
-date: 2024-03-27 23:54:00
+date: 2024-03-27 11:54:00
 lastmod: 2024-03-27 13:54:18
 slug: polopo-unveils-superaa-platform-protein-biofactory-in-potato
-company_name: PoLoPo
-company_link: https://www.polopo.tech/
+company: 2pDy3hS3raJLwP1cN9y
+company_name: ""
+company_link: ""
 description: PoLoPo, a molecular farming pioneer, today announced its SuperAA
   platform, the first step to producing proteins in common plant crops. The
   platform is currently deployed in potatoes at greenhouse scale to generate
