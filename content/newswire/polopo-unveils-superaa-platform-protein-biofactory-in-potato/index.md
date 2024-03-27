@@ -18,8 +18,6 @@ excerpt: PoLoPo, a molecular farming pioneer, today announced its SuperAA
   proprietary metabolic engineering techniques.
 proteins:
   - Molecular Farming
-  - Plant-Based
-  - Animal
 products:
   - Eggs
   - Ingredients
