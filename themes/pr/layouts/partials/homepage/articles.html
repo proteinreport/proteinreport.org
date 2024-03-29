@@ -17,9 +17,9 @@
                             "page" .
                             "src" $image
                             "alt" .Title
-                            "widths" (slice 300 480 640 768 1024)
                             "class" "img-fluid absolute inset-0 h-full w-full object-cover"
-                            "loading" "auto"
+                            "loading" "eager"
+                            "fetchpriority" "high"
                             )}}
                         {{ else }}
                             <img alt="House" src="{{ $image.RelPermalink }}" class="absolute inset-0 h-full w-full object-cover" />
