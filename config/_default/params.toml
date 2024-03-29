@@ -39,10 +39,10 @@ darkMode = true
     svgIcon = "images/logo/icon.svg" # favicon.svg (default)
   [seo.schemas]
     type = "Organization" # Organization (default) or Person
-    logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
-    name = "Hyas" # Name of Organization or Person
+    logo = "images/logo/logo-small.png" # Logo of Organization — favicon-512x512.png (default)
+    name = "Protein Report" # Name of Organization or Person
     sameAs = [] # E.g. ["https://github.com/gethyas/hyas", "https://fosstodon.org/@hyas"]
-    images = ["cover.png"] # ["cover.png"] (default)
+    images = ["images/logo/logo-small.png"] # ["cover.png"] (default)
     article = ["articles"] # Article sections
     newsArticle = ["newswire"] # NewsArticle sections
     blogPosting = ["blog"] # BlogPosting sections
