@@ -2,13 +2,12 @@
 
 ## Homepage
 title = "Protein Report"
-titleSeparator = "-"
-titleAddition = "Protein economy news and industry platform"
+description = "Protein economy news and industry platform"
+images = ["images/logo/logo-small.png"]
 
 twitterSite = "@Protein_Report"
 twitterCreator = "@Protein_Report"
 
-images = ["images/logo/icon.png"]
 ogLocale = "en_US"
 titleHome = "Protein Report"
 
