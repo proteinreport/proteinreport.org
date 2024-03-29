@@ -201,7 +201,6 @@
       "hover:bg-gray-100",
       "hover:bg-yellow-200",
       "hover:bg-yellow-400",
-      "hover:font-bold",
       "hover:not-italic",
       "hover:opacity-75",
       "hover:shadow-xl",
