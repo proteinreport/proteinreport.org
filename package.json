@@ -10,40 +10,50 @@
     "create": "exec-bin node_modules/.bin/hugo/hugo new",
     "lint": "npm run lint:scripts && npm run lint:styles && npm run lint:markdown",
     "lint:scripts": "eslint --cache config",
-    "lint:styles": "stylelint --cache \"assets/scss/**/*.{css,sass,scss}\"",
+    "lint:styles": "stylelint --cache \"assets/css/**/*.{css,sass,scss}\"",
     "lint:markdown": "markdownlint-cli2 \"*.md\" \"content/**/*.md\"",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "exec-bin node_modules/.bin/hugo/hugo --minify",
+    "build": "exec-bin node_modules/.bin/hugo/hugo --cleanDestinationDir --minify",
     "preview": "http-server --gzip --brotli --ext=html --cors",
     "clean": "npm run clean:build && npm run clean:lint && npm run clean:install",
-    "clean:build": "shx rm -rf public resources .hugo_build.lock",
+    "clean:build": "shx rm -rf public resources .hugo_build.lock hugo_stats.json",
     "clean:install": "shx rm -rf node_modules package-lock.json yarn.lock pnpm-lock.yaml",
     "clean:lint": "shx rm -rf .eslintcache .stylelintcache",
     "preinfo": "npm version",
     "info": "npm list",
     "postinfo": "exec-bin node_modules/.bin/hugo/hugo version",
-    "postinstall": "shx rm -rf node_modules/.bin/hugo && shx mkdir node_modules/.bin/hugo && shx cp node_modules/gethyas/node_modules/.bin/hugo/* node_modules/.bin/hugo"
-  },
-  "devDependencies": {
-    "@hyas/images": "^3.0.0",
-    "@hyas/seo": "^1.0.3",
-    "@hyas/tailwindcss": "^1.0.2"
-  },
-  "engines": {
-    "node": ">=16.12.0"
+    "postinstall": "hugo-installer --version otherDependencies.hugo --extended --destination node_modules/.bin/hugo"
   },
   "dependencies": {
     "@glidejs/glide": "^3.6.0",
+    "@hyas/images": "^3.1.0",
+    "@hyas/seo": "^2.2.0",
+    "@hyas/tailwindcss": "^1.0.3",
     "@netlify/functions": "^2.0.2",
     "@tabler/icons-png": "^2.34.0",
     "axios": "^1.4.0",
     "flexsearch": "^0.7.31",
     "gethyas": "^2.2.2",
     "glightbox": "^3.2.0",
+    "hugo-installer": "^4.0.1",
     "leaflet": "^1.9.4",
     "leaflet-gesture-handling": "^1.2.2",
     "leaflet.markercluster": "^1.5.3",
     "netlify-identity-widget": "^1.9.2",
     "node-fetch": "^2.7.0"
-  }
+  },
+  "devDependencies": {
+    "shx": "^0.3.4"
+  },
+  "otherDependencies": {
+    "hugo": "0.123.7"
+  },
+  "overrides": {
+    "semver": "^7.5.4"
+  },
+  "engines": {
+    "node": ">=18.14.1",
+    "pnpm": ">=8.10.0"
+  },
+  "packageManager": "pnpm@8.12.0"
 }

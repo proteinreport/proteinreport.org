@@ -20,9 +20,6 @@ googleAnalytics = "G-KXVQT2THTT"
 
 copyRight = "Copyright (c) 2023 Protein Report"
 
-[social]
-  twitter = "Protein_Report"
-
 [outputFormats.SearchIndex]
 mediaType = "application/json"
 baseName = "searchindex"

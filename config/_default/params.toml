@@ -5,13 +5,15 @@ title = "Protein Report"
 titleSeparator = "-"
 titleAddition = "Protein economy news and industry platform"
 
-
 twitterSite = "@Protein_Report"
 twitterCreator = "@Protein_Report"
 
-images = ["/favicon.png"]
+images = ["images/logo/icon.png"]
 ogLocale = "en_US"
 titleHome = "Protein Report"
+
+[social]
+  twitter = "Protein_Report"
 
 [options]
 darkMode = true
@@ -23,5 +25,29 @@ darkMode = true
     fetchpriority = "auto" # high, low, or auto (default) 
     loading = "lazy" # eager or lazy (default)
     widths = [480, 576, 768, 1025, 1200, 1440] # [640, 768, 1024, 1366, 1600, 1920] for example
-    sizes = "75vw" # 100vw (default), 75vw, or auto for example
-    process = "" # "fill 1680x720" for example
+    sizes = "auto" # 100vw (default), 75vw, or auto for example
+    process = "" # "fill 1600x900" or "fill 2100x900" for example
+    lqip = "16x webp q20" # "16x webp q20" or "21x webp q20" for example
+
+# SEO (@hyas/seo)
+[seo]
+  [seo.title]
+    separator = "" # "|" (default)
+    suffix = "" # title hugo.toml (default)
+  [seo.favicons]
+    icon = "images/logo/icon.png" # favicon.png (default)
+    svgIcon = "images/logo/icon.svg" # favicon.svg (default)
+  [seo.schemas]
+    type = "Organization" # Organization (default) or Person
+    logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
+    name = "Hyas" # Name of Organization or Person
+    sameAs = [] # E.g. ["https://github.com/gethyas/hyas", "https://fosstodon.org/@hyas"]
+    images = ["cover.png"] # ["cover.png"] (default)
+    article = ["articles"] # Article sections
+    newsArticle = ["newswire"] # NewsArticle sections
+    blogPosting = ["blog"] # BlogPosting sections
+    product = [] # Product sections
+
+# Inline SVG (@hyas/inline-svg)
+[inline_svg]
+  iconSetDir = "tabler-icons" # "tabler-icons" (default)
