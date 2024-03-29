@@ -1,28 +1,28 @@
-<ul class="flex flex-row flex-wrap justify-center text-center gap-8 text-xl sm:text-2xl md:text-3xl lg:text-4xl mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+<ul class="flex flex-row flex-wrap justify-center text-center gap-8 text-xl italic sm:text-2xl md:text-3xl lg:text-4xl mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
     {{ range .Site.Menus.technology }}
         <li>
-            <a href="{{ .URL }}" class="text-gray-700 special-underline">
+            <a href="{{ .URL }}" class="text-gray-700 special-underline hover:not-italic">
                 {{ .Name | upper }}
             </a>
         </li>
     {{ end }}
     {{ range .Site.Menus.products }}
     <li>
-        <a href="{{ .URL }}" class="text-gray-700 special-underline-sky">
+        <a href="{{ .URL }}" class="text-gray-700 special-underline-sky hover:not-italic">
             {{ .Name | upper }}
         </a>
     </li>
     {{ end }}
     {{ range .Site.Menus.topics }}
         <li>
-            <a href="{{ .URL }}" class="text-gray-700 special-underline-orange">
+            <a href="{{ .URL }}" class="text-gray-700 special-underline-orange hover:not-italic">
                 {{ .Name | upper }}
             </a>
         </li>
     {{ end }}
     {{ range .Site.Menus.regions }}
         <li>
-            <a href="{{ .URL }}" class="text-gray-700 special-underline-lime">
+            <a href="{{ .URL }}" class="text-gray-700 special-underline-lime hover:not-italic">
                 {{ .Name | upper }}
             </a>
         </li>
