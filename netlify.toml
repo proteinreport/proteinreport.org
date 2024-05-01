@@ -1,7 +1,6 @@
 [build]
   publish = "public"
   functions = "functions"
-  command = "npm run build"
 
 [functions]
   node_bundler = "esbuild"
@@ -10,6 +9,7 @@
 [build.environment]
   NODE_VERSION = "18.12.1"
   NPM_VERSION = "8.19.2"
+  HUGO_VERSION = "0.123.7"
 
 [context.production]
   command = "npm run build"
