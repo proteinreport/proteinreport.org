@@ -12,7 +12,7 @@
   HUGO_VERSION = "0.123.7"
 
 [context.production]
-  command = "npm run build"
+  command = "npm ci && npm run build"
 
 [context.deploy-preview]
   command = "npm run build -- -b $DEPLOY_PRIME_URL"
