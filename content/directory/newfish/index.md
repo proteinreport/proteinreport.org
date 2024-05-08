@@ -25,7 +25,7 @@ country: New Zealand
 city: Auckland
 founded: 2020
 founders: Alex Worker
-website: https://newfish.co.nz/
+website: https://www.nutritionfromwater.com/
 linkedin: https://www.linkedin.com/company/nutritionfromwater/
 instagram: https://www.instagram.com/nutritionfromwater/
 facebook: https://www.facebook.com/nutritionfromwater
