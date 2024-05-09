@@ -1,5 +1,5 @@
 ---
-title: Agri-Food Tech Expo Asia
+title: Agri-Food Tech Expo Asia 2024
 date: 2024-05-09 19:22:00
 lastmod: 2024-05-09 19:22:00
 slug: agri-food-tech-expo-asia-2024
