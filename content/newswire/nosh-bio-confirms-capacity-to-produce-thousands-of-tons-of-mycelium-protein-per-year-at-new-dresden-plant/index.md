@@ -4,8 +4,9 @@ title: Nosh.bio confirms capacity to produce thousands of tons of mycelium
 date: 2024-05-09 16:39:00
 lastmod: 2024-05-09 18:39:00
 slug: nosh-bio-confirms-capacity-produce-thousands-tons-mycelium-protein-per-year-new-dresden-plant
-company_name: Nosh.bio
-company_link: https://www.nosh.bio/
+company: ZxNrwnv08Rp1wGRr7oHf
+company_name: ""
+company_link: ""
 description: Nosh.bio has announced it will reach a mycelium protein production
   capacity of thousands of tons per year at its new German plant.
 excerpt: Nosh.bio has announced it will reach a mycelium protein production
@@ -19,6 +20,8 @@ topics:
   - Business
 regions:
   - Europe
+directory:
+  - ZxNrwnv08Rp1wGRr7oHf
 featured_image: nosh-steak-chips.jpg
 featured_image_caption: Nosh steak and chips
 additional_images:
