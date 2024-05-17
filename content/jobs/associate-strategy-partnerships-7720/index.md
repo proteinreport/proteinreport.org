@@ -39,7 +39,7 @@ show a deep commitment to accelerating Clara's mission.
 
 **Location: Remote temporarily until we transition back to office **
 
-**[RESPONSIBILITIES]{.underline}**
+**[RESPONSIBILITIES]**
 
 -   Partnerships: Accelerate R&D, Manufacturing, and Product by
     developing new and supporting existing partnerships
@@ -58,7 +58,7 @@ show a deep commitment to accelerating Clara's mission.
 -   Marketing & Comms: Manage overall strategy, planning, and
     implementation through 3rd party agencies
 
-**[QUALIFICATIONS]{.underline}**
+**[QUALIFICATIONS]**
 
 -   2+ years of experience in consulting, product management, and/or
     corporate finance

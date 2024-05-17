@@ -51,9 +51,7 @@ animal-free protein.
 -   Collaborate with the Technical, Product and Commercialization Teams,
     additionally assist with receiving and analyzing samples.
 
-```{=html}
-<!-- -->
-```
+
 -   Organize and maintain reagent inventory and storage in assigned
     areas based on well-defined categories.
 -   Perform bespoke quality evaluation tests on samples.  Training on
@@ -73,9 +71,7 @@ Preferred Skills and Requirements:
 -   Minimum Associate Degree in Chemistry, Food Science, Biology or
     equivalent experience required.
 
-```{=html}
-<!-- -->
-```
+
 -   This role requires the candidate to be present in the lab during
     working hours.
 -   Previous experience as a laboratory technician or similar roles is
@@ -90,9 +86,7 @@ Preferred Skills and Requirements:
 -   Operate with moderate supervision and have meticulous attention to
     detail.
 
-```{=html}
-<!-- -->
-```
+
 -   Proven ability to manage multiple assignments / tasks. 
 -   Good communication skills (oral and written). 
 -   Must be authorized to work in the United States for Clara Foods.

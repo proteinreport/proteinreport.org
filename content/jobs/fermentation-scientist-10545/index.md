@@ -84,7 +84,7 @@ sex, national origin, sexual orientation, age, citizenship, marital
 status, disability, or gender identity. We strongly encourage
 individuals from groups traditionally underrepresented in tech to apply.
 
-[**[Apply here]{.underline}**](https://forms.gle/sPyaqy3aMRJE83Kh7)
+[**[Apply here]**](https://forms.gle/sPyaqy3aMRJE83Kh7)
 
 Location: Zurich, Switzerland
 

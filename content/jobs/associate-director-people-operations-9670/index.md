@@ -25,7 +25,7 @@ application_link: "https://clarafoods.applytojob.com/apply/hri7j8qvTZ/Associate-
 draft: false
 uuid: 9670
 ---
-**[Overview]{.underline}**
+**[Overview]**
 
 A growing syn-biotechnology company is seeking an experienced Associate
 Director, People Operations to join their South San Francisco-based
@@ -56,7 +56,7 @@ animal-free protein.
 
  
 
-**[Responsibilities]{.underline}**
+**[Responsibilities]**
 
  
 
@@ -75,9 +75,7 @@ animal-free protein.
     provide coaching, counseling, and disciplinary actions to employees
     as needed.
 
-```{=html}
-<!-- -->
-```
+
 -   Maintain accurate records in HRIS and payroll systems.
 -   Identify training needs for business units and participate in
     facilitation.
@@ -89,7 +87,7 @@ animal-free protein.
 
  
 
-**[What we expect:]{.underline}**
+**[What we expect:]**
 
  
 
@@ -105,7 +103,7 @@ days a week with two days remote offering a flexible schedule.
 
  
 
-**[Qualifications and Education: ]{.underline}**
+**[Qualifications and Education: ]**
 
 -   Minimum of 10 years of progressive Human Resource experience, 5 of
     which managing direct reports required.
@@ -122,7 +120,7 @@ days a week with two days remote offering a flexible schedule.
     facilitation required.
 -   Must be authorized to work in the United States for Clara Foods.
 
-**[Preferred Skills and Abilities:]{.underline}**
+**[Preferred Skills and Abilities:]**
 
 -   Experience at a high-growth startup in the ingredient, flavor,
     agricultural and food strongly preferred.
@@ -137,7 +135,7 @@ days a week with two days remote offering a flexible schedule.
 
  
 
-**[What Clara Foods can offer]{.underline}:**
+**[What Clara Foods can offer]:**
 
 -   Generous benefits package; 100% medical, dental, and vision employee
     coverage, 401k matching, and stock options

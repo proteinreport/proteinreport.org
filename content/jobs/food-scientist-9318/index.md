@@ -43,7 +43,7 @@ strong sense of initiative. You will be responsible for developing and
 performing various assays for product and  process development and you
 will be required to work in the laboratory or pilot plant environment.  
 
-**[Primary Responsibilities]{.underline} **
+**[Primary Responsibilities] **
 
 Primary responsibilities include but are not limited to the following: 
 
@@ -66,7 +66,7 @@ Primary responsibilities include but are not limited to the following: 
 -   Other duties and projects, as assigned, in support of R&D and
     Company success. 
 
-**[Minimum Qualifications:]{.underline} **
+**[Minimum Qualifications:] **
 
 -   A master degree or higher in Food Science, Dairy Science, Biological
     Sciences, or related discipline
@@ -92,7 +92,7 @@ Primary responsibilities include but are not limited to the following: 
     and in communicating science to non-technical  audiences. 
 -   Has an "anything is possible" attitude and no ego. 
 
-**[Bonus if you have experience with:]{.underline} **
+**[Bonus if you have experience with:] **
 
 -   Sensory evaluation of foods 
 -   Problem solving tools including fishbone diagrams 

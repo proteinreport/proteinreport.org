@@ -118,7 +118,7 @@ back to office  **
 -   Ability to anticipate customer needs and proactively create new
     solutions and operate with a sense of urgency. 
 
-**[What Clara Foods can offer]{.underline}:**
+**[What Clara Foods can offer]:**
 
 -   Generous benefits package; 100% medical, dental, and vision employee
     coverage, 401k matching, and stock options

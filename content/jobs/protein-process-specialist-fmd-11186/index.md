@@ -47,9 +47,7 @@ and actively shape Planted\'s future!
 
 **Your mission:**
 
-```{=html}
-<!-- -->
-```
+
 -   Leading and developing projects in the interdisciplinary field of
     protein and fiber extraction by working directly with raw materials
 -   Researching and developing plant-based proteins with a focus on
@@ -61,9 +59,7 @@ and actively shape Planted\'s future!
 -   Assisting in the building of teams, guiding junior scientists and
     developing our vision
 
-```{=html}
-<!-- -->
-```
+
 
 **You:**
 

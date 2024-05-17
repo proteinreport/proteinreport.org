@@ -37,7 +37,7 @@ fast-paced startup looking for our next team member who is intensely
 passionate about advancing synthetic biology for food and beverage
 products.
 
-**[How You Will Make a Difference:]{.underline}**
+**[How You Will Make a Difference:]**
 
 In this role, you will have the opportunity to ensure that Helaina's
 roadmap to strategic initiatives is completed on time and in the most
@@ -58,7 +58,7 @@ effective manner. The Operations and Project Assistant will be:
     clearly defined project path with well-defined outputs
 -   Performing other duties as assigned
 
-**[Who We're Looking For:]{.underline}**
+**[Who We're Looking For:]**
 
 -   4+ years of work experience, including a minimum of 2 years with
     direct project management experience 
@@ -83,7 +83,7 @@ effective manner. The Operations and Project Assistant will be:
     organization.
 -   Strong support for Helaina's philosophy and mission
 
-**[Employment Details:]{.underline}**
+**[Employment Details:]**
 
 -   Terms of employment: Full-time, non-exempt
 -   Location: NYC or Remote; United States 

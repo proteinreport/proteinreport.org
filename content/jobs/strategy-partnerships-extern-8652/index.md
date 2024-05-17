@@ -50,7 +50,7 @@ questions:
 
 *Location*: 100% remote
 
-**[RESPONSIBILITIES]{.underline}**
+**[RESPONSIBILITIES]**
 
 -   **Strategic Roadmap** -- help develop and execute a comprehensive,
     company-wide technology and commercial strategy plans
@@ -66,7 +66,7 @@ questions:
 -   **Special Projects** -- identify gaps, propose solutions, and
     deliver outcomes that create outsized value
 
-**[QUALIFICATIONS]{.underline}**
+**[QUALIFICATIONS]**
 
 -   2+ years of experience in management consulting, corporate strategy,
     and/or startup operations

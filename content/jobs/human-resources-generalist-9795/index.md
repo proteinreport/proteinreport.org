@@ -94,17 +94,13 @@ Responsibilities:
     individual talents and perspectives to identify, analyze, and solve
     problems.
 
-```{=html}
-<!-- -->
-```
+
 -   Partner with senior management to plan and direct all aspects of
     human resources functions including compliance to Federal, State and
     local labor laws, regulations, Clara Foods policies, programs and
     best practices.
 
-```{=html}
-<!-- -->
-```
+
 -   Provide day-to-day performance management support to managers;
     provide coaching, counseling, and disciplinary actions to employees
     as needed.

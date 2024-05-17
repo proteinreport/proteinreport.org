@@ -49,25 +49,17 @@ Technology** *to join our extraordinary team
 -   *Are you passionate about scaling process technology, from lab scale
     to commercial? *
 
-```{=html}
-<!-- -->
-```
+
 -   *Do you have experience managing capital projects and plant
     operations?*
 
-```{=html}
-<!-- -->
-```
+
 -   *Are you skilled at optimizing pilot and demonstration plants?*
 
-```{=html}
-<!-- -->
-```
+
 -   *Do you love creating a culture of safety on your teams?*
 
-```{=html}
-<!-- -->
-```
+
 -   *Have you worked with hydrogen and/or have robust knowledge of PSM?*
 
 If you answered yes to these questions, then **WE WOULD LOVE TO HEAR

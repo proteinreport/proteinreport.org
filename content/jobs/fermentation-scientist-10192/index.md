@@ -73,4 +73,4 @@ system.
 
 
 If you are interested in this position, please contact
-[[careers@balleticfoods.com]{.underline}](mailto:careers@balleticfoods.com).
+[[careers@balleticfoods.com]](mailto:careers@balleticfoods.com).

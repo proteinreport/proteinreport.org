@@ -37,11 +37,11 @@ cultured meat/fish project.
 We are looking for a **Head of Biotech Laboratory** who will lead these
 efforts at our new lab.
 
-[Job type]{.underline}: Full-time position.
+[Job type]: Full-time position.
 
-[Location]{.underline}: New York, NY.
+[Location]: New York, NY.
 
-[Qualifications & experience]{.underline}:
+[Qualifications & experience]:
 
 Key requirements:
 
@@ -84,5 +84,5 @@ Please note: ***Work visa sponsorship will not be provided.***
 **How to apply**
 
 
-[Please contact:]{.underline} **Anton Elemoso at**
+[Please contact:] **Anton Elemoso at**
 [**ae@vivaxbio.com**](mailto:ae@vivaxbio.com)

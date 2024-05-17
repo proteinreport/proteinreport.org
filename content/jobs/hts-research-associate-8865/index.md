@@ -25,7 +25,7 @@ application_link: "https://clarafoods.applytojob.com/apply/XEzm5GS2ki/HTS-Resear
 draft: false
 uuid: 8865
 ---
-**[High Throughput Screening Research Associate:]{.underline}**
+**[High Throughput Screening Research Associate:]**
 
 If you love working with robots, we are looking for you! Do you have a
 passion for using biotechnology to build sustainable new sources of
@@ -68,7 +68,7 @@ create novel sources of protein for human nutrition.
 -   Work alongside creative, innovative scientists
 -   Work with the company's safety committee as needed
 
-**[What Clara can offer:]{.underline}**
+**[What Clara can offer:]**
 
 -   Generous benefits package; 100% covered medical, dental, vision and
     life insurance, 401K with company match, HSA and FSA accounts,

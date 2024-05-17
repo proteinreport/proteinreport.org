@@ -33,7 +33,7 @@ responsible for protein characterization and method development of
 protein analyses to support our current products and to assist in the
 development of new products. 
 
-[**Responsibilities **]{.underline}
+[**Responsibilities **]
 
 -   Perform analysis and characterization of proteins and protein
     mixtures 
@@ -58,7 +58,7 @@ development of new products. 
 -   Perform additional laboratory duties as required to support R&D and
     company projects 
 
-[**About You **]{.underline}
+[**About You **]
 
 **Education & Experience **
 
@@ -72,9 +72,7 @@ development of new products. 
 -   2+ years experience in protein purification/separation
     and characterization  
 
-```{=html}
-<!-- -->
-```
+
 -   Experience with enzymology and kinetics a plus 
 
 **Skills & Qualifications **
@@ -98,7 +96,7 @@ development of new products. 
 
 -   Ability to pass a standard background check 
 
-[**Additional Information & Requirements **]{.underline}
+[**Additional Information & Requirements **]
 
 This is a regular full-time position based out of our Headquarters in
 San Francisco, CA. 

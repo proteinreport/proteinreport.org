@@ -25,7 +25,7 @@ application_link: "https://airprotein.bamboohr.com/jobs/view.php?id=29&source=aW
 draft: false
 uuid: 10692
 ---
-[**ABOUT AIR PROTEIN**]{.underline}
+[**ABOUT AIR PROTEIN**]
 
 Imagine a meat company unlike anything that has come before! Air
 Protein™ is on a mission to impact climate change by revolutionizing how

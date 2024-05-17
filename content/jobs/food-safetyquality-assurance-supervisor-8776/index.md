@@ -72,9 +72,7 @@ Procedures (GMPs).
 -   Prepare responses to regulatory bodies, address external/internal
     audit issues and track corrective action effectiveness.
 
-```{=html}
-<!-- -->
-```
+
 -   Initiate and coordinate pertinent classroom and hands-on training
     for relevant personnel that addresses food safety, worker safety,
     continuous improvement, current product issues along with new

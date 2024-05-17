@@ -45,7 +45,7 @@ milestones by supporting all functions for the Strain  Engineering team.
 This is an excellent opportunity for someone who is hungry to work in a
 startup environment  and ready to do the best work of your career.  
 
-**[Primary Responsibilities]{.underline} **
+**[Primary Responsibilities] **
 
 Primary responsibilities include but are not limited to the following: 
 
@@ -58,7 +58,7 @@ Primary responsibilities include but are not limited to the following: 
     to thermocyclers, shaking  incubators, autoclave, spectrophotometer,
     nanodrop for quantification and gel imagers.
 
-**[Minimum Qualifications]{.underline} **
+**[Minimum Qualifications] **
 
 -   Associates degree or higher in Molecular Biology, Biological
     Science, Biotechnology, Biochemistry,  Chemistry, Pharmacy, or

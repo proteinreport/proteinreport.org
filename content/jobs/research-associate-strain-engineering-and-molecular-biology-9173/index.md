@@ -45,7 +45,7 @@ milestones by supporting all functions for the Strain Engineering team.
 This is an excellent opportunity for someone who is hungry to work in a
 startup environment and ready to do the best work of your career. 
 
-**[Primary Responsibilities]{.underline}**
+**[Primary Responsibilities]**
 
 Primary responsibilities include but are not limited to the following:
 
@@ -66,7 +66,7 @@ Primary responsibilities include but are not limited to the following:
 -   Independently analyze and interpret data
 -   Prepare experimental results for internal communication and meetings
 
-**[Minimum Qualifications]{.underline}**
+**[Minimum Qualifications]**
 
 -   Bachelor\'s degree or higher in Molecular Biology, Biological
     Science, Biotechnology, Biochemistry, Chemistry, Pharmacy
@@ -94,5 +94,5 @@ Primary responsibilities include but are not limited to the following:
 
 
 Reach out to Pamela Botero Besada-Lombana at
-[<pamela@myhelaina.com>]{.underline} or Paola Delgado at
-[<paola@myhelaina.com>]{.underline}
+[<pamela@myhelaina.com>] or Paola Delgado at
+[<paola@myhelaina.com>]

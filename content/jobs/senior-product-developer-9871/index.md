@@ -42,81 +42,53 @@ Duties and Responsibilities include:
 
 -   Create BMC ingredient-based meat analogs for sampling.
 
-```{=html}
-<!-- -->
-```
+
 -   Work with customers to help develop new applications for BMC
     mycelium ingredients and provide support to R&D departments.
 
-```{=html}
-<!-- -->
-```
+
 -   Participate in technical formulation, specification development,
     data collection, and procedures implementation.
 
-```{=html}
-<!-- -->
-```
+
 -   Create detailed reports and records of experiments, formulas, and
     focus group results.
 
-```{=html}
-<!-- -->
-```
+
 -   Organize and maintain ingredients inventory in the development lab.
 
-```{=html}
-<!-- -->
-```
+
 -   Coordinate and communicate product development tasks with other
     departments.
 
-```{=html}
-<!-- -->
-```
+
 -   Collaborate with suppliers and vendors to effectively source
     materials and services.
 
-```{=html}
-<!-- -->
-```
+
 -   Oversee in-house production runs.
 
-```{=html}
-<!-- -->
-```
+
 -   Coordinate requests for product samples.
 
-```{=html}
-<!-- -->
-```
+
 -   Conduct routine sample preparation and analysis in compliance with
     applicable protocols, methods/SOPs.
 
-```{=html}
-<!-- -->
-```
+
 -   Collaborate with external labs to conduct analytical as well as
     nutritional testing as needed.
 
-```{=html}
-<!-- -->
-```
+
 -   Ensure compliance with SOPs, regulatory and food safety GMPs.
 
-```{=html}
-<!-- -->
-```
+
 -   Keep up to date on food trends and new ingredients and applications.
 
-```{=html}
-<!-- -->
-```
+
 -   Operate various types of processing and cooking equipment.
 
-```{=html}
-<!-- -->
-```
+
 -   Perform other duties supporting the Product Development team as
     assigned.
 
@@ -125,68 +97,46 @@ Qualifications
 -   Bachelor's degree or comparable experience in culinary arts,
     biology, chemistry, food science, or related field.
 
-```{=html}
-<!-- -->
-```
+
 -   Minimum 1-3 years of experience in food product development
     post-graduation, center of plate savory and alternate meat
     applications preferable.
 
-```{=html}
-<!-- -->
-```
+
 -   A history of being an effective, detailed, communicative, and
     passionate person and are proven in your ability to create and
     deliver quality work.
 
-```{=html}
-<!-- -->
-```
+
 -   Proficient in Google Suite.
 
-```{=html}
-<!-- -->
-```
+
 -   Extremely collaborative and able to communicate and provide
     feedback.
 
-```{=html}
-<!-- -->
-```
+
 -   Competent in technical writing to document laboratory results and
     observations.
 
-```{=html}
-<!-- -->
-```
+
 -   Adaptable and shows flexibility in approach to changing situations.
 
-```{=html}
-<!-- -->
-```
+
 -   Excellent analytical teamwork, verbal and written communication
     skills.
 
-```{=html}
-<!-- -->
-```
+
 -   Act responsibly with confidential matters.
 
-```{=html}
-<!-- -->
-```
+
 -   Able to prioritize multiple tasks and meet multiple deadlines
     throughout the day.
 
-```{=html}
-<!-- -->
-```
+
 -   Able to perform the duties of the job description with or without
     reasonable accommodation.
 
-```{=html}
-<!-- -->
-```
+
 -   Must provide proof of identification and eligibility to work in the
     United States of America.
 
@@ -195,9 +145,7 @@ Working Conditions/Hazards
 -   Work is primarily performed in a development lab setting. Work
     environment is fast-paced with unique challenges faced daily.
 
-```{=html}
-<!-- -->
-```
+
 -   Work requires the use of fine motor skills, standing for extended
     periods of time, reaching and twisting motions and lifting 50
     pounds.

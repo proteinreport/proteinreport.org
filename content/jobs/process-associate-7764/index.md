@@ -57,9 +57,7 @@ Requirements:
     field
 -   1-4 years of fermentation or cell culture laboratory experience 
 
-```{=html}
-<!-- -->
-```
+
 -   Familiarity with aseptic technique and microbiology lab equipment
     including biosafety cabinets, incubators, autoclaves, and plate
     readers

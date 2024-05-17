@@ -104,6 +104,6 @@ with qualifications and experience.
 
 Please email your resume (Word or PDF) and short cover letter outlining
 your reasons for applying and what you hope to gain from the role to:
-[[hiring@eden.bio]{.underline}](mailto:hiring@eden.bio). Be sure to
+[[hiring@eden.bio]](mailto:hiring@eden.bio). Be sure to
 highlight any relevant experience as well as your availability (when you
 can start).

@@ -50,20 +50,14 @@ Planning*** to join our extraordinary team...
 -   *Are you skilled at building relationships and energized by closing
     strategic deals?*
 
-```{=html}
-<!-- -->
-```
+
 -   *Do you have excellent strategic planning abilities with strong
     analytical skills?*
 
-```{=html}
-<!-- -->
-```
+
 -   *Do you identify gaps and opportunities and initiate solutions?*
 
-```{=html}
-<!-- -->
-```
+
 -   *Are you passionate about problem solving for climate change?*
 
 If you answered yes to these questions, **WE WOULD LOVE TO HEAR FROM

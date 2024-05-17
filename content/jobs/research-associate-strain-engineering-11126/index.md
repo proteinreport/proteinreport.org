@@ -50,20 +50,14 @@ Engineering**** to join our extraordinary team.*
 -   *Do you have a solid understanding of modern molecular biology
     techniques?*
 
-```{=html}
-<!-- -->
-```
+
 -   *Are you familiar with genetic engineering principles and tools for
     microbial hosts?*
 
-```{=html}
-<!-- -->
-```
+
 -   *Do you possess strong wet-lab skills?*
 
-```{=html}
-<!-- -->
-```
+
 -   *Do you love creating a culture of safety on your teams?*
 -    
 

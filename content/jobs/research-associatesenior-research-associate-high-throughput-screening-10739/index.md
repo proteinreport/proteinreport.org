@@ -42,7 +42,7 @@ and we\'re on the lookout for like-minded people to join our mission.
 Sound like you?
 
 **[High Throughput Screening Research Associate/Senior Research
-Associate:]{.underline}**
+Associate:]**
 
 **If you love working with robots, we are looking for you! Do you have a
 passion for using biotechnology to build sustainable new sources of
