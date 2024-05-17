@@ -1,7 +1,7 @@
 ---
 title: Senior Food Scientist
 company: 10908
-date: 2024-05-17 10:10:00
+date: 2024-05-17 08:10:00
 lastmod: 2024-05-17 10:10:00
 closing_date: 2024-06-30
 description: We are looking for a Senior Food Scientist with a passion for
