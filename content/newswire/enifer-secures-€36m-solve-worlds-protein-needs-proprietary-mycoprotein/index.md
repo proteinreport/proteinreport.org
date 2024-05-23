@@ -2,7 +2,7 @@
 title: Enifer Secures €36M to Solve World’s Protein Needs with Proprietary Mycoprotein
 date: 2024-05-23 09:59:00
 lastmod: 2024-05-23 11:59:00
-slug: enifer-secures-36m-funding-solve-worlds-soaring-protein-needs-proprietary-mycoprotein
+slug: enifer-secures-36m-solve-worlds-protein-needs-proprietary-mycoprotein
 company: 8922
 description: Finnish mycoprotein company Enifer has today announced the
   completion of a funding package that enables it to start constructing a unique
