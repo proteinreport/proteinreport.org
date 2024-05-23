@@ -25,6 +25,7 @@ flags:
 directory:
   - 8922
 featured_image: enifer_17.5.2024.jpg
+featured_image_caption: "Photo credit: Iiro Muttilainen"
 images:
   - enifer_17.5.2024.jpg
 uuid: wG6jL9uVWbwmUdS1wgs
