@@ -1,6 +1,6 @@
 ---
-title: Enifer Secures €36M in Funding to Solve World’s Soaring Protein Needs
-  with Proprietary Mycoprotein
+title: Enifer Secures €36M to Solve World’s Soaring Protein Needs with
+  Proprietary Mycoprotein
 date: 2024-05-23 09:59:00
 lastmod: 2024-05-23 11:59:00
 slug: enifer-secures-36m-funding-solve-worlds-soaring-protein-needs-proprietary-mycoprotein
