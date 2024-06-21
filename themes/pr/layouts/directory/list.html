@@ -14,7 +14,7 @@
     </div>
 
     <div class="w-full grid grid-cols-1 auto-rows-fr gap-8 sm:grid-cols-2 md:grid-cols-3">
-      {{ $paginator := .Paginate (.Data.Pages) -}}
+      {{ $paginator := .Paginate (.Data.Pages) 24 -}}
       {{ range $paginator.Pages -}}
         {{ partial "directory/card.html" . }}
       {{ end }}
