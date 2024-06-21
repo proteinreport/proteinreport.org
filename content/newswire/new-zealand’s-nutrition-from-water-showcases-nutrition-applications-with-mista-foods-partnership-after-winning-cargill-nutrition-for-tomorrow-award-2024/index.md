@@ -29,17 +29,17 @@ directory:
 featured_image: cargill-nutrition-for-tomorrow-award.jpeg
 featured_image_caption: Cargill Nutrition for Tomorrow Award
 additional_images:
-  - src: the-buhler-twin-screw-extruder-at-the-mista-innovation-center.jpg
-    caption: The Buhler twin screw extruder at the MISTA Innovation Center
-    title: The Buhler twin screw extruder at the MISTA Innovation Center
+  - src: buhler-twin-screw-extruder.jpg
     alt: The Buhler twin screw extruder at the MISTA Innovation Center
+    title: The Buhler twin screw extruder at the MISTA Innovation Center
+    caption: The Buhler twin screw extruder at the MISTA Innovation Center
   - src: mista-innovation-ctr-outside.jpg
     alt: MISTA Innovation Ctr Outside
     title: MISTA Innovation Ctr Outside
     caption: MISTA Innovation Ctr Outside
 images:
   - cargill-nutrition-for-tomorrow-award.jpeg
-  - the-buhler-twin-screw-extruder-at-the-mista-innovation-center.jpg
+  - buhler-twin-screw-extruder.jpg
   - mista-innovation-ctr-outside.jpg
 uuid: x4VP2LSh59Ho7mGBi3uf
 ---
