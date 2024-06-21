@@ -33,6 +33,10 @@ additional_images:
     alt: MISTA Innovation Ctr Outside
     title: MISTA Innovation Ctr Outside
     caption: MISTA Innovation Ctr Outside
+  - src: buhler-twin-screw-extruder.jpg
+    alt: The Buhler twin screw extruder at the MISTA Innovation Center
+    title: The Buhler twin screw extruder at the MISTA Innovation Center
+    caption: The Buhler twin screw extruder at the MISTA Innovation Center
 images:
   - cargill-nutrition-for-tomorrow-award.jpeg
   - the-buhler-twin-screw-extruder-at-the-mista-innovation-center.jpg
