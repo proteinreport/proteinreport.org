@@ -4,8 +4,9 @@ title: Leprino Foods and Fooditive Group Sign Exclusive Agreement to
 date: 2024-07-15 13:42:00
 lastmod: 2024-07-15 16:42:00
 slug: leprino-foods-fooditive-group-sign-exclusive-agreement-commercialize-non-animal-casein-worldwide
-company_name: Fooditive Group
-company_link: https://www.fooditivegroup.com/
+company: gAz7eZxWzXKlWQ6PdmV
+company_name: ""
+company_link: ""
 description: Leprino Foods Company, the world’s largest mozzarella cheese
   manufacturer, and Fooditive Group, pioneering plant-based ingredient
   innovators and leading fermentation specialists, announce a transformative
