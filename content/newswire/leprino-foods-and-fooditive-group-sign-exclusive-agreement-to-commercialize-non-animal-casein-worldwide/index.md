@@ -26,6 +26,8 @@ topics:
 regions:
   - Europe
   - US & Canada
+directory:
+  - gAz7eZxWzXKlWQ6PdmV
 featured_image: fooditive-non-animal-casein-1-image-credit-fooditive-group.jpg
 featured_image_caption: Leprino Foods will have exclusive worldwide rights to
   produce non-animal casein manufactured using Fooditive’s proprietary precision
