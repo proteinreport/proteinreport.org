@@ -48,4 +48,4 @@ The following areas will be discussed:
 * Analytic/Proteomic: Allergens, Characterization, Structure-Function Relationship
 * Sustainable Supply Chain Management: Waste Minimization, Sustainable Production, Digitalization
 
-You can expect contributions from renowned speakers: Daniel Kruse, President of the European Industrial Hemp Association (EIHA), Prof. Dr. Monika Pischetsrieder (University of ErlangenNuremberg), Prof. Dr. Christian Fikar (University of Bayreuth) and Elia Henrichs (University of Hohenheim).
+You can expect contributions from renowned speakers: Daniel Kruse, President of the European Industrial Hemp Association (EIHA), Prof. Dr. Monika Pischetsrieder (University of Erlangen-Nuremberg), Prof. Dr. Christian Fikar (University of Bayreuth) and Elia Henrichs (University of Hohenheim).
